@@ -1,0 +1,16 @@
+# Régénéré depuis Drive par .outils/maj.sh
+Cours/
+.transcriptions/A_FAIRE.tsv
+
+# État local d'Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+__pycache__/
+
+# Outillage local
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.mcp.json
