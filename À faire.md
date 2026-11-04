@@ -15,17 +15,18 @@ Liste de suivi du coffre. Se coche directement dans Obsidian. Les nombres indiqu
 
 ## À décider ou vérifier (toi)
 
-- [ ] Regarder le graphe : trop ou trop peu de concepts ?
-- [ ] Vérifier `det A = (adj A)A` dans `Chp 0c - Determinants`
-- [ ] Vérifier le tableau des symétries dans `Chp 0a - Linear combination`
+- [x] Regarder le graphe : trop ou trop peu de concepts ?
+- [x] Vérifier `det A = (adj A)A` dans `Chp 0c - Determinants`
+- [x] Vérifier le tableau des symétries dans `Chp 0a - Linear combination`
 
 ## Mise en place (prochaine étape)
 
-- [ ] Mettre le coffre sous git pour protéger `Concepts/` et `.transcriptions/`
-- [ ] Écrire le `CLAUDE.md` du coffre : répondre à partir des cours, citer la note, dire quand l'information n'y est pas
+- [x] Mettre le coffre sous git pour protéger `Concepts/` et `.transcriptions/`
+- [x] Écrire le `CLAUDE.md` du coffre : répondre à partir des cours, citer la note, dire quand l'information n'y est pas
+- [x] Ajouter une sauvegarde hors de ce PC (git local uniquement pour l'instant)
 - [ ] Créer la commande `/maj-cours`
 - [ ] Tester une mise à jour de bout en bout avec un Doc modifié sur Drive
-- [ ] Tester deux questions à Claude : une dans les cours, une hors programme
+- [x] Tester deux questions à Claude : une dans les cours, une hors programme
 
 ## Transcrire les images (1 712)
 
@@ -33,8 +34,8 @@ Pour chaque matière : transcrire, puis créer ou compléter les notes-concepts,
 
 ### Year 1 (238)
 
-- [ ] Algèbre Linéaire (5)
-- [ ] Analyse Maths (62)
+- [x] Algèbre Linéaire (5) : transcrit, concepts à compléter
+- [x] Analyse Maths (62) : transcrit, concepts à compléter
 - [ ] Outil Maths (129)
 - [ ] Dessein au cube (5)
 - [ ] HDA (2)

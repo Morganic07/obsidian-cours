@@ -59,6 +59,10 @@ class TestLier(unittest.TestCase):
             with self.subTest(texte):
                 self.assertEqual(lie(texte, ("form", [], [])), texte)
 
+    def test_bloc_de_code_dans_un_callout_protege(self):
+        texte = "> ```\n> $ form $1\n> ```"
+        self.assertEqual(lie(texte, ("form", [], [])), texte)
+
     def test_lien_dans_un_tableau_echappe_la_barre(self):
         self.assertEqual(
             lie("| une form | b |", ("Forme", ["form"], [])),
