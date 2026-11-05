@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-04 : 26 concepts, aucune page dans `Sources/`, `Matières/` ni `Synthèses/`. Les concepts ont été créés à partir de `Year 2/Bilinear Algebra` uniquement.
+État au 2026-11-05 : 32 concepts, 1 résumé, 1 matière, aucune synthèse. Les concepts ont été créés à partir de `Year 2/Bilinear Algebra` uniquement.
 
-## Concepts (26)
+## Concepts (32)
 
 ### Systèmes et vecteurs
 
@@ -44,19 +44,25 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Orthogonalité]] : $\mathbf{u} \cdot \mathbf{v} = 0$
 - [[Procédé de Gram-Schmidt]] : construit une base orthogonale à partir d'une base
 - [[Moindres carrés]] : meilleure solution approchée de $A\mathbf{x} = \mathbf{b}$
+- [[Norme]] : longueur d'un vecteur, déduite du produit scalaire
+- [[Complément orthogonal]] : $W^\perp$, les vecteurs orthogonaux à tout $W$
+- [[Famille orthogonale]] : vecteurs deux à deux orthogonaux, et familles orthonormales
+- [[Projection orthogonale]] : décomposition $\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$, et point de $W$ le plus proche de $\mathbf{y}$
+- [[Matrice orthogonale]] : matrice carrée à colonnes orthonormales, avec $U^{-1} = U^T$
+- [[Régression linéaire]] : droite qui minimise la somme des carrés des résidus
 
 ### Formes
 
 - [[Forme bilinéaire]] : fonction de deux vecteurs, linéaire en chacun
 - [[Forme quadratique]] : $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique
 
-## Résumés de sources (0)
+## Résumés de sources (1)
 
-Aucun pour l'instant.
+- [[chp 1 - Orthogonality (résumé)]] : produit scalaire, projection orthogonale, Gram-Schmidt, QR et moindres carrés, avec 5 points à vérifier dans le cours
 
-## Matières (0)
+## Matières (1)
 
-Aucune page pour l'instant.
+- [[Year 2 - Bilinear Algebra]] : 1 chapitre intégré sur 8
 
 ## Synthèses (0)
 
