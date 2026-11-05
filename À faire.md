@@ -42,6 +42,17 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [ ] Relire les 398 transcriptions marquées « À vérifier », dont 2 résumées à la main (`cp --help`, Critical Evaluation)
 - [ ] Vérifier sur 2 ou 3 dessins récupérés si la perte de leurs flèches et de leur disposition gêne (ils existent dans les Google Docs)
 
+## Reprise de l'intégration par lots (2026-11-05)
+
+- [x] Intégrer les notes des sept lots
+- [x] Fusionner : `index.md`, `log.md`, doublons de concepts
+- [x] Reconvertir et relire les nouveaux liens
+- [ ] Finir la lecture de `Entretien sur l'open source` (40 % lus) et `Global Exam Vocab` (échantillon)
+- [ ] Retirer de Drive le mot de passe et l'identifiant écrits en clair dans une note de la ligue de football, et changer le mot de passe s'il sert encore
+- [x] Renommer les résumés qui portaient un nom de personne
+- [x] Retirer les notes personnelles du coffre
+- [ ] Lancer les PDF
+
 ## Intégrer les sources au wiki
 
 Pour chaque matière : écrire les résumés dans `Sources/`, créer ou compléter les concepts, écrire la page dans `Matières/`, contrôler les faux liens, mettre à jour `index.md` et `log.md`.
@@ -50,12 +61,12 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 - [x] Year 2/Bilinear Algebra (8 notes)
 - [x] Year 1/Algèbre Linéaire (7 notes)
 - [x] Year 1/Analyse Maths (2 notes)
-- [ ] Autres matières de Year 1 (38 notes)
+- [x] Autres matières de Year 1 (38 notes)
 - [x] Year 2/Analyse dans Rn (4 notes)
 - [x] Year 2/Analyse (3 notes)
-- [ ] Autres matières de Year 2 (47 notes)
-- [ ] Year 3 (50 notes)
-- [ ] Year 4 (16 notes)
+- [x] Autres matières de Year 2 (47 notes)
+- [x] Year 3 (50 notes)
+- [x] Year 4 (16 notes)
 - [ ] Premier contrôle du wiki (lint)
 
 ## PDF et présentations

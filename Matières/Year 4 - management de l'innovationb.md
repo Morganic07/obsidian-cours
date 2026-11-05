@@ -1,0 +1,20 @@
+---
+type: matiere
+sources: ["[[Douze innovations (résumé)]]", "[[Analyse d'innovations (résumé)]]"]
+maj: 2026-11-05
+---
+
+Management de l'innovation en 4e année. Les deux notes sont des devoirs rendus, non des cours : le cadre théorique (typologie des innovations, management de la valeur) n'apparaît qu'à travers leur application.
+
+| Note | Contenu | Résumé |
+|---|---|---|
+| Douze innovations | Douze innovations classées en six types | [[Douze innovations (résumé)\|Résumé]] |
+| Analyse d'innovations | ArtCraft, Blender, Michelin avec la grille de valeur | [[Analyse d'innovations (résumé)\|Résumé]] |
+
+## Concepts
+
+[[Typologie des innovations]], [[Servitisation]], [[Grille du management de la valeur]]
+
+## Liens
+
+[[Year 4 - projet court]] ; [[Économie circulaire]] pour les modèles d'usage.

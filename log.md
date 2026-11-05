@@ -63,3 +63,11 @@ Un dossier de documents administratifs est retiré de `raw/`, de `Cours/` et de 
 ## [2026-11-05] ingest | Year 1/Analyse Maths et Year 2/Analyse
 
 5 notes intégrées. Créés : 5 résumés, 2 pages de matière et 5 concepts (Dérivabilité, Comparaison asymptotique, Développement limité, Intégrale, Primitive). 15 points à vérifier dans le cours. Deux mentions « À vérifier » de transcriptions sont de fausses alertes, signalées dans le résumé de chp5. 14 PDF de ces deux matières (réels, rappels, TD, contrôles, intégrales multiples) restent absents du wiki.
+
+## [2026-11-05] ingest | Toutes les autres matières, par lots
+
+151 notes intégrées en 7 lots parallèles : Probability, Statistics, Data analysis, data mining, IA, Outil Maths, Algo Maths, Séries, graph theory, Operating System, Algo, Java, C++, Data base, Computer Network, Philosophie, SHS, HDA, Communication orale, Anglais, écriture narrative, Culture du vivant, Corps à l'oeuvre, Dessein au cube, Peinture, Projets design, workshop, ligue football, management de l'innovation, projet court. Créés : 149 résumés, 35 pages de matière et 128 concepts. Les notes en double sont regroupées dans un seul résumé. Fusion : deux concepts écrits en même temps (Économie circulaire, Complexité algorithmique) sont réunis, et les variantes `process` et `top of mind` sont retirées car elles créaient de faux liens. Contrôle : 285 nouveaux liens échantillonnés par concept. La plupart des images n'ont pas été rouvertes dans ces lots. Deux notes ne sont lues qu'en partie : l'entretien de SHS en Year 4 et Global Exam Vocab.
+
+## [2026-11-05] import | Retrait de notes personnelles
+
+10 notes personnelles sont retirées de `raw/`, de `Cours/`, de `.transcriptions/` et du wiki, et exclues des prochaines mises à jour depuis Drive : un dossier de Dessein au cube, une fiche, les devoirs de Peinture et une note d'instructions. Six résumés sont renommés pour ne plus porter de nom de personne. Il reste 165 notes et 163 résumés.
