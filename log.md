@@ -39,3 +39,15 @@ Première intégration, pour valider le niveau de détail. Créés : 1 résumé,
 ## [2026-11-05] ingest | Fin de Year 2/Bilinear Algebra
 
 Niveau de détail validé sur le test. 7 notes intégrées, soit 8 sur 8 pour cette matière. Créés : 7 résumés et 6 concepts (Système linéaire, Espace engendré, Injectivité et surjectivité, Produit matriciel, Sous-espaces fondamentaux, Espace propre). Les 21 concepts restants de l'import d'origine sont complétés et ont désormais un en-tête complet. 16 nouveaux points à vérifier dans le cours, dont deux prioritaires : la définition de « negative definite » et l'usage de la forme échelonnée pour trouver les valeurs propres.
+
+## [2026-11-05] import | Dossier raw et dessins récupérés
+
+Le miroir de Drive passe dans `raw/`, exclu de git. La conversion ignorait les dessins groupés de Google Docs : 82 groupes dans 176 documents, soit 97 images et le texte de 45 encadrés absents des notes. Le script les remplace désormais par leurs images et une ligne « Texte du dessin ». La disposition et les flèches restent perdues. Les 97 images sont transcrites, ce qui porte le total à 1 978.
+
+## [2026-11-05] ingest | Year 1/Algèbre Linéaire
+
+7 notes intégrées. Créés : 7 résumés, 1 page de matière et 3 concepts (Morphisme, Changement de base, Somme directe). 18 concepts communs complétés, sans doublon. 18 points à vérifier dans le cours. Des formules manquent dans chp4, chp5 et chp6 : l'export de Google est vide à ces endroits, à vérifier dans les Google Docs.
+
+## [2026-11-05] ingest | Reprise de Bilinear Algebra après récupération des dessins
+
+26 images récupérées et les textes des dessins relus. Deux remarques du wiki étaient fausses et sont retirées : la formule de la décomposition spectrale figure bien dans le cours (image non importée jusqu'ici), et un dessin de chp4 corrige la borne de la somme de $c_{ij}$. Ajouts : $\mathbf{u} \cdot \mathbf{v} = \|\mathbf{u}\|\,\|\mathbf{v}\|\cos\theta$, $\text{proj}_W\,\mathbf{y} = UU^T\mathbf{y}$ et le développement colonnes-lignes.

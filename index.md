@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-05 : 38 concepts, 8 résumés, 1 matière, aucune synthèse. Seule `Year 2/Bilinear Algebra` est intégrée.
+État au 2026-11-05 : 41 concepts, 15 résumés, 2 matières, aucune synthèse. `Year 1/Algèbre Linéaire` et `Year 2/Bilinear Algebra` sont intégrées.
 
-## Concepts (38)
+## Concepts (41)
 
 ### Systèmes et vecteurs
 
@@ -15,6 +15,8 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Forme échelonnée]] : forme réduite d'une matrice, qui montre pivots et variables libres
 - [[Transformation linéaire]] : application qui respecte l'addition et la multiplication par un scalaire
 - [[Injectivité et surjectivité]] : au plus un ou au moins un antécédent
+- [[Morphisme]] : homomorphisme, endomorphisme, isomorphisme, automorphisme
+- [[Changement de base]] : matrice de passage et $A' = P^{-1}AP$
 
 ### Matrices
 
@@ -32,6 +34,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Espace des colonnes]] : Col $A$, les combinaisons linéaires des colonnes de $A$
 - [[Espace nul]] : Nul $A$, les solutions de $A\mathbf{x} = \mathbf{0}$
 - [[Sous-espaces fondamentaux]] : Col $A$, Row $A$, Nul $A$ et Nul $A^T$
+- [[Somme directe]] : sous-espaces supplémentaires, décomposition unique
 - [[Base (algèbre linéaire)]] : famille libre qui engendre un sous-espace
 - [[Dimension (algèbre linéaire)]] : nombre de vecteurs d'une base
 
@@ -62,9 +65,21 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Forme bilinéaire]] : fonction de deux vecteurs, linéaire en chacun
 - [[Forme quadratique]] : $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique
 
-## Résumés de sources (8)
+## Résumés de sources (15)
 
 Le nombre entre parenthèses est celui des points à vérifier dans le cours.
+
+### Year 1 - Algèbre Linéaire
+
+- [[Sources/Year 1/Algèbre Linéaire/chp1 (résumé)|chp1 (résumé)]] : espaces vectoriels, familles, bases (2)
+- [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2 (résumé)]] : applications linéaires, morphismes, rang (4)
+- [[Sources/Year 1/Algèbre Linéaire/chp3 (résumé)|chp3 (résumé)]] : pivot de Gauss, systèmes (3)
+- [[Sources/Year 1/Algèbre Linéaire/chp4 (résumé)|chp4 (résumé)]] : matrices, matrice d'une application (2)
+- [[Sources/Year 1/Algèbre Linéaire/chp5 (résumé)|chp5 (résumé)]] : changement de base, déterminant (2)
+- [[Sources/Year 1/Algèbre Linéaire/chp6 (résumé)|chp6 (résumé)]] : déterminant, caractérisation des bases (3)
+- [[Sources/Year 1/Algèbre Linéaire/chp7 (résumé)|chp7 (résumé)]] : éléments propres, somme directe (2)
+
+### Year 2 - Bilinear Algebra
 
 - [[Chp 0a - Linear combination (résumé)]] : systèmes, Span, indépendance, transformations (4)
 - [[Chp 0b - Matrix algebra (résumé)]] : produit, transposée, inverse (1)
@@ -72,11 +87,12 @@ Le nombre entre parenthèses est celui des points à vérifier dans le cours.
 - [[Chp 0d - Vector Space (résumé)]] : sous-espaces, base, dimension, rang (1)
 - [[Chp 0e - Eigenvalues and eigenvectors (résumé)]] : valeurs propres, diagonalisation (3)
 - [[chp 1 - Orthogonality (résumé)]] : projection orthogonale, Gram-Schmidt, QR et moindres carrés (5)
-- [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (6)
+- [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (1)
+## Matières (2)
 
+- [[Year 1 - Algèbre Linéaire]] : 7 notes intégrées sur 7, vocabulaire français et anglais, et ce qu'il faut revoir en priorité
 - [[Year 2 - Bilinear Algebra]] : 8 notes intégrées sur 8, et ce qu'il faut revoir en priorité
 
 ## Synthèses (0)

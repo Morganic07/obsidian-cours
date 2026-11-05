@@ -12,10 +12,13 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import zipfile
 from pathlib import Path
 
 ICI = Path(__file__).resolve().parent
-MIROIR_DEFAUT = Path.home() / ".cache" / "cours-obsidian" / "miroir"
+MIROIR_DEFAUT = ICI.parent / "raw"
+URI_IMAGE = "http://schemas.openxmlformats.org/drawingml/2006/picture"
+GROUPE_DESSIN = re.compile(r"<mc:AlternateContent\b.*?</mc:AlternateContent>", re.S)
 
 PROTEGE = (
     r"```.*?```|~~~.*?~~~"  # blocs de code
@@ -181,6 +184,75 @@ def notes_deplacees(coffre, miroir):
     return deplacees
 
 
+def runs_du_groupe(choix):
+    """Traduit un dessin Google en images simples, suivies de son texte."""
+    runs = []
+    for numero, pic in enumerate(re.findall(r"<pic:pic\b.*?</pic:pic>", choix, re.S)):
+        taille = re.search(r'<a:ext cx="(\d+)" cy="(\d+)"', pic)
+        cx, cy = taille.groups() if taille else ("5000000", "3000000")
+        runs.append(
+            f'<w:r><w:drawing><wp:inline distB="0" distT="0" distL="0" distR="0">'
+            f'<wp:extent cx="{cx}" cy="{cy}"/><wp:docPr id="{900000 + numero}" name=""/>'
+            f'<a:graphic><a:graphicData uri="{URI_IMAGE}">{pic}</a:graphicData></a:graphic>'
+            f"</wp:inline></w:drawing></w:r>"
+        )
+
+    morceaux = []
+    for boite in re.findall(r"<w:txbxContent>(.*?)</w:txbxContent>", choix, re.S):
+        for paragraphe in re.findall(r"<w:p\b.*?</w:p>", boite, re.S):
+            ecrits = [
+                r for r in re.findall(r"<w:r\b.*?</w:r>", paragraphe, re.S)
+                if re.search(r"<w:t\b[^>]*>\s*[^<\s]", r)
+            ]
+            if ecrits:
+                morceaux.append("".join(ecrits))
+    if morceaux:
+        runs.append("<w:r><w:br/></w:r>")
+        separateur = '<w:r><w:t xml:space="preserve"> ; </w:t></w:r>'
+        runs.append('<w:r><w:t xml:space="preserve">Texte du dessin : </w:t></w:r>')
+        runs.append(separateur.join(morceaux))
+    return "".join(runs)
+
+
+def aplatir_groupes(xml):
+    """Remplace les dessins groupés, que pandoc ignore, par leurs images et leur texte.
+
+    L'image de repli de ces groupes est une image vide : seul le contenu du groupe compte.
+    """
+    sortie, position = [], 0
+    for groupe in GROUPE_DESSIN.finditer(xml):
+        debut = max(xml.rfind("<w:r>", position, groupe.start()),
+                    xml.rfind("<w:r ", position, groupe.start()))
+        fin = xml.find("</w:r>", groupe.end())
+        if debut < 0 or fin < 0:
+            continue
+        choix = groupe[0].split("<mc:Fallback", 1)[0]
+        sortie += [xml[position:debut], runs_du_groupe(choix)]
+        position = fin + len("</w:r>")
+    sortie.append(xml[position:])
+    return "".join(sortie)
+
+
+def docx_pour_pandoc(source, dossier):
+    """Renvoie le chemin à donner à pandoc : une copie corrigée si le docx a des groupes."""
+    try:
+        entree = zipfile.ZipFile(source)
+    except zipfile.BadZipFile:
+        return source.resolve()  # pandoc signalera le fichier illisible
+    with entree:
+        xml = entree.read("word/document.xml").decode("utf-8")
+        if not GROUPE_DESSIN.search(xml):
+            return source.resolve()
+        copie = Path(dossier) / "source.docx"
+        with zipfile.ZipFile(copie, "w", zipfile.ZIP_DEFLATED) as sortie:
+            for element in entree.infolist():
+                if element.filename == "word/document.xml":
+                    sortie.writestr(element, aplatir_groupes(xml).encode("utf-8"))
+                else:
+                    sortie.writestr(element, entree.read(element.filename))
+    return copie
+
+
 def convertir_doc(source, relatif, coffre, concepts, textes):
     """Produit la note d'un .docx. Renvoie son chemin et ses empreintes d'images."""
     note = chemin_note(coffre, relatif)
@@ -189,7 +261,7 @@ def convertir_doc(source, relatif, coffre, concepts, textes):
 
     with tempfile.TemporaryDirectory() as tmp:
         subprocess.run(
-            ["pandoc", str(source.resolve()), "-f", "docx", "-t", "gfm+tex_math_dollars",
+            ["pandoc", str(docx_pour_pandoc(source, tmp)), "-f", "docx", "-t", "gfm+tex_math_dollars",
              "--wrap=none", f"--lua-filter={ICI / 'boites.lua'}",
              "--extract-media=m", "-o", "n.md"],
             cwd=tmp, check=True, capture_output=True, text=True,

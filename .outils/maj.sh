@@ -4,7 +4,7 @@
 set -euo pipefail
 
 ICI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-MIROIR="${XDG_CACHE_HOME:-$HOME/.cache}/cours-obsidian/miroir"
+MIROIR="$ICI/../raw"
 mkdir -p "$MIROIR"
 
 # --bind 0.0.0.0 force l'IPv4 : l'IPv6 ne joint pas les serveurs Google sur cette machine.

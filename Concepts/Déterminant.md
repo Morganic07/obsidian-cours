@@ -2,7 +2,7 @@
 type: concept
 aliases: [determinant, determinants, déterminants]
 matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0c - Determinants]]", "[[Chp 0b - Matrix algebra]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Chp 0c - Determinants]]", "[[Chp 0b - Matrix algebra]]", "[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]"]
 maj: 2026-11-05
 ---
 
@@ -15,10 +15,12 @@ Nombre associé à une matrice carrée : $ad - bc$ en taille 2, et $\det A = \su
 - **Règle de Cramer** : $x_i = \frac{\det A_i(\mathbf{b})}{\det A}$, efficace en tailles 2 et 3.
 - **Inverse** : $A^{-1} = \frac{1}{\det A} \text{adj } A$, où adj $A$ est la transposée de la matrice des cofacteurs.
 - **Linéarité** : à colonnes fixées sauf une, le déterminant est linéaire par rapport à cette colonne.
+- **Bases** : $n$ vecteurs forment une base si et seulement si le déterminant de leurs composantes est non nul. Il suffit donc de le calculer pour montrer qu'une famille est libre.
+- **Cas nuls** : deux lignes ou deux colonnes égales donnent 0.
 
 > [!warning] À vérifier
 > [[Chp 0c - Determinants]] écrit $\det A = (\text{adj } A)A$, qui égale un nombre à une matrice. On attendrait $(\det A)\,I = (\text{adj } A)A$.
 
-Liens : [[Matrice inversible]], [[Valeur propre]], [[Transposée]], [[Produit matriciel]]
+Liens : [[Matrice inversible]], [[Valeur propre]], [[Transposée]], [[Produit matriciel]], [[Base (algèbre linéaire)]], [[Indépendance linéaire]]
 
-Résumé : [[Chp 0c - Determinants (résumé)]]
+Résumés : [[Chp 0c - Determinants (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp5 (résumé)|chp5 (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp6 (résumé)|chp6 (résumé)]]

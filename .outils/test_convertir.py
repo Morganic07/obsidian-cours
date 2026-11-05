@@ -3,9 +3,27 @@ import re
 import subprocess
 import tempfile
 import unittest
+import zipfile
 from pathlib import Path
 
 import convertir
+
+DESSIN_GROUPE = (
+    '<w:p><w:r><w:rPr/><mc:AlternateContent><mc:Choice Requires="wpg"><w:drawing>'
+    '<wp:inline><wp:extent cx="100" cy="100"/><wp:docPr id="1" name=""/><a:graphic>'
+    '<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">'
+    '<wpg:wgp><pic:pic><pic:nvPicPr><pic:cNvPr id="2" name="Shape 2"/><pic:cNvPicPr/></pic:nvPicPr>'
+    '<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
+    '<pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="100" cy="100"/></a:xfrm>'
+    '<a:prstGeom prst="rect"/></pic:spPr></pic:pic>'
+    '<wps:wsp><wps:txbx><w:txbxContent><w:p><w:r><w:t>Annotation</w:t></w:r></w:p>'
+    '<w:p><w:r><w:t xml:space="preserve">   </w:t></w:r></w:p></w:txbxContent></wps:txbx></wps:wsp>'
+    '<wps:wsp><wps:txbx><w:txbxContent><w:p><w:r><w:t>Seconde boite</w:t></w:r>'
+    '<w:r><w:rPr><w:vertAlign w:val="superscript"/></w:rPr><w:t>2</w:t></w:r></w:p>'
+    '</w:txbxContent></wps:txbx></wps:wsp></wpg:wgp></a:graphicData></a:graphic></wp:inline>'
+    '</w:drawing></mc:Choice><mc:Fallback><w:p><w:r><w:t>repli</w:t></w:r></w:p></mc:Fallback>'
+    '</mc:AlternateContent></w:r></w:p>'
+)
 
 PNG = base64.b64decode(
     "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
@@ -205,6 +223,38 @@ class TestBoutEnBout(unittest.TestCase):
         image = re.search(r"!\[\[(Cours/Year 2/Algebre/medias/Chp 1 - Intro/[^\]]+\.png)\]\]", texte)
         self.assertIsNotNone(image)
         self.assertEqual((self.coffre / image[1]).read_bytes(), PNG)
+
+    def ajouter_dessin_groupe(self):
+        """Ajoute au docx un dessin construit comme ceux qu'exporte Google Docs."""
+        with zipfile.ZipFile(self.source) as z:
+            contenu = {n: z.read(n) for n in z.namelist()}
+        xml = contenu["word/document.xml"].decode("utf-8")
+        rid = re.search(r'r:embed="([^"]+)"', xml)[1]
+        for prefixe, uri in {
+            "mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+            "wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+            "wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+            "wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+            "a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+            "pic": "http://schemas.openxmlformats.org/drawingml/2006/picture",
+            "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        }.items():
+            if f"xmlns:{prefixe}=" not in xml:
+                xml = xml.replace("<w:document ", f'<w:document xmlns:{prefixe}="{uri}" ', 1)
+        dessin = DESSIN_GROUPE.format(rid=rid)
+        contenu["word/document.xml"] = xml.replace("<w:sectPr", f"{dessin}<w:sectPr", 1).encode("utf-8")
+        with zipfile.ZipFile(self.source, "w") as z:
+            for nom, octets in contenu.items():
+                z.writestr(nom, octets)
+
+    def test_dessin_groupe_garde_son_image_et_son_texte(self):
+        self.ajouter_dessin_groupe()
+        self.assertEqual(self.lancer(), 0)
+        texte = self.note.read_text(encoding="utf-8")
+        ligne = next(l for l in texte.splitlines() if "Texte du dessin" in l)
+        self.assertIn("Texte du dessin : Annotation ; Seconde boite<sup>2</sup>", ligne)
+        self.assertEqual(texte.count("![["), 2)
+        self.assertNotIn("repli", texte)
 
     def test_crochet_dans_le_texte_alternatif(self):
         (self.source.parent / "Alt.docx").unlink(missing_ok=True)

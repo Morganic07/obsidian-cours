@@ -12,12 +12,12 @@ Le chapitre part du [[Produit scalaire]] pour mesurer longueurs, distances et an
 
 ## Contenu, dans l'ordre du cours
 
-- **[[Produit scalaire]]** : $\mathbf{x} \cdot \mathbf{y} = x_1y_1 + \dots + x_ny_n = \mathbf{x}^T\mathbf{y}$. Un dot product est un inner product, mais la réciproque est fausse.
+- **[[Produit scalaire]]** : $\mathbf{x} \cdot \mathbf{y} = x_1y_1 + \dots + x_ny_n = \mathbf{x}^T\mathbf{y} = \|\mathbf{x}\|\,\|\mathbf{y}\|\cos\theta$. Un dot product est un inner product, mais la réciproque est fausse.
 - **[[Norme]] et distance** : $\|\mathbf{v}\| = \sqrt{\mathbf{v} \cdot \mathbf{v}}$, $\|c\mathbf{v}\| = |c|\,\|\mathbf{v}\|$ et $\text{dist}(\mathbf{u}, \mathbf{v}) = \|\mathbf{u} - \mathbf{v}\|$. Un vecteur de norme 1 est un unit vector.
 - **[[Orthogonalité]]** : $\mathbf{u} \cdot \mathbf{v} = 0$, équivalent à Pythagore (Theorem 2).
-- **[[Complément orthogonal]]** : $W^\perp$ est un sous-espace. Theorem 3 : $(\text{Row } A)^\perp = \text{Nul } A$ et $(\text{Col } A)^\perp = \text{Nul } A^T$.
+- **[[Complément orthogonal]]** : $W^\perp$ est un sous-espace. Theorem 3 : $(\text{Row } A)^\perp = \text{Nul } A$ et $(\text{Col } A)^\perp = \text{Nul } A^T$. Le cours l'illustre avec $A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$ : Nul $A$ est la droite de $(1, -2, 1)$, perpendiculaire au plan Row $A$, et Nul $A^T = \{\mathbf{0}\}$.
 - **[[Famille orthogonale]]** : des vecteurs non nuls deux à deux orthogonaux sont indépendants. Dans une base orthogonale, les coefficients se calculent directement : $c_j = \frac{\mathbf{y} \cdot \mathbf{u}_j}{\mathbf{u}_j \cdot \mathbf{u}_j}$. Une matrice $U$ a des colonnes orthonormales si et seulement si $U^TU = I$, et elle préserve alors longueurs et orthogonalité.
-- **[[Projection orthogonale]]** : $\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$, décomposition unique avec $\hat{\mathbf{y}}$ dans $W$ et $\mathbf{z}$ dans $W^\perp$. $\hat{\mathbf{y}}$ ne dépend que de $W$, et c'est le point de $W$ le plus proche de $\mathbf{y}$.
+- **[[Projection orthogonale]]** : $\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$, décomposition unique avec $\hat{\mathbf{y}}$ dans $W$ et $\mathbf{z}$ dans $W^\perp$. $\hat{\mathbf{y}}$ ne dépend que de $W$, et c'est le point de $W$ le plus proche de $\mathbf{y}$. Avec une base orthonormale, $\text{proj}_W\,\mathbf{y} = UU^T\mathbf{y}$.
 - **[[Matrice orthogonale]]** : carrée, à colonnes orthonormales, avec $U^{-1} = U^T$.
 - **[[Procédé de Gram-Schmidt]]** : une base devient une base orthogonale, en retirant à chaque vecteur ses projections sur les précédents.
 - **[[Factorisation QR]]** : Gram-Schmidt avec normalisation revient à écrire $A = QR$.

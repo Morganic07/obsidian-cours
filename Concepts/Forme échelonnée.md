@@ -1,7 +1,7 @@
 ---
 type: concept
-aliases: [echelon form, formes échelonnées, totalement échelonnée]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0e - Eigenvalues and eigenvectors]]"]
+aliases: [echelon form, formes échelonnées, totalement échelonnée, pivot de Gauss]
+sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]"]
 maj: 2026-11-05
 ---
 
@@ -9,10 +9,11 @@ Matrice dont les lignes de zéros sont en bas, et où chaque ligne non nulle a p
 
 - **Opérations élémentaires** : remplacer une ligne par sa somme avec un multiple d'une autre, échanger deux lignes, multiplier une ligne par une constante non nulle. Elles sont réversibles et conservent les solutions.
 - **Pivot** : premier terme non nul d'une ligne. Une colonne pivot en contient un. Une colonne sans pivot correspond à une variable libre.
+- **Pivot de Gauss** : la méthode qui amène un système à cette forme. On élimine les inconnues pour obtenir un système en cascade, puis on remonte pour trouver leurs valeurs.
 
 > [!warning] Attention
 > La forme échelonnée ne donne en général pas les [[Valeur propre|valeurs propres]]. Une note de [[Chp 0e - Eigenvalues and eigenvectors]] affirme le contraire, mais l'avertissement du même chapitre l'exclut.
 
 Liens : [[Système linéaire]], [[Rang d'une matrice]], [[Matrice inversible]]
 
-Résumé : [[Chp 0a - Linear combination (résumé)]]
+Résumés : [[Chp 0a - Linear combination (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp3 (résumé)|chp3 (résumé)]]

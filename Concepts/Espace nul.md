@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [null space, nullspace, null spaces, Nul A, kernel, noyau]
+aliases: [null space, nullspace, null spaces, Nul A, kernel, noyau, Ker]
 matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0d - Vector Space]]"]
+sources: ["[[Chp 0d - Vector Space]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]"]
 maj: 2026-11-05
 ---
 
@@ -15,4 +15,4 @@ Il est défini implicitement, par une condition : trouver ses vecteurs demande d
 
 Liens : [[Espace des colonnes]], [[Rang d'une matrice]], [[Transformation linéaire]], [[Sous-espaces fondamentaux]], [[Espace propre]], [[Injectivité et surjectivité]]
 
-Résumé : [[Chp 0d - Vector Space (résumé)]]
+Résumés : [[Chp 0d - Vector Space (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2 (résumé)]]

@@ -19,9 +19,11 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Vérifier `det A = (adj A)A` dans `Chp 0c - Determinants`
 - [x] Vérifier le tableau des symétries dans `Chp 0a - Linear combination`
 - [ ] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)
-- [ ] Vérifier les 16 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
-- [ ] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
-- [ ] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
+- [ ] Vérifier les 15 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
+- [ ] Vérifier les 18 points relevés dans les résumés d'`Algèbre Linéaire`, en commençant par ceux listés dans `Year 1 - Algèbre Linéaire`
+- [ ] Regarder dans les Google Docs si des formules manquent dans `chp4`, `chp5` et `chp6` d'Algèbre Linéaire (l'export est vide à ces endroits)
+- [x] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
+- [x] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
 
 ## Mise en place (prochaine étape)
 
@@ -34,8 +36,9 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 
 ## Transcrire les images
 
-- [x] Transcrire les 1 881 images des documents importés
-- [ ] Relire les 367 transcriptions marquées « À vérifier », dont 2 résumées à la main (`cp --help`, Critical Evaluation)
+- [x] Transcrire les 1 978 images des documents importés
+- [ ] Relire les 398 transcriptions marquées « À vérifier », dont 2 résumées à la main (`cp --help`, Critical Evaluation)
+- [ ] Vérifier sur 2 ou 3 dessins récupérés si la perte de leurs flèches et de leur disposition gêne (ils existent dans les Google Docs)
 - [ ] Décider si `Year 2/Administration` reste dans le coffre (documents personnels possibles)
 
 ## Intégrer les sources au wiki
@@ -44,7 +47,8 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 
 - [x] Test sur une note : `Year 2/Bilinear Algebra/chp 1 - Orthogonality`, puis valider le niveau de détail
 - [x] Year 2/Bilinear Algebra (8 notes)
-- [ ] Autres matières de Year 1 (47 notes)
+- [x] Year 1/Algèbre Linéaire (7 notes)
+- [ ] Autres matières de Year 1 (40 notes)
 - [ ] Autres matières de Year 2 (55 notes)
 - [ ] Year 3 (50 notes)
 - [ ] Year 4 (16 notes)
