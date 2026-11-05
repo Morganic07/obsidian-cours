@@ -18,7 +18,10 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Regarder le graphe : trop ou trop peu de concepts ?
 - [x] Vérifier `det A = (adj A)A` dans `Chp 0c - Determinants`
 - [x] Vérifier le tableau des symétries dans `Chp 0a - Linear combination`
-- [ ] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)`
+- [ ] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)
+- [ ] Vérifier les 16 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
+- [ ] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
+- [ ] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
 
 ## Mise en place (prochaine étape)
 
@@ -39,8 +42,8 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 
 Pour chaque matière : écrire les résumés dans `Sources/`, créer ou compléter les concepts, écrire la page dans `Matières/`, contrôler les faux liens, mettre à jour `index.md` et `log.md`.
 
-- [ ] Test sur une note : `Year 2/Bilinear Algebra/chp 1 - Orthogonality`, puis valider le niveau de détail
-- [ ] Year 2/Bilinear Algebra (8 notes)
+- [x] Test sur une note : `Year 2/Bilinear Algebra/chp 1 - Orthogonality`, puis valider le niveau de détail
+- [x] Year 2/Bilinear Algebra (8 notes)
 - [ ] Autres matières de Year 1 (47 notes)
 - [ ] Autres matières de Year 2 (55 notes)
 - [ ] Year 3 (50 notes)

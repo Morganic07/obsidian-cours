@@ -1,9 +1,19 @@
 ---
+type: concept
 aliases: [diagonalizable, diagonalization, orthogonally diagonalizable, diagonalisable]
+sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+maj: 2026-11-05
 ---
 
-$A$ est diagonalisable si $A = PDP^{-1}$ avec $D$ diagonale. C'est le cas si et seulement si $A$ a $n$ vecteurs propres linéairement indépendants, qui forment les colonnes de $P$.
+$A$ est diagonalisable si $A = PDP^{-1}$ avec $D$ diagonale. Cette écriture sert notamment à calculer $A^n = PD^nP^{-1}$.
 
-Liens : [[Vecteur propre]], [[Valeur propre]], [[Matrice symétrique]]
+- **Théorème** : $A$ est diagonalisable si et seulement si elle a $n$ vecteurs propres indépendants, qui forment alors les colonnes de $P$ et une base de vecteurs propres de $\mathbb{R}^n$. La diagonale de $D$ porte les valeurs propres correspondantes, dans le même ordre.
+- **Condition suffisante** : $n$ valeurs propres distinctes suffisent, mais ne sont pas nécessaires.
+- **Condition générale** : la somme des dimensions des [[Espace propre|espaces propres]] vaut $n$. Autrement dit, le polynôme caractéristique se factorise entièrement, et chaque espace propre a pour dimension la multiplicité de sa valeur propre.
+- **Orthogonalement diagonalisable** : $A = PDP^T$ avec $P$ orthogonale, ce qui équivaut à $A$ symétrique.
 
-Sources : [[Chp 0e - Eigenvalues and eigenvectors]], [[Chp2 - Symmetric matrices and quadratic forms]]
+Méthode : trouver les valeurs propres, puis les vecteurs propres, vérifier qu'il y en a $n$ indépendants, construire $P$ puis $D$ dans le même ordre, calculer $P^{-1}$ par $[P \mid I] \sim [I \mid P^{-1}]$, et vérifier.
+
+Liens : [[Vecteur propre]], [[Valeur propre]], [[Espace propre]], [[Matrice symétrique]], [[Décomposition en valeurs singulières]]
+
+Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]

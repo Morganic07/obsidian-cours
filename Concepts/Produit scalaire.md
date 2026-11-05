@@ -11,4 +11,4 @@ Propriétés dans $\mathbb{R}^n$ : symétrie, linéarité par rapport à chaque 
 
 Liens : [[Orthogonalité]], [[Norme]], [[Forme bilinéaire]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]

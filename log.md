@@ -35,3 +35,7 @@ Les 1 881 images des documents importés sont traitées : 3 fichiers vides, 367 
 ## [2026-11-05] ingest | chp 1 - Orthogonality (test)
 
 Première intégration, pour valider le niveau de détail. Créés : 1 résumé, 1 page de matière et 6 concepts (Norme, Complément orthogonal, Famille orthogonale, Projection orthogonale, Matrice orthogonale, Régression linéaire). Complétés : Moindres carrés, Orthogonalité, Produit scalaire, Procédé de Gram-Schmidt, Factorisation QR. 5 points à vérifier dans le cours, dont un écart entre le texte et la figure sur le projeté de $\mathbf{b}$.
+
+## [2026-11-05] ingest | Fin de Year 2/Bilinear Algebra
+
+Niveau de détail validé sur le test. 7 notes intégrées, soit 8 sur 8 pour cette matière. Créés : 7 résumés et 6 concepts (Système linéaire, Espace engendré, Injectivité et surjectivité, Produit matriciel, Sous-espaces fondamentaux, Espace propre). Les 21 concepts restants de l'import d'origine sont complétés et ont désormais un en-tête complet. 16 nouveaux points à vérifier dans le cours, dont deux prioritaires : la définition de « negative definite » et l'usage de la forme échelonnée pour trouver les valeurs propres.
