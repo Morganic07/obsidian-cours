@@ -24,6 +24,8 @@ Trois façons de comparer deux suites ou deux fonctions, au voisinage d'un point
 
 **Équivalents classiques en 0** : $e^x - 1$, $\ln(1 + x)$, $\sin x$, $\tan x$, $\arcsin x$, $\arctan x$, sh $x$, th $x$ sont tous $\sim x$. De plus, $(1 + x)^\alpha - 1 \sim \alpha x$ et $1 - \cos x \sim x^2/2$. Un polynôme équivaut à son terme de plus haut degré en $+\infty$, et à son terme de plus bas degré en 0.
 
-Liens : [[Développement limité]], [[Limite et continuité]], [[Dérivabilité]]
+En algorithmique, le $O$ sert à exprimer la complexité : voir [[Complexité algorithmique]].
 
-Résumé : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]]
+Liens : [[Développement limité]], [[Limite et continuité]], [[Dérivabilité]], [[Complexité algorithmique]]
+
+Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]]

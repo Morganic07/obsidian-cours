@@ -1,0 +1,15 @@
+---
+type: concept
+aliases: [Simpson's paradox, Simpson paradox, facteur de confusion, confounding factor, variable cachée]
+matieres: [Data analysis (Thanos)]
+sources: ["[[Cours 3 - Paradoxe de Simpson]]"]
+maj: 2026-11-05
+---
+
+Une tendance observée sur les données globales s'inverse quand on sépare les données en sous-groupes. Elle vient d'une **variable cachée** (facteur de confusion) qui influence les résultats et répartit inégalement les cas entre les groupes.
+
+**Exemple du cours** : un traitement de tumeurs. Au total, les médicaments réussissent à 76 % et la chirurgie à 66 %. Mais selon la taille de la tumeur, la chirurgie fait mieux dans les deux catégories (63 % contre 49 % pour les grosses, 90 % contre 82 % pour les petites). La chirurgie reçoit surtout les grosses tumeurs, plus difficiles : la variable cachée est la gravité.
+
+**Conduite à tenir** : ne pas se fier à une moyenne globale sans regarder les sous-groupes, stratifier et visualiser par couleur, et utiliser une régression multivariée qui ajuste sur les variables cachées (voir [[Régression linéaire]]).
+
+Résumé : [[Cours 3 - Paradoxe de Simpson (résumé)]]

@@ -15,6 +15,6 @@ Scalaire $\lambda$ tel que $A\mathbf{x} = \lambda\mathbf{x}$ a une solution non 
 > [!warning] Écart dans le cours
 > La réduction par lignes ne donne pas les valeurs propres : une forme échelonnée ne les montre généralement pas. Une note de [[Chp 0e - Eigenvalues and eigenvectors]] dit le contraire, mais l'avertissement du même chapitre l'exclut.
 
-Liens : [[Vecteur propre]], [[Espace propre]], [[Diagonalisation]], [[Déterminant]], [[Matrice inversible]], [[Forme quadratique]]
+Liens : [[Vecteur propre]], [[Espace propre]], [[Diagonalisation]], [[Déterminant]], [[Matrice inversible]], [[Forme quadratique]], [[Analyse en composantes principales]] (application en statistique)
 
 Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp7 (résumé)|chp7 (résumé)]]

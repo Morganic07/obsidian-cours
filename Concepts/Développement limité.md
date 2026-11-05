@@ -29,4 +29,7 @@ $f$ admet un DL d'ordre $n$ en $a$ si $f(x) = a_0 + a_1(x - a) + \dots + a_n(x -
 
 Liens : [[Comparaison asymptotique]], [[Dérivabilité]], [[Fonction de classe Ck]], [[Différentielle]]
 
-Résumé : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]]
+> [!warning] Écart dans le cours
+> [[Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
+
+Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]]

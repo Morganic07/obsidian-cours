@@ -14,4 +14,4 @@ Les solutions sont celles des équations normales $A^TA\mathbf{x} = A^T\mathbf{b
 
 Liens : [[Orthogonalité]], [[Espace des colonnes]], [[Régression linéaire]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Cours 10 - linear regression (résumé)]] (méthode par dérivées partielles)

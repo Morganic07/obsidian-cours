@@ -9,8 +9,8 @@ Trouver la droite $y = \beta_0 + \beta_1x$ la plus proche de points $(x_j, y_j)$
 
 En algèbre linéaire, le problème s'écrit $X\boldsymbol{\beta} = \mathbf{y}$, avec $X$ la design matrix, $\boldsymbol{\beta}$ le parameter vector et $\mathbf{y}$ l'observation vector. C'est un problème de [[Moindres carrés]] avec d'autres notations.
 
-Le point de vue statistique reste à intégrer depuis [[Cours 10 - linear regression]] et [[Cours 11 - Multiple Linear Regression and F-statistic]].
+**En statistique** : le modèle $y = \beta_0 + \beta_1x + \varepsilon$ suppose une erreur de moyenne nulle, de variance constante, normale et indépendante, ce qui se vérifie sur les résidus. Le test de la pente porte sur $H_0 : \beta_1 = 0$, avec $n - 2$ degrés de liberté. $R^2$ est la part de variation expliquée, avec $SST = SSR + SSE$.
 
-Liens : [[Moindres carrés]], [[Projection orthogonale]]
+Liens : [[Moindres carrés]], [[Projection orthogonale]], [[Statistique F]], [[Intervalle de prédiction]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Cours 10 - linear regression (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
