@@ -4,8 +4,9 @@
 local SAUT = pandoc.RawInline("html", "<br>")
 
 -- Sans attributs de taille, pandoc écrit ![](...) au lieu d'une balise <img>.
+-- Le texte alternatif est retiré : il peut contenir des crochets, et Obsidian n'en a pas besoin.
 function Image(img)
-  return pandoc.Image(img.caption, img.src)
+  return pandoc.Image({}, img.src)
 end
 
 local function lignes(t)

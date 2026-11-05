@@ -206,6 +206,17 @@ class TestBoutEnBout(unittest.TestCase):
         self.assertIsNotNone(image)
         self.assertEqual((self.coffre / image[1]).read_bytes(), PNG)
 
+    def test_crochet_dans_le_texte_alternatif(self):
+        (self.source.parent / "Alt.docx").unlink(missing_ok=True)
+        fabrique = self.coffre.parent / "fabrique"
+        (fabrique / "alt.md").write_text("![a\\]b](pixel.png)\n", encoding="utf-8")
+        cible = self.source.parent / "Alt.docx"
+        subprocess.run(["pandoc", "alt.md", "-o", str(cible)], cwd=fabrique, check=True)
+        self.lancer()
+        texte = (self.note.parent / "Alt.md").read_text(encoding="utf-8")
+        self.assertNotIn("m/media/", texte)
+        self.assertRegex(texte, r"!\[\[Cours/Year 2/Algebre/medias/Alt/[^\]]+\.png\]\]")
+
     def test_relancer_ne_change_rien(self):
         self.lancer()
         avant = self.note.read_bytes()

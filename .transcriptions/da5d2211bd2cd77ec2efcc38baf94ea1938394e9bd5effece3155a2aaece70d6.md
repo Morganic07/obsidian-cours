@@ -1,0 +1,3 @@
+- To study the pointwise convergence of a series of functions, we fix $x$ and then we have a numerical series for which we can apply all the methods and tools we saw in the chapter on numerical series.
+- The partial sums are sequences of functions. This implies that we will also study different types of convergence and switching theorem.
+- The methods used in this chapter therefore use the definitions, properties, and theorems from the two previous chapters.
