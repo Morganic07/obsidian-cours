@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-05 : 41 concepts, 15 résumés, 2 matières, aucune synthèse. `Year 1/Algèbre Linéaire` et `Year 2/Bilinear Algebra` sont intégrées.
+État au 2026-11-05 : 53 concepts, 19 résumés, 3 matières, aucune synthèse. `Year 1/Algèbre Linéaire`, `Year 2/Bilinear Algebra` et `Year 2/Analyse dans Rn` sont intégrées.
 
-## Concepts (41)
+## Concepts (53)
 
 ### Systèmes et vecteurs
 
@@ -53,19 +53,37 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Orthogonalité]] : $\mathbf{u} \cdot \mathbf{v} = 0$
 - [[Procédé de Gram-Schmidt]] : construit une base orthogonale à partir d'une base
 - [[Moindres carrés]] : meilleure solution approchée de $A\mathbf{x} = \mathbf{b}$
-- [[Norme]] : longueur d'un vecteur, déduite du produit scalaire
+- [[Norme]] : taille d'un vecteur, normes $\|\cdot\|_1$, $\|\cdot\|_2$, $\|\cdot\|_\infty$, et distance associée
 - [[Complément orthogonal]] : $W^\perp$, les vecteurs orthogonaux à tout $W$
 - [[Famille orthogonale]] : vecteurs deux à deux orthogonaux, et familles orthonormales
 - [[Projection orthogonale]] : décomposition $\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$, et point de $W$ le plus proche de $\mathbf{y}$
 - [[Matrice orthogonale]] : matrice carrée à colonnes orthonormales, avec $U^{-1} = U^T$
 - [[Régression linéaire]] : droite qui minimise la somme des carrés des résidus
 
+### Topologie et limites
+
+- [[Boule et voisinage]] : boules ouvertes et fermées, et parties qui contiennent une boule autour d'un point
+- [[Ouvert et fermé]] : parties voisinage de leurs points, et leurs complémentaires
+- [[Intérieur et adhérence]] : plus grand ouvert contenu, plus petit fermé contenant, frontière
+- [[Limite et continuité]] : définition en $\epsilon$ et $\eta$, et méthode en deux variables
+- [[Application lipschitzienne]] : variation majorée par $k\|x - y\|$, et continuité uniforme
+
+### Calcul différentiel
+
+- [[Dérivée partielle]] : dérivée selon une variable, dérivation en chaîne et théorème de Schwarz
+- [[Différentielle]] : approximation linéaire de $f$ en un point
+- [[Fonction de classe Ck]] : dérivées partielles continues jusqu'à l'ordre $k$
+- [[Matrice jacobienne]] : matrice de la différentielle, et jacobien
+- [[Gradient]] : vecteur des dérivées partielles, direction de plus grande pente
+- [[Équation aux dérivées partielles]] : solutions connues et résolution des systèmes
+- [[Difféomorphisme]] : bijection $\mathcal{C}^1$ de réciproque $\mathcal{C}^1$, changements de variables et polaires
+
 ### Formes
 
 - [[Forme bilinéaire]] : fonction de deux vecteurs, linéaire en chacun
 - [[Forme quadratique]] : $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique
 
-## Résumés de sources (15)
+## Résumés de sources (19)
 
 Le nombre entre parenthèses est celui des points à vérifier dans le cours.
 
@@ -79,6 +97,13 @@ Le nombre entre parenthèses est celui des points à vérifier dans le cours.
 - [[Sources/Year 1/Algèbre Linéaire/chp6 (résumé)|chp6 (résumé)]] : déterminant, caractérisation des bases (3)
 - [[Sources/Year 1/Algèbre Linéaire/chp7 (résumé)|chp7 (résumé)]] : éléments propres, somme directe (2)
 
+### Year 2 - Analyse dans Rn
+
+- [[Chp 2 - éléments de topologie dans Rn (résumé)]] : normes, boules, ouverts, intérieur et adhérence (5)
+- [[Chp 3 - Limite et continuité d’applications (résumé)]] : limites, continuité, applications lipschitziennes (5)
+- [[Chp 4 - Calcul différentiel du premier ordre (résumé)]] : différentielle, gradient, EDP d'ordre 1, difféomorphismes (6)
+- [[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)]] : classe $\mathcal{C}^k$, Schwarz, systèmes et EDP d'ordre 2 (3)
+
 ### Year 2 - Bilinear Algebra
 
 - [[Chp 0a - Linear combination (résumé)]] : systèmes, Span, indépendance, transformations (4)
@@ -90,8 +115,9 @@ Le nombre entre parenthèses est celui des points à vérifier dans le cours.
 - [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (2)
+## Matières (3)
 
+- [[Year 2 - Analyse dans Rn]] : 4 notes intégrées sur 4, et ce qu'il faut revoir en priorité
 - [[Year 1 - Algèbre Linéaire]] : 7 notes intégrées sur 7, vocabulaire français et anglais, et ce qu'il faut revoir en priorité
 - [[Year 2 - Bilinear Algebra]] : 8 notes intégrées sur 8, et ce qu'il faut revoir en priorité
 
@@ -101,7 +127,7 @@ Aucune pour l'instant.
 
 ## Sources disponibles
 
-Notes présentes dans `Cours/` (176), par matière. Le nombre entre parenthèses est le nombre de notes.
+Notes présentes dans `Cours/` (175), par matière. Le nombre entre parenthèses est le nombre de notes.
 
 ### Year 1
 
@@ -109,7 +135,7 @@ Algo Maths (3), Algèbre Linéaire (7), Analyse Maths (2), Communication orale (
 
 ### Year 2
 
-Administration (1), Algo (5), Analyse (3), Analyse dans Rn (4), Anglais (3), Bilinear Algebra (8), Corps à l'oeuvre (1), Operating System (21), Philosophie (5), Probability (7), Projet Design (4), écriture narrative (1)
+Algo (5), Analyse (3), Analyse dans Rn (4), Anglais (3), Bilinear Algebra (8), Corps à l'oeuvre (1), Operating System (21), Philosophie (5), Probability (7), Projet Design (4), écriture narrative (1)
 
 ### Year 3
 

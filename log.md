@@ -51,3 +51,11 @@ Le miroir de Drive passe dans `raw/`, exclu de git. La conversion ignorait les d
 ## [2026-11-05] ingest | Reprise de Bilinear Algebra après récupération des dessins
 
 26 images récupérées et les textes des dessins relus. Deux remarques du wiki étaient fausses et sont retirées : la formule de la décomposition spectrale figure bien dans le cours (image non importée jusqu'ici), et un dessin de chp4 corrige la borne de la somme de $c_{ij}$. Ajouts : $\mathbf{u} \cdot \mathbf{v} = \|\mathbf{u}\|\,\|\mathbf{v}\|\cos\theta$, $\text{proj}_W\,\mathbf{y} = UU^T\mathbf{y}$ et le développement colonnes-lignes.
+
+## [2026-11-05] import | Retrait d'un dossier administratif
+
+Un dossier de documents administratifs est retiré de `raw/`, de `Cours/` et de `.transcriptions/`, et exclu des prochaines mises à jour depuis Drive. Il reste 175 notes, 53 PDF et 1 976 transcriptions.
+
+## [2026-11-05] ingest | Year 2/Analyse dans Rn
+
+4 notes intégrées. Créés : 4 résumés, 1 page de matière et 12 concepts, de Boule et voisinage à Difféomorphisme. Norme complétée. 19 points à vérifier dans le cours, dont cinq prioritaires, notamment « lipschitzien ⇔ uniformément continue » et le test en coordonnées polaires, qui ne suffit pas à prouver une limite.

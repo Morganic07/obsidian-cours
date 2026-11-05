@@ -21,6 +21,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [ ] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)
 - [ ] Vérifier les 15 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
 - [ ] Vérifier les 18 points relevés dans les résumés d'`Algèbre Linéaire`, en commençant par ceux listés dans `Year 1 - Algèbre Linéaire`
+- [ ] Vérifier les 19 points relevés dans les résumés d'`Analyse dans Rn`, en commençant par ceux listés dans `Year 2 - Analyse dans Rn`
 - [ ] Regarder dans les Google Docs si des formules manquent dans `chp4`, `chp5` et `chp6` d'Algèbre Linéaire (l'export est vide à ces endroits)
 - [x] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
 - [x] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
@@ -36,10 +37,9 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 
 ## Transcrire les images
 
-- [x] Transcrire les 1 978 images des documents importés
+- [x] Transcrire les 1 976 images des documents importés
 - [ ] Relire les 398 transcriptions marquées « À vérifier », dont 2 résumées à la main (`cp --help`, Critical Evaluation)
 - [ ] Vérifier sur 2 ou 3 dessins récupérés si la perte de leurs flèches et de leur disposition gêne (ils existent dans les Google Docs)
-- [ ] Décider si `Year 2/Administration` reste dans le coffre (documents personnels possibles)
 
 ## Intégrer les sources au wiki
 
@@ -49,7 +49,8 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 - [x] Year 2/Bilinear Algebra (8 notes)
 - [x] Year 1/Algèbre Linéaire (7 notes)
 - [ ] Autres matières de Year 1 (40 notes)
-- [ ] Autres matières de Year 2 (55 notes)
+- [x] Year 2/Analyse dans Rn (4 notes)
+- [ ] Autres matières de Year 2 (50 notes)
 - [ ] Year 3 (50 notes)
 - [ ] Year 4 (16 notes)
 - [ ] Premier contrôle du wiki (lint)
@@ -57,9 +58,9 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 ## PDF et présentations
 
 - [ ] Choisir et tester un convertisseur (licence et résultat réel)
-- [ ] Convertir les 61 PDF
+- [ ] Convertir les 53 PDF
 - [ ] Convertir les 6 PPTX
-- [ ] Expliquer l'écart entre les 64 PDF repérés au départ et les 61 téléchargés
+- [ ] Expliquer l'écart entre les PDF repérés au départ et ceux téléchargés (3 de moins)
 - [ ] Transcrire les images qu'ils contiennent
 
 ## Corrections

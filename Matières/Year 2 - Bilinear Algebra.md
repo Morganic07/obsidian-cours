@@ -44,5 +44,5 @@ Trois passages de tes notes semblent faux et touchent à des points de cours imp
 Repérés dans les cours, à approfondir quand ces matières seront intégrées :
 
 - **Year 3, Data analysis** : [[Cours 10 - linear regression]] et [[Cours 11 - Multiple Linear Regression and F-statistic]] reprennent la [[Régression linéaire]] et les [[Moindres carrés]]. Une figure de [[Cours 13 - Principal Components Analysis]] projette orthogonalement un point sur une composante.
-- **Year 2, Analyse dans Rn** : [[Chp 2 - éléments de topologie dans Rn]] définit la [[Norme]] en général, alors que ce cours utilise celle qui vient du produit scalaire.
+- **Year 2, [[Year 2 - Analyse dans Rn]]** : [[Chp 2 - éléments de topologie dans Rn]] définit la [[Norme]] en général, alors que ce cours utilise celle qui vient du produit scalaire. La [[Matrice jacobienne]] y représente une [[Transformation linéaire]], et le [[Gradient]] s'y lit par un [[Produit scalaire]].
 - **Year 1, [[Year 1 - Algèbre Linéaire]]** : mêmes notions en français, centrées sur les applications linéaires. La plupart des concepts sont communs aux deux matières.
