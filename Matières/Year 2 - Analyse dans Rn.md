@@ -33,4 +33,4 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 
 - **[[Year 2 - Bilinear Algebra]]** : la [[Norme]] euclidienne est celle qui vient du [[Produit scalaire]]. La [[Différentielle]] est une [[Transformation linéaire]], la [[Matrice jacobienne]] est sa matrice, et le jacobien est un [[Déterminant]].
 - **[[Year 1 - Algèbre Linéaire]]** : la [[Matrice jacobienne]] applique la matrice d'une application linéaire dans les bases canoniques.
-- **Year 1, Analyse Maths et Year 2, Analyse** : mêmes notions en une variable (voisinage, limite, continuité, lipschitz), à relier lors de leur intégration.
+- **[[Year 1 - Analyse Maths]] et [[Year 2 - Analyse]]** : les mêmes notions en une variable. La [[Différentielle]] généralise la [[Dérivabilité]], et le [[Gradient]] donne la version à plusieurs variables des accroissements finis.

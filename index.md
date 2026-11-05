@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-05 : 53 concepts, 19 résumés, 3 matières, aucune synthèse. `Year 1/Algèbre Linéaire`, `Year 2/Bilinear Algebra` et `Year 2/Analyse dans Rn` sont intégrées.
+État au 2026-11-05 : 58 concepts, 24 résumés, 5 matières, aucune synthèse. `Year 1/Algèbre Linéaire`, `Year 1/Analyse Maths`, `Year 2/Bilinear Algebra`, `Year 2/Analyse dans Rn` et `Year 2/Analyse` sont intégrées, sans leurs PDF.
 
-## Concepts (53)
+## Concepts (58)
 
 ### Systèmes et vecteurs
 
@@ -68,6 +68,14 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Limite et continuité]] : définition en $\epsilon$ et $\eta$, et méthode en deux variables
 - [[Application lipschitzienne]] : variation majorée par $k\|x - y\|$, et continuité uniforme
 
+### Analyse d'une variable
+
+- [[Dérivabilité]] : dérivée, opérations, Rolle, accroissements finis et règle de l'Hôpital
+- [[Comparaison asymptotique]] : grand O, petit o, équivalents et croissances comparées
+- [[Développement limité]] : Taylor-Young, opérations et DL usuels
+- [[Intégrale]] : construction, propriétés, sommes de Riemann et trapèzes
+- [[Primitive]] : théorème fondamental, parties, changement de variable, Bioche
+
 ### Calcul différentiel
 
 - [[Dérivée partielle]] : dérivée selon une variable, dérivation en chaîne et théorème de Schwarz
@@ -83,9 +91,20 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Forme bilinéaire]] : fonction de deux vecteurs, linéaire en chacun
 - [[Forme quadratique]] : $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique
 
-## Résumés de sources (19)
+## Résumés de sources (24)
 
 Le nombre entre parenthèses est celui des points à vérifier dans le cours.
+
+### Year 1 - Analyse Maths
+
+- [[Chp4 - dérivabilité (résumé)]] : dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis (4)
+- [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé, Analyse)]] : équivalents et développements limités (4)
+
+### Year 2 - Analyse
+
+- [[Chap7-Integration (résumé)]] : le cours d'intégration (2)
+- [[démonstrations - integration (résumé)]] : les preuves du cours (5)
+- [[Intégration UTILITAIRE (résumé)]] : fiche pratique (0)
 
 ### Year 1 - Algèbre Linéaire
 
@@ -115,8 +134,10 @@ Le nombre entre parenthèses est celui des points à vérifier dans le cours.
 - [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (3)
+## Matières (5)
 
+- [[Year 1 - Analyse Maths]] : 2 notes sur 2, une grande partie reste en PDF
+- [[Year 2 - Analyse]] : 3 notes sur 3 pour le chapitre 7, le reste est en PDF
 - [[Year 2 - Analyse dans Rn]] : 4 notes intégrées sur 4, et ce qu'il faut revoir en priorité
 - [[Year 1 - Algèbre Linéaire]] : 7 notes intégrées sur 7, vocabulaire français et anglais, et ce qu'il faut revoir en priorité
 - [[Year 2 - Bilinear Algebra]] : 8 notes intégrées sur 8, et ce qu'il faut revoir en priorité

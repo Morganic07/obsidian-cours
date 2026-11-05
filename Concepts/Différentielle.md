@@ -19,6 +19,6 @@ C'est le développement limité à l'ordre 1. $l$ est unique : c'est la différe
 > [!warning] Écart dans le cours
 > [[Chp 4 - Calcul différentiel du premier ordre]] dit qu'une fonction seulement différentiable a des dérivées « définies mais pas continues ». Il faut lire « pas forcément continues » (complément).
 
-Liens : [[Dérivée partielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]], [[Limite et continuité]]
+Liens : [[Dérivée partielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]], [[Limite et continuité]], [[Développement limité]], [[Dérivabilité]]
 
 Résumé : [[Chp 4 - Calcul différentiel du premier ordre (résumé)]]

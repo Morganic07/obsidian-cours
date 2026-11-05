@@ -22,6 +22,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [ ] Vérifier les 15 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
 - [ ] Vérifier les 18 points relevés dans les résumés d'`Algèbre Linéaire`, en commençant par ceux listés dans `Year 1 - Algèbre Linéaire`
 - [ ] Vérifier les 19 points relevés dans les résumés d'`Analyse dans Rn`, en commençant par ceux listés dans `Year 2 - Analyse dans Rn`
+- [ ] Vérifier les 15 points relevés dans les résumés d'`Analyse Maths` et d'`Analyse`, en commençant par ceux listés dans `Year 1 - Analyse Maths`
 - [ ] Regarder dans les Google Docs si des formules manquent dans `chp4`, `chp5` et `chp6` d'Algèbre Linéaire (l'export est vide à ces endroits)
 - [x] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
 - [x] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
@@ -48,9 +49,11 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 - [x] Test sur une note : `Year 2/Bilinear Algebra/chp 1 - Orthogonality`, puis valider le niveau de détail
 - [x] Year 2/Bilinear Algebra (8 notes)
 - [x] Year 1/Algèbre Linéaire (7 notes)
-- [ ] Autres matières de Year 1 (40 notes)
+- [x] Year 1/Analyse Maths (2 notes)
+- [ ] Autres matières de Year 1 (38 notes)
 - [x] Year 2/Analyse dans Rn (4 notes)
-- [ ] Autres matières de Year 2 (50 notes)
+- [x] Year 2/Analyse (3 notes)
+- [ ] Autres matières de Year 2 (47 notes)
 - [ ] Year 3 (50 notes)
 - [ ] Year 4 (16 notes)
 - [ ] Premier contrôle du wiki (lint)

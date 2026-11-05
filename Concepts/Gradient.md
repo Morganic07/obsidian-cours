@@ -12,6 +12,8 @@ Pour $f : U \subset \mathbb{R}^p \to \mathbb{R}$ différentiable en $a$, $\vec{\
 
 **Accroissements finis** : si $\|\vec{\nabla}_xf\|_1 \le M$ sur le segment $[a, b]$, alors $|f(b) - f(a)| \le M\|b - a\|_1$. Sur un ouvert convexe (qui contient chaque segment entre deux de ses points), $f$ est constante si et seulement si son gradient est nul.
 
-Liens : [[Dérivée partielle]], [[Différentielle]], [[Matrice jacobienne]], [[Produit scalaire]], [[Application lipschitzienne]]
+C'est la version à plusieurs variables de l'inégalité des accroissements finis de [[Dérivabilité]].
+
+Liens : [[Dérivée partielle]], [[Différentielle]], [[Matrice jacobienne]], [[Produit scalaire]], [[Application lipschitzienne]], [[Dérivabilité]]
 
 Résumé : [[Chp 4 - Calcul différentiel du premier ordre (résumé)]]
