@@ -10,4 +10,4 @@ Selon [[Culture du vivant Dernier cours]], les achats du quotidien ont un coût 
 
 Voir aussi : [[Valeur socio-écologique]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

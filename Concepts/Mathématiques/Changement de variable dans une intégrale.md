@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: ["changement de variables x = φ(t)", intégration par changement de variable]
 matieres: [Analyse]
-sources: ["[[Chap7-Integration]]", "[[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]]"]
+sources: ["[[Chap7-Integration]]", ".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
 maj: 2026-11-06
 ---
 

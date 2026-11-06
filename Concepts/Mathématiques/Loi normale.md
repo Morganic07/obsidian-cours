@@ -15,7 +15,7 @@ $X \sim N(\mu, \sigma)$ de densité $\dfrac{1}{\sigma\sqrt{2\pi}}e^{-(x-\mu)^2/(
 
 **Log-normale** : $X$ est log-normale si $\ln X$ est normale ($\mu$, $\sigma$ sont ceux de $\ln X$). $E(X) = e^{\mu + \sigma^2/2}$, $V(X) = e^{2\mu + \sigma^2}(e^{\sigma^2} - 1)$, $F(x) = \Phi\!\left(\frac{\ln x - \mu}{\sigma}\right)$ ([[Fonction de répartition]]).
 
-**Quantiles usuels** ([[Quantile]]) : $z_{\alpha/2} = 1{,}645$ à 90 %, $1{,}96$ à 95 %, $2{,}58$ à 99 % ([[Chp4 Part2 - Inferential statistics (résumé)]], [[Cours 4 - Estimation (résumé)]]).
+**Quantiles usuels** ([[Quantile]]) : $z_{\alpha/2} = 1{,}645$ à 90 %, $1{,}96$ à 95 %, $2{,}58$ à 99 % ([[Chp4 Part2 - Inferential statistics (résumé)]], [[Séance 4 - Estimation (résumé)]]).
 
 Le [[Théorème central limite]] explique son rôle ; voir aussi [[Approximation normale]]. Pour tester la normalité d'un échantillon, voir [[Diagramme de probabilité]].
 
@@ -26,4 +26,4 @@ Notion parente : [[Variable aléatoire]]. Liens : [[Espérance et variance]]
 - [[Chp 5 - Continuous random variable]] emploie deux notations dans le même chapitre : $N(\mu, \sigma)$ et $\mathcal{N}(\mu, \sigma^2)$.
 - [[Chp3 - More on probability]] affirme sans preuve qu'une combinaison linéaire de normales indépendantes est normale.
 
-Résumés : [[Chp 5 - Continuous random variable (résumé)]], [[Chp3 - More on probability (résumé)]], [[Chp4 Part2 - Inferential statistics (résumé)]], [[Cours 4 - Estimation (résumé)]]
+Résumés : [[Chp 5 - Continuous random variable (résumé)]], [[Chp3 - More on probability (résumé)]], [[Chp4 Part2 - Inferential statistics (résumé)]], [[Séance 4 - Estimation (résumé)]]

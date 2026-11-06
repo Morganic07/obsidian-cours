@@ -18,4 +18,4 @@ Notion parente : [[Théorème central limite]]. Voir aussi : [[Loi binomiale]], 
 
 Désaccord entre matières sur le seuil : 10 dans [[Chp4 Part 1 - Inferential statistics]] (Statistics), 5 dans [[Cours 7 - Z-Test]] (Data analysis).
 
-Résumés : [[Cours 7 - Z-Test (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]
+Résumés : [[Séance 7 - Z-Test (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]

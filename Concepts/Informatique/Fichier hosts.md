@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Fichier /etc/hosts, /etc/hosts, hosts file]
 matieres: [Operating System]
-sources: ["[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]"]
+sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Il se modifie avec n'importe quel éditeur (`sudo nano /etc/hosts`, une ligne `<
 
 Notion parente : [[DNS]]. Voir aussi : [[Nom d'hôte]].
 
-Résumés : [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]

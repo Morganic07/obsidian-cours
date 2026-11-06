@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: [".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 

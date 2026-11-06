@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [coords polaires, passage en polaires, polar coordinates]
-sources: ["[[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]]", "[[Chp 3 - Limite et continuité d’applications]]", "[[Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf", "[[Chp 3 - Limite et continuité d’applications]]", "[[Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 

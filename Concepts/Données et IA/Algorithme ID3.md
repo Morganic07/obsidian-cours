@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [ID3]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Sur l'exemple PlayTennis : gain(OUTLOOK) $= 0{,}246$, gain(HUMI.) $= 0{,}151$, g
 
 Notion parente : [[Arbre de décision]]. Voir aussi : [[Entropie (théorie de l'information)]], [[Gain d'information]], [[Algorithme C4.5]].
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

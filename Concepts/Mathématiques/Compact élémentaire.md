@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [élément compact de 1er type, élément compact de 2e type, "domaine d'intégration"]
-sources: ["[[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]]"]
+sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
 maj: 2026-11-06
 ---
 

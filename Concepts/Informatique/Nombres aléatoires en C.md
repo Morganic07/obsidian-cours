@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: ["rand()", "srand()", "srand(time(NULL))"]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment]]", "[[UNIX Commands - Semester report]]"]
+sources: [".raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf", "[[UNIX Commands - Semester report]]"]
 maj: 2026-11-06
 ---
 

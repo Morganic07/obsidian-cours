@@ -11,4 +11,4 @@ Dans la définition d'une table, une colonne est `NULL` si elle a le droit d'êt
 
 Notion parente : [[Langage SQL]]. Voir aussi : [[Types de données SQL]], [[Dictionnaire de données]].
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]

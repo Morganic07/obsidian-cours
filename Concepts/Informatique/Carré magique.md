@@ -18,4 +18,4 @@ Voir aussi : [[Somme des premiers entiers]].
 - La note dit « les 10 nombres », alors qu'il y en a 9.
 - Le raisonnement sur la case centrale renvoie à un dessin non reconstituable.
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

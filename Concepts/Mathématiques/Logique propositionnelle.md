@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [table de vérité, tables de vérité, connecteurs logiques]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", "[[raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

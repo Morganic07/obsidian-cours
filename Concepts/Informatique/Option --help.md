@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande man]], [[Commande info]], [[Commande cp]].
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[UNIX Commands - Semester report (résumé)]]

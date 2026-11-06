@@ -16,4 +16,4 @@ Voir aussi : [[Émotion et sentiment]], [[Geste]].
 
 L'exemple du métro est une idée, non un résultat établi.
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

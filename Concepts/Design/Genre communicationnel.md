@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [genres communicationnels, genres culturels, lecteur-apprenant, joueur-explorateur, contributeur-citoyen]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 3.pptx"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Exemples du cours, sur les applications de reconnaissance du vivant :
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Impératif de productivité]].
 
-Résumés : [[Cours 3 (PPTX) (résumé)]]
+Résumés : [[Séance 3 (PPTX) (résumé)]]

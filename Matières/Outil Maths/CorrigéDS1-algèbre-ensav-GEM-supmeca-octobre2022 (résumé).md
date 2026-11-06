@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|Corrigé DS1 algèbre, octobre 2022 (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du [[raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|Corrigé DS1 algèbre, octobre 2022 (PDF)]] (5 pages), dans [[Outil Maths (matière)]]. Devoir surveillé de 1 h 30, pré-ingénieur 1, algèbre I, sur 22 points environ avec barème détaillé (notation de $\Delta$ et de $\mathbb{N}$ comme dans le cours). Il couvre les chapitres de logique et d'ensembles : [[Chapitre 1 logique (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Logique propositionnelle]], [[Opérations sur les ensembles]], [[Récurrence]].
+Résumé du Corrigé DS1 algèbre, octobre 2022 (PDF) (`.raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf`) (5 pages), dans [[Outil Maths (matière)]]. Devoir surveillé de 1 h 30, pré-ingénieur 1, algèbre I, sur 22 points environ avec barème détaillé (notation de $\Delta$ et de $\mathbb{N}$ comme dans le cours). Il couvre les chapitres de logique et d'ensembles : [[Chapitre 1 logique (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Logique propositionnelle]], [[Opérations sur les ensembles]], [[Récurrence]].
 
 ## Exercices
 

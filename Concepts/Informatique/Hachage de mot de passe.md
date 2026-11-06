@@ -15,4 +15,4 @@ Notion parente : [[Fichiers de mots de passe]]. Voir aussi : [[Commande passwd]]
 
 - Le cours écrit « hashed (encrypted) » : hachage et chiffrement sont deux opérations différentes.
 
-Résumés : [[cours TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]]

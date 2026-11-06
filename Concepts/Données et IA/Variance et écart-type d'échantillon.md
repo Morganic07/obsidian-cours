@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Moyenne empirique]], [[Quartiles et valeurs aberrantes]], [[Estimateur]], [[Loi du khi-deux]], [[Test t]]
 
-Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Cours 6 - T-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Séance 6 - T-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: []
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemples du cours : les messageries (WhatsApp, Signal, Telegram, iMessage) et le
 
 Notion parente : [[Économie des données]].
 
-Résumés : [[Cours 4 (PPTX) (résumé)]]
+Résumés : [[Séance 4 (PPTX) (résumé)]]

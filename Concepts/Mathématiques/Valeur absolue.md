@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [valeurs absolues, absolute value]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]]", "[[raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides]]", "[[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf"]
 maj: 2026-11-06
 ---
 

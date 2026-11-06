@@ -16,4 +16,4 @@ Le rattachement au seul apprentissage supervisé est celui du schéma du cours.
 
 Notion parente : [[Apprentissage supervisé]]. Voir aussi : [[Réseau de neurones convolutif]], [[Réseau de neurones récurrent]], [[Transformer (IA)]], [[Modèle de diffusion]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

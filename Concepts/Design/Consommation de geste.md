@@ -10,4 +10,4 @@ Ce qui consomme dépend des mouvements mis à l'œuvre : d'où l'idée de « con
 
 Notion parente : [[Geste]]. Voir aussi : [[Gestelligence]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

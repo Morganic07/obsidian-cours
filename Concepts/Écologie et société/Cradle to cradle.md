@@ -15,4 +15,4 @@ Notion parente : [[Économie circulaire]]. Voir aussi : [[Cycle de vie d'un prod
 - Le pilier figure dans la transcription de l'image 1 de la note, mais pas dans le résumé.
 - La traduction « du berceau au berceau » n'est pas dans le cours.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [ensemble des parties, famille d'ensembles, diagramme de Venn, lien entre logique et ensembles, lois de De Morgan pour une famille, power set]
 matieres: [Outil Maths, Probability]
-sources: ["[[Chapitre 2 ensembles]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4)]]", "[[raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]", "[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Chapitre 2 ensembles]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf", ".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf", ".raw/Year 1/Contrôles.pdf", "[[Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [ordre total, ordre partiel, ensemble ordonné, ensemble partiellement ordonné, ensemble totalement ordonné]
 matieres: [Outil Maths, Analyse Maths]
-sources: ["[[Chapitre 3 - Relation binaire]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire]]", "[[raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations]]", "[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]"]
+sources: ["[[Chapitre 3 - Relation binaire]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf", ".raw/Year 1/Outil Maths/Exos/TDRelations.pdf", ".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf"]
 maj: 2026-11-06
 ---
 

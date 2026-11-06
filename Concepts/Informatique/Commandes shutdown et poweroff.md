@@ -11,4 +11,4 @@ Pour éteindre le système : `sudo shutdown now` ou `sudo poweroff`.
 
 Voir aussi : [[Commande sudo]].
 
-Résumés : [[cours TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]]

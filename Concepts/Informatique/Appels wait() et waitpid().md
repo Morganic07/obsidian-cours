@@ -17,4 +17,4 @@ Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Proce
 
 TP4 : `waitpid` est placé après une boucle infinie, donc jamais atteint ; dans le rendu, `status` n'est pas déclaré (signalé par les résumés).
 
-Résumés : [[OS - chp7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]], [[Cours TP4 (résumé)]]
+Résumés : [[OS - chp7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]], [[Séance TP4 (résumé)]]

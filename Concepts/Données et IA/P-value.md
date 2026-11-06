@@ -17,4 +17,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Statistique de test]], [[
 
 - Cours 12 écrit « F = 22,59, p > 0,05 » : c'est faux, p < 0,05.
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 10 - linear regression (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Cours 12 - ANOVA and F-statistic (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 10 - linear regression (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]]

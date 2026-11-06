@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [fork, fork(), wait(), process creation, process termination, création de processus, cascading termination, exit(), abort()]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]", "[[Cours TP4]]", "[[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]"]
+sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]", "[[Cours TP4]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Après `fork`, le père et le fils ont chacun leur copie de la mémoire : une va
 
 Notion parente : [[Processus]]. Voir aussi : [[Arbre de processus]], [[Appel exec()]], [[Identifiant de processus]], [[Processus zombie et orphelin]], [[Processus init]], [[Appel système]]
 
-Résumés : [[OS - chp7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Cours TP4 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP4 (résumé)]], [[TP6-Assignment (résumé)]], [[Operating Systems - Semester report (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[OS - chp7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Séance TP4 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP4 (résumé)]], [[TP6-Assignment (résumé)]], [[Operating Systems - Semester report (résumé)]], [[UNIX Commands - Semester report (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, nomme]
 aliases: [management bienveillant]
-sources: ["PDF de la fiche ressources, dans raw/Year 3/Projet courts"]
+sources: ["PDF de la fiche ressources, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

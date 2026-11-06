@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]] (29 diapositives, « Chapitre 3 : Graphes et arbres », groupe ID2), dans [[Algo (matière)]].
+Résumé du PDF Chapitre3-Arbres (`.raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf`) (29 diapositives, « Chapitre 3 : Graphes et arbres », groupe ID2), dans [[Algo (matière)]].
 
 ## Idée générale
 

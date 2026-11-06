@@ -13,4 +13,4 @@ Selon [[Cours 2]] de Peinture, un des problèmes de l'humanité est de regarder 
 
 - La note écrit « regard anthropologique », mais le sens décrit est celui de l'anthropocentrisme : le nom de cette page est une correction du wiki, pas le terme du cours.
 
-Résumés : [[Cours 2 (résumé)]]
+Résumés : [[Séance 2 (résumé)]]

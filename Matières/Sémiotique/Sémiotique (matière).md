@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -11,10 +11,10 @@ Sémiotique de 3e année : « Analyser les dispositifs numériques », analyse t
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Cours 1 | Introduction, sémiotique, techno-sémiotique, moodboard | [[Cours 1 (PPTX) (résumé)\|Résumé]] |
-| Cours 2 | La technologie, c'est de l'humain : écrits d'écran, imaginaires, corps, mémoire | [[Cours 2 (PPTX) (résumé)\|Résumé]] |
-| Cours 3 | Les écrans, ce sont des médias : rôles, genres, temps, productivité | [[Cours 3 (PPTX) (résumé)\|Résumé]] |
-| Cours 4 | Le formatage, c'est du pouvoir : architexte, code, mots, marché | [[Cours 4 (PPTX) (résumé)\|Résumé]] |
+| Cours 1 | Introduction, sémiotique, techno-sémiotique, moodboard | [[Séance 1 (PPTX) (résumé)\|Résumé]] |
+| Cours 2 | La technologie, c'est de l'humain : écrits d'écran, imaginaires, corps, mémoire | [[Séance 2 (PPTX) (résumé)\|Résumé]] |
+| Cours 3 | Les écrans, ce sont des médias : rôles, genres, temps, productivité | [[Séance 3 (PPTX) (résumé)\|Résumé]] |
+| Cours 4 | Le formatage, c'est du pouvoir : architexte, code, mots, marché | [[Séance 4 (PPTX) (résumé)\|Résumé]] |
 
 ## Concepts
 

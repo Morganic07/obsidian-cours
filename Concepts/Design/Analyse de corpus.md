@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [constitution du corpus, corpus d'applications]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 3.pptx"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Un **corpus** est un ensemble de documents (textuels, visuels, audiovisuels) col
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Discours d'escorte]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]], [[Cours 3 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]], [[Séance 3 (PPTX) (résumé)]]

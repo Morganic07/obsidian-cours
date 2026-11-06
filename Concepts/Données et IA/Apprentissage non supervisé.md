@@ -14,4 +14,4 @@ Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : cité da
 
 Notion parente : [[Apprentissage automatique]]. Voir aussi : [[Clustering]], [[Règle d'association]], [[Apprentissage supervisé]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

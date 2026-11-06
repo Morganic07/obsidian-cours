@@ -10,4 +10,4 @@ Branche de la statistique qui collecte, présente et caractérise les données. 
 
 Voir aussi : [[Statistique inférentielle]], [[Mesures de tendance centrale]], [[Histogramme]], [[Quartiles et valeurs aberrantes]].
 
-Résumés : [[Cours 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]
+Résumés : [[Séance 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]

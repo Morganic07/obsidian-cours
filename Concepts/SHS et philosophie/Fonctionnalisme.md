@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [functionalism]
 matieres: [culture du soin]
-sources: ["[[raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1]]"]
+sources: [".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
 maj: 2026-11-06
 ---
 

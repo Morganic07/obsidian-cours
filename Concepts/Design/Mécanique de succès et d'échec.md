@@ -10,4 +10,4 @@ Chercher ce que l'on fait dans toutes ses histoires de succès ou d'échec : la 
 
 Voir aussi : [[Geste]].
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

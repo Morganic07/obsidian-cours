@@ -3,7 +3,7 @@ type: concept
 tags: [year4, nomme]
 aliases: [SVM, support vector machine, support Vector Machines]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Nommée dans le cours de data mining sans définition : les SVM (*support Vector
 
 Notion parente : [[Classifieur]]. Voir aussi : [[Réseau de neurones]].
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

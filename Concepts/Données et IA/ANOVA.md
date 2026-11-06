@@ -27,4 +27,4 @@ Voir aussi : [[Carré moyen]], [[Somme des carrés (SST, SSR, SSE)]], [[Test t]]
 
 Dernière diapositive coupée (« in ANOVA no assumption is made about the manner in which Price and Sales Volume are related »).
 
-Résumés : [[Cours 12 - ANOVA and F-statistic (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[Séance 12 - ANOVA and F-statistic (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]

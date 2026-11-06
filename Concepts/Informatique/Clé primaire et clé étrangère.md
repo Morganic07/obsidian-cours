@@ -18,7 +18,7 @@ matieres:
   - ligue football
 sources:
   - "[[Cours 1 et 2 - Database]]"
-  - "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"
+  - ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"
   - "[[readme|readme (ligue football)]]"
 maj: 2026-11-06
 ---
@@ -37,4 +37,4 @@ Voir aussi : [[Table de correspondance]], [[Modèle entité-association]], [[Sch
 
 - Dans le DDL du rapport du projet, `id_equipe` de JOUEUR n'a pas de clé étrangère, alors que le MLD en note une.
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[readme (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[readme (résumé)]], [[sujet database (résumé)]]

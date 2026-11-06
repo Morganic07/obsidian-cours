@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Linux directory structure, directory structure, arborescence Linux, hiérarchie des répertoires]
-sources: ["[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]", "[[OS - chp 5]]"]
+sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[OS - chp 5]]"]
 maj: 2026-11-06
 ---
 

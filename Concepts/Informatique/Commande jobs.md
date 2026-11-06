@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Tâche en arrière-plan]]. Voir aussi : [[Commandes fg et bg]], [[Commande kill]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Cours TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]

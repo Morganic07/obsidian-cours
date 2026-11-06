@@ -19,4 +19,4 @@ Notion parente : [[Régression linéaire]]. Voir aussi : [[Intervalle de confian
 
 - La diapositive écrit « 4,897 ≤ y4 ≤ 0,503 » : bornes inversées (à corriger avant un examen).
 
-Résumé : [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumé : [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]

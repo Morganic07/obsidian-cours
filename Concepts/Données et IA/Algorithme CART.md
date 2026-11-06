@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [CART, Classification and Regression Tree]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Arbre de décision]]. Voir aussi : [[Indice de Gini]], [[Éla
 - Le cours écrit « maximising Gini index » dans la construction, alors qu'on maximise le gain de pureté (un Gini petit correspond à un nœud pur).
 - Exemple windy, fils vrai P(3) N(3) : la classe affectée est notée « P ?? » dans le cours, l'égalité n'est pas tranchée.
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

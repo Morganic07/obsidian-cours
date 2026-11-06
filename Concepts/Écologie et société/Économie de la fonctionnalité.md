@@ -10,4 +10,4 @@ Nommée dans le dernier cours de culture du vivant sans développement : c'est u
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Servitisation]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

@@ -10,4 +10,4 @@ Une émotion est brève ; si elle dure dans le temps, c'est un sentiment. Nier l
 
 Voir aussi : [[Posture et sentiment]], [[Mécanique du stress]].
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [RPS, risque psychosocial]
 matieres: [Projet courts]
-sources: ["PDF de la fiche ressources, dans raw/Year 3/Projet courts"]
+sources: ["PDF de la fiche ressources, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

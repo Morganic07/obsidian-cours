@@ -11,4 +11,4 @@ Nommée dans le dernier cours sans définition : la taxonomie est citée parmi l
 
 Notion parente : [[Valeur socio-écologique]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

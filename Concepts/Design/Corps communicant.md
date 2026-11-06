@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: []
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ D'après Galinon-Mélénec et Martin-Juchat (2007), citées en Sémiotique : tou
 
 Notion parente : [[Techniques du corps]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

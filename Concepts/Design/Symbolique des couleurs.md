@@ -17,4 +17,4 @@ Une couleur a un sens commun et un sens personnel (souvenir, sentiment). Pour ce
 
 Voir aussi : [[Cercle chromatique]].
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Cours 2 (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Séance 2 (résumé)]]

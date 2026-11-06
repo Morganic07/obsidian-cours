@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [loi de De Morgan, règle de Morgan, De Morgan]
-sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4)]]"]
+sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf"]
 maj: 2026-11-06
 ---
 

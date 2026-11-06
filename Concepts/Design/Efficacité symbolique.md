@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: []
-sources: ["[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 3.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemple du cours : le diagnostic des plantes fait de la plante un « patient » 
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Affordance]], [[Imaginaire]].
 
-Résumés : [[Cours 3 (PPTX) (résumé)]]
+Résumés : [[Séance 3 (PPTX) (résumé)]]

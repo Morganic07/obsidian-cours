@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]"]
+sources: [".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]] (3 pages, 2 décembre 2024, « TP-4 : Backup processes, and automating the backup using Cron »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP4 (résumé)]] ; les notes de cours, [[Cours TP4 (résumé)]].
+Résumé du PDF TP4-Unix Commands (`.raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf`) (3 pages, 2 décembre 2024, « TP-4 : Backup processes, and automating the backup using Cron »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP4 (résumé)]] ; les notes de cours, [[Séance TP4 (résumé)]].
 
 ## Ce qui est demandé
 

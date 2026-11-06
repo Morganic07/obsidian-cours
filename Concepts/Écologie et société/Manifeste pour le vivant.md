@@ -3,11 +3,11 @@ type: concept
 tags: [year3]
 aliases: [manifesto pour le vivant, inséparabilité, attention fragile, décision parmi les vivants]
 matieres: [Culture du vivant, SHS]
-sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: [".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 
-Manifeste de CY École de design, présenté dans [[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]] :
+Manifeste de CY École de design, présenté dans VIVANT1 DBrowaeys (`.raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf`) :
 
 - **inséparabilité** : le cartésianisme a séparé l'homme de la nature ; l'humanité n'est pas libre de se séparer du vivant ;
 - **attention fragile** : la vulnérabilité ;

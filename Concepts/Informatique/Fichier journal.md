@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [log files, log file, fichiers journaux, auth.log]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]", "[[TP1]]"]
+sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[TP1]]"]
 maj: 2026-11-06
 ---
 

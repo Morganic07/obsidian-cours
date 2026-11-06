@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [image réciproque, images réciproques, antécédent, antécédents, image directe, preimage, inverse image, "image d'une partie", ensemble image]
 matieres: [Outil Maths]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1)]]", "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

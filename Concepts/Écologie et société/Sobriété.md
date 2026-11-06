@@ -13,4 +13,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Économie circulaire]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]], [[Synthèse des entretiens (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]], [[Synthèse des entretiens (résumé)]]

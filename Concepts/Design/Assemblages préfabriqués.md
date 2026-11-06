@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [assemblage préfabriqué, petites formes, menu hamburger]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Exemple du cours : dans une application de nature, le feed, le profil, les métr
 
 Notion parente : [[Architexte]].
 
-Résumés : [[Cours 4 (PPTX) (résumé)]]
+Résumés : [[Séance 4 (PPTX) (résumé)]]

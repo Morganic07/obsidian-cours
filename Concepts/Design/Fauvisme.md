@@ -11,4 +11,4 @@ Nommé dans le cours de peinture, sans définition, pour son usage des couleurs 
 
 Voir aussi : [[Cercle chromatique]].
 
-Résumés : [[Cours 2 (résumé)]]
+Résumés : [[Séance 2 (résumé)]]

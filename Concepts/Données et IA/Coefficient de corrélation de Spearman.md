@@ -20,4 +20,4 @@ Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Tau de Kendall]]
 
 Pour une relation décroissante, le cours écrit « Spearman is exactly 1 » au lieu de −1.
 
-Résumés : [[Cours 9 - Covariance and Correlation (résumé)]]
+Résumés : [[Séance 9 - Covariance and Correlation (résumé)]]

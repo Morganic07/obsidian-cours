@@ -13,6 +13,6 @@ Résumé de [[TP5|TP5 (DM)]], dans [[Operating System (matière)]]. C'est la ver
 
 Rien n'a été corrigé dans le cours.
 
-1. **Même incohérence que dans [[Cours TP5 (résumé)]]** : la ligne « 2 Ford Focus 160 » de la sortie de `$4>150` devrait porter l'identifiant 6 (image non rouverte).
+1. **Même incohérence que dans [[Séance TP5 (résumé)]]** : la ligne « 2 Ford Focus 160 » de la sortie de `$4>150` devrait porter l'identifiant 6 (image non rouverte).
 2. **Question h** : demande ID, constructeur, puissance mais la commande affiche toute la ligne (complément).
 3. **Tableau des connexions** : les durées ne correspondent pas aux heures (déjà signalé par la transcription), sans effet sur la commande.

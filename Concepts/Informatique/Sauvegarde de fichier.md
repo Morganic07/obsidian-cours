@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [backup, backing up, file backup, backup.sh]
 matieres: [Operating System]
-sources: ["[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]", "[[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]"]
+sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Voir aussi : [[Script Bash]], [[Commande cp]], [[Boucle (programmation)]].
 
 - Script du sujet : destination `/home/backup/` au lieu de `/home/user/backup/`, et variable `$Backup` jamais définie (signalé par les résumés).
 
-Résumés : [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP6-Assignment (résumé)]]

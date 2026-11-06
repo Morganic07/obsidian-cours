@@ -8,8 +8,8 @@ aliases:
   - nombres triangulaires
 sources:
   - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
-  - "[[raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel]]"
+  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
+  - ".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf"
 maj: 2026-11-06
 ---
 
@@ -24,4 +24,4 @@ Notion parente : [[Symboles somme et produit]]. Voir aussi : [[Récurrence]], [[
 - Cours 1 : l'annotation finit par « S = n(n+1) », la division par 2 manque.
 - Le lien entre nombre triangulaire et cette somme est déduit, non établi par le contrôle (scan).
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[AlgoID1 (résumé)]], [[TD0-Rappel (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[AlgoID1 (résumé)]], [[TD0-Rappel (résumé)]], [[Contrôles (résumé)]]

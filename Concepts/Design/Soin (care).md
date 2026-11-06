@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3, year4]
 aliases: [le care, Soin, culture du soin, prendre soin, faire soin]
 matieres: [Projet design, Culture du vivant, culture du soin]
-sources: ["[[Topo ELBA]]", "[[Culture Vivant COURS 2 EXPLICATION]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]", "[[raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1]]"]
+sources: ["[[Topo ELBA]]", "[[Culture Vivant COURS 2 EXPLICATION]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf", ".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Retail régénératif]], [[Manifeste pour le vivant]], [[Transhum
 
 - La matière culture du soin (Year 4) traitera sans doute davantage la notion.
 
-Résumés : [[Culture du soin Seance 1 (résumé)]], [[Culture Vivant COURS 2 EXPLICATION (résumé)]], [[VIVANT1 DBrowaeys (résumé)]], [[Topo ELBA (résumé)]]
+Résumés : [[Culture du soin Seance 1 (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[VIVANT1 DBrowaeys (résumé)]], [[Topo ELBA (résumé)]]

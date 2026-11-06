@@ -21,4 +21,4 @@ Voir aussi : [[Pigment]], [[Peinture acrylique]].
 
 - Diluant de l'encaustique noté « Eau ? » dans le cours.
 
-Résumés : [[Cours 3 (résumé)]]
+Résumés : [[Séance 3 (résumé)]]

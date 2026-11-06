@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande info]], [[Option --help]].
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP5 (résumé)]]

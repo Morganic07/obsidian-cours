@@ -9,7 +9,7 @@ Résumé de [[Cours 13 - PCA in R]], dans [[Data analysis (Thanos) (matière)]].
 
 ## Idée générale
 
-Les étapes de l'[[Analyse en composantes principales]] refaites en R sur un petit jeu à deux dimensions, puis la lecture d'un cercle des corrélations. Suite pratique de [[Cours 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]].
+Les étapes de l'[[Analyse en composantes principales]] refaites en R sur un petit jeu à deux dimensions, puis la lecture d'un cercle des corrélations. Suite pratique de [[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]].
 
 ## Contenu, dans l'ordre du cours
 
@@ -26,7 +26,7 @@ Les étapes de l'[[Analyse en composantes principales]] refaites en R sur un pet
 
 Rien n'a été corrigé dans le cours. Les deux images ne sont pas ouvertes.
 
-1. **« Standardization »** : le cours appelle ainsi la soustraction de la moyenne. C'est un centrage ; la standardisation divise aussi par l'écart-type (complément). Voir le paragraphe sur la mise à l'échelle dans [[Cours 13 - Principal Components Analysis (résumé)|le cours théorique]].
+1. **« Standardization »** : le cours appelle ainsi la soustraction de la moyenne. C'est un centrage ; la standardisation divise aussi par l'écart-type (complément). Voir le paragraphe sur la mise à l'échelle dans [[Séance 13 - Principal Components Analysis (résumé)|le cours théorique]].
 2. **« La plus grande valeur propre est la première composante »** : c'est son vecteur propre qui donne la première composante (complément).
 3. **Règle des angles** : elle ne vaut que pour des variables bien représentées dans le plan des deux premières dimensions. Ici, ces deux dimensions n'expliquent que 50 % de la variance (complément).
 4. **Signe de la corrélation 100 m et saut en longueur** : une corrélation négative est naturelle, un temps court et une grande distance étant tous deux de bonnes performances. Le cours ne l'explique pas.

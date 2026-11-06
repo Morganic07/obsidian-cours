@@ -23,4 +23,4 @@ Voir aussi : [[Art abstrait]], [[Design industriel]].
 
 - (Complément, hors cours) Le Bauhaus est fondé à Weimar en 1919 et ne s'installe à Berlin qu'en 1932 : « Berlin 1919-1933 » paraît inexact.
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Global Exam Vocab (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Global Exam Vocab (résumé)]]

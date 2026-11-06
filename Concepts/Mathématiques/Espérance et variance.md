@@ -25,4 +25,4 @@ Notion parente : [[Variable aléatoire]]. Voir aussi : [[Fonction génératrice 
 
 - Le nom « formule de König-Huygens » n'est pas dans le cours, qui dit « shortcut formula ».
 
-Résumés : [[Chp 4 - Discrete random variables (résumé)]], [[Chp 5 - Continuous random variable (résumé)]], [[Chp 6 - Joint probability distributions (résumé)]], [[Chp3 - More on probability (résumé)]], [[Cours 9 - Covariance and Correlation (résumé)]]
+Résumés : [[Chp 4 - Discrete random variables (résumé)]], [[Chp 5 - Continuous random variable (résumé)]], [[Chp 6 - Joint probability distributions (résumé)]], [[Chp3 - More on probability (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]]

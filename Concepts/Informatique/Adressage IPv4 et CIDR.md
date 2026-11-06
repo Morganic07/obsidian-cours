@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [adressage IPv4, adresse IPv4, adresses IPv4, IPv4 addressing, IPv4 address, masque de sous-réseau, subnet mask, CIDR, Classless Inter-Domain Routing, adresse de broadcast, broadcast address, adresse réseau d'un sous-réseau, classes d'adresses IPv4, subnetting, longueur de préfixe, adresse IP, IP address, Internet Protocol, notation décimale pointée, dotted-decimal notation, adresse d'hôte, host address, hôtes par réseau]
 matieres: [Computer Network, Operating System]
-sources: ["[[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]]", "[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]"]
+sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf", "[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
 maj: 2026-11-06
 ---
 
@@ -47,4 +47,4 @@ Voir aussi : [[Adresse de bouclage]], [[IANA]], [[VLSM]], [[Octet]], [[Numérati
 
 - Diapositive 15 : le tableau donne la classe A de 0 à 127, corrigée juste dessous en 0 à 126. Le quiz 224.192.64.32/24 utilise une adresse de classe D avec un /24.
 
-Résumés : [[02 IP Addressing (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]], [[chp6 - Access Control List (résumé)]], [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[02 IP Addressing (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]], [[chp6 - Access Control List (résumé)]], [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]

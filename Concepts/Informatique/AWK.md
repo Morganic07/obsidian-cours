@@ -11,7 +11,7 @@ matieres:
   - Operating System
 sources:
   - "[[Cours TP5]]"
-  - "[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]"
+  - ".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf"
   - "[[TP5]]"
   - "[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"
 maj: 2026-11-06
@@ -35,4 +35,4 @@ Liens : [[Variables intégrées d'AWK]], [[Blocs BEGIN et END d'AWK]], [[Fonctio
 
 - Le sujet [[TP5]] contient une phrase égarée du TP4 et des tirets demi-cadratins dans `–F` (signalés par le résumé).
 
-Résumés : [[Cours TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[Séance TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]

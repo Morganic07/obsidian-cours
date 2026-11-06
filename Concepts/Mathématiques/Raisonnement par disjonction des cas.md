@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [disjonction des cas, preuve par disjonction des cas, disjonction de cas]
-sources: ["[[Chapitre 1 logique]]", "[[raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1)]]"]
+sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf"]
 maj: 2026-11-06
 ---
 

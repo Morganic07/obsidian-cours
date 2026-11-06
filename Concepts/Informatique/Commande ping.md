@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [ping]
 matieres: [Operating System, Computer Network]
-sources: ["[[Cours TP3]]", "[[Commandes Shell + explications]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]", "[[Formation CISCO Packet Tracer]]"]
+sources: ["[[Cours TP3]]", "[[Commandes Shell + explications]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", "[[Formation CISCO Packet Tracer]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Adresse de bouclage]], [[ICMP]], [[CLI Cisco IOS]].
 
-Résumés : [[Cours TP3 (résumé)]], [[Commandes Shell + explications (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[Formation CISCO Packet Tracer (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[Commandes Shell + explications (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[Formation CISCO Packet Tracer (résumé)]]

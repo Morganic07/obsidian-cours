@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [UX design, UX, user experience, design de l'expérience utilisateur, expérience utilisateurs]
 matieres: [Corps à l'oeuvre, Anglais, Affordance, Sémiotique, Projet courts]
-sources: ["[[corps à l'oeuvre - cours]]", "[[Global Exam Vocab]]", "[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]", "[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: ["[[corps à l'oeuvre - cours]]", "[[Global Exam Vocab]]", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx", "PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ UX design = *user experience* = design de l'expérience utilisateur. Designer qu
 
 Voir aussi : [[Affordance]], [[Design d'interface]], [[Parcours utilisateur]], [[Accessibilité]], [[Ergonomie]], [[Recherche utilisateur]], [[Test utilisateur]], [[Analyse techno-sémiotique]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]], [[Global Exam Vocab (résumé)]], [[Présentation Tests Utilisateurs ID3 (résumé)]], [[Cours 2 (PPTX) (résumé)]], [[Santé au travail - brief du projet (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]], [[Global Exam Vocab (résumé)]], [[Présentation Tests Utilisateurs ID3 (résumé)]], [[Séance 2 (PPTX) (résumé)]], [[Santé au travail - brief du projet (résumé)]]

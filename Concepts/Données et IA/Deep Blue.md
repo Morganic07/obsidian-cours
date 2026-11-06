@@ -17,4 +17,4 @@ Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Syst�
 
 Une ligne du schéma relie peut-être Deep Blue à la branche hybride (lecture incertaine du tracé).
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

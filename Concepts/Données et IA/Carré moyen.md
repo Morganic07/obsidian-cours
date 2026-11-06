@@ -14,4 +14,4 @@ La [[Statistique F]] est le rapport des deux. Le cours note aussi MSE le carré 
 
 Notion parente : [[ANOVA]]. Voir aussi : [[Somme des carrés (SST, SSR, SSE)]].
 
-Résumés : [[Cours 12 - ANOVA and F-statistic (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[Séance 12 - ANOVA and F-statistic (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]

@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Expansion d'accolades]], [[Commande rmdir]], [[Commande tree]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[cours TP1 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]]

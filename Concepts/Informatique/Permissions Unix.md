@@ -23,4 +23,4 @@ Liens : [[Shell et Bash]], [[Script Bash]]
 
 - `chmod -R 444` sur un dossier retire aussi le droit `x` des sous-dossiers, ce qui empêche ensuite de les traverser (relevé du résumé).
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[cours TP1 (résumé)]], [[TP1 (résumé)|TP1 (résumé)]]
+Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[TP1 (résumé)|TP1 (résumé)]]

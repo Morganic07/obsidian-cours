@@ -23,4 +23,4 @@ Notion parente : [[Type primitif]].
 
 - L'exemple du cours « 0.1 + 0.3 ≠ 0.4 » est faux en Python (`0.1 + 0.3 == 0.4` vaut `True`) ; l'exemple classique est 0.1 + 0.2 ≠ 0.3.
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[AlgoID1 (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[AlgoID1 (résumé)]]

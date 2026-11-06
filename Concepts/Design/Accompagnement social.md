@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf"]
+sources: [".raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf"]
 maj: 2026-11-06
 ---
 

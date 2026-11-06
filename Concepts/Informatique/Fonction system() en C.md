@@ -11,4 +11,4 @@ Employée au TP4 sans définition : le processus fils copie le fichier par `syst
 
 Voir aussi : [[Commande cp]], [[Sauvegarde de fichier]].
 
-Résumés : [[Cours TP4 (résumé)]], [[TP4 (résumé)]]
+Résumés : [[Séance TP4 (résumé)]], [[TP4 (résumé)]]

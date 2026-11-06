@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]] (PDF de 6 pages), dans [[Analyse Maths (matière)]]. Le PDF est un scan sans texte : il a été lu en image.
+Résumé de Chap0-Rappels-etc (`.raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf`) (PDF de 6 pages), dans [[Analyse Maths (matière)]]. Le PDF est un scan sans texte : il a été lu en image.
 
 ## Contenu, dans l'ordre du cours
 

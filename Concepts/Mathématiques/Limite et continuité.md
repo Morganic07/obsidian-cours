@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [limite, limites, continuité, application continue, applications continues, fonction continue, fonctions continues, discontinue, limite à gauche, limite à droite, continuité à gauche, continuité à droite, méthode des chemins, limite d'une fonction en un point, opérations sur les limites]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse, Séries]
-sources: ["[[Chp 3 - Limite et continuité d’applications]]", "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[Chp0 - Revision chapter]]"]
+sources: ["[[Chp 3 - Limite et continuité d’applications]]", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", "[[Chp0 - Revision chapter]]"]
 maj: 2026-11-06
 ---
 

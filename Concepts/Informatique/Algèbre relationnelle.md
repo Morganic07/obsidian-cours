@@ -27,4 +27,4 @@ Le résumé du sujet du projet Ligue Football y renvoie comme fondement des requ
 
 Liens : [[Langage SQL]], [[Schéma relationnel]], [[Sous-requête]], [[Clé primaire et clé étrangère]], [[Produit cartésien]]
 
-Résumés : [[Cours 3 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]

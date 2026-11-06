@@ -28,4 +28,4 @@ Voir aussi : [[Modèle de diffusion]], [[Droit d'auteur et IA]], [[Token (IA)]].
 
 - Le JSON d'exemple du cours n'est pas valide.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

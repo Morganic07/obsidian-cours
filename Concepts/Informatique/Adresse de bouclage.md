@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [Interface de bouclage, loopback, loopback interface, localhost, 127.0.0.1, boucle locale, loopback address, adresse de loopback, 127.0.0.0/8]
 matieres: [Operating System, Computer Network]
-sources: ["[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]", "[[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]]"]
+sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", ".raw/Year 3/Computer Network/02 IP Addressing.pdf"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Interface réseau]]. Voir aussi : [[Commande ping]], [[Adress
 
 - Au rendu du TP3, 127.0.0.1 est présenté comme une adresse « interne » ; c'est l'adresse de bouclage (signalé par le résumé).
 
-Résumés : [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[02 IP Addressing (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[02 IP Addressing (résumé)]]

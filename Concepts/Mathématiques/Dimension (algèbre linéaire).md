@@ -16,7 +16,7 @@ sources:
   - "[[chp1|chp1 (Algèbre)]]"
   - "[[chp3|chp3 (Algèbre)]]"
   - "[[chp4|chp4 (Algèbre)]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Contrôles.pdf"
 maj: 2026-11-06
 ---
 

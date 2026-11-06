@@ -15,4 +15,4 @@ Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Taxonomie europée
 
 - Le développement du sigle (Corporate Sustainability Reporting Directive) n'est pas dans le cours.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

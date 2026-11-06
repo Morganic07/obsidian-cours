@@ -10,4 +10,4 @@ Passer de nombreuses variables à deux ou trois composantes, pour visualiser les
 
 Notion parente : [[Analyse en composantes principales]]. Voir aussi : [[Surapprentissage]], [[Valeur propre]].
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]]

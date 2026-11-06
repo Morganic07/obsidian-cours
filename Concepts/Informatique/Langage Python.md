@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[Python]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Python]]"]
 maj: 2026-11-06
 ---
 

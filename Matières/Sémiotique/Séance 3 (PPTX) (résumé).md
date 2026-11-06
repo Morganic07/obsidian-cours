@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 3.pptx"]
 maj: 2026-11-06
 ---
 
-Résumé du Cours 3 de [[Sémiotique (matière)]] (séance 3 : « Les écrans, ce sont des médias », 40 diapositives). Précédent : [[Cours 2 (PPTX) (résumé)|Cours 2]] ; suivant : [[Cours 4 (PPTX) (résumé)|Cours 4]].
+Résumé du Cours 3 de [[Sémiotique (matière)]] (séance 3 : « Les écrans, ce sont des médias », 40 diapositives). Précédent : [[Séance 2 (PPTX) (résumé)|Cours 2]] ; suivant : [[Séance 4 (PPTX) (résumé)|Cours 4]].
 
 **Objectifs.** Regarder l'écran comme un dispositif de médiation ; préparer une analyse d'artefact ; se constituer une culture autour du thème (applications de reconnaissance de la nature) ; commencer à analyser son corpus. Le moodboard de la séance 1 est présenté pendant ce cours.
 

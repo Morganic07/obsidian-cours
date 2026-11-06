@@ -19,4 +19,4 @@ Tout $\mathbf{y}$ de $\mathbb{R}^n$ s'écrit de façon unique $\mathbf{y} = \hat
 
 Notion parente : [[Complément orthogonal]]. Liens : [[Orthogonalité]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Moindres carrés]], [[Matrice symétrique]], [[Décomposition spectrale]], [[Analyse en composantes principales]] (projection des données sur les composantes)
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]

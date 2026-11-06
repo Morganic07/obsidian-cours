@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [built-in variables, "variables prédéfinies d'AWK", AWK built-in variables]
-sources: ["[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]", "[[Cours TP5]]", "[[TP5]]"]
+sources: [".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf", "[[Cours TP5]]", "[[TP5]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[AWK]].
 
 - Exemple `{OFS="/"}` placé hors d'un bloc `BEGIN` : il marche ici, mais `BEGIN` est plus sûr (complément du résumé).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[Cours TP5 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[TP5-AWK Command (résumé)]], [[Séance TP5 (résumé)]], [[TP5 (résumé)]]

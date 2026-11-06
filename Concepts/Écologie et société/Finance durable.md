@@ -11,4 +11,4 @@ Nommée dans [[Culture du vivant Dernier cours]] sans définition : côté inves
 
 Notion parente : [[Valeur socio-écologique]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

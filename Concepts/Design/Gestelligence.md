@@ -11,4 +11,4 @@ Mot donné comme notion centrale du cours (titre de la séance du 09/01/24), san
 
 Voir aussi : [[Geste]], [[Affordance]], [[Fonction, forme, structure]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

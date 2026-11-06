@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year4]
 aliases: [procédure, procédures, valeur de retour, programme principal, Fonction en C, déclaration de fonction, signature d'une fonction, type de retour, procédure en C]
 matieres: [Algo Maths, C++]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[chp2 - structures code]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 

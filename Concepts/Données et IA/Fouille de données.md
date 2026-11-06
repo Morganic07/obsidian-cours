@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [data mining, knowledge discovery, découverte de connaissances]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]", "[[Chp1 - intro to data mining]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf", "[[Chp1 - intro to data mining]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Découverte de connaissances dans les données (« comment faire parler les donn
 
 Voir aussi : [[Apprentissage automatique]], [[Prétraitement des données]], [[Apprentissage supervisé]], [[Clustering]].
 
-Résumés : [[cours data mining du prof (résumé)]], [[Chp1 - intro to data mining (résumé)]]
+Résumés : [[séance data mining du prof (résumé)]], [[Chp1 - intro to data mining (résumé)]]

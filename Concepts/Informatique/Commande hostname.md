@@ -14,4 +14,4 @@ Notion parente : [[Nom d'hôte]]. Voir aussi : [[Commande whoami]].
 
 - Le changement par `sudo hostname` n'est pas permanent (il faut modifier `/etc/hostname`) : complément apporté par le résumé, pas par le cours.
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]], [[TP3 (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP3 (résumé)]]

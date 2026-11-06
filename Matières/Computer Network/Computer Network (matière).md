@@ -23,7 +23,7 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| [[raw/Year 3/Computer Network/02 IP Addressing.pdf\|02 IP Addressing]] | Adressage IPv4 : binaire, classes, masques, CIDR, sous-réseaux | [[02 IP Addressing (résumé)\|Résumé]] |
+| 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`) | Adressage IPv4 : binaire, classes, masques, CIDR, sous-réseaux | [[02 IP Addressing (résumé)\|Résumé]] |
 
 ## Concepts
 

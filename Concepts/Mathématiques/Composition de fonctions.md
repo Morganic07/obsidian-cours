@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [composée de fonctions, fonction composée, composée, composition des fonctions, composée de deux applications, matrice de la composée]
 matieres: [Analyse Maths, Outil Maths, Algèbre Linéaire]
-sources: ["[[Chp4 - dérivabilité]]", "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1)]]", "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]", "[[chp2]]", "[[chp4]]"]
+sources: ["[[Chp4 - dérivabilité]]", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf", "[[chp2]]", "[[chp4]]"]
 maj: 2026-11-06
 ---
 

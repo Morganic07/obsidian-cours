@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year3]
 aliases: [design services, services design, service design, design de service]
-sources: ["[[Topo ELBA]]", "PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: ["[[Topo ELBA]]", "PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

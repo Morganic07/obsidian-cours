@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [biosphere]
 matieres: [Culture du vivant]
-sources: ["[[Culture Vivant COURS 2 EXPLICATION]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: ["[[Culture Vivant COURS 2 EXPLICATION]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ VIVANT1 cite Vernadski, *La Biosphère* (1920), qui alerte sur l'effet planétai
 
 Notion parente : [[Anthropocène]]. Voir aussi : [[Zone critique]].
 
-Résumés : [[Culture Vivant COURS 2 EXPLICATION (résumé)]], [[VIVANT1 DBrowaeys (résumé)]]
+Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[VIVANT1 DBrowaeys (résumé)]]

@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]] (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Data mining (matière)]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[Chp1 - intro to data mining (résumé)]] résume la note ; ce PDF ajoute les diapositives d'exercices. Le plan est : introduction, clustering, arbres de décision et forêts, combinaison de modèles. Les figures n'ont pas été ouvertes : elles sont lues par le texte.
+Résumé du PDF cours data mining du prof (`.raw/Year 4/data mining/cours data mining du prof.pdf`) (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Data mining (matière)]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[Chp1 - intro to data mining (résumé)]] résume la note ; ce PDF ajoute les diapositives d'exercices. Le plan est : introduction, clustering, arbres de décision et forêts, combinaison de modèles. Les figures n'ont pas été ouvertes : elles sont lues par le texte.
 
 ## Contenu, dans l'ordre du cours
 

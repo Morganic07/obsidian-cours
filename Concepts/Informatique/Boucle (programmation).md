@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3, year4]
 aliases: [boucle TANTQUE, boucle POUR, boucle REPETER, boucle while, boucle for, Boucle en Bash, while loop, for loop, while true, boucle do-while, do-while, boucles for, boucles while, do while, do ... while, boucle infinie]
 matieres: [Algo Maths, Operating System, Java, C++]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[Python]]", "[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Cours TP3]]", "[[Chp1 - Intro Java]]", "[[chp2 - structures code]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Python]]", "[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Cours TP3]]", "[[Chp1 - Intro Java]]", "[[chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Fonction range (Python)]], [[St
 
 - Le cours de Java écrit « while-do » pour do-while.
 
-Résumés : [[AlgoID1 (résumé)]], [[Python (résumé)]], [[Contrôles (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Cours TP3 (résumé)]], [[Chp1 - Intro Java (résumé)]], [[chp2 - structures code (résumé)]], [[Chp1 - basiques (résumé)]]
+Résumés : [[AlgoID1 (résumé)]], [[Python (résumé)]], [[Contrôles (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Séance TP3 (résumé)]], [[Chp1 - Intro Java (résumé)]], [[chp2 - structures code (résumé)]], [[Chp1 - basiques (résumé)]]

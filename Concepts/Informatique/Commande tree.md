@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande mkdir]], [[Arborescence des répertoires Linux]].
 
-Résumés : [[cours TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]]

@@ -34,4 +34,4 @@ En 1re année, la définition porte sur une application linéaire : $v$ est vect
 
 Notion parente : [[Valeur propre]]. Liens : [[Espace propre]], [[Diagonalisation]], [[Indépendance linéaire]], [[Analyse en composantes principales]]
 
-Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp7 (résumé)|chp7 (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp7 (résumé)|chp7 (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]

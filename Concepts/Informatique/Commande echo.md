@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Guillemets en shell]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[cours TP1 (résumé)]], [[Cours TP2 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[Séance TP2 (résumé)]]

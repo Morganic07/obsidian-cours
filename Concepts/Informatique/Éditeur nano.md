@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Nano, GNU nano, commande nano]
 matieres: [Operating System]
-sources: ["[[OS - chp 5]]", "[[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]"]
+sources: ["[[OS - chp 5]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
 maj: 2026-11-06
 ---
 

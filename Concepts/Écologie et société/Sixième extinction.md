@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, nomme]
 aliases: [6e extinction, sixth extinction]
-sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: [".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 

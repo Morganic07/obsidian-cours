@@ -13,4 +13,4 @@ $\Gamma(x) = \displaystyle\int_0^\infty t^{x-1}e^{-t}\,dt$. Elle intervient dans
 
 Voir aussi : [[Loi du khi-deux]], [[Loi de Student]], [[Loi exponentielle]].
 
-Résumés : [[Cours 8 - Chi²-Test (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]
+Résumés : [[Séance 8 - Chi²-Test (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]

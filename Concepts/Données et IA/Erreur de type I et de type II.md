@@ -22,4 +22,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Seuil de signification]],
 - La correspondance FP = type I suppose que « positif » signifie rejeter $H_0$ ; un autre choix de $H_0$ échange les types. Cette remarque est un complément du résumé, pas du cours.
 - « Erreur de première espèce » et « de seconde espèce » sont des variantes françaises usuelles, absentes du cours.
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]], [[Chp1 - intro to data mining (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Chp1 - intro to data mining (résumé)]]

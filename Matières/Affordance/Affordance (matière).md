@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]", "[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]"]
+sources: [".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx"]
 maj: 2026-11-06
 ---
 

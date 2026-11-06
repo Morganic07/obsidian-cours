@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [panel utilisateur, panel de participants]
-sources: ["[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]"]
+sources: [".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [médiation du vivant, design comme médiation]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 3.pptx", ".raw/Year 3/Sémiotique/Cours 1.pptx"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Pour Jeanneret, la médiation est une « activité productive et créative qui c
 
 Voir aussi : [[Dispositif (communication)]], [[Analyse techno-sémiotique]].
 
-Résumés : [[Cours 3 (PPTX) (résumé)]], [[Cours 1 (PPTX) (résumé)]]
+Résumés : [[Séance 3 (PPTX) (résumé)]], [[Séance 1 (PPTX) (résumé)]]

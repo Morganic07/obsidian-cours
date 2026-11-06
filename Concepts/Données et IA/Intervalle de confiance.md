@@ -20,7 +20,7 @@ Un intervalle de confiance de niveau $100(1-\alpha)\,\%$ encadre un paramètre :
 > [!warning] Écart dans le cours
 > Le tableau récapitulatif de [[Chp4 Part3 - Inferential statistics]] porte $\bar{X} + z_\alpha\sigma/\sqrt{n}$ dans les deux colonnes unilatérales pour $\sigma$ connu. L'intervalle supérieur devrait être $(\bar{X} - z_\alpha\sigma/\sqrt{n}, \infty)$ (complément).
 
-**En Data analysis** : les mêmes intervalles (moyenne, proportion, variance) servent avec les tests Z, t et du khi-deux ([[Test d'hypothèse]], [[Quantile]]). En régression, l'intervalle de la réponse moyenne est $\hat{y} \pm t_{\alpha/2}\,s\sqrt{1/n + (x_p - \bar{x})^2/SS_{xx}}$ ([[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]).
+**En Data analysis** : les mêmes intervalles (moyenne, proportion, variance) servent avec les tests Z, t et du khi-deux ([[Test d'hypothèse]], [[Quantile]]). En régression, l'intervalle de la réponse moyenne est $\hat{y} \pm t_{\alpha/2}\,s\sqrt{1/n + (x_p - \bar{x})^2/SS_{xx}}$ ([[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]).
 
 Liens : [[Estimateur]], [[Loi normale]], [[Distribution d'échantillonnage]]
 
@@ -30,4 +30,4 @@ Liens : [[Estimateur]], [[Loi normale]], [[Distribution d'échantillonnage]]
 - Le titre « mean known » est faux pour l'intervalle de la variance.
 - [[Cours 4 - Estimation]] et l'aide-mémoire ([[probabilité statistiques utilitaire (résumé)]]) notent $Z_\alpha$ là où il faut $z_{\alpha/2}$.
 
-Résumés : [[Chp4 Part2 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]], [[probabilité statistiques utilitaire (résumé)]], [[Cours 4 - Estimation (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]], [[Cours 8 - Chi²-Test (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[Chp4 Part2 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]], [[probabilité statistiques utilitaire (résumé)]], [[Séance 4 - Estimation (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]], [[Séance 8 - Chi²-Test (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]

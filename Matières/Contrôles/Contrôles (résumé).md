@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["raw/Year 1/Contrôles.pdf"]
+sources: [".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de `raw/Year 1/Contrôles.pdf` (35 pages, scan photographié, sans texte), lu en image. Ce sont des énoncés de contrôles de la 1re année (DD Ingénieur-Designer / PréING1, 2022-2023), sans corrigé. Le PDF est découpé en trois blocs par des pages de titre : **Analyse** (pages 1 à 17), **Algèbre** (pages 18 à 28) et **Informatique** (pages 29 à 35). Des annotations manuscrites (coches, brouillons) figurent sur les copies : elles ne sont pas reprises. Pour l'analyse, voir aussi [[Analyse Maths (matière)]] ; pour l'algèbre, [[Outil Maths (matière)]] et [[Algèbre linéaire (matière)]].
+Résumé de `.raw/Year 1/Contrôles.pdf` (35 pages, scan photographié, sans texte), lu en image. Ce sont des énoncés de contrôles de la 1re année (DD Ingénieur-Designer / PréING1, 2022-2023), sans corrigé. Le PDF est découpé en trois blocs par des pages de titre : **Analyse** (pages 1 à 17), **Algèbre** (pages 18 à 28) et **Informatique** (pages 29 à 35). Des annotations manuscrites (coches, brouillons) figurent sur les copies : elles ne sont pas reprises. Pour l'analyse, voir aussi [[Analyse Maths (matière)]] ; pour l'algèbre, [[Outil Maths (matière)]] et [[Algèbre linéaire (matière)]].
 
 ## Analyse (8 devoirs surveillés de 1 h 30)
 

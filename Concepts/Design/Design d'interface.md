@@ -13,4 +13,4 @@ En Corps à l'oeuvre, le sigle UI = user interface est seulement mentionné.
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Design system]], [[Maquette (design)]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]], [[Global Exam Vocab (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]], [[Global Exam Vocab (résumé)]]

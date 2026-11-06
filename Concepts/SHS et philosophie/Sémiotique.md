@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [sémiotique, analyse sémiotique, semiotics, étude des signes]
 matieres: [Sémiotique, SHS]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]", "[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Prolongement pour les interfaces : [[Analyse techno-sémiotique]].
 
 Voir aussi : [[Sémiologie]], [[Analyse techno-sémiotique]], [[Non-neutralité des objets techniques]], [[Types d'analyse d'une image]]
 
-Résumés : [[Cours 1 (PPTX) (résumé)|Cours 1 (PPTX) (résumé)]], [[Ethnographie visuelle (résumé)|Ethnographie visuelle (résumé)]]
+Résumés : [[Séance 1 (PPTX) (résumé)|Cours 1 (PPTX) (résumé)]], [[Ethnographie visuelle (résumé)|Ethnographie visuelle (résumé)]]

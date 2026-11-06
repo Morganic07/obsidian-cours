@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [graphe acyclique, acyclique, cycle élémentaire, cycle de longueur paire]
 matieres: [Algo, graph theory]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]", "[[Chp 1 - Undirected graph]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf", "[[Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 

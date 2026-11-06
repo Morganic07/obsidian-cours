@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]"]
+sources: [".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]] (4 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD sur les réels, en lien avec [[Chap1-reels (résumé)]]. Version 2020-2021.
+Résumé de TD1-numbres-reels (`.raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf`) (4 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD sur les réels, en lien avec [[Chap1-reels (résumé)]]. Version 2020-2021.
 
 ## Thèmes et méthodes (19 exercices)
 

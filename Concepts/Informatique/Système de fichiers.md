@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [file system, file systems, partitionnement]
 matieres: [Operating System]
-sources: ["[[OS - chp 2]]", "[[OS - chp 3]]", "[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]"]
+sources: ["[[OS - chp 2]]", "[[OS - chp 3]]", ".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf"]
 maj: 2026-11-06
 ---
 

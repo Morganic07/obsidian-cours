@@ -26,6 +26,6 @@ Le cours ajoute la sentience (conscience animale, notion d'éthologie), qui dép
 
 En IA, la cybernétique de Norbert Wiener (1948) est seulement nommée parmi les précurseurs de l'[[Intelligence artificielle]], sans définition.
 
-Notion parente : [[Organisme et machine]]. Voir aussi : [[Animal-machine]], la frise de l'IA de [[Cours 1 - IA (résumé)|Cours 1 (IA)]], et [[text1 (résumé)]] en SHS (cyborg, voiture prolongement du corps).
+Notion parente : [[Organisme et machine]]. Voir aussi : [[Animal-machine]], la frise de l'IA de [[Séance 1 - IA (résumé)|Cours 1 (IA)]], et [[text1 (résumé)]] en SHS (cyborg, voiture prolongement du corps).
 
-Résumés : [[philo 5 (résumé)|philo 5 (résumé)]], [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[philo 5 (résumé)|philo 5 (résumé)]], [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

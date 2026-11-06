@@ -23,4 +23,4 @@ D'après [[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]
 
 Voir aussi : [[Langage R]].
 
-Résumés : [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]
+Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]

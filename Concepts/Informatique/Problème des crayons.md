@@ -19,4 +19,4 @@ Notion parente : [[Récurrence]].
 
 - L'erreur est dans l'hérédité de $k = 1$ à $k = 2$ (il n'y a alors aucun crayon commun) ; l'étudiant écrit « vrai pour n ≥ 3 », ce qui est faux. Ce diagnostic est un complément du résumé, le cours ne le dit pas.
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

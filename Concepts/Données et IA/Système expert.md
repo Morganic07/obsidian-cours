@@ -20,4 +20,4 @@ Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : les syst
 
 Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Logic Theorist]], [[ELIZA]], [[Deep Blue]], [[IA générative]], [[Hallucination (IA)]], [[Design des règles]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA) (résumé)]], [[Recherches SHS (résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA) (résumé)]], [[Recherches SHS (résumé)]]

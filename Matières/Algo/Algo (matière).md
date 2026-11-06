@@ -23,11 +23,11 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| [[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf\|Chapitre3-Arbres]] | Rappel sur les graphes, définition et vocabulaire des arbres | [[Chapitre3-Arbres (résumé)\|Résumé]] |
-| [[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf\|Chapitre4-Preing2ID]] | Arbres binaires : propriétés, parcours, code Python | [[Chapitre4-Preing2ID (résumé)\|Résumé]] |
-| [[raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf\|Chapitre5-ABR]] | Arbres binaires de recherche : insertion, recherche, suppression | [[Chapitre5-ABR (résumé)\|Résumé]] |
-| [[raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf\|Projet-Arbre-AVL-ID2]] | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
-| [[raw/Year 2/Algo/DM/ARBRE AVL.pdf\|ARBRE AVL]] | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[ARBRE AVL (résumé)\|Résumé]] |
+| Chapitre3-Arbres (`.raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf`) | Rappel sur les graphes, définition et vocabulaire des arbres | [[Chapitre3-Arbres (résumé)\|Résumé]] |
+| Chapitre4-Preing2ID (`.raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf`) | Arbres binaires : propriétés, parcours, code Python | [[Chapitre4-Preing2ID (résumé)\|Résumé]] |
+| Chapitre5-ABR (`.raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf`) | Arbres binaires de recherche : insertion, recherche, suppression | [[Chapitre5-ABR (résumé)\|Résumé]] |
+| Projet-Arbre-AVL-ID2 (`.raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf`) | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
+| ARBRE AVL (`.raw/Year 2/Algo/DM/ARBRE AVL.pdf`) | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[ARBRE AVL (résumé)\|Résumé]] |
 
 ## Concepts
 

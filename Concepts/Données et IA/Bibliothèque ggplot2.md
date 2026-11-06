@@ -11,4 +11,4 @@ Nommé dans [[Cours 3 - Paradoxe de Simpson]] sans définition : paquet R de gra
 
 Notion parente : [[Langage R]]. Voir aussi : [[Paradoxe de Simpson]].
 
-Résumés : [[Cours 3 - Paradoxe de Simpson (résumé)]]
+Résumés : [[Séance 3 - Paradoxe de Simpson (résumé)]]

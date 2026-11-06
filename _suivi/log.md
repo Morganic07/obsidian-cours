@@ -42,7 +42,7 @@ Niveau de détail validé sur le test. 7 notes intégrées, soit 8 sur 8 pour ce
 
 ## [2026-11-05] import | Dossier raw et dessins récupérés
 
-Le miroir de Drive passe dans `raw/`, exclu de git. La conversion ignorait les dessins groupés de Google Docs : 82 groupes dans 176 documents, soit 97 images et le texte de 45 encadrés absents des notes. Le script les remplace désormais par leurs images et une ligne « Texte du dessin ». La disposition et les flèches restent perdues. Les 97 images sont transcrites, ce qui porte le total à 1 978.
+Le miroir de Drive passe dans `.raw/`, exclu de git. La conversion ignorait les dessins groupés de Google Docs : 82 groupes dans 176 documents, soit 97 images et le texte de 45 encadrés absents des notes. Le script les remplace désormais par leurs images et une ligne « Texte du dessin ». La disposition et les flèches restent perdues. Les 97 images sont transcrites, ce qui porte le total à 1 978.
 
 ## [2026-11-05] ingest | Year 1/Algèbre Linéaire
 
@@ -54,7 +54,7 @@ Le miroir de Drive passe dans `raw/`, exclu de git. La conversion ignorait les d
 
 ## [2026-11-05] import | Retrait d'un dossier administratif
 
-Un dossier de documents administratifs est retiré de `raw/`, de `Cours/` et de `.transcriptions/`, et exclu des prochaines mises à jour depuis Drive. Il reste 175 notes, 53 PDF et 1 976 transcriptions.
+Un dossier de documents administratifs est retiré de `.raw/`, de `Cours/` et de `.transcriptions/`, et exclu des prochaines mises à jour depuis Drive. Il reste 175 notes, 53 PDF et 1 976 transcriptions.
 
 ## [2026-11-05] ingest | Year 2/Analyse dans Rn
 
@@ -70,15 +70,15 @@ Un dossier de documents administratifs est retiré de `raw/`, de `Cours/` et de 
 
 ## [2026-11-05] import | Retrait de notes personnelles
 
-10 notes personnelles sont retirées de `raw/`, de `Cours/`, de `.transcriptions/` et du wiki, et exclues des prochaines mises à jour depuis Drive : un dossier de Dessein au cube, une fiche, les devoirs de Peinture et une note d'instructions. Six résumés sont renommés pour ne plus porter de nom de personne. Il reste 165 notes et 163 résumés.
+10 notes personnelles sont retirées de `.raw/`, de `Cours/`, de `.transcriptions/` et du wiki, et exclues des prochaines mises à jour depuis Drive : un dossier de Dessein au cube, une fiche, les devoirs de Peinture et une note d'instructions. Six résumés sont renommés pour ne plus porter de nom de personne. Il reste 165 notes et 163 résumés.
 
 ## [2026-11-06] import | Retrait de trois notes isolées
 
-Trois notes sans lien entrant, dont deux portaient un nom de personne, sont retirées de `raw/` et de `Cours/` et exclues des mises à jour. Leurs résumés restent. Il reste 162 notes.
+Trois notes sans lien entrant, dont deux portaient un nom de personne, sont retirées de `.raw/` et de `Cours/` et exclues des mises à jour. Leurs résumés restent. Il reste 162 notes.
 
 ## [2026-11-06] ingest | Documents PDF et PPTX
 
-Les 53 PDF et 6 PPTX de `raw/` sont résumés en 4 lots, soit 1 515 pages : 59 résumés, 15 concepts et 5 nouvelles pages de matière (Year 2 - SHS, Year 3 - Affordance, Year 3 - Projet courts, Year 3 - Sémiotique, Year 4 - culture du soin). Les documents sont lus par leur texte extrait, et une page n'est ouverte en image que si le texte est illisible ou douteux. Lectures partielles : les gros documents de diapositives (AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites), text2 et text3 de SHS. Les liens vers trois fichiers dont le nom pose problème sont écrits en texte simple.
+Les 53 PDF et 6 PPTX de `.raw/` sont résumés en 4 lots, soit 1 515 pages : 59 résumés, 15 concepts et 5 nouvelles pages de matière (Year 2 - SHS, Year 3 - Affordance, Year 3 - Projet courts, Year 3 - Sémiotique, Year 4 - culture du soin). Les documents sont lus par leur texte extrait, et une page n'est ouverte en image que si le texte est illisible ou douteux. Lectures partielles : les gros documents de diapositives (AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites), text2 et text3 de SHS. Les liens vers trois fichiers dont le nom pose problème sont écrits en texte simple.
 
 ## [2026-11-06] ingest | Compléments des concepts
 
@@ -90,13 +90,13 @@ Deux fichiers changés sur Drive, aucune image à transcrire. Nouvelle note `Yea
 
 ## [2026-11-06] ingest | Une page par notion nommée dans les cours
 
-Règle choisie : toute notion nommée dans un cours a sa page, pour apparaître dans le graphe. Les 223 résumés (docx, PDF, PPTX) sont repassés en 8 lots, avec vérification dans la note de `Cours/` ou le document de `raw/` : 1 443 notions relevées, fusionnées en 1 064 pages nouvelles (65 regroupent plusieurs relevés, Weka écarté) et 302 compléments de pages existantes. `Concepts/` passe de 201 à 1 265 pages. Les sous-notions qui n'étaient qu'un alias d'une page plus large ont leur page, et l'alias quitte la page parente, qui renvoie désormais vers elles (Arbre de décision vers Indice de Gini, ID3, CART ; Graphe non orienté vers 12 pages ; Logique propositionnelle, Sémiotique vers Sémiologie, etc.). « noyau » reste sur Espace nul : ses matières ne recoupent pas celles de Noyau.
+Règle choisie : toute notion nommée dans un cours a sa page, pour apparaître dans le graphe. Les 223 résumés (docx, PDF, PPTX) sont repassés en 8 lots, avec vérification dans la note de `Cours/` ou le document de `.raw/` : 1 443 notions relevées, fusionnées en 1 064 pages nouvelles (65 regroupent plusieurs relevés, Weka écarté) et 302 compléments de pages existantes. `Concepts/` passe de 201 à 1 265 pages. Les sous-notions qui n'étaient qu'un alias d'une page plus large ont leur page, et l'alias quitte la page parente, qui renvoie désormais vers elles (Arbre de décision vers Indice de Gini, ID3, CART ; Graphe non orienté vers 12 pages ; Logique propositionnelle, Sémiotique vers Sémiologie, etc.). « noyau » reste sur Espace nul : ses matières ne recoupent pas celles de Noyau.
 
 Les erreurs apparentes des cours sont recopiées dans les sections « À vérifier » sans être corrigées (C : `if (a=3)`, `^`, taille d'un `int` ; OS : `/etc/passwd` et `/etc/shadow`, `ls -l`, crontab ; Outil Maths : De Morgan, antisymétrie ; Bauhaus, Hegel, etc.), ainsi que les désaccords entre sources (hauteur d'un arbre, seuil de l'approximation normale, nombre de limites planétaires dépassées). Les pages tirées d'un travail d'étudiant, d'un entretien ou d'un texte généré le disent. Les sources dont le nom de fichier porte un nom de personne sont citées en texte simple.
 
 Reconversion : 1 271 nouveaux liens automatiques dans `Cours/`, vers 750 concepts, aucune alerte de collision. Échantillon de 70 liens relu ; deux faux liens corrigés en limitant `matieres` (« opérations élémentaires » en graph theory, « bande magnétique » d'une carte bancaire). Pages de `Matières/` et `index.md` mis à jour.
 
-Restent ouverts : les liens vers `raw/Year 1/Contrôles.pdf` et le PDF de management de l'innovation, dont le nom est en Unicode décomposé sur le disque, à vérifier dans Obsidian ; les noms de page à valider (Comatrice, Compact élémentaire, Littératie numérique) ; le doublon entre Matrice inversible et Théorème de la matrice inversible ; Nombre d'Armstrong et Nombre parfait sans définition, faute d'avoir lu les pages scannées de `Contrôles.pdf`.
+Restent ouverts : les liens vers `.raw/Year 1/Contrôles.pdf` et le PDF de management de l'innovation, dont le nom est en Unicode décomposé sur le disque, à vérifier dans Obsidian ; les noms de page à valider (Comatrice, Compact élémentaire, Littératie numérique) ; le doublon entre Matrice inversible et Théorème de la matrice inversible ; Nombre d'Armstrong et Nombre parfait sans définition, faute d'avoir lu les pages scannées de `Contrôles.pdf`.
 
 ## [2026-11-06] schema | Nouvelle arborescence : matières sans année, concepts par domaine
 

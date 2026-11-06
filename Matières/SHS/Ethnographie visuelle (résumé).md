@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]
+sources: [".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"]
 maj: 2026-11-06
 ---
 

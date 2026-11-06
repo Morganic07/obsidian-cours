@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [architecture biomimétique, biomimétique, biomimicry]
 matieres: [Projet design, Culture du vivant]
-sources: ["[[exposé melvita]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: ["[[exposé melvita]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 

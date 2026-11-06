@@ -11,8 +11,8 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[Cours 1 et 2 - Database (résumé)\|Résumé]] |
-| [[Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[Cours 3 - opérateurs et SQL (résumé)\|Résumé]] |
+| [[Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[Séances 1 et 2 - Database (résumé)\|Résumé]] |
+| [[Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[Séance 3 - opérateurs et SQL (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -23,8 +23,8 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 ## À revoir en priorité avant un examen
 
-- [[Cours 3 - opérateurs et SQL (résumé)]] : `REVOKE ... TO user` devrait être `REVOKE ... FROM user`.
-- [[Cours 1 et 2 - Database (résumé)]] : le cas « one to one » est en réalité un many-to-one.
+- [[Séance 3 - opérateurs et SQL (résumé)]] : `REVOKE ... TO user` devrait être `REVOKE ... FROM user`.
+- [[Séances 1 et 2 - Database (résumé)]] : le cas « one to one » est en réalité un many-to-one.
 
 ## Liens avec les autres matières
 

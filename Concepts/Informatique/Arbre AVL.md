@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [AVL, arbres AVL, arbre binaire de recherche équilibré, rotation droite, rotation gauche, double rotation, facteur d'équilibrage, Adelson-Velsky et Landis, rotation simple, double rotation droite-gauche, double rotation gauche-droite, rééquilibrage, equilibrer, rebalance]
 matieres: [Algo]
-sources: ["[[AVL momo]]", "[[qui dit quoi AVL]]", "[[raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL]]", "[[raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2]]"]
+sources: ["[[AVL momo]]", "[[qui dit quoi AVL]]", ".raw/Year 2/Algo/DM/ARBRE AVL.pdf", ".raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf"]
 maj: 2026-11-06
 ---
 

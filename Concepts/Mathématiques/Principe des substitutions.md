@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf"]
 maj: 2026-11-06
 ---
 

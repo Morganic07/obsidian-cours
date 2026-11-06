@@ -27,4 +27,4 @@ Notion parente : [[Statistique inférentielle]]. Voir aussi : [[Erreur de type I
 
 - Signes perdus dans Cours 5 : « H1 : μ = 12,7 » pour μ ≠ 12,7, et « μ = # ou μ ≠ # » pour μ > # ou μ < #.
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

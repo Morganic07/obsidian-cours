@@ -18,7 +18,7 @@ sources:
   - "[[chp 1 - Orthogonality]]"
   - "[[chp1|chp1 (Algèbre)]]"
   - "[[chp6|chp6 (Algèbre)]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Contrôles.pdf"
 maj: 2026-11-06
 ---
 

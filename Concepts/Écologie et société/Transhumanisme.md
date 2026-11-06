@@ -15,4 +15,4 @@ Voir aussi : [[Progrès technique]], [[Cyborg]].
 
 Le cours écrit « Transhumanité », pas « transhumanisme ».
 
-Résumés : [[Culture Vivant COURS 2 EXPLICATION (résumé)]]
+Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]]

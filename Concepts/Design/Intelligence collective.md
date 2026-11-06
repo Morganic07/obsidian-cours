@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [design participatif, coconstruction]
 matieres: [Projet Design, Projet courts]
-sources: ["raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf", "PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: [".raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf", "PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

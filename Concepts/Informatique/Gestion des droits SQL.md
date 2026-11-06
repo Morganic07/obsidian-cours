@@ -16,4 +16,4 @@ Notion parente : [[Langage SQL]]. Voir aussi : [[Système de gestion de base de 
 - Le cours écrit `REVOKE UPDATE ON dbname.tablename TO user` : il faut `FROM` (à corriger avant un examen).
 - `IDENTIFIED BY` est propre à certaines versions de MySQL.
 
-Résumés : [[Cours 3 - opérateurs et SQL (résumé)]]
+Résumés : [[Séance 3 - opérateurs et SQL (résumé)]]

@@ -49,4 +49,4 @@ Voir [[Contraste des couleurs]], [[Teinte et valeur]], [[Fauvisme]].
 
 Le glossaire donne « bleu + vert = vert foncé » comme exemple de tertiaire : sur le cercle d'Itten, c'est le vert bleuté.
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (résumé)]], [[Cours 2 (résumé)|Cours 2 (résumé)]], [[Global Exam Vocab (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (résumé)]], [[Séance 2 (résumé)|Cours 2 (résumé)]], [[Global Exam Vocab (résumé)]]

@@ -10,4 +10,4 @@ Nommée dans [[Culture du vivant Dernier cours]] sans définition, parmi les out
 
 Notion parente : [[Responsabilité sociétale des entreprises]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

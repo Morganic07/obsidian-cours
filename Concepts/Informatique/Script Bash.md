@@ -21,4 +21,4 @@ Exemples faits en TP et en DM : boucle infinie qui ajoute la date toutes les 2 s
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Shebang]], [[Exécution d'un script]], [[Variable Bash]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Sauvegarde de fichier]], [[Permissions Unix]], [[Tâche planifiée cron]]
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]

@@ -26,4 +26,4 @@ Voir aussi : [[Data frame]], [[Facteur (variable catégorielle)]], [[Formule de 
 
 - Cours 1 : `myframe[1:5]` sélectionne des colonnes, pas des lignes.
 
-Résumés : [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]], [[Summary functions in RStudio (résumé)]], [[Cours 13 - PCA in R (résumé)]], [[Cours 3 - Paradoxe de Simpson (résumé)]]
+Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]], [[Summary functions in RStudio (résumé)]], [[Séance 13 - PCA in R (résumé)]], [[Séance 3 - Paradoxe de Simpson (résumé)]]

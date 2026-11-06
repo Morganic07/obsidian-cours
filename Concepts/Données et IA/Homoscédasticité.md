@@ -7,8 +7,8 @@ sources: ["[[Cours 10 - linear regression]]"]
 maj: 2026-11-06
 ---
 
-Variance constante de l'erreur, une des conditions de la régression linéaire. Elle se vérifie sur le graphique des résidus, qui ne doit pas prendre de forme d'entonnoir ([[Cours 10 - linear regression]]). L'[[ANOVA]] demande aussi l'égalité des variances ([[Cours 12 - ANOVA and F-statistic (résumé)]]).
+Variance constante de l'erreur, une des conditions de la régression linéaire. Elle se vérifie sur le graphique des résidus, qui ne doit pas prendre de forme d'entonnoir ([[Cours 10 - linear regression]]). L'[[ANOVA]] demande aussi l'égalité des variances ([[Séance 12 - ANOVA and F-statistic (résumé)]]).
 
 Notion parente : [[Régression linéaire]]. Voir aussi : [[Résidu (régression)]], [[ANOVA]].
 
-Résumés : [[Cours 10 - linear regression (résumé)]], [[Cours 12 - ANOVA and F-statistic (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]]

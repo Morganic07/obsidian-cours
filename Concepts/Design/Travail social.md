@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [travailleur social, travailleurs sociaux]
-sources: ["raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf", "[[EDOSSAH]]"]
+sources: [".raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf", "[[EDOSSAH]]"]
 maj: 2026-11-06
 ---
 

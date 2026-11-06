@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [Cesàro, moyenne de Cesàro]
 matieres: [Analyse Maths]
-sources: ["[[raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]", "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]"]
+sources: [".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"]
 maj: 2026-11-06
 ---
 

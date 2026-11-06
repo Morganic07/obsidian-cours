@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [économie de la donnée, datafication, datafication du vivant, marchandisation du numérique]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Exemple du cours : pour une application de nature, identifier une plante, c'est 
 
 Voir aussi : [[Travail invisible des utilisateurs]], [[Traces numériques]], [[Impératif de productivité]], [[Logique du marché]].
 
-Résumés : [[Cours 4 (PPTX) (résumé)]]
+Résumés : [[Séance 4 (PPTX) (résumé)]]

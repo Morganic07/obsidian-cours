@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [séries numériques, numerical series, série convergente, série divergente, série géométrique, série harmonique, série de Riemann, séries de Riemann, p-series, série alternée, convergence absolue, absolutely convergent, série télescopique, somme partielle, telescoping series, harmonic series]
 matieres: [Séries, Analyse Maths, Analyse]
-sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series]]", "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]", "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"]
+sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series]]", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf", ".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"]
 maj: 2026-11-06
 ---
 

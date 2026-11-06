@@ -16,7 +16,7 @@ import zipfile
 from pathlib import Path
 
 ICI = Path(__file__).resolve().parent
-MIROIR_DEFAUT = ICI.parent / "raw"
+MIROIR_DEFAUT = ICI.parent / ".raw"
 URI_IMAGE = "http://schemas.openxmlformats.org/drawingml/2006/picture"
 GROUPE_DESSIN = re.compile(r"<mc:AlternateContent\b.*?</mc:AlternateContent>", re.S)
 

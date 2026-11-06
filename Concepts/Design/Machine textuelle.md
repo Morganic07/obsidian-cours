@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [machines textuelles]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Les dispositifs numériques sont des machines textuelles : ils transforment nos 
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Externalisation des facultés]], [[Numérique comme écriture]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

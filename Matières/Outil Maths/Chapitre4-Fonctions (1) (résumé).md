@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre 4 - Fonctions (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du support du professeur [[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre 4 - Fonctions (PDF)]] (25 pages, 2023), dans [[Outil Maths (matière)]]. Ce chapitre n'existe qu'en PDF. Il prolonge [[Chapitre 3 - Relation binaire (résumé)]] (une fonction est une relation binaire) et [[Chapitre2-Ensemble (4) (résumé)]]. Les propriétés d'injectivité et de surjectivité sont reprises, pour les applications linéaires, dans [[Injectivité et surjectivité]].
+Résumé du support du professeur Chapitre 4 - Fonctions (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf`) (25 pages, 2023), dans [[Outil Maths (matière)]]. Ce chapitre n'existe qu'en PDF. Il prolonge [[Chapitre 3 - Relation binaire (résumé)]] (une fonction est une relation binaire) et [[Chapitre2-Ensemble (4) (résumé)]]. Les propriétés d'injectivité et de surjectivité sont reprises, pour les applications linéaires, dans [[Injectivité et surjectivité]].
 
 ## Contenu, dans l'ordre
 

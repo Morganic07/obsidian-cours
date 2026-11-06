@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]"]
+sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]] (6 pages, 18 novembre 2024, cours « UNIX Commands »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu correspondant est [[TP2 (résumé)]] ; les notes de cours, [[Cours TP2 (résumé)]].
+Résumé du PDF Copy of TP2-Commands (`.raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf`) (6 pages, 18 novembre 2024, cours « UNIX Commands »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu correspondant est [[TP2 (résumé)]] ; les notes de cours, [[Séance TP2 (résumé)]].
 
 ## Ce qui est demandé
 

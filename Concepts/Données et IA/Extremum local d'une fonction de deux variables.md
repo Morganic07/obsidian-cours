@@ -12,4 +12,4 @@ Le cours s'en sert comme d'un outil, sans en donner d'énoncé général.
 
 Notion parente : [[Dérivée partielle]]. Voir aussi : [[Moindres carrés]].
 
-Résumés : [[Cours 10 - linear regression (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]]

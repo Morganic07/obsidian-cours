@@ -18,4 +18,4 @@ maj: 2026-11-06
 
 Notion parente : [[Numération binaire]]. Voir aussi : [[Code de Gray]].
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[explications DM d'algo (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[explications DM d'algo (résumé)]]

@@ -15,4 +15,4 @@ Voir aussi : [[Échantillonnage]], [[Paramètre et statistique]], [[Statistique 
 
 - La définition de « variable » dans le cours est confuse (« average of \$ spent per one individual »).
 
-Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Cours 7 - Z-Test (résumé)]]
+Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Séance 7 - Z-Test (résumé)]]

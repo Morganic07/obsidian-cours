@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Substitution de commande]], [[Sauvegarde de fichier]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Cours TP3 (résumé)]], [[Cours TP2 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP3 (résumé)]], [[Séance TP2 (résumé)]]

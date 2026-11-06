@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Fichiers de mots de passe]], [[Hachage de mot de passe]].
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]]

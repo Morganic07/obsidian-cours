@@ -13,4 +13,4 @@ Le terme est proposé à la [[Conférence de Dartmouth]] en 1956. [[Cours/Year 3
 
 Voir aussi : [[Conférence de Dartmouth]], [[Approche symbolique et connexionniste]], [[Apprentissage automatique]], [[IA hybride]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

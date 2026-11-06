@@ -26,4 +26,4 @@ Liens : [[Valeur propre]], [[Matrice orthogonale]], [[Rang d'une matrice]], [[An
 
 - [[Chp2 - Symmetric matrices and quadratic forms]] : coquille $V^r$ pour $V^T$, et une taille « $n \times m$ » contre $m \times n$ ailleurs.
 
-Résumés : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]

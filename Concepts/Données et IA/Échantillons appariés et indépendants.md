@@ -17,4 +17,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Test t]].
 
 - Le cours conseille à tort un « two-sample t-test » pour le cas apparié.
 
-Résumés : [[Cours 7 - Z-Test (résumé)]]
+Résumés : [[Séance 7 - Z-Test (résumé)]]

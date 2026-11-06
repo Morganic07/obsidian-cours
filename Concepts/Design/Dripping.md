@@ -14,4 +14,4 @@ Technique inventée par Jackson Pollock au milieu du XXe siècle : jeter de la p
 
 Notion parente : [[Expressionnisme abstrait]].
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (Peinture) (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (Peinture) (résumé)]]

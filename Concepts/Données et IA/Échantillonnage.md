@@ -21,4 +21,4 @@ Un échantillon est une partie de la population, tirée pour estimer un paramèt
 
 Liens : [[Population et échantillon]], [[Erreur d'échantillonnage]], [[Tirage avec et sans remise]], [[Distribution d'échantillonnage]], [[Estimateur]]
 
-Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Chp3 - More on probability (résumé)]], [[Cours 4 - Estimation (résumé)]]
+Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Chp3 - More on probability (résumé)]], [[Séance 4 - Estimation (résumé)]]

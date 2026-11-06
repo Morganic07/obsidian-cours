@@ -13,4 +13,4 @@ Le projet Ligue Football impose [[PostgreSQL]] ([[sujet database (résumé)]]).
 
 Voir aussi : [[Langage SQL]], [[Architecture n-tiers]], [[PostgreSQL]].
 
-Résumés : [[Cours 3 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]

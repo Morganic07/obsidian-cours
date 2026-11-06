@@ -20,7 +20,7 @@ sources:
   - "[[Chp 0a - Linear combination]]"
   - "[[Chp 0e - Eigenvalues and eigenvectors]]"
   - "[[chp3|chp3 (Algèbre)]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Contrôles.pdf"
 maj: 2026-11-06
 ---
 

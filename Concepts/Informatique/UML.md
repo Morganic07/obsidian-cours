@@ -11,4 +11,4 @@ Nommé dans [[Cours 1 et 2 - Database]] sans définition détaillée : UML y est
 
 Voir aussi : [[Héritage en base de données]].
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]]

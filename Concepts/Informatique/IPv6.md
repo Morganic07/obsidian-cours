@@ -16,6 +16,6 @@ Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[Interface réseau]].
 
 ## À vérifier
 
-- Le nombre d'adresses IPv4 diffère selon les sources : 4,3 milliards dans [[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]], 4,2 milliards dans [[Chp5 - NAT ／ PAT]].
+- Le nombre d'adresses IPv4 diffère selon les sources : 4,3 milliards dans 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`), 4,2 milliards dans [[Chp5 - NAT ／ PAT]].
 
-Résumés : [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]]

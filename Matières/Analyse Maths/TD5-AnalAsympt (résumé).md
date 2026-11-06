@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf|TD5-AnalAsympt]]"]
+sources: [".raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf|TD5-AnalAsympt]] (5 pages, énoncés seuls, version 2020-2021 « CPI 1 »), dans [[Analyse Maths (matière)]]. Son corrigé est résumé dans [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]. Le TD accompagne le cours [[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]] : voir [[chp5 - Analyse Maths (résumé)|son résumé]].
+Résumé de TD5-AnalAsympt (`.raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf`) (5 pages, énoncés seuls, version 2020-2021 « CPI 1 »), dans [[Analyse Maths (matière)]]. Son corrigé est résumé dans [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]. Le TD accompagne le cours [[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]] : voir [[chp5 - Analyse Maths (résumé)|son résumé]].
 
 ## Plan (24 exercices en trois parties)
 

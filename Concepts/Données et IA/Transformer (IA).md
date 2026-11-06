@@ -17,4 +17,4 @@ Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : famille 
 
 Notion parente : [[Apprentissage profond]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

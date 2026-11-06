@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [arbre binaire de recherche, arbres binaires de recherche, ABR, binary search tree, BST, successeur dans un ABR, get_successor]
 matieres: [Algo]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR]]", "[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf", ".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf"]
 maj: 2026-11-06
 ---
 

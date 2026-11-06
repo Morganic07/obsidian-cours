@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: ["formules d'addition", formules de duplication, formules de produit, formules de trigonométrie, formulaire de trigonométrie, formules de trigo, formule de duplication]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel]]", "[[Chapitre 5 - Complexes]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf", "[[Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 

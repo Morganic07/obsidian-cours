@@ -24,4 +24,4 @@ Notion parente : [[Régression linéaire]]. Voir aussi : [[ANOVA]], [[Statistiqu
 - Les valeurs SSW = 54 et SSB = 203,3 de l'exemple de Cours 12 ne correspondent pas aux données affichées : on recalcule 77,2 et environ 230,5.
 - RSS désigne ici la somme résiduelle : à ne pas confondre avec SSR, la somme expliquée.
 
-Résumés : [[Cours 10 - linear regression (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Cours 12 - ANOVA and F-statistic (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]]

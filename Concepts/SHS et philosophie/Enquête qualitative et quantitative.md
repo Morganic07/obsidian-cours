@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [enquête qualitative, enquête quantitative, étude qualitative, méthode qualitative, méthode quantitative, étude de terrain, enquête de terrain]
-sources: ["[[raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25]]", "[[raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller]]"]
+sources: [".raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf"]
 maj: 2026-11-06
 ---
 

@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Chemin de fichier]], [[Répertoire personnel]], [[Commande pwd]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[cours TP1 (résumé)]], [[OS - chp 5 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[OS - chp 5 (résumé)]]

@@ -10,4 +10,4 @@ Les informations froides sont celles qu'on nous donne ; les informations chaudes
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Neuf sens]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

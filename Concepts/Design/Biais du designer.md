@@ -10,4 +10,4 @@ Avoir conscience qu'on est biaisé en tant que designer. Le cours l'illustre par
 
 Notion parente : [[Biais cognitif]].
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

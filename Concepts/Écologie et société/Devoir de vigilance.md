@@ -10,4 +10,4 @@ Nommé dans [[Culture du vivant Dernier cours]] sans définition, parmi les rég
 
 Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[CSRD]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

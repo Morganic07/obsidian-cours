@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [division entière, quotient et reste, DIV et MOD]
 matieres: [Algo Maths]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf"]
 maj: 2026-11-06
 ---
 

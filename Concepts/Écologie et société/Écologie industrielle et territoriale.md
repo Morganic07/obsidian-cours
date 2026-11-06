@@ -15,4 +15,4 @@ Notion parente : [[Économie circulaire]].
 
 « symbiose industrielle » n'est pas dans le cours.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

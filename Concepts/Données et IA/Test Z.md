@@ -18,4 +18,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Test t]], [[Approximation
 
 - Condition « ≥ 5 », puis « > 5 » sur la même diapositive.
 
-Résumés : [[Cours 7 - Z-Test (résumé)]], [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 6 - T-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Séance 7 - Z-Test (résumé)]], [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

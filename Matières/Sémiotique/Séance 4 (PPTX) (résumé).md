@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
-Résumé du Cours 4 de [[Sémiotique (matière)]] (séance 4 : « Le formatage, c'est du pouvoir », 28 diapositives). Précédent : [[Cours 3 (PPTX) (résumé)|Cours 3]].
+Résumé du Cours 4 de [[Sémiotique (matière)]] (séance 4 : « Le formatage, c'est du pouvoir », 28 diapositives). Précédent : [[Séance 3 (PPTX) (résumé)|Cours 3]].
 
 **Objectifs.** Regarder l'écran comme un dispositif de pouvoir ; analyser son corpus sous l'angle des enjeux de pouvoir ; s'accorder sur les hypothèses (de recherche et de design) de l'étude de cas. Le diaporama met à jour les livrables : les notes 3 et 4 deviennent les notes 2 et 3 (barrées sur la diapositive), ce qui semble indiquer une réorganisation du barème.
 

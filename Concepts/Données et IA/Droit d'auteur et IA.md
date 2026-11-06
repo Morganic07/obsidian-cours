@@ -30,4 +30,4 @@ Le cours est une présentation de 2023 à 2025 : le droit évolue.
 
 Voir aussi : [[Domaine public]], [[Prompt (IA)]]
 
-Résumé : [[Cours 1 - IA (résumé)|Cours 1 (IA)]]
+Résumé : [[Séance 1 - IA (résumé)|Cours 1 (IA)]]

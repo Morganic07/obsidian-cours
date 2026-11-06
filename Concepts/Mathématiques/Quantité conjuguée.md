@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [multiplier par la quantité conjuguée]
-sources: ["[[raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]", "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"]
+sources: [".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf", ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"]
 maj: 2026-11-06
 ---
 

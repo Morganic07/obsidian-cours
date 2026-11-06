@@ -14,4 +14,4 @@ maj: 2026-11-06
 
 Nommé dans le cours de peinture, avec Claude Monet comme référence, sans définition.
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (Peinture) (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (Peinture) (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [borne supérieure, borne inférieure, bornes supérieure et inférieure, propriété de la borne supérieure, supremum, infimum, least upper bound]
 matieres: [Analyse Maths, Outil Maths]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]", "[[raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides]]", "[[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]]", "[[Chapitre 3 - Relation binaire]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/td1slides.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf", "[[Chapitre 3 - Relation binaire]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Démon, daemon, cron daemon, service système]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]", "[[Cours TP4]]"]
+sources: [".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf", "[[Cours TP4]]"]
 maj: 2026-11-06
 ---
 

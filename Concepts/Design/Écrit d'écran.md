@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [écrit d'écran, écrits d'écran, écrits d'écrans, texte d'écran, textes d'écran, image du texte]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Idée du cours : « le numérique, c'est de l'écriture ». Tout dispositif à �
 
 Voir [[Architexte]], [[Analyse techno-sémiotique]], [[Quatre cadres de l'écrit d'écran]], [[Numérique comme écriture]].
 
-Résumé : [[Cours 2 (PPTX) (résumé)|Cours 2 (PPTX) (résumé)]]
+Résumé : [[Séance 2 (PPTX) (résumé)|Cours 2 (PPTX) (résumé)]]

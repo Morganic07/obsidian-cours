@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [portée d'une variable, portée des variables, scope d'une variable, erreur de scope, variable locale, variables locales, variable globale, variables globales]
 matieres: [Java, Algo Maths]
-sources: ["[[Chp1 - Intro Java]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: ["[[Chp1 - Intro Java]]", ".raw/Year 1/Algo Maths/AlgoID1.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

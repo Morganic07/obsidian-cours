@@ -16,4 +16,4 @@ Notion parente : [[Type d'association]]. Voir aussi : [[Clé primaire et clé é
 
 - L'année « 24-23 » de l'exemple du cours est incohérente.
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]

@@ -11,4 +11,4 @@ Tableau croisé de deux variables catégorielles, sur lequel on fait le [[Test d
 
 Notion parente : [[Test du χ²]].
 
-Résumés : [[Cours 8 - Chi²-Test (résumé)]]
+Résumés : [[Séance 8 - Chi²-Test (résumé)]]

@@ -27,20 +27,20 @@ Analyse de données avec R : rappels de statistique, tests d'hypothèse, corrél
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 3/Data analysis (Thanos)/Cours 1\|Cours 1]] | R : structures, fonctions, opérateurs | [[Cours 1 - Data analysis (Thanos) (résumé)\|Résumé]] |
-| [[Cours 2 - Introduction statistics]] | Descriptif et inférentiel, niveaux de mesure | [[Cours 2 - Introduction statistics (résumé)\|Résumé]] |
-| [[Cours 3 - Paradoxe de Simpson]] | Variable cachée | [[Cours 3 - Paradoxe de Simpson (résumé)\|Résumé]] |
-| [[Cours 4 - Estimation]] | Intervalle de confiance | [[Cours 4 - Estimation (résumé)\|Résumé]] |
-| [[Cours 5 - Hypothesis Testing]] | Hypothèses, erreurs, procédure | [[Cours 5 - Hypothesis Testing (résumé)\|Résumé]] |
-| [[Cours 6 - T-Test]] | Loi de Student, test t | [[Cours 6 - T-Test (résumé)\|Résumé]] |
-| [[Cours 7 - Z-Test]] | Tests Z, proportions | [[Cours 7 - Z-Test (résumé)\|Résumé]] |
-| [[Cours 8 - Chi²-Test]] | χ², variance, indépendance | [[Cours 8 - Chi²-Test (résumé)\|Résumé]] |
-| [[Cours 9 - Covariance and Correlation]] | Covariance, Pearson, Spearman, Kendall | [[Cours 9 - Covariance and Correlation (résumé)\|Résumé]] |
-| [[Cours 10 - linear regression]] | Régression simple, résidus | [[Cours 10 - linear regression (résumé)\|Résumé]] |
-| [[Cours 11 - Multiple Linear Regression and F-statistic]] | Prédiction, régression multiple, F | [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)\|Résumé]] |
-| [[Cours 12 - ANOVA and F-statistic]] | ANOVA | [[Cours 12 - ANOVA and F-statistic (résumé)\|Résumé]] |
-| [[Cours 13 - Principal Components Analysis]] | ACP | [[Cours 13 - Principal Components Analysis (résumé)\|Résumé]] |
-| [[Cours 13 - PCA in R]] | ACP en R | [[Cours 13 - PCA in R (résumé)\|Résumé]] |
+| [[Cours/Year 3/Data analysis (Thanos)/Cours 1\|Cours 1]] | R : structures, fonctions, opérateurs | [[Séance 1 - Data analysis (Thanos) (résumé)\|Résumé]] |
+| [[Cours 2 - Introduction statistics]] | Descriptif et inférentiel, niveaux de mesure | [[Séance 2 - Introduction statistics (résumé)\|Résumé]] |
+| [[Cours 3 - Paradoxe de Simpson]] | Variable cachée | [[Séance 3 - Paradoxe de Simpson (résumé)\|Résumé]] |
+| [[Cours 4 - Estimation]] | Intervalle de confiance | [[Séance 4 - Estimation (résumé)\|Résumé]] |
+| [[Cours 5 - Hypothesis Testing]] | Hypothèses, erreurs, procédure | [[Séance 5 - Hypothesis Testing (résumé)\|Résumé]] |
+| [[Cours 6 - T-Test]] | Loi de Student, test t | [[Séance 6 - T-Test (résumé)\|Résumé]] |
+| [[Cours 7 - Z-Test]] | Tests Z, proportions | [[Séance 7 - Z-Test (résumé)\|Résumé]] |
+| [[Cours 8 - Chi²-Test]] | χ², variance, indépendance | [[Séance 8 - Chi²-Test (résumé)\|Résumé]] |
+| [[Cours 9 - Covariance and Correlation]] | Covariance, Pearson, Spearman, Kendall | [[Séance 9 - Covariance and Correlation (résumé)\|Résumé]] |
+| [[Cours 10 - linear regression]] | Régression simple, résidus | [[Séance 10 - linear regression (résumé)\|Résumé]] |
+| [[Cours 11 - Multiple Linear Regression and F-statistic]] | Prédiction, régression multiple, F | [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)\|Résumé]] |
+| [[Cours 12 - ANOVA and F-statistic]] | ANOVA | [[Séance 12 - ANOVA and F-statistic (résumé)\|Résumé]] |
+| [[Cours 13 - Principal Components Analysis]] | ACP | [[Séance 13 - Principal Components Analysis (résumé)\|Résumé]] |
+| [[Cours 13 - PCA in R]] | ACP en R | [[Séance 13 - PCA in R (résumé)\|Résumé]] |
 | [[Summary functions in RStudio]] | Aide-mémoire R | [[Summary functions in RStudio (résumé)\|Résumé]] |
 
 ## Concepts
@@ -59,10 +59,10 @@ Analyse de données avec R : rappels de statistique, tests d'hypothèse, corrél
 
 ## À revoir en priorité avant un examen
 
-- [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]] : une diapositive écrit F à l'envers (non expliquée sur expliquée), et l'intervalle de prédiction de l'exemple a ses bornes inversées.
-- [[Cours 12 - ANOVA and F-statistic (résumé)]] : « F = 22,59, p > 0,05 » est faux (rejet), et les sommes des carrés affichées ne correspondent pas aux données.
-- [[Cours 7 - Z-Test (résumé)]] : des mesures avant et après traitement relèvent du test $t$ apparié, pas d'un « two-sample t-test ».
-- [[Cours 8 - Chi²-Test (résumé)]] : l'introduction de la loi du χ² confond $n$ et $n-1$ degrés ; le tableau récapitulatif des intervalles a un signe faux ; la colonne 0,005 de la table est douteuse.
+- [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]] : une diapositive écrit F à l'envers (non expliquée sur expliquée), et l'intervalle de prédiction de l'exemple a ses bornes inversées.
+- [[Séance 12 - ANOVA and F-statistic (résumé)]] : « F = 22,59, p > 0,05 » est faux (rejet), et les sommes des carrés affichées ne correspondent pas aux données.
+- [[Séance 7 - Z-Test (résumé)]] : des mesures avant et après traitement relèvent du test $t$ apparié, pas d'un « two-sample t-test ».
+- [[Séance 8 - Chi²-Test (résumé)]] : l'introduction de la loi du χ² confond $n$ et $n-1$ degrés ; le tableau récapitulatif des intervalles a un signe faux ; la colonne 0,005 de la table est douteuse.
 
 ## Liens avec les autres matières
 

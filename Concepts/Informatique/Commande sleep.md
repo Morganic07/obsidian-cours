@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [sleep 90]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]", "[[Cours TP3]]"]
+sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP3]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Tâche en arrière-plan]], [[Boucle (programmation)]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]], [[Cours TP3 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]], [[Séance TP3 (résumé)]], [[DM Shell Scripting (résumé)]]

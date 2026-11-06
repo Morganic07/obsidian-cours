@@ -17,4 +17,4 @@ Selon le nombre de variables étudiées, les données sont univariées, bivarié
 
 Voir aussi : [[Mesures de tendance centrale]], [[Facteur (variable catégorielle)]], [[Coefficient de variation]].
 
-Résumés : [[Cours 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]
+Résumés : [[Séance 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]

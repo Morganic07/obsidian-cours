@@ -15,4 +15,4 @@ Voir aussi : [[Réduction de dimension]], [[Analyse en composantes principales]]
 
 - Le cours décrit le phénomène sans le nommer : ni « surapprentissage » ni « overfitting » n'apparaissent dans la note. Le nom vient du résumé.
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]]

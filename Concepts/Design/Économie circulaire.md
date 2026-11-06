@@ -42,4 +42,4 @@ Voir aussi : [[Retail régénératif]], [[Servitisation]], [[Limites planétaire
 
 - La transcription de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
 
-Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[Culture du vivant Dernier cours (résumé)|Culture du vivant Dernier cours (résumé)]], [[exposé melvita (résumé)|exposé melvita (résumé)]], [[Topo ELBA (résumé)|Topo ELBA (résumé)]]
+Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours (résumé)]], [[exposé melvita (résumé)|exposé melvita (résumé)]], [[Topo ELBA (résumé)|Topo ELBA (résumé)]]

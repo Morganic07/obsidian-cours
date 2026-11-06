@@ -13,7 +13,7 @@ Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, éner
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 3/IA/Cours 1\|Cours 1 (IA)]] | Culture générale, prompts, familles d'IA, outils, énergie, politique, copyright | [[Cours 1 - IA (résumé)\|Résumé]] |
+| [[Cours/Year 3/IA/Cours 1\|Cours 1 (IA)]] | Culture générale, prompts, familles d'IA, outils, énergie, politique, copyright | [[Séance 1 - IA (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -26,7 +26,7 @@ Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, éner
 
 ## À revoir en priorité avant un examen
 
-- [[Cours 1 - IA (résumé)|Cours 1 (IA)]] : « les IA reposent sur des TPU et non des GPU » est inexact ; le classement de Google parmi les « open source » est à nuancer ; les consommations d'énergie de GPT-4, GPT-5 et Claude 3.5 sont des estimations sans source.
+- [[Séance 1 - IA (résumé)|Cours 1 (IA)]] : « les IA reposent sur des TPU et non des GPU » est inexact ; le classement de Google parmi les « open source » est à nuancer ; les consommations d'énergie de GPT-4, GPT-5 et Claude 3.5 sont des estimations sans source.
 
 ## Liens avec les autres matières
 

@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Expansion d'accolades]], [[Caractère d'échappement]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[cours TP1 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[TP2 (résumé)]]

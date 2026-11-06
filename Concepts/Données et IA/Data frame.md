@@ -19,4 +19,4 @@ Accès : `myframe$age` (une colonne), `y[1,]` (une ligne), `y[,1]` (une colonne)
 
 Notion parente : [[Langage R]].
 
-Résumés : [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis, résumé)]]
+Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis, résumé)]]

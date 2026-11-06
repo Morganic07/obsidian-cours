@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]] (PDF de 6 pages), dans [[Analyse Maths (matière)]]. Scan sans texte, lu en image.
+Résumé de Chap1-reels (`.raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf`) (PDF de 6 pages), dans [[Analyse Maths (matière)]]. Scan sans texte, lu en image.
 
 ## Contenu, dans l'ordre du cours
 

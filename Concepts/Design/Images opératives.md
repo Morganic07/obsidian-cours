@@ -2,11 +2,11 @@
 type: concept
 tags: [year3]
 aliases: [image opérative]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
 maj: 2026-11-06
 ---
 
-Icônes, cartes, visualisations de données : des images qui orientent l'action ([[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]).
+Icônes, cartes, visualisations de données : des images qui orientent l'action (Cours 1 (Sémiotique) (`.raw/Year 3/Sémiotique/Cours 1.pptx`)).
 
 Notion parente : [[Analyse techno-sémiotique]].
 
@@ -14,4 +14,4 @@ Notion parente : [[Analyse techno-sémiotique]].
 
 - Notion présente dans le diaporama (diapositive 18) mais absente du résumé.
 
-Résumés : [[Cours 1 (PPTX) (résumé)]]
+Résumés : [[Séance 1 (PPTX) (résumé)]]

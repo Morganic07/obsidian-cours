@@ -19,4 +19,4 @@ Notion parente : [[Économie circulaire]]. Voir aussi : [[Éco-organisme]].
 
 - Le dossier cite « upcycling » sans le définir.
 
-Résumés : [[Reyou (résumé)]], [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Reyou (résumé)]], [[Culture du vivant Dernière séance (résumé)]]

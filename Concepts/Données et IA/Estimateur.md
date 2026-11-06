@@ -16,8 +16,8 @@ Une statistique est une fonction des observations d'un échantillon. Un **estima
 
 **Erreur type** : $\sigma_{\hat{\theta}} = \sqrt{V(\hat{\theta})}$. **MSE** : $E[(\hat{\theta} - \theta)^2] = V(\hat{\theta}) + (\text{biais})^2$, égale à la variance pour un estimateur sans biais. La moyenne empirique est sans biais et consistante, et $s^2$ est sans biais pour $\sigma^2$.
 
-Le cours de Data analysis reprend les mêmes critères (exactitude, précision, convergence), avec l'erreur type et la MSE ([[Cours 4 - Estimation (résumé)]]).
+Le cours de Data analysis reprend les mêmes critères (exactitude, précision, convergence), avec l'erreur type et la MSE ([[Séance 4 - Estimation (résumé)]]).
 
 Liens : [[Distribution d'échantillonnage]], [[Loi des grands nombres]], [[Convergence en probabilité]], [[Intervalle de confiance]], [[Variance et écart-type d'échantillon]]
 
-Résumés : [[Chp4 Part 1 - Inferential statistics (résumé)]], [[Cours 4 - Estimation (résumé)]], [[Cours 6 - T-Test (résumé)]]
+Résumés : [[Chp4 Part 1 - Inferential statistics (résumé)]], [[Séance 4 - Estimation (résumé)]], [[Séance 6 - T-Test (résumé)]]

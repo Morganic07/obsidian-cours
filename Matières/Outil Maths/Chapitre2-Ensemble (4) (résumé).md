@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre 2 - Ensembles (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du support du professeur [[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre 2 - Ensembles (PDF)]] (26 diapositives, octobre 2023), dans [[Outil Maths (matière)]]. C'est la version du professeur du cours déjà résumé dans [[Chapitre 2 ensembles (résumé)]] ; notions : [[Opérations sur les ensembles]], [[Logique propositionnelle]].
+Résumé du support du professeur Chapitre 2 - Ensembles (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf`) (26 diapositives, octobre 2023), dans [[Outil Maths (matière)]]. C'est la version du professeur du cours déjà résumé dans [[Chapitre 2 ensembles (résumé)]] ; notions : [[Opérations sur les ensembles]], [[Logique propositionnelle]].
 
 ## Contenu, dans l'ordre
 

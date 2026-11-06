@@ -12,4 +12,4 @@ Chaque test a la sienne : $z$ pour le [[Test Z]], $t$ pour le [[Test t]], $F$ po
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[P-value]], [[Test t]], [[Test Z]], [[Statistique F]], [[Test du χ²]].
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 7 - Z-Test (résumé)]], [[Cours 6 - T-Test (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 7 - Z-Test (résumé)]], [[Séance 6 - T-Test (résumé)]]

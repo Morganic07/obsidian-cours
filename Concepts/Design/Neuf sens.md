@@ -13,4 +13,4 @@ Il existe une hiérarchie des sens : le goût et l'odorat sont intimes.
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Informations froides et chaudes]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

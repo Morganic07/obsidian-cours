@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [BEGIN block, END block, bloc BEGIN, bloc END]
-sources: ["[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]", "[[Cours TP5]]"]
+sources: [".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf", "[[Cours TP5]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[AWK]]. Voir aussi : [[Variables intégrées d'AWK]].
 
 - Question h : la commande du rendu affiche `$0` au lieu de l'ID, du constructeur et de la puissance (signalé par les résumés).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[Cours TP5 (résumé)]]
+Résumés : [[TP5-AWK Command (résumé)]], [[Séance TP5 (résumé)]]

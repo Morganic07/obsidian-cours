@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [C4.5]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Algorithme de construction d'[[Arbre de décision]], descendant de l'[[Algorithm
 
 Notion parente : [[Arbre de décision]]. Voir aussi : [[Algorithme ID3]], [[Prétraitement des données]].
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

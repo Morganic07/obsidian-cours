@@ -15,4 +15,4 @@ Notion parente : [[Responsabilité sociétale des entreprises]].
 
 - Le développement du sigle (objectifs de développement durable) n'est pas dans le cours.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

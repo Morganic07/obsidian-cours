@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [graphes orientés, oriented graph, directed graph, graphe dirigé, degré entrant, degré sortant, arc, arcs, degré rentrant]
 matieres: [graph theory, Algo]
-sources: ["[[chp4 - oriented graphs]]", "[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]"]
+sources: ["[[chp4 - oriented graphs]]", ".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf"]
 maj: 2026-11-06
 ---
 

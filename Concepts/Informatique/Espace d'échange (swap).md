@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [swap, swap area, swap partition, partition swap, swap space, espace d'échange]
 matieres: [Operating System]
-sources: ["[[OS - chp 3]]", "[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]"]
+sources: ["[[OS - chp 3]]", ".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
 maj: 2026-11-06
 ---
 

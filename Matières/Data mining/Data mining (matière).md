@@ -17,7 +17,7 @@ Introduction à la fouille de données : classification, regroupement et combina
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| [[raw/Year 4/data mining/cours data mining du prof.pdf\|cours data mining du prof]] | Cours complet de l'enseignante (73 diapositives) : classification, clustering, arbres ID3, C4.5 et CART, bagging, boosting, forêts, exercices | [[cours data mining du prof (résumé)\|Résumé]] |
+| cours data mining du prof (`.raw/Year 4/data mining/cours data mining du prof.pdf`) | Cours complet de l'enseignante (73 diapositives) : classification, clustering, arbres ID3, C4.5 et CART, bagging, boosting, forêts, exercices | [[séance data mining du prof (résumé)\|Résumé]] |
 
 Ce PDF contient les diapositives d'exercices (k-means, arbres de formules booléennes, entropie et gain) que la note ne reprend pas.
 

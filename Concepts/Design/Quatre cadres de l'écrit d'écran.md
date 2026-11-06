@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [quatre cadres des écrits d'écrans, cadres techno-sémiotiques]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Notion parente : [[Écrit d'écran]]. Voir aussi : [[Architexte]].
 
 - La diapositive 18 range le système d'exploitation sous « Infrastructure matérielle » pour le cadre 2.
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

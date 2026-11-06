@@ -10,4 +10,4 @@ Nommé dans [[Cours 7 - Z-Test]] sans définition : l'organigramme des tests le 
 
 Notion parente : [[Test paramétrique et non paramétrique]]. Voir aussi : [[Loi binomiale]].
 
-Résumés : [[Cours 7 - Z-Test (résumé)]]
+Résumés : [[Séance 7 - Z-Test (résumé)]]

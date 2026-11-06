@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [externalisation de nos facultés]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemples du cours : une application de cartographie externalise le sens de l'ori
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Machine textuelle]], [[Hypomnémata]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

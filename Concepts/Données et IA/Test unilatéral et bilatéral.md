@@ -12,4 +12,4 @@ Exemples du cours : « exactement 1 mg d'aspirine » donne un test bilatéral, �
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Valeur critique]], [[Seuil de signification]].
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]]

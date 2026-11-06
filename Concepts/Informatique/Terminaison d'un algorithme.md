@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [problème de terminaison, "terminaison d'un programme"]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf"]
 maj: 2026-11-06
 ---
 

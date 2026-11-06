@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]] (95 pages), dans [[Analyse Maths (matière)]]. C'est le polycopié complet du cours d'Analyse I (PréING1, 2020-2021) : cinq chapitres de cours, chacun suivi de sa feuille de TD. Il regroupe donc des documents résumés ailleurs :
+Résumé de AnalyseID1 (`.raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf`) (95 pages), dans [[Analyse Maths (matière)]]. C'est le polycopié complet du cours d'Analyse I (PréING1, 2020-2021) : cinq chapitres de cours, chacun suivi de sa feuille de TD. Il regroupe donc des documents résumés ailleurs :
 
 | Chapitre | Pages | Résumé détaillé |
 |---|---|---|

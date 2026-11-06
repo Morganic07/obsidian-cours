@@ -17,4 +17,4 @@ Motif autosimilaire défini par récurrence ($u_0, u_1, u_2, \dots, u_n$). Selon
 
 Notion parente : [[Récurrence]]. Voir aussi : [[Récursivité]].
 
-Résumés : [[Cours 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]
+Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

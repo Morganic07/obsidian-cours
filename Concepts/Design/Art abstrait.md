@@ -17,4 +17,4 @@ Art qui ne représente pas la réalité et ne reproduit pas le monde réel (déf
 
 Voir aussi : [[Expressionnisme abstrait]].
 
-Résumés : [[Cours 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Global Exam Vocab (résumé)]]
+Résumés : [[Séance 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[Global Exam Vocab (résumé)]]

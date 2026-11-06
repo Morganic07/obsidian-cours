@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [intervalle de ℝ, intervalles de ℝ, intervalle de R, segment]
 matieres: [Analyse Maths]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf"]
 maj: 2026-11-06
 ---
 

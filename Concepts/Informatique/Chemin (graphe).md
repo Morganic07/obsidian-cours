@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [chemin élémentaire, sous-chemin, longueur d'un chemin, chemin simple, elementary path, simple path]
 matieres: [Algo, graph theory]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]", "[[chp4 - oriented graphs]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf", "[[chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 

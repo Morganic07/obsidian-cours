@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [fonction partie entière, partie fractionnaire, floor, ceil]
 matieres: [Analyse Maths, Algo, Analyse]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]", "[[raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides]]", "[[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]]", "[[TD_Algo]]", "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/td1slides.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf", "[[TD_Algo]]", ".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"]
 maj: 2026-11-06
 ---
 

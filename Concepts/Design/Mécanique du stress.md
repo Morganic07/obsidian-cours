@@ -16,4 +16,4 @@ Voir aussi : [[Système nerveux sympathique et parasympathique]], [[Émotion et 
 
 - Explication évolutionniste présentée sans source par l'intervenant.
 
-Résumés : [[Dernier cours (résumé)]], [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]], [[corps à l'oeuvre - séance (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [non-neutralité de la technique, les objets techniques ne sont jamais neutres]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Une technologie est ainsi une théorie du monde rendue opératoire : elle impose
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Progrès technique]], [[Dispositif (communication)]].
 
-Résumés : [[Cours 1 (PPTX) (résumé)]]
+Résumés : [[Séance 1 (PPTX) (résumé)]]

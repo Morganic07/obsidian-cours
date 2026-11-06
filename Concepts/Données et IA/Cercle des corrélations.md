@@ -20,4 +20,4 @@ Notion parente : [[Analyse en composantes principales]]. Voir aussi : [[Covarian
 
 La règle des angles ne vaut que pour des variables bien représentées dans le plan (ici 50 % de la variance) : complément apporté par le résumé, absent du cours.
 
-Résumés : [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Séance 13 - PCA in R (résumé)]]

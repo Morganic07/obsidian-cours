@@ -32,4 +32,4 @@ Voir aussi : [[Entraînement et inférence]], [[Petit réacteur modulaire]], [[T
 
 Estimations sans source : aucun éditeur ne publie ces chiffres pour GPT-4, GPT-5 ou Claude 3.5. Les chiffres datent de 2025.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

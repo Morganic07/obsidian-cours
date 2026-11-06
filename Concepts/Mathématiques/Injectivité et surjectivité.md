@@ -24,10 +24,10 @@ sources:
   - "[[Chp 0b - Matrix algebra]]"
   - "[[Chp 0d - Vector Space]]"
   - "[[chp2|chp2 (Algèbre)]]"
-  - "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1)]]"
-  - "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]"
-  - "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"
+  - ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"
+  - ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"
+  - ".raw/Year 1/Contrôles.pdf"
 maj: 2026-11-06
 ---
 

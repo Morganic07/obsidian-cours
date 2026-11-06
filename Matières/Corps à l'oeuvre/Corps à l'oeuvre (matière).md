@@ -19,7 +19,7 @@ Corps à l'oeuvre de 1re année : design, corps, gestes et expérience. Une seul
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[corps à l'oeuvre - cours\|corps à l'oeuvre - cours]] | Gestelligence, UX, sens, client-designer | [[corps à l'oeuvre - cours (résumé)\|Résumé]] |
+| [[corps à l'oeuvre - cours\|corps à l'oeuvre - cours]] | Gestelligence, UX, sens, client-designer | [[corps à l'oeuvre - séance (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -47,7 +47,7 @@ Corps à l'oeuvre de 2e année. Une seule note, le dernier cours.
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Dernier cours\|Dernier cours (Corps à l'oeuvre)]] | Gestes, émotions, stress, posture | [[Dernier cours (résumé)\|Résumé]] |
+| [[Dernier cours\|Dernier cours (Corps à l'oeuvre)]] | Gestes, émotions, stress, posture | [[Dernière séance (résumé)\|Résumé]] |
 
 ### Concepts
 

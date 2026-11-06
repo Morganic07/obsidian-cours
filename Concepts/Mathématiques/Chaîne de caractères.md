@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [chaînes de caractères, concaténation]
 matieres: [Algo Maths]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

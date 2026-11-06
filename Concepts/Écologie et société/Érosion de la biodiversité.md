@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [effondrement de la biodiversité, espèces menacées]
-sources: ["[[Culture du vivant]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+sources: ["[[Culture du vivant]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
 maj: 2026-11-06
 ---
 

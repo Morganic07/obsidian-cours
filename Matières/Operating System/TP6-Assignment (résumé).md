@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment]]"]
+sources: [".raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment]] (2 pages, 31 décembre 2024, « TP-6 : Assignment »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Les rendus des TP1 à TP6 sont regroupés dans [[UNIX Commands - Semester report (résumé)]].
+Résumé du PDF TP6-Assignment (`.raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf`) (2 pages, 31 décembre 2024, « TP-6 : Assignment »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Les rendus des TP1 à TP6 sont regroupés dans [[UNIX Commands - Semester report (résumé)]].
 
 ## Ce qui est demandé
 

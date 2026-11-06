@@ -24,4 +24,4 @@ Notion parente : [[Approche symbolique et connexionniste]].
 
 - Les liens du schéma vers la branche hybride sont lus d'après le tracé : leur sens est incertain.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

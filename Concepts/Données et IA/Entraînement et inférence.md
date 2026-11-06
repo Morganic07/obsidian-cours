@@ -18,4 +18,4 @@ Nommés dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : le cour
 
 Notion parente : [[Consommation énergétique de l'IA]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

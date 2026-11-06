@@ -18,4 +18,4 @@ Notion parente : [[Statistique descriptive]]. Voir aussi : [[Variance et écart-
 
 - Dans l'exemple de la boîte à moustaches, « x̄ = 92,17 » désigne en fait la médiane.
 
-Résumés : [[Cours 4 - Estimation (résumé)]], [[Cours 2 - Introduction statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]
+Résumés : [[Séance 4 - Estimation (résumé)]], [[Séance 2 - Introduction statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]

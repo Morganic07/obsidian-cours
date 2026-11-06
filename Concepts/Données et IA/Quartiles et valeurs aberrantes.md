@@ -25,4 +25,4 @@ Voir aussi : [[Statistique descriptive]], [[Quantile]], [[Variance et écart-typ
 - La phrase sur le quartile supérieur ($x_{0.75}$) est coupée dans le cours.
 - Dans l'exemple, « $\bar{x} = 92.17$ » est en fait la médiane.
 
-Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Cours 4 - Estimation (résumé)]], [[Summary functions in RStudio (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Séance 4 - Estimation (résumé)]], [[Summary functions in RStudio (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

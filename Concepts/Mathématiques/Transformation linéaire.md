@@ -21,7 +21,7 @@ sources:
   - "[[chp2|chp2 (Algèbre)]]"
   - "[[chp4|chp4 (Algèbre)]]"
   - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Contrôles.pdf"
 maj: 2026-11-06
 ---
 

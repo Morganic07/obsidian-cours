@@ -24,4 +24,4 @@ Opérateurs d'une formule de modèle en R, d'après [[Cours/Year 3/Data analysis
 
 Notion parente : [[Langage R]]. Voir aussi : [[Régression linéaire]], [[ANOVA]].
 
-Résumés : [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]
+Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]

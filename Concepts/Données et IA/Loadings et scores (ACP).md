@@ -18,4 +18,4 @@ Notion parente : [[Analyse en composantes principales]]. Voir aussi : [[Décompo
 - Le cours confond les poids normés et la corrélation variable-composante.
 - Il écrit « U = matrice des scores », alors que les scores sont $U\Sigma$.
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]

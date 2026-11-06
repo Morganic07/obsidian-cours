@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [approximations décimales, approximation décimale par défaut, approximation décimale par excès]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf"]
 maj: 2026-11-06
 ---
 

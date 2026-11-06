@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [classe d'équivalence, classes d'équivalence, ensemble quotient, représentant d'une classe]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 3 - Relation binaire]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire]]", "[[raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: ["[[Chapitre 3 - Relation binaire]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf", ".raw/Year 1/Outil Maths/Exos/TDRelations.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

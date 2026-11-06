@@ -13,7 +13,7 @@ sources:
   - "[[Chp 0a - Linear combination]]"
   - "[[Chp 0b - Matrix algebra]]"
   - "[[chp4|chp4 (Algèbre)]]"
-  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - ".raw/Year 1/Contrôles.pdf"
   - "[[chp3 - complexité]]"
 maj: 2026-11-06
 ---

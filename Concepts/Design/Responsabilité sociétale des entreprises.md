@@ -19,4 +19,4 @@ Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Greenwashing]], [[
 
 Le développement du sigle RSE n'est pas dans le cours.
 
-Résumés : [[Topo ELBA (résumé)]], [[idées solutions (résumé)]], [[Culture du vivant Dernier cours (résumé)]], [[Reyou (résumé)]]
+Résumés : [[Topo ELBA (résumé)]], [[idées solutions (résumé)]], [[Culture du vivant Dernière séance (résumé)]], [[Reyou (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [travail invisible, travail émotionnel, travailleur involontaire, brouillage travail-loisir]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ L'utilisateur devient ainsi producteur de données, « travailleur involontaire 
 
 Notion parente : [[Économie des données]]. Voir aussi : [[Impératif de productivité]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]], [[Cours 4 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]], [[Séance 4 (PPTX) (résumé)]]

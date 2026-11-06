@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]]"]
+sources: [".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]] (7 pages, texte), dans [[Analyse Maths (matière)]]. Devoir surveillé n° 1 d'Analyse I (PréING1), 1 h 30, sans appareil électronique, 6 exercices. Le barème est sur 24 points. Il porte sur [[Chap0-Rappels-etc (résumé)]] et [[Chap1-reels (résumé)]]. Voir aussi [[DS1-correction-2021 (résumé)]] pour la version précédente, de même forme.
+Résumé de DS1-Analyse-2022-corrigé (`.raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf`) (7 pages, texte), dans [[Analyse Maths (matière)]]. Devoir surveillé n° 1 d'Analyse I (PréING1), 1 h 30, sans appareil électronique, 6 exercices. Le barème est sur 24 points. Il porte sur [[Chap0-Rappels-etc (résumé)]] et [[Chap1-reels (résumé)]]. Voir aussi [[DS1-correction-2021 (résumé)]] pour la version précédente, de même forme.
 
 ## Les 6 exercices et leurs méthodes
 

@@ -16,4 +16,4 @@ Notion parente : [[Régression linéaire]]. Voir aussi : [[Covariance et corrél
 - Le cours écrit que le jeu II « is not distributed normally », alors que c'est la relation qui n'est pas linéaire.
 - Il présente la forte corrélation comme propre au jeu IV, alors que 0,816 vaut pour les quatre.
 
-Résumés : [[Cours 10 - linear regression (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [home directory, dossier personnel]
-sources: ["[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]", "[[Cours TP2]]", "[[cours TP1]]"]
+sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[Cours TP2]]", "[[cours TP1]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ maj: 2026-11-06
 
 Notion parente : [[Arborescence des répertoires Linux]]. Voir aussi : [[Partitions Linux]], [[Chemin de fichier]], [[Commande cd]].
 
-Résumés : [[OS - chp 4 (résumé)]], [[Cours TP2 (résumé)]], [[cours TP1 (résumé)]]
+Résumés : [[OS - chp 4 (résumé)]], [[Séance TP2 (résumé)]], [[séance TP1 (résumé)]]

@@ -10,4 +10,4 @@ maj: 2026-11-06
 
 Notion parente : [[Régression linéaire]]. Voir aussi : [[Estimateur]], [[Test de la pente]], [[Intervalle de prédiction]].
 
-Résumés : [[Cours 10 - linear regression (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]

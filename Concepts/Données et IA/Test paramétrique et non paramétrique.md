@@ -13,8 +13,8 @@ Un test paramétrique dispose d'une information sur un paramètre de la populati
 - paramétriques : [[Test t|test t]], [[Test Z|test z]], test t apparié ;
 - non paramétriques : [[Test du χ²|χ²]], [[Test de Kolmogorov-Smirnov|Kolmogorov-Smirnov]], [[Test des runs|runs]], [[Test binomial|binomial]], [[Test de Mann-Whitney|Mann-Whitney]], [[Test de la médiane|médiane]], [[Test du signe|signe]], [[Test de Wilcoxon|Wilcoxon]], [[Test de McNemar|McNemar]].
 
-Le χ² ([[Cours 8 - Chi²-Test (résumé)]]), le [[Coefficient de corrélation de Spearman|ρ de Spearman]] et le [[Tau de Kendall|τ de Kendall]] ([[Cours 9 - Covariance and Correlation (résumé)]]) sont non paramétriques.
+Le χ² ([[Séance 8 - Chi²-Test (résumé)]]), le [[Coefficient de corrélation de Spearman|ρ de Spearman]] et le [[Tau de Kendall|τ de Kendall]] ([[Séance 9 - Covariance and Correlation (résumé)]]) sont non paramétriques.
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Test du χ²]], [[Coefficient de corrélation de Spearman]], [[Tau de Kendall]], [[Test t]].
 
-Résumés : [[Cours 7 - Z-Test (résumé)]], [[Cours 8 - Chi²-Test (résumé)]], [[Cours 9 - Covariance and Correlation (résumé)]]
+Résumés : [[Séance 7 - Z-Test (résumé)]], [[Séance 8 - Chi²-Test (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]]

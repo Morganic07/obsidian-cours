@@ -15,4 +15,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Commande sort]], [[Commande u
 
 - La fiche décrit `-n` comme le « nb de character à la sortie » : c'est un nombre de lignes.
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Cours TP2 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]], [[TP2 (résumé)]]

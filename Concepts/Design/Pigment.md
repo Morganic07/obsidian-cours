@@ -13,4 +13,4 @@ Exemples du cours : le **blanc de Meudon** (un blanc qui part à l'eau) ; le **r
 
 Voir aussi : [[Liant et diluant]], [[Gouache]], [[Tempera]], [[Encaustique]].
 
-Résumés : [[Cours 3 (résumé)]]
+Résumés : [[Séance 3 (résumé)]]

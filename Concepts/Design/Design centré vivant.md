@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [design d'interface centré vivant]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Thème 2026 du cours de sémiotique : passer de l'analyse critique des applicati
 
 Voir aussi : [[Conception centrée utilisateur]], [[Manifeste pour le vivant]], [[Savoirs situés]].
 
-Résumés : [[Cours 1 (PPTX) (résumé)]]
+Résumés : [[Séance 1 (PPTX) (résumé)]]

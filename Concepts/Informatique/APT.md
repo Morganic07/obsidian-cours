@@ -17,4 +17,4 @@ Outil pour installer, supprimer et mettre à jour les paquets d'une distribution
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Commande sudo]].
 
-Résumés : [[OS - chp 5 (résumé)]], [[cours TP1 (résumé)]], [[TP1 (résumé)]], [[Commandes Shell + explications (résumé)]]
+Résumés : [[OS - chp 5 (résumé)]], [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[Commandes Shell + explications (résumé)]]

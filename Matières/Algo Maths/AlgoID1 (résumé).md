@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1 (PDF)]]"]
+sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du recueil [[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1 (PDF)]] (163 pages, CY Tech, pré-ING 1re année), dans [[Algo Maths (matière)]]. Plusieurs supports sont collés bout à bout : cours d'introduction, éléments de base en pseudo-code, fonctions et procédures, Python, types structurés, récursivité, avec leurs TD. Notions déjà dans le wiki : [[Récursivité]], [[Tours de Hanoï]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]], [[Récurrence]], et le résumé [[Python (résumé)]].
+Résumé du recueil AlgoID1 (PDF) (`.raw/Year 1/Algo Maths/AlgoID1.pdf`) (163 pages, CY Tech, pré-ING 1re année), dans [[Algo Maths (matière)]]. Plusieurs supports sont collés bout à bout : cours d'introduction, éléments de base en pseudo-code, fonctions et procédures, Python, types structurés, récursivité, avec leurs TD. Notions déjà dans le wiki : [[Récursivité]], [[Tours de Hanoï]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]], [[Récurrence]], et le résumé [[Python (résumé)]].
 
 Limite de lecture : le texte est extrait en entier, mais certaines diapositives sont des images (code Python, figures, schémas) que le texte ne rend pas. Elles ne sont pas résumées.
 

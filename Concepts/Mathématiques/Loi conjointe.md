@@ -15,7 +15,7 @@ maj: 2026-11-06
 
 **Somme** : si $X$ et $Y$ sont indépendantes et continues, la densité de $W = X + Y$ est la convolution $f_W(w) = \int f_X(x)f_Y(w - x)\,dx$.
 
-En Data analysis et en Statistics (3e année), le cours reprend ces définitions et ajoute que la convolution de lois normales est normale ([[Cours 9 - Covariance and Correlation (résumé)]], [[Chp3 - More on probability (résumé)]]).
+En Data analysis et en Statistics (3e année), le cours reprend ces définitions et ajoute que la convolution de lois normales est normale ([[Séance 9 - Covariance and Correlation (résumé)]], [[Chp3 - More on probability (résumé)]]).
 
 Notion parente : [[Variable aléatoire]].
 
@@ -25,4 +25,4 @@ Liens : [[Covariance et corrélation]], [[Probabilité conditionnelle]]
 
 - [[Chp 6 - Joint probability distributions]] : la mention d'un événement « de $S \times S$ » est à vérifier sur l'image.
 
-Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Cours 9 - Covariance and Correlation (résumé)]], [[Chp3 - More on probability (résumé)]]
+Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[Chp3 - More on probability (résumé)]]

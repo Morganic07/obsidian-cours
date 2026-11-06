@@ -18,4 +18,4 @@ Voir aussi : [[Analyse en composantes principales]], [[Loi normale]], [[Variance
 - [[Cours 13 - PCA in R]] appelle « Standardization » le simple centrage.
 - Le cours dit que la variance des maths est 10 fois plus grande, alors que c'est l'écart-type qui l'est (la variance l'est 100 fois).
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

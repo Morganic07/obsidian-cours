@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [POC, proof of concept, preuve de faisabilité]
 matieres: [Projet courts]
-sources: ["PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: ["PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

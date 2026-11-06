@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [inégalité triangulaire généralisée, triangle inequality]
 matieres: [Analyse Maths, Outil Maths, Analyse, Analyse dans Rn]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]]", "[[raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel]]", "[[Chapitre 5 - Complexes]]", "[[Chap7-Integration]]", "[[Chp 2 - éléments de topologie dans Rn]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf", "[[Chapitre 5 - Complexes]]", "[[Chap7-Integration]]", "[[Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 

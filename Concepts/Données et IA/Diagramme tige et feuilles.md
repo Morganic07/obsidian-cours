@@ -20,4 +20,4 @@ Graphique des données quantitatives, nommé sans définition générale. Dans l
 
 Notion parente : [[Statistique descriptive]]. Voir aussi : [[Histogramme]].
 
-Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]
+Résumés : [[Chp2 - Descriptive statistics (résumé)]], [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]

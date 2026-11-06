@@ -17,11 +17,11 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 | [[OS - chp 5]] | Shell, `cat`, `chmod`, APT, scripts | [[OS - chp 5 (résumé)\|Résumé]] |
 | [[OS - chp7]] | Processus, ordonnancement, `fork` | [[OS - chp7 (résumé)\|Résumé]] |
 | [[Commandes Shell + explications]] | Fiche de commandes et de Bash | [[Commandes Shell + explications (résumé)\|Résumé]] |
-| [[cours TP1]] | `sudo`, nom de machine, clavier, droits | [[cours TP1 (résumé)\|Résumé]] |
-| [[Cours TP2]] | Jokers, redirections, tâches de fond | [[Cours TP2 (résumé)\|Résumé]] |
-| [[Cours TP3]] | Réseau, `/etc/hosts`, scripts de sauvegarde | [[Cours TP3 (résumé)\|Résumé]] |
-| [[Cours TP4]] | Programme C `fork`, cron | [[Cours TP4 (résumé)\|Résumé]] |
-| [[Cours TP5]] | AWK | [[Cours TP5 (résumé)\|Résumé]] |
+| [[cours TP1]] | `sudo`, nom de machine, clavier, droits | [[séance TP1 (résumé)\|Résumé]] |
+| [[Cours TP2]] | Jokers, redirections, tâches de fond | [[Séance TP2 (résumé)\|Résumé]] |
+| [[Cours TP3]] | Réseau, `/etc/hosts`, scripts de sauvegarde | [[Séance TP3 (résumé)\|Résumé]] |
+| [[Cours TP4]] | Programme C `fork`, cron | [[Séance TP4 (résumé)\|Résumé]] |
+| [[Cours TP5]] | AWK | [[Séance TP5 (résumé)\|Résumé]] |
 | [[DM Shell Scripting]] | Scripts Bash, cœurs, premiers | [[DM Shell Scripting (résumé)\|Résumé]] |
 | [[Copy of 08 Processes-TP]] | Programmes C avec `fork` | [[Copy of 08 Processes-TP (résumé)\|Résumé]] |
 | [[Operating Systems - Semester report]] | Rapport des labs 1 et 2 | [[Operating Systems - Semester report (résumé)\|Résumé]] |
@@ -39,12 +39,12 @@ Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à 
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| [[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf\|OS - chp 4]] | Arborescence Linux, répertoire racine, partitions | [[OS - chp 4 (résumé)\|Résumé]] |
-| [[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf\|Copy of TP2-Commands]] | Sujet du TP2 : jokers, redirections, tâches de fond, guillemets | [[Copy of TP2-Commands (résumé)\|Résumé]] |
-| [[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf\|TP3-Commands (2)]] | Sujet du TP3 : adresse IP, `/etc/hosts`, Netplan, sauvegarde | [[TP3-Commands (2) (résumé)\|Résumé]] |
-| [[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf\|TP4-Unix Commands]] | Sujet du TP4 : `fork` en C, cron | [[TP4-Unix Commands (résumé)\|Résumé]] |
-| [[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf\|TP5-AWK Command]] | Sujet du TP5 : AWK | [[TP5-AWK Command (résumé)\|Résumé]] |
-| [[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf\|TP6-Assignment]] | Sujet du TP6 : informations système, sudo, cron, AWK, `fork` | [[TP6-Assignment (résumé)\|Résumé]] |
+| OS - chp 4 (`.raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf`) | Arborescence Linux, répertoire racine, partitions | [[OS - chp 4 (résumé)\|Résumé]] |
+| Copy of TP2-Commands (`.raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf`) | Sujet du TP2 : jokers, redirections, tâches de fond, guillemets | [[Copy of TP2-Commands (résumé)\|Résumé]] |
+| TP3-Commands (2) (`.raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf`) | Sujet du TP3 : adresse IP, `/etc/hosts`, Netplan, sauvegarde | [[TP3-Commands (2) (résumé)\|Résumé]] |
+| TP4-Unix Commands (`.raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf`) | Sujet du TP4 : `fork` en C, cron | [[TP4-Unix Commands (résumé)\|Résumé]] |
+| TP5-AWK Command (`.raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf`) | Sujet du TP5 : AWK | [[TP5-AWK Command (résumé)\|Résumé]] |
+| TP6-Assignment (`.raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf`) | Sujet du TP6 : informations système, sudo, cron, AWK, `fork` | [[TP6-Assignment (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -73,7 +73,7 @@ Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à 
 - [[OS - chp 3 (résumé)]] : macOS n'est pas construit sur le noyau Linux.
 - [[Commandes Shell + explications (résumé)]] : `sh` n'est pas Bash sur Debian/Ubuntu (c'est `dash`).
 - [[DM Shell Scripting (résumé)]] : la version Python du test de primalité compte 4 comme premier.
-- [[cours TP1 (résumé)]] : `chmod -R 444` retire le droit de traverser les dossiers.
+- [[séance TP1 (résumé)]] : `chmod -R 444` retire le droit de traverser les dossiers.
 - [[OS - chp 2 (résumé)]] : tableau des vitesses d'interfaces aux unités mélangées.
 
 ## Contenu manquant ou à compléter

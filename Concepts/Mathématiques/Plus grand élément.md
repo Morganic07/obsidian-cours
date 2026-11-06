@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [plus petit élément]
-sources: ["[[Chapitre 3 - Relation binaire]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire]]"]
+sources: ["[[Chapitre 3 - Relation binaire]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
 maj: 2026-11-06
 ---
 

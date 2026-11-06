@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [wireframe, wireframes, mockup, mock-up, maquette fonctionnelle, maquettage, maquette, maquettes]
 matieres: [Anglais, Affordance, SHS]
-sources: ["[[Global Exam Vocab]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]", "[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]", "[[raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller]]"]
+sources: ["[[Global Exam Vocab]]", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf"]
 maj: 2026-11-06
 ---
 

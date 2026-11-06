@@ -13,4 +13,4 @@ Une tendance observée sur les données globales s'inverse quand on sépare les 
 
 **Conduite à tenir** : ne pas se fier à une moyenne globale sans regarder les sous-groupes, stratifier (séparer les données par groupe) et visualiser en colorant par groupe, ce qui fait apparaître le facteur de confusion, et utiliser une régression multivariée qui ajuste sur les variables cachées (voir [[Régression linéaire]]).
 
-Résumé : [[Cours 3 - Paradoxe de Simpson (résumé)]]
+Résumé : [[Séance 3 - Paradoxe de Simpson (résumé)]]

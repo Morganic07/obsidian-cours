@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [fork system call]
-sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]", "[[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment]]"]
+sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]", ".raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf"]
 maj: 2026-11-06
 ---
 

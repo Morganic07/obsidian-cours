@@ -25,4 +25,4 @@ Voir aussi : [[ANOVA]], [[Régression linéaire]], [[Carré moyen]], [[Coefficie
 - La règle de rejet est énoncée à l'envers dans [[Cours 12 - ANOVA and F-statistic]] (« on ne rejette pas $H_0$ si la valeur critique est plus petite que $F$ »).
 - [[Cours 12 - ANOVA and F-statistic]] écrit « F = 22,59, p > 0,05 » : c'est faux, $F$ dépasse la valeur critique 3,89, donc $p < 0{,}05$.
 
-Résumés : [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Cours 12 - ANOVA and F-statistic (résumé)]], [[Cours 5 - Hypothesis Testing (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]]
+Résumés : [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]], [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]]

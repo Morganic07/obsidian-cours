@@ -15,7 +15,7 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 1/Algo Maths/Cours 1\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[Cours 1 - Algo Maths (résumé)\|Résumé]] |
+| [[Cours/Year 1/Algo Maths/Cours 1\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[Séance 1 - Algo Maths (résumé)\|Résumé]] |
 | [[Python\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
 | [[explications DM d'algo]] | Lecture de fichier, exhaustif, glouton, stochastique | [[explications DM d'algo (résumé)\|Résumé]] |
 
@@ -27,7 +27,7 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 
 ## Concepts
 
-- **Notions de départ (Cours 1)** : [[Algorithme]], [[Modélisation d'un problème]], [[Problème du passeur]], [[Correction d'un algorithme]], [[Récurrence]], [[Problème des crayons]], [[Somme des premiers entiers]], [[Carré magique]], [[Fractale]], [[Nombre premier]], [[Bit]], [[Numération binaire]], [[Nombre à virgule flottante]], [[Loi de Parkinson]]
+- **Notions de départ (Cours 1)** : [[Algorithme]], [[Modélisation d'un problème]], [[Problème du passeur]], [[Correction d'un algorithme]], [[Récurrence]], [[Problème des crayons]], [[Somme des premiers entiers]], [[Carré magique]], [[Fractale]], [[Nombre premier]], [[Bit]], [[Transistor]], [[Numération binaire]], [[Nombre à virgule flottante]], [[Loi de Parkinson]]
 - **Pseudo-code et types** : [[Pseudo-code]], [[Affectation]], [[Échange de deux variables]], [[Type primitif]], [[Chaîne de caractères]], [[Division euclidienne]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Équation du second degré]], [[Palindrome]]
 - **Fonctions et enregistrements** : [[Fonction et procédure]], [[Passage de paramètres]], [[Portée d'une variable]], [[Programmation modulaire]], [[Structure (struct)]], [[Pile et file]] (voir [[AlgoID1 (résumé)]])
 - **Python** : [[Langage Python]], [[Langage interprété]], [[Typage dynamique]], [[Fonction range (Python)]], [[Dataclass (Python)]]
@@ -37,7 +37,7 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 ## À revoir en priorité avant un examen
 
 - [[Python (résumé)]] : `range(2,10,5)` renvoie `[2, 7]`, pas « 2, 4, 8 ».
-- [[Cours 1 - Algo Maths (résumé)|Cours 1 (résumé)]] : le problème des crayons échoue dès $n = 2$ ; l'exemple `0.1 + 0.3` est faux en Python.
+- [[Séance 1 - Algo Maths (résumé)|Cours 1 (résumé)]] : le problème des crayons échoue dès $n = 2$ ; l'exemple `0.1 + 0.3` est faux en Python.
 - [[explications DM d'algo (résumé)]] : deux blocs de code encadrés ne correspondent pas aux versions commentées (tri de `glouton_valeur`, nom `gray_code`).
 
 ## Liens avec les autres matières

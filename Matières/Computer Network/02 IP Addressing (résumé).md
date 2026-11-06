@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]]"]
+sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]] (57 diapositives, en anglais, « IPv4 Addressing »), dans [[Computer Network (matière)]]. Les tableaux et schémas ont été lus sur les diapositives 14 à 16 et 23 à 24 ; le reste, par le texte. Le concept détaillé est [[Adressage IPv4 et CIDR]].
+Résumé du PDF 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`) (57 diapositives, en anglais, « IPv4 Addressing »), dans [[Computer Network (matière)]]. Les tableaux et schémas ont été lus sur les diapositives 14 à 16 et 23 à 24 ; le reste, par le texte. Le concept détaillé est [[Adressage IPv4 et CIDR]].
 
 ## Contenu, dans l'ordre du cours
 

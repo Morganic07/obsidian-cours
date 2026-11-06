@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [network interface, interfaces réseau, eth0, wlan0, interface Ethernet, "Interface d'un équipement réseau", FastEthernet, GigabitEthernet, interface gigabitEthernet, slot/port]
 matieres: [Operating System, Computer Network]
-sources: ["[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]", "[[chp1 - Computer Networks]]", "[[Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", "[[chp1 - Computer Networks]]", "[[Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[CLI Cisco IOS]]. Voir aussi : [[Commande ip]], [[Netplan]], [
 
 - La note [[chp1 - Computer Networks]] commente `interface gigabitEthernet 0/1` par « to enable the interface » : cette ligne sélectionne l'interface, c'est `no shutdown` qui l'active.
 
-Résumés : [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[chp1 - Computer Networks (résumé)]], [[Chp4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[chp1 - Computer Networks (résumé)]], [[Chp4 - VLAN ／ IVR Commands (résumé)]]

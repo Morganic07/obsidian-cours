@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [éléments simples, fraction rationnelle, fractions rationnelles]
-sources: ["[[Chap7-Integration]]", "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"]
+sources: ["[[Chap7-Integration]]", ".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"]
 maj: 2026-11-06
 ---
 

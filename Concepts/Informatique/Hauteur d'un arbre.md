@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [hauteur d'un nœud, profondeur d'un nœud, niveau d'un nœud]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]", "[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]", "[[raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL]]", "[[AVL momo]]", "[[qui dit quoi AVL]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf", ".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf", ".raw/Year 2/Algo/DM/ARBRE AVL.pdf", "[[AVL momo]]", "[[qui dit quoi AVL]]"]
 maj: 2026-11-06
 ---
 
@@ -16,7 +16,7 @@ Notion parente : [[Vocabulaire des arbres]]. Voir aussi : [[Arbre binaire]], [[A
 
 Désaccord de convention entre les sources :
 
-- [[raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL]] pose $h(\text{NIL})=0$ (une feuille a donc une hauteur de 1), alors que [[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]] et [[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]] donnent $-1$ pour l'arbre vide ;
+- ARBRE AVL (`.raw/Year 2/Algo/DM/ARBRE AVL.pdf`) pose $h(\text{NIL})=0$ (une feuille a donc une hauteur de 1), alors que Chapitre3-Arbres (`.raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf`) et Chapitre4-Preing2ID (`.raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf`) donnent $-1$ pour l'arbre vide ;
 - le code de [[AVL momo]] et de [[qui dit quoi AVL]] renvoie 0 pour l'arbre vide ;
 - [[qui dit quoi AVL]] définit la hauteur comme la distance à la racine, ce qui correspond à la profondeur.
 

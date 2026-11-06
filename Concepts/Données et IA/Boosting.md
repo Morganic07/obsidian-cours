@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [AdaBoost, AdaBoost.M1]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Méthodes d'ensemble]]. Voir aussi : [[Bagging]].
 
 Le poids initial est $1/N$, mais la normalisation est faite « pour que la somme soit $N$ », alors qu'une autre diapositive dit « pour que la somme reste la même » : le cours ne tranche pas.
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

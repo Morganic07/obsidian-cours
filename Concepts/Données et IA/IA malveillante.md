@@ -19,4 +19,4 @@ Nommée dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : le cour
 
 Notion parente : [[Intelligence artificielle]]. Voir aussi : [[Deepfake]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [ideation, empathize, génération d'idées, convergence des idées]
 matieres: [Anglais, Projet Design, Affordance, Projet courts]
-sources: ["[[Global Exam Vocab]]", "[[EDOSSAH]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]", "PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: ["[[Global Exam Vocab]]", "[[EDOSSAH]]", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", "PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

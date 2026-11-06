@@ -19,8 +19,8 @@ Projet de base de données de 3e année sur une ligue de football : modélisatio
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| [[raw/Year 3/ligue football/for me/sujet database.pdf\|sujet database]] | Sujet de la SAÉ : attendus, livrables, calendrier | [[sujet database (résumé)\|Résumé]] |
-| [[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf\|Ligue Football - Projet DATABASE ID3-B]] | Rapport : contexte, dictionnaire, MLD, DDL, jeu de données, 9 requêtes | [[Rapport du projet Ligue Football (résumé)\|Résumé]] |
+| sujet database (`.raw/Year 3/ligue football/for me/sujet database.pdf`) | Sujet de la SAÉ : attendus, livrables, calendrier | [[sujet database (résumé)\|Résumé]] |
+| Ligue Football - Projet DATABASE ID3-B (`.raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf`) | Rapport : contexte, dictionnaire, MLD, DDL, jeu de données, 9 requêtes | [[Rapport du projet Ligue Football (résumé)\|Résumé]] |
 
 ## Concepts
 

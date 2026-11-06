@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [démocratie participative]
-sources: ["PDF du brief du projet, dans raw/Year 3/Projet courts"]
+sources: ["PDF du brief du projet, dans .raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

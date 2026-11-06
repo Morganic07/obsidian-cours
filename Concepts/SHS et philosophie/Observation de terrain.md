@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [observation terrain, observation indirecte, observation masquée, observation dévoilée, observation directe, observation non participante, auto-observation, observation appareillée]
 matieres: [SHS, Affordance]
-sources: ["[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"]
+sources: [".raw/Year 2/SHS/dessein au cube Semestre 2.pdf", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx"]
 maj: 2026-11-06
 ---
 

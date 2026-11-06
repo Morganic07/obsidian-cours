@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year4]
 aliases: [struct, structures en C, typedef struct, typedef, enregistrement, enregistrements, type structuré, types structurés]
 matieres: [C++, Algo Maths]
-sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"]
+sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures]]", ".raw/Year 1/Algo Maths/AlgoID1.pdf"]
 maj: 2026-11-06
 ---
 

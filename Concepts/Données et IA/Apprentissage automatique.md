@@ -8,7 +8,7 @@ aliases:
   - apprentissage machine
 sources:
   - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
-  - "[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"
+  - ".raw/Year 4/data mining/cours data mining du prof.pdf"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Appre
 
 - Le PDF de data mining écrit « Michell, 1997 ».
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA) (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA) (résumé)]], [[séance data mining du prof (résumé)]]

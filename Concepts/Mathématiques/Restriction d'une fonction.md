@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [restriction de f, restrictions bijectives, restriction bijective]
 matieres: [Outil Maths]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1)]]", "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [arbre binaire, arbres binaires, binary tree, parcours préfixe, parcours infixe, parcours postfixe, parcours en profondeur d'un arbre, arbre parfait, arbre quasi-parfait, arbre binaire étiqueté, arbre binaire complet, squelette d'un arbre binaire, fils gauche, fils droit, sous-arbre gauche, sous-arbre droit]
 matieres: [Algo]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]", "[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf", ".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf"]
 maj: 2026-11-06
 ---
 

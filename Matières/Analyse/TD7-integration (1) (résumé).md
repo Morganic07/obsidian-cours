@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration]]"]
+sources: [".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration]] (3 pages, texte, sans corrigé), dans [[Analyse (matière)]]. Il accompagne le cours [[Chap7-Integration (résumé)]]. L'en-tête du PDF porte « TD 6 », « 2020-2021 », « PréIng 1 » : c'est le TD d'intégration de l'ancien programme.
+Résumé de TD7-integration (`.raw/Year 2/Analyse/chp7/TD7-integration (1).pdf`) (3 pages, texte, sans corrigé), dans [[Analyse (matière)]]. Il accompagne le cours [[Chap7-Integration (résumé)]]. L'en-tête du PDF porte « TD 6 », « 2020-2021 », « PréIng 1 » : c'est le TD d'intégration de l'ancien programme.
 
 ## Thèmes des 16 exercices
 

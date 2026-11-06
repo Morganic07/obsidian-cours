@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [wc -l, word count]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", "[[Cours TP2]]", "[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]"]
+sources: ["[[Commandes Shell + explications]]", "[[Cours TP2]]", ".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Comm
 
 - L'étudiante écrit « Wc = write count » : `wc` signifie word count (signalé par le résumé).
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Cours TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]

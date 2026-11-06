@@ -17,4 +17,4 @@ Ces architectures peuvent tourner en local. Le projet de ligue de football deman
 
 Voir aussi : [[Système de gestion de base de données]].
 
-Résumés : [[Cours 3 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]

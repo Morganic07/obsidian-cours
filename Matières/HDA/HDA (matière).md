@@ -13,7 +13,7 @@ HDA (histoire du design et des arts) de 1re année. Une seule note présente, tr
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours HDA\|Cours HDA]] | Les molas kuna | [[Cours HDA (résumé)\|Résumé]] |
+| [[Cours HDA\|Cours HDA]] | Les molas kuna | [[Séance HDA (résumé)\|Résumé]] |
 
 ## Concepts
 

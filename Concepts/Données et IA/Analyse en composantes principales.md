@@ -23,4 +23,4 @@ Voir aussi : [[Matrice de covariance]], [[Loadings et scores (ACP)]], [[Cercle d
 
 Deux conventions de « valeur propre » (de $X^TX$ ou de la covariance) ; nombre de composantes $\min(d, n-1)$ plutôt que min(variables, échantillons) ; c'est le vecteur propre et non la valeur propre qui donne la composante.
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]

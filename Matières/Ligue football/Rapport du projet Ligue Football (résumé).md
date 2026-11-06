@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"]
+sources: [".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du rapport PDF [[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]] (30 pages, 23 mai 2026, ID3-B), dans [[Ligue football (matière)]]. C'est le rapport demandé par [[sujet database (résumé)]]. La couverture porte les noms des auteurs : ils ne sont pas repris ici. Le MCD (page 9) et le schéma d'architecture (page 11) sont des images dont le texte n'est pas extrait ; ils n'ont pas été ouverts. Le fichier [[readme|readme]] décrit le reste du rendu, résumé dans [[readme (résumé)]].
+Résumé du rapport PDF Ligue Football - Projet DATABASE ID3-B (`.raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf`) (30 pages, 23 mai 2026, ID3-B), dans [[Ligue football (matière)]]. C'est le rapport demandé par [[sujet database (résumé)]]. La couverture porte les noms des auteurs : ils ne sont pas repris ici. Le MCD (page 9) et le schéma d'architecture (page 11) sont des images dont le texte n'est pas extrait ; ils n'ont pas été ouverts. Le fichier [[readme|readme]] décrit le reste du rendu, résumé dans [[readme (résumé)]].
 
 ## Sommaire du rapport
 

@@ -13,4 +13,4 @@ On ne maîtrise pas les mouvements autour de nous, mais on choisit le sien ; un 
 
 Voir aussi : [[Gestelligence]], [[Consommation de geste]], [[Posture et sentiment]].
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

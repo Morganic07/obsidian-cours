@@ -15,4 +15,4 @@ Notion parente : [[Liant et diluant]]. Voir aussi : [[Pigment]].
 
 - Le cours doute lui-même du diluant (point d'interrogation).
 
-Résumés : [[Cours 3 (résumé)]]
+Résumés : [[Séance 3 (résumé)]]

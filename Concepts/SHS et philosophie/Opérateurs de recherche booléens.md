@@ -20,4 +20,4 @@ Voir aussi : [[Logique propositionnelle]].
 
 - Le résumé signale, en complément hors cours, que l'exclusion usuelle sur Google s'écrit `-mot`.
 
-Résumés : [[Cours BU - Savoir rechercher sur Google (résumé)]]
+Résumés : [[Séance BU - Savoir rechercher sur Google (résumé)]]

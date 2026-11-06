@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [novlangue du numérique, mots du numérique, performativité du langage]
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemples du cours : « smartphone » (l'objet devient intelligent), « cloud » 
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Imaginaire]], [[Discours d'escorte]].
 
-Résumés : [[Cours 4 (PPTX) (résumé)]]
+Résumés : [[Séance 4 (PPTX) (résumé)]]

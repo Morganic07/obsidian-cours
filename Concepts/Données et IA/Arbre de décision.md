@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [decision tree, decision trees, arbres de décision]
 matieres: [data mining]
-sources: ["[[Chp1 - intro to data mining]]", "[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: ["[[Chp1 - intro to data mining]]", ".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Notion parente : [[Classifieur]]. Voir aussi : [[Algorithme ID3]], [[Algorithme 
 
 - La description de la classe P donnée par le cours, $(\text{overcast} \wedge \text{HUMI}=\text{normal}) \vee \text{overcast} \vee (\text{rainy} \wedge \text{WIND}=\text{no})$, oublie la branche sunny et HUMI = normal (relevé du résumé).
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

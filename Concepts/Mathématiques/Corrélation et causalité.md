@@ -19,4 +19,4 @@ Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Paradoxe de Simp
 
 Le cours ne parle pas de « facteur de confusion » : le rapprochement avec le [[Paradoxe de Simpson]] reste à valider.
 
-Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Cours 9 - Covariance and Correlation (résumé)]], [[Chp1 - Intro to statistics (résumé)]]
+Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[Chp1 - Intro to statistics (résumé)]]

@@ -17,4 +17,4 @@ Nommé dans [[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis
 
 Notion parente : [[Facteur (variable catégorielle)]]. Voir aussi : [[Langage R]].
 
-Résumés : [[Cours 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis) (résumé)]]
+Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis) (résumé)]]

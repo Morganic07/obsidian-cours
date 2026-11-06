@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [biocapacity, biocapacités, hectare global]
 matieres: [Culture du vivant]
-sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]", "[[Culture du vivant]]"]
+sources: [".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf", "[[Culture du vivant]]"]
 maj: 2026-11-06
 ---
 

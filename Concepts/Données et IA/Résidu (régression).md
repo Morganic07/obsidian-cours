@@ -16,4 +16,4 @@ Résidu de l'observation $i$ : $e_i = Y_i - \hat Y_i$. L'analyse des résidus v�
 
 Notion parente : [[Régression linéaire]]. Voir aussi : [[Homoscédasticité]], [[Diagramme de probabilité]], [[Somme des carrés (SST, SSR, SSE)]].
 
-Résumés : [[Cours 10 - linear regression (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]]

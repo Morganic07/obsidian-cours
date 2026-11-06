@@ -21,9 +21,9 @@ matieres:
   - Analyse
 sources:
   - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
-  - "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"
+  - ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"
   - "[[Chp0 - Revision chapter]]"
-  - "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"
+  - ".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"
 maj: 2026-11-06
 ---
 

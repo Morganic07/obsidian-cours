@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [arbre (graphe), propriétés des arbres, acyclic connected graph]
 matieres: [Algo, graph theory]
-sources: ["[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]", "[[Chp2 - tree]]"]
+sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf", "[[Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 

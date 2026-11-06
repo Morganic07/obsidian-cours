@@ -11,4 +11,4 @@ Le nom d'hôte identifie une machine de façon unique sur le réseau, offre une 
 
 Voir aussi : [[Commande hostname]], [[Fichier hosts]].
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]]

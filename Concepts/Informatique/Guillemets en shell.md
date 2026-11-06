@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [quoting, single quotes, double quotes, guillemets simples, guillemets doubles]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]", "[[Cours TP2]]"]
+sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP2]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Méta-caractère]]. Voir aussi : [[Variable Bash]], [[Caract�
 
 - Commentaire faux dans le sujet : `echo 'path $PWD'` est annoncé comme affichant « Hello $PWD », alors que la sortie réelle est `path $PWD`.
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[Cours TP2 (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[Séance TP2 (résumé)]]

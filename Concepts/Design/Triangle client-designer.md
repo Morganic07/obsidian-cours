@@ -10,4 +10,4 @@ Quand un client demande un projet, il expose une **situation** initiale et une *
 
 Voir aussi : [[Brief]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

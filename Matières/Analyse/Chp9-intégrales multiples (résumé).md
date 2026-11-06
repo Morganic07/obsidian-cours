@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]]"]
+sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]] (3 pages manuscrites, scannées), dans [[Analyse (matière)]]. Ce sont des notes de cours à la main : pas de preuves, seulement les définitions et les méthodes. Lu en image.
+Résumé de Chp9-intégrales multiples (`.raw/Year 2/Analyse/Chp9-intégrales multiples.pdf`) (3 pages manuscrites, scannées), dans [[Analyse (matière)]]. Ce sont des notes de cours à la main : pas de preuves, seulement les définitions et les méthodes. Lu en image.
 
 ## Contenu, dans l'ordre
 

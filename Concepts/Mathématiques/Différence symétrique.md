@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: ["[[raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1)]]", "[[raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf|Exo-Chapitre 2]]", "[[raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022]]", "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]"]
+sources: [".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf", ".raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf", ".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"]
 maj: 2026-11-06
 ---
 

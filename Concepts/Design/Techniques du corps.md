@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [technique du corps]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Les usages numériques sont toujours corporels (scroller, swiper) : ces gestes s
 
 Voir aussi : [[Corps communicant]], [[Saillance et normalisation]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

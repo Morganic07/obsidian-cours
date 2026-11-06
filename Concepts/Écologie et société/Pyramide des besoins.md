@@ -14,4 +14,4 @@ Voir aussi : [[Coûts cachés]], [[Valeur socio-écologique]].
 
 - La pyramide elle-même n'est pas dans la note (« voir la pyramide ») ; le cours ne dit pas s'il s'agit de la pyramide de Maslow.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

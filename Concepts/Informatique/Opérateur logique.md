@@ -16,4 +16,4 @@ En [[AWK]] aussi, `||` est le OU et `&&` le ET.
 
 Notion parente : [[Structure conditionnelle]]. Voir aussi : [[Opérateur de comparaison]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Cours TP5 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Séance TP5 (résumé)]]

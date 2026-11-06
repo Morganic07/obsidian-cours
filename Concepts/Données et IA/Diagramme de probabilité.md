@@ -17,4 +17,4 @@ On trace les $n$ points $(x_{(i)}, y_i)$ : $x_{(i)}$ est la $i$-ème plus petite
 
 Liens : [[Loi normale]], [[Quartiles et valeurs aberrantes]], [[Forme d'une distribution]]
 
-Résumés : [[Chp3 - More on probability (résumé)]], [[Cours 10 - linear regression (résumé)]], [[Summary functions in RStudio (résumé)]]
+Résumés : [[Chp3 - More on probability (résumé)]], [[Séance 10 - linear regression (résumé)]], [[Summary functions in RStudio (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [logiquement équivalentes, propositions équivalentes, logiquement équivalents]
-sources: ["[[Chapitre 1 logique]]", "[[raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique]]"]
+sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf"]
 maj: 2026-11-06
 ---
 

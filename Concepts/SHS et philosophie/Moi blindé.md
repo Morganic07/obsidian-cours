@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [corps blindé, armure corporelle]
-sources: ["[[raw/Year 3/SHS/Cours/text1.pdf|text1]]", "[[raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller]]"]
+sources: [".raw/Year 3/SHS/Cours/text1.pdf", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf"]
 maj: 2026-11-06
 ---
 

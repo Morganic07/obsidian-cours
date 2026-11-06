@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [contrainte CHECK, contrainte UNIQUE, contraintes CHECK, integrity constraint, contraintes d'intégrité]
-sources: ["[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"]
+sources: [".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
 maj: 2026-11-06
 ---
 

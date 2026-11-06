@@ -15,4 +15,4 @@ Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition, comme jal
 
 Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Système expert]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

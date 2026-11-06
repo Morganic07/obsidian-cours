@@ -12,4 +12,4 @@ L'aide-mémoire de Statistics donne aussi, pour la corrélation, $t_{n-2} = \dfr
 
 Notion parente : [[Régression linéaire]]. Voir aussi : [[Test t]], [[Loi de Student]], [[Erreur standard de la régression]].
 
-Résumés : [[Cours 10 - linear regression (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Séance 10 - linear regression (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [relation de Pascal, triangle de Pascal]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc]]", "[[raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides]]", "[[Chapitre 5 - Complexes]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", "[[Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 

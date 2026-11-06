@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [field separator, délimiteur, delimiter, delimiters]
 matieres: [Operating System]
-sources: ["[[Cours TP5]]", "[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]"]
+sources: ["[[Cours TP5]]", ".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Caractère qui sépare les données d'un fichier : espace (`.txt`), tabulation (
 
 Notion parente : [[AWK]]. Voir aussi : [[Variables intégrées d'AWK]], [[Fichier CSV]], [[Fichier TSV]].
 
-Résumés : [[Cours TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[log (résumé)]]
+Résumés : [[Séance TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[log (résumé)]]

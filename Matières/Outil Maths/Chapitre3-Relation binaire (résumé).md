@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre 3 - Relation binaire (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du support du professeur [[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre 3 - Relation binaire (PDF)]] (28 diapositives, novembre 2023), dans [[Outil Maths (matière)]]. Version du professeur du cours déjà résumé dans [[Chapitre 3 - Relation binaire (résumé)]]. Notions : [[Relation d'équivalence]], [[Relation d'ordre]].
+Résumé du support du professeur Chapitre 3 - Relation binaire (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf`) (28 diapositives, novembre 2023), dans [[Outil Maths (matière)]]. Version du professeur du cours déjà résumé dans [[Chapitre 3 - Relation binaire (résumé)]]. Notions : [[Relation d'équivalence]], [[Relation d'ordre]].
 
 ## Contenu, dans l'ordre
 

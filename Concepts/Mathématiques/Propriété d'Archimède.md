@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [archimédien, ℝ est archimédien]
 matieres: [Analyse Maths]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"]
 maj: 2026-11-06
 ---
 

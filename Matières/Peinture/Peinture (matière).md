@@ -15,9 +15,9 @@ Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
 
 | Note | Résumé |
 |---|---|
-| [[Cours/Year 1/Peinture/Cours/Cours 1\|Cours 1]] (symbolique, cercle chromatique) | [[Cours 1 - Peinture (résumé)\|Résumé]] |
-| [[Cours 2\|Cours 2]] (couleur et contexte, complémentaires) | [[Cours 2 (résumé)\|Résumé]] |
-| [[Cours 3\|Cours 3]] (fabriquer ses couleurs) | [[Cours 3 (résumé)\|Résumé]] |
+| [[Cours/Year 1/Peinture/Cours/Cours 1\|Cours 1]] (symbolique, cercle chromatique) | [[Séance 1 - Peinture (résumé)\|Résumé]] |
+| [[Cours 2\|Cours 2]] (couleur et contexte, complémentaires) | [[Séance 2 (résumé)\|Résumé]] |
+| [[Cours 3\|Cours 3]] (fabriquer ses couleurs) | [[Séance 3 (résumé)\|Résumé]] |
 
 ## Concepts
 

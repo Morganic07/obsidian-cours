@@ -23,4 +23,4 @@ Notion parente : [[Loi conjointe]]. Voir aussi : [[Espérance et variance]], [[C
 - Cours 9 (Data analysis) : $\rho$ « compris strictement entre −1 et 1 », alors que $\pm 1$ sont atteints (relations parfaites).
 - Cours 9 (Data analysis) : Pearson, test paramétrique, « ne s'emploie que » si $x$ et $y$ viennent de lois normales.
 
-Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Chp3 - More on probability (résumé)]], [[Cours 9 - Covariance and Correlation (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Chp3 - More on probability (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

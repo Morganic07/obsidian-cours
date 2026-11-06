@@ -13,4 +13,4 @@ Dans un test, la [[P-value]] sert à juger la vraisemblance de $H_0$.
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[P-value]].
 
-Résumés : [[Cours 5 - Hypothesis Testing (résumé)]]
+Résumés : [[Séance 5 - Hypothesis Testing (résumé)]]

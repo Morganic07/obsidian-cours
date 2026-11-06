@@ -40,4 +40,4 @@ Notion parente : [[Morphisme]]. Voir aussi : [[Vecteur propre]], [[Espace propre
 - Dans [[Chp 0e - Eigenvalues and eigenvectors]], une note personnelle dit que la forme échelonnée permet de « repérer direct les eigenvalues », ce que contredit l'avertissement du cours.
 - Le cours d'ACP nomme « eigenvalue » deux grandeurs aux normalisations différentes.
 
-Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[chp7 (résumé)|chp7 (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Chp 0e - Eigenvalues and eigenvectors (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[chp7 (résumé)|chp7 (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]

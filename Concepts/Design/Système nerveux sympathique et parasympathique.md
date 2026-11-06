@@ -10,4 +10,4 @@ Nommés dans le dernier cours de Corps à l'oeuvre, sans explication : le systè
 
 Notion parente : [[Mécanique du stress]].
 
-Résumés : [[Dernier cours (résumé)]]
+Résumés : [[Dernière séance (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [data dictionary, dictionnaire des données]
-sources: ["[[Cours 1 et 2 - Database]]", "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"]
+sources: ["[[Cours 1 et 2 - Database]]", ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Modèle entité-association]]. Voir aussi : [[Schéma relatio
 
 - Dans le rapport, le dictionnaire et le DDL ne coïncident pas : `ENUM`, `YEAR`, `AUTO_INCREMENT` d'un côté, `VARCHAR` + `CHECK`, `SERIAL` de l'autre.
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]

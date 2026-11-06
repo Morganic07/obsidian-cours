@@ -22,4 +22,4 @@ Notion parente : [[Projection orthogonale]]. Voir aussi : [[Orthogonalité]], [[
 - [[chp 1 - Orthogonality]] : le texte dit que $\hat{\mathbf{x}}$ est le projeté de $\mathbf{b}$, la figure montre $A\hat{\mathbf{x}}$ ; la « smallest distance » $\|\mathbf{b}-A\mathbf{x}\|$ n'est atteinte qu'en $\hat{\mathbf{x}}$.
 - Transcription de [[Cours 10 - linear regression]] : « −10 + 6b + 12 = 0 », il manque le $m$ ($-10 + 6b + 12m = 0$).
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[Cours 10 - linear regression (résumé)]] (méthode par dérivées partielles), [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Séance 10 - linear regression (résumé)]] (méthode par dérivées partielles), [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]

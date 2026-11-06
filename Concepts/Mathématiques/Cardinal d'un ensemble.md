@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [cardinal, ensemble fini, cardinality, Cardinal of a set]
 matieres: [Outil Maths, Probability]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4)]]", "[[Chapitre 2 ensembles]]", "[[Chp 1 - Sample space,events, proba]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf", "[[Chapitre 2 ensembles]]", "[[Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 

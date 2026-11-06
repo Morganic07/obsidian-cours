@@ -34,6 +34,6 @@ Rien n'a été corrigé dans le cours.
 
 1. **« Spearman is exactly 1 » pour la relation décroissante** : image lue directement. La diapositive écrit bien « Spearman = −1 » sur la ligne puis « Spearman is exactly 1 » dans le commentaire. Il faut lire $-1$ (complément). Alerte de la transcription confirmée.
 2. **« Compris strictement entre −1 et 1 »** : la note de commentaire du cours l'écrit, alors que $\pm 1$ sont atteints (relations parfaites) et que la proposition donne $-1 \le \mathrm{Corr} \le 1$. Il faut lire « entre $-1$ et $1$ » (complément).
-3. **« $R^2 = r^2$ »** : vrai pour une régression linéaire simple. Avec plusieurs variables explicatives, $R^2$ n'est plus le carré d'un seul coefficient (complément, voir [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11]]).
+3. **« $R^2 = r^2$ »** : vrai pour une régression linéaire simple. Avec plusieurs variables explicatives, $R^2$ n'est plus le carré d'un seul coefficient (complément, voir [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11]]).
 4. **Covariance d'échantillon à $n-1$** : l'image donne $\dfrac{\sum(x_i - \bar{X})(y_i - \bar{Y})}{n-1}$, alors que la covariance de population (définition) utilise l'espérance. Les deux sont présentées sans les distinguer.
 5. **Images non ouvertes** : toutes, sauf celle du comparatif Pearson/Spearman. Les formules sont reprises des transcriptions, sans écart apparent avec les formules usuelles.

@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Commande sort]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Cours TP2 (résumé)]]
+Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]]

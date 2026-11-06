@@ -17,4 +17,4 @@ Voir aussi : [[Tiers-lieu]], [[Responsabilité sociétale des entreprises]], [[V
 
 La mention de Culture du vivant est une note de l'étudiant, pas du cours. « écoblanchiment » n'est pas dans le cours.
 
-Résumés : [[idées solutions (résumé)]], [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[idées solutions (résumé)]], [[Culture du vivant Dernière séance (résumé)]]

@@ -20,4 +20,4 @@ Voir aussi : [[Prompt (IA)]].
 
 - L'explication est donnée sans source : c'est une image, pas une règle.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

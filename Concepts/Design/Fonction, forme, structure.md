@@ -11,4 +11,4 @@ F.F.S = fonction, forme, structure : triade qui s'applique dans le design pour c
 
 Voir aussi : [[Gestelligence]].
 
-Résumés : [[corps à l'oeuvre - cours (résumé)]]
+Résumés : [[corps à l'oeuvre - séance (résumé)]]

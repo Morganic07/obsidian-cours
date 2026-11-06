@@ -4,7 +4,7 @@
 set -euo pipefail
 
 ICI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-MIROIR="$ICI/../raw"
+MIROIR="$ICI/../.raw"  # caché : Obsidian ignore les dossiers dont le nom commence par un point
 mkdir -p "$MIROIR"
 JOURNAL="$(mktemp)"
 trap 'rm -f "$JOURNAL"' EXIT

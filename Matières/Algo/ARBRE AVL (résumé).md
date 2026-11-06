@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL]]"]
+sources: [".raw/Year 2/Algo/DM/ARBRE AVL.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du PDF [[raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL]] (5 pages, document daté de 2014, pseudo-code), dans [[Algo (matière)]]. Le texte est en deux colonnes et l'extraction mélange parfois l'ordre : le fond a été recoupé avec le sujet [[Projet-Arbre-AVL-ID2 (résumé)]].
+Résumé du PDF ARBRE AVL (`.raw/Year 2/Algo/DM/ARBRE AVL.pdf`) (5 pages, document daté de 2014, pseudo-code), dans [[Algo (matière)]]. Le texte est en deux colonnes et l'extraction mélange parfois l'ordre : le fond a été recoupé avec le sujet [[Projet-Arbre-AVL-ID2 (résumé)]].
 
 ## Idée générale
 

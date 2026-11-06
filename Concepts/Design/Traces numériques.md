@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [trace numérique, gouverner par les traces]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 3.pptx"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Selon le cours de Sémiotique, ce pouvoir est infrastructurel : « participer, c
 
 Notion parente : [[Économie des données]]. Voir aussi : [[Hypomnémata]], [[Impératif de productivité]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]], [[Cours 3 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]], [[Séance 3 (PPTX) (résumé)]]

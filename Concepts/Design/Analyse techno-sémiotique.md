@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [techno-sémiotique, techno-sémiotique des interfaces, analyse techno-sémiotique, analyse techno-sémiologique, trois régimes d'analyse, trois niveaux d'analyse]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 3.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Approche qui analyse les interfaces numériques comme des dispositifs à la fois
 
 **Trois grilles du cours** (une par séance de fond, cours 2 à 4) : grille 1, « Le numérique, c'est de l'humain » ([[Écrit d'écran]], imaginaires, corps, mémoire) ; grille 2, « Les écrans, ce sont des médias » (médiation, temps, productivité) ; grille 3, « Analyser les médias numériques », sur les enjeux de pouvoir du formatage ([[Architexte]], code, mots, marché). Méthode : [[Analyse de corpus|analyse de corpus]].
 
-Notion parente : [[Sémiotique]]. Voir aussi : [[Non-neutralité des objets techniques]]. Détail : [[Cours 2 (PPTX) (résumé)|Cours 2]], [[Cours 3 (PPTX) (résumé)|Cours 3]], [[Cours 4 (PPTX) (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].
+Notion parente : [[Sémiotique]]. Voir aussi : [[Non-neutralité des objets techniques]]. Détail : [[Séance 2 (PPTX) (résumé)|Cours 2]], [[Séance 3 (PPTX) (résumé)|Cours 3]], [[Séance 4 (PPTX) (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].

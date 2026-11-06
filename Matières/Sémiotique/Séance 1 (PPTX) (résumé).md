@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
 maj: 2026-11-06
 ---
 
-Résumé du Cours 1 de [[Sémiotique (matière)]] (séance 1 : introduction, 37 diapositives). Cours « Analyser les dispositifs numériques : l'analyse techno-sémiotique », thème 2026 : les applications de reconnaissance de la nature, de l'analyse critique à des pistes pour un design d'interface centré vivant. Suite : [[Cours 2 (PPTX) (résumé)|Cours 2]].
+Résumé du Cours 1 de [[Sémiotique (matière)]] (séance 1 : introduction, 37 diapositives). Cours « Analyser les dispositifs numériques : l'analyse techno-sémiotique », thème 2026 : les applications de reconnaissance de la nature, de l'analyse critique à des pistes pour un design d'interface centré vivant. Suite : [[Séance 2 (PPTX) (résumé)|Cours 2]].
 
 **Organisation.** Six séances : introduction ; la technologie, c'est de l'humain ; les écrans, ce sont des médias ; le formatage, c'est du pouvoir ; avancée de l'étude de cas (deux séances avec exercices créatifs) ; présentation du travail. Livrables : (note 1, groupe) un moodboard en deux parties ; (note 2, groupe et individuelle) l'étude de cas présentée au dernier cours ; (note 3, groupe) un livrable original final, six jours après ; (note 4, groupe) une valorisation pour le portfolio ou un poster pour les journées portes ouvertes. Supports sur le drive de classe ; relire ses notes d'un cours à l'autre et poursuivre l'analyse.
 

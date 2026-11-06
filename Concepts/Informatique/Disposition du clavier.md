@@ -11,4 +11,4 @@ Changement temporaire, perdu au redémarrage : `setxkbmap us`. Changement perman
 
 Voir aussi : [[Wayland et X11]].
 
-Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]]
+Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]]

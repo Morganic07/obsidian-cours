@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Orthogonalité]]. Voir aussi : [[Norme]], [[Covariance et corrélation]], [[Projection orthogonale]].
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp3 - More on probability (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp3 - More on probability (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]

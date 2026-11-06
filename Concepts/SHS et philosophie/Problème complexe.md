@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [problèmes complexes]
 matieres: [SHS]
-sources: ["[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]
+sources: [".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"]
 maj: 2026-11-06
 ---
 

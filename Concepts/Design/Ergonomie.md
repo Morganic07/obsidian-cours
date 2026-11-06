@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3, year4]
 aliases: [ergonomy, ergonomics, ergonomie cognitive]
 matieres: [Anglais, Affordance, Sémiotique, culture du soin]
-sources: ["[[Global Exam Vocab]]", "[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]", "[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1]]"]
+sources: ["[[Global Exam Vocab]]", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Accessibilité]], [
 
 - Le terme anglais usuel est « ergonomics », non « ergonomy ».
 
-Résumés : [[Global Exam Vocab (résumé)]], [[Présentation Tests Utilisateurs ID3 (résumé)]], [[Cours 2 (PPTX) (résumé)]], [[Culture du soin Seance 1 (résumé)]]
+Résumés : [[Global Exam Vocab (résumé)]], [[Présentation Tests Utilisateurs ID3 (résumé)]], [[Séance 2 (PPTX) (résumé)]], [[Culture du soin Seance 1 (résumé)]]

@@ -12,7 +12,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
+  - ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"
   - "[[Culture du vivant|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 ---

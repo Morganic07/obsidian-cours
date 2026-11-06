@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [hypomnemata, mémoire externe, extériorisation de la mémoire]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Selon Stiegler (2008), les technologies numériques fonctionnent comme des hypom
 
 Voir aussi : [[Externalisation des facultés]], [[Traces numériques]].
 
-Résumés : [[Cours 2 (PPTX) (résumé)]]
+Résumés : [[Séance 2 (PPTX) (résumé)]]

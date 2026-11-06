@@ -10,4 +10,4 @@ Un modèle déterministe donne une relation exacte, comme $F = ma$. Un modèle p
 
 Voir aussi : [[Régression linéaire]], [[Covariance et corrélation]].
 
-Résumés : [[Cours 9 - Covariance and Correlation (résumé)]]
+Résumés : [[Séance 9 - Covariance and Correlation (résumé)]]

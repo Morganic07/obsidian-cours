@@ -12,4 +12,4 @@ Il est pertinent pour les données de ratio.
 
 Notion parente : [[Statistique descriptive]]. Voir aussi : [[Variance et écart-type d'échantillon]], [[Type de variable statistique]].
 
-Résumés : [[probabilité statistiques utilitaire (résumé)]], [[Cours 2 - Introduction statistics (résumé)]]
+Résumés : [[probabilité statistiques utilitaire (résumé)]], [[Séance 2 - Introduction statistics (résumé)]]

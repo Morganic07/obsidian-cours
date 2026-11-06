@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, nomme]
 aliases: [nombres parfaits]
-sources: ["[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: [".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

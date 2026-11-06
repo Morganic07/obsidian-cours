@@ -11,7 +11,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[L'état|L'état (Philosophie)]]"
-  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
+  - ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"
 maj: 2026-11-06
 ---
 

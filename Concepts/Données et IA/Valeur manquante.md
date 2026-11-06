@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [valeurs manquantes, missing values]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ L'[[Algorithme C4.5]] les traite ainsi : si la valeur de l'attribut $a_i$ manque
 
 Notion parente : [[Prétraitement des données]].
 
-Résumés : [[cours data mining du prof (résumé)]], [[Chp1 - intro to data mining (résumé)]]
+Résumés : [[séance data mining du prof (résumé)]], [[Chp1 - intro to data mining (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [data pre-processing, nettoyage des données, discrétisation, binarisation]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Fouille de données]]. Voir aussi : [[Quartiles et valeurs aberrantes]].
 
-Résumés : [[cours data mining du prof (résumé)]]
+Résumés : [[séance data mining du prof (résumé)]]

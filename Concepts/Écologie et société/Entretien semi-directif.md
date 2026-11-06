@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3, year4]
 aliases: [entretien utilisateur, guide d'entretien, entretien semi-structuré, semi-structured interview, journal de bord d'entretien, topo de présentation, questions de relance, retranscription d'entretien, entretien exploratoire]
 matieres: [Dessein au cube, Projet design, Projet Design, SHS, Affordance]
-sources: ["[[Pistes entrevue (résumé)|Pistes entrevue (résumé)]]", "[[Compte rendu (résumé)|Compte rendu (résumé)]]", "[[Pistes entrevue]]", "[[Inégalités alimentaires]]", "[[Projet BLR]]", "[[raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller]]", "[[raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]", "[[Entretien sur l'open source (résumé)]]", "[[Prise de note SHS]]"]
+sources: ["[[Pistes entrevue (résumé)|Pistes entrevue (résumé)]]", "[[Compte rendu (résumé)|Compte rendu (résumé)]]", "[[Pistes entrevue]]", "[[Inégalités alimentaires]]", "[[Projet BLR]]", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf", ".raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", "[[Entretien sur l'open source (résumé)]]", "[[Prise de note SHS]]"]
 maj: 2026-11-06
 ---
 

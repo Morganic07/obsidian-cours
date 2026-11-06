@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
 maj: 2026-11-06
 ---
 
-Résumé du Cours 2 de [[Sémiotique (matière)]] (séance 2 : « La technologie, c'est de l'humain », 54 diapositives). Précédent : [[Cours 1 (PPTX) (résumé)|Cours 1]] ; suivant : [[Cours 3 (PPTX) (résumé)|Cours 3]].
+Résumé du Cours 2 de [[Sémiotique (matière)]] (séance 2 : « La technologie, c'est de l'humain », 54 diapositives). Précédent : [[Séance 1 (PPTX) (résumé)|Cours 1]] ; suivant : [[Séance 3 (PPTX) (résumé)|Cours 3]].
 
 **Objectifs.** Dénaturaliser la dimension humaine des médias informatisés ; apprendre à construire une analyse d'artefact ; commencer à dérouler la méthode sur l'étude de cas.
 

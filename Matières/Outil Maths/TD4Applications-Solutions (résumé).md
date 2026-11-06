@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4 Applications, corrigé (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du [[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4 Applications, corrigé (PDF)]] (94 diapositives, algèbre, premier semestre 2023), dans [[Outil Maths (matière)]]. C'est le corrigé de [[TD4Applications (résumé)]] (les énoncés y sont listés). Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Opérations sur les ensembles]]. Texte extrait en entier ; le résumé va par exercice, sans tout recopier.
+Résumé du TD4 Applications, corrigé (PDF) (`.raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf`) (94 diapositives, algèbre, premier semestre 2023), dans [[Outil Maths (matière)]]. C'est le corrigé de [[TD4Applications (résumé)]] (les énoncés y sont listés). Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Opérations sur les ensembles]]. Texte extrait en entier ; le résumé va par exercice, sans tout recopier.
 
 ## Résultats et méthodes par exercice
 

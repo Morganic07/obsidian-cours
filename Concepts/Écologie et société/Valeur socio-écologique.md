@@ -19,4 +19,4 @@ Voir aussi : [[CSRD]], [[Taxonomie européenne]], [[Finance durable]], [[Respons
 
 Le schéma vient de la transcription d'une photo d'écran prise en biais : le texte du volet latéral est illisible.
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]]

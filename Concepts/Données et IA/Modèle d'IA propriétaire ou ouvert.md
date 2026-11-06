@@ -21,4 +21,4 @@ Notion parente : [[Licences libres]]. Voir aussi : [[Intelligence artificielle]]
 - Gemini est propriétaire : seuls certains modèles de Google, comme Gemma, sont ouverts.
 - Hugging Face est une plateforme, pas un éditeur de modèles.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

@@ -11,4 +11,4 @@ Somme des coefficients diagonaux d'une matrice carrée. Pour la [[Matrice de cov
 
 Voir aussi : [[Matrice de covariance]].
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]]

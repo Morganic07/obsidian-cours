@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [ensemble methods, combinaison de modèles]
 matieres: [data mining]
-sources: ["[[Chp1 - intro to data mining]]", "[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: ["[[Chp1 - intro to data mining]]", ".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Combiner plusieurs modèles pour obtenir une seule prédiction, par vote (pondé
 - **[[Boosting]]** (AdaBoost.M1) : les modèles sont construits l'un après l'autre, chacun influencé par les précédents, avec des exemples pondérés. Après chaque modèle d'erreur $e_t$ (arrêt si $e_t = 0$ ou $e_t > 0{,}5$), le poids des exemples bien classés est multiplié par $\dfrac{e_t}{1-e_t}$, puis les poids sont normalisés : les exemples difficiles gagnent du poids. Le vote est pondéré, chaque modèle apportant $-\log\dfrac{e_t}{1-e_t}$ à la classe qu'il prédit.
 - **[[Forêt aléatoire]]** : bagging d'arbres où, à chaque nœud, on ne tire au hasard que $q$ variables parmi $p$ pour choisir la coupure. On fait voter ou on moyenne les $K$ arbres.
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

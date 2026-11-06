@@ -11,4 +11,4 @@ Un **paramètre** est une caractéristique numérique de la population, comme la
 
 Notion parente : [[Statistique inférentielle]]. Voir aussi : [[Estimateur]], [[Population et échantillon]], [[Distribution d'échantillonnage]].
 
-Résumés : [[Cours 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]]
+Résumés : [[Séance 2 - Introduction statistics (résumé)]], [[Chp1 - Intro to statistics (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]]

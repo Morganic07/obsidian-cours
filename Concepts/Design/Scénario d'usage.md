@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [scénarios d'usage, scénario d'usages, scénarios d'usages, tests scénarisés]
-sources: ["[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"]
+sources: [".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx"]
 maj: 2026-11-06
 ---
 

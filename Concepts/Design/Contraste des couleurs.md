@@ -26,4 +26,4 @@ Une couleur n'existe pas sans contexte : son aspect dépend des couleurs voisine
 
 Voir [[Cercle chromatique]].
 
-Résumé : [[Cours 2 (résumé)|Cours 2 (résumé)]]
+Résumé : [[Séance 2 (résumé)|Cours 2 (résumé)]]

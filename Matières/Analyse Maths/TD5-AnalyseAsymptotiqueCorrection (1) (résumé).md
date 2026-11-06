@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection]]"]
+sources: [".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"]
 maj: 2026-11-06
 ---
 
-Résumé de [[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection]] (32 pages, texte, « Analyse II 2021/2022 »), dans [[Analyse Maths (matière)]]. C'est le corrigé détaillé du TD d'analyse asymptotique dont l'énoncé 2020-2021 est dans [[TD5-AnalAsympt (résumé)]]. Cette version compte 5 affirmations à l'exercice 1 au lieu de 4. Le résumé donne les méthodes et les pièges, pas les corrections complètes. Cours associé : [[chp5 - Analyse Maths (résumé)|chp5 (résumé)]].
+Résumé de TD5-AnalyseAsymptotiqueCorrection (`.raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf`) (32 pages, texte, « Analyse II 2021/2022 »), dans [[Analyse Maths (matière)]]. C'est le corrigé détaillé du TD d'analyse asymptotique dont l'énoncé 2020-2021 est dans [[TD5-AnalAsympt (résumé)]]. Cette version compte 5 affirmations à l'exercice 1 au lieu de 4. Le résumé donne les méthodes et les pièges, pas les corrections complètes. Cours associé : [[chp5 - Analyse Maths (résumé)|chp5 (résumé)]].
 
 ## Méthodes de résolution
 

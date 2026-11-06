@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [architexte, architextes, architextual, partenaires éditoriaux invisibles, écriture de l'écriture]
 matieres: [Sémiotique]
-sources: ["[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4]]"]
+sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Effets : les architextes (Word, Facebook, WordPress, PowerPoint) standardisent e
 
 Voir [[Analyse techno-sémiotique]], [[Écrit d'écran]], [[Désenfouissement du code]], [[Assemblages préfabriqués]].
 
-Résumé : [[Cours 4 (PPTX) (résumé)|Cours 4 (résumé)]]
+Résumé : [[Séance 4 (PPTX) (résumé)|Cours 4 (résumé)]]

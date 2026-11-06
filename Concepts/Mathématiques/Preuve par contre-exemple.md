@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [contre-exemple, contre-exemples, contre exemple]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 1 logique]]", "[[raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1)]]", "[[raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations]]"]
+sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf", ".raw/Year 1/Outil Maths/Exos/TDRelations.pdf"]
 maj: 2026-11-06
 ---
 

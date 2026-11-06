@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [meta characters, métacaractères, méta-caractères, caractères spéciaux du shell]
 matieres: [Operating System]
-sources: ["[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]", "[[Cours TP2]]"]
+sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP2]]"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Symboles spéciaux qui contrôlent l'interprétation des commandes au lieu de va
 
 Notion parente : [[Shell et Bash]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[Cours TP2 (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[Séance TP2 (résumé)]]

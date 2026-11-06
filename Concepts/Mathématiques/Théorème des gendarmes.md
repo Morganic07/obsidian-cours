@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [gendarmes, théorème d'encadrement, squeeze theorem]
 matieres: [Analyse Maths, Séries]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]", "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]", "[[Chp0 - Revision chapter]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf", ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf", "[[Chp0 - Revision chapter]]"]
 maj: 2026-11-06
 ---
 

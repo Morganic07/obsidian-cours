@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [produits cartésiens, n-uplet, n-uplets]
 matieres: [Outil Maths]
-sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4)]]", "[[Chapitre 2 ensembles]]", "[[raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1)]]"]
+sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf", "[[Chapitre 2 ensembles]]", ".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf"]
 maj: 2026-11-06
 ---
 

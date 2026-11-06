@@ -14,4 +14,4 @@ Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition, parmi les
 
 Notion parente : [[Intelligence artificielle]]. Voir aussi : [[Approche symbolique et connexionniste]].
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

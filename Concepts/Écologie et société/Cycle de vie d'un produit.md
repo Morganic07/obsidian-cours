@@ -3,7 +3,7 @@ type: concept
 tags: [year3, year4]
 aliases: [cycle de vie du produit, cycle de vie des produits, fin de vie]
 matieres: [Culture du vivant, workshop, "management de l'innovationb"]
-sources: ["[[Culture du vivant Dernier cours]]", "[[Reyou]]", "[[raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|Management de l'innovation - 2026 09 30]]"]
+sources: ["[[Culture du vivant Dernier cours]]", "[[Reyou]]", ".raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ L'[[Économie circulaire]] étend le cycle de vie pour réduire l'usage de mati�
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Écoconception]], [[Cradle to cradle]], [[Éco-organisme]], [[Analyse fonctionnelle]].
 
-Résumés : [[Culture du vivant Dernier cours (résumé)]], [[Reyou (résumé)]], [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)]]
+Résumés : [[Culture du vivant Dernière séance (résumé)]], [[Reyou (résumé)]], [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)]]

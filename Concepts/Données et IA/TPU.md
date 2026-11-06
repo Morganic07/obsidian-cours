@@ -20,4 +20,4 @@ Voir aussi : [[Consommation énergétique de l'IA]].
 
 - Affirmation fausse en général : les modèles tournent sur des GPU, des TPU et d'autres accélérateurs, le TPU étant le matériel de Google (à corriger avant un examen).
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]

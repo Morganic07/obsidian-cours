@@ -11,4 +11,4 @@ Coefficient de corrélation non paramétrique fondé sur les rangs. C'est une al
 
 Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Coefficient de corrélation de Spearman]].
 
-Résumés : [[Cours 9 - Covariance and Correlation (résumé)]]
+Résumés : [[Séance 9 - Covariance and Correlation (résumé)]]

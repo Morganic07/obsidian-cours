@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[raw/Year 3/SHS/Cours/text3.pdf|text3]]"]
+sources: [".raw/Year 3/SHS/Cours/text3.pdf"]
 maj: 2026-11-06
 ---
 

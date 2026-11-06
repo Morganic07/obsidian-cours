@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [types SQL, VARCHAR, DECIMAL, BLOB, ENUM, TIMESTAMP, DATETIME, SQL data types]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]", "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"]
+sources: ["[[Cours 1 et 2 - Database]]", ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Notion parente : [[Langage SQL]]. Voir aussi : [[Valeur NULL]], [[Dictionnaire d
 
 - `DATETIME` et `TIMESTAMP` sont présentés comme un seul type, alors qu'ils diffèrent selon le SGBD.
 
-Résumés : [[Cours 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]

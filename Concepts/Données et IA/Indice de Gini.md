@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [Gini index, critère de Gini]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Notion parente : [[Algorithme CART]]. Voir aussi : [[Entropie (théorie de l'inf
 
 - Le calcul du fils « false » écrit $(2/8)^2 + (6/8)^2$ dans l'ordre inverse de l'arbre, sans incidence sur le résultat (relevé du résumé).
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

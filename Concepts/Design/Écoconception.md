@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Design industriel]], [[Cycle de vie d'un produit]].
 
-Résumés : [[Global Exam Vocab (résumé)]], [[Culture du vivant Dernier cours (résumé)]], [[Reyou (résumé)]]
+Résumés : [[Global Exam Vocab (résumé)]], [[Culture du vivant Dernière séance (résumé)]], [[Reyou (résumé)]]

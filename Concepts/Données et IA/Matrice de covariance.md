@@ -12,4 +12,4 @@ En R : `cov()`, puis `matrix()` ([[Cours 13 - PCA in R]]).
 
 Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Analyse en composantes principales]], [[Matrice symétrique]], [[Trace d'une matrice]], [[Valeur propre]].
 
-Résumés : [[Cours 13 - Principal Components Analysis (résumé)]], [[Cours 13 - PCA in R (résumé)]]
+Résumés : [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]

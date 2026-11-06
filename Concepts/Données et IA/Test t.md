@@ -14,7 +14,7 @@ Remplace le [[Test Z]] quand $\sigma$ est inconnu et que l'échantillon est peti
 
 Exemple du cours : $t = -2{,}50$ comparé à $\pm 2{,}1315$, donc rejet de $H_0$.
 
-Le test t compare deux moyennes ; l'[[ANOVA]] en compare plus de deux ([[Cours 12 - ANOVA and F-statistic (résumé)]]). Pour des données appariées, l'organigramme de [[Cours 7 - Z-Test]] donne le test t apparié ([[Échantillons appariés et indépendants]]).
+Le test t compare deux moyennes ; l'[[ANOVA]] en compare plus de deux ([[Séance 12 - ANOVA and F-statistic (résumé)]]). Pour des données appariées, l'organigramme de [[Cours 7 - Z-Test]] donne le test t apparié ([[Échantillons appariés et indépendants]]).
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Loi de Student]], [[Test Z]], [[Échantillons appariés et indépendants]], [[ANOVA]], [[Test de la pente]].
 
@@ -23,4 +23,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Loi de Student]], [[Test 
 - Cours 7 propose un « two-sample t-test » pour des données avant/après, alors que l'organigramme du même cours donne le test t apparié (à corriger avant un examen).
 - Seuil « au moins 32 » donné sans justification.
 
-Résumés : [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]], [[Cours 12 - ANOVA and F-statistic (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

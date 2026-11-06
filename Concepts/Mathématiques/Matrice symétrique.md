@@ -14,8 +14,8 @@ $A$ est orthogonalement diagonalisable si et seulement si elle est symétrique. 
 
 **Décomposition spectrale** : $A = \lambda_1\mathbf{u}_1\mathbf{u}_1^T + \dots + \lambda_n\mathbf{u}_n\mathbf{u}_n^T$, obtenue en développant $PDP^T$ colonnes-lignes. Chaque $\mathbf{u}_j\mathbf{u}_j^T$ est une matrice de [[Projection orthogonale|projection]] sur la droite engendrée par $\mathbf{u}_j$.
 
-En Data analysis, la [[Matrice de covariance]] est symétrique, donc ses vecteurs propres sont orthogonaux ([[Cours 13 - Principal Components Analysis (résumé)]]).
+En Data analysis, la [[Matrice de covariance]] est symétrique, donc ses vecteurs propres sont orthogonaux ([[Séance 13 - Principal Components Analysis (résumé)]]).
 
 Voir aussi : [[Théorème spectral]], [[Transposée]], [[Diagonalisation]], [[Espace propre]], [[Forme quadratique]], [[Matrice orthogonale]], [[Décomposition en valeurs singulières]], [[Matrice de covariance]].
 
-Résumés : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]
+Résumés : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]

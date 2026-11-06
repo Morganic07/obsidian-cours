@@ -13,4 +13,4 @@ Le cours relie aussi la couleur et la musique par un lexique commun : accord, nu
 
 Voir aussi : [[Symbolique des couleurs]].
 
-Résumés : [[Cours 2 (résumé)]]
+Résumés : [[Séance 2 (résumé)]]

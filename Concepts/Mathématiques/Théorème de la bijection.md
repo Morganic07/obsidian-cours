@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [bijection continue]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 

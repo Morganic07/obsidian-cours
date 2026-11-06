@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [entropie, entropy, quantité d'information]
 matieres: [data mining]
-sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
+sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Algorithme ID3]]. Voir aussi : [[Gain d'information]], [[Indi
 
 - L'indice de la somme passe de $m$ à $k$ pour le nombre de sous-ensembles (coquille relevée par le résumé).
 
-Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]

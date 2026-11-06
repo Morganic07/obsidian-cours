@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TD Relations (PDF)]]"]
+sources: [".raw/Year 1/Outil Maths/Exos/TDRelations.pdf"]
 maj: 2026-11-06
 ---
 
-Résumé du corrigé [[raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TD Relations (PDF)]] (42 pages, algèbre, premier semestre 2025-2026), dans [[Outil Maths (matière)]]. 10 exercices, dont les 8 à 10 « à faire chez soi », tous corrigés. Cours : [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[Relation d'équivalence]], [[Relation d'ordre]].
+Résumé du corrigé TD Relations (PDF) (`.raw/Year 1/Outil Maths/Exos/TDRelations.pdf`) (42 pages, algèbre, premier semestre 2025-2026), dans [[Outil Maths (matière)]]. 10 exercices, dont les 8 à 10 « à faire chez soi », tous corrigés. Cours : [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[Relation d'équivalence]], [[Relation d'ordre]].
 
 ## Thèmes et exercices
 

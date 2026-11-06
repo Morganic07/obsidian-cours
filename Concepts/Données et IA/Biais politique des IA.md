@@ -26,4 +26,4 @@ Voir aussi : [[Intelligence artificielle]].
 - Le tableau Californiens / Européens / Asiatiques présente des opinions sans méthode ni source.
 - Les placements ont été lus sur la transcription.
 
-Résumés : [[Cours 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]
