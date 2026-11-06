@@ -19,6 +19,6 @@ IPv4 n'offre qu'environ 4,2 milliards d'adresses. À court terme : CIDR, adresse
 > [!warning] Écart dans le cours
 > Le cours écrit `overlead` au lieu de `overload`, et présente NAT comme un pare-feu. NAT n'est pas un mécanisme de sécurité (complément).
 
-Liens : [[Liste de contrôle d'accès]], [[CLI Cisco IOS]]
+Liens : [[Liste de contrôle d'accès]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 
 Résumé : [[Chp5 - NAT ／ PAT (résumé)]]

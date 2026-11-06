@@ -15,6 +15,6 @@ $f$ est $k$-lipschitzienne sur $A$ si $\forall x, y \in A, \|f(x) - f(y)\|_F \le
 > [!warning] Écart dans le cours
 > Une note de [[Chp 3 - Limite et continuité d’applications]] écrit « $k$-lipschitzien ⇔ uniformément continue ». Seule l'implication ⇒ est vraie : $\sqrt{x}$ sur $[0, 1]$ est uniformément continue, sans être lipschitzienne (complément).
 
-Liens : [[Limite et continuité]], [[Gradient]], [[Norme]], [[Dérivabilité]], [[Intégrale]]
+Liens : [[Limite et continuité]], [[Gradient]], [[Norme]], [[Dérivabilité]], [[Intégrale]], [[Convergence uniforme]] (pour les suites de fonctions, une notion différente)
 
 Résumés : [[Chp 3 - Limite et continuité d’applications (résumé)]], [[Chp 4 - Calcul différentiel du premier ordre (résumé)]], [[Chp4 - dérivabilité (résumé)]]

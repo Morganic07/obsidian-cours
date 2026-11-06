@@ -18,4 +18,6 @@ Modèle de classification où chaque nœud teste un attribut, chaque branche une
 
 Les arbres servent de base aux [[Méthodes d'ensemble]]. Évaluation : [[Validation d'un classifieur]].
 
-Résumé : [[Chp1 - intro to data mining (résumé)]]
+**Le cours complet en PDF** détaille trois algorithmes : ID3 choisit la variable de plus grand gain d'information (entropie), C4.5 utilise le rapport de gain et gère les valeurs manquantes et l'élagage, CART utilise l'indice de Gini. Sur l'exemple PlayTennis, les gains valent 0,246 (outlook), 0,151 (humidity), 0,048 (wind) et 0,029 (temperature) : outlook est donc à la racine.
+
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]

@@ -14,4 +14,4 @@ maj: 2026-11-05
 - **Reformuler la problématique** si les thèmes l'exigent : dans l'enquête sur l'alimentation, une question centrée sur l'argent devient une question sur tous les facteurs d'accès.
 - **Solution** : elle répond à « pour qui, quand, pour quoi faire, pourquoi ».
 
-Un schéma de flux peut aussi rendre l'analyse lisible. Cadre de rendu : [[Sources/Year 1/Dessein au cube/Untitled document (résumé)|Untitled document (résumé)]].
+Le TD de SHS de 3e année propose une grille d'analyse : thème ou mot-clé, extrait, date, interprétation, avec anonymisation des personnes ([[TD_preparation_entretiens25.9.25 (résumé)]]). Un schéma de flux peut aussi rendre l'analyse lisible. Cadre de rendu : [[Sources/Year 1/Dessein au cube/Untitled document (résumé)|Untitled document (résumé)]].

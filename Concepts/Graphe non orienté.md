@@ -16,6 +16,8 @@ Un graphe non orienté $G = (V, E, \gamma)$ a des sommets $V$ (fini, non vide), 
 - **$k$-régulier** : tous les degrés valent $k$, donc $k\,|V| = 2|E|$.
 - **Pondéré** : $w : E \to \mathbb{R}$.
 
-Liens : [[Graphe orienté]], [[Arbre couvrant minimal]]
+Le chapitre 3 d'Algo de 2e année donne les propriétés équivalentes d'un arbre : graphe connexe sans cycle, ou connexe avec $n - 1$ arêtes, ou sans cycle avec $n - 1$ arêtes ([[Chapitre3-Arbres (résumé)]]).
+
+Liens : [[Graphe orienté]], [[Arbre couvrant minimal]], [[Arbre binaire]]
 
 Résumés : [[Chp 1 - Undirected graph (résumé)]], [[Graph - Python (résumé)]]

@@ -18,6 +18,6 @@ Un routeur décide du chemin d'un paquet avec sa **table de routage**. Il appren
 > [!warning] Écart dans le cours
 > Le tableau des réseaux connectés de [[Chp2 - Static Routing]] écrit « R3 » pour une ligne qui concerne R2.
 
-Liens : [[Routage dynamique]], [[CLI Cisco IOS]]
+Liens : [[Routage dynamique]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 
 Résumés : [[Chp2 - Static Routing (résumé)]], [[Chp3 - Dynamic Routing (résumé)]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 aliases: [analyse asymptotique, équivalent, équivalents, croissances comparées, négligeable, dominée, grand O, petit o]
-matieres: [Analyse Maths]
+matieres: [Analyse Maths, Séries]
 sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
 maj: 2026-11-05
 ---
@@ -28,4 +28,6 @@ En algorithmique, le $O$ sert à exprimer la complexité : voir [[Complexité al
 
 Liens : [[Développement limité]], [[Limite et continuité]], [[Dérivabilité]], [[Complexité algorithmique]]
 
-Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]]
+Le chapitre 0 de Séries rappelle $f \sim g \iff f - g = o(g)$. Le corrigé du TD5 insiste : on n'additionne jamais des équivalents, et $e^f \sim e^g$ si et seulement si $f - g \to 0$.
+
+Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]

@@ -14,6 +14,8 @@ Outil et langage de traitement de texte pour fichiers en lignes et colonnes. Syn
 
 **Exemples du TP** : `awk '{print $2}'` (deuxième colonne) ; `{count[$4]++} END {for (p in count) print p, count[p]}` (compter les valeurs identiques) ; `$3=="Golf"` (égalité exacte) ; `$4>150` (filtre numérique) ; `/Peugeot/` (motif) ; `tolower($0) ~ /peugeot/` (insensible à la casse) ; `$6~/youtube/ || $6~/facebook/` (motif dans un champ, avec `~` plutôt que `==`).
 
+Le sujet du TP5 mobilise aussi les blocs `BEGIN` et `END`, l'option `-F` pour le séparateur, et les fonctions `gsub` et `tolower`.
+
 Liens : [[Redirection et tube]], [[Shell et Bash]]
 
-Résumé : [[Cours TP5 (résumé)]]
+Résumés : [[Cours TP5 (résumé)]], [[TP5-AWK Command (résumé)]]

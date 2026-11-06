@@ -79,3 +79,7 @@ Trois notes sans lien entrant, dont deux portaient un nom de personne, sont reti
 ## [2026-11-06] ingest | Documents PDF et PPTX
 
 Les 53 PDF et 6 PPTX de `raw/` sont résumés en 4 lots, soit 1 515 pages : 59 résumés, 15 concepts et 5 nouvelles pages de matière (Year 2 - SHS, Year 3 - Affordance, Year 3 - Projet courts, Year 3 - Sémiotique, Year 4 - culture du soin). Les documents sont lus par leur texte extrait, et une page n'est ouverte en image que si le texte est illisible ou douteux. Lectures partielles : les gros documents de diapositives (AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites), text2 et text3 de SHS. Les liens vers trois fichiers dont le nom pose problème sont écrits en texte simple.
+
+## [2026-11-06] ingest | Compléments des concepts
+
+44 concepts existants complétés à partir des propositions des lots, surtout grâce aux documents PDF : Limite et continuité (version à une variable), Injectivité et surjectivité (applications ensemblistes), Arbre de décision (ID3, C4.5, CART), Limites planétaires (Rockström, Donut), etc. Portée élargie pour Injectivité et surjectivité (Outil Maths), Comparaison asymptotique (Séries), Récursivité (Algo Maths), Affordance (Sémiotique, Affordance) et Entretien semi-directif (SHS, Affordance). Un seul nouveau lien automatique dans les cours, vérifié.

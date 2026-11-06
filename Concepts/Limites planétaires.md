@@ -22,6 +22,8 @@ Un second diagramme (« Les limites planétaires en 2025 », Reporterre) donne l
 
 À vérifier : les chiffres des images sont petits, les transcriptions peuvent contenir des erreurs de lecture.
 
+Le cours en PDF (VIVANT1) présente les neuf limites définies par Rockström et ses collègues en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[VIVANT1 DBrowaeys (résumé)]]).
+
 Voir aussi : [[Anthropocène]], [[Économie circulaire]]
 
 Résumé : [[Sources/Year 3/Culture du vivant/Culture du vivant (résumé)|Culture du vivant (résumé)]]

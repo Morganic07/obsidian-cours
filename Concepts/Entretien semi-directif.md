@@ -1,7 +1,7 @@
 ---
 type: concept
 aliases: [entretien utilisateur, guide d'entretien, entretien semi-structuré, semi-structured interview, journal de bord d'entretien]
-matieres: [Dessein au cube, Projet design, Projet Design]
+matieres: [Dessein au cube, Projet design, Projet Design, SHS, Affordance]
 sources: ["[[Sources/Year 1/Dessein au cube/Pistes entrevue (résumé)|Pistes entrevue (résumé)]]", "[[Sources/Year 1/Dessein au cube/Compte rendu (résumé)|Compte rendu (résumé)]]"]
 maj: 2026-11-05
 ---
@@ -20,5 +20,7 @@ Méthode d'enquête de terrain où l'on interroge une personne à partir d'un gu
 - Tenir un journal de bord : contexte, ressentis avant, pendant, après.
 
 **Critiquer** : biais de rétrospective, de confirmation et de disponibilité, questions sensibles, durée trop courte, échantillon non représentatif.
+
+Le TD de SHS de 3e année donne la démarche complète : question de recherche, guide d'entretien, entretiens de 10 à 15 minutes, puis grille d'analyse ([[TD_preparation_entretiens25.9.25 (résumé)]]). Le cours d'UX Research compare l'entretien à l'observation, avec leurs avantages et leurs limites ([[UX Research - Observation - 2026 (résumé)]]).
 
 Suite logique : [[Analyse thématique d'entretien]], puis [[Persona]]. Utilisé aussi pour le quartier Bel-Air : [[Sources/Year 1/Projet design/Projet BLR (résumé)|Projet BLR (résumé)]].

@@ -14,6 +14,6 @@ Dans les deux cas : $L < 1$, série absolument convergente ; $L > 1$ ou $+\infty
 
 Pour une [[Série entière]], les mêmes limites donnent le rayon de convergence $R = 1/\ell$.
 
-Liens : [[Série numérique]]
+Liens : [[Série numérique]], [[Suite numérique]]
 
 Résumés : [[Chp2 - Alternating and absolutly convergent series (résumé)]], [[Chp5 - power series (résumé)]]

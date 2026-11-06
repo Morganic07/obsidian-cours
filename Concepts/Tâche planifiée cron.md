@@ -20,6 +20,8 @@ Syntaxe : `minute heure jour-du-mois mois jour-de-semaine commande` (minute 0-59
 
 L'intervalle minimal est 1 minute : cron ne sait pas lancer toutes les X secondes. `*/15` signifie « toutes les 15 unités » du champ.
 
+Cron ne planifie rien à moins d'une minute, et `crontab -e` s'utilise sans `sudo` pour ses propres tâches (sujet du TP4).
+
 Liens : [[Script Bash]], [[Shell et Bash]]
 
-Résumé : [[Cours TP4 (résumé)]]
+Résumés : [[Cours TP4 (résumé)]], [[TP4-Unix Commands (résumé)]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 aliases: [fonction récursive, fonctions récursives, algorithme récursif, algorithmes récursifs, pile de récursion, appel récursif, appels récursifs]
-matieres: [Algo]
+matieres: [Algo, Algo Maths]
 sources: ["[[Chp1 - récursivité et complexité]]"]
 maj: 2026-11-05
 ---
@@ -16,6 +16,8 @@ Une fonction est récursive si elle est définie, directement ou indirectement, 
 
 **Coût** : se met en équation $T(n) = a\,T(n/b) + f(n)$ et se résout par substitution ou par le théorème de résolution, voir [[Calcul de complexité et théorème de résolution]]. Exemple : [[Recherche dichotomique]].
 
-Liens : [[Calcul de complexité et théorème de résolution]], [[Pile et file]], [[Recherche dichotomique]], [[Tours de Hanoï]], [[Récurrence]]
+Le polycopié de 1re année distingue la récursivité terminale, où l'appel récursif est la dernière opération, de la non terminale. Il note aussi que la terminaison d'un programme est indécidable en général. Hauteur et parcours d'un [[Arbre binaire]] sont des exemples classiques.
 
-Résumé : [[Chp1 - récursivité et complexité (résumé)]]
+Liens : [[Calcul de complexité et théorème de résolution]], [[Pile et file]], [[Recherche dichotomique]], [[Tours de Hanoï]], [[Récurrence]], [[Arbre binaire]]
+
+Résumés : [[Chp1 - récursivité et complexité (résumé)]], [[AlgoID1 (résumé)]], [[Chapitre4-Preing2ID (résumé)]]

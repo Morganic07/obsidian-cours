@@ -13,4 +13,4 @@ Deux usages dans les projets :
 - **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas (information hors d'atteinte, rejet de la technologie, projet mal compris). Les obstacles deviennent la problématique. Voir [[Sources/Year 2/Projet Design/Qui dit quoi (résumé)|Qui dit quoi (résumé)]].
 - **ReYOU** : trois visiteurs de salon (le focus, le networker, l'explorateur) avec objectif, comportement et façon de les capter. L'espace doit satisfaire tous les profils. Voir [[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]].
 
-Les personas s'appuient sur des données ([[Entretien semi-directif]]) et préparent l'idéation.
+Les personas s'appuient sur des données ([[Entretien semi-directif]], ou observation, voir [[UX Research - Observation - 2026 (résumé)]]) et préparent l'idéation.

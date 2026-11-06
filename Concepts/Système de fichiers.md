@@ -21,6 +21,8 @@ Méthode d'organisation et de stockage des fichiers sur un support. Il suit l'em
 
 Linux reconnaît tous les systèmes, Windows seulement les siens. Partitions demandées par Ubuntu : swap (utilisée quand la RAM est pleine), racine `/`, partition EFI, zone de boot BIOS réservée, `/home`.
 
+**Arborescence Linux** (chapitre 4) : `/bin` et `/sbin` pour les commandes, `/etc` pour la configuration, `/home` pour les utilisateurs, `/usr` pour les logiciels, `/var` pour les données variables. Partitions conseillées : racine, `/home`, `/boot` et swap.
+
 Liens : [[Hiérarchie de stockage]], [[BIOS et UEFI]], [[Distribution Linux]]
 
-Résumé : [[OS - chp 2 (résumé)]], [[OS - chp 3 (résumé)]]
+Résumés : [[OS - chp 2 (résumé)]], [[OS - chp 3 (résumé)]], [[OS - chp 4 (résumé)]]

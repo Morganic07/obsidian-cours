@@ -12,4 +12,6 @@ Grille d'analyse d'une innovation, telle qu'elle apparaît dans le devoir (la no
 
 **Version 2, tableau d'acteurs** : avec qui (partenaires), par qui (ceux qui portent le changement en interne), pour qui (bénéficiaires). Appliquée à Michelin Fleet Solutions.
 
+La définition du cours se trouve dans [[Value(s) Design]].
+
 Voir [[Servitisation]], [[Typologie des innovations]], [[Analyse d'innovations (résumé)]].

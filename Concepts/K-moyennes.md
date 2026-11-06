@@ -14,4 +14,4 @@ Algorithme de partitionnement non hiérarchique : trouver $K$ groupes d'exemples
 
 **Autre approche, hiérarchique** : on fusionne les exemples du bas vers le haut en un arbre (dendrogramme), qu'une coupe horizontale transforme en $K$ groupes. Critères de fusion : saut minimal, maximal, moyen, ou méthode de Ward (perte minimale de $I_W$).
 
-Résumé : [[Chp1 - intro to data mining (résumé)]]
+Résumés : [[Chp1 - intro to data mining (résumé)]], [[cours data mining du prof (résumé)]]

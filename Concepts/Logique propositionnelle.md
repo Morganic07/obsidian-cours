@@ -18,4 +18,6 @@ La logique propositionnelle étudie des propositions vraies ou fausses, reliées
 
 Liens : [[Opérations sur les ensembles]] (inclusion, intersection, union et complémentaire correspondent à implication, conjonction, disjonction et négation).
 
-Résumé : [[Chapitre 1 logique (résumé)]]
+Les exercices et le DS insistent sur la négation des propositions quantifiées ($\forall$ devient $\exists$ et inversement) et sur l'ordre des quantificateurs : $\forall x, \exists y$ ne dit pas la même chose que $\exists y, \forall x$.
+
+Résumés : [[Chapitre 1 logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]

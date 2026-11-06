@@ -15,6 +15,6 @@ Le MLD (modèle logique de données) est la liste des tables avec leurs clés pr
 - Cardinalité 1-1 : elle ne devrait pas apparaître dans un schéma de conception.
 - Héritage : `Client(numero)`, `PersonnePhysique(#numeroPP, ...)`, `PersonneMorale(#numeroPM, ...)`.
 
-Liens : [[Clé primaire et clé étrangère]], [[Algèbre relationnelle]]
+Liens : [[Clé primaire et clé étrangère]], [[Algèbre relationnelle]], [[Héritage en base de données]]
 
 Résumé : [[Cours 1 et 2 - Database (résumé)]]

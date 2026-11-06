@@ -13,4 +13,4 @@ Faire concevoir ou vivre la solution par ses futurs usagers, à travers un ateli
 - **Edossah** : journée d'immersion avec brise-glace, jeu de rôle, terrain, restitution et charte ; rôle d'un médiateur neutre, un animateur pour dix personnes ([[Sources/Year 2/Projet Design/EDOSSAH (résumé)|EDOSSAH (résumé)]]).
 - **ReYOU** : l'espace lui-même fait vivre les étapes du reconditionnement ([[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]]).
 
-Le rapport sur les tiers-lieux recommande ces méthodes participatives ([[Tiers-lieu]]).
+Le rapport sur les tiers-lieux recommande ces méthodes participatives ([[Tiers-lieu]]). Le brief du projet court sur la santé au travail cite d'autres exemples, comme un jury citoyen ([[Santé au travail - brief du projet (résumé)]]).

@@ -17,6 +17,6 @@ Un VLAN divise le domaine de diffusion (broadcast) d'un switch en plusieurs doma
 > [!warning] Écart dans le cours
 > Dans l'exemple du cours, les trois sous-interfaces portent `encapsulation dot1q 10`. Les sous-interfaces `.20` et `.30` devraient porter 20 et 30 (complément).
 
-Liens : [[CLI Cisco IOS]]
+Liens : [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 
 Résumé : [[Chp4 - VLAN ／ IVR Commands (résumé)]]

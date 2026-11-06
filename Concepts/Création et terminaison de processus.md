@@ -14,6 +14,8 @@ Exemple UNIX : `fork()` crée le processus ; dans le fils (`pid == 0`), `exec()`
 
 Un fils qui n'est pas attendu devient un [[Processus zombie et orphelin]].
 
+Après `fork`, le père et le fils ont chacun leur copie de la mémoire : une variable globale modifiée dans l'un ne change pas dans l'autre (tâche 5 du TP6).
+
 Liens : [[Processus]], [[Appel système]], [[Processus zombie et orphelin]]
 
-Résumé : [[OS - chp7 (résumé)]]
+Résumés : [[OS - chp7 (résumé)]], [[TP6-Assignment (résumé)]]

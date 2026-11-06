@@ -12,6 +12,8 @@ Une relation binaire $\mathcal{R}$ sur $E$ est une propriété reliant deux él�
 
 Le cours ne le dit pas, mais les classes forment une partition de $E$ (complément ; voir [[Opérations sur les ensembles]]).
 
+Deux classes sont égales ou disjointes : $[x] = [y] \iff [x] \cap [y] \neq \emptyset$. Exemple du TD : la congruence modulo $n$, dont l'ensemble quotient est $\mathbb{Z}/n\mathbb{Z}$.
+
 Liens : [[Relation d'ordre]]
 
-Résumé : [[Chapitre 3 - Relation binaire (résumé)]]
+Résumés : [[Chapitre 3 - Relation binaire (résumé)]], [[TDRelations (résumé)]]

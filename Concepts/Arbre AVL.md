@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [AVL, arbres AVL, arbre binaire de recherche équilibré, rotation droite, rotation gauche, double rotation, facteur d'équilibrage]
+aliases: [AVL, arbres AVL, arbre binaire de recherche équilibré, rotation droite, rotation gauche, double rotation, facteur d'équilibrage, Adelson-Velsky et Landis]
 matieres: [Algo]
 sources: ["[[AVL momo]]", "[[qui dit quoi AVL]]"]
 maj: 2026-11-05
@@ -21,6 +21,8 @@ Un arbre AVL est un arbre binaire de recherche équilibré : AVL = arbre binaire
 > [!warning] Écart dans le cours
 > Le coût de `equilibrer` est donné en $O(1)$ dans [[qui dit quoi AVL]] et en $O(\log n)$ dans [[AVL momo]]. Avec le code du cours, qui recalcule la hauteur à chaque appel, il est en $O(n)$ (complément). Voir [[Calcul de complexité et théorème de résolution]].
 
-Liens : [[Calcul de complexité et théorème de résolution]], [[Récursivité]]
+Attention aux conventions : la fiche AVL pose la hauteur d'un arbre vide à 0, alors que le chapitre 3 la pose à $-1$.
 
-Résumés : [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]]
+Liens : [[Calcul de complexité et théorème de résolution]], [[Récursivité]], [[Arbre binaire de recherche]]
+
+Résumés : [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]], [[ARBRE AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]

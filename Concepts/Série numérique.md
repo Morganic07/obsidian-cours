@@ -20,6 +20,6 @@ Une **série** $\sum a_n$ est la suite de ses sommes partielles $S_n = \sum_{k=0
 
 **Séries de signe quelconque** : alternée $\sum (-1)^n b_n$ convergente si $(b_n)$ décroît vers 0, avec $|R_n| \le b_{n+1}$. Absolument convergente si $\sum |a_n|$ converge, ce qui implique la convergence ; conditionnellement convergente sinon. Les équivalents sont réservés aux termes positifs.
 
-Liens : [[Critère de d'Alembert et de Cauchy]], [[Série entière]], [[Convergence uniforme]]
+Liens : [[Critère de d'Alembert et de Cauchy]], [[Série entière]], [[Convergence uniforme]], [[Suite numérique]], [[Intégrale]]
 
 Résumés : [[Chp1 - Convergent, divergent and positive terms SERIES (résumé)]], [[Chp2 - Alternating and absolutly convergent series (résumé)]]

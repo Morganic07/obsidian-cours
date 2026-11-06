@@ -14,6 +14,6 @@ Tout $\mathbf{y}$ de $\mathbb{R}^n$ s'écrit de façon unique $\mathbf{y} = \hat
 - **Si $\mathbf{y}$ est déjà dans $W$** : $\text{proj}_W\,\mathbf{y} = \mathbf{y}$.
 - **Matrice de projection** : pour un $\mathbf{u}_j$ d'une décomposition spectrale, $(\mathbf{u}_j\mathbf{u}_j^T)\mathbf{x}$ est la projection de $\mathbf{x}$ sur la droite engendrée par $\mathbf{u}_j$.
 
-Liens : [[Orthogonalité]], [[Complément orthogonal]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Moindres carrés]], [[Matrice symétrique]]
+Liens : [[Orthogonalité]], [[Complément orthogonal]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Moindres carrés]], [[Matrice symétrique]], [[Analyse en composantes principales]] (projection des données sur les composantes)
 
 Résumés : [[chp 1 - Orthogonality (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]

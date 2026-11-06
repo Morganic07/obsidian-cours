@@ -12,6 +12,8 @@ Dans $(E, \preceq)$, pour $A \subseteq E$ : élément maximal, majorant, plus gr
 
 Attention : le tableau du cours écrit l'antisymétrie « $(xRy$ et $yRz) \Rightarrow x = y$ », il faut $yRx$ à la place de $yRz$.
 
-Liens : [[Relation d'équivalence]]
+Le cours en PDF ajoute minimum, maximum, borne inférieure et borne supérieure, ainsi que les fonctions croissantes entre ensembles ordonnés. La propriété de la [[Borne supérieure]] distingue $\mathbb{R}$ de $\mathbb{Q}$.
 
-Résumé : [[Chapitre 3 - Relation binaire (résumé)]]
+Liens : [[Relation d'équivalence]], [[Borne supérieure]]
+
+Résumés : [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]]

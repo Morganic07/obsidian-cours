@@ -23,6 +23,8 @@ maj: 2026-11-05
 
 Le calcul exact passe par une [[Primitive]].
 
-Liens : [[Primitive]], [[Limite et continuité]], [[Application lipschitzienne]]
+En plusieurs variables : [[Intégrale multiple]]. Une série à termes positifs se compare à une intégrale : voir [[Série numérique]].
 
-Résumés : [[Chap7-Integration (résumé)]], [[démonstrations - integration (résumé)]], [[Intégration UTILITAIRE (résumé)]]
+Liens : [[Primitive]], [[Limite et continuité]], [[Application lipschitzienne]], [[Intégrale multiple]]
+
+Résumés : [[TD7-integration (1) (résumé)]] (exercices, dont Wallis et sommes de Riemann), [[Chap7-Integration (résumé)]], [[démonstrations - integration (résumé)]], [[Intégration UTILITAIRE (résumé)]]

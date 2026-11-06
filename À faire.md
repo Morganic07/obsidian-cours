@@ -2,6 +2,14 @@
 
 Liste de suivi du coffre. Se coche directement dans Obsidian.
 
+## Prochaines étapes, dans l'ordre
+
+1. [x] Compléter les concepts avec les ajouts proposés par les lots
+2. [ ] Créer la commande `/maj-cours`
+3. [ ] Contrôler le wiki (lint)
+4. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
+5. [ ] Envoyer sur GitHub
+
 ## Terminé
 
 - [x] Installer Obsidian, rclone et pandoc
@@ -73,7 +81,7 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 
 - [x] Résumer les 53 PDF et les 6 PPTX (lus directement, sans convertisseur)
 - [ ] Finir la lecture des gros documents résumés par sections : AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites, et text2 et text3 de SHS
-- [ ] Reporter dans les concepts existants les ajouts proposés par les lots PDF (Limite et continuité, Injectivité et surjectivité, Arbre de décision, Limites planétaires, etc.)
+- [x] Reporter dans les concepts existants les ajouts proposés par les lots PDF (Limite et continuité, Injectivité et surjectivité, Arbre de décision, Limites planétaires, etc.)
 - [ ] Rendre le texte des PDF cherchable, si le besoin se confirme (convertisseur à choisir)
 - [ ] Expliquer l'écart entre les PDF repérés au départ et ceux téléchargés (3 de moins)
 

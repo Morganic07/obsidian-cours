@@ -14,6 +14,6 @@ Toute matrice $A$ de taille $m \times n$ et de rang $r$ s'écrit $A = U\Sigma V^
 - **Unicité** : $U$ et $V$ ne sont pas uniques, mais les valeurs singulières le sont.
 - **Application** : pour $A$ inversible, $\sigma_1/\sigma_n$ est le conditionnement. Les instabilités numériques se repèrent dans $\Sigma$, car $U$ et $V$ ne changent ni les longueurs ni les angles.
 
-Liens : [[Valeur propre]], [[Matrice orthogonale]], [[Rang d'une matrice]], [[Sous-espaces fondamentaux]], [[Matrice symétrique]]
+Liens : [[Valeur propre]], [[Matrice orthogonale]], [[Rang d'une matrice]], [[Sous-espaces fondamentaux]], [[Matrice symétrique]], [[Analyse en composantes principales]] (application en statistique)
 
 Résumé : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]

@@ -19,6 +19,8 @@ Le MCD (modèle conceptuel de données, ou schéma E/A) est la deuxième étape 
 - **Association réflexive** : une entité liée à elle-même (un étudiant tuteur d'un autre : 0,1 d'un côté, 0,N de l'autre).
 - **Entité faible** : identifiée seulement avec l'identifiant d'une entité forte (enfants mineurs du personnel, 1,1 côté enfant).
 
-Liens : [[Schéma relationnel]], [[Clé primaire et clé étrangère]]
+Le projet de la ligue de football applique l'[[Héritage en base de données]] et une association ternaire ([[Rapport du projet Ligue Football (résumé)]]).
+
+Liens : [[Schéma relationnel]], [[Clé primaire et clé étrangère]], [[Héritage en base de données]]
 
 Résumé : [[Cours 1 et 2 - Database (résumé)]]

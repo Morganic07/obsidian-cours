@@ -10,6 +10,8 @@ Pour $f : U \subset \mathbb{R}^p \to \mathbb{R}^n$ différentiable en $a$, $J_f(
 
 Si $n = p$, son [[Déterminant]] est le **jacobien**. Un jacobien non nul en $a$ rend $D_a\phi$ bijective.
 
-Liens : [[Différentielle]], [[Dérivée partielle]], [[Gradient]], [[Difféomorphisme]], [[Transformation linéaire]], [[Déterminant]]
+Le jacobien intervient aussi dans le changement de variable des intégrales doubles, comme $\rho$ en polaires : voir [[Intégrale multiple]].
+
+Liens : [[Différentielle]], [[Dérivée partielle]], [[Gradient]], [[Difféomorphisme]], [[Transformation linéaire]], [[Déterminant]], [[Intégrale multiple]]
 
 Résumé : [[Chp 4 - Calcul différentiel du premier ordre (résumé)]]

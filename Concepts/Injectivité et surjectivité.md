@@ -1,7 +1,7 @@
 ---
 type: concept
 aliases: [one-to-one, injective, injectives, injectivité, surjective, surjectives, surjectivité]
-matieres: [Bilinear Algebra, Algèbre Linéaire]
+matieres: [Bilinear Algebra, Algèbre Linéaire, Outil Maths]
 sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0b - Matrix algebra]]", "[[Chp 0d - Vector Space]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]"]
 maj: 2026-11-05
 ---
@@ -18,6 +18,8 @@ Pour $f$ linéaire : $f$ est injective si et seulement si Ker $f = \{0\}$, et su
 > [!warning] Écart dans le cours
 > [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2]] écrit « dim E = dim F ⇒ f bijective ». C'est faux tel quel, car l'application nulle est un contre-exemple. Si $\dim E = \dim F$, injective, surjective et bijective sont en fait équivalentes (complément).
 
-Liens : [[Transformation linéaire]], [[Espace nul]], [[Espace des colonnes]], [[Morphisme]]
+**Pour une application quelconque** (Outil Maths, chapitre 4) : $f$ est injective si $f(x) = f(x') \Rightarrow x = x'$, surjective si $f(E) = F$, et bijective si elle est les deux, avec alors une bijection réciproque. Avec les images, $f$ est injective si et seulement si $A = f^{-1}(f(A))$ pour toute partie $A$, et surjective si et seulement si $f(f^{-1}(C)) = C$ pour toute partie $C$. Pour une composée, $g \circ f$ injective implique $f$ injective, et $g \circ f$ surjective implique $g$ surjective.
 
-Résumés : [[Chp 0a - Linear combination (résumé)]], [[Chp 0d - Vector Space (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2 (résumé)]]
+Liens : [[Transformation linéaire]], [[Espace nul]], [[Espace des colonnes]], [[Morphisme]], [[Image et image réciproque]]
+
+Résumés : [[Chp 0a - Linear combination (résumé)]], [[Chp 0d - Vector Space (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2 (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]]

@@ -32,4 +32,6 @@ Liens : [[Comparaison asymptotique]], [[Dérivabilité]], [[Fonction de classe C
 > [!warning] Écart dans le cours
 > [[Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
 
-Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]]
+**Piège** : un DL d'ordre $n$ n'implique pas $n$ dérivées. $x^3\sin(1/x)$ a un DL d'ordre 2 en 0 sans être deux fois dérivable en 0 (corrigé du TD5).
+
+Résumés : [[Sources/Year 1/Analyse Maths/chp5 (résumé)|chp5 (résumé)]], [[Chp0 - Revision chapter (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]

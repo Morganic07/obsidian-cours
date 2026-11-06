@@ -12,4 +12,6 @@ Il s'oppose à la thèse d'Aristote, pour qui l'état est naturel (voir [[Animal
 
 Le cours juge notre monde « hobbesien » : l'état y a pour but le travail, la sécurité et la consommation, ce qui conduit à se demander quelle place y ont la culture et l'art.
 
+Le cours de Culture du vivant cite Rousseau comme un lanceur d'alerte écologique, et invite à repenser le contrat social face aux risques climatiques ([[VIVANT1 DBrowaeys (résumé)]]).
+
 Résumé : [[Sources/Year 1/Philosophie/L'état (résumé)|L'état (résumé)]]

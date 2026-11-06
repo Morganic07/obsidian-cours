@@ -14,6 +14,8 @@ Exemples du cours : $1 + 2 + \ldots + n = \frac{n(n+1)}{2}$ (chapitre de logique
 
 Une suite définie par récurrence sert aussi à compter la complexité d'un algorithme récursif : voir [[Complexité algorithmique]].
 
-Liens : [[Logique propositionnelle]]
+Exemples dans les documents PDF : $\binom{n}{p}$ est entier, et la formule du binôme ([[Chap0-Rappels-etc (résumé)]]) ; $2^n > n^2$ pour $n \ge 5$ ([[Contrôles (résumé)]]). Une fonction récursive se prouve souvent par récurrence : voir [[Récursivité]].
+
+Liens : [[Logique propositionnelle]], [[Récursivité]]
 
 Résumés : [[Chapitre 1 logique (résumé)]], [[Sources/Year 1/Algo Maths/Cours 1 (résumé)|Cours 1 (résumé, Algo Maths)]]

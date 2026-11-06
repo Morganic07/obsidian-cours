@@ -16,6 +16,8 @@ Vocabulaire du chapitre sur les ensembles : appartenance ($\in$, pour un éléme
 
 Correspondance avec la logique : implication et inclusion, conjonction et intersection, disjonction et union, négation et complémentaire.
 
-Liens : [[Logique propositionnelle]], [[Relation d'équivalence]] (les classes forment une partition)
+Le TD ajoute la différence symétrique $A \Delta B = (A \cup B) \setminus (A \cap B)$, commutative et associative, ainsi que $\mathcal{P}(E \cap F) = \mathcal{P}(E) \cap \mathcal{P}(F)$ et $|\mathcal{P}(E)| = 2^n$ si $E$ a $n$ éléments.
 
-Résumé : [[Chapitre 2 ensembles (résumé)]]
+Liens : [[Logique propositionnelle]], [[Relation d'équivalence]] (les classes forment une partition), [[Image et image réciproque]]
+
+Résumés : [[Chapitre 2 ensembles (résumé)]], [[Chapitre2-Ensemble (4) (résumé)]], [[TDEnsembles (1) (résumé)]]

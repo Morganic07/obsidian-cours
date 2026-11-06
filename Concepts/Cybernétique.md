@@ -14,6 +14,6 @@ Simondon, dans le même cours, défend que les machines élaborées ont une tech
 
 Le cours ajoute la sentience (conscience animale, notion d'éthologie), qui dépasse le simple schéma stimulus-réaction.
 
-Voir aussi : [[Animal-machine]]
+Voir aussi : [[Animal-machine]], la frise de l'IA de [[Sources/Year 3/IA/Cours 1 (résumé)|Cours 1 (IA)]], et [[text1 (résumé)]] en SHS (cyborg, voiture prolongement du corps).
 
 Résumé : [[Sources/Year 2/Philosophie/philo 5 (résumé)|philo 5 (résumé)]]
