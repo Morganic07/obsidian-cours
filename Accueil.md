@@ -4,7 +4,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 État au 2026-11-06 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Toutes les notes de `Cours/` et tous les PDF et PPTX de `.raw/` sont intégrés. Le texte des PDF n'est pas cherchable : seuls leurs résumés le sont.
 
-## Concepts (1265)
+## Concepts (1266)
 
 ### Systèmes et vecteurs
 
@@ -1365,6 +1365,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 - [[Copyleft]] : nommé dans le cours, sans définition
 - [[Creative Commons]] : nommé dans le cours, sans définition
+- [[Demande de fusion]] : pull request, façon de proposer une modification au dépôt d'un autre sur GitHub
 - [[Design contributif]] : design où une communauté façonne collectivement la forme finale de l'objet
 - [[Design des règles]] : dans OpenFisca, design de l'information dicté par la loi, en stricte conformité au droit
 - [[Dictature bienveillante]] : direction artistique verticale acceptée par la communauté pour qu'un objet soit utilisable

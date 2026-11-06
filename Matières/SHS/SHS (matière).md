@@ -107,7 +107,7 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 - **Méthode d'enquête** : [[Entretien semi-directif]], [[Analyse thématique d'entretien]]
 - **Communs et design libre** : [[Communs numériques]], [[Open design]], [[Design contributif]], [[Design system]], [[Intérêt général]], [[Produit d'appel]], [[Écosystème fermé]]
-- **Licences et outils** : [[Licences libres]], [[Creative Commons]], [[Copyleft]], [[Git]], [[Fichier README]]
+- **Licences et outils** : [[Licences libres]], [[Creative Commons]], [[Copyleft]], [[Git]], [[Demande de fusion]], [[Fichier README]]
 - **Gouvernance des communs** : [[Gouvernance par l'expertise]], [[Dictature bienveillante]], [[Design des règles]]
 - **Financement** : [[Financement participatif]], [[Freemium]]
 - **IA et communs** : [[IA générative]], [[IA sémantique]], [[Système expert]], [[Hallucination (IA)]], [[IA slop]], [[Licence anti-IA]]

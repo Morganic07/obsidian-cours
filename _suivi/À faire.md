@@ -56,7 +56,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Intégrer les notes des sept lots
 - [x] Fusionner : `index.md`, `log.md`, doublons de concepts
 - [x] Reconvertir et relire les nouveaux liens
-- [ ] Finir la lecture de `Entretien sur l'open source` (40 % lus) et `Global Exam Vocab` (échantillon)
+- [x] Finir la lecture de `Entretien sur l'open source` (40 % lus) et `Global Exam Vocab` (échantillon)
 - [x] Retirer de Drive le mot de passe et l'identifiant écrits en clair dans une note de la ligue de football, et changer le mot de passe s'il sert encore
 - [x] Renommer les résumés qui portaient un nom de personne
 - [x] Retirer les notes personnelles du coffre

@@ -17,6 +17,10 @@ Voir aussi : [[Rendu (vidéo)]].
 
 ## À vérifier
 
+- **Aspect ratio** : la définition du glossaire (« résolution et taille ») paraît fausse ; l'aspect ratio est le rapport entre la largeur et la hauteur de l'image (complément, hors du cours). Relevé dans [[Global Exam Vocab (résumé)]].
+
+## À vérifier
+
 - (complément) L'aspect ratio est le rapport largeur/hauteur, pas la résolution ; la résolution d'écran en pixels par taille physique correspond plutôt à la densité de pixels.
 
 Résumés : [[Global Exam Vocab (résumé)]]
