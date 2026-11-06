@@ -56,7 +56,7 @@ Le « parler bébé » (*elderly talk*) est nocif et infantilisant pour les pers
 
 ## Ateliers préférés des animateurs
 
-![[Cours/Year 2/Projet Design/Hello Art Up/medias/Helloartup/image2.png]]
+![[Helloartup - image2.png]]
 
 *Figure : diagramme en barres des ateliers préférés, d'après un sondage Dynseo auprès d'animateurs (jusqu'à trois choix chacun).*
 
@@ -91,7 +91,7 @@ Le « parler bébé » (*elderly talk*) est nocif et infantilisant pour les pers
 
 ## Frise du projet
 
-![[Cours/Year 2/Projet Design/Hello Art Up/medias/Helloartup/image1.png]]
+![[Helloartup - image1.png]]
 
 *Figure : frise de Hello Art Up en quatre étapes, sur la photo d'une animatrice tendant un micro à une résidente.*
 
@@ -120,6 +120,6 @@ Voir [[Atelier de co-conception]], [[Persona]].
 ## Points à vérifier
 
 1. **Valeurs du graphique** : lues approximativement sur les graduations ; la barre « Atelier chant » est en partie masquée par une pastille, sa valeur exacte n'est pas lisible (alerte de la transcription).
-2. **Phrase du guide de soins** : « Efficacité et tolérance sont à contrôler chez les effets sont variables… » semble fautive ou mal lue (probablement « car les effets… ») (alerte de la transcription).
+2. **Phrase du guide de soins** : image vérifiée, le guide écrit « Efficacité et tolérance sont à contrôler car les effets sont variables selon les individus et les molécules ». L'ancienne lecture « chez les effets » était une erreur de transcription.
 3. **Phrase inachevée** : « en mettant à disposition des activités et en utilisant le levier de la famille, on peut » s'arrête là dans la note.
 4. **Ordre des jalons** : la note écrit « entre le jour 60 et 45 » puis « activités entre J45 et J60 » ; la frise place J-60 (préparation) avant J-45 (co-construction).

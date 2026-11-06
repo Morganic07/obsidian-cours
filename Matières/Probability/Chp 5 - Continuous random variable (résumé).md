@@ -41,7 +41,7 @@ $$P(a \le X \le b) = P(a < X < b) = P(a < X \le b) = P(a \le X < b)$$
 **Définition.** La **[[Fonction de répartition|fonction de répartition]]** (*cumulative distribution function*) d'une variable continue $X$ est définie pour tout $x$ par :
 $$F(x) = P(X \le x) = \int_{-\infty}^{x} f(y)\,dy$$
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image14.png]]
+![[Chp 5 - Continuous random variable - image14.png]]
 *Figure : exemple — une densité nulle hors de $[6, 10]$ (maximum ≈ 0,5 vers 8,6), l'aire grisée de 6 à 8 vaut $F(8)$ ; à droite, la cdf associée croît de 0 à 1, avec $F(8) \approx 0{,}3$.*
 
 ## De la PDF à la CDF
@@ -103,7 +103,7 @@ $$M_X(0) = E(e^{0X}) = \int_{-\infty}^{\infty} e^{0x} f(x)\,dx = \int_{-\infty}^
 $$f(x; \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}}\, e^{-(x - \mu)^2/(2\sigma^2)}, \qquad -\infty < x < \infty \quad (3.3)$$
 On abrège : $X \sim N(\mu, \sigma)$.
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image1.png]]
+![[Chp 5 - Continuous random variable - image1.png]]
 *Figure : définition et trois courbes de densité normale (*normal density curves*), graduées en $\mu$ et $\mu + \sigma$ — plus $\sigma$ est grand, plus la cloche est large et basse.*
 
 **Règle 9.8 (règle 68-95-99,7 ou des trois sigmas).** Si $X \sim \mathcal{N}(\mu, \sigma^2)$ :
@@ -116,7 +116,7 @@ $$f(z; 0, 1) = \frac{1}{\sqrt{2\pi}}\, e^{-z^2/2}, \qquad -\infty < z < \infty$$
 Sa cdf est notée $\Phi$ :
 $$\Phi(z) = P(Z \le z) = \int_{-\infty}^{z} \frac{1}{\sqrt{2\pi}}\, e^{-y^2/2}\,dy$$
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image6.png]]
+![[Chp 5 - Continuous random variable - image6.png]]
 *Figure : courbe normale centrée réduite (*standard normal (z) curve*) ; l'aire grisée à gauche de $z$ vaut $\Phi(z)$.*
 
 ## Passer d'une loi normale quelconque à la loi centrée réduite
@@ -128,7 +128,7 @@ $$P(a \le X \le b) = P\left(\frac{a - \mu}{\sigma} \le Z \le \frac{b - \mu}{\sig
 $$P(X \le a) = \Phi\left(\frac{a - \mu}{\sigma}\right), \qquad P(X \ge b) = 1 - \Phi\left(\frac{b - \mu}{\sigma}\right)$$
 Réciproquement, si $Z \sim N(0, 1)$ et $\sigma > 0$, la variable « dé-réduite » $X = \mu + \sigma Z$ suit une loi normale de moyenne $\mu$ et d'écart-type $\sigma$.
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image24.png]]
+![[Chp 5 - Continuous random variable - image24.png]]
 *Figure : l'aire sous $N(\mu, \sigma)$ jusqu'à $x$ est égale à l'aire sous $N(0, 1)$ jusqu'à $(x - \mu)/\sigma$.*
 
 Méthode : en centrant-réduisant, toute probabilité sur $X$ s'exprime avec $Z$, et on lit $\Phi$ dans la **table de $z$** (*z-table*).
@@ -138,7 +138,7 @@ Méthode : en centrant-réduisant, toute probabilité sur $X$ s'exprime avec $Z$
 **Définition.** $X$ suit une **[[Loi exponentielle|loi exponentielle]]** de paramètre $\lambda > 0$ si sa densité est
 $$f(x; \lambda) = \begin{cases} \lambda e^{-\lambda x} & x > 0 \\ 0 & \text{sinon} \end{cases}$$
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image15.png]]
+![[Chp 5 - Continuous random variable - image15.png]]
 *Figure : densités exponentielles pour $\lambda = 2$, $1$ et $0{,}5$ ; chaque courbe part de $\lambda$ en $x = 0$ et décroît d'autant plus vite que $\lambda$ est grand.*
 
 **Proposition.** Si $X$ suit une loi exponentielle de paramètre $\lambda$, sa cdf est
@@ -155,14 +155,14 @@ En particulier, la **médiane** est le 50ᵉ percentile, $\eta_{0{,}5} = F^{-1}(
 
 **Interprétation.** Dire qu'un score est au 85ᵉ percentile de la population, c'est dire que 85 % des scores sont en dessous et 15 % au-dessus. De même, le 40ᵉ percentile dépasse 40 % des scores et est dépassé par 60 %. $\eta_p$ est la valeur de l'axe des $x$ telle que $100p\,\%$ de l'aire sous $f$ soit à sa gauche et $100(1-p)\,\%$ à sa droite. Exemple : $\eta_{0{,}75}$, le 75ᵉ percentile, laisse une aire 0,75 à sa gauche.
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image23.png]]
+![[Chp 5 - Continuous random variable - image23.png]]
 *Figure : le $(100p)$-ième percentile — aire grisée $p$ sous la densité à gauche de $\eta_p$ ; sur la cdf, les pointillés relient $\eta_p$ à $p = F(\eta_p)$.*
 
 ## Médiane d'une loi symétrique
 
 Une loi continue dont la densité est symétrique a pour médiane $\eta$ le centre de symétrie, puisque la moitié de l'aire est de chaque côté de ce point.
 
-![[Cours/Year 2/Probability/medias/Chp 5 - Continuous random variable/image12.png]]
+![[Chp 5 - Continuous random variable - image12.png]]
 *Figure : médianes de lois symétriques (uniforme sur $[A, B]$, triangulaire, en cloche) — $\eta$ est au centre de symétrie.*
 
 ## Loi d'une **fonction** d'une variable continue

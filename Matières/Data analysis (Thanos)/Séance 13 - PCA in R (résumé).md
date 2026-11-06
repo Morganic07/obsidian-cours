@@ -109,7 +109,7 @@ Sur un [[Cercle des corrélations]], entre deux flèches de variables :
 
 ### Exemple : le décathlon
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - PCA in R/image1.png]]
+![[Séance 13 - PCA in R - image1.png]]
 
 *Figure : cercle des corrélations (« PCA graph of variables ») du décathlon, Dim 1 (32,72 %) et Dim 2 (17,37 %) ; Rank et Points sont des variables supplémentaires en pointillés bleus.*
 

@@ -20,7 +20,7 @@ Voir [[Mesures de tendance centrale]].
 - **Médiane** : la valeur du milieu (50 % de l'aire de chaque côté).
 - **Moyenne** : la valeur moyenne (« *average or norm* »).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 4 - Estimation/image1.png]]
+![[Séance 4 - Estimation - image1.png]]
 
 *Figure : sur une distribution asymétrique à droite, le mode est au sommet, la médiane partage l'aire en deux moitiés, la moyenne est plus à droite.*
 

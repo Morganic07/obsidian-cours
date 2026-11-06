@@ -27,7 +27,7 @@ Exemple :
 Router(config)# ip route 0.0.0.0 0.0.0.0 203.0.113.2
 ```
 
-![[Cours/Year 3/Computer Network/medias/Chp3 - Dynamic Routing/image5.png]]
+![[Chp3 - Dynamic Routing - image5.png]]
 *Figure : trois routeurs 2911. ENTERPRISE R2 dessert 10.0.3.0/24 (Switch1) et 10.0.4.0/24 (Switch2) et est relié à ENTERPRISE R1 par 10.0.1.0/30 ; R1 dessert 10.0.2.0/24 (Switch0). R1, « Enterprise Edge Router », est relié à Cloud R1 par 203.0.113.0/30 (R1 en .1, Cloud R1 en .2) : c'est la route par défaut.*
 
 ## Routage dynamique

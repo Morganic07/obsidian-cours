@@ -39,13 +39,13 @@ Les tests statistiques permettent de **généraliser** à la population à parti
 - **Test paramétrique** : il **dispose d'information sur le [[Paramètre et statistique|paramètre de la population]]** ; on utilise souvent un test $t$ fondé sur la statistique de Student. Exemple : l'hypothèse « la **moyenne** de la population vaut 15 » est paramétrique.
 - **Test non paramétrique** : le chercheur **n'a aucune idée du paramètre de la population** et ne veut pas supposer que les données viennent d'une [[Loi normale|loi gaussienne]].
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 7 - Z-Test/image4.png]]
+![[Séance 7 - Z-Test - image4.png]]
 
 *Figure : la [[Statistique inférentielle|statistique inférentielle]] — un échantillon représentatif est tiré de la population, puis on en tire des conclusions sur la population.*
 
 ## Hiérarchie des tests d'hypothèse
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 7 - Z-Test/image11.png]]
+![[Séance 7 - Z-Test - image11.png]]
 
 *Figure : organigramme des tests d'hypothèse, paramétriques et non paramétriques, à un ou deux échantillons, indépendants ou appariés.*
 
@@ -69,7 +69,7 @@ Exemple : effet d'un traitement médical sur le taux d'insuline. Deux plans d'ex
 
 ## Procédure du test d'hypothèse
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 7 - Z-Test/image5.png]]
+![[Séance 7 - Z-Test - image5.png]]
 
 *Figure : organigramme des cinq étapes, la dernière débouchant sur « ne pas rejeter $H_0$ » ou « rejeter $H_0$ et accepter $H_1$ ».*
 
@@ -85,7 +85,7 @@ Quand $nP$ et $n(1-P)$ valent tous deux au moins 5, on peut utiliser la loi $Z$ 
 
 La formule vient de l'approximation de la [[Loi binomiale|loi binomiale]] par la loi normale quand $np$ et $n(1-p) \geq 5$. Pour une binomiale, $\mu = np$ et $\sigma = \sqrt{np(1-p)}$, donc :
 
-$$Z = \frac{x-\mu}{\sigma} = \frac{x-np}{\sqrt{np(1-p)}} = \frac{\frac{x}{n} - p}{\frac{\sqrt{np(1-p)}}{n}} = \frac{P_s - p}{\sqrt{\dfrac{p(1-p)}{n}}}$$
+$$Z = \frac{x-\mu}{\sigma} = \frac{x-np}{\sqrt{np(1-p)}} = \frac{\frac{x}{n} - p}{\frac{\sqrt{np(1-p)}}{n}} = \frac{P_s - P}{\sqrt{\dfrac{p(1-p)}{n}}}$$
 
 avec $P_s$ la proportion d'échantillon et $P$ la proportion de l'hypothèse (annotation de l'étudiant). Quand $n$ grandit et que $p \to 0{,}5$, la binomiale tend vers la normale ; à utiliser quand $np$ et $n(1-p) > 5$.
 
@@ -103,7 +103,7 @@ $$H_0 : P = 0{,}70 \qquad H_1 : P \neq 0{,}70$$
 
 Valeurs critiques : $-1{,}96$ et $1{,}96$ (2,5 % dans chaque queue).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 7 - Z-Test/image7.png]]
+![[Séance 7 - Z-Test - image7.png]]
 
 *Figure : loi normale avec deux zones de rejet de 2,5 % au-delà de ±1,96.*
 
@@ -139,3 +139,4 @@ Rien n'a été corrigé dans le cours.
 3. **« CIE »** : l'alerte de la transcription soupçonne une faute pour « CI ». C'est l'abréviation de *confidence interval estimator* dans les diapositives de ce cours, pas une faute (fausse alerte probable).
 4. **Formule de l'intervalle coupée** : l'image de l'approximation normale se termine sur « Confidence Interval Estimator of P: ». La formule se trouve sur l'image suivante (dessin de l'étudiant), la phrase ne s'arrête donc pas en perdant du contenu.
 5. **Condition d'approximation** : « $\ge 5$ » dans un cas, « $> 5$ » dans la dernière phrase de la diapositive.
+6. **Majuscule dans la formule du test sur une proportion** : le cours écrit le dernier numérateur $P_s - P$, avec un $P$ majuscule, alors que le reste de la chaîne d'égalités emploie $p$ (vérifié sur l'image ; mention « À vérifier » de la transcription). Les deux désignent la proportion de l'hypothèse : $P$ est la notation du texte de la diapositive ($nP$, $n(1-P)$), $p$ celle de la binomiale.

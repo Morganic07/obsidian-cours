@@ -37,7 +37,7 @@ où $|A|$ est le nombre total d'arcs. *Interprétation* : chaque arc compte une 
 
 ### Exemple
 
-![[Cours/Year 4/graph theory/medias/chp4 - oriented graphs/image2.png]]
+![[chp4 - oriented graphs - image2.png]]
 *Figure : graphe orienté à 4 nœuds, arcs A→B, A→C, B→D, B→C (arc courbe) et C→D, avec son tableau de degrés.*
 
 | Nœud | $d^-$ | $d^+$ |
@@ -58,7 +58,7 @@ Voir [[Parcours en profondeur]].
 2. `print(v)` ;
 3. pour chaque fils (*child*) de $v$ : s'il n'a pas été visité, appeler `DFS(graph, child)`.
 
-![[Cours/Year 4/graph theory/medias/chp4 - oriented graphs/image9.png]]
+![[chp4 - oriented graphs - image9.png]]
 *Figure : graphe orienté à 7 sommets (0 à 6), arcs 1→0, 0→2, 0→5, 0→4, 4→0, 2→1, 2→5, 3→1, 3→6, 6→3, 4→5 et 6→5.*
 
 Sur ce graphe, un DFS partant de 0 **peut** visiter les sommets dans l'ordre **0, 2, 1, 5, 4** (3 et 6 ne sont pas atteignables depuis 0).
@@ -89,7 +89,7 @@ Le sommet est **marqué à l'entrée dans la file** et **affiché à la sortie**
 - pour toute paire de sommets $u, v \in V'$, il existe un chemin orienté de $u$ vers $v$ **et** un de $v$ vers $u$ ;
 - $G'$ est maximal : on ne peut ajouter aucun sommet à $V'$ sans perdre la forte connexité.
 
-![[Cours/Year 4/graph theory/medias/chp4 - oriented graphs/image7.png]]
+![[chp4 - oriented graphs - image7.png]]
 *Figure : graphe orienté à 8 sommets (A à H), arcs A→B, A→E, B→C, B→E, C→F, C→G, D→G, D→H, E→F, F→B, G→F et H→G ; zones violettes pour les SCC : $\{B, C, E, F, G\}$, et trois composantes à un sommet $\{A\}$, $\{D\}$, $\{H\}$.*
 
 ### Algorithme 1 : descendants et ancêtres
@@ -112,7 +112,7 @@ L'[[Algorithme de Tarjan|algorithme de Tarjan]] s'exécute en temps $O(V + E)$ (
 
 Rien n'a été corrigé dans le cours. Images non ouvertes.
 
-1. **« Oriented graph » défini par $A \subseteq V \times V$** : le texte dit qu'on oriente un graphe non orienté, mais le graphe de l'exemple DFS contient $0 \to 4$ et $4 \to 0$, ainsi que $3 \to 6$ et $6 \to 3$. C'est un graphe orienté au sens large, pas un graphe sans arcs opposés (complément). La transcription a aussi gardé un début de définition inachevé (« An oriented graph est… »).
+1. **« Oriented graph » défini par $A \subseteq V \times V$** : le texte dit qu'on oriente un graphe non orienté, mais le graphe de l'exemple DFS contient $0 \to 4$ et $4 \to 0$, ainsi que $3 \to 6$ et $6 \to 3$. C'est un graphe orienté au sens large, pas un graphe sans arcs opposés (complément).
 2. **Définition du chemin** : « un arc connecte $v_i$ et $v_{i+1}$ » ne précise pas le sens de l'arc ; il faut un arc de $v_i$ vers $v_{i+1}$ (complément).
 3. **Notations** : $G = (V, A)$ puis $G = (V, E)$ pour la SCC, avec $E$ ou $A$ pour les arcs.
 4. **Complexité des parcours** : $O(|V| + |E|)$ vaut avec des listes d'adjacence ; avec une matrice d'adjacence elle devient $O(|V|^2)$ (complément).

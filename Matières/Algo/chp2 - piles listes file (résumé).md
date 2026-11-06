@@ -31,7 +31,7 @@ Chapitre 2 de l'algorithmique de Year 2 : trois structures de données qui range
   - sa **tête**, le dernier élément ajouté à la liste ;
   - sa **queue**, le reste de la liste.
 
-![[Cours/Year 2/Algo/Cours/medias/chp2 - piles listes file/image4.png]]
+![[chp2 - piles listes file - image4.png]]
 *Figure : liste 1, 2, 3, 4, 5 ; les cases 1 à 4 forment la queue, la case 5, dernier élément ajouté, est la tête.*
 
 ### Liste chaînée
@@ -42,7 +42,7 @@ Chapitre 2 de l'algorithmique de Year 2 : trois structures de données qui range
   - l'élément à stocker (entier, flottant, tableau de caractères, etc.) ;
   - un pointeur vers l'occurrence suivante.
 
-![[Cours/Year 2/Algo/Cours/medias/chp2 - piles listes file/image6.png]]
+![[chp2 - piles listes file - image6.png]]
 *Figure : un chaînon, avec « elm » (élément stocké : entier, réel, structure…) et « \* » (pointeur sur l'élément suivant) ; l'image contient aussi le tableau des opérations ci-dessous.*
 
 ### Opérations sur une liste
@@ -60,7 +60,7 @@ Chapitre 2 de l'algorithmique de Year 2 : trois structures de données qui range
 
 Principe **LIFO** (*last in first out*) : le dernier élément empilé est le premier dépilé.
 
-![[Cours/Year 2/Algo/Cours/medias/chp2 - piles listes file/image1.png]]
+![[chp2 - piles listes file - image1.png]]
 *Figure : le long de l'axe du temps $t$, on empile (« Push ») 2, 3 puis 4 sur 1, puis on dépile (« Pop ») 4, 3 puis 2 ; il reste 1.*
 
 Dans la pile, on garde toujours trace du dernier élément présent avec un pointeur appelé **`top`**.
@@ -92,7 +92,7 @@ for k in range(4):
 
 Principe **FIFO** (*first in first out*) : le premier élément enfilé est le premier défilé.
 
-![[Cours/Year 2/Algo/Cours/medias/chp2 - piles listes file/image7.png]]
+![[chp2 - piles listes file - image7.png]]
 *Figure : au fil du temps $t$, on enfile (« Enqueue ») 2, 3 et 4 derrière 1, puis on défile (« Dequeue ») 1, 2 puis 3 ; il reste 4.*
 
 Dans la file, il y a deux pointeurs :

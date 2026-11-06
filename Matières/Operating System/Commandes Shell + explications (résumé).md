@@ -56,7 +56,7 @@ shuf -i 1-10 -n 10 -r > number.txt   # 10 nombres entre 1 et 10, répétitions p
 cat number.txt
 ```
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Commandes Shell + explications/image1.png]]
+![[Commandes Shell + explications - image1.png]]
 *Figure : `man shuf`, puis `shuf -i 1-10 -n 10 -r > number.txt` et `cat number.txt` qui affiche 3, 6, 5, 9, 10, 4, 4, 9, 3, 2.*
 
 ## Utilisation de `cat`

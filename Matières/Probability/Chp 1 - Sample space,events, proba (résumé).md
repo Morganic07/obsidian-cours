@@ -48,7 +48,7 @@ $$A^C = \{x \in S \mid x \notin A\} = S \setminus A$$
 
 ### Rappels de théorie des ensembles
 
-![[Cours/Year 2/Probability/medias/Chp 1 - Sample space,events, proba/image7.png]]
+![[Chp 1 - Sample space,events, proba - image7.png]]
 *Figure : diagrammes de Venn dans le rectangle $S$ — $A \cap B$ (intersection grisée), $A \cup B$ (deux cercles grisés), $A^c$ (tout sauf $A$), $A \cap B = \emptyset$ (cercles disjoints).*
 
 Voir [[Intersection et union d'ensembles]] et [[Ensembles disjoints]].
@@ -80,7 +80,7 @@ $$(1)\ \Big(\bigcup_{i=1} A_i\Big)^c = \bigcap_{i=1} A_i^c \qquad (2)\ \Big(\big
 - Autrement dit, $S$ est **dénombrable** (*countable*, voir [[Ensemble dénombrable]]).
 - Sinon, $S$ est un espace d'échantillonnage **continu** (*continuous sample space*).
 
-![[Cours/Year 2/Probability/medias/Chp 1 - Sample space,events, proba/image2.png]]
+![[Chp 1 - Sample space,events, proba - image2.png]]
 *Figure : trois types d'ensembles — fini (pommes en pyramide), infini dénombrable (les entiers $1, 2, 3, \dots, n, \dots$ et le tableau des fractions $p/q$ qu'on peut parcourir), indénombrable (segment $[0,1]$, demi-droite $[0,\infty[$, carré unité rempli de points).*
 
 ## 4) Probabilité d'un événement

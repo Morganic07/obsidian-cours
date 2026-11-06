@@ -3,6 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
+import chemins
 import transcrire
 
 
@@ -51,18 +52,18 @@ class TestTranscrire(unittest.TestCase):
         dossier = tempfile.TemporaryDirectory()
         self.addCleanup(dossier.cleanup)
         self.coffre = Path(dossier.name)
-        self.dossier = self.coffre / ".transcriptions"
+        self.dossier = self.coffre / chemins.TRANSCRIPTIONS
         self.dossier.mkdir()
         lignes = []
         self.empreintes = {}
         for matiere, nom in (("Year 1/Maths", "a.png"), ("Year 1/Maths", "b.png"), ("Year 2/OS", "c.png")):
-            image = self.coffre / "Cours" / matiere / "medias" / nom
+            image = self.coffre / chemins.NOTES / matiere / "medias" / nom
             image.parent.mkdir(parents=True, exist_ok=True)
             image.write_bytes(nom.encode())
             empreinte = hashlib.sha256(nom.encode()).hexdigest()
             self.empreintes[nom] = empreinte
             lignes.append(f"{empreinte}\t{image.relative_to(self.coffre).as_posix()}\n")
-        (self.dossier / "A_FAIRE.tsv").write_text("".join(lignes), encoding="utf-8")
+        (self.dossier / chemins.A_FAIRE).write_text("".join(lignes), encoding="utf-8")
 
     def fichier(self, nom):
         return self.dossier / f"{self.empreintes[nom]}.md"
@@ -123,7 +124,7 @@ class TestTranscrire(unittest.TestCase):
         self.assertIn("de suite", arret)
 
     def test_image_changee_refusee(self):
-        (self.coffre / "Cours/Year 1/Maths/medias/a.png").write_bytes(b"autre contenu")
+        (self.coffre / chemins.NOTES / "Year 1/Maths/medias/a.png").write_bytes(b"autre contenu")
         _, echouees, _ = transcrire.transcrire(self.coffre, appel=lambda image, modele: "x")
         self.assertIn("changée", echouees[0][1])
         self.assertFalse(self.fichier("a.png").exists())

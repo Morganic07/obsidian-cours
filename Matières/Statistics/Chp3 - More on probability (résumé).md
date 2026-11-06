@@ -81,7 +81,7 @@ $$T = X_1 + \dots + X_n = \sum_{i=1}^{n} X_i, \qquad \bar{X} = \frac{X_1 + \dots
 | $\mathrm{Var}(T) = n\sigma^2$, $\mathrm{SD}(T) = \sqrt{n}\,\sigma$ | $\mathrm{Var}(\bar{X}) = \sigma^2/n$, $\mathrm{SD}(\bar{X}) = \sigma/\sqrt{n}$ |
 | Si les $X_i$ sont normales, $T$ est normale | Si les $X_i$ sont normales, $\bar{X}$ est normale |
 
-![[Cours/Year 3/Statistics/medias/Chp3 - More on probability/image25.png]]
+![[Chp3 - More on probability - image25.png]]
 
 *Figure : loi de la population et lois de $\bar{X}$ pour $n = 4$ et $n = 10$ : même centre, courbe d'autant plus étroite que $n$ est grand.*
 
@@ -108,7 +108,7 @@ Points $(x, y)$ avec :
 
 Si le graphe a la forme $y = x$, les observations ont la même loi que la population.
 
-![[Cours/Year 3/Statistics/medias/Chp3 - More on probability/image14.png]]
+![[Chp3 - More on probability - image14.png]]
 
 *Figure : diagramme quantile-quantile : dix points (valeur observée, percentile $z$) autour de la droite à 45°.*
 
@@ -138,7 +138,7 @@ Voir aussi [[Chp 5 - Continuous random variable (résumé)]].
 
 Les valeurs $x_1, \dots, x_n$ simulent une variable de densité $f$.
 
-![[Cours/Year 3/Statistics/medias/Chp3 - More on probability/image17.png]]
+![[Chp3 - More on probability - image17.png]]
 
 *Figure : la méthode illustrée : sur la courbe de $F$, les valeurs $u_1$, $u_2$ de l'axe vertical renvoient à $F^{-1}(u_1)$, $F^{-1}(u_2)$ sur l'axe horizontal.*
 
@@ -175,7 +175,7 @@ Cas $a_i = 1$, $b = 0$ : $M_Y(t) = M_{X_1}(t) \cdots M_{X_n}(t)$. La fonction g�
 **Définition** : $X$ suit une loi de Weibull de paramètres $\alpha > 0$, $\beta > 0$ si sa densité est
 $$f(x; \alpha, \beta) = \frac{\alpha}{\beta^\alpha}\, x^{\alpha - 1}\, e^{-(x/\beta)^\alpha}, \quad x > 0.$$
 
-![[Cours/Year 3/Statistics/medias/Chp3 - More on probability/image21.png]]
+![[Chp3 - More on probability - image21.png]]
 
 *Figure : densités de Weibull : à gauche $\alpha = 1, \beta = 1$ (exponentielle), $\alpha = 2, \beta = 1$, $\alpha = 2, \beta = 0{,}5$ ; à droite $\alpha = 10$ avec $\beta = 0{,}5$, $1$, $2$ (courbes en cloche de plus en plus larges).*
 
@@ -207,7 +207,7 @@ Une loi non normale entre souvent dans l'une de ces catégories :
 2. symétrique, à **queues lourdes** ;
 3. **asymétrique**.
 
-![[Cours/Year 3/Statistics/medias/Chp3 - More on probability/image5.png]]
+![[Chp3 - More on probability - image5.png]]
 
 *Figure : diagrammes de probabilité suggérant une loi non normale : (a) queues légères (S aplati au centre) ; (b) queues lourdes (S raide au centre) ; (c) asymétrie positive (courbe concave).*
 

@@ -7,9 +7,19 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 1. [x] Compléter les concepts avec les ajouts proposés par les lots
 2. [x] Créer la commande `/maj-cours`, et l'essayer avec un Doc modifié sur Drive (mise à jour du 2026-11-06)
 3. [x] Donner une page à chaque notion nommée dans les cours, pour la voir dans le graphe : repasser sur les 223 résumés (docx, PDF et PPTX), créer les concepts manquants et les relier entre eux
-4. [ ] Contrôler le wiki (lint)
-5. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
-6. [ ] Envoyer sur GitHub
+4. [x] Transformer les résumés en fiches complètes, avec figures et captures (216 fiches, 2026-11-06)
+5. [x] Vérifier les 1 839 transcriptions d'images sur l'image, puis corriger les fiches qui ont recopié une erreur de lecture (reste l'image « Critical Evaluation » de Statistics Chp1, à vérifier à la main)
+6. [ ] Décider comment cacher `Cours/` sans perdre les images des fiches ni les liens vers les notes
+7. [ ] Contrôler le wiki (lint)
+8. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
+9. [ ] Envoyer sur GitHub
+
+## Résumés pas encore en fiche complète (plus tard)
+
+- [ ] `Prise parole Rendu final`, `Projet BLR`, `UNIX Commands - Semester report` : notes supprimées de `Cours/` ; décider de les garder (relire le `.docx` de `.raw/`) ou de les retirer avec leur résumé
+- [ ] `Synthèse des entretiens`, `Transcriptions des entretiens` (SHS, Year 3) : la note n'existe plus dans `Cours/` ni sur Drive
+- [ ] `TP2` (Operating System) : la note `DM/TP2` est absente de `Cours/`
+- [ ] `Entretien sur l'open source` : déjà complet, lui ajouter `complet: true`
 
 ## Terminé
 

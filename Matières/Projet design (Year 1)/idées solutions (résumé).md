@@ -32,7 +32,7 @@ L'expérience tiers-lieu est souhaitée à la fois par :
 - le **territoire**, pour cette nouvelle dynamique collective qui répond à un besoin non pourvu ;
 - les **institutions publiques et partenaires**, pour améliorer les dispositifs et tester de nouveaux formats.
 
-![[Cours/Year 1/Projet design/Villeneuve/recherches/medias/idées solutions/image2.png]]
+![[idées solutions - image2.png]]
 *Figure : schéma d'interactions désirées pour l'utilisateur, au centre ; facilitation par l'externe (débouchés commerciaux ou réseau d'emploi, réseau de financeurs, réseau de partenaires) et par l'interne (collectif d'individus et partage de compétences, ateliers et formations, rencontres et découvertes), dans un « processus en temps réel et continu ».*
 
 ## 3. Emplois

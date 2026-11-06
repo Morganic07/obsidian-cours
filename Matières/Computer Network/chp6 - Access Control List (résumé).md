@@ -30,7 +30,7 @@ La note s'ouvre sur une définition isolée : [[ICMP]] = *Internet Control Messa
 
 Le sens se lit **du point de vue du routeur**, interface par interface.
 
-![[Cours/Year 3/Computer Network/medias/chp6 - Access Control List/image3.png]]
+![[chp6 - Access Control List - image3.png]]
 *Figure : en haut, le trafic entre par Fa 0/0 (*inbound*) et sort par Fa 0/1 (*outbound*) ; en bas, la même interface Fa 0/0 voit les deux sens.*
 
 ## ACL (*Access Control List*)
@@ -49,7 +49,7 @@ Exemple du cours :
 2. si IP source = 192.168.2.0/24, alors *deny* ;
 3. si IP source = *any*, alors *permit*.
 
-![[Cours/Year 3/Computer Network/medias/chp6 - Access Control List/image4.png]]
+![[chp6 - Access Control List - image4.png]]
 *Figure : topologie du chapitre. R1 dessert 192.168.1.0/24 par G0/1 (.254 ; PC1 en .1, PC2 en .2) et 192.168.2.0/24 par G0/2 (.254 ; PC3 en .1, PC4 en .2). R1 G0/0 (.1) est relié à R2 G0/0 (.2) par 203.0.113.0/30. R2 dessert 10.0.1.0/24 par G0/1 (.254 ; SRV1 en .100) et 10.0.2.0/24 par G0/2 (.254 ; SRV2 en .100).*
 
 ### Application et parcours
@@ -97,7 +97,7 @@ R1(config-if)# ip access-group <number> {in | out}
 
 La première ligne crée une ACE (en mode global) ; la seconde, saisie dans l'interface, applique l'ACL dans un sens.
 
-![[Cours/Year 3/Computer Network/medias/chp6 - Access Control List/image2.png]]
+![[chp6 - Access Control List - image2.png]]
 *Figure : la même topologie, l'ACL 1 et les exigences, sous le titre « Router R2 » ; la syntaxe est donnée avec le prompt R1.*
 
 Pour l'exemple (192.168.1.0/24 autorisé, 192.168.2.0/24 refusé vers 10.0.1.0/24), une traduction possible de l'ACL 1, *complément non donné par le cours* :
@@ -121,7 +121,7 @@ R2(config-if)# ip access-group 1 out
 4. PC1 peut accéder à 10.0.1.0/24 ;
 5. les autres PC de 192.168.1.0/24 ne peuvent pas accéder à 10.0.1.0/24.
 
-![[Cours/Year 3/Computer Network/medias/chp6 - Access Control List/image6.png]]
+![[chp6 - Access Control List - image6.png]]
 *Figure : les cinq exigences et la topologie R1 / R2 du chapitre.*
 
 **Réponse du cours** (équipement, interface, sens, ACL) :

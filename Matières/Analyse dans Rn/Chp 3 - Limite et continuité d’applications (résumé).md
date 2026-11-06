@@ -26,7 +26,7 @@ On généralise la [[Limite et continuité|limite]] des fonctions de $\mathbb R$
 
 **Remarques** : $\epsilon$ est la précision avec laquelle on connaît la valeur de $f(x)$. On fixe $\epsilon$ ; il existe alors $\eta$ tel que tout $x$ à [[Distance|distance]] inférieure à $\eta$ de $a$ a une image à distance de $l$ inférieure à $\epsilon$. Si $\epsilon$ tend vers 0, $\eta$ doit tendre vers 0.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 3 - Limite et continuité d’applications/image3.png]]
+![[Chp 3 - Limite et continuité d’applications - image3.png]]
 *Figure : dans $A$, un disque de rayon $\eta$ centré en $a$ contenant $x$ ; $f$ envoie $x$ sur $f(x)$, dans le disque de rayon $\epsilon$ centré en $l$ dans $F$.*
 
 - **Propriété 1 (unicité de la limite)** : si $f$ admet une limite $l \in F$ en $a \in \overline A$, elle est unique ; on la note $\lim_{x \to a} f(x) = l$.
@@ -50,7 +50,8 @@ La continuité en $a$ revient à étudier si, **quel que soit le chemin** par le
 ## 3. Applications lipschitziennes
 
 > Soit $f : E \to F$, $A \subset E$. $f$ est **$k$-lipschitzienne** sur $A$ ([[Application lipschitzienne]]) si et seulement si
-> $$\forall \mathbf x, \mathbf y \in A,\quad \|f(\mathbf x) - f(\mathbf y)\|_F \le k\,\|\mathbf x - \mathbf y\|_E.$$
+> $$\forall \mathbf x, \mathbf y \in A,\quad \|f(\mathbf x) - f(\mathbf y)\| \le k\,\|\mathbf x - \mathbf y\|_E.$$
+> La première norme est celle de $F$ : le cours ne lui met pas d'indice.
 > Si $f : \mathbb R \to \mathbb R$ : $|f(x) - f(y)| \le k\,|x - y|$.
 
 La note manuscrite écrit « $f$ $k$-lipschitzienne $\iff$ $f$ [[Continuité uniforme|uniformément continue]] » : seule l'implication $\Rightarrow$ est vraie (voir « Points à vérifier »).
@@ -89,7 +90,7 @@ $f_1(0,0) = 0/0$ : forme indéterminée.
 
 Conclusion : deux chemins donnent des valeurs différentes, donc **$f_1$ n'a pas de limite en $(0,0)$**.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 3 - Limite et continuité d’applications/image10.png]]
+![[Chp 3 - Limite et continuité d’applications - image10.png]]
 *Figure : exemple 1, les trois méthodes et les deux chemins vers l'origine (diagonale $\theta = \pi/4$ et axe vertical $\theta = \pi/2$).*
 
 ### Exemple 2 : $f_2(x, y) = 1 + \dfrac{x^3}{x^2 + y^2}$ en $(0,0)$
@@ -104,7 +105,7 @@ Deux chemins qui donnent 1 ne prouvent pas la continuité. On étudie $|f(x, y) 
 $$|f_2(x, y) - 1| = \left|\frac{x^3}{x^2 + y^2}\right| = \frac{x^2}{x^2 + y^2}\,|x| \le |x| \underset{(x,y) \to (0,0)}{\longrightarrow} 0.$$
 Avec les trois méthodes, **$\lim_{(x,y) \to (0,0)} f_2(x, y) = 1$**.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 3 - Limite et continuité d’applications/image14.png]]
+![[Chp 3 - Limite et continuité d’applications - image14.png]]
 *Figure : exemple 2, les trois méthodes, les chemins $u_n$ (diagonale) et $v_n$ (axe horizontal), et la majoration finale.*
 
 ## Points à vérifier dans le cours
@@ -115,6 +116,6 @@ Rien n'a été corrigé dans le cours.
 2. **Test en polaires** : image lue directement, « si le résultat ne dépend pas de $\theta$ alors la fonction admet une limite ». Ce test seul ne suffit pas. Contre-exemple : $x^2y/(x^4 + y^2)$ tend vers 0 à $\theta$ fixé pour tout $\theta$, mais vaut $1/2$ sur le chemin $y = x^2$. Il faut une majoration indépendante de $\theta$, comme dans l'exemple 2 du cours (complément). **À corriger avant un examen.**
 3. **Étape 1 de la méthode** : l'absence de forme indéterminée ne garantit pas que $f(x_0, y_0)$ soit la limite, si la fonction est définie à part en ce point. Il faut savoir qu'elle y est continue (complément).
 4. **Définition de la continuité** : « admet une limite en $a$ » suffit ici parce que la définition 1 inclut $x = a$, ce qui force la limite à valoir $f(a)$ (complément). Le paragraphe suivant s'arrête au milieu d'une phrase, sur « on ».
-5. **Écriture de la limite** : l'image écrit $(\rho, \theta) \to (0, \theta)$, seul $\rho$ tend vers 0. La transcription de cette image indique à tort $(0, 0)$, et l'exemple 1 du cours écrit aussi $(0, 0)$.
-6. **Autres mentions « À vérifier » des transcriptions** : Propriété 5, « pour tout entier $[\![1;p]\!]$ » sans « $i \in$ » ; définition lipschitzienne, indice $F$ de la première norme peu lisible ; version $\mathbb R \to \mathbb R$ manuscrite ambiguë (vecteurs fléchés) ; « si prête bien » pour « se prête bien ».
+5. **Écriture de la limite en polaires** : le cours n'écrit pas la même chose partout. La méthode (deux fois) et l'exemple 1 écrivent $(\rho, \theta) \to (0, \theta)$, seul $\rho$ tend vers 0 ; l'exemple 2 écrit $(\rho, \theta) \to (0, 0)$, ce qui laisserait croire que $\theta$ tend aussi vers 0. Dans les deux exemples, seul $\rho$ tend vers 0 (complément).
+6. **Autres mentions « À vérifier » des transcriptions** : Propriété 5, « pour tout entier $[\![1;p]\!]$ » sans « $i \in$ » ; définition lipschitzienne, la première norme n'a pas d'indice dans la note manuscrite (c'est celle de $F$) ; version $\mathbb R \to \mathbb R$ manuscrite ambiguë (vecteurs fléchés) ; « si prête bien » pour « se prête bien ».
 7. **Exemple 2, colonne polaire** : la conclusion « la fonction est continue » tirée de $\rho\cos^3\theta + 1 \to 1$ est juste ici parce que $|\rho\cos^3\theta| \le \rho$ ne dépend pas de $\theta$ ; le cours ne le dit pas (complément, lié au point 2). La fonction n'est d'ailleurs pas définie en $(0,0)$ : « continue » signifie ici prolongeable par continuité par la valeur 1 ([[Prolongement par continuité]]).

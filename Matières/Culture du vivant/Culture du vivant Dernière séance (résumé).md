@@ -21,7 +21,7 @@ Résumé de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]],
 
 ## L'économie circulaire
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant Dernier cours/image1.png]]
+![[Culture du vivant Dernière séance - image1.png]]
 *Figure : schéma en spirale de l'économie circulaire (Fondation Ellen MacArthur), photo d'écran.*
 
 Le schéma part des **matières premières**, passe par la fabrication, l'emballage, la distribution et l'utilisation, et aboutit aux **déchets**. Des boucles concentriques de retour ramènent vers l'amont : partage, réparation, réemploi, remise à neuf, recyclage ([[Réemploi, recyclage et reconditionnement]]).
@@ -37,7 +37,7 @@ Les six piliers de l'[[Économie circulaire]] listés sur la diapositive :
 
 ## Le cycle de vie vu par les clients
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant Dernier cours/image3.png]]
+![[Culture du vivant Dernière séance - image3.png]]
 *Figure : « Questions des clients » sur les cinq étapes du cycle de vie (diapositive signée S. Caillol, ENSCM Chimie Montpellier), photo d'écran.*
 
 | Étape du cycle de vie | Questions des clients |
@@ -52,7 +52,7 @@ Les six piliers de l'[[Économie circulaire]] listés sur la diapositive :
 
 C'est pour cela qu'il faut [[Valeur socio-écologique|intégrer le vivant dans les décisions économiques]].
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant Dernier cours/image2.png]]
+![[Culture du vivant Dernière séance - image2.png]]
 *Figure : « La convergence des demandes », quatre blocs autour de la « valeur socio-écologique » (diapositive 11 sur 43), photo d'écran.*
 
 Quatre acteurs convergent vers un objectif central : **reconnaître la création de « valeur socio-écologique »**.

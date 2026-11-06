@@ -30,7 +30,7 @@ Exemple du cours : 38 salaires de départ (de 50 128 \$ à 83 000 \$). Tige : 10
 
 ([[Diagramme en points]])
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image16.png]]
+![[Chp2 - Descriptive statistics - image16.png]]
 
 *Figure : diagramme en points de l'indice Big Mac (en \$US) de 56 pays, sur un axe de 2,0 à 6,5 ; la valeur des États-Unis (5,58 \$) est signalée ; la plupart des points sont entre 2 et 4,6.*
 
@@ -45,7 +45,7 @@ Exemple : dix mesures 2,1 ; 2,4 ; 2,2 ; 2,3 ; 2,7 ; « .2.5 » (sic, sans doute 
 
 Classes (*class intervals*) : chaque observation appartient à exactement une classe.
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image11.png]]
+![[Chp2 - Descriptive statistics - image11.png]]
 
 *Figure : histogramme de fréquence relative des dix mesures, classes de 2,05 à 3,05 de largeur 0,2.*
 
@@ -57,7 +57,7 @@ $$\text{Densité d'une classe} = \frac{\text{fréquence relative de la classe}}{
 
 Dans un histogramme (à classes inégales), la hauteur du rectangle de chaque classe est sa densité ; l'échelle verticale s'appelle alors **échelle de densité** (*density scale*).
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image25.png]]
+![[Chp2 - Descriptive statistics - image25.png]]
 
 *Figure : histogramme de densité, à classes de largeurs inégales, du coût annuel de carburant attendu (centaines de dollars) ; pic d'environ 0,12 entre 15 et 17,5.*
 
@@ -67,7 +67,7 @@ Note du cours : si la valeur vaut 15 pile, elle va dans l'intervalle supérieur.
 
 ([[Forme d'une distribution]])
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image19.png]]
+![[Chp2 - Descriptive statistics - image19.png]]
 
 *Figure : histogrammes lissés : (a) symétrique unimodal ; (b) bimodal ; (c) asymétrie positive (queue à droite) ; (d) asymétrie négative (queue à gauche).*
 
@@ -78,7 +78,7 @@ Note du cours : si la valeur vaut 15 pile, elle va dans l'intervalle supérieur.
 - Plus il y a d'observations, plus il faut de classes. Règle raisonnable :
 $$\text{nombre de classes} \approx \sqrt{\text{nombre d'observations}}$$
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image14.png]]
+![[Chp2 - Descriptive statistics - image14.png]]
 
 *Figure : choix des classes pour des points « étirés » : (a) beaucoup d'intervalles courts de même largeur ; (b) quelques intervalles larges de même largeur ; (c) intervalles de largeurs inégales.*
 
@@ -95,7 +95,7 @@ Une **distribution de fréquences** est un tableau des fréquences et/ou des fr�
 
 Diagrammes circulaires (*pie charts*) et diagrammes en barres (*bar graphs*) : voir [[Diagramme en barres et diagramme circulaire]].
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image17.png]]
+![[Chp2 - Descriptive statistics - image17.png]]
 
 *Figure : diagramme circulaire des locuteurs natifs de l'anglais (USA, UK, Canada, Australia, Other) ; diagrammes en barres verticales et horizontales de la couleur des yeux (marron environ 13, vert 8, bleu 4, noir 1 ; « marron » est la modalité la plus fréquente).*
 
@@ -124,11 +124,11 @@ Construction :
 | 312,45 | 352,09 | 371,47 | 444,68 | 460,86 | 563,92 | 690,11 | 826,54 |
 | 1529,35 | | | | | | | |
 
-- Résumé : « $\bar{x} = 92{,}17$ » (en fait la médiane, voir les points à vérifier), $q_1 = 45{,}64$, $q_3 = 167{,}79$, $\text{iqr} = 122{,}15$, $1{,}5\,\text{iqr} = 183{,}225$, $3\,\text{iqr} = 366{,}45$. Les logiciels peuvent donner des valeurs légèrement différentes.
+- Résumé : médiane $\tilde{x} = 92{,}17$, $q_1 = 45{,}64$, $q_3 = 167{,}79$, $\text{iqr} = 122{,}15$, $1{,}5\,\text{iqr} = 183{,}225$, $3\,\text{iqr} = 366{,}45$. Les logiciels peuvent donner des valeurs légèrement différentes.
 - En bas : $q_1 - 1{,}5\,\text{iqr} < 0$ et aucune observation n'est négative, donc pas de valeur aberrante basse.
 - En haut : $q_3 + 1{,}5\,\text{iqr} = 351{,}015$ et $q_3 + 3\,\text{iqr} = 534{,}24$. Donc 563,92, 690,11, 826,54 et 1529,35 sont des aberrantes **extrêmes** ; 352,09, 371,47, 444,68 et 460,86 sont **modérées**.
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image22.png]]
+![[Chp2 - Descriptive statistics - image22.png]]
 
 *Figure : tableau des 57 charges d'azote et boîte à moustaches horizontale : boîte de 45 à 168, médiane vers 92, moustache jusqu'à 312 environ, aberrantes modérées en points pleins, extrêmes en cercles vides.*
 
@@ -167,7 +167,7 @@ $$\tilde{x} = \frac{66{,}4 + 67{,}4}{2} = 66{,}90 \text{ min}.$$
 
 ### Moyenne et médiane de population
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image15.png]]
+![[Chp2 - Descriptive statistics - image15.png]]
 
 *Figure : trois formes de distribution de population : (a) asymétrie négative, $\mu < \tilde{\mu}$ ; (b) symétrique, $\mu = \tilde{\mu}$ ; (c) asymétrie positive, $\tilde{\mu} < \mu$.*
 
@@ -222,7 +222,7 @@ $$x < q_1 - 1{,}5\,\text{iqr} \quad \text{ou} \quad x > q_3 + 1{,}5\,\text{iqr}.
 
 $IQR = Q_3 - Q_1$ ; une valeur aberrante tombe hors de $\left[Q_1 - \tfrac{3}{2}\text{IQR},\ Q_3 + \tfrac{3}{2}\text{IQR}\right]$.
 
-![[Cours/Year 3/Statistics/medias/Chp2 - Descriptive statistics/image6.png]]
+![[Chp2 - Descriptive statistics - image6.png]]
 
 *Figure : dessin manuscrit : colonne de données ordonnées coupée à la médiane en « lows » et « highs » ; $Q_1$ médiane des bas, $Q_3$ médiane des hauts.*
 
@@ -230,10 +230,10 @@ $IQR = Q_3 - Q_1$ ; une valeur aberrante tombe hors de $\left[Q_1 - \tfrac{3}{2}
 
 Rien n'a été corrigé dans le cours.
 
-1. **Exemple de la boîte à moustaches : « $\bar{x} = 92{,}17$ »** : image non ouverte pour ce point, mais le calcul tranche. 92,17 est la 29e des 57 valeurs triées : c'est la médiane, pas la moyenne. Le symbole devrait être $\tilde{x}$ (complément).
+1. **Exemple de la boîte à moustaches : $\tilde{x} = 92{,}17$** : image vérifiée, le cours écrit bien $\tilde{x}$, la médiane (92,17 est la 29e des 57 valeurs triées). Une ancienne transcription lisait à tort $\bar{x}$, la moyenne : le cours n'a pas d'erreur sur ce point.
 2. **Définition des quartiles, deux versions** : la définition ($q_1$, $q_3$ médianes des moitiés, médiane incluse si $n$ impair) diffère de la procédure du dessin (« divide the data at the median into two equal groups »), qui ne dit rien de la médiane. Les logiciels donnent d'ailleurs des valeurs légèrement différentes, comme le cours le dit.
 3. **Phrase coupée** : la note de définition des percentiles s'arrête net : « The upper quartile is $x_{0.75}$, the value “at or below” which 75 % of the data points lie, and “at or above” which ». La suite (25 % des données) manque.
-4. **Alertes de la transcription** : la valeur 65 absente des tableaux de salaires (de 64 à 66) et le « .2.5 » de l'histogramme sont des défauts de l'image, non des erreurs de fond. Image non ouverte, ne rien reprendre de ces valeurs.
+4. **Alertes de la transcription** : la valeur 65 absente des tableaux de salaires (de 64 à 66) et le « .2.5 » de l'histogramme sont des défauts de l'image, non des erreurs de fond. Les transcriptions ont été vérifiées sur l'image et laissées telles quelles : ne rien reprendre de ces valeurs.
 5. **Tableau de salaires** : les fréquences du tableau 2.1 somment à 42, comme l'indique le dénominateur du tableau 2.2 ; la transcription signale que 3, 5, 8 et 0 sont flous sur l'image.
 6. **Données du tige et feuilles** : la transcription signale des lignes de longueurs inégales (10 et 8 valeurs) ; le tableau compte 38 valeurs. Ne pas s'y fier pour un calcul sans ouvrir l'image.
 7. **Lien automatique « sample median »** : dans la note, « sample median » pointe vers [[Variance et écart-type d'échantillon]] ; c'est un faux lien (la médiane relève des [[Mesures de tendance centrale]]).

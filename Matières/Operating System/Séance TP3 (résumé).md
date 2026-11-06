@@ -21,7 +21,7 @@ ip addr          # ou : ip address
 sudo ifconfig
 ```
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP3/image13.png]]
+![[Séance TP3 - image13.png]]
 *Figure : sorties de `ip address` et de `sudo ifconfig` : interface `lo` (127.0.0.1/8, ::1) et interface `eth0` (100.115.92.201/28, masque 255.255.255.240, diffusion 100.115.92.207, IPv6 fe80::216:3eff:fe68:6580), avec compteurs RX et TX.*
 
 Annotations de l'étudiante sur la capture (« `ip address` et `sudo ifconfig` ont quasiment la même sortie ») :
@@ -51,7 +51,7 @@ Voir [[Interface réseau]].
 - Le fichier `/etc/hosts` ([[Fichier hosts]]), sous [[Ubuntu]] et les autres [[Linux]], est un mécanisme local simple qui associe des noms d'hôte à des adresses IP.
 - Il fait partie de la configuration réseau du système et sert surtout à la résolution DNS locale, aux tests rapides et au blocage d'accès.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP3/image3.png]]
+![[Séance TP3 - image3.png]]
 *Figure : `cat /etc/hosts` : `127.0.1.1 penguin`, `127.0.0.1 localhost`, `100.115.92.201 penguin`, puis les entrées IPv6 (`::1 localhost ip6-localhost ip6-loopback`, `ff02::1 ip6-allnodes`, `ff02::2 ip6-allrouters`).*
 
 **Points clés** du support :
@@ -82,7 +82,7 @@ ping <hostname>
 ping <IP address>
 ```
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP3/image15.png]]
+![[Séance TP3 - image15.png]]
 *Figure : `ping youtube.com` (2 paquets reçus, 0 % de perte), `ping penguin` (127.0.1.1), `ping 127.0.0.1` répondent ; `ping 238.239.22.31` : 8 paquets envoyés, 0 reçu, 100 % de perte.*
 
 Annotations : ping de YouTube, du nom de la machine et de son IP fonctionnent ; ping d'une IP aléatoire ne fonctionne pas.

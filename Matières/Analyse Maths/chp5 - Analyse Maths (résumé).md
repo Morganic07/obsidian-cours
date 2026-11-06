@@ -161,7 +161,9 @@ Le polynôme $a_0 + \dots + a_n(x-a)^n$ est la **partie régulière** du DL.
 
 **Propriété (retour en 0)**. $f$ admet un $DL_n(a)$ si et seulement si $g : h \mapsto f(a + h)$ admet un $DL_n(0)$, et
 
-$$f(x) \underset{x \to a}{=} \sum_{k=0}^{n} a_k (x - a)^k + o((x - a)^n) \iff g(h) = f(a + h) \underset{h \to 0}{=} \sum_{k=0}^{n} a_k h^k + o(h^n).$$
+$$f(x) \underset{x \to a}{=} \sum_{k=0}^{n} a_k (x - a)^k + o((x - a)^n) \iff g(h) = f(a + h) \underset{h \to 0}{=} \sum_{k=0}^{n} a_k h^k + o(h^k).$$
+
+Le cours écrit bien $o(h^k)$ ; il faut lire $o(h^n)$ (voir « Points à vérifier »).
 
 ### Propriétés
 
@@ -265,3 +267,4 @@ Rien n'a été corrigé dans le cours.
 7. **Second théorème de primitivation** : le bas de l'image de l'hypothèse est coupé (ligne tronquée avec $(x-a)^{k+1}$) ; la conclusion est lisible dans l'image suivante.
 8. **$u_n \sim \ell \Rightarrow u_n \to \ell$** : le cours n'écrit pas la condition $\ell \ne 0$, nécessaire car on ne peut pas être équivalent à 0 (complément).
 9. **« o(x) = o(y) ≠ o(y) = o(x) »** : notation de l'étudiant, interprétée ici comme le sens unique de lecture du signe « = » ; à confirmer.
+10. **Retour en 0** : le cours écrit $g(h) = \sum_{k=0}^{n} a_k h^k + o(h^k)$ (vérifié sur l'image). L'indice $k$ est muet hors de la somme : il faut lire $o(h^n)$, comme dans le membre de gauche $o((x-a)^n)$. Mention « À vérifier » de la transcription.

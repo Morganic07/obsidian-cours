@@ -100,20 +100,20 @@ Résultat : B racine, avec C à gauche et A à droite.
 
 Démonstration avec l'outil graphique AVLTkinter. Arbre avec les nombres de 1 à 8 ; on ajoute 9 en suivant le chemin récursif jusqu'à sa place. En bas à droite, 9 rend $\text{eq}(7) = 2$ : déséquilibre à droite, d'où une **rotation gauche entre 7 et 8**.
 
-![[Cours/Year 2/Algo/DM/medias/qui dit quoi AVL/image9.png]]
+![[qui dit quoi AVL - image9.png]]
 *Figure : arbre de 1 à 8 avant l'ajout : racine 4 (1), 2 (0) avec 1 et 3, 6 (1) avec 5 (0) et 7 (1), et 8 (0) fils droit de 7.*
 
-![[Cours/Year 2/Algo/DM/medias/qui dit quoi AVL/image7.png]]
+![[qui dit quoi AVL - image7.png]]
 *Figure : après l'ajout de 9 et la rotation, 6 (1) a pour fils 5 (0) et 8 (0), et 8 a pour fils 7 (0) et 9 (0).*
 
 ### `supprimer(self, valeur)`
 
 Démonstration avec AVLTkinter sur l'arbre de 1 à 9. On supprime 6, qui a deux fils : l'algorithme le remplace par la plus petite valeur de son sous-arbre droit, $\min\{7, 8, 9\} = 7$, puis supprime l'ancien 7. Consigne : montrer aussi le cas de la suppression d'une feuille et celui d'un nœud à un seul fils.
 
-![[Cours/Year 2/Algo/DM/medias/qui dit quoi AVL/image8.png]]
+![[qui dit quoi AVL - image8.png]]
 *Figure : arbre de 1 à 9 avant la suppression : racine 4 (1), 2 (0) avec 1 et 3, 6 (1) avec 5 (0) et 8 (0), 8 avec 7 et 9.*
 
-![[Cours/Year 2/Algo/DM/medias/qui dit quoi AVL/image10.png]]
+![[qui dit quoi AVL - image10.png]]
 *Figure : après la suppression de 6 : le sous-arbre a pour racine 7 (1), avec 5 (0) à gauche et 8 (1) à droite, et 9 (0) fils droit de 8.*
 
 ## Diapositives 14 à 16 : complexité de `ajouter`

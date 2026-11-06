@@ -35,7 +35,7 @@ Il n'existe pas **une** [[Loi de Student]], mais une infinité, une par nombre d
 | 20 | 0,05371 | 2,69 % | 94,63 % |
 | 100 | 0,04298 | 2,15 % | 95,7 % |
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 6 - T-Test/image4.png]]
+![[Séance 6 - T-Test - image4.png]]
 
 *Figure : densités de la loi t pour df = 1, 5, 20 et 100, avec les queues au-delà de ±2,05 ; plus df augmente, plus les queues s'amincissent.*
 
@@ -80,7 +80,7 @@ Choix du [[Seuil de signification|seuil de signification]] : en général $\alph
 - $H_1$ détermine la direction (droite ou gauche) de la queue.
 - $H_1$ ne contient **jamais l'égalité** : c'est $\neq$, $>$ ou $<$.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 6 - T-Test/image2.png]]
+![[Séance 6 - T-Test - image2.png]]
 
 *Figure : zones de rejet d'un test bilatéral ($\alpha/2$ dans chaque queue), unilatéral à gauche et unilatéral à droite ($\alpha$ dans une queue).*
 
@@ -93,7 +93,7 @@ Un cabinet de conseil affirme que ses consultants gagnent en moyenne **exactemen
 - **Étape 3** : statistique de test : loi $t$, car $n$ est petit (16) et $\sigma$ inconnu.
 - **Étape 4** : valeurs critiques. C'est une $t_{15}$ : on **ne peut pas** utiliser les valeurs critiques ±1,96 du test $Z$. Dans la table $t$, colonne 0,025 et ligne 15 degrés de liberté : **±2,1315**. Ne pas oublier qu'on a $n-1$ degrés de liberté : $n = 16$, mais d.f. = 15.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 6 - T-Test/image5.png]]
+![[Séance 6 - T-Test - image5.png]]
 
 *Figure : loi $t_{15}$ avec deux zones de rejet de 2,5 % au-delà de −2,1315 et 2,1315.*
 

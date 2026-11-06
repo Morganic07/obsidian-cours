@@ -47,32 +47,32 @@ ls | grep "file"           # | : tube, la sortie d'une commande devient l'entré
 
 ### Essais de l'étudiante
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image3.png]]
+![[Séance TP2 - image3.png]]
 *Figure : `wc -l lab_output.txt` → `2 lab_output.txt` : le fichier n'a que 2 lignes.*
 
 Lister seulement les fichiers `.conf` du répertoire avec [[Commande grep|grep]] :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image8.png]]
+![[Séance TP2 - image8.png]]
 *Figure : `ls | grep "\.conf"` liste file1.conf à file15.conf.*
 
 Compter les fichiers `.txt` : `ls | grep "\.txt"` les liste, et `wc -l` compte les lignes de cette sortie.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image14.png]]
+![[Séance TP2 - image14.png]]
 *Figure : `ls | grep "\.txt" | wc -l` → 21.*
 
 Créer un fichier de nombres aléatoires avec [[Commande shuf|shuf]] :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image1.png]]
+![[Séance TP2 - image1.png]]
 *Figure : `shuf -i 1-10 -n 10 -r > number.txt` puis `cat number.txt` : 3, 6, 5, 9, 10, 4, 4, 9, 3, 2.*
 
 Trier la sortie du fichier, sans modifier le fichier lui-même ([[Commande sort]], [[Commande uniq]]) :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image2.png]]
+![[Séance TP2 - image2.png]]
 *Figure : `cat number.txt | sort -g | uniq` → 2, 3, 4, 5, 6, 9, 10 (tri numérique, doublons retirés).*
 
 Ajouter la date courante à la fin d'un fichier ([[Commande date]]) :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image18.png]]
+![[Séance TP2 - image18.png]]
 *Figure : `date >> directory_list.txt ; cat directory_list.txt` : la liste des fichiers du répertoire, puis la date « Mon Nov 18 10:33:48 AM CET 2024 » ajoutée en dernière ligne.*
 
 ## 1.3 Tâches de fond (*Background and Job Control*)
@@ -115,7 +115,7 @@ echo "Hello $USER"    # Outputs "Hello <username>"
 echo "Path $PWD"      # Outputs "Path </path to the working directory>
 ```
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image4.png]]
+![[Séance TP2 - image4.png]]
 *Figure : `echo 'Hello $USER'` affiche `Hello $USER` ; `echo "Hello $USER"` affiche `Hello momo`.*
 
 ## 1.5 Caractères des chemins (*Special Characters for File Paths and Locations*)
@@ -131,7 +131,7 @@ cd ..            # .. : répertoire parent ; remonte d'un niveau
 
 Créer un fichier dont le nom contient des espaces, en les échappant :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image11.png]]
+![[Séance TP2 - image11.png]]
 *Figure : `touch My\ File\ With\ Spaces.txt` puis `ls` affiche `'My File With Spaces.txt'` entre apostrophes.*
 
 ## 1.6 Caractères d'échappement (*Special Escaping Characters*)
@@ -146,7 +146,7 @@ echo `pwd`            # `` (backticks) : exécute la commande et substitue sa so
 
 Les apostrophes inversées (*backticks*) réalisent une [[Substitution de commande]]. Sur le clavier : Alt+7 (« Alt Gr + 7 » sur un clavier AZERTY, voir point à vérifier 5). On s'en sert pour mettre le résultat d'une commande dans une variable ou un fichier.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP2/image13.png]]
+![[Séance TP2 - image13.png]]
 *Figure : ``CURRENT_DATE=`date` ; echo $CURRENT_DATE`` → « Mon Nov 18 11:52:40 AM CET 2024 ».*
 
 ## Points à vérifier dans le cours

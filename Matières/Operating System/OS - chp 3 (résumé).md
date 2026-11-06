@@ -25,7 +25,7 @@ Linux, ses distributions, Ubuntu et l'installation d'un système (sur PC ou en m
 - Son cœur est le noyau Linux, le cœur du système.
 - Elle comprend aussi d'autres composants : système de fenêtrage, environnement de bureau, logiciels d'application.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 3/image2.png]]
+![[OS - chp 3 - image2.png]]
 *Figure : logos de distributions populaires : Ubuntu, Fedora, Arch Linux, Debian, CentOS, openSUSE.*
 
 ## Qu'est-ce qu'Ubuntu ?
@@ -53,7 +53,7 @@ Linux, ses distributions, Ubuntu et l'installation d'un système (sur PC ou en m
 
 ## Arbre de décision de l'installation
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 3/image1.png]]
+![[OS - chp 3 - image1.png]]
 *Figure : organigramme « Operating System Installation » : branche PC/portable (ISO, clé USB bootable avec Rufus, démarrage, installation) et branche machine virtuelle (logiciel selon l'OS hôte, création de la VM, ISO, installation).*
 
 **Sur PC ou portable** :

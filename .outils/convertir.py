@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Convertit le miroir Drive en notes Obsidian et y insère les liens vers Concepts/.
+"""Convertit le miroir Drive en notes Obsidian et y insère les liens vers les concepts.
 
-Les notes de Cours/ sont entièrement recalculées à partir du miroir, de Concepts/
-et de .transcriptions/ : relancer le script redonne le même résultat.
+Les notes sont entièrement recalculées à partir du miroir, des concepts et des
+transcriptions : relancer le script redonne le même résultat. Les noms de ces
+dossiers sont dans chemins.py.
 """
 import argparse
 import csv
@@ -15,8 +16,10 @@ import tempfile
 import zipfile
 from pathlib import Path
 
+import chemins
+
 ICI = Path(__file__).resolve().parent
-MIROIR_DEFAUT = ICI.parent / ".raw"
+MIROIR_DEFAUT = ICI.parent / chemins.MIROIR
 URI_IMAGE = "http://schemas.openxmlformats.org/drawingml/2006/picture"
 GROUPE_DESSIN = re.compile(r"<mc:AlternateContent\b.*?</mc:AlternateContent>", re.S)
 
@@ -159,7 +162,7 @@ def contenu_dossier(dossier):
 def chemin_note(coffre, relatif):
     """Emplacement attendu de la note d'un document du miroir."""
     dossiers = [nom_sur(p) for p in relatif.parent.parts]
-    return coffre.joinpath("Cours", *dossiers, f"{nom_sur(relatif.stem)}.md")
+    return coffre.joinpath(chemins.NOTES, *dossiers, f"{nom_sur(relatif.stem)}.md")
 
 
 def source_lisible(relatif):
@@ -174,7 +177,7 @@ def notes_deplacees(coffre, miroir):
         relatif = source.relative_to(miroir)
         attendues[source_lisible(relatif)] = chemin_note(coffre, relatif)
     deplacees = []
-    for note in sorted((coffre / "Cours").rglob("*.md")):
+    for note in sorted((coffre / chemins.NOTES).rglob("*.md")):
         champs = lire_frontmatter(note.read_text(encoding="utf-8"))
         if champs.get("genere") != ["true"]:
             continue
@@ -303,7 +306,7 @@ def retirer_dossiers_vides(dossier, limite):
 
 def retirer_orphelines(coffre, gardees):
     """Supprime les notes générées dont la source a disparu, jamais les autres."""
-    cours = coffre / "Cours"
+    cours = coffre / chemins.NOTES
     retirees = []
     for note in sorted(cours.rglob("*.md")):
         if note in gardees:
@@ -334,17 +337,19 @@ def main(argv=None):
     deplacees = notes_deplacees(coffre, args.miroir)
     if deplacees:
         print("erreur : des notes générées ont été déplacées dans le coffre, rien n'est modifié.\n"
-              "Cours/ suit l'arborescence de Drive : range-les sur Drive, ou remets-les en place.",
+              f"{chemins.NOTES}/ suit l'arborescence de Drive : "
+              "range-les sur Drive, ou remets-les en place.",
               file=sys.stderr)
         for note, attendue in deplacees:
             print(f"  {note.relative_to(coffre)}  (attendue : {attendue.relative_to(coffre)})",
                   file=sys.stderr)
         return 3
 
-    dossier_tr = coffre / ".transcriptions"
+    dossier_tr = coffre / chemins.TRANSCRIPTIONS
     dossier_tr.mkdir(parents=True, exist_ok=True)
     textes = {f.stem: f.read_text(encoding="utf-8") for f in dossier_tr.glob("*.md")}
-    concepts = charger_concepts(coffre / "Concepts") if (coffre / "Concepts").is_dir() else []
+    dossier_concepts = coffre / chemins.CONCEPTS
+    concepts = charger_concepts(dossier_concepts) if dossier_concepts.is_dir() else []
 
     notes, a_transcrire, echecs, changees = {}, {}, [], []
     reussies = 0
@@ -367,7 +372,7 @@ def main(argv=None):
             if empreinte not in textes:
                 a_transcrire.setdefault(empreinte, image)
 
-    (dossier_tr / "A_FAIRE.tsv").write_text(
+    (dossier_tr / chemins.A_FAIRE).write_text(
         "".join(f"{e}\t{i}\n" for e, i in a_transcrire.items()), encoding="utf-8")
 
     retirees = [] if args.matiere else retirer_orphelines(coffre, set(notes))

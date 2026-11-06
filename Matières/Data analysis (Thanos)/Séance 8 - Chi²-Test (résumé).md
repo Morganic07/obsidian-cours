@@ -24,7 +24,7 @@ Voir [[Loi du khi-deux]].
 - Elle est toujours **asymétrique à droite** (*right tailed*).
 - Elle devient symétrique et se rapproche de la loi normale quand $n$ augmente.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 8 - Chi²-Test/image3.png]]
+![[Séance 8 - Chi²-Test - image3.png]]
 
 *Figure : densités $f_k(x)$ de la loi $\chi^2_k$ pour $k$ = 1, 2, 3, 4, 6, 9 ; le maximum s'abaisse et se décale vers la droite quand $k$ augmente.*
 
@@ -48,7 +48,7 @@ $$\frac{(n-1)s^2}{\chi^2_{\alpha/2,\,n-1}} \leq \sigma^2 \leq \frac{(n-1)s^2}{\c
 
 où $\chi^2_{\alpha/2,\,n-1}$ et $\chi^2_{1-\alpha/2,\,n-1}$ sont les points de pourcentage supérieur et inférieur à $100\alpha/2$ % de la loi du $\chi^2$ à $n-1$ degrés de liberté. L'intervalle de confiance de **$\sigma$** a pour bornes les racines carrées de ces bornes.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 8 - Chi²-Test/image22.png]]
+![[Séance 8 - Chi²-Test - image22.png]]
 
 *Figure : (a) le point $\chi^2_{\alpha,k}$, avec l'aire $\alpha$ à sa droite ; (b) $\chi^2_{0{,}95;10} = 3{,}94$ et $\chi^2_{0{,}05;10} = 18{,}31$, avec 0,05 dans chaque queue.*
 
@@ -87,7 +87,7 @@ Les valeurs standardisées se lisent dans les tables du $\chi^2$.
 - Les tables du $\chi^2$ ne sont **pas symétriques**.
 - Il faut donc lister séparément les valeurs de la queue inférieure et de la queue supérieure (en jaune pour la queue inférieure, en bleu pour la supérieure, sur la diapositive).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 8 - Chi²-Test/image14.png]]
+![[Séance 8 - Chi²-Test - image14.png]]
 
 *Figure : densité du $\chi^2$ avec une aire $\alpha/2$ dans chaque queue, aux points $\chi^2_{1-\alpha/2,\nu}$ et $\chi^2_{\alpha/2,\nu}$, et extrait de la table.*
 
@@ -137,7 +137,7 @@ Le test du $\chi^2$ sert à déterminer si **deux variables catégorielles** ont
 - Degrés de liberté, d'après le tableau :
 $$df = (\text{lignes} - 1) \times (\text{colonnes} - 1)$$
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 8 - Chi²-Test/image5.png]]
+![[Séance 8 - Chi²-Test - image5.png]]
 
 *Figure : loi du $\chi^2$ avec la [[Valeur critique|valeur critique]] $\chi^2_c$ ; à gauche « ne pas rejeter $H_0$ », à droite « rejeter $H_0$ ».*
 
@@ -212,7 +212,7 @@ $$\chi^2_{obtenu} = \sum \frac{(f_o - f_e)^2}{f_e}$$
 
 $\chi^2_{critique} = 3{,}841$, $\chi^2_{obtenu} = 2{,}00$ : la statistique **n'est pas** dans la région critique. **On ne rejette pas $H_0$** (les variables sont indépendantes). **Conclusion** : pas de relation significative entre taux d'homicides et ventes d'armes, d'après ces données.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 8 - Chi²-Test/image4.png]]
+![[Séance 8 - Chi²-Test - image4.png]]
 
 *Figure : loi du $\chi^2$ et région de rejet au-delà de $\chi^2_c$ ; la valeur obtenue tombe dans la zone « ne pas rejeter ».*
 

@@ -27,7 +27,7 @@ Résumé de [[Chp1 - Intro to statistics]], dans [[Statistics (matière)]] : voc
 
 ### Types de variables
 
-![[Cours/Year 3/Statistics/medias/Chp1 - Intro to statistics/image7.png]]
+![[Chp1 - Intro to statistics - image7.png]]
 
 *Figure : arbre « Types of variables » : qualitative (nominale ou ordinale) et quantitative (continue ou discrète).*
 
@@ -54,7 +54,7 @@ Un échantillon doit avoir les mêmes caractéristiques que la population qu'il 
 | Systématique (*systematic* ou *interval sampling*) | Point de départ aléatoire, puis un élément sur $n$ dans une liste de la population ; souvent choisi pour sa simplicité |
 | De convenance (*convenience sampling*) | On prend l'échantillon qui nous arrange : il est **biaisé** |
 
-![[Cours/Year 3/Statistics/medias/Chp1 - Intro to statistics/image1.png]]
+![[Chp1 - Intro to statistics - image1.png]]
 
 *Figure : stratifié contre grappes : deux strates homogènes (hommes, femmes) où l'on tire des individus selon la distribution de la population, contre six grappes hétérogènes dont on tire des grappes entières.*
 

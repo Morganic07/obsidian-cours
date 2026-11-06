@@ -23,7 +23,7 @@ $$a = x_0 < x_1 < \dots < x_n = b.$$
 
 **Définition (fonction en escalier, subdivision adaptée).** Une fonction $f : [a,b] \to \mathbb{C}$ est *en escalier* s'il existe une subdivision $(x_0, \dots, x_n)$ de $[a,b]$, dite *adaptée à $f$*, telle que $f$ est constante sur $]x_i, x_{i+1}[$ pour tout $i \in [\![0, n-1]\!]$. Les valeurs aux points $x_i$ sont quelconques.
 
-![[Cours/Year 2/Analyse/chp7/medias/Chap7-Integration/image3.png]]
+![[Chap7-Integration - image3.png]]
 *Figure : fonction en escalier sur $[a,b]$, constante par paliers sur chaque $]x_i, x_{i+1}[$ ; les valeurs aux points $x_i$ (points pleins) peuvent différer des paliers.*
 
 **Théorème (propriétés élémentaires).** Soient $f, g : [a,b] \to \mathbb{C}$ en escalier.
@@ -36,7 +36,7 @@ $$a = x_0 < x_1 < \dots < x_n = b.$$
 $$\sum_{i=0}^{n-1} y_i\,(x_{i+1} - x_i)$$
 ne dépend pas de la subdivision adaptée choisie. C'est l'*intégrale de $f$ sur $[a,b]$*, notée $\int_{[a,b]} f$ ou $\int_{[a,b]} f(t)\,\mathrm{d}t$.
 
-![[Cours/Year 2/Analyse/chp7/medias/Chap7-Integration/image12.png]]
+![[Chap7-Integration - image12.png]]
 *Figure : le rectangle sous le palier $y_i$ entre $x_i$ et $x_{i+1}$ a pour aire algébrique $y_i(x_{i+1} - x_i)$ (cas $f$ réelle).*
 
 **Propriétés.** Soient $f, g : [a,b] \to \mathbb{C}$ en escalier.
@@ -230,13 +230,13 @@ $$\lim_{n\to+\infty} \frac{b-a}{n} \sum_{k=1}^{n} f\left(a + k\frac{b-a}{n}\righ
 
 **Remarque.** Cette somme est l'intégrale de la fonction en escalier $\varphi$ qui vaut $f(a_k)$ sur $]a_k, a_{k+1}[$ pour $0 \le k \le n-1$ (avec $a_k = a + k\frac{b-a}{n}$) : c'est l'aire en bleu ci-dessous (voir point à vérifier 1).
 
-![[Cours/Year 2/Analyse/chp7/medias/Chap7-Integration/image10.png]]
+![[Chap7-Integration - image10.png]]
 *Figure : rectangles bleus de hauteur $f(a_k)$ à l'extrémité gauche de chaque intervalle.*
 
 **Remarque.** On reconnaît la méthode des rectangles : une somme de Riemann approche bien l'intégrale pourvu que le pas soit petit. Même résultat avec
 $$R'_n = \frac{b-a}{n}\sum_{k=1}^{n} f\left(a + k\frac{b-a}{n}\right) \quad \text{(rectangles « à droite »)}.$$
 
-![[Cours/Year 2/Analyse/chp7/medias/Chap7-Integration/image9.png]]
+![[Chap7-Integration - image9.png]]
 *Figure : méthode des rectangles « à droite », la hauteur de chaque rectangle est la valeur de $f$ à son extrémité droite.*
 
 **[[Méthode des trapèzes]].** La somme de Riemann converge vers l'intégrale en $\frac{1}{n}$. Pour plus de précision, on approche $\int_{[a,b]} f$ par
@@ -244,7 +244,7 @@ $$T_n(f) = \frac{b-a}{n} \sum_{k=0}^{n-1} \frac{f(a_k) + f(a_{k+1})}{2}.$$
 Si $f$ est de classe $\mathcal{C}^2$ sur $[a,b]$, l'erreur est en $\frac{1}{n^2}$ :
 $$\left| \int_a^b f(x)\,dx - T_n(f) \right| \le M_2 \frac{(b-a)^3}{12n^2}, \qquad M_2 = \sup_{x \in [a,b]} |f''(x)|.$$
 
-![[Cours/Year 2/Analyse/chp7/medias/Chap7-Integration/image31.png]]
+![[Chap7-Integration - image31.png]]
 *Figure : l'aire sous la courbe découpée en trapèzes dont les sommets sont sur la courbe.*
 
 ## Points à vérifier dans le cours

@@ -46,5 +46,5 @@ donnerait alice, charlie et diana (YouTube ou Facebook) ; avec `&&` au lieu de `
 ## Points à vérifier dans le cours
 
 1. **Données incohérentes** : trois durées ne correspondent pas aux heures (charlie : 10:00 à 10:30 pour « 2h 30m » ; diana : déconnexion avant connexion ; edward : 10:30 à 14:00 pour « 1h 30m »). Probablement voulues, sans effet sur les commandes.
-2. **Domaines différents** : ce fichier écrit `technews.com` et `facebook.com`, la version recopiée dans [[Cours TP5]] `technews.org` et `facebook.org`.
+2. **Mêmes domaines** : ce fichier écrit `technews.com` et `facebook.com`, comme la capture de [[Cours TP5]] (sa transcription automatique lisait `technews.org` et `facebook.org` ; l'image fait foi).
 3. **En-tête et ligne de tirets** : ils sont traités par AWK comme des enregistrements ; l'en-tête ne contient ni « youtube » ni « facebook », donc sans effet ici (complément).

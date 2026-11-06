@@ -35,14 +35,14 @@ Pour tout $e \in E$, les composantes de $\gamma(e)$ sont les **extrémités** (*
 - **[[Graphe simple]]** : $G$ est simple si et seulement s'il n'a **ni boucle ni arête parallèle**.
 - **[[Graphe sous-jacent]]** (*underlying graph*) de $G$ : le graphe simple non orienté $\tilde G = (V, E')$ avec $E' \subseteq V \times V$ et la condition « $\forall (v, v') \in E' \Leftrightarrow v \ne v'$ » (formulation du cours, voir Points à vérifier, 4) : on supprime les boucles et on fusionne les arêtes multiples.
 
-![[Cours/Year 4/graph theory/medias/Chp 1 - Undirected graph/image5.png]]
+![[Chp 1 - Undirected graph - image5.png]]
 *Figure : à gauche, multigraphe sur $v_1, \dots, v_4$ ($e_1 = v_1v_2$ ; $e_2, e_3$ parallèles entre $v_2$ et $v_3$ ; $e_4 = v_2v_4$ ; $e_5 = v_3v_4$ ; boucle $e_6$ sur $v_4$). À droite, son graphe sous-jacent simple : $v_1v_2$, $v_2v_3$, $v_3v_4$, $v_2v_4$.*
 
 ## Matrice d'adjacence
 
 Soit $G = (V, E, \gamma)$, $V = \{v_i\}_{1 \le i \le n}$, $n = \text{card}(V)$. La **[[Matrice d'adjacence|matrice d'adjacence]]** de $G$ est la matrice carrée $M$ d'ordre $n$ telle que $M_{i,j}$ est **le nombre d'arêtes** entre $v_i$ et $v_j$.
 
-![[Cours/Year 4/graph theory/medias/Chp 1 - Undirected graph/image4.png]]
+![[Chp 1 - Undirected graph - image4.png]]
 *Figure : le graphe d'exemple ($e_1$ à $e_6$, mêmes arêtes que ci-dessus) et sa matrice d'adjacence.*
 
 $$M = \begin{bmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 2 & 1 \\ 0 & 2 & 0 & 1 \\ 0 & 1 & 1 & 1 \end{bmatrix}$$
@@ -60,7 +60,7 @@ Soient $G_1 = (V_1, E_1, \gamma_1)$ et $G_2 = (V_2, E_2, \gamma_2)$. Un **isomor
 
 $G_1$ et $G_2$ sont **isomorphes** si et seulement s'il existe un isomorphisme de $G_1$ vers $G_2$. Voir [[Isomorphisme de graphes]].
 
-![[Cours/Year 4/graph theory/medias/Chp 1 - Undirected graph/image7.png]]
+![[Chp 1 - Undirected graph - image7.png]]
 *Figure : exemple de deux graphes isomorphes. À gauche, triangle $v_2v_3v_4$ avec $v_1$ pendant à $v_2$ ; à droite, le même graphe avec des symboles de cartes (trèfle relié au carreau ; carreau, pique, cœur en triangle).*
 
 ## Chaînes
@@ -73,7 +73,7 @@ Une **chaîne** (*chain*) dans $G$ est une suite finie $C = (v_0, e_1, v_1, \ldo
 
 L'entier $p$ est la **longueur** de $C$, notée $\ell(C)$ ; $v_0$ et $v_p$ sont les extrémités de $C$. Voir [[Chaîne (graphe)]].
 
-![[Cours/Year 4/graph theory/medias/Chp 1 - Undirected graph/image17.png]]
+![[Chp 1 - Undirected graph - image17.png]]
 *Figure : le graphe d'exemple, avec $C_1 = (v_2, e_2, v_3, e_3, v_2, e_4, v_4, e_6, v_4)$ en vert et $C_2 = (v_2, e_2, v_3, e_3, v_2, e_4, v_4, e_1, v_1)$ en rouge.*
 
 $C_1$ est une chaîne de longueur 4. $C_2$ n'en est pas une : $e_1$ relie $v_1$ et $v_2$, pas $v_4$ et $v_1$ (voir Points à vérifier, 3).
@@ -129,7 +129,7 @@ On note alors $G = (V_1, V_2, E, \gamma)$.
 
 Note de l'étudiante : « attention, les sous-partitions $V_1$ et $V_2$ doivent avoir minimum 2 nœuds » (voir Points à vérifier, 1).
 
-![[Cours/Year 4/graph theory/medias/Chp 1 - Undirected graph/image3.png]]
+![[Chp 1 - Undirected graph - image3.png]]
 *Figure : $G = (\{v_1, v_3, v_4\}, \{v_2, v_5\}, E, \gamma)$ est biparti (arêtes $v_1v_2$, $v_3v_2$, $v_4v_2$, $v_4v_5$) ; puis les bipartis complets $K_{2,2}$, $K_{2,3}$ et $K_{3,3}$.*
 
 ### Graphe régulier

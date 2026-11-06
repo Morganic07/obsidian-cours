@@ -32,12 +32,12 @@ Tableau du cours, « du moins rapide au plus rapide » :
 | 2 | SAS | 12 Gbps | Serial Attached SCSI |
 | 3 | NVMe | 32 Gbps | Non-Volatile Memory Express |
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 2/image10.png]]
+![[OS - chp 2 - image10.png]]
 *Figure : disque dur Seagate Barracuda ATA IV de 3,5 pouces : connecteur IDE à 40 broches, cavaliers de configuration, connecteur d'alimentation Molex.*
 
 Annotations du dessin : « IDE port » ; « Port for Master or Slave status » (les cavaliers).
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 2/image5.png]]
+![[OS - chp 2 - image5.png]]
 *Figure : cinq supports, du plus grand au plus petit : HDD 2,5" SATA, SSD 2,5" SATA, SSD [[M.2]] SATA, SSD M.2 NVMe, SSD mSATA.*
 
 ## Le disque dur (HDD)
@@ -46,20 +46,20 @@ Annotations du dessin : « IDE port » ; « Port for Master or Slave status » (
 - On grave des points magnétiques sur le disque : un point = 1, pas de point = 0 ([[Numération binaire|binaire]]).
 - Selon la note, le HDD est plus fiable que le SSD : si le disque est abîmé, les données restent lisibles, alors qu'une puce de SSD cassée rend les données irrécupérables. Le plus fiable serait la [[Bande magnétique]] (« utilisée dans les boîtes noires d'avion ») — voir point à vérifier 2.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 2/image7.png]]
+![[OS - chp 2 - image7.png]]
 *Figure : disque dur ouvert : plateau métallique, axe central, bras de lecture et sa tête.*
 
 ## Partitionner le disque dur
 
 - Sous Windows, la [[Partition (disque)|partition]] principale est **C:** ; historiquement, A: et B: étaient réservés aux disquettes.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 2/image6.png]]
+![[OS - chp 2 - image6.png]]
 *Figure : Explorateur Windows avec quatre lecteurs : Win10 (C:), 46,6 Go libres sur 195 ; ENSEA (D:), 22,6 sur 182 ; General (E:), 22,1 sur 97,6 ; Google Drive (G:), 5,92 sur 15.*
 
 - **Disque principal** (*primary drive*) : là où est l'OS (C:).
 - **Disques secondaires** : là où sont les données (D:, E:…).
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 2/image3.png]]
+![[OS - chp 2 - image3.png]]
 *Figure : plateau de disque dur divisé en zones colorées, illustrant le partitionnement.*
 
 - Une couleur = une partition ; « si la partition est endommagée, on parle de [[Secteur défectueux|bad sector]] » (voir point à vérifier 4).

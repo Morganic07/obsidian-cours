@@ -65,7 +65,7 @@ Utilisées par le [[Fauvisme|fauvisme]]. Ce sont **deux couleurs directement opp
 - **couleurs secondaires** : vert, orange, violet ;
 - **couleurs tertiaires** : jaune verdâtre, jaune orangé, rouge orangé, rouge violacé, violet bleuté, vert bleuté.
 
-![[Cours/Year 1/Peinture/Cours/medias/Cours 2/image2.png]]![[Cours/Year 1/Peinture/Cours/medias/Cours 2/image3.png]]
+![[Séance 2 - image2.png]]![[Séance 2 - image3.png]]
 
 *Figure : les six paires de complémentaires et la roue à 12 teintes ; le cercle chromatique de Johannes Itten avec ses couleurs primaires, secondaires et tertiaires.*
 

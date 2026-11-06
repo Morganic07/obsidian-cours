@@ -32,7 +32,7 @@ $$\left| \int_{[a,b]} f \right| = \left| \sum_{i=0}^{n-1} f\!\left(\tfrac{x_i + 
 
 **Preuve.** Par le théorème d'approximation, il existe $\theta$ en escalier telle que $\forall x$, $|f(x) - \theta(x)| \le \frac{\varepsilon}{2}$, soit $\theta(x) - \frac{\varepsilon}{2} \le f(x) \le \theta(x) + \frac{\varepsilon}{2}$. On pose $\varphi = \theta - \frac{\varepsilon}{2}$ et $\psi = \theta + \frac{\varepsilon}{2}$.
 
-![[Cours/Year 2/Analyse/chp7/medias/démonstrations - integration/image6.png]]
+![[démonstrations - integration - image6.png]]
 *Figure : une fonction continue encadrée par une fonction en escalier inférieure (vert) et une supérieure (orange), à $\varepsilon$ près ; en bas, les rectangles des fonctions en escalier $\phi \le f$ et $\phi \ge f$.*
 
 Le document définit au passage, pour $f : [a,b] \to \mathbb{R}$ **bornée quelconque** :
@@ -65,7 +65,7 @@ Vrai pour tout $\varepsilon > 0$, donc $\Delta = 0$. $\square$ (Le document écr
 
 ## 5. Relation de Chasles
 
-**Preuve.** Soit $\varphi \in \mathcal{E}^-_{[a,b]}(f)$. Alors $\varphi_{|[a,c]} \in \mathcal{E}^-_{[a,c]}(f)$ et $\varphi_{|[c,b]} \in \mathcal{E}^-_{[c,b]}(f)$, donc
+**Preuve.** Soit $\varphi \in \mathcal{E}^-_{[a,b]}(f)$. Alors $\varphi_{|[a,c]} \in \mathcal{E}^-_{[a,c]}(f)$ et $\varphi_{|[c,b]} \in A^-_{[c,b]}(f)$ (sic : le cours écrit $A^-$ au lieu de $\mathcal{E}^-$, voir Points à vérifier, 8), donc
 $$\int_{[a,b]} \varphi = \int_{[a,c]} \varphi + \int_{[c,b]} \varphi \le \int_{[a,c]} f + \int_{[c,b]} f.$$
 Ce membre de droite majore $A^-_{[a,b]}(f)$, d'où $\int_{[a,b]} f \le \int_{[a,c]} f + \int_{[c,b]} f$. En appliquant ce résultat à $-f$ (linéarité), on obtient l'inégalité inverse, donc l'égalité. $\square$
 
@@ -147,3 +147,4 @@ Ces points viennent des transcriptions, sans que j'aie ouvert les images. Rien n
 5. **Existence de l'intégrale** : $I^-_{[a,b]}(f)$ doit se lire $A^-_{[a,b]}(f)$.
 6. **Transcriptions** (mentions « À vérifier » reprises) : la fin de la ligne (iii) des fonctions en escalier est coupée sur l'image et complétée par $\int_{[c,b]} f$ ; la dernière ligne de la preuve de l'encadrement est en partie masquée par la figure.
 7. **Sommes de Riemann** : l'avant-dernière majoration est justifiée « car $f$ est lipschitzienne », alors qu'elle vient de $|x - a_k| \le a_{k+1} - a_k$ sur $[a_k, a_{k+1}]$. Cette preuve porte sur la somme à gauche ($k = 0$ à $n-1$), alors que l'énoncé de [[Chap7-Integration]] porte sur $k = 1$ à $n$.
+8. **Relation de Chasles, preuve** : image vérifiée, le cours écrit $\varphi_{|[a,c]} \in \mathcal{E}^-_{[a,c]}(f)$ et $\varphi_{|[c,b]} \in A^-_{[c,b]}(f)$. Le second est sans doute une coquille pour $\mathcal{E}^-_{[c,b]}(f)$ : $A^-$ est un ensemble d'intégrales (des réels), pas de fonctions.

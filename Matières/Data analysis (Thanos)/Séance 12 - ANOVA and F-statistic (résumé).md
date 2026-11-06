@@ -42,7 +42,7 @@ Un scientifique veut savoir si les enfants des écoles A, B et C ont le même QI
 | C | 10 | 93,3 | 160,5 |
 | Total | 30 | 101,7 | 215,5 |
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 12 - ANOVA and F-statistic/image4.png]]
+![[Séance 12 - ANOVA and F-statistic - image4.png]]
 
 *Figure : tableau des résultats et diagramme en barres des QI moyens par école (n = 10 par école).*
 
@@ -50,7 +50,7 @@ Le problème : ces moyennes reposent sur de tout petits échantillons. Les 1 000
 
 ### Trois scénarios théoriques
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 12 - ANOVA and F-statistic/image15.png]]
+![[Séance 12 - ANOVA and F-statistic - image15.png]]
 
 *Figure : histogrammes des QI des trois écoles (1 000 enfants chacune), tous centrés sur 100, pour une variance intra-école de 50, 100 et 500.*
 
@@ -88,7 +88,7 @@ Une **statistique F** est la valeur obtenue par une ANOVA **ou** une analyse de 
 
 La **loi F** ([[Statistique F]]) est une loi de probabilité continue qui apparaît souvent comme loi sous l'hypothèse nulle d'une [[Statistique de test|statistique de test]], surtout en ANOVA. Ses paramètres $d_1, d_2 > 0$ sont des [[Variance et écart-type d'échantillon|degrés de liberté]] (nombre de valeurs libres de varier dans le calcul final d'une statistique).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 12 - ANOVA and F-statistic/image6.png]]
+![[Séance 12 - ANOVA and F-statistic - image6.png]]
 
 *Figure : densité de la loi F avec la zone de rejet $\alpha$ au-delà de $F_{critical}$, et densités pour plusieurs couples $(d_1, d_2)$.*
 
@@ -126,7 +126,7 @@ Trois échantillons de 5 valeurs :
 - échantillon 2 : 10, 3, 7, 2, 6 ;
 - échantillon 3 : 10, 13, 14, 13, 15.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 12 - ANOVA and F-statistic/image3.png]]
+![[Séance 12 - ANOVA and F-statistic - image3.png]]
 
 *Figure : décomposition de la somme totale des carrés en SSW (autour de chaque moyenne d'échantillon), SSB (moyennes d'échantillon autour de la moyenne globale, ×5) et SST (15 valeurs autour de la moyenne globale).*
 
@@ -148,7 +148,7 @@ $$F = F(2, 12) = \frac{101{,}667}{4{,}5} = 22{,}59$$
 
 Dans la table de la loi F, colonne $df_1 = 2$ (numérateur) et ligne $df_2 = 12$ (dénominateur) : **valeur critique = 3,89**. $F = 22{,}59$ tombe dans la région de rejet : on rejette $H_0$.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 12 - ANOVA and F-statistic/image9.png]]
+![[Séance 12 - ANOVA and F-statistic - image9.png]]
 
 *Figure : courbe de la loi F avec la région de rejet au-delà de 3,89 et la position de F = 22,59 ; table des valeurs critiques où l'on lit 3,89 à l'intersection colonne 2 / ligne 12.*
 

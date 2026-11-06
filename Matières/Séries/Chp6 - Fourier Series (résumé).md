@@ -48,7 +48,7 @@ Ce sont les coefficients de Fourier de $f$.
 
 Premières sommes partielles de la série de Fourier d'une fonction créneau (*square wave*) :
 
-![[Cours/Year 3/Séries/medias/Chp6 - Fourier Series/image9.png]]
+![[Chp6 - Fourier Series - image9.png]]
 
 *Figure : sommes partielles $S_1$, $S_3$, $S_5$, $S_7$, $S_{11}$ et $S_{15}$ (en bleu) d'une fonction créneau valant 0 sur $[-\pi, 0[$ et 1 sur $]0, \pi]$ (en rouge).*
 

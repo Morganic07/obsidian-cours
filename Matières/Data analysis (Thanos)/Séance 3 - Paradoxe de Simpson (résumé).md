@@ -21,7 +21,7 @@ On veut traiter une tumeur :
 
 On se dit : « Les médicaments sont meilleurs ! ». Mais si l'on regarde la **taille des tumeurs** :
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 3 - Paradoxe de Simpson/image1.png]]
+![[Séance 3 - Paradoxe de Simpson - image1.png]]
 
 *Figure : tableau à la craie comparant médicaments et chirurgie par taille de tumeur, avec des camemberts réussite (vert) / échec (rouge).*
 

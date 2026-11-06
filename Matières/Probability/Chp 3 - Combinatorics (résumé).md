@@ -14,7 +14,7 @@ Compter les issues d'une expérience, pour calculer $P(A) = |A|/|S|$ dans le cas
 
 ## Arbre de décision du dénombrement
 
-![[Cours/Year 2/Probability/medias/Chp 3 - Combinatorics/image6.jpg]]
+![[Chp 3 - Combinatorics - image6.jpg]]
 *Figure : arbre de décision — pas de sélection (permutation) ou sélection (arrangement si l'échantillon est ordonné, combinaison sinon), chaque feuille distinguant objets distincts et non distincts.*
 
 | Situation | Objets distincts | Non distincts |

@@ -38,7 +38,7 @@ Transparence totale sur l'objectif ; consentement éclairé obtenu, participatio
 
 ## Guide d'entretien
 
-![[Cours/Year 1/Dessein au cube/inégalités alimentaires/medias/Compte rendu/image1.png]]
+![[Compte rendu - image1.png]]
 *Figure : carte mentale du guide d'entretien, centrée sur « Disparités économiques et accès à une alimentation saine ».*
 
 1. **Définitions et perceptions**

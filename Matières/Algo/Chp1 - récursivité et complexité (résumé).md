@@ -19,7 +19,7 @@ Une fonction récursive s'appelle elle-même, et l'on mesure le coût d'un algor
 - **Récursivité directe** : le corps de `A(...)` contient un appel à `A(...)`.
 - **Récursivité indirecte** : `B` appelle `C`, `C` appelle `D`, et `D` rappelle `B`.
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image2.png]]
+![[Chp1 - récursivité et complexité - image2.png]]
 *Figure : récursivité directe (A s'appelle lui-même) et indirecte (cycle B → C → D → B).*
 
 ### Les deux phases
@@ -64,7 +64,7 @@ On code une fonction récursive en deux parties :
 
 La fonction récursive doit avoir des `return` pour pouvoir faire appel à elle-même.
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image15.png]]
+![[Chp1 - récursivité et complexité - image15.png]]
 *Figure : `fact(4)` ; phase de descente jusqu'à la condition terminale `fact(0) ← 1`, puis phase de remontée : `fact(1) ← 1`, `fact(2) ← 2`, `fact(3) ← 6`, `fact(4) ← 24`.*
 
 ### Exemple : somme des premiers entiers
@@ -101,10 +101,10 @@ C'est un emplacement mémoire qui stocke les paramètres, les variables locales 
   - l'adresse de réponse (normalement le bloc du dessous) ;
   - les variables locales de cet appel.
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image6.png]]
+![[Chp1 - récursivité et complexité - image6.png]]
 *Figure : pile des appels de `f` (somme) : empilement de `f(5) → 5 + f(4)` jusqu'à `f(0) → 0`, puis dépilement avec les valeurs renvoyées 0, 1, 3, 6, 10, 15.*
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image12.png]]
+![[Chp1 - récursivité et complexité - image12.png]]
 *Figure : pile de récursion pour la factorielle de 5 : la pile se remplit au fil des appels, puis se vide en renvoyant 1, 1, 2, 6, 24.*
 
 - Quand on arrive au cas de base, le bloc du haut donne sa réponse au bloc du dessous et disparaît.
@@ -160,7 +160,7 @@ else:
 
 ### Classes de complexité
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image14.png]]
+![[Chp1 - récursivité et complexité - image14.png]]
 *Figure : $T(n)$ en fonction de $n$, de la croissance la plus rapide à la plus lente : exponentielle $a^n$, $n^3$, quadratique $n^2$, $n\log n$, $n$, $\log n$.*
 
 On parle de complexité (voir [[Classe de complexité]]) :
@@ -213,7 +213,7 @@ $T(n) = nb - b + c$, donc $O(n)$ (calcul recopié tel quel, voir point à vérif
 
 ### Diviser pour régner
 
-![[Cours/Year 2/Algo/Cours/medias/Chp1 - récursivité et complexité/image3.png]]
+![[Chp1 - récursivité et complexité - image3.png]]
 *Figure : [[Diviser pour régner]] : diviser le problème global en $k$ sous-problèmes de taille moindre, régner en résolvant chacun par la même décomposition récursive jusqu'à des sous-problèmes triviaux, combiner les sous-solutions en une solution globale.*
 
 ### Forme générale et théorème de résolution

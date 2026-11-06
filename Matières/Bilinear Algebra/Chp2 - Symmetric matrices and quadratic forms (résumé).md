@@ -107,12 +107,12 @@ Soit $Q(\mathbf x) = \mathbf x^TA\mathbf x$, $A$ symétrique $2 \times 2$ invers
 
 Si $A$ est diagonale, le graphe est en **position standard** :
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image26.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image26.png]]
 *Figure : ellipse $\frac{x_1^2}{a^2} + \frac{x_2^2}{b^2} = 1$ et hyperbole $\frac{x_1^2}{a^2} - \frac{x_2^2}{b^2} = 1$ ($a > b > 0$), centrées à l'origine, avec les asymptotes de l'hyperbole en pointillés.*
 
 Si $A$ n'est **pas** diagonale, le graphe est **tourné** (*rotated*) par rapport à la position standard :
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image20.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image20.png]]
 *Figure : (a) ellipse $5x_1^2 - 4x_1x_2 + 5x_2^2 = 48$ ; (b) hyperbole $x_1^2 - 8x_1x_2 - 5x_2^2 = 16$, avec les nouveaux axes $y_1$, $y_2$ dans les directions principales.*
 
 Trouver les axes principaux (déterminés par les vecteurs propres de $A$) revient à trouver un nouveau système de coordonnées dans lequel le graphe est en position standard : avec les coordonnées $\mathbf x$, les axes sont $x_1$, $x_2$ ; avec les nouvelles coordonnées $\mathbf y$, ce sont $y_1$, $y_2$.
@@ -121,7 +121,7 @@ Trouver les axes principaux (déterminés par les vecteurs propres de $A$) revie
 
 Si $A$ est $n \times n$, $Q(\mathbf x) = \mathbf x^TA\mathbf x$ est une fonction sur $\mathbb R^n$ qu'on peut représenter : pour chaque $\mathbf x = (x_1, x_2)$, le graphe montre les points $(x_1, x_2, z)$ avec $z = Q(\mathbf x)$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image30.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image30.png]]
 *Figure : (a) $z = 3x_1^2 + 7x_2^2$, cuvette ; (b) $z = 3x_1^2$, gouttière ; (c) $z = 3x_1^2 - 7x_2^2$, selle de cheval ; (d) $z = -3x_1^2 - 7x_2^2$, dôme.*
 
 Selon le cours, les coupes horizontales (coupe 2D parallèle au plan $(x_1, x_2)$) sont : ellipse (graphes 1 et 4), parabole (2), hyperbole (3) (voir « Points à vérifier »).
@@ -134,13 +134,13 @@ Selon le cours, les coupes horizontales (coupe 2D parallèle au plan $(x_1, x_2)
 >
 > Le cours utilise aussi **indéfinie** (*indefinite*) : $Q$ prend des valeurs positives et négatives.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image42.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image42.png]]
 *Figure : définie positive, surface en cuvette au-dessus du plan $x_1x_2$, touchant l'origine.*
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image16.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image16.png]]
 *Figure : définie négative, surface en dôme sous le plan $x_1x_2$, de sommet l'origine.*
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image19.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image19.png]]
 *Figure : indéfinie, surface en selle de cheval passant par l'origine.*
 
 > **Théorème (formes quadratiques et valeurs propres)** : soit $A$ symétrique $n \times n$. La forme $\mathbf x^TA\mathbf x$ est :
@@ -215,7 +215,7 @@ Toute factorisation $A = U\Sigma V^T$ avec $U$, $V$ [[Matrice orthogonale|orthog
 - Les coefficients diagonaux de $\Sigma$ sont les valeurs singulières $\sigma_i = \sqrt{\lambda_i}$.
 - Relations (avec normalisation) : $A\mathbf v_i = \sigma_i\mathbf u_i$ et $A^T\mathbf u_i = \sigma_i\mathbf v_i$ ; le facteur vient de $\|A\mathbf v_i\| = \sigma_i = \|A^T\mathbf u_i\|$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp2 - Symmetric matrices and quadratic forms/image39.png]]
+![[Chp2 - Symmetric matrices and quadratic forms - image39.png]]
 *Figure : schéma $A_{m \times n} = U_{m \times m}\Sigma_{m \times n}V^T_{n \times n}$, avec la diagonale $\sigma_1, \ldots, \sigma_r$ puis des zéros dans $\Sigma$.*
 
 ### La SVD et les quatre sous-espaces

@@ -27,10 +27,10 @@ Point de départ : « l'innovation est partout, il faut juste la constater ». L
 - **L'innovation** : vendre le produit de base (**l'appât**, la machine) à un prix très bas, parfois à perte. La machine ne fonctionne qu'avec les **capsules de la marque, protégées par des brevets**. Le vrai chiffre d'affaires vient des capsules rachetées régulièrement au prix fort (**l'hameçon**).
 - **Effet** : chaque machine vendue rend le client **captif sur le long terme**.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image7.png]]
+![[Douze innovations - image7.png]]
 *Figure : capture d'une offre en ligne, 100 capsules Nespresso à 49,00 € (0,49 € l'unité).*
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image12.png]]
+![[Douze innovations - image12.png]]
 *Figure : capture d'une offre en ligne, machine Nespresso De'Longhi Vertuo POP à 68,60 € (prix conseillé 99,90 €) : la machine coûte à peine plus que 140 capsules.*
 
 Sources de la note : un article sur le modèle *bait and hook* (economy-pedia) et une vidéo YouTube.
@@ -42,7 +42,7 @@ Sources de la note : un article sur le modèle *bait and hook* (economy-pedia) e
 - **L'innovation** : inventée sous sa forme moderne par le pharmacien chinois Hon Lik en **2003**, elle **vaporise un liquide** au lieu de brûler du tabac.
 - Démocratisée à partir des années 2010, elle crée un **marché hybride** entre le sevrage tabagique et la « tech » de consommation courante.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image2.png]]
+![[Douze innovations - image2.png]]
 *Figure : prévalence du vapotage chez les 18-75 ans en France, 2014-2023 (Santé publique France). Le vapotage actuel passe d'environ 6 % (2014) à un minimum d'environ 3,4 % (2016), puis à 8,3 % (2023) ; le vapotage quotidien, d'environ 3 % à 6,1 %.*
 
 Données de l'encadré : en 2023, **41,8 %** des 18-75 ans avaient déjà essayé, **8,3 %** vapotaient, **6,1 %** quotidiennement. En 2021, parmi les vapoteurs quotidiens, 55,5 % fumaient aussi, 43,7 % étaient d'anciens fumeurs, 0,9 % n'avaient jamais fumé.
@@ -56,7 +56,7 @@ Sources : Wikipédia (cigarette électronique), Santé publique France.
 - **L'innovation** : Linus Torvalds crée Git, un contrôle de version **décentralisé** : chaque développeur télécharge **tout l'historique** du projet sur sa machine, peut travailler hors ligne, créer ses propres versions, puis **fusionner** son travail avec celui des autres.
 - C'est une innovation de **procédé** : « le logiciel vendu ne change pas, mais la méthode de travail est révolutionnée ». Utilisé par des dizaines de millions de développeurs.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image9.png]]
+![[Douze innovations - image9.png]]
 *Figure : capture d'un graphe de commits Git d'un projet de l'étudiante : branches `story/7.3` à `story/7.7` fusionnées dans `epic/resistance-erreurs`, elle-même fusionnée dans `main`.*
 
 Source : le livre *Pro Git* (« Une rapide histoire de Git »).
@@ -68,7 +68,7 @@ Source : le livre *Pro Git* (« Une rapide histoire de Git »).
 - **L'innovation** (format démocratisé et standardisé par Mapbox vers les années 2010, selon la note) : découper les données en **une myriade de petites tuiles autonomes**, faites de points et de lignes. Le téléphone ne charge que les tuiles de la zone regardée.
 - Le produit final (la carte) est le même ; c'est la façon de la fabriquer et de l'acheminer qui change, ce qui supprime des goulots d'étranglement du web.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image11.png]]
+![[Douze innovations - image11.png]]
 *Figure : trois couches superposées d'une même zone urbaine — monde réel (photo aérienne), vectoriel (formes nettes), raster (pixels).*
 
 Voir [[Image matricielle et vectorielle]]. Source : Wikipédia (*Vector tiles*).
@@ -108,7 +108,7 @@ Chiffres de l'infographie « Le drive en France en 2023 » (communiqué des 20 a
 - **L'innovation** : intégrer un **micro-ordinateur sécurisé** directement dans le plastique.
 - Une fois la technologie éprouvée et les brevets démocratisés (années 1990), toutes les banques l'adoptent.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image5.png]]
+![[Douze innovations - image5.png]]
 *Figure : schéma d'une interface sans contact (redresseur et limiteurs de tension, Power-On-Reset, récupération d'horloge, modulateur, démodulateur, antenne LC) reliée aux contacts de la puce : C1 VCC, C2 RST, C3 CLK, C5 GND, C7 I/O (C4, C6, C8 non connectés).*
 
 Sources : une vidéo YouTube, Wikipédia (carte à puce).
@@ -128,7 +128,7 @@ Sources : une vidéo YouTube, Wikipédia (carte à puce).
 - **La tendance** : délocaliser les usines. Le modèle s'est d'abord développé dans l'informatique, puis dans tous les secteurs.
 - **Nike** a sous-traité **100 % de sa production** à un réseau de fournisseurs externes, notamment en Asie (Bangladesh, Vietnam…), pour se concentrer sur ce qui crée le plus de valeur : **le design des chaussures et le marketing**.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image10.png]]
+![[Douze innovations - image10.png]]
 *Figure : carte du monde centrée sur le logo Nike, reliée par des lignes à des marqueurs rouges (surtout Asie, Amérique latine, Europe de l'Est et du Sud) et verts (Amérique du Nord, Brésil, Australie, Europe de l'Ouest…) ; la légende des couleurs n'est pas donnée.*
 
 Source : une vidéo YouTube.
@@ -140,7 +140,7 @@ Source : une vidéo YouTube.
 - **L'innovation** : capitaliser sur la **proximité**. Le facteur livre du **lien social** : la famille paie un **abonnement** pour que le facteur discute avec une personne âgée isolée, vérifie que tout va bien et envoie un compte rendu aux enfants.
 - On passe de la distribution de courrier à un **service d'assistance à la personne** (voir [[Design de services]]).
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image1.png]]
+![[Douze innovations - image1.png]]
 *Figure : visuel du service « Veiller sur mes parents », quatre personnes âgées souriantes à côté du logo.*
 
 Source : site du groupe La Poste.
@@ -152,7 +152,7 @@ Source : site du groupe La Poste.
 - **Effet** : son intérêt bascule ; il faut fabriquer le pneu **le plus durable possible** pour maximiser sa marge sur la prestation. D'où des pneus premium et le refus de l'obsolescence programmée.
 - Michelin n'a pas inventé ce modèle, mais en est devenu un « cas d'école ». Le détail des acteurs est dans [[Analyse d'innovations (résumé)]].
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image6.png]]
+![[Douze innovations - image6.png]]
 *Figure : photo d'un pneu Michelin Pilot Sport sur un circuit.*
 
 Source : une vidéo YouTube.
@@ -163,7 +163,7 @@ Source : une vidéo YouTube.
 - **L'innovation porte sur qui décide** : les **consommateurs votent en ligne** le [[Cahier des charges|cahier des charges]] d'un produit (qualité, bien-être animal) et fixent un prix qui garantit une **juste rémunération** à l'éleveur.
 - Même esprit : les **supermarchés coopératifs**, dont les clients sont propriétaires et donnent de leur temps pour les gérer.
 
-![[Cours/Year 4/management de l'innovationb/medias/innovations - Morgane Pina/image3.jpg]]
+![[Douze innovations - image3.jpg]]
 *Figure : yaourts nature et brique de lait « C'est qui le patron ?! », prix conseillés votés par les consommateurs (2,43 € et 1,27 €) et deux bulles « +3,24 €/an » et « +4,95 €/an » (sens non précisé, voir Points à vérifier, 5).*
 
 Source : site de la démarche « C'est qui le patron ?! ».

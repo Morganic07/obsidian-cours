@@ -26,7 +26,7 @@ Résumé de [[Topo ELBA|Topo ELBA]], dans [[Projet design (Year 1) (matière)]].
 - *Smarter* : inspirée par l'intelligence de la biodiversité et ses pouvoirs naturellement régénératifs, une approche fondée sur la recherche pour comprendre les structures de la nature.
 - *Collaborative* : l'abeille est le symbole. « What bees do for biodiversity, Melvita intends to do for the planet – and your skin », complété à la main par l'équipe : « and for humans ».
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image19.png]]
+![[Topo ELBA - image19.png]]
 *Figure : diapositive « Our vision » de Melvita, paysage de gorges ardéchoises au lever du soleil et passages soulignés en rose par l'équipe.*
 
 **Engagements** (*commitments*) :
@@ -53,7 +53,7 @@ Une échelle à quatre niveaux, du bas vers le haut :
 | **Groupe de JE** : divertissement | individuelle | **[[Design d'expérience\|design d'expériences]]** : culture du divertissement (désir et pulsion, mécanisme de réaction) |
 | **JE individuel**, seul | individualisme | **[[Design produit\|design produit]]** : culture transactionnelle (image et positionnement, mécanisme de possession) |
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image17.png]]
+![[Topo ELBA - image17.png]]
 *Figure : « Vers le modèle régénératif », échelle à quatre niveaux du design produit au design régénératif, avec une flèche montante.*
 
 **Définition du régénératif** : le régénératif est « l'après design services ».
@@ -94,14 +94,14 @@ Les espaces de vente s'immergent dans la nature, comme pour signaler une non-sé
 
 Exemples : Gucci Blooming Shanghai (incursion de nature, expérience de l'éclosion) ; Braun Büffel (magasin conçu autour de la respiration) ; Lotte Department Store Dongnae (retail de contemplation, immersion *wellness*) ; café Lacoste à Berlin (idée du kraft, de la manufacture artisanale) ; Green Pea Milan (structure éco-responsable, immersion nature et lumière naturelle) ; Selfridges.
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image18.png]]
+![[Topo ELBA - image18.png]]
 *Figure : collage de commerces intégrant la nature (plafond végétalisé, toits verts, jardin d'entrée, couloir d'herbes).*
 
 ### Soft skills retail : du divertissement à l'apprentissage
 
 Le retail devient un espace d'apprentissage plutôt que d'expérience : création, créativité, *learning*, développement des *soft skills* (espaces Lego, Everyday Dreamers, ateliers découverte du V&A Museum, *hang out hubs*, merchandising cohérent avec le développement cognitif plutôt que la marchandisation). Des espaces pour apprendre, développer ses compétences écologiques et passer à l'action deviennent aussi centraux : Patagonia, *Home of tomorrow* par Ikea.
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image2.png]]
+![[Topo ELBA - image2.png]]
 *Figure : collage d'espaces d'apprentissage (coin enfants de l'aéroport de Genève, mur Lego Everyday Dreamers, atelier enfants du V&A, cuisine Home of tomorrow d'Ikea, espaces Patagonia).*
 
 ### Equilibrium / retail symbiotique
@@ -110,28 +110,28 @@ Le retail devient un espace d'apprentissage plutôt que d'expérience : créatio
 - **Circularité** : des espaces de récupération et de réemploi, le retail devenant un lieu de [[Économie circulaire|circularité]] du produit (Nudie et ses réparations gratuites, l'atelier Freitag dans le processus de vente).
 - **Symbiotique** : des aménagements retail et urbains qui soutiennent le vivant (hôtels à insectes, mobilier Vestre pour la biodiversité).
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image16.png]]
+![[Topo ELBA - image16.png]]
 *Figure : collage (luminaires solaires Sunne, jardinières avec hôtels à insectes Vestre, atelier Freitag, « Free Repairs » de Nudie, vitrines lumineuses).*
 
 ### In store supply chain : *from… to*
 
 Le concept *from farmers to store* (restaurant La Doyenné) s'installe dans le retail, devenu le circuit le plus abouti, court et circulaire : [[Ferme verticale|fermes verticales]] et serres intégrées aux supermarchés (Tesco, Walmart), production à la demande (Sozo), impression 3D (essai chez Selfridges), système circulaire énergie-eau-nourriture (*The Dutch Biotope*), ferme hydroponique éphémère à Covent Garden.
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image5.png]]
+![[Topo ELBA - image5.png]]
 *Figure : ferme hydroponique intérieure, tour de cultures empilées, boucles d'oreilles imprimées en 3D, ferme de La Doyenné, boutique Sozo.*
 
 ### Engagements
 
 La sélection, le processus, les espaces : tout est pensé pour un shopping responsable. La sélection devient plus exigeante, transparente et engageante, avec processus mis en avant, empreinte calculée, labels, espaces de circularité ; même le bio évolue (*regenerative organic*). Exemples : Censuum au Danemark (seulement des marques, procédés et matériaux durables) ; Hive (produits bas carbone, ticket avec empreinte) ; espace seconde main Depop chez Selfridges ; engagement global de Selfridges (vitrines pédagogiques, label, sélection, espaces *reuse-recycle*, « Project Earth »).
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image8.png]]
+![[Topo ELBA - image8.png]]
 *Figure : collage de visuels d'enseignes engagées (Censuum, Hive, Depop chez Selfridges, Project Earth, British Makers).*
 
 ### Shop in box / nomadisme créatif
 
 Repenser la vente par la *box* : self-service robotisé, autonomie, proximité. Conteneur déplaçable (Boxy), box de produits frais (Farmers Box), box ouverte 24 h/24 en Chine (BingoBox), pop-up standardisé (Jentle Home), conception nomade (imprimante 3D de Klarna), consignes urbaines (Posti). Le magasin s'efface au profit de la proximité, de la livraison et du *take away*.
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image13.png]]
+![[Topo ELBA - image13.png]]
 *Figure : conteneur Boxy, BingoBox, boutique Jentle Home, modules 3D Klarna, casiers Farmers Box et consignes Posti.*
 
 ## 5. Les points clés d'une stratégie à impacts prospectifs
@@ -145,7 +145,7 @@ Exemples :
 - à Londres, le bâtiment Bunhill 2 Energy capte la chaleur du métro pour chauffer 1 000 bâtiments ;
 - le partenariat Volvo-Starbucks : un réseau pilote de recharge de 1 350 miles, de Seattle à Denver, jusqu'à 15 sites et 60 chargeurs rapides, pour des « parcours électrique et café ».
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image4.png]]
+![[Topo ELBA - image4.png]]
 *Figure : panneaux solaires sur un toit Ikea, bâtiment Bunhill 2 Energy, carte du réseau pilote Volvo-Starbucks, café Starbucks avec borne de recharge.*
 
 ### E. Revenir à la source : produit sans déchet
@@ -158,7 +158,7 @@ Ne pas faire de déchets sera clé : penser le produit dans tous ses impacts et 
 
 **Réenvisager le sourcing dans une optique d'impact régénérateur** devient la base du processus et le premier engagement de la marque, entre elle, son produit, le client et la terre. Exemples : Forust (bois imprimé en 3D à partir de déchets de bois), collection botanique Lego en plastique végétal, Cyrkl (plateforme d'échange de déchets industriels), Photanol (cyanobactéries qui transforment le CO₂ en composés carbonés).
 
-![[Cours/Year 1/Projet design/ELBA/medias/Topo ELBA/image12.png]]
+![[Topo ELBA - image12.png]]
 *Figure : bols en bois imprimés en 3D, Lego en plastique végétal, sacs de déchets industriels, cultures de cyanobactéries.*
 
 Voir aussi [[Écoconception]], [[Biomimétisme]].
@@ -179,7 +179,7 @@ Suite : [[exposé melvita (résumé)|exposé melvita (résumé)]].
 
 ## Points à vérifier
 
-- **Légendes illisibles** (mentions « À vérifier » de la note) : légendes du café Lacoste et de Green Pea coupées ; petites légendes d'Everyday Dreamers, du V&A et du panneau Patagonia ; légende centrale de l'equilibrium (« Looop by H&M » ?) ; « COURTESIE » sous Sozo ; « Censum / Censuum » ; panneau Project Earth ; légende Ikea (« b-villages aux plontours ») ; légendes de la diapositive « produit sans déchet » (« Une », « biosines », « surpuissance »).
-- **Fautes recopiées** dans les diapositives : « bases on », « 4,37tons », « QU'ELLE EST », « QUELLE LIEN », « du produits », « EXUSTE », « VOSU », « ASSAYER », « CHERCHER PAS », « recup », « SYBIOTIQUE », « suporte », « somerciaux », « Freintag », « cirularité », « aboutit », « supermarché », « Wallmart », « superarché », « conditionneur », « prêt à frais », « normade », « ephémères », « Melvia » (titre des leviers). Cette fiche écrit les noms de marques et de lieux sous leur forme usuelle.
+- **Légendes illisibles** (mentions « À vérifier » de la note) : légendes du café Lacoste et de Green Pea coupées ; petites légendes d'Everyday Dreamers, du V&A et du panneau Patagonia ; légende centrale de l'equilibrium (« Looop by H&M » ?) ; « COURTESIE » sous Sozo ; panneau Project Earth ; légende Ikea (« b-villages aux plontours ») ; légendes de la diapositive « produit sans déchet » (« Une », « biosines », « surpuissance »).
+- **Fautes recopiées** dans les diapositives : « bases on », « 4,37tons », « QU'ELLE EST », « QUELLE LIEN », « du produits », « EXUSTE », « VOSU », « ASSAYER », « CHERCHER PAS », « recup », « SYBIOTIQUE », « suporte », « somerciaux », « Freintag », « cirularité », « aboutit », « supermarché », « Wallmart », « superarché », « conditionneur », « prêt à frais », « normade », « ephémères », « Melvia » (titre des leviers), « empriente » (raison d'être : le cours écrit « cultiver l'empriente positive des marques », vérifié sur l'image). Cette fiche écrit les noms de marques et de lieux sous leur forme usuelle.
 - **Chiffre déchet** : « 1,2 million d'euros d'économies et 121 tonnes de CO₂ évitées » est donné sans source ni contexte (quelle entreprise, quelle taille).
 - **Classement des niveaux** : la diapositive attribue la « conscience individuelle » à la fois au niveau « JE » et au « groupe de JE » (libellés *Individual consciousness* et *Individual*).

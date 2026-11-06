@@ -21,7 +21,7 @@ Voir [[Modèle déterministe et probabiliste]].
 
 Les modèles probabilistes se divisent en **modèles de régression** et **modèles de corrélation**.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 9 - Covariance and Correlation/image13.png]]
+![[Séance 9 - Covariance and Correlation - image13.png]]
 
 *Figure : les modèles probabilistes, divisés en modèles de régression et de corrélation.*
 
@@ -144,7 +144,7 @@ $$r = \frac{\text{cov}(x, y)}{\sqrt{\text{var } x}\,\sqrt{\text{var } y}} = \fra
 
 $$SS_{xx} = \sum x^2 - \frac{(\sum x)^2}{n} \qquad SS_{yy} = \sum y^2 - \frac{(\sum y)^2}{n} \qquad SS_{xy} = \sum xy - \frac{(\sum x)(\sum y)}{n}$$
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 9 - Covariance and Correlation/image25.png]]
+![[Séance 9 - Covariance and Correlation - image25.png]]
 
 *Figure : six nuages de points avec leur coefficient : $r = -1$, $-0{,}6$, $0$ (nuage dispersé), $+1$, $+0{,}3$, $0$ (points alignés sur une horizontale).*
 
@@ -172,7 +172,7 @@ Voir [[Coefficient de corrélation de Spearman]].
 - Il évalue à quel point la relation entre deux variables peut être décrite par une **fonction monotone**.
 - À retenir : il évalue une relation monotone entre deux variables **continues ou ordinales**, et **repose sur les rangs** de chaque variable plutôt que sur les données brutes.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 9 - Covariance and Correlation/image10.png]]
+![[Séance 9 - Covariance and Correlation - image10.png]]
 
 *Figure : une fonction monotone croissante, une fonction monotone décroissante, et une fonction non monotone.*
 
@@ -215,7 +215,7 @@ $$\rho = \frac{\sum_i (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_i (x_i - \bar{x
 - Passer à Spearman ne fait aucun mal même si les données sont parfaitement linéaires.
 - Mais si elles ne le sont pas exactement et qu'on utilise Pearson, on perd l'information que Spearman aurait captée.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 9 - Covariance and Correlation/image6.png]]
+![[Séance 9 - Covariance and Correlation - image6.png]]
 
 *Figure : cinq nuages de points et leurs coefficients de Pearson et de Spearman.*
 

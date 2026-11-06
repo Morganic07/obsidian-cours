@@ -20,7 +20,7 @@ Arbres et forêts, arbre couvrant, et recherche d'un arbre couvrant de poids min
 - Tout arbre est un [[Graphe simple|graphe simple]].
 - Toute [[Chaîne (graphe)|chaîne élémentaire]] est un arbre.
 
-![[Cours/Year 4/graph theory/medias/Chp2 - tree/image2.png]]
+![[Chp2 - tree - image2.png]]
 *Figure : trois exemples d'arbres — une chaîne élémentaire de 4 sommets alignés ; une étoile (un sommet central relié à 3 feuilles) ; deux sommets internes reliés entre eux, portant 2 et 3 feuilles.*
 
 ## Forêt et pont
@@ -43,7 +43,7 @@ Note de l'étudiante : un arbre couvrant de $G$ reprend **tous les nœuds** de $
 
 *Preuve du cours* : soit $G$ fini ; tant qu'il reste des arêtes qui ne sont pas des ponts, on en retire une ; le processus termine parce que $E$ est fini (voir Points à vérifier, 4).
 
-![[Cours/Year 4/graph theory/medias/Chp2 - tree/image9.png]]
+![[Chp2 - tree - image9.png]]
 *Figure (« FIG. 2.15 ») : un graphe complet sur a, b, c, d (a–b 2, a–c 6, a–d 3, b–c 3, b–d 7, c–d 1) et un arbre couvrant de coût minimum 6 (a–b 2, b–c 3, c–d 1).*
 
 ## Graphe pondéré et arbre couvrant minimal
@@ -70,7 +70,7 @@ $$w(T) = \sum_{e \in E'} w(e).$$
 | Bordeaux – Perpignan | 451 |
 | Nice – Perpignan | 476 |
 
-![[Cours/Year 4/graph theory/medias/Chp2 - tree/image3.png]]
+![[Chp2 - tree - image3.png]]
 *Figure : le graphe $G$ des sept villes, puis un arbre couvrant minimal : Paris relié à Lille (222), Strasbourg (490), Brest (596) et Bordeaux (583) ; Bordeaux – Perpignan (451) ; Perpignan – Nice (476).*
 
 ## Trouver un arbre couvrant minimal

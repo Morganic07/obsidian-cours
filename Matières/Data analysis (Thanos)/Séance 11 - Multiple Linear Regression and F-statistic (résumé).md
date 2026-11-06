@@ -60,7 +60,7 @@ $$F = \frac{\text{variance des moyennes de groupes (Mean Square Between)}}{\text
 
 La prédiction ponctuelle est la même pour les deux, mais l'incertitude ([[Intervalle de confiance|intervalle]]) est bien plus grande pour l'individu.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image8.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image8.png]]
 
 *Figure : à $x_P$, la prédiction $\hat{y}$ (droite estimée), la moyenne $E(y)$ (droite de population) et la valeur individuelle.*
 
@@ -75,7 +75,7 @@ Explications de la note :
 
 Les droites de deux échantillons se croisent en $(\bar{x}, \bar{y})$ ; leur écart est plus grand en $x_2$ (loin de $\bar{x}$) qu'en $x_1$ (près de $\bar{x}$). Cela vient de la variabilité des pentes estimées.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image4.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image4.png]]
 
 *Figure : deux droites d'échantillon qui se croisent en $(\bar{x}, \bar{y})$ et s'écartent loin de la moyenne.*
 
@@ -85,7 +85,7 @@ Pour la valeur moyenne de $y$ en $x = x_p$ :
 
 $$\hat{y} \pm t_{\alpha/2}\, s \sqrt{\frac{1}{n} + \frac{(x_p - \bar{x})^2}{SS_{xx}}}, \qquad df = n - 2$$
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image25.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image25.png]]
 
 *Figure : la valeur moyenne $E(y)$ en $x_p$, cible de l'intervalle de confiance.*
 
@@ -110,7 +110,7 @@ $$\hat{y} \pm t_{\alpha/2}\, s \sqrt{\mathbf{1} + \frac{1}{n} + \frac{(x_p - \ba
 
 Le **1** (mis en évidence sur la diapositive) ajoute l'erreur aléatoire $\varepsilon$ entre la moyenne attendue et la valeur qu'on cherche à prédire.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image24.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image24.png]]
 
 *Figure : la valeur à prédire (cible) s'écarte de la moyenne attendue de $\varepsilon$.*
 
@@ -122,7 +122,7 @@ La diapositive écrit « $4{,}897 \leq y_4 \leq 0{,}503$ » ; les bornes sont in
 
 ### Intervalle de confiance contre intervalle de prédiction
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image3.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image3.png]]
 
 *Figure : la droite de régression encadrée par les limites de confiance (proches) et les limites de prédiction (plus éloignées).*
 
@@ -151,7 +151,7 @@ On estime les paramètres par les [[Moindres carrés|moindres carrés]], c'est-�
 
 $$MSE = \frac{1}{n}\sum_{i=1}^{n}\left(Y_i - \hat{Y}_i\right)^2 = \frac{1}{n}\sum_{i=1}^{n}\left(Y_i - \hat{\beta}_0 - \hat{\beta}_1 X_1 - \cdots - \hat{\beta}_p X_p\right)^2$$
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 11 - Multiple Linear Regression and F-statistic/image2.png]]
+![[Séance 11 - Multiple Linear Regression and F-statistic - image2.png]]
 
 *Figure : nuage de points en 3D ($Y$, $X_1$, $X_2$) et plan de régression ; les segments verticaux sont les résidus.*
 

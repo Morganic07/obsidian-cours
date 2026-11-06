@@ -68,7 +68,7 @@ $$E[h(X, Y)] = E[g_1(X) \cdot g_2(Y)] = E[g_1(X)] \cdot E[g_2(Y)]$$
 **Définition.** La **[[Covariance et corrélation|covariance]]** de $X$ et $Y$ est
 $$\mathrm{Cov}(X, Y) = E[(X - \mu_X)(Y - \mu_Y)] = \begin{cases} \displaystyle\sum_x \sum_y (x - \mu_X)(y - \mu_Y)\, p(x, y) & \text{discret} \\ \displaystyle\iint (x - \mu_X)(y - \mu_Y)\, f(x, y)\,dx\,dy & \text{continu} \end{cases}$$
 
-![[Cours/Year 2/Probability/medias/Chp 6 - Joint probability distributions/image17.png]]
+![[Chp 6 - Joint probability distributions - image17.png]]
 *Figure : trois nuages de dix points équiprobables ($p(x, y) = 0{,}10$), découpés en quadrants par $\mu_X$ et $\mu_Y$ (produits $+$ en bas à gauche et en haut à droite, $-$ ailleurs) — (a) covariance positive, (b) covariance négative, (c) covariance proche de zéro.*
 
 **Proposition.** Pour toutes variables $X$ et $Y$ :

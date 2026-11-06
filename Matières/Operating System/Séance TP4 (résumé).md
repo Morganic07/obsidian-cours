@@ -105,7 +105,7 @@ Par défaut, cron ne permet pas de lancer une tâche toutes les X secondes : l'i
 2. à la fin du fichier ouvert dans l'éditeur, ajouter la ligne de la tâche ;
 3. sauvegarder et fermer : la tâche est planifiée.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/Cours TP4/image1.png]]
+![[Séance TP4 - image1.png]]
 *Figure : crontab ouverte dans [[Éditeur nano|GNU nano]] 7.2 : les commentaires d'aide (champs m h dom mon dow command, exemple `0 5 * * 1 tar -zcf /var/backups/home.tgz /home/`), puis la tâche ajoutée `* * * * * cp /home/momo/data/temperature.txt /home/momo/backup/temperature.txt` (copie chaque minute).*
 
 Les commentaires de la crontab rappellent aussi que les tâches suivent l'heure et le fuseau du démon cron, et que leur sortie (erreurs comprises) est envoyée par mail au propriétaire de la crontab, sauf redirection.

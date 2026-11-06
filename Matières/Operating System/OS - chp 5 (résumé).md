@@ -24,7 +24,7 @@ Premières commandes [[Linux]] : le shell, `cat`, les permissions, les éditeurs
 
 Voir les shells supportés : `cat /etc/shells` ([[Fichier shells]]).
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 5/image1.png]]
+![[OS - chp 5 - image1.png]]
 *Figure : sortie de `cat /etc/shells` : `/bin/sh`, `/usr/bin/sh`, `/bin/bash`, `/usr/bin/bash`, `/bin/rbash`, `/usr/bin/rbash`, `/bin/dash`, `/usr/bin/dash`.*
 
 La commande renvoie la liste des shells installés. Ceux de `/bin/` sont essentiels au lancement de l'OS, ceux de `/usr/bin/` non essentiels ; un shell installé en plus va dans `/usr/bin` (voir [[Arborescence des répertoires Linux]]).
@@ -65,7 +65,7 @@ Supprimer un fichier : `rm filename.ext` (*remove*, [[Commande rm]]).
 - **Date et heure** de dernière modification ;
 - **Nom** du fichier ou du répertoire.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 5/image3.png]]
+![[OS - chp 5 - image3.png]]
 *Figure : sortie de `ls -l` : trois répertoires `drwxr-x--x` (C, Cybotic, OperatingSystem) appartenant à momo, et un fichier `-rw-r--r--` `fichiertest.sh` appartenant à root.*
 
 ### Valeurs octales

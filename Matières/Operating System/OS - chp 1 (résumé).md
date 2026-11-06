@@ -16,10 +16,10 @@ Introduction : matériel d'un ordinateur, rôle du [[Système d'exploitation]], 
 
 Tous les ordinateurs ont le même squelette, serveur ou PC : seule la taille change.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image4.jpg]]
+![[OS - chp 1 - image4.jpg]]
 *Figure : composants d'une [[Carte mère]] : slots d'extension (carte graphique, carte son), connecteurs d'entrée/sortie, socket du CPU, puces North Bridge et South Bridge, slots des barrettes [[Mémoire vive|RAM]], pile CMOS.*
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image6.png]]
+![[OS - chp 1 - image6.png]]
 *Figure : carte mère MSI MAG B660 Tomahawk vue de dessus : socket du processeur au centre, quatre slots DIMM à droite, slots PCIe, emplacements M.2 sous dissipateurs, pile BAT1.*
 
 Repères sur la carte mère :
@@ -30,7 +30,7 @@ Repères sur la carte mère :
 
 **Architecture d'un serveur** : deux alimentations (« batteries » dans la note) ; si l'une tombe, l'autre prend le relais.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image7.png]]
+![[OS - chp 1 - image7.png]]
 *Figure : serveur Dell en rack ouvert : dissipateur du processeur, barrettes mémoire, emplacement CPU2, rangée de ventilateurs, alimentation, baies de disques.*
 
 ## Processeurs, cœurs et *hyperthreading*
@@ -46,7 +46,7 @@ Il **met aussi en relation** les composants de l'ordinateur ([[Disque dur]], mé
 - **Cœur** (*core*) : unité qui lit et exécute des instructions ; un cœur = une tâche à la fois ; multicœur = plusieurs tâches ([[Cœur de processeur]]).
 - **Multithreading / [[Hyperthreading]]** : transforme les cœurs physiques en plusieurs cœurs virtuels, pour qu'un seul cœur physique exécute plusieurs tâches en parallèle. Seules certaines applications en ont besoin : jeux vidéo, montage vidéo, pas YouTube ni Google.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image5.png]]
+![[OS - chp 1 - image5.png]]
 *Figure : processeur à 4 cœurs, chacun divisé en deux [[Thread|threads]] (8 threads au total).*
 
 ## Qu'est-ce qu'un système d'exploitation ?
@@ -60,7 +60,7 @@ Autrefois les OS étaient en [[Interface en ligne de commande|CLI]] (*command li
 
 ## Structure d'un système informatique (*Computer system structure*)
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image12.png]]
+![[OS - chp 1 - image12.png]]
 *Figure : quatre couches reliées par des flèches bidirectionnelles : user, application programs (compilateurs, navigateurs, kits de développement), operating system, computer hardware (CPU, mémoire, périphériques d'E/S).*
 
 - **Matériel** : fournit les ressources de calcul de base.
@@ -72,7 +72,7 @@ Autrefois les OS étaient en [[Interface en ligne de commande|CLI]] (*command li
 
 Les bus sont des circuits de la carte mère qui relient le CPU aux autres composants. Trois bus forment ensemble le **[[Bus système]]** (*system bus*) :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image2.png]]
+![[OS - chp 1 - image2.png]]
 *Figure : Data Bus, Address Bus et Control Bus réunis forment le System Bus.*
 
 | Bus | Rôle | Sens |
@@ -81,7 +81,7 @@ Les bus sont des circuits de la carte mère qui relient le CPU aux autres compos
 | *Address bus* | envoie des signaux du CPU vers la mémoire principale | unidirectionnel |
 | *Control bus* | envoie des signaux de contrôle entre composants (horloge, demandes d'[[Interruption\|interruption]]…) | bidirectionnel |
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image3.png]]
+![[OS - chp 1 - image3.png]]
 *Figure : CPU, contrôleur de disque (disques), contrôleur USB (souris, clavier, imprimante) et adaptateur graphique (moniteur) reliés à la mémoire par un bus système commun.*
 
 - **CPU** : cerveau de l'ordinateur ; exécute les instructions, traite les données, communique avec les périphériques par le bus système.
@@ -132,7 +132,7 @@ Un dessin illustre ce passage ; seuls ses mots subsistent dans la note : RAM, *D
 
 ## Structure de stockage
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image16.png]]
+![[OS - chp 1 - image16.png]]
 *Figure : [[Hiérarchie de stockage]] en pyramide : registres, cache, mémoire principale (stockage volatil, primaire), mémoire non volatile, disques durs (secondaire), disque optique, bandes magnétiques (tertiaire). Capacité croissante et temps d'accès croissant vers le bas.*
 
 Annotation de l'étudiante sur le dessin : « Located in the CPU » (voir point à vérifier 1).
@@ -149,7 +149,7 @@ Voir [[Mémoire volatile et non volatile]].
 
 Section marquée « A COMPRENDRE » par l'étudiante.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image10.png]]
+![[OS - chp 1 - image10.png]]
 *Figure : le CPU (thread d'exécution, cache) échange instructions et données avec la mémoire ; il envoie une requête d'E/S à un périphérique, qui renvoie des données et une interruption ; le périphérique accède aussi directement à la mémoire par DMA.*
 
 Une [[Opération d'entrée-sortie]] suit trois temps :
@@ -168,7 +168,7 @@ On classe les systèmes selon le nombre de CPU.
   - **multiprocesseur symétrique** (SMP) : chaque processeur traite un travail à la fois ;
   - **multiprocesseur asymétrique** : le processeur maître donne des tâches précises à ses esclaves.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image8.png]]
+![[OS - chp 1 - image8.png]]
 *Figure : à gauche, multiprocesseur symétrique (CPU 1 à 3 reliés à un même ensemble de processus P1 à P3) ; à droite, asymétrique (un maître relié à trois esclaves, chacun traitant un processus).*
 
 - **[[Système en grappe (cluster)|Systèmes en grappe]]** (*clustered systems*) : data center, groupe d'ordinateurs.
@@ -182,14 +182,14 @@ On classe les systèmes selon le nombre de CPU.
 
 ## Environnements informatiques (*Computing environments*)
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image13.png]]
+![[OS - chp 1 - image13.png]]
 *Figure : trois couches empilées : processes, kernel, hardware.*
 
 - **Environnement traditionnel** : machine autonome à usage général (PC, portable). Le [[Noyau]] (*kernel*) est le cœur de l'OS.
 - **Environnement mobile** : machine autonome à usage général (smartphones). Différences : riche en capteurs (GPS, gyroscope…), nouveaux types d'applications (réalité augmentée…), données cellulaires ; leaders : iOS et Android.
 - **Environnement virtuel** :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image9.png]]
+![[OS - chp 1 - image9.png]]
 *Figure : le matériel porte le gestionnaire de machines virtuelles (VMM), qui porte trois VM, chacune avec son noyau et ses processus.*
 
 Le VMM ([[Machine virtuelle]], *virtual machine manager*) crée plusieurs PC virtuels. Deux types :
@@ -198,7 +198,7 @@ Le VMM ([[Machine virtuelle]], *virtual machine manager*) crée plusieurs PC vir
 
 - **Client-serveur** ([[Modèle client-serveur]]) :
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image11.png]]
+![[OS - chp 1 - image11.png]]
 *Figure : un serveur relié par un réseau à trois clients (ordinateur de bureau, portable, smartphone).*
 
 Deux types :
@@ -209,7 +209,7 @@ Deux types :
 
 ## Systèmes distribués
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp 1/image1.png]]
+![[OS - chp 1 - image1.png]]
 *Figure : diapositive « Distributed Systems » : réseau de centre de données en arbre (core switches, aggregate switches, ToR switches au-dessus des racks de serveurs).*
 
 - **[[Système distribué]]** : ensemble de systèmes séparés, éventuellement hétérogènes, reliés en réseau.

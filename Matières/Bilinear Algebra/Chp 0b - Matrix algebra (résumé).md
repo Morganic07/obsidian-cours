@@ -20,7 +20,7 @@ $$A = \begin{bmatrix} a_{11} & \cdots & a_{1j} & \cdots & a_{1n} \\ \vdots & & \
 
 - **[[Matrice diagonale]]** (*diagonal matrix*) : matrice carrée dont tous les coefficients hors de la diagonale principale sont nuls.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0b - Matrix algebra/image15.png]]
+![[Chp 0b - Matrix algebra - image15.png]]
 *Figure : matrice diagonale, diagonale principale surlignée, des 0 partout ailleurs.*
 
 - **Matrice identité** (*identity matrix*) :
@@ -98,7 +98,7 @@ Soit $A$ carrée $n \times n$. Les énoncés suivants sont équivalents (tous vr
 
 Exemples du cours : $e^x$ et $\ln(x)$ (voir « Points à vérifier ») ; $A$ et $A^{-1}$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0b - Matrix algebra/image4.png]]
+![[Chp 0b - Matrix algebra - image4.png]]
 *Figure : la multiplication par $A$ envoie $\mathbf x$ sur $A\mathbf x$, la multiplication par $A^{-1}$ ramène $A\mathbf x$ à $\mathbf x$.*
 
 ## Points à vérifier dans le cours

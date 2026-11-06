@@ -28,7 +28,7 @@ Résumé de [[Chp5 - NAT ／ PAT]], dans [[Computer Network (matière)]] : manqu
 
 Deux problèmes : on ne peut pas dupliquer des adresses sur Internet, et les adresses privées n'y circulent pas. **Solution : le NAT.** Le [[Routeur|routeur]] traduit l'adresse privée (réseau 192.168.0.0) en adresse publique (réseau 150.50.0.0), et inversement.
 
-![[Cours/Year 3/Computer Network/medias/Chp5 - NAT ／ PAT/image7.png]]
+![[Chp5 - NAT ／ PAT - image7.png]]
 *Figure : deux réseaux locaux identiques en 192.168.0.0/24 (PC en .167, routeur en .1), reliés à Internet (nuage) par 150.50.0.0/30 à gauche et 203.250.0.0/30 à droite : la même adresse privée existe des deux côtés.*
 
 ## Fonctionnement du NAT
@@ -37,7 +37,7 @@ Deux problèmes : on ne peut pas dupliquer des adresses sur Internet, et les adr
 - Il permet aux hôtes à adresse privée de communiquer avec d'autres hôtes sur Internet.
 - Selon le cours, le NAT agit comme un [[Pare-feu|pare-feu]] en cachant les adresses internes aux réseaux externes, et empêche la communication directe entre les appareils internes et l'extérieur, ce qui réduit le risque d'accès non autorisé et d'attaques (voir Points à vérifier, 4).
 
-![[Cours/Year 3/Computer Network/medias/Chp5 - NAT ／ PAT/image4.png]]
+![[Chp5 - NAT ／ PAT - image4.png]]
 *Figure : PC1 (192.168.0.167) envoie un paquet à 8.8.8.8 ; R1 remplace la source par 203.0.113.1 à l'aller, puis la destination 203.0.113.1 par 192.168.0.167 au retour.*
 
 | Sens | Avant R1 | Après R1 |
@@ -57,7 +57,7 @@ Deux problèmes : on ne peut pas dupliquer des adresses sur Internet, et les adr
 | *Outside local* | adresse de l'hôte **externe**, vue du réseau local |
 | *Outside global* | adresse de l'hôte **externe**, vue du réseau externe |
 
-![[Cours/Year 3/Computer Network/medias/Chp5 - NAT ／ PAT/image5.png]]
+![[Chp5 - NAT ／ PAT - image5.png]]
 *Figure : zone Inside (PC1 en .167, PC2 en .168, réseau 192.168.0.0/24, R1 en .1) et zone Outside (203.0.113.0/30, nuage, serveur 8.8.8.8). L'inside local 192.168.0.167 (bleu) devient l'inside global 100.0.0.1 (rouge) ; au retour, la destination 100.0.0.1 redevient 192.168.0.167.*
 
 Le NAT statique permet aux appareils à adresse privée de communiquer sur Internet, mais comme il impose une correspondance une pour une, il **n'économise pas** d'adresses IP.
@@ -98,7 +98,7 @@ R1(config)#ip nat inside source static 192.168.0.168 100.0.0.2
 - Le routeur garde la trace de quelle adresse *inside local* utilise quelle adresse *inside global* et quel port.
 - Comme de nombreux hôtes internes partagent une seule adresse publique, le PAT **économise les adresses publiques** ; il est utilisé dans les réseaux du monde entier.
 
-![[Cours/Year 3/Computer Network/medias/Chp5 - NAT ／ PAT/image2.png]]
+![[Chp5 - NAT ／ PAT - image2.png]]
 *Figure : PC1 (.167) et PC2 (.168) derrière R1 (G0/1 en .1, G0/0 en 203.0.113.1) ; les deux flux vers le DNS 8.8.8.8:53 partent avec la même adresse publique 203.0.113.1, distingués par leur port.*
 
 | Flux | Aller, avant NAT | Aller, après NAT | Retour, côté externe | Retour, après NAT |

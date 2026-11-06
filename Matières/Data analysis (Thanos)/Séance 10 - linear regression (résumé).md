@@ -16,7 +16,7 @@ Régression linéaire simple : modèle, ajustement par les [[Moindres carrés|mo
 
 Les modèles probabilistes se divisent en **modèles de régression** (*regression models*) et **modèles de corrélation** (*correlation models*).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image25.png]]
+![[Séance 10 - linear regression - image25.png]]
 
 *Figure : les modèles probabilistes, divisés en modèles de régression et de corrélation.*
 
@@ -43,7 +43,7 @@ Le [[Quatuor d'Anscombe]] illustre un point crucial : **il ne faut jamais se fie
 
 Pour chaque jeu : moyenne de $x$ = 9, moyenne de $y$ = 7,50, variance de $x$ = 11, variance de $y$ = 4,13, et [[Covariance et corrélation|coefficient de corrélation]] (force de la relation entre deux variables) entre $x$ et $y$ = 0,816.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image7.png]]
+![[Séance 10 - linear regression - image7.png]]
 
 *Figure : les quatre nuages de points du quatuor, avec la même droite de régression.*
 
@@ -71,7 +71,7 @@ Classement :
 
 Ce cours traite la régression **simple linéaire**.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image28.png]]
+![[Séance 10 - linear regression - image28.png]]
 
 *Figure : arbre de classification des modèles de régression (simple / multiple, linéaire / non linéaire).*
 
@@ -89,7 +89,7 @@ $$y = \beta_0 + \beta_1 x + \varepsilon$$
 
 La **droite des moyennes** (*line of means*) est $E(y) = \beta_0 + \beta_1 x$ : $\beta_1$ est la pente (variation de $y$ sur variation de $x$), $\beta_0$ l'ordonnée à l'origine. Chaque observation s'écrit $y_i = \beta_0 + \beta_1 x_i + \varepsilon_i$, où $\varepsilon_i$ est l'écart vertical entre la valeur observée et la droite.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image29.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image1.png]]
+![[Séance 10 - linear regression - image29.png]]![[Séance 10 - linear regression - image1.png]]
 
 *Figure : la droite des moyennes, sa pente et son ordonnée à l'origine ; à droite, l'erreur aléatoire $\varepsilon_i$ entre un point observé et la droite.*
 
@@ -97,7 +97,7 @@ La **droite des moyennes** (*line of means*) est $E(y) = \beta_0 + \beta_1 x$ : 
 
 Comment tracer une droite à travers les points, et laquelle « ajuste le mieux » ?
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image3.png]]
+![[Séance 10 - linear regression - image3.png]]
 
 *Figure : un nuage de six points traversé par plusieurs droites candidates.*
 
@@ -107,7 +107,7 @@ $$\sum_{i=1}^{n} (y_i - \hat{y}_i)^2 = \sum_{i=1}^{n} \hat{\varepsilon}_i^2$$
 
 Voir [[Moindres carrés]]. Avec 4 points : on minimise $\hat{\varepsilon}_1^2 + \hat{\varepsilon}_2^2 + \hat{\varepsilon}_3^2 + \hat{\varepsilon}_4^2$, où $y_i = \hat{\beta}_0 + \hat{\beta}_1 x_i + \hat{\varepsilon}_i$ et $\hat{y}_i = \hat{\beta}_0 + \hat{\beta}_1 x_i$.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image27.png]]
+![[Séance 10 - linear regression - image27.png]]
 
 *Figure : les écarts $\hat{\varepsilon}_1$ à $\hat{\varepsilon}_4$ entre chaque point et sa valeur prédite sur la droite.*
 
@@ -115,7 +115,7 @@ Voir [[Moindres carrés]]. Avec 4 points : on minimise $\hat{\varepsilon}_1^2 + 
 
 Points $(1,1)$, $(2,1)$, $(3,3)$ ; droite $y = b + mx$, où $b$ et $m$ sont les variables.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image12.png]]
+![[Séance 10 - linear regression - image12.png]]
 
 *Figure : les trois points, la droite $y = b + mx$ et les distances verticales jusqu'aux points $(1, b+m)$, $(2, b+2m)$, $(3, b+3m)$.*
 
@@ -156,7 +156,7 @@ $$\hat{\beta}_1 = \frac{SS_{xy}}{SS_{xx}} = \frac{\sum_{i=1}^{n} x_i y_i - \dfra
 | 12 | 9,0 | 144 | 81,00 | 108 |
 | **32** | **24,0** | **296** | **162,50** | **218** |
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image16.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image26.png]]
+![[Séance 10 - linear regression - image16.png]]![[Séance 10 - linear regression - image26.png]]
 
 *Figure : nuage des 4 observations (rendement croissant avec l'engrais), puis la droite ajustée $\hat{y} = 0{,}8 + 0{,}65x$.*
 
@@ -180,7 +180,7 @@ IV. Les erreurs sont indépendantes.
 
 L'**erreur standard** de $y$ sachant $x$, notée $S_{y/x}$, est la **variabilité moyenne autour de la droite de régression** pour toute valeur de $x$.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image24.png]]
+![[Séance 10 - linear regression - image24.png]]
 
 *Figure : à trois valeurs de $x$, les points se répartissent autour de la droite selon une courbe de distribution, de dispersion $S_{y/x}$.*
 
@@ -190,7 +190,7 @@ L'**erreur standard** de $y$ sachant $x$, notée $S_{y/x}$, est la **variabilit�
 
 ### Décomposition de la variation
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image10.png]]
+![[Séance 10 - linear regression - image10.png]]
 
 *Figure : pour un point $x_i$, la SST va de $\bar{y}$ à $y_i$, la SSR de $\bar{y}$ à $\hat{y}_i$, la SSE de $\hat{y}_i$ à $y_i$.*
 
@@ -215,13 +215,13 @@ Le **[[Résidu (régression)|résidu]]** de l'observation $i$ est l'écart entre
 
 ### Linéarité
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image13.png]]
+![[Séance 10 - linear regression - image13.png]]
 
 *Figure : non linéaire (les résidus forment une arche) contre linéaire (résidus aléatoires dans une bande horizontale).*
 
 ### Indépendance
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image9.png]]
+![[Séance 10 - linear regression - image9.png]]
 
 *Figure : résidus non indépendants (bande montante, bande ondulante) contre indépendants (dispersion aléatoire autour de zéro).*
 
@@ -229,13 +229,13 @@ Le **[[Résidu (régression)|résidu]]** de l'observation $i$ est l'écart entre
 
 Sur un [[Diagramme de probabilité|diagramme de probabilité normale]], des erreurs normales s'alignent à peu près sur une droite.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image19.png]]
+![[Séance 10 - linear regression - image19.png]]
 
 *Figure : diagramme de probabilité normale des résidus (pourcentage en fonction du résidu), points proches d'une droite.*
 
 ### Variance constante
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image21.png]]
+![[Séance 10 - linear regression - image21.png]]
 
 *Figure : variance non constante (dispersion en entonnoir) contre variance constante (bande de largeur fixe).*
 
@@ -256,7 +256,7 @@ Les **[[P-value|p-values]]** aident à savoir si les relations observées dans l
 
 Chaque échantillon donne sa propre droite et sa propre pente (échantillon 1 : 2,5 ; 2 : 1,6 ; 3 : 1,8 ; 4 : 2,1 ; …). Un très grand nombre de pentes d'échantillons forme une distribution en cloche centrée sur $\beta_1$, d'écart-type $S_{\hat{\beta}_1}$.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image4.png]]
+![[Séance 10 - linear regression - image4.png]]
 
 *Figure : droites d'échantillons autour de la droite de la population, et distribution d'échantillonnage des pentes $\hat{\beta}_1$.*
 
@@ -285,7 +285,7 @@ $$S_{\hat{\beta}_1} = \frac{s}{\sqrt{SS_{xx}}} = \frac{0{,}6055}{\sqrt{55 - \fra
 - $\alpha = 0{,}05$, $df = 5 - 2 = 3$ ;
 - [[Valeur critique|valeurs critiques]] : $-3{,}182$ et $3{,}182$ (0,025 dans chaque queue).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 10 - linear regression/image23.png]]
+![[Séance 10 - linear regression - image23.png]]
 
 *Figure : loi de Student à 3 degrés de liberté, zones de rejet au-delà de ±3,182.*
 

@@ -33,7 +33,7 @@ Le [[Fouille de données|data mining]] ne se contente pas de collecter et d'ordo
 | 13 | overcast | high | normal | no | P |
 | 14 | rainy | mild | strong | yes | N |
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image52.png]]
+![[Chp1 - intro to data mining - image52.png]]
 *Figure : le tableau des 14 exemples et l'[[Arbre de décision]] obtenu — racine outlook ; sunny → humidity (high : no, normal : yes) ; overcast → yes ; rainy → windy (false : yes, true : no).*
 
 Un arbre de décision se lit comme un ensemble de règles :
@@ -48,7 +48,7 @@ Un arbre de décision se lit comme un ensemble de règles :
 - **Prédictives** : classification, régression, analyse de [[Série temporelle|séries temporelles]] (*time series analysis*), prédiction.
 - **Descriptives** : [[Clustering]], résumé (*summarization*), [[Règle d'association|règles d'association]], découverte de séquences (*sequence discovery*).
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image38.png]]
+![[Chp1 - intro to data mining - image38.png]]
 *Figure : arbre des tâches, « Data mining » se divisant en « Predictive » et « Descriptive ».*
 
 ## 2. Classification
@@ -64,12 +64,12 @@ Un **[[Classifieur|classifieur]]** est une fonction mathématique ou un algorith
 
 Jeu de données à deux attributs numériques $(X_1, X_2)$ et deux classes (A, B). Le point à classer reçoit la classe majoritaire parmi ses $k$ plus proches voisins ([[K plus proches voisins]]).
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image33.png]]
+![[Chp1 - intro to data mining - image33.png]]
 *Figure : l'étoile rouge est le point à classer ; avec $k = 3$, 1 point jaune (A) et 2 violets (B) ; avec $k = 6$, 4 jaunes et 2 violets. Le résultat dépend de $k$.*
 
 ### Validation d'un classifieur
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image15.png]]
+![[Chp1 - intro to data mining - image15.png]]
 *Figure : la base est séparée en données d'entraînement (construction du modèle) et de test ; si la précision est acceptable, le modèle est appliqué à des données inconnues pour prédire leur valeur.*
 
 **Validation 1.**
@@ -112,7 +112,7 @@ Jeu de données à deux attributs numériques $(X_1, X_2)$ et deux classes (A, B
 2. Tour 1 : entraînement sur $A \cup B$ (200 e-mails), test sur C ; 7 erreurs (ex. 2 FP + 5 FN), $Er_C = 7\,\%$. Tour 2 : entraînement sur $C \cup A$, test sur B, 9 erreurs, $Er_B = 9\,\%$. Tour 3 : entraînement sur $C \cup B$, test sur A, 5 erreurs, $Er_A = 5\,\%$.
 3. Plutôt que de se fier à une évaluation peut-être chanceuse : $Er = \frac{5 + 9 + 7}{3} = 7\,\%$.
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image10.png]]
+![[Chp1 - intro to data mining - image10.png]]
 *Figure : validation croisée à $k = 4$ plis ; à chaque itération, un bloc différent sert de test et les autres d'entraînement.*
 
 ### Travaux pratiques annoncés
@@ -131,7 +131,7 @@ Jeu de données à deux attributs numériques $(X_1, X_2)$ et deux classes (A, B
 
 Exemple : analyse des journaux (*logs*) d'un site de commerce en ligne pour détecter des profils d'utilisateurs.
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image2.png]]
+![[Chp1 - intro to data mining - image2.png]]
 *Figure : « K-means clustering », trois groupes de points sur les deux premières composantes (qui expliquent 55,61 % de la variabilité).*
 
 ### Définitions et notations
@@ -172,14 +172,14 @@ RÉPÉTER
 JUSQU'À |I − I_W| < ε
 ```
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image28.png]]
+![[Chp1 - intro to data mining - image28.png]]
 *Figure : itérations de K-means avec $K = 2$ — choisir deux centres, affecter chaque objet au centre le plus proche, mettre à jour les moyennes, réaffecter, jusqu'à stabilisation.*
 
 ### Classification hiérarchique
 
 [[Classification hiérarchique ascendante]] : approche ascendante (*down-top*) qui regroupe progressivement les exemples : $N - 1$ groupes, $N - 2$ groupes, …, 1 groupe. On obtient un arbre (**dendrogramme**) dont les feuilles sont les exemples et la racine représente $X$. Une coupe horizontale de l'arbre donne $K$ groupes.
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image60.png]]
+![[Chp1 - intro to data mining - image60.png]]
 *Figure : les points 1 à 5 regroupés en ensembles emboîtés, et le dendrogramme correspondant (6 = 1+2, 7 = 4+5, 8 = 6+3, 9 = racine), coupé par une ligne horizontale.*
 
 **Algorithme.**
@@ -192,7 +192,7 @@ pour d de 1 à N−1 :
     désétiqueter G_i, G_j ; étiqueter G_d
 ```
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image59.png]]
+![[Chp1 - intro to data mining - image59.png]]
 *Figure : le même exemple, avec la coupe du dendrogramme au niveau des nœuds 8 et 7 (deux groupes).*
 
 **Choix des groupes à fusionner**, quatre approches :
@@ -206,10 +206,10 @@ $$S_{G_i,G_j} = \frac{w_i w_j}{w_i + w_j}\, d^2(g_i, g_j), \qquad w_i = \frac{|G
 
 On reprend le jeu météo (tableau de la partie 1). Pour chaque attribut, la répartition des classes :
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image14.png]]
+![[Chp1 - intro to data mining - image14.png]]
 *Figure : quatre arbres à un niveau — outlook (sunny : 2 yes / 3 no ; overcast : 4 yes ; rainy : 3 yes / 2 no), windy (false : 6 / 2 ; true : 3 / 3), humidity (high : 3 / 4 ; normal : 6 / 1), temperature (hot : 2 / 2 ; mild : 4 / 2 ; cool : 3 / 1).*
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image35.png]]
+![[Chp1 - intro to data mining - image35.png]]
 *Figure : l'arbre final, racine outlook, puis humidity sous sunny et windy sous rainy.*
 
 ### Algorithme ID3
@@ -231,7 +231,7 @@ FONCTION construct-tree(E : exemples, {T_1..T_m} : tests) : arbre
             sous-arbre_l ← construct-tree(E_jl, {T_1..T_m} \ T_j)
 ```
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image1.png]]
+![[Chp1 - intro to data mining - image1.png]]
 *Figure : partition des exemples selon outlook (sunny : 2 yes / 3 no ; overcast : 4 yes ; rainy : 3 yes / 2 no), à côté de l'algorithme.*
 
 **Choix du test : la quantité d'information.**
@@ -253,7 +253,7 @@ $$gain(T) = I(p, n) - \sum_{i=1}^{k}\frac{p_i+n_i}{p+n}\, I(p_i, n_i).$$
 $$gain(OUTLOOK) = I(9,5) - \left(\tfrac{5}{14} I(2,3) + \tfrac{4}{14} I(4,0) + \tfrac{5}{14} I(3,2)\right) = 0{,}246 \text{ bits},$$
 contre gain(TEMP.) $= 0{,}029$, gain(HUMI.) $= 0{,}151$, gain(WIND) $= 0{,}048$ bits : OUTLOOK, de gain maximal, est placé à la racine.
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image34.png]]
+![[Chp1 - intro to data mining - image34.png]]
 *Figure : la partition selon outlook utilisée dans le calcul du gain.*
 
 ### Algorithme C4.5
@@ -283,17 +283,17 @@ où $W_i$ est la proportion d'exemples du fils $i$.
 $$IG(windy) = 1 - \left[\left(\tfrac{9}{14}\right)^2 + \left(\tfrac{5}{14}\right)^2\right], \quad IG(fils_1) = 1 - \left[\left(\tfrac{2}{8}\right)^2 + \left(\tfrac{6}{8}\right)^2\right], \quad IG(fils_2) = 1 - \left[\left(\tfrac{3}{6}\right)^2 + \left(\tfrac{3}{6}\right)^2\right],$$
 $$Gain(windy) = IG(windy) - \left[\tfrac{8}{14}\, IG(fils_1) + \tfrac{6}{14}\, IG(fils_2)\right].$$
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image23.png]]
+![[Chp1 - intro to data mining - image23.png]]
 *Figure : le nœud windy et ses deux branches (false : 6 yes / 2 no ; true : 3 yes / 3 no).*
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image27.png]]
+![[Chp1 - intro to data mining - image27.png]]
 *Figure : indice de Gini pour 20 individus et 2 classes en fonction du nombre d'individus de la classe 1 : parabole nulle en 0 et 20, maximale (0,5) en 10.*
 
 ## 5. Combinaison de plusieurs modèles
 
 [[Méthodes d'ensemble]].
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image25.png]]
+![[Chp1 - intro to data mining - image25.png]]
 *Figure : des échantillons tirés des exemples d'apprentissage alimentent chacun un algorithme d'apprentissage ; les classifieurs obtenus sont combinés pour prédire sur de nouvelles données.*
 
 - On transforme les sorties des modèles en une seule prédiction par un **vote** ou un **vote pondéré**.
@@ -352,7 +352,7 @@ Poids du modèle $t$ : $W_t = -\log \frac{e_t}{1-e_t}$.
 
 [[Forêt aléatoire]].
 
-![[Cours/Year 4/data mining/medias/Chp1 - intro to data mining/image30.png]]
+![[Chp1 - intro to data mining - image30.png]]
 *Figure : toutes les données sont tirées en sous-échantillons aléatoires, chacun donne un arbre ; à chaque nœud, on choisit au hasard un petit sous-ensemble de variables et la variable (et la valeur) qui optimise la coupe.*
 
 **Algorithme.**

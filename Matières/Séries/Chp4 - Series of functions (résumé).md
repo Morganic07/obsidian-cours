@@ -66,7 +66,7 @@ La convergence absolue implique la convergence simple.
 
 **Théorème.** Si $\sum f_n$ converge normalement sur $X$, elle converge uniformément, absolument et simplement.
 
-![[Cours/Year 3/Séries/medias/Chp4 - Series of functions/image17.png]]
+![[Chp4 - Series of functions - image17.png]]
 
 *Figure : la convergence normale implique la convergence uniforme et la convergence absolue, qui impliquent chacune la convergence simple.*
 

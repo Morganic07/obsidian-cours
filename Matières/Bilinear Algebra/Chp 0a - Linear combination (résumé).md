@@ -23,9 +23,9 @@ Visualisation géométrique pour 2 et 3 inconnues (donc 2 et 3 [[Dimension (alg�
 
 | Nombre de solutions | Statut | Dans le plan | Dans l'espace |
 |---|---|---|---|
-| 1 solution | *Consistent* (compatible) | ![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image21.png]] | ![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image12.png]] |
-| Infinité | *Consistent* | ![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image27.png]] | |
-| Aucune | *Inconsistent* (incompatible) | ![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image19.png]] | ![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image2.png]] |
+| 1 solution | *Consistent* (compatible) | ![[Chp 0a - Linear combination - image21.png]] | ![[Chp 0a - Linear combination - image12.png]] |
+| Infinité | *Consistent* | ![[Chp 0a - Linear combination - image27.png]] | |
+| Aucune | *Inconsistent* (incompatible) | ![[Chp 0a - Linear combination - image19.png]] | ![[Chp 0a - Linear combination - image2.png]] |
 
 *Figure : une solution = deux droites sécantes en $(3,2)$, ou trois plans sécants en $(1,0,-1)$ ; infinité = droites confondues ($\ell_1$ seule) ; aucune = droites parallèles, ou trois plans sans point commun (« no point lies on all three planes »).*
 
@@ -100,7 +100,7 @@ Propriétés algébriques de $\mathbb R^n$ : pour tous $\mathbf u, \mathbf v, \m
 
 **[[Espace engendré]]** (*Span*) : $\text{Span}\{\mathbf v_1, \ldots, \mathbf v_n\}$, aussi noté $L(\mathbf v_1, \ldots, \mathbf v_n)$, est la partie de $\mathbb R^n$ engendrée par les $\mathbf v_i$ : l'ensemble de tous les vecteurs $c_1\mathbf v_1 + \cdots + c_n\mathbf v_n$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image26.png]]
+![[Chp 0a - Linear combination - image26.png]]
 *Figure : $\text{Span}\{\mathbf v\}$ est une droite passant par l'origine ; $\text{Span}\{\mathbf u, \mathbf v\}$ un plan passant par l'origine (contenant $\mathbf u$, $\mathbf v$, $\mathbf u + \mathbf v$).*
 
 $$\mathbf b \in \text{Span}\{\mathbf v_1, \ldots, \mathbf v_n\} \iff c_1\mathbf v_1 + \cdots + c_n\mathbf v_n = \mathbf b \text{ a une solution} \iff [\mathbf v_1 \cdots \mathbf v_n \mid \mathbf b] \text{ a une solution}$$
@@ -143,12 +143,12 @@ En gros : pour $A\mathbf x = \mathbf 0$, $\mathbf x = t\mathbf v$ ; pour $A\math
 
 > **Théorème** : si $A\mathbf x = \mathbf b$ est compatible et $\mathbf p$ en est une solution, l'ensemble des solutions de $A\mathbf x = \mathbf b$ est l'ensemble des vecteurs $\mathbf w = \mathbf p + \mathbf v_h$, où $\mathbf v_h$ est une solution quelconque de l'équation homogène $A\mathbf x = \mathbf 0$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image24.png]]
+![[Chp 0a - Linear combination - image24.png]]
 *Figure : la droite $A\mathbf x = \mathbf b$ (passant par $\mathbf p$, d'équation $\mathbf x = \mathbf p + t\mathbf v$) est parallèle à la droite $A\mathbf x = \mathbf 0$ (passant par l'origine) ; à droite, même chose avec deux plans parallèles.*
 
 **Interprétation géométrique** : ajouter $\mathbf p$ revient à **translater** (*translate*). Si chaque point d'une droite $L$ est translaté de $\mathbf p$, on obtient une droite parallèle à $L$. L'ensemble des solutions de $A\mathbf x = \mathbf b$ est une droite passant par $\mathbf p$, parallèle à l'ensemble des solutions de $A\mathbf x = \mathbf 0$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image25.png]]
+![[Chp 0a - Linear combination - image25.png]]
 *Figure : parallélogramme $\mathbf 0, \mathbf p, \mathbf v, \mathbf v + \mathbf p$ ; droite $L$ et sa translatée $L + \mathbf p$ ; droites parallèles $A\mathbf x = \mathbf 0$ et $A\mathbf x = \mathbf b$.*
 
 ### Vision ligne et vision colonne (*row picture*, *column picture*)
@@ -157,13 +157,13 @@ Système $2x + 3y = 5$, $4x + 2y = 6$, soit $\left[\begin{array}{cc|c} 2 & 3 & 5
 - **Row picture** : tracer les deux droites ; la réponse est leur intersection (en 3D, l'intersection de trois plans).
 - **Column picture** : $x\begin{bmatrix} 2 \\ 4 \end{bmatrix} + y\begin{bmatrix} 3 \\ 2 \end{bmatrix} = \begin{bmatrix} 5 \\ 6 \end{bmatrix}$ : la réponse est la « quantité » de chaque vecteur colonne pour atteindre $(5,6)$ : 1 fois le premier et 1 fois le second.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image3.png]]
+![[Chp 0a - Linear combination - image3.png]]
 *Figure : à gauche, les droites $2x + 3y = 5$ et $4x + 2y = 6$ qui se croisent ; à droite, les vecteurs $(2,4)$ et $(3,2)$ dont la somme donne $(5,6)$.*
 
 - **Infinité de solutions** : $2x + 4y = 6$, $4x + 8y = 12$. Row picture : la même droite. Column picture : $x(2,4) + y(4,8) = (6,12)$, vecteurs colinéaires dont le span n'est qu'une droite ; la cible est dans ce span, d'où une infinité de combinaisons.
 - **Aucune solution** : $2x + 4y = 6$, $4x + 8y = 13$. Row picture : droites parallèles. Column picture : $(6,13)$ n'est pas dans le span (une droite) des colonnes colinéaires.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image33.png]]
+![[Chp 0a - Linear combination - image33.png]]
 *Figure : vision ligne et vision colonne des cas « infinité de solutions » et « aucune solution ».*
 
 ## 7. Indépendance linéaire (*linear independence*)
@@ -187,12 +187,12 @@ $A\mathbf x = \mathbf b$ et $x_1\mathbf a_1 + \cdots + x_n\mathbf a_n = \mathbf 
 $$\begin{bmatrix} 4 & -3 & 1 & 3 \\ 2 & 0 & 5 & 1 \end{bmatrix}\begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \end{bmatrix} = \begin{bmatrix} 5 \\ 8 \end{bmatrix}, \qquad \begin{bmatrix} 4 & -3 & 1 & 3 \\ 2 & 0 & 5 & 1 \end{bmatrix}\begin{bmatrix} 1 \\ 4 \\ -1 \\ 3 \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \end{bmatrix}$$
 La multiplication par $A$ transforme $\mathbf x$ en $\mathbf b$, et $\mathbf u$ en le vecteur nul.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image23.png]]
+![[Chp 0a - Linear combination - image23.png]]
 *Figure : la multiplication par $A$ envoie $\mathbf x \in \mathbb R^4$ sur $\mathbf b \in \mathbb R^2$ et $\mathbf u$ sur $\mathbf 0$.*
 
 **Définition** : une **transformation** (*function*, *mapping*, « application ») $T : \mathbb R^n \to \mathbb R^m$ associe à chaque $\mathbf x \in \mathbb R^n$ un vecteur $T(\mathbf x) \in \mathbb R^m$. $\mathbb R^n$ est le **domaine** (*domain*, [[Ensemble de définition|domaine de définition]]), $\mathbb R^m$ le **codomaine** (*codomain*, ensemble d'arrivée). $T(\mathbf x)$ est l'**image** de $\mathbf x$ ; l'ensemble des images est le **range** (image de $T$), partie du codomaine.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image15.png]]
+![[Chp 0a - Linear combination - image15.png]]
 *Figure : $T$ envoie $\mathbf x$ du domaine $\mathbb R^n$ sur $T(\mathbf x)$ dans le codomaine $\mathbb R^m$ ; le range est une partie du codomaine.*
 
 > **Définition** : $T$ est **linéaire** ([[Transformation linéaire]]) $\iff$
@@ -219,25 +219,25 @@ Tableaux du cours ([[Transformations géométriques du plan]], [[Matrice d'une a
 | Projection sur l'axe $Ox_1$ (carré unité écrasé sur $[(0,0),(1,0)]$) | $\begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}$ |
 | Projection sur l'axe $Ox_2$ | $\begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}$ |
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image9.png]]
+![[Chp 0a - Linear combination - image9.png]]
 *Figure : Table 1, réflexions, avec l'image du carré unité et des libellés rouges en français (voir « Points à vérifier »).*
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image28.png]]
+![[Chp 0a - Linear combination - image28.png]]
 *Figure : Tables 2 et 3, contractions et dilatations, cisaillements.*
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image10.png]]
+![[Chp 0a - Linear combination - image10.png]]
 *Figure : Table 4, projections sur les axes.*
 
 ### Surjectivité et injectivité
 
 > **Définition** : $T : \mathbb R^n \to \mathbb R^m$ est **surjective** (*onto* $\mathbb R^m$) si chaque $\mathbf b \in \mathbb R^m$ est l'image d'**au moins un** $\mathbf x \in \mathbb R^n$ (voir [[Injectivité et surjectivité]]).
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image16.png]]
+![[Chp 0a - Linear combination - image16.png]]
 *Figure : $T$ non surjective (le range n'est qu'une partie de $\mathbb R^m$) et $T$ surjective (le range est $\mathbb R^m$).*
 
 > **Définition** : $T$ est **injective** (*one-to-one*) si chaque $\mathbf b \in \mathbb R^m$ est l'image d'**au plus un** $\mathbf x \in \mathbb R^n$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0a - Linear combination/image6.png]]
+![[Chp 0a - Linear combination - image6.png]]
 *Figure : $T$ non injective (plusieurs points, dont un groupe contenant $\mathbf 0$, envoyés sur un même point) et $T$ injective.*
 
 ## Points à vérifier dans le cours

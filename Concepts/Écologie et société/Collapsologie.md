@@ -22,7 +22,7 @@ Le modèle World3 (« Limites à la croissance », voir [[Rapport Meadows]]) est
 
 ## À vérifier
 
-Quelques mots manuscrits de l'image (« Aquoibonistre », « capsologie ») sont incertains : à confirmer sur l'image.
+« Capsologie » est bien écrit ainsi sur l'image (vérifié). « Aquoibontiste » (écriture manuscrite, le T est probable) reste à confirmer.
 
 Voir aussi : [[Limites planétaires]], [[Anthropocène]]
 

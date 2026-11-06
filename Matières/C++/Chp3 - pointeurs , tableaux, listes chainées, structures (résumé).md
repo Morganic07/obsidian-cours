@@ -22,7 +22,7 @@ La création d'un tableau alloue chaque élément de façon **contiguë en mémo
 int effectifs[6];   // allocation de la mémoire : 6 fois la taille d'un entier
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image13.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image13.png]]
 
 *Figure : les 6 cases de `effectifs`, chacune avec son adresse (0x16fdab76 à 0x16fdab8a), son indice (0 à 5) et 4 sous-cases pour les 4 octets d'un entier.*
 
@@ -32,7 +32,7 @@ Ce que dit la diapositive :
 - **Adresse** : entier désignant l'emplacement où est stockée la donnée. Sa taille dépend de l'architecture : 4 octets (32 bits) sur système 32 bits, 8 octets (64 bits) sur système 64 bits.
 - **Taille d'un entier** : selon la diapositive, elle dépend aussi de l'architecture, 4 octets en 32 bits et 8 octets en 64 bits (voir le point 1 à vérifier).
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image4.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image4.png]]
 
 *Figure : les adresses des 6 cases se suivent, de 4 en 4.*
 
@@ -46,7 +46,7 @@ int capacite;        // allocation de la mémoire : 1 fois la taille d'un entier
 int effectifs[6];    // allocation de la mémoire : 6 fois la taille d'un entier
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image1.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image1.png]]
 
 *Figure : `capacite` occupe la case 0x16fdab72, juste avant les 6 cases de `effectifs`.*
 
@@ -60,7 +60,7 @@ effectifs[1] = 38;
 capacite = effectifs[1];
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image8.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image8.png]]
 
 *Figure : après ces deux lignes, `capacite` et `effectifs[1]` contiennent 38 ; la colonne des adresses est « ce qu'utilise la machine ».*
 
@@ -79,7 +79,7 @@ printf("l'adresse de capacite est %p", &capacite);
 // l'adresse de capacite est 0x16fdab72
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image5.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image5.png]]
 
 *Figure : `&capacite` désigne la case 0x16fdab72.*
 
@@ -92,7 +92,7 @@ printf("l'adresse de capacite est %p", &capacite);
 for(i=0;i<6;i++) printf("l'adresse de effectifs[%d] est %p \n", i, &effectifs[i]);
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image9.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image9.png]]
 
 *Figure : schéma mémoire et sortie du terminal ; les adresses affichées avancent de 4 en 4 (0x16d383610, …614, …618, …61c, …620, …624).*
 
@@ -100,7 +100,7 @@ for(i=0;i<6;i++) printf("l'adresse de effectifs[%d] est %p \n", i, &effectifs[i]
 for(i=0;i<6;i++) printf("l'adresse de effectifs[%d] est %p \n", i, effectifs+i);
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image3.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image3.png]]
 
 *Figure : le nom `effectifs` pointe sur la case d'indice 0.*
 
@@ -124,7 +124,7 @@ Un pointeur est une **variable** destinée à contenir une **adresse**. On peut 
 - lui ajouter ou soustraire des entiers (décalage) ;
 - accéder à son contenu.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image21.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image21.png]]
 
 *Figure : `ptr` est une case mémoire de plus (0x16fdab8e), encore vide.*
 
@@ -135,7 +135,7 @@ int *ptr;
 ptr = &capacite;   // ptr est destiné à recopier des adresses d'entiers
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image14.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image14.png]]
 
 *Figure : l'adresse de `capacite` (0x16fdab72) est recopiée dans la case de `ptr`.*
 
@@ -145,7 +145,7 @@ ptr = &capacite;   // ptr est destiné à recopier des adresses d'entiers
 printf("%p \n", ptr);
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image16.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image16.png]]
 
 *Figure : `ptr` contient 0x16fdab72, l'adresse de `capacite`.*
 
@@ -156,7 +156,7 @@ int *ptr;
 ptr = effectifs+3;
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image7.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image7.png]]
 
 *Figure : `effectifs+3` désigne la case d'indice 3 (0x16fdab82), adresse rangée dans `ptr`.*
 
@@ -168,7 +168,7 @@ printf("valeur pointée par ptr : %d", *ptr);   // valeur pointée par ptr : 38
 int calc = *ptr;                                // calc = 38
 ```
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image27.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image27.png]]
 
 *Figure : `ptr` contient l'adresse de `capacite` ; la flèche rouge va de `ptr` vers `capacite`.*
 
@@ -266,25 +266,25 @@ Déroulé en mémoire, sur la [[Pile d'exécution|pile]] :
 
 1. Au lancement, on entre dans la [[Méthode main|fonction `main`]] : `var1 = 10` et `var2 = 20` sont empilés.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image15.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image15.png]]
 
 *Figure : la pile ne contient que `var1` (10) et `var2` (20).*
 
 2. On entre dans `echange` : un cadre est empilé avec les paramètres `a = 10`, `b = 20` (des **copies**) et la variable locale `temp`. La flèche est sur `temp = a;`.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image36.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image36.png]]
 
 *Figure : cadre `echange` (`temp` 10, `b` 20, `a` 10) au-dessus du cadre `main` (`var2` 20, `var1` 10).*
 
 3. Après `a = b; b = temp;` : dans le cadre `echange`, `a = 20`, `b = 10`, `temp = 10`. Le cadre `main` n'a pas changé.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image35.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image35.png]]
 
 *Figure : seules les copies `a` et `b` ont été échangées.*
 
 4. Retour dans `main` : le cadre de `echange` est retiré de la pile. Le second `printf` affiche toujours `var1 : 10, var2 : 20`.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image28.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image28.png]]
 
 *Figure : le cadre `echange` est barré ; `var1` et `var2` sont inchangés.*
 
@@ -318,19 +318,19 @@ void echange(int *a, int *b){
 
 1. Dans `main` : `var1 = 10` en 0xabdafa0, `var2 = 20` en 0xabdafa4.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image12.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image12.png]]
 
 *Figure : cadre `main` avec les adresses de `var1` et `var2`.*
 
 2. Appel `echange(&var1, &var2)` : `echange` reçoit les **adresses** de `var1` et `var2`, d'où la signature `echange(int *a, int *b)` : `a` et `b` sont des pointeurs qui contiennent 0xabdafa0 et 0xabdafa4.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image19.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image19.png]]
 
 *Figure : `a` contient l'adresse de `var1`, `b` celle de `var2`.*
 
 3. Dans `echange`, l'échange se fait avec `*a` et `*b`, qui accèdent aux valeurs rangées aux adresses contenues dans `a` et `b` : `var1` vaut maintenant 20 et `var2` 10.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image26.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image26.png]]
 
 *Figure : flèches de `a` vers `var1` et de `b` vers `var2` ; les valeurs de `main` sont échangées.*
 
@@ -456,7 +456,7 @@ L'alias s'écrit à la fin de `struct Etudiant {...}` ; on crée ensuite la vari
 - contenant une donnée (valeur de type quelconque) ;
 - contenant un pointeur, souvent nommé `suivant`, vers l'adresse de l'élément suivant.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image29.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image29.png]]
 
 *Figure : liste `L` de cinq cellules (0, 1, 4, 9, 16) ; chaque cellule a une valeur et un pointeur `suivant` (le rond), le dernier pointe vers `NULL`.*
 
@@ -492,7 +492,7 @@ Le type de `doublePtr` est « pointeur vers un pointeur vers un `int` ». Il est
 2. **Gestion de mémoire** : un `free` pour chaque `malloc`.
 3. **Vérifier `NULL`** avant d'accéder à un double pointeur.
 
-![[Cours/Year 4/C++/medias/Chp3 - pointeurs , tableaux, listes chainées, structures/image39.png]]
+![[Chp3 - pointeurs , tableaux, listes chainées, structures - image39.png]]
 
 *Figure : `x` (10) en 0x1000, `ptr` (contient 0x1000) en 0x1004, `dptr` (contient 0x1004) en 0x1008.*
 

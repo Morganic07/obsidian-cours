@@ -37,21 +37,21 @@ soft natural morning window light, standing in a modern kitchen. Shot on Sony A7
 
 Le prompt décrit le sujet, la pose, la lumière, le lieu, l'appareil et l'objectif, la texture, le style et la résolution.
 
-![[Cours/Year 3/IA/medias/Cours 1/image19.png]]
+![[Séance 1 - IA - image19.png]]
 *Figure : résultat du prompt — portrait photoréaliste d'une jeune femme en lumière de fenêtre, cuisine floue en arrière-plan.*
 
 ### 2. Prompt avec image de référence (sur Gemini)
 
 Prompt : « Dessine-moi une image photo réaliste d'une femme habillée avec les éléments que tu as dans cette planche de style. »
 
-![[Cours/Year 3/IA/medias/Cours 1/image17.png]]
+![[Séance 1 - IA - image17.png]]
 *Figure : à gauche, la planche de style (sac, lunettes, bijoux dorés, pull col roulé beige, pantalon en cuir, ceinture, col en fourrure, palette taupe / caramel / orange brûlé / marron) ; à droite, la photo générée d'une femme portant la tenue dans la rue.*
 
 ### 3. Prompt au format JSON
 
 On peut écrire un prompt sous forme de **fichier JSON**, car les IA le comprennent mieux. On peut utiliser une IA pour rédiger ce JSON.
 
-![[Cours/Year 3/IA/medias/Cours 1/image13.png]]
+![[Séance 1 - IA - image13.png]]
 *Figure : le prompt JSON et l'image obtenue — un homme en t-shirt blanc et jean, appuyé à la rambarde d'un yacht, mer bleue et île rocheuse au loin.*
 
 Structure du prompt de l'exemple (recopié d'après la transcription, texte tel quel, incohérences comprises) :
@@ -86,7 +86,7 @@ Structure du prompt de l'exemple (recopié d'après la transcription, texte tel 
   },
   "color_profile": {
     "mood": "Bright, sunny, and summery.",
-    "accent_colors": { "tan": "#02B48C", "gold": "#FFD700" },
+    "accent_colors": { "tan": "#D2B48C", "gold": "#FFD700" },
     "color_palette": "A high-contrast palette dominated by the cool blues of the water and sky, contrasted with the stark white of the yacht and tank top, and the warm red of the bikini.",
     "dominant_colors": { "red": "#DC143C", "blue": "#0047AB", "brown": "#A52A2A", "white": "#FFFFFF" }
   },
@@ -97,8 +97,8 @@ Structure du prompt de l'exemple (recopié d'après la transcription, texte tel 
     "aspect_ratio": "2:3 (portrait orientation)"
   },
   "subject_analysis": {
-    "hair": "Dark, shoulder-length, tousled hair with sun-kissed highlights, partially covering his face.",
-    "pose": "Standing, leaning slightly against the yacht railing with her right hand on her hip and left hand holding the edge of her white tank top. Her body is angled towards the right, head turned to look over her left shoulder.",
+    "hair": "Dark, shoulder-length, tousled hair with sun-kissed highlights, partially covering her face.",
+    "pose": "Standing, leaning slightly against the yacht railing with her right hand on her hip and left hand holding the edge of her white tank top. Her body is angled towards the left, head turned to look over her left shoulder.",
     "clothing": { "top": "A white, teeshirt.", "bottom": "A jeans." },
     "skin_tone": "Fair",
     "expression": "Thoughtful or contemplative, looking towards the distance.",
@@ -111,7 +111,7 @@ Structure du prompt de l'exemple (recopié d'après la transcription, texte tel 
     "contrast": "High tonal contrast between the brightly lit areas and the shadowed sections."
   },
   "generation_parameters": {
-    "prompt": "A candid photograph of a young man with tousled dark hair, wearing a white tank, leaning against the railing on the deck of a luxury yacht. He is looking over his shoulder towards a rocky island across the blue sea under a clear sky. The sunlight is bright and direct, casting defined shadows. The shot is medium-long and slightly low-angle.",
+    "prompt": "A candid photograph of a young man with tousled dark hair, wearing a white tank, leaning against the railing on the deck of a luxury yacht. He is looking over her shoulder towards a rocky island across the blue sea under a clear sky. The sunlight is bright and direct, casting defined shadows. The shot is medium-long and slightly low-angle.",
     "negative_prompt": "Blurry, grainy, artificial lighting, studio setting, text, watermark, painting, illustration, low resolution, overcast."
   }
 }
@@ -123,7 +123,7 @@ Les rubriques à retenir : éclairage (`lighting`), arrière-plan (`background`)
 
 ### Histoire et familles d'IA
 
-![[Cours/Year 3/IA/medias/Cours 1/image9.png]]
+![[Séance 1 - IA - image9.png]]
 *Figure : schéma des familles d'IA — précurseurs en haut, approche symbolique à gauche, connexionniste à droite, hybride en bas.*
 
 Contenu du schéma (voir [[Approche symbolique et connexionniste]]) :
@@ -226,7 +226,7 @@ Voir [[Entraînement et inférence]].
 
 ## Politique des IA
 
-![[Cours/Year 3/IA/medias/Cours 1/image22.png]]
+![[Séance 1 - IA - image22.png]]
 *Figure : [[Biais politique des IA|positionnement politique des IA]] en 2025, sur une boussole politique (axe vertical autoritaire / libertaire, axe horizontal gauche / droite économique).*
 
 | Quadrant | IA placées |
@@ -297,7 +297,7 @@ Le droit sur la protection des outputs est en construction. Pour se protéger :
 
 | Outil | Données d'entraînement |
 |---|---|
-| Adobe Firefly | Exclusivement Adobe Stock, contenus libres de droits et [[Domaine public\|domaine public]] ; Adobe promet un usage commercial « sûr » |
+| Adobe Firefly | Exclusivement Adobe Stock, contenus libres de droits et [[Domaine public\|domaine public]] ; Adobe promet une utilisation « commercialement sûre » |
 | [[IA générative\|Generative AI]] by Getty Images / iStock | Modèle Nvidia Edify nourri par la photothèque Getty |
 | Shutterstock + DALL·E 3 | L'outil Design Assistant s'appuie sur les clichés Shutterstock et offre un « bouclier juridique » à la demande |
 | Bria.ai | Start-up israélo-new-yorkaise ; un milliard d'images intégralement sous licence, auprès d'une vingtaine de partenaires (dont Getty) |
@@ -308,13 +308,13 @@ Le cours ne contient pas d'exercice.
 
 ## Points à vérifier dans le cours
 
-Rien n'a été corrigé dans le cours. Images non ouvertes : transcriptions reprises.
+Rien n'a été corrigé dans le cours. Le contenu des images vient de leurs transcriptions, vérifiées sur l'image.
 
 1. **« Les IA sont basées sur des TPU »** : affirmation générale de l'étudiant. Les modèles d'IA s'entraînent et s'exécutent sur des GPU, des TPU et d'autres accélérateurs ; TPU est le matériel de Google (complément). **À corriger avant un examen.**
 2. **Tokens d'image** : l'image décrite (50 tokens répartis sur les visages) est une explication imagée, pas une règle ; le cours ne donne pas de source.
 3. **« Google » dans les logiciels « open source »** : Gemini est un produit propriétaire, seuls certains modèles de Google (Gemma) sont ouverts. La liste classe aussi Hugging Face (plateforme) parmi les éditeurs (complément).
 4. **Chiffres énergétiques** : les consommations de GPT-4, GPT-5 et Claude 3.5 sont des estimations, aucune n'est publiée par les éditeurs ; le cours ne donne pas de source.
-5. **JSON de l'exemple** : la transcription note des incohérences (« bikini », « her », « A old man » dans le texte, alors que l'image montre un homme jeune en t-shirt) et un guillemet « mal placé avant `technical_specs`. L'exemple n'est donc pas un JSON valide tel quel (complément). La liste `elements` est coupée sur la deuxième version de l'image. Dans cette fiche, le guillemet a été rétabli pour que le bloc soit lisible ; le texte des valeurs est celui de la transcription, petit et parfois douteux (ex. `#02B48C` pour « tan »).
+5. **JSON de l'exemple** : la transcription note des incohérences (« bikini », « her », « A old man » dans le texte, alors que l'image montre un homme jeune en t-shirt) et un guillemet « mal placé avant `technical_specs`. L'exemple n'est donc pas un JSON valide tel quel (complément). La liste `elements` est coupée sur la deuxième version de l'image. Dans cette fiche, le guillemet a été rétabli pour que le bloc soit lisible ; le texte des valeurs suit l'image, vérifiée agrandie (« tan » vaut `#D2B48C`). Le cours mêle « her » et « He » dans un même texte (« He is looking over her shoulder »).
 6. **Tableau « Californiens, Européens, Asiatiques »** : opinions générales sans méthode ni source.
 7. **Signature de l'avocate** sur les diapositives de copyright : orthographe incertaine selon les images (alerte de la transcription). Le nom de cette personne n'est pas repris dans le wiki. La dernière diapositive (portrait et présentation de l'avocate) n'est pas intégrée.
 8. **Positionnement politique** : placement de la boussole lu d'après la transcription, sans valeur numérique.

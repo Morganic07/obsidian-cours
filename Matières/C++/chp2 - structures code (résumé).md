@@ -125,7 +125,7 @@ while (condition de boucle) {
 
 ### Déclaration
 
-![[Cours/Year 4/C++/medias/chp2 - structures code/image2.png]]
+![[chp2 - structures code - image2.png]]
 
 *Figure : anatomie de la déclaration `float moyenne (int a, int b);` : type de retour, nom de la fonction, paramètres (type et nom de chacun).*
 
@@ -146,7 +146,7 @@ Cette déclaration indique au compilateur qu'il existe un symbole `moyenne`, fon
 
 Un programme se découpe en quatre blocs : inclusion des fichiers d'en-tête, déclaration des fonctions et procédures, fonction principale ([[Méthode main|`main`]]), implémentation des fonctions et procédures.
 
-![[Cours/Year 4/C++/medias/chp2 - structures code/image13.png]]
+![[chp2 - structures code - image13.png]]
 
 *Figure : programme C découpé en blocs annotés ; les cadres verts signalent les appels de fonctions et de procédures dans `main` et dans `carre`.*
 
@@ -223,7 +223,7 @@ void init_tab(float t)       /* NON : ne fonctionne pas pour un tableau */
 
 Un [[Tableau (programmation)|tableau en C]] se déclare avec trois informations : le type des éléments, le nom du tableau, sa taille (nombre d'éléments).
 
-![[Cours/Year 4/C++/medias/chp2 - structures code/image3.png]]
+![[chp2 - structures code - image3.png]]
 
 *Figure : tableau de 10 cases numérotées de 0 à 9, chaque case désignée par `tab[0]` à `tab[9]`.*
 

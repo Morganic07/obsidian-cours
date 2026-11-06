@@ -40,7 +40,7 @@ Avantages :
 - réduire la dépendance aux matières premières ;
 - créer des emplois et faire économiser les consommateurs.
 
-![[Cours/Year 3/workshop/ReYOU/medias/Reyou/image2.png]]
+![[Reyou - image2.png]]
 
 *Figure : le modèle d'économie circulaire (Service de recherche du Parlement européen) — conception durable, production, distribution, consommation / réutilisation / réparation, collecte, gestion des déchets ; moins de matières premières, de déchets et d'émissions.*
 
@@ -131,9 +131,9 @@ Référence : article sur la « circulatique », stratégie d'influence sur les 
 
 Arthur Newell Strahler (1918–2002), géographe et hydrologue américain, est connu pour la hiérarchisation des réseaux hydrographiques : la façon dont rivières et affluents s'organisent en système de flux.
 
-![[Cours/Year 3/workshop/ReYOU/medias/Reyou/image3.jpg]]![[Cours/Year 3/workshop/ReYOU/medias/Reyou/image4.jpg]]
+![[Reyou - image3.jpg]]![[Reyou - image4.jpg]]
 
-*Figure : le schéma de Strahler (ordres 1 à 4 des cours d'eau, qui augmentent à chaque confluence) et un plan de salon avec les coefficients de flux à l'entrée (k0,2 à k2), d'après jeanmariehubert.fr.*
+*Figure : le schéma de Strahler (ordres 1 à 4 des cours d'eau : l'ordre augmente quand deux tronçons de même ordre se rejoignent ; un affluent d'ordre 1 qui rejoint un tronçon d'ordre 3 ou 4 ne le change pas) et un plan de salon avec les coefficients de flux à l'entrée (k0,2 à k2), d'après jeanmariehubert.fr.*
 
 ## Personas et parcours utilisateur
 
@@ -199,7 +199,7 @@ L'utilisateur « se reconditionne » comme le meuble : chaque étape de vie du p
 - Petites phrases partout : « Ce bureau a accueilli 1000 idées. Il est prêt pour les vôtres. » ; « Chaque rayure est un chapitre, chaque réparation un nouveau livre. » ; « Le passé de ce bureau inspire votre futur » ; « Rendre visible l'invisible » ; « New is old ».
 - **Mur de réponses aux objections** : de petits dessins qui contredisent chaque phrase type de refus du reconditionné. Exemple : « C'est plus long et plus cher que faire du neuf » → le reconditionnement est plus rapide (stock de meubles prêts à l'emploi) et moins cher ; l'investissement est amorti par la durabilité et les économies de maintenance et de remplacement ; c'est un investissement dans une image engagée et une démarche responsable qui paie sur le long terme.
 
-![[Cours/Year 3/workshop/ReYOU/medias/Reyou/image7.png]]
+![[Reyou - image7.png]]
 
 *Figure : dessin du mur des objections — une objection et sa réponse.*
 

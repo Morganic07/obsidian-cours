@@ -38,7 +38,7 @@ $$\|x\|_1 = \sum_{i=1}^n |x_i|, \qquad \|x\|_2 = \sqrt{\sum_{i=1}^n x_i^2}, \qqu
 - **Remarque 4** : si $E = \mathbb R$, les trois normes coïncident : $\|x\|_1 = \|x\|_2 = \|x\|_\infty = |x|$.
 - **Remarque 5** : en dimension 2, ces normes correspondent à des « tailles de vecteur » dans des situations différentes : la norme euclidienne mesure $\overrightarrow{AB}$ à vol d'oiseau, la norme 1 (**norme de Manhattan**) en suivant le quadrillage.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 2 - éléments de topologie dans Rn/image49.png]]
+![[Chp 2 - éléments de topologie dans Rn - image49.png]]
 *Figure : de $A(3,5)$ à $B(7,2)$, segment en pointillés rouges (norme 2) et chemin en escalier le long du quadrillage (norme 1).*
 
 **Propriétés des normes**
@@ -89,17 +89,17 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
 
    La sphère est un **losange** centré en 0.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 2 - éléments de topologie dans Rn/image48.png]]
+![[Chp 2 - éléments de topologie dans Rn - image48.png]]
 *Figure : boule fermée de la norme 1, losange plein de sommets $(\pm1, 0)$, $(0, \pm1)$, avec l'équation de chaque côté par quadrant (une étiquette erronée, voir « Points à vérifier »).*
 
 2. **Norme 2** : $\|X\|_2 = \sqrt{x^2 + y^2} = 1$ est un cercle de rayon 1 ; la boule fermée est un **disque**.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 2 - éléments de topologie dans Rn/image13.png]]
+![[Chp 2 - éléments de topologie dans Rn - image13.png]]
 *Figure : boule fermée de la norme 2, disque plein de rayon 1 centré à l'origine.*
 
 3. **Norme $\infty$** (à vérifier en exercice) : la boule fermée est un **carré** de côtés allant de $-1$ à $1$.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 2 - éléments de topologie dans Rn/image21.png]]
+![[Chp 2 - éléments de topologie dans Rn - image21.png]]
 *Figure : boule fermée de la norme $\infty$, carré plein $[-1,1]^2$.*
 
 ## 3. Voisinage
@@ -127,7 +127,7 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
 
 **Remarque importante** : $r$ dépend de $x$ ; plus on s'approche du bord de $U$, plus $r$ doit être petit.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 2 - éléments de topologie dans Rn/image8.png]]
+![[Chp 2 - éléments de topologie dans Rn - image8.png]]
 *Figure : un ouvert $U$ (carré en pointillés), une grande boule autour d'un point central et une toute petite boule autour d'un point proche du bord.*
 
 - **Propriété 14** : en dimension finie, être ouvert ne dépend pas de la norme.

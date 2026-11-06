@@ -8,6 +8,7 @@ import unittest
 import zipfile
 from pathlib import Path
 
+import chemins
 import convertir
 
 DESSIN_GROUPE = (
@@ -195,8 +196,8 @@ class TestBoutEnBout(unittest.TestCase):
         self.addCleanup(dossier.cleanup)
         racine = Path(dossier.name)
         self.miroir, self.coffre = racine / "miroir", racine / "coffre"
-        (self.coffre / "Concepts").mkdir(parents=True)
-        (self.coffre / "Concepts" / "Matrice.md").write_text("une matrice\n", encoding="utf-8")
+        (self.coffre / chemins.CONCEPTS).mkdir(parents=True)
+        (self.coffre / chemins.CONCEPTS / "Matrice.md").write_text("une matrice\n", encoding="utf-8")
         self.source = self.miroir / "Year 2" / "Algebre " / "Chp 1 : Intro.docx"
         self.source.parent.mkdir(parents=True)
         fabrique = racine / "fabrique"
@@ -206,7 +207,7 @@ class TestBoutEnBout(unittest.TestCase):
         subprocess.run(
             ["pandoc", "s.md", "-o", str(self.source)], cwd=fabrique, check=True
         )
-        self.note = self.coffre / "Cours" / "Year 2" / "Algebre" / "Chp 1 - Intro.md"
+        self.note = self.coffre / chemins.NOTES / "Year 2" / "Algebre" / "Chp 1 - Intro.md"
 
     def lancer(self, *options):
         return convertir.main(
@@ -220,7 +221,7 @@ class TestBoutEnBout(unittest.TestCase):
         return sortie.getvalue()
 
     def test_signale_les_notes_nouvelles_et_modifiees(self):
-        relative = "Cours/Year 2/Algebre/Chp 1 - Intro.md"
+        relative = f"{chemins.NOTES}/Year 2/Algebre/Chp 1 - Intro.md"
         self.assertIn(f"nouvelle : {relative}", self.lancer_et_lire())
         deuxieme = self.lancer_et_lire()
         self.assertNotIn("nouvelle :", deuxieme)
@@ -237,7 +238,7 @@ class TestBoutEnBout(unittest.TestCase):
         self.assertIn("| une matrice |", texte.replace("[[", "").replace("]]", ""))
         self.assertEqual(texte.count("[[Matrice|matrice]]"), 1)
         # Le nom de l'image dépend de ce qui a produit le docx : on le lit dans la note.
-        image = re.search(r"!\[\[(Cours/Year 2/Algebre/medias/Chp 1 - Intro/[^\]]+\.png)\]\]", texte)
+        image = re.search(rf"!\[\[({re.escape(chemins.NOTES)}/Year 2/Algebre/medias/Chp 1 - Intro/[^\]]+\.png)\]\]", texte)
         self.assertIsNotNone(image)
         self.assertEqual((self.coffre / image[1]).read_bytes(), PNG)
 
@@ -282,7 +283,7 @@ class TestBoutEnBout(unittest.TestCase):
         self.lancer()
         texte = (self.note.parent / "Alt.md").read_text(encoding="utf-8")
         self.assertNotIn("m/media/", texte)
-        self.assertRegex(texte, r"!\[\[Cours/Year 2/Algebre/medias/Alt/[^\]]+\.png\]\]")
+        self.assertRegex(texte, rf"!\[\[{re.escape(chemins.NOTES)}/Year 2/Algebre/medias/Alt/[^\]]+\.png\]\]")
 
     def test_relancer_ne_change_rien(self):
         self.lancer()
@@ -294,10 +295,10 @@ class TestBoutEnBout(unittest.TestCase):
 
     def test_transcription_appliquee_et_liee(self):
         self.lancer()
-        a_faire = self.coffre / ".transcriptions" / "A_FAIRE.tsv"
+        a_faire = self.coffre / chemins.TRANSCRIPTIONS / chemins.A_FAIRE
         empreinte = a_faire.read_text(encoding="utf-8").split("\t")[0]
-        (self.coffre / "Concepts" / "Pixel.md").write_text("", encoding="utf-8")
-        (self.coffre / ".transcriptions" / f"{empreinte}.md").write_text(
+        (self.coffre / chemins.CONCEPTS / "Pixel.md").write_text("", encoding="utf-8")
+        (self.coffre / chemins.TRANSCRIPTIONS / f"{empreinte}.md").write_text(
             "un Pixel seul", encoding="utf-8"
         )
         self.lancer()
@@ -319,7 +320,7 @@ class TestBoutEnBout(unittest.TestCase):
 
     def test_note_deplacee_arrete_tout_sans_rien_modifier(self):
         self.lancer()
-        rangee = self.coffre / "Cours" / "Year 4" / "Chp 1 - Intro.md"
+        rangee = self.coffre / chemins.NOTES / "Year 4" / "Chp 1 - Intro.md"
         rangee.parent.mkdir(parents=True)
         self.note.rename(rangee)
         contenu = rangee.read_bytes()
@@ -333,9 +334,9 @@ class TestBoutEnBout(unittest.TestCase):
 
     def test_dossier_deplace_sur_drive(self):
         self.lancer()
-        empreinte = (self.coffre / ".transcriptions" / "A_FAIRE.tsv").read_text(
+        empreinte = (self.coffre / chemins.TRANSCRIPTIONS / chemins.A_FAIRE).read_text(
             encoding="utf-8").split("\t")[0]
-        (self.coffre / ".transcriptions" / f"{empreinte}.md").write_text("texte lu", encoding="utf-8")
+        (self.coffre / chemins.TRANSCRIPTIONS / f"{empreinte}.md").write_text("texte lu", encoding="utf-8")
         ancien_dossier = self.note.parent
         nouveau = self.miroir / "Year 4" / "Algebre "
         nouveau.parent.mkdir()
@@ -344,7 +345,7 @@ class TestBoutEnBout(unittest.TestCase):
 
         self.assertEqual(self.lancer(), 0)
 
-        arrivee = self.coffre / "Cours" / "Year 4" / "Algebre" / self.note.name
+        arrivee = self.coffre / chemins.NOTES / "Year 4" / "Algebre" / self.note.name
         self.assertIn("> texte lu", arrivee.read_text(encoding="utf-8"))
         self.assertFalse(ancien_dossier.exists(), "l'ancien dossier ne doit pas rester vide")
         self.assertFalse(ancien_dossier.parent.exists())

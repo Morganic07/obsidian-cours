@@ -62,28 +62,28 @@ Voir [[Intersection et union d'ensembles]], [[Différence d'ensembles]] et [[Com
 
 $$(x \in A \cap B) \iff (x \in A \text{ et } x \in B)$$
 
-![[Cours/Year 1/Outil Maths/Cours/medias/Chapitre 2 ensembles/image11.png]]
+![[Chapitre 2 ensembles - image11.png]]
 *Figure : diagramme de Venn de $A$ et $B$, intersection $A \cap B$ en rose.*
 
 ### Union
 
 $$(x \in A \cup B) \iff (x \in A \text{ ou } x \in B)$$
 
-![[Cours/Year 1/Outil Maths/Cours/medias/Chapitre 2 ensembles/image2.png]]
+![[Chapitre 2 ensembles - image2.png]]
 *Figure : diagramme de Venn, les deux disques entiers en rose : l'union $A \cup B$.*
 
 ### Différence
 
 $$(x \in A \setminus B) \iff (x \in A \text{ et } x \notin B) \qquad A \setminus B = A \cap \overline{B}$$
 
-![[Cours/Year 1/Outil Maths/Cours/medias/Chapitre 2 ensembles/image25.png]]
+![[Chapitre 2 ensembles - image25.png]]
 *Figure : diagramme de Venn, la partie de $A$ hors de $B$ coloriée : $A \setminus B$.*
 
 ### Complémentaire
 
 $$(x \in \overline{A}) \iff (x \notin A)$$
 
-![[Cours/Year 1/Outil Maths/Cours/medias/Chapitre 2 ensembles/image26.png]]
+![[Chapitre 2 ensembles - image26.png]]
 *Figure : $A$ inclus dans $E$ ; la zone de $E$ autour de $A$ est $\overline{A}$.*
 
 Notations du complémentaire de $A$ dans $E$ : $\overline{A}$, $\mathrm{C}_E(A)$, $A^c$.

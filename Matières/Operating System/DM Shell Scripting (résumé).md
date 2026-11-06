@@ -319,7 +319,7 @@ Voir [[Commande nproc]] et [[Cœur de processeur]].
 
 *Réponse* : [[Commande lscpu|lscpu]].
 
-![[Cours/Year 2/Operating System/DM/DMs/medias/DM Shell Scripting/image1.png]]
+![[DM Shell Scripting - image1.png]]
 *Figure : sortie de `lscpu` sur la machine de l'étudiante : architecture x86_64, 2 CPU, « On-line CPU(s) list: 0,1 », Intel Celeron N3350 @ 1.10GHz, 1 thread par cœur, 2 sockets.*
 
 La ligne « On-line CPU(s) list » donne les [[Processeur|CPU]] en ligne (ici 0 et 1, chaque CPU étant indexé par un numéro). S'il y avait des CPU hors ligne, une ligne supplémentaire « Off-line CPU(s) list » apparaîtrait. Pour n'extraire que l'état :

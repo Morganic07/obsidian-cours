@@ -160,7 +160,7 @@ int valeur = test == true ? 10 : 20;   // valeur = 20
 
 ### Transtypage (*type casting*)
 
-![[Cours/Year 3/Java/medias/Chp1 - Intro Java/image9.png]]
+![[Chp1 - Intro Java - image9.png]]
 *Figure : hiérarchie des types primitifs numériques, de haut en bas `double`, `float`, `long`, `int`, puis `short` et `char` sous `int`, et `byte` en bas.*
 
 **Règle générale** ([[Transtypage]]) :
@@ -261,8 +261,8 @@ public class Premier {
 1. Le programme est stocké dans le fichier `Premier.java` (même nom que la classe).
 2. Toute application Java doit contenir une [[Méthode main|méthode `main()`]], exécutée en premier.
 
-![[Cours/Year 3/Java/medias/Chp1 - Intro Java/image25.png]]
-*Figure : le programme `Premier` annoté : `class Premier` identifie une classe ; `public`, `static`, `void` sont des modificateurs ; `main` est le début de l'exécution ; `String[] args` est le tableau des éléments d'entrée ; `System.out.println` affiche un message à l'écran.*
+![[Chp1 - Intro Java - image25.png]]
+*Figure : le programme `Premier` annoté : `class Premier` identifie une classe ; `public` (sur les deux lignes) et `static` sont désignés comme modificateurs ; `main` est le début de l'exécution ; `String[] args` est le tableau des éléments d'entrée ; `System.out.println` affiche un message à l'écran.*
 
 ### Compiler et exécuter
 

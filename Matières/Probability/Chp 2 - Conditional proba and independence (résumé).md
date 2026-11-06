@@ -20,7 +20,7 @@ On dit aussi « probabilité de $A$ sachant $B$ » (*given B*).
 
 **Interprétation.** Dans une expérience à issues [[Équiprobabilité|équiprobables]] (*equally likely outcomes*), la probabilité conditionnelle est la probabilité de $A$ relativement à $B$ : conditionner sur $B$, c'est prendre $B$ comme nouvel [[Espace probabilisé|espace d'échantillonnage]] ; de $A$ il ne reste que $A \cap B$.
 
-![[Cours/Year 2/Probability/medias/Chp 2 - Conditional proba and independence/image7.png]]
+![[Chp 2 - Conditional proba and independence - image7.png]]
 *Figure : conditionner sur $B$ (*"conditioning" on event B*) — $B$ devient le nouveau *sample space*, et $A \cap B$ est ce qui reste de l'événement $A$.*
 
 ## Règle de multiplication (*multiplication rule*)
@@ -43,7 +43,7 @@ $$A_1 \cup A_2 \cup \dots \cup A_n = S$$
 **Théorème (probabilités totales).** Soit $A_1, \dots, A_n$ des événements [[Événements incompatibles|mutuellement exclusifs]] (*mutually exclusive*) et exhaustifs de $S$ (une [[Partition d'un ensemble|partition]] de $S$). Alors pour tout autre événement $B$ de $S$ :
 $$P(B) = P(B|A_1)P(A_1) + P(B|A_2)P(A_2) + \dots + P(B|A_n)P(A_n) = \sum_{i=1}^{n} P(B|A_i)\,P(A_i)$$
 
-![[Cours/Year 2/Probability/medias/Chp 2 - Conditional proba and independence/image14.png]]
+![[Chp 2 - Conditional proba and independence - image14.png]]
 *Figure : le rectangle $S$ partitionné en $A_1, A_2, A_3, A_4$ ; l'ellipse $B$ recoupe les quatre régions, et ses morceaux $B \cap A_i$ sont hachurés.*
 
 ## Théorème de Bayes (« el meilleur théorème des proba », d'après la note)

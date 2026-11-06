@@ -29,7 +29,7 @@ Un routeur utilise sa table de routage pour décider du chemin d'un paquet. Il a
 
 Topologie d'exemple sous Packet Tracer (voir [[Formation CISCO Packet Tracer (résumé)]]) :
 
-![[Cours/Year 3/Computer Network/medias/Chp2 - Static Routing/image2.png]]
+![[Chp2 - Static Routing - image2.png]]
 *Figure : R1 (2911) relie 192.168.1.0/24 par G0/1 (Switch0, PC1, PC2) et 192.168.2.0/24 par G0/2 (Switch1, PC3, PC4) ; il est relié à R2 par G0/0 sur le lien 203.0.113.0/30. R2 (2911) relie 10.0.1.0/24 par G0/1 (Switch2, Server1) et 10.0.2.0/24 par G0/2 (Switch3, Server2). Avec le tableau des réseaux connectés.*
 
 | Appareil | Réseau directement connecté (C) | Via l'interface |
@@ -43,7 +43,7 @@ Topologie d'exemple sous Packet Tracer (voir [[Formation CISCO Packet Tracer (r�
 
 ## Réseaux distants
 
-![[Cours/Year 3/Computer Network/medias/Chp2 - Static Routing/image4.png]]
+![[Chp2 - Static Routing - image4.png]]
 *Figure : même topologie, avec le tableau des réseaux distants que chaque routeur doit apprendre.*
 
 | Appareil | Réseau de destination distant | Via l'interface | Via l'adresse du saut suivant (*next hop*) |
@@ -65,7 +65,7 @@ Codes principaux : `C` (*connected*, réseau connecté), `L` (*local*, adresse d
 
 Sortie de R1 avant toute route statique :
 
-![[Cours/Year 3/Computer Network/medias/Chp2 - Static Routing/image1.png]]
+![[Chp2 - Static Routing - image1.png]]
 *Figure : capture de `show ip route` sur R1, uniquement des routes C et L.*
 
 ```
@@ -107,7 +107,7 @@ Router(config)# ip route 192.168.2.0 255.255.255.0 gigabitEthernet 0/0
 Router# sh ip route
 ```
 
-![[Cours/Year 3/Computer Network/medias/Chp2 - Static Routing/image3.png]]
+![[Chp2 - Static Routing - image3.png]]
 *Figure : configuration et table de routage de R2 ; les deux routes statiques sont encadrées en rouge.*
 
 Extrait de la table obtenue (« *Gateway of last resort is not set* ») :
@@ -138,7 +138,7 @@ Router(config)# ip route 10.0.2.0 255.255.255.0 203.0.113.2
 
 (sur R2, symétriquement, vers 192.168.1.0 et 192.168.2.0 via 203.0.113.1, d'après le tableau des réseaux distants).
 
-![[Cours/Year 3/Computer Network/medias/Chp2 - Static Routing/image5.png]]
+![[Chp2 - Static Routing - image5.png]]
 *Figure : configuration par saut suivant sur R1 et sortie de `sh ip route` ; les deux routes `S` sont encadrées en rouge.*
 
 ```

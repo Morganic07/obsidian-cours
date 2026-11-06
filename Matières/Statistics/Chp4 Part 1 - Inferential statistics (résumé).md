@@ -43,7 +43,7 @@ L'**erreur type** (*standard error*) de $\hat{\theta}$ est son écart-type, $\si
 $$\text{MSE} = V(\hat{\theta}) + [E(\hat{\theta}) - \theta]^2 = \text{variance de l'estimateur} + (\text{biais})^2.$$
 En particulier, pour un estimateur sans biais, MSE et variance sont égales.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part 1 - Inferential statistics/image19.png]]
+![[Chp4 Part 1 - Inferential statistics - image19.png]]
 
 *Figure : (1) quatre cibles croisant biais faible ou fort et variance faible ou forte ; (2) trois densités d'estimateurs : (a) exact mais pas précis, (b) précis mais pas exact, (c) exact et précis.*
 
@@ -72,7 +72,7 @@ On considère plusieurs échantillons d'une population. Sur chacun, on calcule u
 
 Pour chaque distribution d'échantillonnage, on calcule moyenne, écart-type, variance… On en déduit l'espérance de l'estimateur (biaisé ou non : exactitude) et sa variance (précision).
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part 1 - Inferential statistics/image2.png]]
+![[Chp4 Part 1 - Inferential statistics - image2.png]]
 
 *Figure : panneau A, estimateur sans biais : la distribution de $\hat{\theta}$ est centrée sur $\theta$ ; panneau B, estimateur biaisé : elle est centrée sur $E(\hat{\theta}) \neq \theta$, l'écart étant le biais.*
 
@@ -81,7 +81,7 @@ Pour chaque distribution d'échantillonnage, on calcule moyenne, écart-type, va
 - Si $\sigma$ est connu, l'écart-type de $\bar{X}$, ou **erreur type de la moyenne** (*standard error of the mean*), est $\mathrm{SD}(\bar{X}) = \dfrac{\sigma}{\sqrt{n}}$.
 - Si $\sigma$ est inconnu, on l'estime avec l'écart-type d'échantillon : $\mathrm{SD}(\bar{X}) \approx \dfrac{s}{\sqrt{n}}$.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part 1 - Inferential statistics/image11.png]]
+![[Chp4 Part 1 - Inferential statistics - image11.png]]
 
 *Figure : à gauche, population normale et lois de $\bar{X}$ pour $n = 4$ et $n = 10$, de plus en plus étroites ; à droite, le [[Théorème central limite]] illustré : population asymétrique, loi de $\bar{X}$ un peu asymétrique pour $n$ petit, approximativement normale pour $n$ grand.*
 

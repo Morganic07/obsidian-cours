@@ -107,7 +107,7 @@ $$(fg)^{(n)} = \sum_{k=0}^{n} \binom{n}{k} f^{(k)} g^{(n-k)}.$$
 $$\exists c \in [a, b],\ f'(c) = 0$$
 (le cours écrit $[a, b]$ : voir Points à vérifier, 3).
 
-![[Cours/Year 1/Analyse Maths/Cours/medias/Chp4 - dérivabilité/image12.png]]
+![[Chp4 - dérivabilité - image12.png]]
 *Figure : quatre situations autour du théorème de Rolle. 1. Cas standard ($f(a) = f(b)$, tangente horizontale entre $a$ et $b$). 2. Sans dérivabilité en un seul point (point anguleux), plus de tangente horizontale. 3. Sans continuité au bord (saut en $a$), « encore pire ». 4. Si $f(a) \ne f(b)$, « toujours la cata ».*
 
 ### Théorème des accroissements finis

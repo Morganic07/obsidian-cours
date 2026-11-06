@@ -25,7 +25,7 @@ ou encore $\bar{x} - 1{,}96\,\sigma/\sqrt{n} < \mu < \bar{x} + 1{,}96\,\sigma/\s
 **Définition.** Un intervalle de confiance à $100(1-\alpha)\,\%$ pour la moyenne $\mu$ d'une population normale, quand $\sigma$ est connu, est
 $$\left(\bar{x} - z_{\alpha/2} \cdot \frac{\sigma}{\sqrt{n}},\ \bar{x} + z_{\alpha/2} \cdot \frac{\sigma}{\sqrt{n}}\right),\quad \text{soit } \bar{x} \pm z_{\alpha/2} \cdot \frac{\sigma}{\sqrt{n}}.$$
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part2 - Inferential statistics/image6.png]]
+![[Chp4 Part2 - Inferential statistics - image6.png]]
 
 *Figure : courbe $z$ : aire centrale $1 - \alpha$ entre $-z_{\alpha/2}$ et $z_{\alpha/2}$, deux queues grisées d'aire $\alpha/2$ chacune ; $P(-z_{\alpha/2} \le Z \le z_{\alpha/2}) = 1 - \alpha$.*
 
@@ -51,7 +51,7 @@ $$P\left\{\overline{X} - z_{\alpha/2}\frac{\sigma}{\sqrt{n}} < \mu < \overline{X
 
 ## Interprétation de l'intervalle de confiance
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part2 - Inferential statistics/image5.png]]
+![[Chp4 Part2 - Inferential statistics - image5.png]]
 
 *Figure : 16 intervalles de confiance calculés sur 16 échantillons, autour de la valeur $\mu$ (ligne grise) ; tous contiennent $\mu$ sauf le n° 11.*
 

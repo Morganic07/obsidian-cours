@@ -38,7 +38,7 @@ Résumé de [[world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan e
 
 ## Infographie
 
-![[Cours/Year 2/Anglais/medias/world in 2075/image1.png]]
+![[world in 2075 - image1.png]]
 
 *Figure : infographie « Earth in 2075 » : ville futuriste avec éoliennes, planète dans le ciel, satellites, fusées, panneaux solaires ; libellés « AI », « Brain-interface technology », « Sustainable energy ».*
 

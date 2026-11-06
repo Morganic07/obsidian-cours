@@ -25,7 +25,7 @@ $ ip address
 
 Réponse : adresse locale interne `127.0.0.1` (voir point à vérifier 4 et [[Adresse de bouclage]]) ; adresse sur le réseau `100.115.92.201` ([[Adressage IPv4 et CIDR]], [[Commande ip]]).
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image8.png]]
+![[TP3 - image8.png]]
 *Capture : sortie de `ip address`.*
 
 ### 2. Fichier `/etc/hosts`
@@ -41,7 +41,7 @@ ff02::2         ip6-allrouters
 
 Voir [[Fichier hosts]].
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image18.png]]
+![[TP3 - image18.png]]
 *Capture : `cat /etc/hosts`.*
 
 ### 3. Configuration réseau
@@ -62,7 +62,7 @@ source /etc/network/interfaces.d/*
 
 L'interface `lo` est la boucle locale ; `eth0` obtient son adresse par [[DHCP]] (`inet dhcp`).
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image2.png]]
+![[TP3 - image2.png]]
 *Capture : `cat interfaces` dans `/etc/network`.*
 
 ### 4. Nom d'hôte, IP, et modification de `/etc/hosts`
@@ -88,7 +88,7 @@ ff02::2            ip6-allrouters
 Après modification (ajout de l'IP réseau associée au nom d'hôte) :
 
 ```
-127.0.0.1       penguin
+127.0.1.1       penguin
 127.0.0.1       localhost
 100.115.92.201  penguin
 
@@ -110,16 +110,16 @@ PING penguin (127.0.1.1) 56(84) bytes of data.
 
 Conclusion de l'étudiante : « tout semble correct ».
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image15.png]]
+![[TP3 - image15.png]]
 *Capture : `hostname ; hostname -I`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image9.png]]
+![[TP3 - image9.png]]
 *Capture : `/etc/hosts` avant la modification.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image17.png]]
+![[TP3 - image17.png]]
 *Capture : `/etc/hosts` après la modification.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image14.png]]
+![[TP3 - image14.png]]
 *Capture : `ping penguin`.*
 
 ## Script `time.sh`
@@ -147,10 +147,10 @@ $ cat date.txt
 ...
 ```
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image10.png]]
+![[TP3 - image10.png]]
 *Capture : lancement de `./time.sh &` dans `~/data`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image6.png]]
+![[TP3 - image6.png]]
 *Capture : `cat date.txt`.*
 
 ## Script `backup.sh`
@@ -171,16 +171,16 @@ backup.sh  date.txt
 
 Deux `cat` successifs de la copie montrent qu'elle s'allonge (de 10:56:07 à 10:56:23) : « le fichier `date.txt` est mis à jour toutes les 15 secondes ». Ensuite, l'étudiante arrête toutes les tâches en cours.
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image13.png]]
+![[TP3 - image13.png]]
 *Capture : lancement de `sudo ./backup.sh &` dans `~/backup`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image16.png]]
+![[TP3 - image16.png]]
 *Capture : `ls` dans `~/backup`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image11.png]]
+![[TP3 - image11.png]]
 *Capture : sortie horodatée (2024-11-25 10:55:28…).*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image19.png]]
+![[TP3 - image19.png]]
 *Capture : sortie horodatée (2024-11-25 10:55:28…), seconde capture.*
 
 ## Tâche 2 : sauvegarde de la mémoire
@@ -213,13 +213,13 @@ Swap:              0B          0B          0B
 
 Le second `cat` montre six blocs au lieu de quatre : le fichier grandit.
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image1.png]]
+![[TP3 - image1.png]]
 *Capture : le script `memory.sh`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image12.png]]
+![[TP3 - image12.png]]
 *Capture : lancement de `./memory.sh &`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image3.png]]
+![[TP3 - image3.png]]
 *Capture : `cat memory.txt`.*
 
 ### 2. Sauvegarder `memory.txt` toutes les 20 secondes
@@ -244,10 +244,10 @@ date.txt  memory.txt  time.sh
 
 Un `cat memory.txt` répété montre que la copie s'allonge toutes les 20 secondes.
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image4.png]]
+![[TP3 - image4.png]]
 *Capture : le script de sauvegarde de `memory.txt`.*
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image7.png]]
+![[TP3 - image7.png]]
 *Capture : `ls` dans `~/data`.*
 
 ### 3. Arrêter les tâches
@@ -264,7 +264,7 @@ Voir [[Commande jobs]] et [[Commande kill]].
 [2]+  Terminated              ./memory.sh
 ```
 
-![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image5.png]]
+![[TP3 - image5.png]]
 *Capture : `jobs` dans `~/backup`.*
 
 ## Points à vérifier dans le cours
@@ -272,7 +272,7 @@ Voir [[Commande jobs]] et [[Commande kill]].
 Rien n'a été corrigé dans le cours.
 
 1. **Adresse `127.0.0.1.1`** : la transcription la signale ; probablement `127.0.1.1` (curseur sur le premier caractère). **Vérifié sur l'image** : il s'agit bien de `127.0.1.1`, le curseur recouvre le premier chiffre.
-2. **`ping penguin` après modification** : la sortie montre `127.0.1.1`, alors que le fichier modifié associe `penguin` à `127.0.0.1` ; la capture date peut-être d'avant la modification (complément).
+2. **`ping penguin` après modification** : la sortie montre `127.0.1.1`, ce qui concorde avec le fichier modifié, dont la première ligne reste `127.0.1.1 penguin`. La transcription lisait `127.0.0.1 penguin` ; **vérifié sur l'image** : c'est `127.0.1.1`, le curseur recouvre le premier chiffre. `penguin` y est donc associé à deux adresses, `127.0.1.1` puis `100.115.92.201`, et `ping` prend la première (complément).
 3. **Doublons dans `date.txt`** : les horodatages se répètent deux fois par intervalle, ce qui indique que deux copies du script écrivaient en même temps (complément).
 4. **Adresse affichée comme « interne »** : `127.0.0.1` est l'adresse de bouclage, pas une adresse locale du réseau.
 5. **Message de `backup.sh`** : la sortie affiche « 2024-11-25 11:06:11 - Successful! » ; le script de `backup.sh` n'est pas montré dans la note, et celui de la tâche 2 (`echo "$Backup Successful!"`) n'afficherait que « Successful! » car `$Backup` est vide (complément).

@@ -41,7 +41,7 @@ Comparaison matrice / data frame (tableau du cours) :
 | Les colonnes ne contiennent qu'un seul type | Les données doivent être de type numérique, caractère ou facteur |
 | Homogène | Hétérogène |
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 1/image10.png]]
+![[Séance 1 - Data analysis (Thanos) - image10.png]]
 
 *Figure : les structures de données de R (scalaire, vecteur, matrice, array, data frame, liste) et les types de données (numérique, caractère, logique).*
 

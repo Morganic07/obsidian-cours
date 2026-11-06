@@ -13,7 +13,7 @@ Résumé de [[Chp4 Part3 - Inferential statistics]], dans [[Statistics (matière
 **Taille d'échantillon pour une erreur donnée sur la moyenne, variance connue.** Si $\bar{x}$ estime $\mu$, on est confiant à $100(1-\alpha)\,\%$ que l'erreur $|\bar{x} - \mu|$ ne dépasse pas $E$ quand
 $$n = \left(\frac{z_{\alpha/2}\,\sigma}{E}\right)^2.$$
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image10.png]]
+![[Chp4 Part3 - Inferential statistics - image10.png]]
 
 *Figure : l'erreur $E = |\bar{x} - \mu|$ sur l'axe, entre les bornes $l = \bar{x} - z_{\alpha/2}\sigma/\sqrt{n}$ et $u = \bar{x} + z_{\alpha/2}\sigma/\sqrt{n}$.*
 
@@ -70,7 +70,7 @@ $$f(x; \nu) = \frac{1}{2^{\nu/2}\,\Gamma(\nu/2)}\, x^{(\nu/2) - 1}\, e^{-x/2}, \
 1. si $X_3 = X_1 + X_2$, avec $X_1 \sim \chi^2_{\nu_1}$ et $X_2 \sim \chi^2_{\nu_2}$ indépendantes, alors $X_3 \sim \chi^2_{\nu_1 + \nu_2}$ : la loi est **additive** ;
 2. si $X_3 = X_1 + X_2$, avec $X_1$, $X_2$ indépendantes, $X_1 \sim \chi^2_{\nu_1}$ et $X_3 \sim \chi^2_{\nu_3}$, $\nu_3 > \nu_1$, alors $X_2 \sim \chi^2_{\nu_3 - \nu_1}$ : elle est **soustractive**.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image13.png]]
+![[Chp4 Part3 - Inferential statistics - image13.png]]
 
 *Figure : densités du $\chi^2$ pour 1, 2, 3 et 5 degrés de liberté : à 1 et 2 df la courbe décroît depuis 0 ; à 3 et 5 df elle a un pic décalé vers la droite et une queue longue.*
 
@@ -80,7 +80,7 @@ Preuve : en devoir (*HW*). La variance d'échantillon est donc un khi-deux (remi
 
 **Notation** : $\chi^2_{\alpha,\nu}$, **valeur critique** du khi-deux ([[Valeur critique]]), est le nombre de l'axe tel que l'aire sous la courbe à $\nu$ df **à droite** de $\chi^2_{\alpha,\nu}$ vaut $\alpha$.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image5.png]]
+![[Chp4 Part3 - Inferential statistics - image5.png]]
 
 *Figure : notation $\chi^2_{\alpha,\nu}$ : (a) aire $\alpha$ à droite de $\chi^2_{\alpha,\nu}$ ; (b) deux aires de 0,01, à gauche de $\chi^2_{0{,}99,\nu}$ et à droite de $\chi^2_{0{,}01,\nu}$.*
 
@@ -92,7 +92,7 @@ Si $s^2$ est la variance d'un échantillon de $n$ observations d'une loi normale
 $$\frac{(n-1)s^2}{\chi^2_{\alpha/2,\,n-1}} \le \sigma^2 \le \frac{(n-1)s^2}{\chi^2_{1-\alpha/2,\,n-1}} \qquad (1)$$
 où $\chi^2_{\alpha/2,n-1}$ et $\chi^2_{1-\alpha/2,n-1}$ sont les points de pourcentage supérieur et inférieur $100\alpha/2$ du khi-deux à $n - 1$ df. Pour $\sigma$, on prend les racines carrées des bornes de (1).
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image7.png]]
+![[Chp4 Part3 - Inferential statistics - image7.png]]
 
 *Figure : aires de queue du $\chi^2$ : aire $\alpha$ à droite de $\chi^2_{\alpha,k}$ ; aire $\alpha/2$ de chaque côté ; exemple à 10 df : $\chi^2_{0{,}95,10} = 3{,}94$ et $\chi^2_{0{,}05,10} = 18{,}31$.*
 
@@ -107,9 +107,9 @@ $$T = \frac{Z}{\sqrt{Y/v}}, \qquad \text{notée } T \sim t_v.$$
 $$f(t) = \frac{1}{\sqrt{\pi v}}\,\frac{\Gamma((v+1)/2)}{\Gamma(v/2)}\,\frac{1}{(1 + t^2/v)^{(v+1)/2}}, \quad -\infty < t < \infty.$$
 Preuve : en devoir.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image6.png]]
+![[Chp4 Part3 - Inferential statistics - image6.png]]
 
-*Figure : courbes $t$ à 1 et 20 df comparées à la courbe $z$ : plus le nombre de df est grand, plus la courbe est proche de la normale ; à 1 df, les queues sont les plus épaisses.*
+*Figure : courbes $t$ à 1, 5 et 20 df comparées à la courbe $z$ : plus le nombre de df est grand, plus la courbe est proche de la normale ; à 1 df, les queues sont les plus épaisses.*
 
 **Théorème de Gosset** : si $X_1, \dots, X_n$ est un échantillon d'une loi $N(\mu, \sigma)$, alors
 $$\frac{\bar{X} - \mu}{S/\sqrt{n}} \sim t_{n-1}.$$
@@ -117,7 +117,7 @@ Preuve : en devoir.
 
 **Notation** : $t_{\alpha,\nu}$, **valeur critique** $t$, est le nombre de l'axe tel que l'aire sous la courbe $t$ à $\nu$ df à droite de $t_{\alpha,\nu}$ vaut $\alpha$.
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image4.png]]
+![[Chp4 Part3 - Inferential statistics - image4.png]]
 
 *Figure : courbe $t_\nu$ centrée en 0, aire ombrée $\alpha$ à droite de $t_{\alpha,\nu}$.*
 
@@ -127,7 +127,7 @@ Si $\bar{x}$ et $s$ sont la moyenne et l'écart-type d'un échantillon d'une loi
 $$\bar{x} - t_{\alpha/2,\,n-1}\,\frac{s}{\sqrt{n}} \le \mu \le \bar{x} + t_{\alpha/2,\,n-1}\,\frac{s}{\sqrt{n}}$$
 où $t_{\alpha/2,n-1}$ est le point de pourcentage supérieur $100\alpha/2$ de la loi $t$ à $n - 1$ df. Voir [[Test t]].
 
-![[Cours/Year 3/Statistics/medias/Chp4 Part3 - Inferential statistics/image2.png]]
+![[Chp4 Part3 - Inferential statistics - image2.png]]
 
 *Figure : courbe $t$ avec la queue droite ombrée au-delà de $t_{\alpha/2}$, d'aire $\alpha/2$.*
 

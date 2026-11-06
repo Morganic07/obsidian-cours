@@ -53,7 +53,7 @@ Vidéos citées : « Insertion dans un AVL » et « Suppression dans un AVL » (
 
 > **Définition.** Une rotation droite autour du sommet $y$ d'un arbre binaire de recherche consiste à faire descendre $y$ et à faire remonter son fils gauche $x$ sans invalider l'ordre des éléments. L'opération inverse s'appelle rotation gauche autour du sommet $x$.
 
-![[Cours/Year 2/Algo/DM/medias/AVL momo/image3.png]]
+![[AVL momo - image3.png]]
 *Figure : rotation droite : $y$ (fils gauche $x$ de sous-arbres $\alpha$, $\beta$ ; sous-arbre droit $\gamma$) devient $x$ racine, avec $\alpha$ à gauche et $y$ à droite (sous-arbres $\beta$, $\gamma$) ; la rotation gauche fait l'inverse.*
 
 ## Cas à l'insertion (convention droite moins gauche)
@@ -62,14 +62,14 @@ Les opérations d'insertion et de suppression sont celles d'un ABR, auxquelles o
 
 ### Cas 1 : $eq(x) = -1$ ou $0$ : rotation droite
 
-![[Cours/Year 2/Algo/DM/medias/AVL momo/image4.png]]
+![[AVL momo - image4.png]]
 *Figure : rotation droite autour de $y$ (−2) ; $x$ (0) remonte en racine avec le sous-arbre vert à gauche, $y$ passe à droite avec les sous-arbres rouge et jaune ; facteurs après rotation $x = 1$, $y = -1$.*
 
 ### Cas 2 : $eq(x) = 1$ : double rotation
 
 $x$ a un sous-arbre droit de racine $z$, qui a deux sous-arbres. On effectue une **rotation gauche autour de $x$**, puis une **rotation droite autour de $y$**.
 
-![[Cours/Year 2/Algo/DM/medias/AVL momo/image8.png]]
+![[AVL momo - image8.png]]
 *Figure : double rotation : $y$ (−2), $x$ (1), $z$ fils droit de $x$ ; après la rotation gauche autour de $x$, $z$ devient fils gauche de $y$ ; après la rotation droite autour de $y$, $z$ (0) est racine avec $x$ à gauche et $y$ à droite.*
 
 ### Pseudo-code
@@ -104,7 +104,7 @@ ELSE IF tree is left heavy
 
 ## Complexité des fonctions
 
-![[Cours/Year 2/Algo/DM/medias/AVL momo/image7.png]]
+![[AVL momo - image7.png]]
 *Figure : dépendances entre fonctions : `hauteur` → `fact_equilibrage` ; `fact_equilibrage`, `rotation_gauche` et `rotation_droite` → `equilibrer` ; `equilibrer` → `ajouter` et `supprimer` ; `trouver_min` → `supprimer`.*
 
 Démarche : pour la [[Complexité algorithmique|complexité]] de `ajouter()` ou `supprimer()`, il faut celle de `hauteur()`, qui donne celle de `fact_equi()`, puis celle des rotations, pour calculer celle de `equilibrer()`.

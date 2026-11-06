@@ -34,12 +34,12 @@ avec $p(x) > 0$ (sic, voir Points à vérifier) et $\sum_x p(x) = 1$.
 $$p(x) = \begin{cases} 0{,}8 & \text{si } x = 0 \\ 0{,}2 & \text{si } x = 1 \\ 0 & \text{si } x \ne 0 \text{ et } x \ne 1 \end{cases}$$
 On peut la représenter par un **diagramme en bâtons** (*[[Diagramme en bâtons et histogramme de probabilité|line graph]]*) :
 
-![[Cours/Year 2/Probability/medias/Chp 4 - Discrete random variables/image1.png]]
+![[Chp 4 - Discrete random variables - image1.png]]
 *Figure : diagramme en bâtons de $p(x)$ — un bâton de hauteur 0,8 en $x = 0$, un bâton de hauteur 0,2 en $x = 1$.*
 
 **Histogramme de probabilité** (*probability histogram*) : au-dessus de chaque $x$ tel que $p(x) > 0$, placer un rectangle centré en $x$, de hauteur proportionnelle à $p(x)$ ; la base est la même pour tous les rectangles.
 
-![[Cours/Year 2/Probability/medias/Chp 4 - Discrete random variables/image9.png]]
+![[Chp 4 - Discrete random variables - image9.png]]
 *Figure : deux histogrammes de probabilité — (a) rectangles centrés en 0 et 1, celui en 0 bien plus haut ; (b) quatre rectangles contigus centrés en 1, 2, 3, 4, de hauteur décroissante.*
 
 ## Probabilité de l'événement $\{X \le x\}$
@@ -76,7 +76,7 @@ Valeurs de $F$ aux cinq valeurs possibles :
 Pour tout autre $x$, $F(x)$ vaut $F$ à la valeur possible de $X$ la plus proche à gauche de $x$ : $F(2{,}7) = P(X \le 2) = 0{,}15$ ; $F(7{,}999) = P(X \le 4) = 0{,}50$. Si $x < 1$, $F(x) = 0$ (ex. $F(0{,}58) = 0$) ; si $x \ge 16$, $F(x) = 1$ (ex. $F(25) = 1$). D'où :
 $$F(x) = \begin{cases} 0 & x < 1 \\ 0{,}05 & 1 \le x < 2 \\ 0{,}15 & 2 \le x < 4 \\ 0{,}50 & 4 \le x < 8 \\ 0{,}90 & 8 \le x < 16 \\ 1 & 16 \le x \end{cases}$$
 
-![[Cours/Year 2/Probability/medias/Chp 4 - Discrete random variables/image11.jpg]]
+![[Chp 4 - Discrete random variables - image11.jpg]]
 *Figure : Fig. 2.5 — graphe en escalier de la cdf de l'exemple 2.11 ; paliers 0, 0,05, 0,15, 0,5, 0,9, puis 1 à partir de $x = 16$, chaque palier fermé à gauche.*
 
 ## De la cdf à la pmf

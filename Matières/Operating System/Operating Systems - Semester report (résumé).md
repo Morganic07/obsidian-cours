@@ -16,32 +16,32 @@ Mêmes questions que [[DM Shell Scripting (résumé)]] pour le Lab 1, mêmes pro
 
 **2. Quels shells le système supporte-t-il ?** `cat /etc/shells` ([[Fichier shells]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image43.png]]
+![[Operating Systems - Semester report - image43.png]]
 *Figure : sortie de `cat /etc/shells` : sh, bash, rbash et dash, chacun dans `/bin` et `/usr/bin`.*
 
 **3. Où se trouve bash ?** `which bash` ([[Commande which]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image57.png]]
+![[Operating Systems - Semester report - image57.png]]
 *Figure : `which bash` renvoie `/usr/bin/bash`.*
 
 **4. Répertoire de travail courant ?** `pwd` ([[Commande pwd]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image15.png]]
+![[Operating Systems - Semester report - image15.png]]
 *Figure : `pwd` renvoie `/home/momo`.*
 
 **5. Créer le répertoire `ostasks` dans le répertoire utilisateur et s'y placer** : `cd /home/{user name}`, `mkdir ostasks`, `cd ostasks` ([[Commande mkdir]], [[Commande cd]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image56.png]]
+![[Operating Systems - Semester report - image56.png]]
 *Figure : `mkdir ostasks` puis `cd ostasks/` ; l'invite devient `~/ostasks$`.*
 
 **6. Créer `firstprogram.sh`** avec `touch {file name}.sh`, l'ouvrir dans un éditeur ([[Gedit|gedit]], [[Éditeur nano|nano]], [[Vim|vim]]), y afficher « Hello », l'exécuter.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image21.png]]
+![[Operating Systems - Semester report - image21.png]]
 *Figure : `cat firstprogram.sh` montre la ligne `echo "Hello"`.*
 
 **7. Donner la permission d'exécution** : `chmod +x {file name}.extension` ([[Commande chmod]]). L'étudiante utilise `sudo chmod 777`.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image32.png]]
+![[Operating Systems - Semester report - image32.png]]
 *Figure : `sudo chmod 777 firstprogram.sh` puis `./firstprogram.sh` affiche `Hello`.*
 
 **8. Enregistrer puis afficher la date et l'heure** ([[Substitution de commande]]) :
@@ -53,7 +53,7 @@ current_datetime=$(date)
 echo “Current Date and Time: $current_datetime”
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image50.png]]
+![[Operating Systems - Semester report - image50.png]]
 *Figure : exécution : les guillemets typographiques s'affichent dans la sortie (`“hello”`, `“Current Date and Time: Sat Jan 4 07:40:49 PM CET 2025”`).*
 
 **11. Nom de la variable utilisateur de la question 8** : `current_datetime`.
@@ -64,17 +64,17 @@ echo “Current Date and Time: $current_datetime”
 
 *Énoncé* : lancer `lshw`, expliquer son rôle, trouver une solution s'il ne marche pas.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image31.png]]
+![[Operating Systems - Semester report - image31.png]]
 *Figure : `lshw` → `-bash: lshw: command not found`.*
 
 `lshw` ([[Commande lshw]]) doit être installé avec `sudo apt install lshw` ([[APT]], [[Commande sudo]]). Il liste le matériel de l'ordinateur.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image54.png]]
+![[Operating Systems - Semester report - image54.png]]
 *Figure : `lshw` sans droits : avertissement « you should run this program as super-user », puis description de la machine (64 bits, mémoire système 6912 MiB, CPU Intel Celeron N3350).*
 
 Pour une vue complète : `sudo lshw` (sortie trop longue pour une seule capture).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image41.png]]
+![[Operating Systems - Semester report - image41.png]]
 *Figure : début de la sortie de `sudo lshw`, sans l'avertissement.*
 
 #### Tâche 2 : les 500 premiers nombres premiers
@@ -131,10 +131,10 @@ do
 done
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image20.png]]
+![[Operating Systems - Semester report - image20.png]]
 *Figure : début de la sortie de `./primenumber.sh` : 2, 3, 5, 7, 11… 97.*
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image53.png]]
+![[Operating Systems - Semester report - image53.png]]
 *Figure : fin de la sortie : … 3557, 3559, 3571. Le dernier nombre affiché est 3571, le 500e nombre premier.*
 
 #### Tâche 3 : nombre de cœurs
@@ -146,7 +146,7 @@ echo "There is $(nproc --all) cores on my machine"
 
 `nproc --all` ([[Commande nproc]]) donne le nombre de cœurs de l'ordinateur ([[Cœur de processeur]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image10.png]]
+![[Operating Systems - Semester report - image10.png]]
 *Figure : `./core.sh` affiche « There is 2 cores on my machine ».*
 
 #### Tâche 4 : état des cœurs
@@ -155,7 +155,7 @@ echo "There is $(nproc --all) cores on my machine"
 
 Réponse : [[Commande lscpu|lscpu]].
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image28.png]]
+![[Operating Systems - Semester report - image28.png]]
 *Figure : sortie de `lscpu` : x86_64, 2 CPU, « On-line CPU(s) list: 0,1 », Intel Celeron N3350.*
 
 La ligne « On-line CPU(s) list » donne les [[Processeur|CPU]] en ligne, indexés par un numéro (ici 0 et 1). S'il y avait des CPU hors ligne, une ligne « Off-line CPU(s) list » apparaîtrait. Pour n'extraire que l'état ([[Commande grep]]) :
@@ -165,7 +165,7 @@ lscpu | grep "On-line CPU(s) list"
 lscpu | grep "Off-line CPU(s) list"
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image58.png]]
+![[Operating Systems - Semester report - image58.png]]
 *Figure : les deux commandes enchaînées par `;` n'affichent que « On-line CPU(s) list: 0,1 ».*
 
 #### Tâche 5 : cœur par défaut
@@ -176,7 +176,7 @@ Les cœurs sont numérotés de 0 à n ; le cœur par défaut est le **cœur 0**.
 
 Pour activer ou désactiver un cœur, on écrit dans le fichier `/sys/devices/system/cpu/cpuX/online` (X = numéro du cœur) : `1` = en ligne, `0` = hors ligne. On pourrait l'ouvrir avec nano et remplacer 1 par 0.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image9.png]]
+![[Operating Systems - Semester report - image9.png]]
 *Figure : `cat online` dans `/sys/devices/system/cpu/cpu1` affiche `1`.*
 
 ```bash
@@ -194,10 +194,10 @@ done
 
 Voir [[Commande tee]].
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image3.png]]
+![[Operating Systems - Semester report - image3.png]]
 *Figure : `./core.sh` affiche `0` (sortie de `tee`).*
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image52.png]]
+![[Operating Systems - Semester report - image52.png]]
 *Figure : vérification : `cat online` dans `cpu1` affiche désormais `0`.*
 
 #### Tâche 7 : remettre en ligne tous les cœurs sauf le défaut
@@ -229,7 +229,7 @@ do
 done
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image12.png]]
+![[Operating Systems - Semester report - image12.png]]
 *Figure : `./file.sh` demande cinq noms (file1 à file5) ; `ls` montre `file1.txt` à `file5.txt` et `file.sh`.*
 
 #### Tâche 9 : supprimer ces fichiers
@@ -245,7 +245,7 @@ done
 echo "les fichiers ont été supprimés"
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image36.png]]
+![[Operating Systems - Semester report - image36.png]]
 *Figure : `./deletefile.sh` supprime file1 à file5 ; `ls` ne montre plus que `deletefile.sh` et `file.sh`.*
 
 #### Tâche 10 : afficher la date `n` fois toutes les 2 secondes
@@ -263,7 +263,7 @@ done
 
 Voir [[Commande date]] et [[Commande sleep]].
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image8.png]]
+![[Operating Systems - Semester report - image8.png]]
 *Figure : `./time.sh` avec n = 3 : trois dates espacées de 2 secondes (10:46:26, 10:46:28, 10:46:30).*
 
 #### Tâche 11 : comparer deux chaînes
@@ -280,7 +280,7 @@ else
 fi
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image11.png]]
+![[Operating Systems - Semester report - image11.png]]
 *Figure : `hello` / `hola` → « not same » ; `hello` / `hello` → « same ».*
 
 ## Lab 2 : Processes
@@ -345,13 +345,13 @@ int main(){
 
 Voir [[Fonctions printf et scanf]].
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image17.png]]
+![[Operating Systems - Semester report - image17.png]]
 *Figure : `gcc -o test lab123.c` puis `./test` : 2 + 5 → « La somme est 7 ».*
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image45.png]]
+![[Operating Systems - Semester report - image45.png]]
 *Figure : lab 2 avec la limite 21 : `1 3 5 … 21`.*
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image2.png]]
+![[Operating Systems - Semester report - image2.png]]
 *Figure : lab 3 avec range 50 et increment 3 : `0 3 6 … 48`.*
 
 ### Lab 4 : `fork()` et `wait()`
@@ -387,7 +387,7 @@ int main() {
 }
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image30.png]]
+![[Operating Systems - Semester report - image30.png]]
 *Figure : le parent affiche le pid de l'enfant (11015), l'enfant affiche `0, 11015`, le parent son propre pid (11014), puis « code de sortie 0 » et « Processus parent terminé. ».*
 
 ### Lab 5 : arbre de processus
@@ -452,7 +452,7 @@ int main(){
 
 Remarques de l'étudiante : elle a cherché sans succès un outil pour visualiser l'arborescence des processus du programme ; elle constate que son code est lourd et qu'elle aurait pu écrire des fonctions séparées au lieu de tout mettre dans `main`.
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image6.png]]
+![[Operating Systems - Semester report - image6.png]]
 *Figure : sortie de `lab5.c` : A, B, D, E, F, C, K, L, M, dans cet ordre.*
 
 ### Lab 6 : tables de 5 et de 7
@@ -483,7 +483,7 @@ int main(){
 
 Interprétation de l'énoncé : l'étudiante ne sait pas si « deux processus » veut dire deux fils (trois processus en tout) ou un parent et un fils. Elle crée deux fils ; pour un parent et un fils, il suffirait de remplacer le second `fork()` par un `else if (enfant1 > 0)` où le parent affiche la table de 7 ([[Structure conditionnelle]]).
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image46.png]]
+![[Operating Systems - Semester report - image46.png]]
 *Figure : sortie : table de 5 (1 x 5 = 5 … 10 x 5 = 50), puis table de 7 (… 10 x 7 = 70), puis « fin ».*
 
 ### Lab 7 : factorielle (fils), puis nombres premiers (parent)
@@ -534,7 +534,7 @@ int main(){
 }
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image47.png]]
+![[Operating Systems - Semester report - image47.png]]
 *Figure : « factorial of 6 is 720 », puis avec la borne 19 : `2 3 5 7 11 13 17 19`.*
 
 ### Lab 8 : exécution simultanée
@@ -576,7 +576,7 @@ int lab3_fork(void){
     return 0;}
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image23.png]]
+![[Operating Systems - Semester report - image23.png]]
 *Figure : range 50, increment 4 : `0 4 8 … 48`, puis « L'enfant a fini son execution, fin du programme ».*
 
 Puis la version simultanée, en retirant `wait(NULL)` : le parent s'exécute en même temps que le fils.
@@ -587,7 +587,7 @@ Puis la version simultanée, en retirant `wait(NULL)` : le parent s'exécute en 
     }
 ```
 
-![[Cours/Year 2/Operating System/DM/medias/Operating Systems - Semester report/image39.png]]
+![[Operating Systems - Semester report - image39.png]]
 *Figure : range 40, increment 3 : le message final du parent s'affiche avant la suite `0 3 6 … 39` du fils.*
 
 On voit que le message final s'affiche avant la fin du fils.

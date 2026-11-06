@@ -51,7 +51,7 @@ $$az^2 + bz + c = a(z - z_1)(z - z_2).$$
 
 ## Forme trigonométrique
 
-![[Cours/Year 1/Outil Maths/Cours/medias/Chapitre 5 - Complexes/image44.png]]
+![[Chapitre 5 - Complexes - image44.png]]
 *Figure : plan complexe ; le point $M(z)$ de coordonnées $(a, b)$, le module $|z| = OM$ (segment rouge) et l'argument $\arg(z)$ (angle bleu depuis l'axe des abscisses).*
 
 - **Module** : $|z| = OM = \sqrt{a^2 + b^2}$.

@@ -113,7 +113,7 @@ sudo touch test{1..3}.txt     # crée test1.txt, test2.txt, test3.txt
 mkdir -p semester/{first/{os,uc},second/{cn,db,ns,cs},third/{iot,sp,dc}}
 ```
 
-![[Cours/Year 2/Operating System/Cours OS/medias/cours TP1/image12.png]]
+![[séance TP1 - image12.png]]
 *Figure : la commande `mkdir -p semester/{…}`, puis `tree semester/` : first (os, uc), second (cn, cs, db, ns), third (dc, iot, sp) ; 13 répertoires, 0 fichier.*
 
 Voir [[Commande tree]].
@@ -156,7 +156,7 @@ La numérotation de la note repart à 1 à chaque question (voir point à vérif
 - **Éteindre le système** : `sudo shutdown now` ou `sudo poweroff` ([[Commandes shutdown et poweroff]]).
 - **Informations système** : [[Commande uname|uname]] ; d'après le manuel, `-r` donne la version du [[Noyau]].
 
-![[Cours/Year 2/Operating System/Cours OS/medias/cours TP1/image5.png]]
+![[séance TP1 - image5.png]]
 *Figure : `uname -r` → `6.6.30-02726-gb84bbdf6955e`.*
 
 - **`apt upgrade` ou `apt full-upgrade`** ([[APT]]) : `apt upgrade` ne fait que mettre à jour les paquets installés, sans permettre d'installer ni de supprimer des paquets ; `apt full-upgrade` peut en supprimer et en installer de nouveaux.

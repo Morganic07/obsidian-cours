@@ -23,7 +23,7 @@ Les opérateurs de l'[[Algèbre relationnelle]] (sur une relation, entre deux re
 
 Choisir uniquement les **colonnes** qui intéressent : $\pi_A(R)$ est la projection de la relation $R$ sur l'attribut $A$ (une ou plusieurs colonnes).
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image31.png]]
+![[Séance 3 - opérateurs et SQL - image31.png]]
 *Figure : la projection garde certaines colonnes de la table (surlignées).*
 
 **Exemple.** Table `Etudiant(ID, Nom, Age)`, on ne veut que les noms : $\pi_{Nom}(Etudiant)$ donne une table d'une seule colonne contenant tous les noms.
@@ -32,7 +32,7 @@ Choisir uniquement les **colonnes** qui intéressent : $\pi_A(R)$ est la project
 
 Choisir uniquement les **lignes** (enregistrements) qui satisfont la condition $F$ ; on retient un ou plusieurs enregistrements.
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image3.png]]
+![[Séance 3 - opérateurs et SQL - image3.png]]
 *Figure : la restriction garde certaines lignes de la table (surlignées).*
 
 **Exemple.** Les étudiants de plus de 20 ans : $\sigma_{Age>20}(Etudiant)$ donne toutes les colonnes, mais seulement pour ces étudiants.
@@ -162,13 +162,13 @@ Pour l'union, l'intersection et la différence, les deux tables doivent être «
 | Intersection | $R \cap S$ | les tuples présents à la fois dans $R$ et dans $S$ |
 | Différence | $R \setminus S$ (parfois $R - S$) | les tuples de $R$ absents de $S$ |
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image27.png]]
+![[Séance 3 - opérateurs et SQL - image27.png]]
 *Figure : union, les deux cercles entiers en rouge.*
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image18.png]]
+![[Séance 3 - opérateurs et SQL - image18.png]]
 *Figure : intersection, seule la zone commune en rouge.*
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image20.png]]
+![[Séance 3 - opérateurs et SQL - image20.png]]
 *Figure : différence $R \setminus S$, la partie de $R$ hors de $S$ en rouge.*
 
 ## 4. Récapitulatif
@@ -221,15 +221,15 @@ NB : la syntaxe peut **beaucoup** différer d'un SGBDR à l'autre.
 
 - **Client – serveur : 2 *tiers*** (*tier* = niveau), en mode console ou en mode graphique.
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image21.png]]
+![[Séance 3 - opérateurs et SQL - image21.png]]
 *Figure : un client en mode console relié directement au SGBD.*
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image29.png]]
+![[Séance 3 - opérateurs et SQL - image29.png]]
 *Figure : un client en mode graphique relié directement au SGBD.*
 
 - **Architecture Web 3 *tiers*** : navigateur web → serveur web → SGBD.
 
-![[Cours/Year 3/Data base/medias/Cours 3 - opérateurs et SQL/image30.png]]
+![[Séance 3 - opérateurs et SQL - image30.png]]
 *Figure : navigateur web, serveur web et base de données en trois niveaux.*
 
 - Les architectures 2 ou 3 *tiers* peuvent être exécutées en local (sans réseau).

@@ -29,14 +29,14 @@ Voir [[Espace mémoire d'un processus]]. Un processus contient :
 - la **section data** : variables globales ;
 - le **tas** (*heap*) : mémoire allouée dynamiquement pendant l'exécution ([[Allocation dynamique]]).
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image11.png]]
+![[OS - chp7 - image11.png]]
 *Figure : espace mémoire d'un processus, de l'adresse 0 à max : text, data, heap, zone libre, stack ; la pile et le tas croissent l'un vers l'autre.*
 
 Annotations de l'étudiante sur le dessin : « Memory length allocated inside the [[Mémoire vive|RAM]] » ; « Dynamic memory (can expand / shrink) » ; zones marquées « Dynamic ; fixed ; fixed ; Dynamic » (vraisemblablement stack et heap dynamiques, data et text fixes).
 
 ### Disposition mémoire d'un programme C
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image1.png]]
+![[OS - chp7 - image1.png]]
 *Figure : disposition mémoire d'un programme C, de la mémoire haute à la basse : argc/argv, stack, zone libre, heap, uninitialized data, initialized data, text ; chaque ligne du code est reliée à sa zone.*
 
 ```c
@@ -69,7 +69,7 @@ Voir [[États d'un processus]]. En s'exécutant, un processus change d'état :
 - **Waiting** : attend un événement ;
 - **Terminated** : a fini son exécution.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image14.png]]
+![[OS - chp7 - image14.png]]
 *Figure : diagramme des états : new → ready (admitted), ready → running (scheduler dispatch), running → ready (interrupt), running → waiting (I/O or event wait), waiting → ready (I/O or event completion), running → terminated (exit).*
 
 Annotation de l'étudiante sur le diagramme : « Storage ; RAM ; RAM ; [[Processeur|CPU]] ; LT scheduler » (mots sans leurs flèches ; sans doute le trajet disque → RAM → CPU, l'ordonnanceur à long terme gérant new → ready).
@@ -82,7 +82,7 @@ Annotation de l'étudiante sur le diagramme : « Storage ; RAM ; RAM ; [[Process
 - Le [[Bloc de contrôle de processus|PCB]] (*Process Control Block*) est une structure de données qui stocke toutes les informations essentielles d'un processus : état courant, [[Compteur de programme]], [[Registre du processeur|registres CPU]], et ce qu'il faut pour sauvegarder et restaurer son état.
 - Chaque processus a son PCB, mis à jour à chaque changement d'état (par exemple *running* → *waiting*).
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image8.png]]
+![[OS - chp7 - image8.png]]
 *Figure : PCB en pile de cases : process state, process number, program counter, registers, memory limits, list of open files, …*
 
 Contenu du PCB (annotations) :
@@ -108,7 +108,7 @@ Voir [[Ordonnancement des processus]].
   - **wait queues** : les processus qui attendent un événement (E/S…) ;
   - les processus migrent entre les files.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image13.png]]
+![[OS - chp7 - image13.png]]
 *Figure : files d'attente : ready queue → CPU ; depuis le CPU, quatre chemins ramènent à la ready queue : I/O request (I/O wait queue, puis I/O), time slice expired, create child process (child termination wait queue, puis child terminates), wait for an interrupt (interrupt wait queue, puis interrupt occurs).*
 
 Annotations de l'étudiante : chaque processus a une tranche de temps ([[Quantum de temps]]) ; si elle expire, il revient dans la ready queue. Le processus emprunte l'une de ces quatre files.
@@ -132,7 +132,7 @@ Voir [[Changement de contexte]].
 - Plus l'OS et le PCB sont complexes, plus le changement est long.
 - La durée dépend du support matériel : certains matériels chargent plusieurs contextes à la fois.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image3.png]]
+![[OS - chp7 - image3.png]]
 *Figure : changement de contexte entre $P_0$ et $P_1$ : à une interruption ou un [[Appel système]], l'OS sauvegarde l'état dans PCB₀ et recharge PCB₁ ; $P_1$ s'exécute pendant que $P_0$ est inactif, puis l'inverse.*
 
 ## Multitâche sur mobile
@@ -165,7 +165,7 @@ Voir [[Création et terminaison de processus]].
   - `exec()`, appelé après `fork()`, remplace l'espace mémoire du processus par un nouveau programme ;
   - le parent appelle `wait()` pour attendre la fin du fils.
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image2.png]]
+![[OS - chp7 - image2.png]]
 *Figure : `pid = fork()` ; le parent (pid > 0) va à `wait()` ; le fils (pid = 0) fait `exec()` puis `exit()` ; ensuite le parent reprend (parent resumes).*
 
 ### Terminaison
@@ -231,7 +231,7 @@ pid_t pid;
 
 Le fils remplace son programme par `ls` (`execlp`) ; le parent attend sa fin puis affiche « Child Complete ».
 
-![[Cours/Year 2/Operating System/Cours OS/medias/OS - chp7/image12.png]]
+![[OS - chp7 - image12.png]]
 *Figure : exemple d'arbre de processus : A crée B et C ; B crée D, E et F ; C crée G ; D crée H ; H crée I.*
 
 ## Architecture multiprocessus : le navigateur Chrome

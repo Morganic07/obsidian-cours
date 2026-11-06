@@ -39,25 +39,25 @@ Données de l'exemple :
 1. On calcule la moyenne de la variable 1, puis celle de la variable 2 : elles donnent le **centre des données**.
 2. On **centre** les données : on déplace ce centre à l'origine (0,0). Ce déplacement ne change pas la position relative des points ([[Centrage et réduction]]).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image48.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image49.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image45.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image44.png]]
+![[Séance 13 - Principal Components Analysis - image48.png]]![[Séance 13 - Principal Components Analysis - image49.png]]![[Séance 13 - Principal Components Analysis - image45.png]]![[Séance 13 - Principal Components Analysis - image44.png]]
 
 *Figure : moyenne de la variable 1, moyenne de la variable 2, centre des données, puis données déplacées vers l'origine.*
 
 3. On essaie d'ajuster une droite passant par l'origine.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image47.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image50.png]]
+![[Séance 13 - Principal Components Analysis - image47.png]]![[Séance 13 - Principal Components Analysis - image50.png]]
 
 *Figure : une première droite candidate, puis une droite qui semble bien ajustée ; « comment l'ACP obtient-elle cet ajustement ? »*
 
 4. L'ACP **projette** les données sur la droite. Elle mesure les distances des points à la droite et cherche la droite qui **minimise** ces distances. C'est équivalent à chercher la droite qui **maximise** les distances des points projetés à l'origine.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image3.png]]
+![[Séance 13 - Principal Components Analysis - image3.png]]
 
 *Figure : projection des six points sur la droite candidate ; minimiser les distances aux points revient à maximiser les distances des projections à l'origine.*
 
 **Deux visions équivalentes de l'ACP** : **maximiser** la variance (distance au carré) des points projetés dans cette direction, ou **minimiser** les [[Résidu (régression)|résidus]] (distance au carré) à cette direction.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image13.png]]
+![[Séance 13 - Principal Components Analysis - image13.png]]
 
 *Figure : à gauche, maximiser la variance des projections le long de la droite ; à droite, minimiser les résidus perpendiculaires.*
 
@@ -72,7 +72,7 @@ $$\|\mathbf{a}_i\|^2 = \|w_i \mathbf{c}\|^2 + \|\mathbf{a}_i - w_i \mathbf{c}\|^
 
 **Maximiser la variance dans l'espace des composantes équivaut à minimiser l'erreur des [[Moindres carrés|moindres carrés]].**
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image1.png]]
+![[Séance 13 - Principal Components Analysis - image1.png]]
 
 *Figure : un point, sa projection sur la composante, et les segments $D_1$, $D_2$, $D_3$.*
 
@@ -82,7 +82,7 @@ $$SS(\text{distances PC1}) = \text{valeur propre de PC1} \qquad \sqrt{\text{vale
 
 L'ACP trouve la somme des carrés des distances (SS) pour la droite la mieux ajustée : c'est la [[Valeur propre]] de PC1 ; sa racine est la valeur singulière ([[Décomposition en valeurs singulières]]).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image33.png]]
+![[Séance 13 - Principal Components Analysis - image33.png]]
 
 *Figure : la droite PC1 et le vecteur unitaire qui la porte.*
 
@@ -90,7 +90,7 @@ L'ACP trouve la somme des carrés des distances (SS) pour la droite la mieux aju
 
 En 2D, **PC2 est simplement la droite passant par l'origine et perpendiculaire à PC1** : aucune optimisation n'est nécessaire. Son vecteur directeur est le **vecteur singulier** de PC2, ou [[Vecteur propre|vecteur propre]] de PC2 (annotations de la figure : $-0{,}242 \leftarrow -1$ et $4 \rightarrow 0{,}97$).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image15.png]]
+![[Séance 13 - Principal Components Analysis - image15.png]]
 
 *Figure : PC1 (orange) et PC2 (verte, perpendiculaire) passant par l'origine, avec le vecteur propre de PC2.*
 
@@ -98,7 +98,7 @@ $$d_1^2 + d_2^2 + \dots + d_6^2 = SS(\text{distances}) \qquad SS(\text{distances
 
 La valeur propre de PC2 est la somme des (carrés des) distances entre les points projetés et l'origine.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image29.png]]
+![[Séance 13 - Principal Components Analysis - image29.png]]
 
 *Figure : projections des six points sur PC2 et distances $d_i$ à l'origine.*
 
@@ -106,7 +106,7 @@ La valeur propre de PC2 est la somme des (carrés des) distances entre les point
 
 On fait tourner les axes pour que PC1 soit horizontal, puis on utilise les points projetés pour placer chaque échantillon dans le graphique (exemple : S6, placé à partir de ses projections sur PC1 et PC2).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image46.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image43.png]]
+![[Séance 13 - Principal Components Analysis - image46.png]]![[Séance 13 - Principal Components Analysis - image43.png]]
 
 *Figure : rotation des axes (PC1 horizontal) et placement de S6 à partir de ses deux projections.*
 
@@ -118,7 +118,7 @@ C'est la variance d'échantillon $S^2 = \dfrac{\sum (x_i - \bar{x})^2}{n-1}$ ($x
 
 **Exemple** : si var(PC1) = 15 et var(PC2) = 3, la variance totale des PC vaut 18 ; **PC1** explique $15/18 = 83\,\%$ et **PC2** $3/18 = 17\,\%$ de la variance totale.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image35.png]]
+![[Séance 13 - Principal Components Analysis - image35.png]]
 
 *Figure : le graphique de l'ACP, PC1 (83 %) horizontal et PC2 (17 %) vertical.*
 
@@ -132,11 +132,11 @@ C'est la variance d'échantillon $S^2 = \dfrac{\sum (x_i - \bar{x})^2}{n-1}$ ($x
 
 Procédure semblable : d'abord **centrer** les données.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image14.png]]
+![[Séance 13 - Principal Components Analysis - image14.png]]
 
 *Figure : les six échantillons dans l'espace des trois variables.*
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image34.png]]
+![[Séance 13 - Principal Components Analysis - image34.png]]
 
 *Figure : les données centrées.*
 
@@ -144,7 +144,7 @@ Procédure semblable : d'abord **centrer** les données.
 
 Trouver la droite la mieux ajustée passant par l'origine. Avec 3 variables, le vecteur de projection a 3 coordonnées, par exemple 0,06 (variable 1), 0,15 (variable 2), **0,79 (variable 3)** : **la variable 3 est la plus importante** pour PC1.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image20.png]]
+![[Séance 13 - Principal Components Analysis - image20.png]]
 
 *Figure : PC1 en 3D, proche de l'axe de la variable 3.*
 
@@ -152,7 +152,7 @@ Trouver la droite la mieux ajustée passant par l'origine. Avec 3 variables, le 
 
 PC2 : la droite la mieux ajustée qui passe par l'origine **et** est perpendiculaire à PC1. Exemple : 0,79 (variable 1), 0,06 (variable 2), 0,15 (variable 3) : la variable 1 est la plus importante.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image25.png]]
+![[Séance 13 - Principal Components Analysis - image25.png]]
 
 *Figure : PC1 et PC2 perpendiculaires en 3D.*
 
@@ -162,7 +162,7 @@ PC3 : la droite la mieux ajustée qui passe par l'origine et est perpendiculaire
 
 **Le nombre total de composantes** est égal au nombre de variables ou au nombre d'échantillons, **le plus petit des deux**.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image36.png]]
+![[Séance 13 - Principal Components Analysis - image36.png]]
 
 *Figure : PC1, PC2 et PC3, deux à deux perpendiculaires.*
 
@@ -170,7 +170,7 @@ Une fois toutes les PC calculées, on utilise les valeurs propres [SS(distances)
 
 Exemple : PC1 79 %, PC2 15 %, PC3 6 %. PC1 et PC2 expliquent la grande majorité de la variation : un graphique 2D (PC1, PC2) est une « bonne approximation » du graphique 3D, il rend compte de **94 %** de la variation. Le **scree plot** est le diagramme en barres de ces pourcentages.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image18.png]]
+![[Séance 13 - Principal Components Analysis - image18.png]]
 
 *Figure : les trois PC en 3D et le scree plot (PC1 ≈ 79, PC2 ≈ 15, PC3 ≈ 6).*
 
@@ -180,11 +180,11 @@ Exemple : PC1 79 %, PC2 15 %, PC3 6 %. PC1 et PC2 expliquent la grande majorité
 2. On projette les échantillons sur PC1 et PC2.
 3. On fait tourner pour que PC1 soit horizontal et PC2 vertical (plus lisible), et on place chaque échantillon (exemple : S6).
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image9.png]]![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image10.png]]
+![[Séance 13 - Principal Components Analysis - image9.png]]![[Séance 13 - Principal Components Analysis - image10.png]]
 
 *Figure : les données avec PC1 (79 %) et PC2 (15 %) seulement, puis leurs projections.*
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image4.png]]
+![[Séance 13 - Principal Components Analysis - image4.png]]
 
 *Figure : le graphique 2D final, PC1 horizontal et PC2 vertical, avec l'exemple de S6.*
 
@@ -199,19 +199,19 @@ Exemple : notes de maths (de 0 à 100) et d'histoire (de 0 à 10).
 | Maths | 95 | 88 | 93 | 75 | … |
 | Histoire | 9 | 8 | 10 | 7 | … |
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image23.png]]
+![[Séance 13 - Principal Components Analysis - image23.png]]
 
 *Figure : les points s'étalent le long de l'axe des maths (0 à 100) et très peu sur celui de l'histoire (0 à 10).*
 
 Après centrage, l'ACP donne à la variable « Maths » une variance (importance) « 10 fois plus grande » que celle de l'histoire : PC1 est presque horizontale.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image6.png]]
+![[Séance 13 - Principal Components Analysis - image6.png]]
 
 *Figure : sans mise à l'échelle, PC1 suit presque l'axe des maths.*
 
 Si on divise les notes de maths par 10 (9,5 ; 8,8 ; 9,3 ; 7,5 ; …) et qu'on relance l'ACP, PC1 suit la diagonale des points.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image30.png]]
+![[Séance 13 - Principal Components Analysis - image30.png]]
 
 *Figure : après mise à l'échelle, PC1 suit la diagonale ascendante.*
 
@@ -311,7 +311,7 @@ Le **biplot** superpose dans une seule figure :
 
 Il sert à juger la structure des données et les loadings des deux premières composantes sur un seul graphique.
 
-![[Cours/Year 3/Data analysis (Thanos)/medias/Cours 13 - Principal Components Analysis/image38.png]]
+![[Séance 13 - Principal Components Analysis - image38.png]]
 
 *Figure : biplot R des deux premières composantes ; numéros d'observations au centre et vecteurs rouges de loadings (a1 à a5).*
 

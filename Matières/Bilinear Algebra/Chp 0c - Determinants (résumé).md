@@ -45,7 +45,7 @@ Méthode qui en découle : réduire $A$ à une forme échelonnée en notant les 
 **Preuve (cas diagonal)** :
 $$\left|\det\begin{bmatrix} a & 0 \\ 0 & d \end{bmatrix}\right| = |ad| = \text{aire du rectangle}, \qquad \left|\det\begin{bmatrix} a & 0 & 0 \\ 0 & b & 0 \\ 0 & 0 & c \end{bmatrix}\right| = |abc| = \text{volume du pavé}.$$
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0c - Determinants/image6.png]]
+![[Chp 0c - Determinants - image6.png]]
 *Figure : rectangle de côtés $(a,0)$ et $(0,d)$, d'aire $|ad|$ ; pavé de côtés $(a,0,0)$, $(0,b,0)$, $(0,0,c)$, de volume $|abc|$ (la phrase de la preuve est coupée sur l'image).*
 
 > **Théorème** : si $A$ est $n \times n$, $\det A^T = \det A$ (voir [[Transposée]]).

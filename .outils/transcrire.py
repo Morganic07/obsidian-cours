@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Transcrit les images de .transcriptions/A_FAIRE.tsv, une session courte par image.
+"""Transcrit les images listées dans A_FAIRE.tsv (dossier des transcriptions, voir
+chemins.py), une session courte par image.
 
 Chaque transcription est écrite dès qu'elle est validée : on peut interrompre le
 script et le relancer, il reprend là où il en était. Lancer ensuite convertir.py.
@@ -12,6 +13,8 @@ import subprocess
 import sys
 import time
 from pathlib import Path
+
+import chemins
 
 ICI = Path(__file__).resolve().parent
 AUCUN_CONTENU = "AUCUN_CONTENU"
@@ -95,11 +98,11 @@ def appeler_claude(image, modele):
 
 def lire_a_faire(coffre, prefixe=None):
     """Liste les (empreinte, image) restantes, dans l'ordre stable des chemins."""
-    dossier = coffre / ".transcriptions"
+    dossier = coffre / chemins.TRANSCRIPTIONS
     restantes = []
-    for ligne in (dossier / "A_FAIRE.tsv").read_text(encoding="utf-8").splitlines():
+    for ligne in (dossier / chemins.A_FAIRE).read_text(encoding="utf-8").splitlines():
         empreinte, image = ligne.split("\t", 1)
-        if prefixe and not image.startswith(f"Cours/{prefixe.rstrip('/')}/"):
+        if prefixe and not image.startswith(f"{chemins.NOTES}/{prefixe.rstrip('/')}/"):
             continue
         if not (dossier / f"{empreinte}.md").exists():
             restantes.append((empreinte, image))
@@ -115,7 +118,7 @@ def ecrire(dossier, empreinte, texte):
 
 def transcrire(coffre, prefixe=None, limite=None, modele="sonnet", appel=appeler_claude, pause=0):
     """Traite les images restantes. Renvoie (réussies, échouées, motif d'arrêt)."""
-    dossier = coffre / ".transcriptions"
+    dossier = coffre / chemins.TRANSCRIPTIONS
     reussies, echouees, ecartees, de_suite = 0, [], [], 0
     restantes = lire_a_faire(coffre, prefixe)
     if limite is not None:
@@ -152,7 +155,7 @@ def transcrire(coffre, prefixe=None, limite=None, modele="sonnet", appel=appeler
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--coffre", type=Path, default=ICI.parent)
-    parser.add_argument("--matiere", help="sous-dossier de Cours/, par exemple « Year 1/Analyse Maths »")
+    parser.add_argument("--matiere", help=f"sous-dossier de {chemins.NOTES}/, par exemple « Year 1/Analyse Maths »")
     parser.add_argument("--limite", type=int, help="nombre maximal d'images pour ce lancement")
     parser.add_argument("--modele", default="sonnet")
     parser.add_argument("--pause", type=float, default=0, help="secondes entre deux images")

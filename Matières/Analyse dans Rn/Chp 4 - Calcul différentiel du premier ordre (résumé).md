@@ -20,7 +20,7 @@ Une fonction de plusieurs variables se dérive d'abord direction par direction. 
 > $$\left.\frac{\partial f}{\partial x_j}\right|_a = \phi_j'(0) = \lim_{t \to 0} \frac{f(a + te_j) - f(a)}{t}.$$
 > La notation $\left.\frac{\partial f}{\partial x_j}\right|_a$ signifie qu'on dérive par rapport à la $j$-ème variable et qu'on évalue au point $a$.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image23.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image23.png]]
 *Figure : la surface $z = f(x,y)$ coupée par le plan vertical $y = y_0$ ; la coupe donne la courbe $x \mapsto f(x, y_0)$, dont la pente en $x_0$ est $\partial f/\partial x$ en $(x_0, y_0)$.*
 
 > **Remarque importante** : une application dont toutes les dérivées partielles sont définies en $a$ n'est **pas nécessairement continue** en $a$. Les dérivées partielles ne regardent que les directions des vecteurs de la base canonique, alors qu'on peut s'approcher de $a$ par d'autres directions.
@@ -59,7 +59,7 @@ $$D_af : \mathbb R^p \to F,\quad h = (h_1, \ldots, h_p) \mapsto D_af(h) = \sum_{
 **Schéma des implications** :
 $$f \in \mathcal C^1(U; F) \Rightarrow f \text{ différentiable en } a \in U \Rightarrow \begin{cases} f \text{ continue en } a \\ f \text{ admet toutes ses dérivées partielles en } a \end{cases}$$
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image41.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image41.png]]
 *Figure : schéma des implications entre classe $\mathcal C^1$, différentiabilité, continuité et existence des dérivées partielles.*
 
 Attention :
@@ -111,7 +111,7 @@ On généralise le théorème des accroissements finis de $\mathbb R \to \mathbb
 > $$\forall (x, y) \in C^2,\ \forall \lambda \in [0, 1],\ (1 - \lambda)x + \lambda y \in C,$$
 > c'est-à-dire si tout segment joignant deux points de $C$ est contenu dans $C$.
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image38.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image38.png]]
 *Figure : une ellipse, convexe (le segment $[x, y]$ reste dedans), et une « cacahuète », non convexe (une partie du segment, en rouge, sort de l'ensemble).*
 
 > **Propriété 10** : soit $U$ un ouvert **convexe** de $\mathbb R^p$ et $f : U \to \mathbb R$ de classe $\mathcal C^1$. S'il existe $M$ tel que $\|\vec\nabla_xf\|_1 \le M$ en tout point de $U$, alors $f$ est $M$-lipschitzienne sur $U$ ([[Application lipschitzienne]]).
@@ -168,21 +168,21 @@ Les [[Coordonnées polaires]] définissent un $\mathcal C^1$-difféomorphisme su
 $$\phi : \mathbb R_+^* \times \left]-\tfrac\pi2, \tfrac\pi2\right[ \to \mathbb R_+^* \times \mathbb R,\quad (\rho, \theta) \mapsto (\rho\cos\theta, \rho\sin\theta)$$
 $$\phi^{-1}(x, y) = \left(\sqrt{x^2 + y^2},\ \arctan\tfrac yx\right)$$
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image22.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image22.png]]
 *Figure : demi-plan $x > 0$ hachuré, $\theta \in\, ]-\pi/2, \pi/2[$.*
 
 **Demi-plan $x < 0$**, $\theta \in\, ]\frac\pi2, \frac{3\pi}2[$ :
 $$\phi : \mathbb R_+^* \times \left]\tfrac\pi2, \tfrac{3\pi}2\right[ \to \mathbb R_-^* \times \mathbb R,\quad (\rho, \theta) \mapsto (\rho\cos\theta, \rho\sin\theta)$$
 $$\phi^{-1}(x, y) = \left(\sqrt{x^2 + y^2},\ \pi + \arctan\tfrac yx\right)$$
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image35.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image35.png]]
 *Figure : demi-plan $x < 0$ hachuré, $\theta \in\, ]\pi/2, 3\pi/2[$.*
 
 **Demi-plan $y > 0$**, $\theta \in\, ]0, \pi[$ :
 $$\phi : \mathbb R_+^* \times\, ]0, \pi[ \to \mathbb R \times \mathbb R_+^*,\quad (\rho, \theta) \mapsto (\rho\cos\theta, \rho\sin\theta)$$
 $$\phi^{-1}(x, y) = \left(\sqrt{x^2 + y^2},\ \arccos\frac{x}{\sqrt{x^2 + y^2}}\right)$$
 
-![[Cours/Year 2/Analyse dans Rn/medias/Chp 4 - Calcul différentiel du premier ordre/image2.png]]
+![[Chp 4 - Calcul différentiel du premier ordre - image2.png]]
 *Figure : demi-plan $y > 0$ hachuré, $\theta \in\, ]0, \pi[$.*
 
 (Voir [[Fonctions trigonométriques réciproques]].)

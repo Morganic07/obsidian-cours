@@ -24,7 +24,7 @@ Pour $\mathbf u$ et $\mathbf v$ vecteurs (donc matrices colonnes) :
 
 Interprétation géométrique : $\mathbf u \cdot \mathbf v = \|\mathbf u\|\,\|\mathbf v\|\cos\theta$. Le résultat est un **scalaire**.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image32.png]]
+![[chp 1 - Orthogonality - image32.png]]
 *Figure : vecteurs $\mathbf u = (u_1,u_2)$ et $\mathbf v = (v_1,v_2)$ issus de l'origine, séparés par l'angle $\vartheta$ ; le troisième côté du triangle est $\mathbf u - \mathbf v$.*
 
 **Propriétés** : pour $\mathbf u, \mathbf v, \mathbf w \in \mathbb R^n$ et $c$ scalaire :
@@ -60,7 +60,7 @@ Remarque du cours : $\mathbf v \cdot \mathbf v$ n'est pas négatif car $\mathbf 
 > Pour $\mathbf u, \mathbf v \in \mathbb R^n$, la [[Distance|distance]] entre $\mathbf u$ et $\mathbf v$ est la longueur de $\mathbf u - \mathbf v$ :
 > $$\text{dist}(\mathbf u, \mathbf v) = \|\mathbf u - \mathbf v\|.$$
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image31.png]]
+![[chp 1 - Orthogonality - image31.png]]
 *Figure : la distance entre $\mathbf u$ et $\mathbf v$ est la longueur de $\mathbf u - \mathbf v$ ; parallélogramme formé avec $-\mathbf v$ et $\mathbf u - \mathbf v$.*
 
 - Dans $\mathbb R^2$ et $\mathbb R^3$, cette définition coïncide avec la distance euclidienne usuelle.
@@ -70,14 +70,14 @@ Remarque du cours : $\mathbf v \cdot \mathbf v$ n'est pas négatif car $\mathbf 
 
 Deux droites (en bleu sur la figure) sont géométriquement perpendiculaires si et seulement si la distance de $\mathbf u$ à $\mathbf v$ est égale à la distance de $\mathbf u$ à $-\mathbf v$, ce qui revient à égaler les carrés de ces distances.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image9.png]]
+![[chp 1 - Orthogonality - image9.png]]
 *Figure : deux droites sécantes en $\mathbf 0$, l'une par $\mathbf u$, l'autre par $\mathbf v$ et $-\mathbf v$ ; distances $\|\mathbf u - \mathbf v\|$ et $\|\mathbf u - (-\mathbf v)\|$.*
 
 > $\mathbf u$ est [[Orthogonalité|orthogonal]] à $\mathbf v$ $\iff \mathbf u \cdot \mathbf v = 0$.
 > - Le vecteur nul est orthogonal à tout vecteur, car $\mathbf 0^T\mathbf v = 0$.
 > - $\mathbf 0$ est le seul vecteur orthogonal à lui-même.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image2.png]]
+![[chp 1 - Orthogonality - image2.png]]
 *Figure : triangle de sommets $\mathbf 0$, $\mathbf u$, $\mathbf u + \mathbf v$, de côtés $\|\mathbf u\|$, $\|\mathbf v\|$, $\|\mathbf u + \mathbf v\|$.*
 
 > **Théorème 2 ([[Théorème de Pythagore]])** : $\mathbf u$ et $\mathbf v$ sont orthogonaux si et seulement si $\|\mathbf u + \mathbf v\|^2 = \|\mathbf u\|^2 + \|\mathbf v\|^2$.
@@ -90,13 +90,13 @@ Deux droites (en bleu sur la figure) sont géométriquement perpendiculaires si 
 
 **Exemple** : soit $W$ un plan passant par l'origine dans $\mathbb R^3$ et $L$ la droite passant par l'origine et perpendiculaire à $W$. Si $\mathbf z \in L$ et $\mathbf w \in W$ sont non nuls, le segment de $\mathbf 0$ à $\mathbf z$ est perpendiculaire au segment de $\mathbf 0$ à $\mathbf w$ : $\mathbf z \cdot \mathbf w = 0$. Chaque vecteur de $L$ est orthogonal à tout $\mathbf w$ de $W$. En fait $L$ est formée de **tous** les vecteurs orthogonaux aux $\mathbf w$ de $W$, et inversement : $L = W^\perp$ et $W = L^\perp$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image7.png]]
+![[chp 1 - Orthogonality - image7.png]]
 *Figure : un plan et une droite passant par $\mathbf 0$, compléments orthogonaux l'un de l'autre.*
 
 > **Théorème 3** : soit $A$ de taille $m \times n$. Le complément orthogonal du [[Sous-espaces fondamentaux|row space]] de $A$ est le [[Espace nul|null space]] de $A$, et le complément orthogonal du [[Espace des colonnes|column space]] de $A$ est le null space de $A^T$ :
 > $$(\text{Row}\,A)^\perp = \text{Nul}\,A \qquad (\text{Col}\,A)^\perp = \text{Nul}\,A^T.$$
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image4.png]]
+![[chp 1 - Orthogonality - image4.png]]
 *Figure : les sous-espaces fondamentaux d'une matrice $m \times n$ : Row $A$ et Nul $A$ perpendiculaires en $\mathbf 0$ (à gauche), Col $A$ et Nul $A^T$ perpendiculaires (à droite), reliés par $A$.*
 
 **Exemple** : $A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$.
@@ -105,10 +105,10 @@ Deux droites (en bleu sur la figure) sont géométriquement perpendiculaires si 
 - Column space : $a_1 = (1,4)$, $a_2 = (2,5)$, $a_3 = (3,6)$ engendrent tout le plan $\mathbb R^2$.
 - Left null space : $A^T\mathbf w = w_1(1,2,3) + w_2(4,5,6) = \mathbf 0 \Rightarrow (w_1, w_2) = (0,0)$ : $\text{Nul}\,A^T$ est le sous-espace nul.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image30.png]]
+![[chp 1 - Orthogonality - image30.png]]
 *Figure : le row space (plan engendré par $r_1$, $r_2$) et le vecteur $\mathbf x = (1,-2,1)$ qui lui est perpendiculaire.*
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image28.png]]
+![[chp 1 - Orthogonality - image28.png]]
 *Figure : les colonnes $a_1$, $a_2$, $a_3$ engendrent le plan entier, le column space.*
 
 ## 7. Familles orthogonales (*orthogonal set*)
@@ -124,7 +124,7 @@ Cas $W = \mathbb R^2 = \text{Span}\{\mathbf u_1, \mathbf u_2\}$ avec $\mathbf u_
 $$\mathbf y = \frac{\mathbf y \cdot \mathbf u_1}{\mathbf u_1 \cdot \mathbf u_1}\mathbf u_1 + \frac{\mathbf y \cdot \mathbf u_2}{\mathbf u_2 \cdot \mathbf u_2}\mathbf u_2 \quad (3)$$
 Le théorème décompose chaque $\mathbf y$ de $\text{Span}\{\mathbf u_1, \ldots, \mathbf u_p\}$ en somme de $p$ projections sur des sous-espaces de dimension 1, deux à deux orthogonaux.
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image3.png]]
+![[chp 1 - Orthogonality - image3.png]]
 *Figure : $\mathbf y$ décomposé en $\hat{\mathbf y}_1$ (projection sur $\mathbf u_1$) plus $\hat{\mathbf y}_2$ (projection sur $\mathbf u_2$).*
 
 ## 8. Familles orthonormées (*orthonormal set*)
@@ -142,7 +142,7 @@ Le théorème décompose chaque $\mathbf y$ de $\text{Span}\{\mathbf u_1, \ldots
 
 ## 9. Projection orthogonale (*orthogonal projection*)
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image40.png]]
+![[chp 1 - Orthogonality - image40.png]]
 *Figure : un plan $W$ contenant $\mathbf 0$, $\mathbf u$ et $\alpha\mathbf u$ ; $\mathbf y$ au-dessus du plan, son projeté $\hat{\mathbf y} = \text{proj}_W\,\mathbf y$ et $\mathbf z = \mathbf y - \hat{\mathbf y}$ perpendiculaire au plan (texte de l'image coupé).*
 
 **Projection sur un vecteur.** Soit $\mathbf u \neq \mathbf 0$ dans $\mathbb R^n$. On veut écrire $\mathbf y \in \mathbb R^n$ comme somme d'un multiple de $\mathbf u$ et d'un vecteur orthogonal à $\mathbf u$ : $\mathbf y = \hat{\mathbf y} + \mathbf z$, avec
@@ -175,7 +175,7 @@ Si $\mathbf y$ est déjà dans $W = \text{Span}\{\mathbf u_1, \ldots, \mathbf u_
 
 **Interprétation géométrique.** Quand $W$ est de dimension 1, (2) n'a qu'un terme. Quand $\dim W > 1$, chaque terme de (2) est la projection orthogonale de $\mathbf y$ sur la droite engendrée par un des $\mathbf u_j$. Ainsi $\hat{\mathbf y} = \hat{\mathbf y}_1 + \hat{\mathbf y}_2$ pour $W$ engendré par $\mathbf u_1$, $\mathbf u_2$ dans $\mathbb R^3$ : **la projection orthogonale de $\mathbf y$ est la somme de ses projections sur des sous-espaces de dimension 1 deux à deux orthogonaux.**
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image37.png]]
+![[chp 1 - Orthogonality - image37.png]]
 *Figure : dans $\mathbb R^3$, $\mathbf y$ projeté sur le plan engendré par $\mathbf u_1$ et $\mathbf u_2$ ; les projections $\hat{\mathbf y}_1$ et $\hat{\mathbf y}_2$ sur les deux droites s'additionnent en $\hat{\mathbf y}$.*
 
 > **Théorème de la meilleure approximation** (*the best approximation*) : $W$ sous-espace de $\mathbb R^n$, $\mathbf y \in \mathbb R^n$. $\hat{\mathbf y}$ est le point de $W$ le plus proche de $\mathbf y$ :
@@ -214,7 +214,7 @@ Si $A$ ($m \times n$) a des colonnes linéairement indépendantes $\mathbf x_1, 
 Schéma du cours pour $A = [\mathbf a_1\ \mathbf a_2\ \mathbf a_3]$ et $Q = [\mathbf e_1\ \mathbf e_2\ \mathbf e_3]$ (vecteurs unitaires orthogonaux) :
 $$R = \begin{bmatrix} \mathbf e_1^T\mathbf a_1 & \mathbf e_1^T\mathbf a_2 & \mathbf e_1^T\mathbf a_3 \\ 0 & \mathbf e_2^T\mathbf a_2 & \mathbf e_2^T\mathbf a_3 \\ 0 & 0 & \mathbf e_3^T\mathbf a_3 \end{bmatrix}$$
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image12.png]]
+![[chp 1 - Orthogonality - image12.png]]
 *Figure : schéma $A = QR$, avec $Q$ formée des vecteurs unitaires orthogonaux $\mathbf e_i$ et $R$ triangulaire supérieure (légendée « upper diagonal matrix », voir « Points à vérifier »).*
 
 ## 12. Problème des moindres carrés (*least square problem*)
@@ -225,7 +225,7 @@ $$R = \begin{bmatrix} \mathbf e_1^T\mathbf a_1 & \mathbf e_1^T\mathbf a_2 & \mat
 > **Définition** : si $A$ est $m \times n$ et $\mathbf b \in \mathbb R^m$, une **solution au sens des moindres carrés** (*least-squares solution*) de $A\mathbf x = \mathbf b$ est un $\hat{\mathbf x} \in \mathbb R^n$ tel que
 > $$\|\mathbf b - A\hat{\mathbf x}\| \le \|\mathbf b - A\mathbf x\| \quad \text{pour tout } \mathbf x \in \mathbb R^n.$$
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image15.png]]
+![[chp 1 - Orthogonality - image15.png]]
 *Figure : le plan $\text{Col}\,A$ contient $\mathbf 0$, $A\hat{\mathbf x}$, $A\mathbf x_1$, $A\mathbf x_2$ ; $\mathbf b$ est hors du plan et $A\hat{\mathbf x}$ en est la projection orthogonale.*
 
 - Le cours écrit : « $\hat{\mathbf x}$ est le projeté orthogonal de $\mathbf b$ sur Col $A$ » ; la figure montre que c'est $A\hat{\mathbf x}$ (voir « Points à vérifier »).
@@ -256,7 +256,7 @@ La relation la plus simple entre $x$ et $y$ est $y = \beta_0 + \beta_1 x$ (au li
 
 Pour $\beta_0$, $\beta_1$ fixés et chaque point $(x_j, y_j)$, il y a un point $(x_j, \beta_0 + \beta_1 x_j)$ de la droite de même abscisse. $y_j$ est la valeur **observée**, $\beta_0 + \beta_1 x_j$ la valeur **prédite** ; leur différence est un **résidu** (*residual*, [[Résidu (régression)]]).
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image38.png]]
+![[chp 1 - Orthogonality - image38.png]]
 *Figure : ajustement d'une droite $y = \beta_0 + \beta_1 x$ à des données expérimentales ; les résidus sont les écarts verticaux entre « data point » $(x_j, y_j)$ et « point on line » $(x_j, \beta_0 + \beta_1 x_j)$.*
 
 - Pour mesurer la proximité de la droite aux données, on additionne les carrés des résidus.
@@ -266,7 +266,7 @@ Pour $\beta_0$, $\beta_1$ fixés et chaque point $(x_j, y_j)$, il y a un point $
 
 **Lien avec $X\boldsymbol\beta = \mathbf y$** : si les points ne sont pas alignés, aucun $(\beta_0, \beta_1)$ ne rend les valeurs prédites $X\boldsymbol\beta$ égales aux valeurs observées $\mathbf y$ : $X\boldsymbol\beta = \mathbf y$ n'a pas de solution. C'est un problème de moindres carrés $A\mathbf x = \mathbf b$ avec d'autres notations. Le carré de la distance entre $X\boldsymbol\beta$ et $\mathbf y$ est exactement la somme des carrés des résidus ; le $\boldsymbol\beta$ qui minimise cette somme minimise aussi cette distance. *Calculer la solution des moindres carrés de $X\boldsymbol\beta = \mathbf y$ revient à trouver la droite des moindres carrés.*
 
-![[Cours/Year 2/Bilinear Algebra/medias/chp 1 - Orthogonality/image13.png]]
+![[chp 1 - Orthogonality - image13.png]]
 *Figure : texte du manuel reliant $X\boldsymbol\beta = \mathbf y$ aux moindres carrés, avec la figure 1 (droite ajustée et résidus).*
 
 Le cours ne donne pas ici la forme explicite de $X$ ; avec le modèle $y = \beta_0 + \beta_1 x$, elle a une première colonne de 1 et une seconde colonne des $x_j$ (complément).

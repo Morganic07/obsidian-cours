@@ -143,11 +143,11 @@ Voir [[Comparaison série-intégrale]].
 
 **Preuve.** On peut supposer $n_0 = 1$ ; $S_n = \sum_{k=1}^{n} a_k$.
 
-![[Cours/Year 3/Séries/medias/Chp1 - Convergent, divergent and positive terms SERIES/image39.png]]
+![[Chp1 - Convergent, divergent and positive terms SERIES - image39.png]]
 
 *Figure : aire sous la courbe. Les rectangles de largeur 1 et de hauteurs $a_2, \ldots, a_n$ sont sous la courbe décroissante $y = f(x)$, entre 1 et $n$.*
 
-![[Cours/Year 3/Séries/medias/Chp1 - Convergent, divergent and positive terms SERIES/image42.png]]
+![[Chp1 - Convergent, divergent and positive terms SERIES - image42.png]]
 
 *Figure : aire au-dessus de la courbe. Les rectangles de hauteurs $a_1, \ldots, a_{n-1}$ dépassent la courbe, entre 1 et $n$.*
 
@@ -165,7 +165,7 @@ $$S_n + \int_{n+1}^{+\infty} f(x)\,dx \le S \le S_n + \int_{n}^{+\infty} f(x)\,d
 
 **Preuve.** Avec $R_n = S - S_n = \sum_{k\ge n+1} a_k$, la figure donne $\int_{n+1}^{+\infty} f \le R_n \le \int_n^{+\infty} f$, puis on ajoute $S_n$.
 
-![[Cours/Year 3/Séries/medias/Chp1 - Convergent, divergent and positive terms SERIES/image34.png]]
+![[Chp1 - Convergent, divergent and positive terms SERIES - image34.png]]
 
 *Figure : encadrement du reste $R_n$ par deux intégrales, rectangles de hauteurs $a_{n+1}, a_{n+2}, \ldots$ partant de $n$ (à gauche) et de $n+1$ (à droite).*
 

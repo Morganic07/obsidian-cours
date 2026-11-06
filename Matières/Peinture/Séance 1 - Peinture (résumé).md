@@ -47,7 +47,7 @@ Pour certains (les imprimeurs par exemple), le noir et le blanc ne sont pas des 
 
 ## Le cercle chromatique
 
-![[Cours/Year 1/Peinture/Cours/medias/Cours 1/image1.png]]
+![[Séance 1 - Peinture - image1.png]]
 
 *Figure : cercle chromatique à 12 teintes (jaune, ocre, orange, vermillon, rouge, pourpre, violet, indigo, bleu, turquoise, vert, chartreuse) autour d'un hexagone des primaires et secondaires ; une ligne sépare les couleurs chaudes des couleurs froides.*
 

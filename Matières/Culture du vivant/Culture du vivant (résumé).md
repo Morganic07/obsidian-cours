@@ -12,7 +12,7 @@ Résumé de [[Culture du vivant|Culture du vivant]] (3e année), dans [[Culture 
 
 ## 1. Collapsologie et courbe de deuil
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image8.jpg]]
+![[Culture du vivant - image8.jpg]]
 *Figure : infographie « Collapsologie ∝ Courbe de deuil », v 3.0, juin 2017, par Matthieu Van Niel (licence CC BY SA).*
 
 Une grande flèche descend puis remonte en « V » arrondi ; elle traverse les étapes du deuil appliquées à la prise de conscience de l'effondrement.
@@ -21,9 +21,9 @@ Une grande flèche descend puis remonte en « V » arrondi ; elle traverse les �
 |---|---|
 | Début | « Oué ! La vie est belle ! », « Trankilou », *business as usual*, puis « KRA!! » (le choc) |
 | Déni | « NOOON !!! », #panique, « On va tous crever !! », #refus, « Ce n'est pas réel », « Si je ferme les yeux et que je me bouche les oreilles, ça va s'arrêter… » |
-| Colère et peur | #impuissance (« Bien fait pour nous ! »), #injustice (« si je mets la main sur les responsables… »), #culpabilité (« c'est aussi ma faute… »), « Ça va péter ! », figure du survivaliste |
+| Colère et peur | #impuissance (« Bien fait pour nous ! »), #injustice (« si je mets la main sur les responsables… »), #culpabilité (« c'est aussi ma faute… »), le « çavapétiste » (« ça va péter ! ») |
 | Marchandage | « Au nom du progrès et de l'efficacité… », « si on se met tous à la voiture électrique, on est sauvé » (#capitaliste vert), « L'être humain est profondément mauvais… » (#repli), survivaliste |
-| Dépression | #épuisement, #solitude, « Plus rien n'a de sens… », #destructuration, #lucidité, l'« aquoibonistre » (« à quoi bon ? ») |
+| Dépression | #épuisement, #solitude, « Plus rien n'a de sens… », #destructuration, #lucidité, l'« aquoibontiste » (« à quoi bon ? ») |
 | Pardon | — |
 | Acceptation | « je fais la paix avec le monde et moi-même… », inspirer / expirer, #accueil, #plénitude |
 | Sens et renouveau | « Transition ! », #résilience, #action, #nouveaux repères, « Je m'adapte, je change, je teste, je m'engage… » |
@@ -42,7 +42,7 @@ Les termes viennent de *Comment tout peut s'effondrer*, Pablo Servigne et Rapha�
 
 ## 2. Le modèle World3 (« Limites à la croissance »)
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image2.jpg]]
+![[Culture du vivant - image2.jpg]]
 *Figure : « Limites à la croissance, modèle World3, Standard Run », valeurs normalisées de 0 à 1 entre 1900 et 2100.*
 
 Graphique du [[Rapport Meadows]] (scénario standard), comparé aux données réelles (1900-1970, puis 1970-2010) ; le modèle est en pointillés. Six courbes : ressources, nourriture, production de services, population, production industrielle, pollution.
@@ -57,7 +57,7 @@ Source : Turner, Graham M. 2012, « On the Cusp of Global Collapse? Updated… �
 
 ## 3. Empreinte écologique et biocapacité mondiales
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image6.jpg]]
+![[Culture du vivant - image6.jpg]]
 *Figure : « World Ecological Footprint and Biocapacity Per Capita », 1961-2024, en hectares globaux par personne.*
 
 | Courbe | 1961 | Évolution | 2024 |
@@ -82,7 +82,7 @@ Les deux premières causes sont surlignées : « + 50 % de l'impact total ». Su
 
 ## 5. Espèces connues, suivies et menacées
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image5.jpg]]
+![[Culture du vivant - image5.jpg]]
 *Figure : cercles imbriqués des espèces estimées, connues, suivies et menacées.*
 
 - On estime qu'il existe **plus de 5 millions** d'espèces sur Terre ; seules **2 millions** sont connues ; **138 000** sont suivies.
@@ -101,7 +101,7 @@ Voir aussi [[Sixième extinction]].
 
 ## 6. Les neuf limites planétaires (CGDD/SDES, 2023)
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image3.jpg]]
+![[Culture du vivant - image3.jpg]]
 *Figure : les 9 [[Limites planétaires]], diagramme circulaire autour du globe (CGDD/SDES, 2023, Bertrand Gaillet).*
 
 Légende du diagramme : limite dépassée (risque élevé), forte incertitude (risque croissant), non dépassée, non quantifiée. La situation est celle connue avant la publication du *Stockholm Resilience Centre* de septembre 2023.
@@ -122,14 +122,14 @@ Les chiffres français et mondiaux sont mêlés dans l'image (par exemple l'indi
 
 ## 7. Les limites planétaires en 2025 (Reporterre)
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image4.jpg]]
+![[Culture du vivant - image4.jpg]]
 *Figure : les limites planétaires en 2025, diagramme circulaire du vert (zone de sécurité) au violet (zone à haut risque), Reporterre.*
 
 Secteurs et sous-indicateurs : intégrité de la biosphère (diversité génétique, diversité fonctionnelle) ; changement climatique (concentration de CO₂, forçage radiatif) ; nouvelles entités introduites dans l'environnement ; diminution de la couche d'ozone ; charge en aérosols atmosphériques ; acidification des océans ; cycles biogéochimiques (phosphore, azote) ; ressource en eau douce (eau bleue, eau verte) ; changement d'usage des sols. Deux cercles pointillés marquent la « limite zone de sécurité » et la « limite zone à haut risque » ; l'échelle va de la zone de sécurité à l'accroissement des risques, puis à la zone à haut risque. La transcription ne dit pas quel secteur atteint quelle couleur.
 
 ## 8. Amorce de synthèse graphique
 
-![[Cours/Year 3/Culture du vivant/medias/Culture du vivant/image1.jpg]]
+![[Culture du vivant - image1.jpg]]
 *Figure : autruche à lunettes illustrant la consigne de synthèse.*
 
 « Ce qui m'a captivé ? Ce que je retiens ? »
@@ -145,7 +145,7 @@ Transcriptions signalées :
 - chiffres de petite taille de l'image 5 (mammifères : 5 900 espèces ; oiseaux : 11 000) ;
 - texte « + 50 % » de l'image 4 (cinq causes), qui couvre sans doute les deux premiers blocs ;
 - valeurs de l'image 6 (neuf limites, CGDD) et couleurs du diagramme central, difficiles à attribuer ;
-- mots manuscrits de l'image 1 (courbe de deuil) : « Aquoibonistre », « capsologie », « charcler », « Purin » ;
+- mots manuscrits de l'image 1 (courbe de deuil) : « capsologie », « charcler » et « Purin » sont bien écrits ainsi (vérifié sur l'image) ; « Aquoibontiste » reste à confirmer (le T est probable). « Çavapétiste », « Aquoibontiste » et « Survivaliste » désignent des figures et non des étapes : le survivaliste est le personnage du #repli, sous l'étape du marchandage ;
 - source du graphique World3, écrite verticalement et coupée.
 
 ## Points à signaler

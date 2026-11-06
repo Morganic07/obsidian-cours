@@ -123,13 +123,13 @@ def Algorithm_B:
 def Algorithm_C:
     i = 1
     j = 1
-    while (j <= n):
-        if i <= m:
-            i = i + 1
-        else:
-            j = j + 1
+while (j <= n):
+    if i <= m:
+        i = i + 1
+    else:
+        j = j + 1
 ```
-**$O(m + n)$** (« linéaire »).
+**$O(m + n)$** (« linéaire »). Le cours aligne `while` sur `def` : la boucle fait vraisemblablement partie de la fonction (voir Points à vérifier, 4).
 
 ```python
 def Algorithm_D:
@@ -271,7 +271,7 @@ Rien n'a été corrigé dans le cours.
 1. **Algorithme D en $O(m \cdot n)$, noté « linéaire »** : $m \cdot n$ n'est pas linéaire (quadratique si $m = n$). Le cours écrit « → linéaire » après chaque algorithme, ce qui est juste pour A, B, C et faux pour D (complément). **À corriger avant un examen.**
 2. **`somme_1` et `somme_2`** : le texte dit qu'ils font la même chose. `range(n)` somme $0 + \ldots + (n-1) = \frac{n(n-1)}{2}$, alors que `n * (n + 1) // 2` vaut la somme jusqu'à $n$. Les deux ne coïncident pas (complément). Les complexités $O(n)$ et $O(1)$ restent justes.
 3. **Dimension du produit matriciel** : le texte dit que $C$ est de dimension $(m, n)$, alors qu'elle est $(m, p)$ ; « une matrice $C$ de matrice » est à lire « de dimension » (alerte confirmée, complément).
-4. **Code des algorithmes** : indentation incertaine sur l'image (`return S`, bloc `else` de l'algorithme D, indentation de `print`). Alertes à vérifier sur l'image, non ouverte.
+4. **Code des algorithmes** : indentation incertaine sur l'image (`return S`, bloc `else` de l'algorithme D, indentation de `print`). Alertes à vérifier sur l'image, non ouverte. L'image de l'algorithme C a été ouverte : le cours y écrit `while` aligné sur `def` et non dans le corps de la fonction, erreur probable de mise en page ; la boucle fait vraisemblablement partie de `Algorithm_C` (À vérifier).
 5. **Hanoï** : l'équation $T(n) = 2T(n-1) + 1$ est introduite pour « $n > 0$ » alors que la base est $T(1) = 1$ ; la fin de la résolution est coupée sur l'image. Le résultat $\sum_0^{n-1} 2^k = 2^n - 1$ est juste.
 6. **`recherche_dic` renvoie 0** quand la valeur est trouvée et $-1$ sinon, et non sa position (complément, sans effet sur l'analyse).
 7. **Cas moyen de la fonction `f`** : 3,5 suppose les deux branches équiprobables, ce que le texte ne précise pas.

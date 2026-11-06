@@ -62,7 +62,7 @@ Lister toutes les données à stocker et leurs particularités :
 
 Il représente les entités et les associations, les attributs et leurs types, les clés primaires et les cardinalités.
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image4.png]]
+![[Séances 1 et 2 - Database - image4.png]]
 *Figure : MCD — ETUDIANT (`numero CHAR(8)` souligné, `nom VARCHAR(30)`, `date_naissance DATE`) relié à FORMATION (`code CHAR(6)` souligné, `intitule VARCHAR(30)`) par l'association EST_INSCRIT, sans attribut ; cardinalités 1,1 côté ETUDIANT et 0,N côté FORMATION.*
 
 ### Étape 3 : le schéma relationnel (MLD)
@@ -73,14 +73,14 @@ FORMATION ( code, intitule )
 ETUDIANT ( numero, nom, date_naissance, #code )
 ```
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image15.png]]
+![[Séances 1 et 2 - Database - image15.png]]
 *Figure : la flèche part de `#code` dans ETUDIANT et pointe vers la clé primaire `code` de FORMATION : c'est la clé étrangère.*
 
 ## 4. MCD (ER diagram) : étude de cas
 
 Énoncé : un étudiant peut avoir une formation.
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image7.png]]
+![[Séances 1 et 2 - Database - image7.png]]
 *Figure : schéma manuscrit — entités « étudiant » (`n° étudiant`, `nom`, …) et « formation » (`code format°`, `nom format°`, …), clés primaires annotées, association « est_inscrit » entre les deux.*
 
 **Cardinalités :**
@@ -98,10 +98,10 @@ formation( code formation, nom formation, ... )
 ```
 La clé étrangère (*foreign key*) est la clé primaire (*primary key*) d'une autre table.
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image12.png]]
+![[Séances 1 et 2 - Database - image12.png]]
 *Figure : la flèche rouge relie `code formation` (clé primaire de formation) à `#code formation` dans étudiant.*
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image2.png]]
+![[Séances 1 et 2 - Database - image2.png]]
 *Figure : à gauche (« me-to-one »), chaque $e_i$ va vers un seul $f_j$, mais $e_3$ et $e_4$ vont tous deux vers $f_3$ ; à droite (« many to many »), $e_1$ et $e_3$ vont chacun vers deux $f_j$.*
 
 ### Many to many
@@ -114,14 +114,14 @@ est_inscrit( #code formation, #n° étudiant )
 ```
 Le couple (`#code formation`, `#n° étudiant`) devient la nouvelle clé primaire de `est_inscrit` : c'est une [[Table de correspondance|table de correspondance]].
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image14.png]]
+![[Séances 1 et 2 - Database - image14.png]]
 *Figure : correspondance « many to many » entre $e_1, \dots, e_n$ et $f_1, f_2, f_3$.*
 
 ### Exemple : redoublement et bourse
 
 Énoncé : un étudiant redouble, et il est boursier ou non selon l'année.
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image8.png]]
+![[Séances 1 et 2 - Database - image8.png]]
 *Figure : $e_1 \to f_1$ « 22-23, boursier » ; $e_1 \to f_2$ « 24-23, non boursier ».*
 
 On garde les mêmes tables `formation()` et `étudiant()`, et on rajoute deux paramètres à la table de correspondance :
@@ -130,7 +130,7 @@ est_inscrit( #code formation, #n° étudiant, année universitaire, boursier )
 ```
 Les trois paramètres en rouge (`#code formation`, `#n° étudiant`, `année universitaire`) forment la nouvelle clé primaire.
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image10.png]]
+![[Séances 1 et 2 - Database - image10.png]]
 *Figure : schéma relationnel annoté — « on rajoute ces 2 paramètres », « les 3 paramètres en rouge sont la nouvelle primary key ».*
 
 ## 6. Règles de passage selon les cardinalités
@@ -144,7 +144,7 @@ Les trois paramètres en rouge (`#code formation`, `#n° étudiant`, `année uni
 
 La liaison (association) « [[Héritage en base de données|is-a]] » : `Client` (`numero INT`) se spécialise en `PersonnePhysique` (`nom`, `prenom`) et `PersonneMorale` (`représentant`), avec cardinalité 0,1 côté `Client` et 1 côté sous-entité. Représentation [[UML]] (*Unified Modeling Language*) de la POO : `CompteBancaire` (`numero: INTEGER (PK)`) est la classe parente de `CompteCourant` (`decouvert: BOOLEAN`) et `CompteEpargne` (`TauxInteret: FLOAT`).
 
-![[Cours/Year 3/Data base/medias/Cours 1 et 2 - Database/image13.png]]
+![[Séances 1 et 2 - Database - image13.png]]
 *Figure : en haut, l'association is-a entre Client, PersonnePhysique et PersonneMorale ; en bas, le diagramme de classes UML des comptes bancaires.*
 
 Schéma relationnel :

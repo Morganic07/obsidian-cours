@@ -14,8 +14,4 @@ Pour une population, on note $\mu$ la moyenne et $\tilde\mu$ la médiane : asym�
 
 Notion parente : [[Statistique descriptive]]. Voir aussi : [[Variance et écart-type d'échantillon]], [[Forme d'une distribution]], [[Type de variable statistique]].
 
-## À vérifier
-
-- Dans l'exemple de la boîte à moustaches, « x̄ = 92,17 » désigne en fait la médiane.
-
 Résumés : [[Séance 4 - Estimation (résumé)]], [[Séance 2 - Introduction statistics (résumé)]], [[Chp2 - Descriptive statistics (résumé)]]

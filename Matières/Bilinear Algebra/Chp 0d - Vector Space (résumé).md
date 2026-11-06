@@ -33,7 +33,7 @@ Le chapitre généralise les vecteurs de $\mathbb{R}^n$, puis décrit une matric
 > b. $H$ est stable par addition : $\mathbf u, \mathbf v \in H \Rightarrow \mathbf u + \mathbf v \in H$ ;
 > c. $H$ est stable par multiplication par un scalaire : $\mathbf u \in H \Rightarrow c\mathbf u \in H$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0d - Vector Space/image6.png]]
+![[Chp 0d - Vector Space - image6.png]]
 *Figure : trois sous-espaces de $\mathbb R^3$, un plan $\mathbf P$, une droite $\mathbf L$ et le point $\mathbf Z$ (origine) ; $\mathbf L$ est contenue dans $\mathbf P$, et tous passent par $(0,0,0)$.*
 
 Remarques du cours :
@@ -55,10 +55,10 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 - **[[Espace des colonnes|Column space]]** : ensemble des combinaisons linéaires des colonnes ;
 - **Left null space** : $\text{Nul}\,A^T$, solutions de $A^T\mathbf w = \mathbf 0$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0d - Vector Space/image26.png]]
+![[Chp 0d - Vector Space - image26.png]]
 *Figure : pour $A$ de lignes $r_1 = (1,2,3)$ et $r_2 = (4,5,6)$, le row space est un plan 2D engendré par $r_1$, $r_2$ ; le vecteur $\mathbf x = (1,-2,1)$, perpendiculaire à ce plan, engendre une droite 1D (le null space) ; le left null space est réduit à l'origine (image coupée).*
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0d - Vector Space/image1.png]]
+![[Chp 0d - Vector Space - image1.png]]
 *Figure : les colonnes $a_1 = (1,4)$, $a_2 = (2,5)$, $a_3 = (3,6)$ engendrent tout le plan : c'est le column space.*
 
 **Les quatre sous-espaces fondamentaux.** Une matrice $A$ de taille $m \times n$ définit une [[Transformation linéaire|transformation linéaire]] de $\mathbb R^n$ dans $\mathbb R^m$. Ce qui se passe dans $A\mathbf x = \mathbf b$ s'exprime avec 4 sous-espaces, deux de $\mathbb R^n$ et deux de $\mathbb R^m$ :
@@ -95,7 +95,7 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > $$\text{Nul}\,A = \{\mathbf x : \mathbf x \in \mathbb R^n \text{ et } A\mathbf x = \mathbf 0\}.$$
 > Description plus dynamique : l'ensemble des $\mathbf x \in \mathbb R^n$ envoyés sur le vecteur nul de $\mathbb R^m$ par $\mathbf x \mapsto A\mathbf x$.
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0d - Vector Space/image7.png]]
+![[Chp 0d - Vector Space - image7.png]]
 *Figure : la droite $\text{Nul}\,A$ de $\mathbb R^n$, passant par $\mathbf 0$, est envoyée tout entière sur le point $\mathbf 0$ de $\mathbb R^m$.*
 
 > **Théorème** : le null space d'une matrice $m \times n$ est un sous-espace de $\mathbb R^n$. De façon équivalente, l'ensemble des solutions d'un système $A\mathbf x = \mathbf 0$ de $m$ équations homogènes à $n$ inconnues est un sous-espace de $\mathbb R^n$.
@@ -124,7 +124,7 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 | $\mathbb R^m$ | Column space $C(A)$ | tous les $A\mathbf x$ | $r$ |
 | $\mathbb R^m$ | Left nullspace $N(A^T)$ | $A^T\mathbf y = \mathbf 0$ | $m - r$ |
 
-![[Cours/Year 2/Bilinear Algebra/medias/Chp 0d - Vector Space/image21.png]]
+![[Chp 0d - Vector Space - image21.png]]
 *Figure : schéma des quatre sous-espaces fondamentaux, row space et nullspace dans $\mathbb R^n$, column space et left nullspace dans $\mathbb R^m$, avec leurs dimensions.*
 
 ## 7. Base d'un sous-espace (*basis of a subspace*)
