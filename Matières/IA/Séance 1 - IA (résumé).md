@@ -261,15 +261,13 @@ sharp focus, medium shot, (centered image composition), (professionally color gr
 ((bright soft diffused light)), volumetric fog, hdr 4k, 8k, realistic
 ```
 
-![[Cours/Year 3/IA/medias/Cours 1/image11.png]]
-*Figure : le prompt et son résultat — chat à lunettes, en robe de chambre, fumant la pipe et lisant le journal dans une ambiance brumeuse.*
+*Image du cours, non reprise (elle porte le logo nominatif de l'intervenante) : le prompt et son résultat — chat à lunettes, en robe de chambre, fumant la pipe et lisant le journal dans une ambiance brumeuse.*
 
 🔴 Les créations fondées seulement sur des prompts textuels ne peuvent pas être protégées par le copyright : on estime que l'auteur n'a pas assez de contrôle sur le processus créatif.
 
 ### Retouches d'un contenu généré
 
-![[Cours/Year 3/IA/medias/Cours 1/image10.png]]
-*Figure : un même paysage peint ; une zone sélectionnée y devient une montgolfière, puis un château.*
+*Image du cours, non reprise (logo nominatif de l'intervenante) : un même paysage peint ; une zone sélectionnée y devient une montgolfière, puis un château.*
 
 🟠 Les outils qui permettent de modifier les outputs (chez Midjourney, *vary region* et *remix mode*) peuvent démontrer, au cas par cas, le contrôle humain du processus créatif.
 
@@ -277,8 +275,7 @@ sharp focus, medium shot, (centered image composition), (professionally color gr
 
 Prompt : « a young cyborg woman (((roses))) flowers coming out of her head, photorealism, cinematic lighting, hyper realism, 8k, hyper detailed. »
 
-![[Cours/Year 3/IA/medias/Cours 1/image18.png]]
-*Figure : trois colonnes — le prompt, l'input (dessin au trait d'un visage fleuri) et l'output (visage photoréaliste dont sortent des roses rouges).*
+*Image du cours, non reprise (logo nominatif de l'intervenante) : trois colonnes — le prompt, l'input (dessin au trait d'un visage fleuri) et l'output (visage photoréaliste dont sortent des roses rouges).*
 
 🟢 La protection par copyright des éléments de référence intégrés dans l'output est possible.
 🚩 Seulement si vous êtes titulaire des droits sur ces éléments de référence.

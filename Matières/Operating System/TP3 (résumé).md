@@ -25,6 +25,9 @@ $ ip address
 
 Réponse : adresse locale interne `127.0.0.1` (voir point à vérifier 4 et [[Adresse de bouclage]]) ; adresse sur le réseau `100.115.92.201` ([[Adressage IPv4 et CIDR]], [[Commande ip]]).
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image8.png]]
+*Capture : sortie de `ip address`.*
+
 ### 2. Fichier `/etc/hosts`
 
 ```
@@ -37,6 +40,9 @@ ff02::2         ip6-allrouters
 ```
 
 Voir [[Fichier hosts]].
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image18.png]]
+*Capture : `cat /etc/hosts`.*
 
 ### 3. Configuration réseau
 
@@ -55,6 +61,9 @@ source /etc/network/interfaces.d/*
 ```
 
 L'interface `lo` est la boucle locale ; `eth0` obtient son adresse par [[DHCP]] (`inet dhcp`).
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image2.png]]
+*Capture : `cat interfaces` dans `/etc/network`.*
 
 ### 4. Nom d'hôte, IP, et modification de `/etc/hosts`
 
@@ -101,6 +110,18 @@ PING penguin (127.0.1.1) 56(84) bytes of data.
 
 Conclusion de l'étudiante : « tout semble correct ».
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image15.png]]
+*Capture : `hostname ; hostname -I`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image9.png]]
+*Capture : `/etc/hosts` avant la modification.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image17.png]]
+*Capture : `/etc/hosts` après la modification.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image14.png]]
+*Capture : `ping penguin`.*
+
 ## Script `time.sh`
 
 Après avoir créé le répertoire `data`, l'étudiante crée `time.sh` (qui ajoute la date toutes les 2 secondes dans `date.txt`, voir le script dans [[Séance TP3 (résumé)]]) et le lance en arrière-plan ([[Tâche en arrière-plan]]) :
@@ -126,6 +147,12 @@ $ cat date.txt
 ...
 ```
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image10.png]]
+*Capture : lancement de `./time.sh &` dans `~/data`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image6.png]]
+*Capture : `cat date.txt`.*
+
 ## Script `backup.sh`
 
 Création du répertoire `backup` et de `backup.sh` (copie de `date.txt` toutes les 15 secondes, avec un message de réussite horodaté), lancé en arrière-plan ([[Sauvegarde de fichier]]) :
@@ -143,6 +170,18 @@ backup.sh  date.txt
 ```
 
 Deux `cat` successifs de la copie montrent qu'elle s'allonge (de 10:56:07 à 10:56:23) : « le fichier `date.txt` est mis à jour toutes les 15 secondes ». Ensuite, l'étudiante arrête toutes les tâches en cours.
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image13.png]]
+*Capture : lancement de `sudo ./backup.sh &` dans `~/backup`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image16.png]]
+*Capture : `ls` dans `~/backup`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image11.png]]
+*Capture : sortie horodatée (2024-11-25 10:55:28…).*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image19.png]]
+*Capture : sortie horodatée (2024-11-25 10:55:28…), seconde capture.*
 
 ## Tâche 2 : sauvegarde de la mémoire
 
@@ -174,6 +213,15 @@ Swap:              0B          0B          0B
 
 Le second `cat` montre six blocs au lieu de quatre : le fichier grandit.
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image1.png]]
+*Capture : le script `memory.sh`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image12.png]]
+*Capture : lancement de `./memory.sh &`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image3.png]]
+*Capture : `cat memory.txt`.*
+
 ### 2. Sauvegarder `memory.txt` toutes les 20 secondes
 
 ```bash
@@ -196,6 +244,12 @@ date.txt  memory.txt  time.sh
 
 Un `cat memory.txt` répété montre que la copie s'allonge toutes les 20 secondes.
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image4.png]]
+*Capture : le script de sauvegarde de `memory.txt`.*
+
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image7.png]]
+*Capture : `ls` dans `~/data`.*
+
 ### 3. Arrêter les tâches
 
 Voir [[Commande jobs]] et [[Commande kill]].
@@ -210,6 +264,9 @@ Voir [[Commande jobs]] et [[Commande kill]].
 [2]+  Terminated              ./memory.sh
 ```
 
+![[Cours/Year 2/Operating System/DM/TP3/medias/TP3 - PINA Morgane/image5.png]]
+*Capture : `jobs` dans `~/backup`.*
+
 ## Points à vérifier dans le cours
 
 Rien n'a été corrigé dans le cours.
@@ -219,4 +276,4 @@ Rien n'a été corrigé dans le cours.
 3. **Doublons dans `date.txt`** : les horodatages se répètent deux fois par intervalle, ce qui indique que deux copies du script écrivaient en même temps (complément).
 4. **Adresse affichée comme « interne »** : `127.0.0.1` est l'adresse de bouclage, pas une adresse locale du réseau.
 5. **Message de `backup.sh`** : la sortie affiche « 2024-11-25 11:06:11 - Successful! » ; le script de `backup.sh` n'est pas montré dans la note, et celui de la tâche 2 (`echo "$Backup Successful!"`) n'afficherait que « Successful! » car `$Backup` est vide (complément).
-6. **Images non intégrées** : les 19 captures de la note n'ont pas été reprises (chemin portant le nom de l'étudiante) ; leur texte vient des transcriptions automatiques, l'image fait foi.
+6. **Captures** : les 19 captures de la note sont intégrées dans les sections correspondantes ; le texte recopié vient de leurs transcriptions automatiques, l'image fait foi.
