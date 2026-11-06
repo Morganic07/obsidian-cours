@@ -71,3 +71,11 @@ Un dossier de documents administratifs est retiré de `raw/`, de `Cours/` et de 
 ## [2026-11-05] import | Retrait de notes personnelles
 
 10 notes personnelles sont retirées de `raw/`, de `Cours/`, de `.transcriptions/` et du wiki, et exclues des prochaines mises à jour depuis Drive : un dossier de Dessein au cube, une fiche, les devoirs de Peinture et une note d'instructions. Six résumés sont renommés pour ne plus porter de nom de personne. Il reste 165 notes et 163 résumés.
+
+## [2026-11-06] import | Retrait de trois notes isolées
+
+Trois notes sans lien entrant, dont deux portaient un nom de personne, sont retirées de `raw/` et de `Cours/` et exclues des mises à jour. Leurs résumés restent. Il reste 162 notes.
+
+## [2026-11-06] ingest | Documents PDF et PPTX
+
+Les 53 PDF et 6 PPTX de `raw/` sont résumés en 4 lots, soit 1 515 pages : 59 résumés, 15 concepts et 5 nouvelles pages de matière (Year 2 - SHS, Year 3 - Affordance, Year 3 - Projet courts, Year 3 - Sémiotique, Year 4 - culture du soin). Les documents sont lus par leur texte extrait, et une page n'est ouverte en image que si le texte est illisible ou douteux. Lectures partielles : les gros documents de diapositives (AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites), text2 et text3 de SHS. Les liens vers trois fichiers dont le nom pose problème sont écrits en texte simple.

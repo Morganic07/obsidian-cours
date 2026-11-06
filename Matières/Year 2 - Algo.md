@@ -16,8 +16,21 @@ Algorithmique et programmation en Python : récursivité, complexité, structure
 | [[qui dit quoi AVL]] | Scénario parlé de l'exposé AVL | [[qui dit quoi AVL (résumé)\|Résumé]] |
 | [[TD_Algo]] | Motifs de `#` en Python | [[TD_Algo (résumé)\|Résumé]] |
 
+## Documents PDF
+
+Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils font suite aux chapitres 1 et 2 ; les « chapitres 3 à 5 » de l'enseignante), un sujet de projet et une fiche de cours sur l'AVL.
+
+| Document | Contenu | Résumé |
+|---|---|---|
+| [[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf\|Chapitre3-Arbres]] | Rappel sur les graphes, définition et vocabulaire des arbres | [[Chapitre3-Arbres (résumé)\|Résumé]] |
+| [[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf\|Chapitre4-Preing2ID]] | Arbres binaires : propriétés, parcours, code Python | [[Chapitre4-Preing2ID (résumé)\|Résumé]] |
+| [[raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf\|Chapitre5-ABR]] | Arbres binaires de recherche : insertion, recherche, suppression | [[Chapitre5-ABR (résumé)\|Résumé]] |
+| [[raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf\|Projet-Arbre-AVL-ID2]] | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
+| [[raw/Year 2/Algo/DM/ARBRE AVL.pdf\|ARBRE AVL]] | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[ARBRE AVL (résumé)\|Résumé]] |
+
 ## Concepts
 
+- **Arbres** : [[Arbre binaire]], [[Arbre binaire de recherche]]
 - **Récursivité et coût** : [[Récursivité]], [[Calcul de complexité et théorème de résolution]], [[Recherche dichotomique]]
 - **Structures de données** : [[Pile et file]], [[Liste chaînée]], [[Arbre AVL]]
 

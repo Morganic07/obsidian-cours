@@ -4,7 +4,7 @@ sources: ["[[OS - chp 1]]", "[[OS - chp 2]]", "[[OS - chp 3]]", "[[OS - chp 5]]"
 maj: 2026-11-05
 ---
 
-Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 21 notes sont intégrées : 11 notes de cours (chapitres 1, 2, 3, 5, 7, fiche de commandes, TP1 à TP5) et 10 notes de rendus (TP, DM, rapports). Il n'y a pas de chapitres 4 ni 6.
+Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 21 notes sont intégrées : 11 notes de cours (chapitres 1, 2, 3, 5, 7, fiche de commandes, TP1 à TP5) et 10 notes de rendus (TP, DM, rapports). Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
 
 ## Parcours
 
@@ -32,6 +32,19 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 | [[Cours/Year 2/Operating System/DM/TP5/TP5\|TP5 (DM)]] | Rendu du TP5 | [[TP5 (résumé)\|Résumé]] |
 | [[Cours/Year 2/Operating System/DM/TP6/log\|log (TP6)]] | Données pour AWK | [[log (résumé)\|Résumé]] |
 
+## Documents PDF
+
+Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à TP6.
+
+| Document | Contenu | Résumé |
+|---|---|---|
+| [[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf\|OS - chp 4]] | Arborescence Linux, répertoire racine, partitions | [[OS - chp 4 (résumé)\|Résumé]] |
+| [[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf\|Copy of TP2-Commands]] | Sujet du TP2 : jokers, redirections, tâches de fond, guillemets | [[Copy of TP2-Commands (résumé)\|Résumé]] |
+| [[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf\|TP3-Commands (2)]] | Sujet du TP3 : adresse IP, `/etc/hosts`, Netplan, sauvegarde | [[TP3-Commands (2) (résumé)\|Résumé]] |
+| [[raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf\|TP4-Unix Commands]] | Sujet du TP4 : `fork` en C, cron | [[TP4-Unix Commands (résumé)\|Résumé]] |
+| [[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf\|TP5-AWK Command]] | Sujet du TP5 : AWK | [[TP5-AWK Command (résumé)\|Résumé]] |
+| [[raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf\|TP6-Assignment]] | Sujet du TP6 : informations système, sudo, cron, AWK, `fork` | [[TP6-Assignment (résumé)\|Résumé]] |
+
 ## Concepts
 
 - **Système et matériel** : [[Système d'exploitation]], [[Noyau]], [[Interruption]], [[Appel système]], [[Hiérarchie de stockage]], [[Machine virtuelle]]
@@ -49,7 +62,7 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 
 ## Contenu manquant ou à compléter
 
-Le cours ne couvre pas les algorithmes d'ordonnancement (FCFS, Round Robin), les threads en détail, la mémoire virtuelle, la synchronisation ni l'interblocage ; il n'y a pas de chapitres 4 et 6.
+Le cours ne couvre pas les algorithmes d'ordonnancement (FCFS, Round Robin), les threads en détail, la mémoire virtuelle, la synchronisation ni l'interblocage . Il n'y a pas de chapitre 6 ; le chapitre 4 (arborescence et partitions) est résumé depuis son PDF.
 
 ## Liens avec les autres matières
 

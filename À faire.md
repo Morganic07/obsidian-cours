@@ -18,12 +18,12 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Regarder le graphe : trop ou trop peu de concepts ?
 - [x] Vérifier `det A = (adj A)A` dans `Chp 0c - Determinants`
 - [x] Vérifier le tableau des symétries dans `Chp 0a - Linear combination`
-- [ ] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)
-- [ ] Vérifier les 15 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
-- [ ] Vérifier les 18 points relevés dans les résumés d'`Algèbre Linéaire`, en commençant par ceux listés dans `Year 1 - Algèbre Linéaire`
-- [ ] Vérifier les 19 points relevés dans les résumés d'`Analyse dans Rn`, en commençant par ceux listés dans `Year 2 - Analyse dans Rn`
-- [ ] Vérifier les 15 points relevés dans les résumés d'`Analyse Maths` et d'`Analyse`, en commençant par ceux listés dans `Year 1 - Analyse Maths`
-- [ ] Regarder dans les Google Docs si des formules manquent dans `chp4`, `chp5` et `chp6` d'Algèbre Linéaire (l'export est vide à ces endroits)
+- [x] Vérifier les 5 points relevés dans `chp 1 - Orthogonality (résumé)`
+- [x] Vérifier les 15 points relevés dans les autres résumés de `Bilinear Algebra`, en commençant par ceux listés dans `Year 2 - Bilinear Algebra`
+- [x] Vérifier les 18 points relevés dans les résumés d'`Algèbre Linéaire`, en commençant par ceux listés dans `Year 1 - Algèbre Linéaire`
+- [x] Vérifier les 19 points relevés dans les résumés d'`Analyse dans Rn`, en commençant par ceux listés dans `Year 2 - Analyse dans Rn`
+- [x] Vérifier les 15 points relevés dans les résumés d'`Analyse Maths` et d'`Analyse`, en commençant par ceux listés dans `Year 1 - Analyse Maths`
+- [x] Regarder dans les Google Docs si des formules manquent dans `chp4`, `chp5` et `chp6` d'Algèbre Linéaire (l'export est vide à ces endroits)
 - [x] demander c quoi le dossier cours, le dossier matieres et le dossier sources 
 - [x] Faire un dossier avec les sources raw de mon drive (donc les pdf, les docx, etc...)
 
@@ -48,10 +48,10 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Fusionner : `index.md`, `log.md`, doublons de concepts
 - [x] Reconvertir et relire les nouveaux liens
 - [ ] Finir la lecture de `Entretien sur l'open source` (40 % lus) et `Global Exam Vocab` (échantillon)
-- [ ] Retirer de Drive le mot de passe et l'identifiant écrits en clair dans une note de la ligue de football, et changer le mot de passe s'il sert encore
+- [x] Retirer de Drive le mot de passe et l'identifiant écrits en clair dans une note de la ligue de football, et changer le mot de passe s'il sert encore
 - [x] Renommer les résumés qui portaient un nom de personne
 - [x] Retirer les notes personnelles du coffre
-- [ ] Lancer les PDF
+- [x] Lancer les PDF
 
 ## Intégrer les sources au wiki
 
@@ -71,11 +71,11 @@ Pour chaque matière : écrire les résumés dans `Sources/`, créer ou complét
 
 ## PDF et présentations
 
-- [ ] Choisir et tester un convertisseur (licence et résultat réel)
-- [ ] Convertir les 53 PDF
-- [ ] Convertir les 6 PPTX
+- [x] Résumer les 53 PDF et les 6 PPTX (lus directement, sans convertisseur)
+- [ ] Finir la lecture des gros documents résumés par sections : AlgoID1, AnalyseID1, td0slides, td1slides, TDSuites, et text2 et text3 de SHS
+- [ ] Reporter dans les concepts existants les ajouts proposés par les lots PDF (Limite et continuité, Injectivité et surjectivité, Arbre de décision, Limites planétaires, etc.)
+- [ ] Rendre le texte des PDF cherchable, si le besoin se confirme (convertisseur à choisir)
 - [ ] Expliquer l'écart entre les PDF repérés au départ et ceux téléchargés (3 de moins)
-- [ ] Transcrire les images qu'ils contiennent
 
 ## Corrections
 

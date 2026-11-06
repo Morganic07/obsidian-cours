@@ -18,8 +18,15 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 | [[Chp5 - NAT ／ PAT]] | Adresses privées, NAT, PAT | [[Chp5 - NAT ／ PAT (résumé)\|Résumé]] |
 | [[chp6 - Access Control List]] | Wildcard mask, ACL | [[chp6 - Access Control List (résumé)\|Résumé]] |
 
+## Documents PDF
+
+| Document | Contenu | Résumé |
+|---|---|---|
+| [[raw/Year 3/Computer Network/02 IP Addressing.pdf\|02 IP Addressing]] | Adressage IPv4 : binaire, classes, masques, CIDR, sous-réseaux | [[02 IP Addressing (résumé)\|Résumé]] |
+
 ## Concepts
 
+- **Adressage** : [[Adressage IPv4 et CIDR]]
 - **Équipements** : [[CLI Cisco IOS]]
 - **Routage** : [[Routage statique]], [[Routage dynamique]]
 - **Commutation** : [[VLAN]]

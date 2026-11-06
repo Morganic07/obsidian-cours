@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-05 : 186 concepts, 163 résumés, 40 matières, aucune synthèse. Toutes les notes de `Cours/` sont intégrées. Les PDF et les PPTX ne le sont pas.
+État au 2026-11-06 : 201 concepts, 222 résumés, 45 matières, aucune synthèse. Toutes les notes de `Cours/` et tous les PDF et PPTX de `raw/` sont intégrés. Le texte des PDF n'est pas cherchable : seuls leurs résumés le sont.
 
-## Concepts (186)
+## Concepts (201)
 
 ### Systèmes et vecteurs
 
@@ -255,7 +255,47 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Servitisation]] : vendre l'usage plutôt que le produit
 - [[Grille du management de la valeur]] : à qui, à quoi, que suffit-il, avec qui, par qui, pour qui
 
-## Résumés de sources (163)
+### Ajoutés avec les documents PDF et PPTX
+
+- [[Borne supérieure]] : plus petit majorant d'une partie de $\mathbb{R}$, propriété fondamentale de $\mathbb{R}$
+- [[Suite numérique]] : limites, gendarmes, limite monotone, suites adjacentes, extraites et récurrentes
+- [[Intégrale multiple]] : domaines élémentaires, Fubini, changement de variable
+- [[Image et image réciproque]] : image directe et réciproque d'une partie par une application
+- [[Arbre binaire]] : définition récursive, vocabulaire, propriétés, parcours
+- [[Arbre binaire de recherche]] : insertion, recherche, minimum, maximum, suppression
+- [[Adressage IPv4 et CIDR]] : classes, masque, préfixe, broadcast, CIDR
+- [[Héritage en base de données]] : spécialisation d'une entité en sous-entités
+- [[Imaginaire]] : représentations collectives, notion centrale de SHS en 3e année
+- [[Sémiotique]] : étude des signes et de leurs significations, en design
+- [[Analyse techno-sémiotique]] : interfaces numériques comme dispositifs techniques et sémiotiques
+- [[Architexte]] : outil qui régit les opérations et les formes du texte à l'écran
+- [[Écrit d'écran]] : forme de l'écrit sur un support numérique
+- [[Discours d'escorte]] : discours qui orientent l'appropriation des dispositifs numériques
+- [[Value(s) Design]] : méthode de conception du cours de management de l'innovation
+
+## Résumés de sources (222)
+
+### Documents PDF et PPTX (59)
+
+- **Year 1, Algo Maths** : [[AlgoID1 (résumé)]]
+- **Year 1, Analyse Maths** : [[AnalyseID1 (résumé)]], [[Chap0-Rappels-etc (résumé)]], [[Chap1-reels (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[TDSuites (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]]
+- **Year 1, contrôles** : [[Contrôles (résumé)]]
+- **Year 1, Outil Maths** : [[Chapitre2-Ensemble (4) (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TDEnsembles (1) (résumé)]], [[TDRelations (résumé)]]
+- **Year 2, Algo** : [[ARBRE AVL (résumé)]], [[Chapitre3-Arbres (résumé)]], [[Chapitre4-Preing2ID (résumé)]], [[Chapitre5-ABR (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+- **Year 2, Analyse** : [[Chp9-intégrales multiples (résumé)]], [[TD7-integration (1) (résumé)]]
+- **Year 2, Operating System** : [[OS - chp 4 (résumé)]], [[Copy of TP2-Commands (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP5-AWK Command (résumé)]], [[TP6-Assignment (résumé)]]
+- **Year 2, Projet Design** : [[Projet Etudiants CYDesign 2025 (résumé)]]
+- **Year 2, SHS** : [[Ethnographie visuelle (résumé)]]
+- **Year 3, Affordance** : [[Présentation Tests Utilisateurs ID3 (résumé)]], [[UX Research - Observation - 2026 (résumé)]]
+- **Year 3, Computer Network** : [[02 IP Addressing (résumé)]]
+- **Year 3, Culture du vivant** : [[VIVANT1 DBrowaeys (résumé)]]
+- **Year 3, ligue football** : [[sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+- **Year 3, Projet courts** : [[Santé au travail - brief du projet (résumé)]], [[Santé au travail - fiche ressources (résumé)]]
+- **Year 3, SHS** : [[imaginaire_automobile_futur_smaller (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[text1 (résumé)]], [[text2 (résumé)]], [[text3 (résumé)]]
+- **Year 3, Sémiotique** : [[Cours 1 (PPTX) (résumé)]], [[Cours 2 (PPTX) (résumé)]], [[Cours 3 (PPTX) (résumé)]], [[Cours 4 (PPTX) (résumé)]]
+- **Year 4, culture du soin** : [[Culture du soin Seance 1 (résumé)]]
+- **Year 4, data mining** : [[cours data mining du prof (résumé)]]
+- **Year 4, management de l'innovation** : [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)]]
 
 Classés par matière. Le nombre entre parenthèses est celui des points à vérifier, pour les premières matières intégrées. Pour les autres, chaque résumé les liste, et la page de matière donne les priorités.
 
@@ -346,7 +386,9 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 - [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (40)
+## Matières (45)
+
+- **Matières connues par leurs seuls documents PDF ou PPTX** : [[Year 2 - SHS]], [[Year 3 - Affordance]], [[Year 3 - Projet courts]], [[Year 3 - Sémiotique]], [[Year 4 - culture du soin]]
 
 - **Year 1, autres** : [[Year 1 - Algo Maths]], [[Year 1 - Communication orale]], [[Year 1 - Corps à l'oeuvre]], [[Year 1 - Dessein au cube]], [[Year 1 - HDA]], [[Year 1 - Outil Maths]], [[Year 1 - Peinture]], [[Year 1 - Philosophie]], [[Year 1 - Projet design]]
 - **Year 2, autres** : [[Year 2 - Algo]], [[Year 2 - Anglais]], [[Year 2 - Corps à l'oeuvre]], [[Year 2 - Operating System]], [[Year 2 - Philosophie]], [[Year 2 - Probability]], [[Year 2 - Projet Design]], [[Year 2 - écriture narrative]]

@@ -14,6 +14,12 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 | [[Cours/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Sources/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION (résumé)\|Résumé]] |
 | [[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[Sources/Year 3/Culture du vivant/Culture du vivant Dernier cours (résumé)\|Résumé]] |
 
+## Documents PDF
+
+| Document | Contenu | Résumé |
+|---|---|---|
+| VIVANT1 DBrowaeys (43 pages) | Premier cours : Anthropocène, limites planétaires, design et vivant | [[Sources/Year 3/Culture du vivant/VIVANT1 DBrowaeys (résumé)\|Résumé]] |
+
 ## Concepts
 
 [[Limites planétaires]], [[Collapsologie]], [[Anthropocène]], [[Économie circulaire]]

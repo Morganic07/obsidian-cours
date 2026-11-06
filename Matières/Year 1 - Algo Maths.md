@@ -14,9 +14,16 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 | [[Cours/Year 1/Algo Maths/Python\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
 | [[explications DM d'algo]] | Lecture de fichier, exhaustif, glouton, stochastique | [[explications DM d'algo (résumé)\|Résumé]] |
 
+## Documents PDF
+
+| Document | Contenu | Résumé |
+|---|---|---|
+| AlgoID1 (PDF, 163 pages) | Introduction, pseudo-code, fonctions et procédures, Python, enregistrements, récursivité, avec TD | [[AlgoID1 (résumé)\|Résumé]] |
+
 ## Concepts
 
 - [[Tours de Hanoï]], [[Récurrence]]
+- [[Récursivité]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]] (voir [[AlgoID1 (résumé)]])
 - [[Problème du sac à dos]], [[Algorithme glouton]]
 - [[Complexité algorithmique]] (cours de graphes)
 
