@@ -1,0 +1,27 @@
+---
+type: matiere
+tags: [year1]
+sources: ["[[Cours/Year 1/Communication orale/Communication orale - discours|Communication orale - discours]]", "[[Cours/Year 1/Communication orale/Debats|Debats]]"]
+maj: 2026-11-06
+---
+
+Communication orale de 1re année : exercices de discours et de débat.
+
+## Notes
+
+| Note | Rôle | Résumé |
+|---|---|---|
+| [[Cours/Year 1/Communication orale/Communication orale - discours\|Communication orale - discours]] | Extrait d'un discours de Malcolm X | [[Communication orale - discours (résumé)\|Résumé]] |
+| [[Cours/Year 1/Communication orale/Debats\|Debats]] | Arguments : cannabis, clonage animal | [[Debats (résumé)\|Résumé]] |
+
+## Concepts
+
+- **Dossiers de débat** : [[Clonage animal]], [[Théorie de l'escalade]]
+
+## À revoir en priorité
+
+Les chiffres du dossier cannabis sont non datés et non sourcés. Le cours ne contient pas de méthode d'oral, seulement du matériau.
+
+## Liens avec les autres matières
+
+- **[[Corps à l'oeuvre (matière)]]** : s'exprimer en public, dire « je » et se positionner dans un débat.
