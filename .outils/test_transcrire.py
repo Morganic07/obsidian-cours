@@ -48,39 +48,48 @@ class TestValider(unittest.TestCase):
 
 
 class TestTranscrire(unittest.TestCase):
+    """Les images sont dans le dossier de travail de maj.py, les transcriptions dans le coffre."""
+
     def setUp(self):
         dossier = tempfile.TemporaryDirectory()
         self.addCleanup(dossier.cleanup)
-        self.coffre = Path(dossier.name)
+        self.coffre = Path(dossier.name) / "coffre"
+        self.travail = Path(dossier.name) / "travail"
         self.dossier = self.coffre / chemins.TRANSCRIPTIONS
-        self.dossier.mkdir()
+        self.dossier.mkdir(parents=True)
         lignes = []
-        self.empreintes = {}
-        for matiere, nom in (("Year 1/Maths", "a.png"), ("Year 1/Maths", "b.png"), ("Year 2/OS", "c.png")):
-            image = self.coffre / chemins.NOTES / matiere / "medias" / nom
-            image.parent.mkdir(parents=True, exist_ok=True)
+        self.empreintes, self.images = {}, {}
+        for n, (document, nom) in enumerate((("Year 1/Maths/c1.docx", "a.png"),
+                                             ("Year 1/Maths/c1.docx", "b.png"),
+                                             ("Year 2/OS/c2.docx", "c.png")), 1):
+            image = self.travail / "conversions" / f"{n:02d}" / "nouveau" / nom
+            image.parent.mkdir(parents=True)
             image.write_bytes(nom.encode())
             empreinte = hashlib.sha256(nom.encode()).hexdigest()
-            self.empreintes[nom] = empreinte
-            lignes.append(f"{empreinte}\t{image.relative_to(self.coffre).as_posix()}\n")
-        (self.dossier / chemins.A_FAIRE).write_text("".join(lignes), encoding="utf-8")
+            self.empreintes[nom], self.images[nom] = empreinte, image
+            lignes.append(f"{empreinte}\t{image.relative_to(self.travail).as_posix()}\t{document}\n")
+        (self.travail / chemins.A_FAIRE).write_text("".join(lignes), encoding="utf-8")
 
     def fichier(self, nom):
         return self.dossier / f"{self.empreintes[nom]}.md"
 
+    def lancer(self, appel, **options):
+        return transcrire.transcrire(self.coffre, appel=appel, travail=self.travail, **options)
+
     def test_transcrit_tout_et_ecrit_les_fichiers(self):
-        resultat = transcrire.transcrire(self.coffre, appel=lambda image, modele: f"texte {image.name}")
+        resultat = self.lancer(lambda image, modele: f"texte {image.name}")
         self.assertEqual(resultat, (3, [], None))
         self.assertEqual(self.fichier("a.png").read_text(encoding="utf-8"), "texte a.png\n")
 
-    def test_filtre_matiere_et_limite(self):
-        reussies, _, _ = transcrire.transcrire(
-            self.coffre, "Year 1/Maths", limite=1, appel=lambda image, modele: "x"
-        )
+    def test_filtre_par_dossier_du_miroir_et_limite(self):
+        reussies, _, _ = self.lancer(lambda image, modele: "x", prefixe="Year 1/Maths", limite=1)
         self.assertEqual(reussies, 1)
         self.assertTrue(self.fichier("a.png").exists())
         self.assertFalse(self.fichier("b.png").exists())
         self.assertFalse(self.fichier("c.png").exists())
+
+    def test_prefixe_partiel_ne_suffit_pas(self):
+        self.assertEqual(transcrire.lire_a_faire(self.coffre, "Year 1/Mat", self.travail), [])
 
     def test_ne_refait_pas_ce_qui_existe(self):
         self.fichier("a.png").write_text("déjà fait", encoding="utf-8")
@@ -90,9 +99,13 @@ class TestTranscrire(unittest.TestCase):
             vues.append(image.name)
             return "x"
 
-        transcrire.transcrire(self.coffre, appel=appel)
+        self.lancer(appel)
         self.assertEqual(vues, ["b.png", "c.png"])
         self.assertEqual(self.fichier("a.png").read_text(encoding="utf-8"), "déjà fait")
+
+    def test_sans_liste_rien_a_faire(self):
+        (self.travail / chemins.A_FAIRE).unlink()
+        self.assertEqual(self.lancer(lambda image, modele: "x"), (0, [], None))
 
     def test_limite_d_usage_arrete_et_garde_le_travail(self):
         def appel(image, modele):
@@ -100,18 +113,18 @@ class TestTranscrire(unittest.TestCase):
                 raise transcrire.LimiteAtteinte("quota")
             return "x"
 
-        reussies, _, arret = transcrire.transcrire(self.coffre, appel=appel)
+        reussies, _, arret = self.lancer(appel)
         self.assertEqual(reussies, 1)
         self.assertIn("limite", arret)
         self.assertTrue(self.fichier("a.png").exists())
         self.assertFalse(self.fichier("b.png").exists())
-        self.assertEqual(len(transcrire.lire_a_faire(self.coffre)), 2)
+        self.assertEqual(len(transcrire.lire_a_faire(self.coffre, travail=self.travail)), 2)
 
     def test_reponse_invalide_passe_a_la_suivante_sans_rien_ecrire(self):
         def appel(image, modele):
             return "$x" if image.name == "a.png" else "bon"
 
-        reussies, echouees, arret = transcrire.transcrire(self.coffre, appel=appel)
+        reussies, echouees, arret = self.lancer(appel)
         self.assertEqual((reussies, len(echouees), arret), (2, 1, None))
         self.assertFalse(self.fichier("a.png").exists())
 
@@ -119,18 +132,23 @@ class TestTranscrire(unittest.TestCase):
         def appel(image, modele):
             raise transcrire.EchecImage("panne")
 
-        _, echouees, arret = transcrire.transcrire(self.coffre, appel=appel)
+        _, echouees, arret = self.lancer(appel)
         self.assertEqual(len(echouees), 3)
         self.assertIn("de suite", arret)
 
     def test_image_changee_refusee(self):
-        (self.coffre / chemins.NOTES / "Year 1/Maths/medias/a.png").write_bytes(b"autre contenu")
-        _, echouees, _ = transcrire.transcrire(self.coffre, appel=lambda image, modele: "x")
+        self.images["a.png"].write_bytes(b"autre contenu")
+        _, echouees, _ = self.lancer(lambda image, modele: "x")
         self.assertIn("changée", echouees[0][1])
         self.assertFalse(self.fichier("a.png").exists())
 
+    def test_image_disparue_refusee(self):
+        self.images["a.png"].unlink()
+        _, echouees, _ = self.lancer(lambda image, modele: "x")
+        self.assertIn("introuvable", echouees[0][1])
+
     def test_aucun_fichier_temporaire_restant(self):
-        transcrire.transcrire(self.coffre, appel=lambda image, modele: "x")
+        self.lancer(lambda image, modele: "x")
         self.assertEqual(list(self.dossier.glob(".*.tmp")), [])
 
 

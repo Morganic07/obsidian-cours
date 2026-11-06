@@ -188,6 +188,32 @@ Une form ici.
 """
 
 
+def fabriquer_docx(cible, markdown, dossier):
+    """Produit un vrai .docx avec pandoc, à partir de Markdown pouvant citer pixel.png."""
+    dossier.mkdir(parents=True, exist_ok=True)
+    (dossier / "pixel.png").write_bytes(PNG)
+    (dossier / "s.md").write_text(markdown, encoding="utf-8")
+    cible.parent.mkdir(parents=True, exist_ok=True)
+    subprocess.run(["pandoc", "s.md", "-o", str(cible)], cwd=dossier, check=True)
+
+
+class TestConceptsPresents(unittest.TestCase):
+    CONCEPTS = [("Matrice", ["Matrice", "matrices"], []),
+                ("Mémoire", ["Mémoire", "memory"], ["Operating System"])]
+
+    def test_variantes_et_restriction_par_matiere(self):
+        texte = "Des matrices et de la memory."
+        self.assertEqual(convertir.concepts_presents(texte, self.CONCEPTS, "Year 2/Algebre/c.docx"),
+                         ["Matrice"])
+        self.assertEqual(
+            convertir.concepts_presents(texte, self.CONCEPTS, "Year 2/Operating System/c.docx"),
+            ["Matrice", "Mémoire"])
+
+    def test_liens_deja_presents_et_images_ignores(self):
+        texte = "![[conversions/01/nouveau/Matrice.png]] et [[Matrice]]"
+        self.assertEqual(convertir.concepts_presents(texte, self.CONCEPTS, "c.docx"), [])
+
+
 class TestBoutEnBout(unittest.TestCase):
     """Passe par le vrai pandoc et le vrai filtre boites.lua."""
 
@@ -195,52 +221,54 @@ class TestBoutEnBout(unittest.TestCase):
         dossier = tempfile.TemporaryDirectory()
         self.addCleanup(dossier.cleanup)
         racine = Path(dossier.name)
-        self.miroir, self.coffre = racine / "miroir", racine / "coffre"
-        (self.coffre / chemins.CONCEPTS).mkdir(parents=True)
-        (self.coffre / chemins.CONCEPTS / "Matrice.md").write_text("une matrice\n", encoding="utf-8")
-        self.source = self.miroir / "Year 2" / "Algebre " / "Chp 1 : Intro.docx"
-        self.source.parent.mkdir(parents=True)
-        fabrique = racine / "fabrique"
-        fabrique.mkdir()
-        (fabrique / "pixel.png").write_bytes(PNG)
-        (fabrique / "s.md").write_text(SOURCE_MD, encoding="utf-8")
-        subprocess.run(
-            ["pandoc", "s.md", "-o", str(self.source)], cwd=fabrique, check=True
-        )
-        self.note = self.coffre / chemins.NOTES / "Year 2" / "Algebre" / "Chp 1 - Intro.md"
+        self.coffre = racine / "coffre"
+        (self.coffre / chemins.TRANSCRIPTIONS).mkdir(parents=True)
+        self.source = racine / "miroir" / "Year 2" / "Algebre " / "Chp 1 : Intro.docx"
+        self.fabrique = racine / "fabrique"
+        fabriquer_docx(self.source, SOURCE_MD, self.fabrique)
 
-    def lancer(self, *options):
-        return convertir.main(
-            ["--miroir", str(self.miroir), "--coffre", str(self.coffre), *options]
-        )
+    def test_conversion(self):
+        corps, images = convertir.convertir_docx(self.source, "conversions/01/nouveau")
+        self.assertNotIn("<table", corps)
+        self.assertIn("> [!note]", corps)
+        self.assertIn("| une matrice |", corps)
+        self.assertNotIn("[[Matrice", corps, "plus aucun lien automatique")
+        # Le nom de l'image dépend de ce qui a produit le docx : on le lit dans le texte.
+        image = re.search(r"!\[\[conversions/01/nouveau/([^\]]+\.png)\]\]", corps)
+        self.assertIsNotNone(image)
+        self.assertEqual(images, {image[1]: PNG})
 
-    def lancer_et_lire(self):
+    def test_empreintes_des_images(self):
+        empreintes = convertir.empreintes_images({"image1.png": PNG}, "b")
+        self.assertEqual(list(empreintes), ["b/image1.png"])
+        self.assertEqual(len(empreintes["b/image1.png"]), 64)
+
+    def test_lire_insere_les_transcriptions(self):
+        empreinte = next(iter(convertir.empreintes_images({"x": PNG}, "b").values()))
+        (self.coffre / chemins.TRANSCRIPTIONS / f"{empreinte}.md").write_text(
+            "texte lu", encoding="utf-8")
+        texte = convertir.lire(self.source, self.coffre)
+        self.assertIn("> texte lu", texte)
+
+    def test_commande_affiche_sans_rien_ecrire(self):
         sortie = io.StringIO()
         with contextlib.redirect_stdout(sortie):
-            self.assertEqual(self.lancer(), 0)
-        return sortie.getvalue()
+            code = convertir.main([str(self.source), "--coffre", str(self.coffre)])
+        self.assertEqual(code, 0)
+        self.assertIn("# Chapitre", sortie.getvalue())
+        self.assertEqual([p.name for p in self.coffre.iterdir()], [chemins.TRANSCRIPTIONS])
 
-    def test_signale_les_notes_nouvelles_et_modifiees(self):
-        relative = f"{chemins.NOTES}/Year 2/Algebre/Chp 1 - Intro.md"
-        self.assertIn(f"nouvelle : {relative}", self.lancer_et_lire())
-        deuxieme = self.lancer_et_lire()
-        self.assertNotIn("nouvelle :", deuxieme)
-        self.assertNotIn("modifiée :", deuxieme)
-        self.note.write_text("version ancienne\n", encoding="utf-8")
-        self.assertIn(f"modifiée : {relative}", self.lancer_et_lire())
+    def test_commande_refuse_autre_chose_qu_un_docx(self):
+        with contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(convertir.main([str(self.fabrique / "s.md")]), 2)
+            self.assertEqual(convertir.main([str(self.fabrique / "absent.docx")]), 2)
 
-    def test_note_generee(self):
-        self.assertEqual(self.lancer(), 0)
-        texte = self.note.read_text(encoding="utf-8")
-        self.assertTrue(texte.startswith("---\ngenere: true\n"))
-        self.assertNotIn("<table", texte)
-        self.assertIn("> [!note]", texte)
-        self.assertIn("| une matrice |", texte.replace("[[", "").replace("]]", ""))
-        self.assertEqual(texte.count("[[Matrice|matrice]]"), 1)
-        # Le nom de l'image dépend de ce qui a produit le docx : on le lit dans la note.
-        image = re.search(rf"!\[\[({re.escape(chemins.NOTES)}/Year 2/Algebre/medias/Chp 1 - Intro/[^\]]+\.png)\]\]", texte)
-        self.assertIsNotNone(image)
-        self.assertEqual((self.coffre / image[1]).read_bytes(), PNG)
+    def test_docx_illisible(self):
+        self.source.write_bytes(b"pas un docx")
+        with self.assertRaises(subprocess.CalledProcessError):
+            convertir.convertir_docx(self.source, "b")
+        with contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(convertir.main([str(self.source), "--coffre", str(self.coffre)]), 1)
 
     def ajouter_dessin_groupe(self):
         """Ajoute au docx un dessin construit comme ceux qu'exporte Google Docs."""
@@ -267,108 +295,19 @@ class TestBoutEnBout(unittest.TestCase):
 
     def test_dessin_groupe_garde_son_image_et_son_texte(self):
         self.ajouter_dessin_groupe()
-        self.assertEqual(self.lancer(), 0)
-        texte = self.note.read_text(encoding="utf-8")
+        texte, _ = convertir.convertir_docx(self.source, "b")
         ligne = next(l for l in texte.splitlines() if "Texte du dessin" in l)
         self.assertIn("Texte du dessin : Annotation ; Seconde boite<sup>2</sup>", ligne)
         self.assertEqual(texte.count("![["), 2)
         self.assertNotIn("repli", texte)
 
     def test_crochet_dans_le_texte_alternatif(self):
-        (self.source.parent / "Alt.docx").unlink(missing_ok=True)
-        fabrique = self.coffre.parent / "fabrique"
-        (fabrique / "alt.md").write_text("![a\\]b](pixel.png)\n", encoding="utf-8")
         cible = self.source.parent / "Alt.docx"
-        subprocess.run(["pandoc", "alt.md", "-o", str(cible)], cwd=fabrique, check=True)
-        self.lancer()
-        texte = (self.note.parent / "Alt.md").read_text(encoding="utf-8")
+        fabriquer_docx(cible, "![a\\]b](pixel.png)\n", self.fabrique)
+        texte, _ = convertir.convertir_docx(cible, "b")
         self.assertNotIn("m/media/", texte)
-        self.assertRegex(texte, rf"!\[\[{re.escape(chemins.NOTES)}/Year 2/Algebre/medias/Alt/[^\]]+\.png\]\]")
+        self.assertRegex(texte, r"!\[\[b/[^\]]+\.png\]\]")
 
-    def test_relancer_ne_change_rien(self):
-        self.lancer()
-        avant = self.note.read_bytes()
-        date = self.note.stat().st_mtime_ns
-        self.lancer()
-        self.assertEqual(self.note.read_bytes(), avant)
-        self.assertEqual(self.note.stat().st_mtime_ns, date)
-
-    def test_transcription_appliquee_et_liee(self):
-        self.lancer()
-        a_faire = self.coffre / chemins.TRANSCRIPTIONS / chemins.A_FAIRE
-        empreinte = a_faire.read_text(encoding="utf-8").split("\t")[0]
-        (self.coffre / chemins.CONCEPTS / "Pixel.md").write_text("", encoding="utf-8")
-        (self.coffre / chemins.TRANSCRIPTIONS / f"{empreinte}.md").write_text(
-            "un Pixel seul", encoding="utf-8"
-        )
-        self.lancer()
-        texte = self.note.read_text(encoding="utf-8")
-        self.assertIn("> un [[Pixel]] seul", texte)
-        self.assertEqual(a_faire.read_text(encoding="utf-8"), "")
-
-    def test_source_supprimee(self):
-        self.lancer()
-        perso = self.note.parent / "perso.md"
-        perso.write_text("mes notes", encoding="utf-8")
-        autre = self.source.parent / "Autre.docx"
-        autre.write_bytes(self.source.read_bytes())
-        self.source.unlink()
-        self.assertEqual(self.lancer(), 0)
-        self.assertFalse(self.note.exists())
-        self.assertFalse((self.note.parent / "medias" / "Chp 1 - Intro").exists())
-        self.assertTrue(perso.exists(), "une note non générée ne doit jamais être supprimée")
-
-    def test_note_deplacee_arrete_tout_sans_rien_modifier(self):
-        self.lancer()
-        rangee = self.coffre / chemins.NOTES / "Year 4" / "Chp 1 - Intro.md"
-        rangee.parent.mkdir(parents=True)
-        self.note.rename(rangee)
-        contenu = rangee.read_bytes()
-        for options in ((), ("--matiere", "Year 2")):
-            with self.subTest(options):
-                self.assertEqual(self.lancer(*options), 3)
-                self.assertEqual(rangee.read_bytes(), contenu)
-                self.assertFalse(self.note.exists(), "la note ne doit pas être régénérée")
-        rangee.rename(self.note)
-        self.assertEqual(self.lancer(), 0)
-
-    def test_dossier_deplace_sur_drive(self):
-        self.lancer()
-        empreinte = (self.coffre / chemins.TRANSCRIPTIONS / chemins.A_FAIRE).read_text(
-            encoding="utf-8").split("\t")[0]
-        (self.coffre / chemins.TRANSCRIPTIONS / f"{empreinte}.md").write_text("texte lu", encoding="utf-8")
-        ancien_dossier = self.note.parent
-        nouveau = self.miroir / "Year 4" / "Algebre "
-        nouveau.parent.mkdir()
-        self.source.parent.rename(nouveau)
-        (self.miroir / "Year 2").rmdir()
-
-        self.assertEqual(self.lancer(), 0)
-
-        arrivee = self.coffre / chemins.NOTES / "Year 4" / "Algebre" / self.note.name
-        self.assertIn("> texte lu", arrivee.read_text(encoding="utf-8"))
-        self.assertFalse(ancien_dossier.exists(), "l'ancien dossier ne doit pas rester vide")
-        self.assertFalse(ancien_dossier.parent.exists())
-
-    def test_filtre_matiere_ne_retire_rien(self):
-        self.lancer()
-        autre = self.miroir / "Year 3" / "Stats" / "a.docx"
-        autre.parent.mkdir(parents=True)
-        autre.write_bytes(self.source.read_bytes())
-        self.assertEqual(self.lancer("--matiere", "Year 3/Stats"), 0)
-        self.assertTrue(self.note.exists())
-
-    def test_miroir_vide_ne_touche_a_rien(self):
-        self.lancer()
-        self.source.unlink()
-        self.assertEqual(self.lancer(), 2)
-        self.assertTrue(self.note.exists())
-
-    def test_docx_illisible_signale_sans_perdre_la_note(self):
-        self.lancer()
-        self.source.write_bytes(b"pas un docx")
-        self.assertEqual(self.lancer(), 1)
-        self.assertTrue(self.note.exists())
 
 
 if __name__ == "__main__":

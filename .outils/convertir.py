@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
-"""Convertit le miroir Drive en notes Obsidian et y insère les liens vers les concepts.
+"""Convertit un .docx du miroir en Markdown, sans rien écrire dans le coffre.
 
-Les notes sont entièrement recalculées à partir du miroir, des concepts et des
-transcriptions : relancer le script redonne le même résultat. Les noms de ces
-dossiers sont dans chemins.py.
+    python3 .outils/convertir.py "Raw/Year 2/Probability/Cours 6 - T-Test.docx"
+
+affiche le texte converti, avec la transcription de chaque image : c'est ainsi qu'on
+relit un document de cours. maj.py se sert des mêmes fonctions pour préparer le lot
+d'une mise à jour. Les noms de dossiers sont dans chemins.py.
 """
 import argparse
 import csv
 import hashlib
 import re
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -19,7 +20,6 @@ from pathlib import Path
 import chemins
 
 ICI = Path(__file__).resolve().parent
-MIROIR_DEFAUT = ICI.parent / chemins.MIROIR
 URI_IMAGE = "http://schemas.openxmlformats.org/drawingml/2006/picture"
 GROUPE_DESSIN = re.compile(r"<mc:AlternateContent\b.*?</mc:AlternateContent>", re.S)
 
@@ -159,32 +159,21 @@ def contenu_dossier(dossier):
     return {f.name: f.read_bytes() for f in dossier.iterdir() if f.is_file()}
 
 
-def chemin_note(coffre, relatif):
-    """Emplacement attendu de la note d'un document du miroir."""
-    dossiers = [nom_sur(p) for p in relatif.parent.parts]
-    return coffre.joinpath(chemins.NOTES, *dossiers, f"{nom_sur(relatif.stem)}.md")
+def charger_transcriptions(coffre):
+    """Renvoie {empreinte: texte} pour toutes les transcriptions du coffre."""
+    dossier = Path(coffre) / chemins.TRANSCRIPTIONS
+    if not dossier.is_dir():
+        return {}
+    return {f.stem: f.read_text(encoding="utf-8") for f in dossier.glob("*.md")}
 
 
-def source_lisible(relatif):
-    """Chemin de la source tel qu'il est écrit dans l'en-tête de la note."""
-    return re.sub(r"\s+", " ", relatif.as_posix()).replace('"', "")
-
-
-def notes_deplacees(coffre, miroir):
-    """Trouve les notes générées hors de leur place alors que leur source existe encore."""
-    attendues = {}
-    for source in miroir.rglob("*.docx"):
-        relatif = source.relative_to(miroir)
-        attendues[source_lisible(relatif)] = chemin_note(coffre, relatif)
-    deplacees = []
-    for note in sorted((coffre / chemins.NOTES).rglob("*.md")):
-        champs = lire_frontmatter(note.read_text(encoding="utf-8"))
-        if champs.get("genere") != ["true"]:
-            continue
-        attendue = attendues.get(next(iter(champs.get("source", [])), None))
-        if attendue is not None and attendue != note:
-            deplacees.append((note, attendue))
-    return deplacees
+def concepts_presents(corps, concepts, chemin):
+    """Noms des concepts existants repérés dans un texte, avec les règles des anciens liens
+    automatiques : variantes de aliases, limitées par matieres au chemin du document."""
+    lien = re.compile(r"\[\[([^\]|\\]+)")
+    deja = set(lien.findall(corps))
+    noms = {nom for nom, _, _ in concepts}
+    return sorted((set(lien.findall(lier(corps, concepts, chemin))) - deja) & noms)
 
 
 def runs_du_groupe(choix):
@@ -256,12 +245,9 @@ def docx_pour_pandoc(source, dossier):
     return copie
 
 
-def convertir_doc(source, relatif, coffre, concepts, textes):
-    """Produit la note d'un .docx. Renvoie son chemin et ses empreintes d'images."""
-    note = chemin_note(coffre, relatif)
-    medias = note.parent / "medias" / note.stem
-    base = medias.relative_to(coffre).as_posix()
-
+def convertir_docx(source, base):
+    """Convertit un .docx. Renvoie (corps, images) : images = {nom: octets}, et le corps
+    désigne chaque image par ![[<base>/<nom>]]. Lève CalledProcessError si pandoc échoue."""
     with tempfile.TemporaryDirectory() as tmp:
         subprocess.run(
             ["pandoc", str(docx_pour_pandoc(source, tmp)), "-f", "docx", "-t", "gfm+tex_math_dollars",
@@ -272,123 +258,42 @@ def convertir_doc(source, relatif, coffre, concepts, textes):
         corps = (Path(tmp) / "n.md").read_text(encoding="utf-8")
         nouveaux = contenu_dossier(Path(tmp) / "m" / "media")
 
-    corps = re.sub(r"!\[[^\]\n]*\]\(m/media/([^)\s]+)[^)\n]*\)", rf"![[{base}/\1]]", corps)
-    corps = re.sub(r'<img src="m/media/([^"]+)"[^>]*>', rf"![[{base}/\1]]", corps)
-    empreintes = {f"{base}/{n}": hashlib.sha256(o).hexdigest() for n, o in nouveaux.items()}
+    def image(m):
+        return f"![[{base}/{m[1]}]]"
 
-    corps = inserer_transcriptions(corps, empreintes, textes)
-    corps = lier(corps, concepts, relatif)
-    entete = f'---\ngenere: true\nsource: "{source_lisible(relatif)}"\n---\n\n'
-    texte = entete + corps.strip() + "\n"
-
-    note.parent.mkdir(parents=True, exist_ok=True)
-    etat = None
-    if not note.exists():
-        etat = "nouvelle"
-    elif note.read_text(encoding="utf-8") != texte:
-        etat = "modifiée"
-    if etat:
-        note.write_text(texte, encoding="utf-8")
-    if contenu_dossier(medias) != nouveaux:
-        shutil.rmtree(medias, ignore_errors=True)
-        if nouveaux:
-            medias.mkdir(parents=True)
-            for nom, octets in nouveaux.items():
-                (medias / nom).write_bytes(octets)
-    return note, empreintes, etat
+    corps = re.sub(r"!\[[^\]\n]*\]\(m/media/([^)\s]+)[^)\n]*\)", image, corps)
+    corps = re.sub(r'<img src="m/media/([^"]+)"[^>]*>', image, corps)
+    return corps.strip() + "\n", nouveaux
 
 
-def retirer_dossiers_vides(dossier, limite):
-    while dossier != limite and dossier.is_dir() and not any(dossier.iterdir()):
-        dossier.rmdir()
-        dossier = dossier.parent
+def empreintes_images(images, base):
+    """{référence de l'image dans le corps: empreinte de son contenu}."""
+    return {f"{base}/{nom}": hashlib.sha256(octets).hexdigest() for nom, octets in images.items()}
 
 
-def retirer_orphelines(coffre, gardees):
-    """Supprime les notes générées dont la source a disparu, jamais les autres."""
-    cours = coffre / chemins.NOTES
-    retirees = []
-    for note in sorted(cours.rglob("*.md")):
-        if note in gardees:
-            continue
-        if lire_frontmatter(note.read_text(encoding="utf-8")).get("genere") == ["true"]:
-            note.unlink()
-            shutil.rmtree(note.parent / "medias" / note.stem, ignore_errors=True)
-            retirer_dossiers_vides(note.parent / "medias", cours)
-            retirer_dossiers_vides(note.parent, cours)
-            retirees.append(note)
-    return retirees
+def lire(source, coffre):
+    """Texte d'un .docx avec la transcription de chaque image, comme on le relit."""
+    corps, images = convertir_docx(source, "images")
+    return inserer_transcriptions(corps, empreintes_images(images, "images"),
+                                  charger_transcriptions(coffre))
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--miroir", type=Path, default=MIROIR_DEFAUT)
+    parser = argparse.ArgumentParser(description=__doc__,
+                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("document", type=Path, help="fichier .docx à lire")
     parser.add_argument("--coffre", type=Path, default=ICI.parent)
-    parser.add_argument("--matiere", help="ne traiter que ce sous-dossier du miroir")
     args = parser.parse_args(argv)
-    coffre = args.coffre.resolve()
-
-    racine = args.miroir / args.matiere if args.matiere else args.miroir
-    sources = sorted(racine.rglob("*.docx")) if racine.is_dir() else []
-    if not sources:
-        print(f"erreur : aucun .docx dans {racine}, rien n'est modifié", file=sys.stderr)
+    if args.document.suffix.lower() != ".docx" or not args.document.is_file():
+        print(f"erreur : {args.document} n'est pas un .docx existant", file=sys.stderr)
         return 2
-
-    deplacees = notes_deplacees(coffre, args.miroir)
-    if deplacees:
-        print("erreur : des notes générées ont été déplacées dans le coffre, rien n'est modifié.\n"
-              f"{chemins.NOTES}/ suit l'arborescence de Drive : "
-              "range-les sur Drive, ou remets-les en place.",
-              file=sys.stderr)
-        for note, attendue in deplacees:
-            print(f"  {note.relative_to(coffre)}  (attendue : {attendue.relative_to(coffre)})",
-                  file=sys.stderr)
-        return 3
-
-    dossier_tr = coffre / chemins.TRANSCRIPTIONS
-    dossier_tr.mkdir(parents=True, exist_ok=True)
-    textes = {f.stem: f.read_text(encoding="utf-8") for f in dossier_tr.glob("*.md")}
-    dossier_concepts = coffre / chemins.CONCEPTS
-    concepts = charger_concepts(dossier_concepts) if dossier_concepts.is_dir() else []
-
-    notes, a_transcrire, echecs, changees = {}, {}, [], []
-    reussies = 0
-    for source in sources:
-        relatif = source.relative_to(args.miroir)
-        cible = chemin_note(coffre, relatif)
-        if cible in notes:
-            echecs.append(f"{relatif} : même note que {notes[cible]}")
-            continue
-        notes[cible] = relatif
-        try:
-            note, empreintes, etat = convertir_doc(source, relatif, coffre, concepts, textes)
-            if etat:
-                changees.append((etat, note))
-        except subprocess.CalledProcessError as erreur:
-            echecs.append(f"{relatif} : {erreur.stderr.strip()}")
-            continue
-        reussies += 1
-        for image, empreinte in empreintes.items():
-            if empreinte not in textes:
-                a_transcrire.setdefault(empreinte, image)
-
-    (dossier_tr / chemins.A_FAIRE).write_text(
-        "".join(f"{e}\t{i}\n" for e, i in a_transcrire.items()), encoding="utf-8")
-
-    retirees = [] if args.matiere else retirer_orphelines(coffre, set(notes))
-    html = [n for n in notes if n.exists() and "<table" in n.read_text(encoding="utf-8")]
-
-    print(f"{reussies} notes à jour, {len(retirees)} retirées, "
-          f"{len(a_transcrire)} images à transcrire, {len(concepts)} concepts")
-    for etat, note in changees:
-        print(f"{etat} : {note.relative_to(coffre)}")
-    for note in retirees:
-        print(f"retirée : {note.relative_to(coffre)}")
-    for note in html:
-        print(f"tableau resté en HTML (liens inactifs dedans) : {note.relative_to(coffre)}")
-    for echec in echecs:
-        print(f"échec : {echec}", file=sys.stderr)
-    return 1 if echecs else 0
+    try:
+        texte = lire(args.document, args.coffre.resolve())
+    except subprocess.CalledProcessError as erreur:
+        print(f"erreur : pandoc a échoué : {erreur.stderr.strip()}", file=sys.stderr)
+        return 1
+    sys.stdout.write(texte)
+    return 0
 
 
 if __name__ == "__main__":

@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Transcrit les images listées dans A_FAIRE.tsv (dossier des transcriptions, voir
-chemins.py), une session courte par image.
+"""Transcrit les images listées dans A_FAIRE.tsv, une session courte par image.
+
+maj.py écrit cette liste dans le dossier de travail (chemins.travail()) : une ligne
+« empreinte, image (chemin relatif au dossier de travail), document du miroir ».
+Les transcriptions vont dans le dossier des transcriptions du coffre, nommées par
+l'empreinte du contenu de l'image : elles restent valables quel que soit son chemin.
 
 Chaque transcription est écrite dès qu'elle est validée : on peut interrompre le
-script et le relancer, il reprend là où il en était. Lancer ensuite convertir.py.
+script et le relancer, il reprend là où il en était. Lancer ensuite
+`bash .outils/maj.sh --reprendre` pour les insérer dans le lot.
 """
 import argparse
 import hashlib
@@ -96,13 +101,18 @@ def appeler_claude(image, modele):
     return resultat.stdout
 
 
-def lire_a_faire(coffre, prefixe=None):
-    """Liste les (empreinte, image) restantes, dans l'ordre stable des chemins."""
+def lire_a_faire(coffre, prefixe=None, travail=None):
+    """Liste les (empreinte, image) restantes, dans l'ordre stable des chemins.
+
+    prefixe : ne garder que les images des documents de ce sous-dossier du miroir."""
     dossier = coffre / chemins.TRANSCRIPTIONS
+    liste = (travail or chemins.travail()) / chemins.A_FAIRE
+    if not liste.is_file():
+        return []
     restantes = []
-    for ligne in (dossier / chemins.A_FAIRE).read_text(encoding="utf-8").splitlines():
-        empreinte, image = ligne.split("\t", 1)
-        if prefixe and not image.startswith(f"{chemins.NOTES}/{prefixe.rstrip('/')}/"):
+    for ligne in liste.read_text(encoding="utf-8").splitlines():
+        empreinte, image, document = ligne.split("\t", 2)
+        if prefixe and not document.startswith(f"{prefixe.strip('/')}/"):
             continue
         if not (dossier / f"{empreinte}.md").exists():
             restantes.append((empreinte, image))
@@ -116,20 +126,23 @@ def ecrire(dossier, empreinte, texte):
     temporaire.replace(dossier / f"{empreinte}.md")
 
 
-def transcrire(coffre, prefixe=None, limite=None, modele="sonnet", appel=appeler_claude, pause=0):
+def transcrire(coffre, prefixe=None, limite=None, modele="sonnet", appel=appeler_claude, pause=0,
+               travail=None):
     """Traite les images restantes. Renvoie (réussies, échouées, motif d'arrêt)."""
     dossier = coffre / chemins.TRANSCRIPTIONS
+    dossier.mkdir(exist_ok=True)
+    travail = travail or chemins.travail()
     reussies, echouees, ecartees, de_suite = 0, [], [], 0
-    restantes = lire_a_faire(coffre, prefixe)
+    restantes = lire_a_faire(coffre, prefixe, travail)
     if limite is not None:
         restantes = restantes[:limite]
     for rang, (empreinte, relatif) in enumerate(restantes, 1):
-        image = coffre / relatif
+        image = travail / relatif
         try:
             if not image.is_file():
-                raise EchecImage("image introuvable, relancer convertir.py")
+                raise EchecImage("image introuvable, relancer maj.sh --reprendre")
             if hashlib.sha256(image.read_bytes()).hexdigest() != empreinte:
-                raise EchecImage("image changée, relancer convertir.py")
+                raise EchecImage("image changée, relancer maj.sh --reprendre")
             texte = valider(appel(image, modele))
             ecrire(dossier, empreinte, texte)
             if not texte:
@@ -155,20 +168,23 @@ def transcrire(coffre, prefixe=None, limite=None, modele="sonnet", appel=appeler
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--coffre", type=Path, default=ICI.parent)
-    parser.add_argument("--matiere", help=f"sous-dossier de {chemins.NOTES}/, par exemple « Year 1/Analyse Maths »")
+    parser.add_argument("--travail", type=Path, help="dossier de travail de maj.py (par défaut celui de chemins.py)")
+    parser.add_argument("--matiere", help=f"sous-dossier de {chemins.MIROIR}/, par exemple « Year 1/Analyse Maths »")
     parser.add_argument("--limite", type=int, help="nombre maximal d'images pour ce lancement")
     parser.add_argument("--modele", default="sonnet")
     parser.add_argument("--pause", type=float, default=0, help="secondes entre deux images")
     args = parser.parse_args(argv)
+    coffre = args.coffre.resolve()
+    travail = args.travail.resolve() if args.travail else chemins.travail()
 
     reussies, echouees, arret = transcrire(
-        args.coffre.resolve(), args.matiere, args.limite, args.modele, pause=args.pause
+        coffre, args.matiere, args.limite, args.modele, pause=args.pause, travail=travail
     )
-    restantes = len(lire_a_faire(args.coffre.resolve(), args.matiere))
+    restantes = len(lire_a_faire(coffre, args.matiere, travail))
     print(f"{reussies} transcrites, {len(echouees)} échecs, {restantes} restantes.")
     if arret:
         print(f"Arrêt : {arret}. Relancer la même commande pour reprendre.", file=sys.stderr)
-    print("Pour voir le résultat dans les notes : python3 .outils/convertir.py")
+    print("Pour insérer les transcriptions dans le lot : bash .outils/maj.sh --reprendre")
     return 1 if arret or echouees else 0
 
 
