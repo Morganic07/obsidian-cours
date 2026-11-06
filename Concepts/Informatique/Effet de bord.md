@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [side effect, side effects, effets de bord]
 sources: ["[[Chp1 - Intro Java]]"]
 maj: 2026-11-06

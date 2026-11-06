@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [IHM, conception IHM, interface homme-machine, human-machine interface]
 matieres: [Affordance, SHS]
 sources: ["[[raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3]]", "[[raw/Year 3/SHS/Cours/text2.pdf|text2]]"]

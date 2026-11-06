@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [banque commerciale, banque d'investissement, banque centrale]
 sources: ["[[Gestion financière]]"]
 maj: 2026-11-06

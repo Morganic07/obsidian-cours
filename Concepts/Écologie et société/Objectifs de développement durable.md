@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [ODD, 17 ODD, 17ODD]
 matieres: [Culture du vivant]
 sources: ["[[Culture du vivant Dernier cours]]"]

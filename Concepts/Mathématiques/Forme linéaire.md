@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [linear form, linear forms, formes linéaires]
 sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06

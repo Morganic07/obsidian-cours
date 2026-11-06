@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: []
 matieres: ["Corps à l'oeuvre"]
 sources: ["[[corps à l'oeuvre - cours]]"]

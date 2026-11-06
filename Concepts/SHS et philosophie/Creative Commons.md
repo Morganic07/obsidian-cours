@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [CC signals, Creative Commons Attribution]
 sources: ["[[SHS Recherches-Morgane]]", "[[Prise de note SHS]]"]
 maj: 2026-11-06

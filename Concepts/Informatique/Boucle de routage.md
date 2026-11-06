@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [routing loop, routing loops, boucles de routage]
 sources: ["[[Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06

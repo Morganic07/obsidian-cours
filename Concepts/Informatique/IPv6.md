@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2, year3]
+tags: [year2, year3, nomme]
 aliases: [adresse IPv6, inet6]
 matieres: [Operating System, Computer Network]
 sources: ["[[Cours TP3]]", "[[Chp5 - NAT ／ PAT]]"]

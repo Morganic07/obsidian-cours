@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: []
 matieres: [Projet Design]
 sources: ["[[Qui dit quoi]]", "[[Helloartup]]"]

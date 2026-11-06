@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: []
 matieres: [Projet design]
 sources: ["[[Informations villeneuve (Brief Intro)]]"]

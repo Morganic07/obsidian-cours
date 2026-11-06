@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: []
 sources: ["[[recherches femmes et foot]]"]
 maj: 2026-11-06

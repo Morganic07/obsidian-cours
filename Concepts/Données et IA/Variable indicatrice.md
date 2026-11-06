@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [dummy variable, dummy variables, variables indicatrices, variable dummy]
 sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]"]
 maj: 2026-11-06

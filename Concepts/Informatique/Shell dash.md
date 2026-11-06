@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [dash, Debian Almquist shell]
 matieres: [Operating System]
 sources: ["[[OS - chp 5]]", "[[DM Shell Scripting]]"]

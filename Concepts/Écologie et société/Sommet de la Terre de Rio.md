@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Déclaration de Rio, Sommet de la Terre, Rio 1992]
 sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
 maj: 2026-11-06

@@ -1,12 +1,55 @@
 {
   "collapse-filter": false,
-  "search": "-path:/^(log|À faire|CLAUDE)\\.md$/",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:\"(matière)\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#year1",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#year2",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#year3",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#year4",
+      "color": {
+        "a": 1,
+        "rgb": 14830414
+      }
+    },
+    {
+      "query": "path:raw",
+      "color": {
+        "a": 1,
+        "rgb": 10263708
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15869485421562593,
-  "close": true
+  "scale": 0.12756007306302136,
+  "close": false
 }

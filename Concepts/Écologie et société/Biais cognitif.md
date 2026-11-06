@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [biais cognitifs]
 sources: ["[[Compte rendu]]"]
 maj: 2026-11-06

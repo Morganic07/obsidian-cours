@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [fauviste]
 matieres: [Peinture]
 sources: ["[[Cours 2]]"]

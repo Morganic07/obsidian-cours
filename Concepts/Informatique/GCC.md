@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [compilateur GCC, GCC compiler]
 matieres: [Operating System]
 sources: ["[[Copy of 08 Processes-TP]]"]

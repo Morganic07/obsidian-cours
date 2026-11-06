@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [LAN, local area network]
 matieres: [Computer Network]
 sources: ["[[Chp4 - VLAN ／ IVR Commands]]"]

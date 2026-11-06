@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [arithmetic series, common difference, "raison d'une suite"]
 sources: ["[[Copy of 08 Processes-TP]]"]
 maj: 2026-11-06

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [interface neuronale, interfaces neuronales, brain-computer interface, brain interface]
 sources: ["[[world in 2075]]"]
 maj: 2026-11-06

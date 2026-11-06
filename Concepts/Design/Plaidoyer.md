@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: []
 matieres: [Projet Design]
 sources: ["raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf"]

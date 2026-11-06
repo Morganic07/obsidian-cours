@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [dynamic programming]
 sources: ["[[explications DM d'algo]]"]
 maj: 2026-11-06

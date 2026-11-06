@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [ODBC, JDBC, psycopg]
 matieres: [ligue football]
 sources: ["[[raw/Year 3/ligue football/for me/sujet database.pdf|sujet database]]", "[[readme]]"]

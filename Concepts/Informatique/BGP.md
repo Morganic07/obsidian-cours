@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: []
 matieres: [Computer Network]
 sources: ["[[Chp3 - Dynamic Routing]]"]

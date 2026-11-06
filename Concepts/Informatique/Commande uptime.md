@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [uptime]
 matieres: [Operating System]
 sources: ["[[raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands]]", "[[UNIX Commands - Semester report]]"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [linéarisation de sin, linéarisation de cos, linéariser]
 matieres: [Outil Maths]
 sources: ["[[raw/Year 1/Contrôles.pdf|Contrôles]]"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [transhumanité]
 matieres: [Culture du vivant, SHS]
 sources: ["[[Culture Vivant COURS 2 EXPLICATION]]"]

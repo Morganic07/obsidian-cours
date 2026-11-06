@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [transistors]
 matieres: [Algo Maths]
 sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"]

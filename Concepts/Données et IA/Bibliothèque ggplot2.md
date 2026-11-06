@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [ggplot2, ggplot, geom_smooth]
 matieres: [Data analysis (Thanos)]
 sources: ["[[Cours 3 - Paradoxe de Simpson]]"]

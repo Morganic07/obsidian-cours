@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: ["algorithmes d'approximation"]
 sources: ["[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"]
 maj: 2026-11-06

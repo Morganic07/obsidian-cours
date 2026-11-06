@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [greenhouse effect]
 sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]", "[[Reyou]]"]
 maj: 2026-11-06

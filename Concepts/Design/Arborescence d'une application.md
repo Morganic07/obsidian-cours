@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [arborescence de l'application]
 matieres: [Affordance]
 sources: ["[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"]

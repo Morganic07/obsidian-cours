@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [neuro-symbolique, neuro-symbolic, IA neuro-symbolique, systèmes multimodaux, IA multimodale]
 matieres: [IA]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]

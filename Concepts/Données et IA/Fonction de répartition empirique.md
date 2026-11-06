@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [ecdf, empirical cumulative distribution function, empirical cumulative distribution]
 matieres: [Data analysis (Thanos)]
 sources: ["[[Summary functions in RStudio]]"]

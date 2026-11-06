@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [SMR, mini-réacteurs nucléaires, small modular reactor]
 matieres: [IA]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Internet Engineering Task Force]
 matieres: [Computer Network]
 sources: ["[[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]]"]

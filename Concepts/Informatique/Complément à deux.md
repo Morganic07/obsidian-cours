@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [two's complement]
 sources: ["[[Chp1 - basiques]]"]
 maj: 2026-11-06

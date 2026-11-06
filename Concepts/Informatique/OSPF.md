@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Open Shortest Path First]
 matieres: [Computer Network]
 sources: ["[[Chp3 - Dynamic Routing]]"]

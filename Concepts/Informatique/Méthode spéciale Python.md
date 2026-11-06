@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [__init__, __str__, méthodes spéciales]
 matieres: [Algo]
 sources: ["[[raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR]]"]

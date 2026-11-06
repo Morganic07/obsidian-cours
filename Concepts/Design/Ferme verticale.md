@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [fermes verticales, vertical greenhouse]
 sources: ["[[Topo ELBA]]", "[[exposé melvita]]"]
 maj: 2026-11-06

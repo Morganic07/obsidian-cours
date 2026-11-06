@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [optical disk, Blu-ray]
 matieres: [Operating System]
 sources: ["[[OS - chp 1]]"]

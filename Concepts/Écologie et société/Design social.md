@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [innovation sociale, design pour l'innovation sociale]
 sources: ["PDF du brief du projet, dans raw/Year 3/Projet courts", "PDF de la fiche ressources, dans raw/Year 3/Projet courts", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
 maj: 2026-11-06

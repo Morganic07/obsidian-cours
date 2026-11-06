@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Variable Length Subnet Mask]
 matieres: [Computer Network]
 sources: ["[[Chp3 - Dynamic Routing]]"]

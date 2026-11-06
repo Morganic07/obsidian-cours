@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [segmentation fault, segfault]
 matieres: [C++]
 sources: ["[[Chp1 - basiques]]"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [corps commutatif]
 matieres: [Bilinear Algebra]
 sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]

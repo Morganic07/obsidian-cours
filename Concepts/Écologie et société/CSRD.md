@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Corporate Sustainability Reporting Directive]
 matieres: [Culture du vivant]
 sources: ["[[Culture du vivant Dernier cours]]"]

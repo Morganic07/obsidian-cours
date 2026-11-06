@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [Bolzano-Weierstrass]
 matieres: [Analyse Maths]
 sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]"]

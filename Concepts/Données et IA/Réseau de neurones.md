@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [réseaux de neurones, neural network, neural networks]
 sources: ["[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"]
 maj: 2026-11-06

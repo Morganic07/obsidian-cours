@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Postgres]
 matieres: [ligue football]
 sources: ["[[raw/Year 3/ligue football/for me/sujet database.pdf|sujet database]]", "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"]

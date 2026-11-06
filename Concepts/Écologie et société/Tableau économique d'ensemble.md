@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [TEE]
 matieres: [Gestion financière]
 sources: ["[[Gestion financière]]"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Unified Modeling Language, diagramme de classes UML, diagramme de classes]
 matieres: [Data base]
 sources: ["[[Cours 1 et 2 - Database]]"]

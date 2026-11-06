@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [suites de Cauchy, espace complet, espace de Banach, Banach]
 matieres: [Analyse dans Rn]
 sources: ["[[Chp 2 - éléments de topologie dans Rn]]"]

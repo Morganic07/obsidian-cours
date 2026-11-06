@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [binomial test]
 sources: ["[[Cours 7 - Z-Test]]"]
 maj: 2026-11-06

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [digital literacy, savoir-lire numérique, compétence numérique]
 sources: ["[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]"]
 maj: 2026-11-06

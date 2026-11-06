@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [marchés financiers, marché d'émission, marché d'échange]
 sources: ["[[Gestion financière]]"]
 maj: 2026-11-06

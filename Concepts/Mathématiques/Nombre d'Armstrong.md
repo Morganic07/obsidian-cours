@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: ["nombres d'Armstrong"]
 sources: ["[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
 maj: 2026-11-06

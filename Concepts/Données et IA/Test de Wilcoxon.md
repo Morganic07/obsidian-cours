@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Wilcoxon, Wilcoxon test]
 matieres: [Data analysis (Thanos)]
 sources: ["[[Cours 7 - Z-Test]]"]

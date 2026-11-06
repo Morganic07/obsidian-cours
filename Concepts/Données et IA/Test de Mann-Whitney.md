@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [Mann-Whitney, Mann-Whitney test]
 matieres: [Data analysis (Thanos)]
 sources: ["[[Cours 7 - Z-Test]]"]

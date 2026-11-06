@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [bootloader, boot loader, chargeur d'amorçage]
 matieres: [Operating System]
 sources: ["[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]"]

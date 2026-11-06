@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3, year4]
+tags: [year3, year4, nomme]
 aliases: [systèmes experts, expert system, expert systems]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]", "[[SHS Recherches-Morgane]]"]
 maj: 2026-11-06

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1, year3]
+tags: [year1, year3, nomme]
 aliases: [RSE, responsabilité sociale des entreprises, engagement RSE]
 matieres: [Projet design, Culture du vivant, workshop]
 sources: ["[[Topo ELBA]]", "[[idées solutions]]", "[[Culture du vivant Dernier cours]]", "[[Reyou]]"]

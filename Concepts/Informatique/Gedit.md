@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: []
 matieres: [Operating System]
 sources: ["[[OS - chp 5]]"]

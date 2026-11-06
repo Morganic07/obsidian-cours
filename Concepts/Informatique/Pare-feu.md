@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [firewall]
 matieres: [Computer Network]
 sources: ["[[Chp5 - NAT ／ PAT]]"]

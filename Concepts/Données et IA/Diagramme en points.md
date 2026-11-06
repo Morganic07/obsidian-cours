@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [dotplot, dot plot]
 matieres: [Statistics]
 sources: ["[[Chp2 - Descriptive statistics]]"]

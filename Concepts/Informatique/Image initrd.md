@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [initrd, initial RAM disk]
 matieres: [Operating System]
 sources: ["[[raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4]]"]

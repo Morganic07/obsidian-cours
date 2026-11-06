@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: []
 matieres: [culture du soin]
 sources: ["[[raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1]]"]

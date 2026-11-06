@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year4]
+tags: [year4, nomme]
 aliases: [haut de bilan]
 sources: ["[[Gestion financière]]"]
 maj: 2026-11-06

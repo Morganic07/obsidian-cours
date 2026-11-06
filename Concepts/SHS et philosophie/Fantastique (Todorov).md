@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [étrange et merveilleux, purement fantastique]
 sources: ["[[raw/Year 3/SHS/Cours/text2.pdf|text2]]"]
 maj: 2026-11-06

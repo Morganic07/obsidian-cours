@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: []
 matieres: [Java]
 sources: ["[[Chp1 - Intro Java]]"]

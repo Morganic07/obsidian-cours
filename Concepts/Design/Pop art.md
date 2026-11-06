@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: []
 sources: ["[[Cours 2]]"]
 maj: 2026-11-06

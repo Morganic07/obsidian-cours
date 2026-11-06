@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: []
 matieres: [Projet courts]
 sources: ["PDF de la fiche ressources, dans raw/Year 3/Projet courts"]

@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [cyborgs]
 matieres: [SHS]
 sources: ["[[raw/Year 3/SHS/Cours/text1.pdf|text1]]"]

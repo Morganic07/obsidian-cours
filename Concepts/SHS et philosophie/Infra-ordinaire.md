@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [infraordinaire]
 matieres: [SHS]
 sources: ["[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]

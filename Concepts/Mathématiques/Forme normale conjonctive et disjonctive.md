@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [forme normale conjonctive, forme normale disjonctive, formes normales]
 matieres: [Outil Maths]
 sources: ["[[raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique]]"]

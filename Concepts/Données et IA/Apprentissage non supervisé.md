@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [unsupervised learning]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
 maj: 2026-11-06

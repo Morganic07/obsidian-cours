@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [Wayland, XWayland, X11]
 matieres: [Operating System]
 sources: ["[[TP1]]"]

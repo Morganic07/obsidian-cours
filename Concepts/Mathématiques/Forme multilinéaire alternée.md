@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, nomme]
 aliases: [forme multilinéaire, multilinéaire]
 matieres: [Algèbre Linéaire]
 sources: ["[[chp6]]"]

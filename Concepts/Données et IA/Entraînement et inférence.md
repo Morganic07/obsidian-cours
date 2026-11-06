@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [entraînement d'un modèle, model training, inférence d'un modèle]
 matieres: [IA]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]

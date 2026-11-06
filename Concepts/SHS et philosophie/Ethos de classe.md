@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: []
 sources: ["[[raw/Year 3/SHS/Cours/text3.pdf|text3]]"]
 maj: 2026-11-06

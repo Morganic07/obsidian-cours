@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [SFDR, finance à impact, finance régénératrice, pratiques fertiles]
 matieres: [Culture du vivant]
 sources: ["[[Culture du vivant Dernier cours]]"]

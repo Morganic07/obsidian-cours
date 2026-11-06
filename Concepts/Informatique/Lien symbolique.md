@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, nomme]
 aliases: [symbolic link, liens symboliques]
 sources: ["[[OS - chp 5]]"]
 maj: 2026-11-06

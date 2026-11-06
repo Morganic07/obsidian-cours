@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [default gateway, gateway of last resort]
 sources: ["[[Chp4 - VLAN ／ IVR Commands]]", "[[Chp2 - Static Routing]]"]
 maj: 2026-11-06

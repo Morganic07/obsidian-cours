@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, nomme]
 aliases: [convergence lente, slow convergence]
 matieres: [Computer Network]
 sources: ["[[Chp3 - Dynamic Routing]]"]
