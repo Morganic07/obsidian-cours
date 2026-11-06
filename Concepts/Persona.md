@@ -1,16 +1,26 @@
 ---
 type: concept
 aliases: [personas, personae]
-matieres: [Projet design, Projet Design, workshop]
-sources: ["[[Sources/Year 2/Projet Design/Qui dit quoi (résumé)|Qui dit quoi (résumé)]]", "[[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]]"]
-maj: 2026-11-05
+matieres: [Projet design, Projet Design, workshop, Affordance]
+sources: ["[[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi|Qui dit quoi]]", "[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"]
+maj: 2026-11-06
 ---
 
 Profil type inventé à partir de recherches et d'entretiens, qui représente un groupe d'usagers. On s'en sert pour repérer ce qui empêche ou favorise l'adoption d'une solution.
 
 Deux usages dans les projets :
 
-- **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas (information hors d'atteinte, rejet de la technologie, projet mal compris). Les obstacles deviennent la problématique. Voir [[Sources/Year 2/Projet Design/Qui dit quoi (résumé)|Qui dit quoi (résumé)]].
-- **ReYOU** : trois visiteurs de salon (le focus, le networker, l'explorateur) avec objectif, comportement et façon de les capter. L'espace doit satisfaire tous les profils. Voir [[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]].
+- **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas : une résidente peu mobile et malvoyante pour qui l'affichage est hors de portée, un résident hostile à la technologie, une résidente à qui l'on n'a montré que le résultat. Les obstacles deviennent la problématique. Voir [[Sources/Year 2/Projet Design/Qui dit quoi (résumé)|Qui dit quoi (résumé)]] et [[Triangle d'acteurs]].
+- **ReYOU** : trois visiteurs de salon, ou « [[Top of mind|top of mind]] » (le focus, le networker, l'explorateur), avec objectif, comportement et façon de les capter. L'espace doit satisfaire tous les profils. Voir [[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]].
 
-Les personas s'appuient sur des données ([[Entretien semi-directif]], ou observation, voir [[UX Research - Observation - 2026 (résumé)]]) et préparent l'idéation.
+En Affordance, le persona est cité dans le panorama des méthodes de [[Recherche utilisateur]] et parmi les usages d'une [[Observation de terrain|observation]] ([[UX Research - Observation - 2026 (résumé)]]).
+
+Les personas s'appuient sur des données ([[Entretien semi-directif]], ou observation) et préparent l'[[Idéation|idéation]].
+
+Voir aussi : [[Recherche utilisateur]], [[Observation de terrain]], [[Triangle d'acteurs]]
+
+## À vérifier
+
+- Le dossier ReYOU emploie « top of mind » au sens d'un profil de visiteur ; ce n'est pas l'usage marketing courant (complément). Voir [[Top of mind]].
+
+Résumés : [[Sources/Year 2/Projet Design/Qui dit quoi (résumé)|Qui dit quoi (résumé)]], [[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]], [[UX Research - Observation - 2026 (résumé)]]

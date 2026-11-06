@@ -1,9 +1,9 @@
 ---
 type: concept
 aliases: [critère de d'Alembert, règle de d'Alembert, ratio test, critère de la racine, critère de Cauchy, root test, test du rapport]
-matieres: [Séries]
-sources: ["[[Chp2 - Alternating and absolutly convergent series]]", "[[Chp5 - power series]]"]
-maj: 2026-11-05
+matieres: [Séries, Analyse Maths]
+sources: ["[[Chp2 - Alternating and absolutly convergent series]]", "[[Chp5 - power series]]", "[[raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]"]
+maj: 2026-11-06
 ---
 
 Deux critères pour une série $\sum a_n$ :
@@ -14,6 +14,12 @@ Dans les deux cas : $L < 1$, série absolument convergente ; $L > 1$ ou $+\infty
 
 Pour une [[Série entière]], les mêmes limites donnent le rayon de convergence $R = 1/\ell$.
 
-Liens : [[Série numérique]], [[Suite numérique]]
+**Version pour les suites** (Analyse Maths, TDSuites ex. 13) : pour $u_n > 0$ avec $u_{n+1}/u_n \to l$, $l < 1$ donne $u_n \to 0$, $l > 1$ donne $u_n \to +\infty$, $l = 1$ ne permet pas de conclure. Applications : $a^n/n!$, $n^n/n!$, etc.
 
-Résumés : [[Chp2 - Alternating and absolutly convergent series (résumé)]], [[Chp5 - power series (résumé)]]
+Liens : [[Série numérique]], [[Suite numérique]], [[Suite géométrique]]
+
+## À vérifier
+
+Réciproque « L = 1 pour la racine implique L = 1 pour le rapport » non garantie.
+
+Résumés : [[Chp2 - Alternating and absolutly convergent series (résumé)]], [[Chp5 - power series (résumé)]], [[TDSuites (résumé)]]

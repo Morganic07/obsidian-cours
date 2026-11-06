@@ -14,7 +14,11 @@ SHS de 2e année : un seul document, des notes manuscrites d'un cours d'ethnogra
 
 ## Concepts
 
-Aucun concept propre. Voir [[Entretien semi-directif]] et [[Persona]] pour les méthodes d'enquête voisines.
+- **Disciplines** : [[Anthropologie]], [[Ethnographie]], [[Ethnographie visuelle]], [[Netnographie]], [[Sémiotique]]
+- **Observation de terrain** : [[Observation de terrain]], [[Observation participante]], [[Infra-ordinaire]], [[Problème complexe]], [[Réflexivité]], [[Types de suivi en observation]], [[AEIOU]], [[Neuf dimensions de Spradley]], [[Plan de recherche 4C]], [[Utilisateur extrême]]
+- **L'image comme donnée** : [[Chronophotographie]], [[Tournant iconique]], [[Usages de l'image en ethnographie]], [[Photovoice]], [[Sites et modalités d'analyse d'une image]], [[Types d'analyse d'une image]]
+- **Design et contexte** : [[Design d'expérience]], [[Anthropocène]]
+- **Méthodes d'enquête voisines** : [[Entretien semi-directif]], [[Persona]]
 
 ## À revoir en priorité
 
@@ -26,3 +30,5 @@ Les notes sont manuscrites et parfois elliptiques ; les noms d'auteurs (Boas, Me
 - [[Year 2 - Projet Design]] : les notes servent de méthode (observation, photo, entretien) aux projets avec des structures sociales.
 - [[Year 3 - SHS]] : l'enquête par entretiens de 3e année prolonge cette démarche.
 - [[Year 3 - Sémiotique]] : l'analyse sémiotique d'image est un des huit types d'analyse du cours.
+- [[Year 3 - Affordance]] : l'[[Observation de terrain]] y est reprise dans le cours d'UX Research.
+- [[Year 3 - Culture du vivant]] : l'[[Anthropocène]] y est développé.

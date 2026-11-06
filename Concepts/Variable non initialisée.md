@@ -1,0 +1,16 @@
+---
+type: concept
+aliases: [variable non définie]
+sources: ["[[Chp1 - basiques]]"]
+maj: 2026-11-06
+---
+
+En C, `int y; printf("y = %d", y);` affiche selon le cours une « valeur aléatoire ». De même, les éléments d'un tableau ne sont pas initialisés à zéro.
+
+Notion parente : [[Langage C]]. Voir aussi : [[Tableau (programmation)]].
+
+## À vérifier
+
+- En toute rigueur, la valeur est indéterminée plutôt qu'aléatoire (complément du résumé).
+
+Résumés : [[Chp1 - basiques (résumé)]], [[chp2 - structures code (résumé)]]

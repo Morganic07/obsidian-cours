@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [quadratic form, quadratic forms, formes quadratiques]
+aliases: [quadratic form, quadratic forms, formes quadratiques, change of variable in a quadratic form, Classifying quadratic forms]
 sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Fonction $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique, la matrice de la forme. Exemple le plus simple : $\mathbf{x}^TI\mathbf{x} = \|\mathbf{x}\|^2$. Dans le plan, $ax^2 + bxy + cy^2$ s'écrit avec la matrice symétrique associée.
@@ -15,6 +15,10 @@ Fonction $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique, la matr
 > [!warning] Écart dans le cours
 > [[Chp2 - Symmetric matrices and quadratic forms]] définit « negative definite » par $Q(\mathbf{x}) > 0$. La figure et le théorème sur les valeurs propres indiquent $Q(\mathbf{x}) < 0$ pour $\mathbf{x} \neq \mathbf{0}$. Cette page suit ces derniers.
 
-Liens : [[Matrice symétrique]], [[Valeur propre]], [[Forme bilinéaire]], [[Diagonalisation]], [[Norme]]
+Notion parente : [[Forme bilinéaire]]. Voir aussi : [[Matrice symétrique]], [[Valeur propre]], [[Diagonalisation]], [[Norme]], [[Théorème des axes principaux]], [[Forme quadratique définie positive]], [[Optimisation sous contrainte]].
+
+## À vérifier
+
+- Dans [[Chp2 - Symmetric matrices and quadratic forms]], les coupes horizontales de $z = 3x_1^2$ sont deux droites, pas une parabole.
 
 Résumé : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]

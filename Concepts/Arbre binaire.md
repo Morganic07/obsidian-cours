@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [arbre binaire, arbres binaires, binary tree, parcours préfixe, parcours infixe, parcours postfixe, parcours en profondeur d'un arbre, arbre parfait, arbre quasi-parfait]
+aliases: [arbre binaire, arbres binaires, binary tree, parcours préfixe, parcours infixe, parcours postfixe, parcours en profondeur d'un arbre, arbre parfait, arbre quasi-parfait, arbre binaire étiqueté, arbre binaire complet, squelette d'un arbre binaire, fils gauche, fils droit, sous-arbre gauche, sous-arbre droit]
 matieres: [Algo]
-sources: ["[[Sources/Year 2/Algo/Chapitre4-Preing2ID (résumé)|Chapitre 4 (résumé)]]", "[[Sources/Year 2/Algo/Chapitre3-Arbres (résumé)|Chapitre 3 (résumé)]]"]
+sources: ["[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]", "[[raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres]]"]
 maj: 2026-11-06
 ---
 
@@ -10,7 +10,7 @@ Un arbre binaire est une structure de données hiérarchique où chaque nœud a 
 
 ## Définition récursive
 
-Un arbre binaire étiqueté est soit l'arbre vide, soit un nœud (la racine, qui porte une étiquette) avec deux arbres binaires : le sous-arbre gauche et le sous-arbre droit. Un arbre non vide est donc un triplet $(v, l, r)$. L'arbre vide n'est pas un nœud. Cette définition rend naturelle la [[Récursivité]] sur les arbres.
+Un arbre binaire étiqueté est soit l'arbre vide, soit un nœud (la racine, qui porte une étiquette) avec deux arbres binaires : le sous-arbre gauche et le sous-arbre droit. Un arbre non vide est donc un triplet $(v, l, r)$. L'arbre vide n'est pas un nœud. Cette définition rend naturelle la [[Récursivité]] sur les arbres. Le **squelette** d'un arbre binaire est l'arbre sans ses étiquettes.
 
 ## Vocabulaire
 
@@ -34,7 +34,9 @@ Avec $h$ la hauteur, $n$ la taille, $i$ le nombre de nœuds internes et $l$ celu
 - $n = h + 1$ si et seulement si tous les nœuds internes sont d'arité 1 ;
 - l'arbre est parfait si et seulement si $n = 2^{h+1} - 1$ ;
 - pour un arbre complet, $i = l - 1$ ;
-- tout arbre non vide a au moins une feuille.
+- tout arbre non vide a au moins une feuille (preuve par récurrence sur la taille).
+
+Voir aussi : [[Hauteur d'un arbre]].
 
 ## Parcours en profondeur
 
@@ -54,3 +56,7 @@ Sur l'arbre parfait de hauteur 2 de racine 1 (fils 2 et 5, petits-fils 3, 4, 6, 
 - [[Arbre AVL]] : arbre binaire de recherche équilibré.
 - Les arbres sont des [[Graphe non orienté|graphes non orientés]] acycliques et connexes.
 - Le coût d'un parcours ou d'une hauteur se calcule avec le [[Calcul de complexité et théorème de résolution]].
+
+Notion parente : [[Arbre m-aire]].
+
+Résumés : [[Sources/Year 2/Algo/Chapitre4-Preing2ID (résumé)|Chapitre 4 (résumé)]], [[Sources/Year 2/Algo/Chapitre3-Arbres (résumé)|Chapitre 3 (résumé)]], [[Chapitre5-ABR (résumé)]]

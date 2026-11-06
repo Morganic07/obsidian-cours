@@ -15,7 +15,11 @@ Cours « Affordance » de 3e année (janvier à mars 2026) : ergonomie, user res
 
 ## Concepts
 
-[[Persona]], [[Entretien semi-directif]], [[Affordance]]
+- **Ergonomie et utilisabilité** : [[Ergonomie]], [[Utilisabilité]], [[Interaction homme-machine]], [[Expérience utilisateur]], [[Affordance]]
+- **Tests utilisateurs** : [[Test utilisateur]], [[Panel d'utilisateurs]], [[Scénario d'usage]], [[Échelles UX]]
+- **Méthodes de recherche utilisateur** : [[Recherche utilisateur]], [[Enquête qualitative et quantitative]], [[Entretien semi-directif]], [[Questionnaire]], [[Focus group]], [[Idéation]], [[Tri de cartes]], [[Évaluation experte]], [[Analyse de l'activité]]
+- **Observation et biais** : [[Observation de terrain]], [[Grille d'observation]], [[Biais de confirmation]], [[Effet Hawthorne]], [[Effet de halo]]
+- **Exploitation des résultats** : [[Persona]], [[Parcours utilisateur]], [[Carte d'expérience]], [[Storyboard]], [[Arborescence d'une application]], [[Maquette (design)]], [[Cahier des charges]]
 
 ## À revoir en priorité
 
@@ -26,3 +30,5 @@ Les chiffres sur le nombre d'utilisateurs d'un test (5, 8 à 12, plus de 30) vie
 - [[Year 3 - Sémiotique]] : autre approche d'analyse des interfaces (critique, non ergonomique).
 - [[Year 3 - SHS]] : mêmes méthodes de recueil (entretien, observation).
 - [[Year 2 - SHS]] : observation de terrain en ethnographie.
+- [[Year 2 - Anglais]] : le glossaire d'anglais donne les équivalents de [[Ergonomie]], [[Parcours utilisateur]], [[Maquette (design)]] et [[Idéation]].
+- [[Year 3 - Projet courts]] : [[Test utilisateur]] et [[Idéation]] y reviennent aussi.

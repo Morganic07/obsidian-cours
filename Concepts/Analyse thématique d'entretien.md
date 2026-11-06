@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [analyse thématique, mapping thématique, verbatim, verbatims, insight, insights]
-matieres: [Dessein au cube, Projet design, Projet Design]
-sources: ["[[Sources/Year 1/Dessein au cube/Untitled document (résumé)|Untitled document (résumé)]]", "[[Sources/Year 1/Dessein au cube/Synthèse (résumé)|Synthèse (résumé)]]"]
-maj: 2026-11-05
+aliases: [analyse thématique, mapping thématique, verbatim, verbatims, insight, insights, grille d'analyse d'entretien, typologie de mots-clés, mots-clés récurrents]
+matieres: [Dessein au cube, Projet design, Projet Design, SHS, Affordance]
+sources: ["[[Untitled document]]", "[[Prise parole Rendu final]]", "[[Global Exam Vocab]]", "[[raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25]]", "[[Synthese SHS GPT]]", "[[SHS Recherches-Morgane]]", "[[Prise de note SHS]]"]
+maj: 2026-11-06
 ---
 
 Étape qui suit l'[[Entretien semi-directif]] : on dégage les thèmes qui émergent des propos et on les relie à la problématique.
@@ -15,3 +15,13 @@ maj: 2026-11-05
 - **Solution** : elle répond à « pour qui, quand, pour quoi faire, pourquoi ».
 
 Le TD de SHS de 3e année propose une grille d'analyse : thème ou mot-clé, extrait, date, interprétation, avec anonymisation des personnes ([[TD_preparation_entretiens25.9.25 (résumé)]]). Un schéma de flux peut aussi rendre l'analyse lisible. Cadre de rendu : [[Sources/Year 1/Dessein au cube/Untitled document (résumé)|Untitled document (résumé)]].
+
+**En SHS (3e année)** : lire et relire chaque entretien, prendre du recul, repérer thèmes et mots-clés, puis créer une **typologie** avec la grille d'analyse (thème ou mot-clé, extrait, entretien, date, interprétation), interlocuteurs anonymisés. Le texte analytique dégage les thèmes récurrents, les paradoxes, l'équilibre entre chances et risques, et les citations pertinentes ; le cours magistral le relie à l'[[Imaginaire]]. Une partie de ces consignes vient d'une synthèse générée (« Synthese SHS GPT »). Les notes de recherche SHS de l'étudiante formulent trois « insights » et prévoient d'ajouter des verbatims issus des entretiens à chaque observation du plan.
+
+**Sens général d'« insight »** : le glossaire d'anglais le définit comme la capacité à comprendre quelqu'un ou quelque chose de façon juste et profonde.
+
+## À vérifier
+
+L'alias existant « insight » relie aussi le glossaire d'anglais, dont la définition est plus générale.
+
+Résumés : [[Sources/Year 1/Dessein au cube/Untitled document (résumé)|Untitled document (résumé)]], [[Sources/Year 1/Dessein au cube/Synthèse (résumé)|Synthèse (résumé)]], [[Prise parole Rendu final (résumé)]], [[Global Exam Vocab (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[Sources/Year 3/SHS/imaginaire_automobile_futur_smaller (résumé)|imaginaire_automobile_futur_smaller (résumé)]], [[Synthese SHS GPT (résumé)]], [[Recherches SHS (résumé)]], [[Prise de note SHS (résumé)]]

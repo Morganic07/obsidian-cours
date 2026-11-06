@@ -3,7 +3,7 @@ type: concept
 aliases: [uniform convergence, convergence simple, pointwise convergence, convergence normale, normal convergence, norme uniforme, suite de fonctions, séries de fonctions, critère de Weierstrass, Weierstrass M-test]
 matieres: [Séries]
 sources: ["[[Chp3 - Sequence of function]]", "[[Chp4 - Series of functions]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Pour une suite de fonctions $(f_n)$ sur $X$ :
@@ -16,6 +16,6 @@ Pour une suite de fonctions $(f_n)$ sur $X$ :
 
 Contre-exemple du cours : $f_n$ triangulaire de hauteur $n$ en $1/n$ converge simplement vers 0, mais chaque intégrale vaut 1.
 
-Liens : [[Série numérique]], [[Série entière]], [[Limite et continuité]], [[Application lipschitzienne]] (l'autre usage de « uniformément continue »)
+Liens : [[Série numérique]], [[Série entière]], [[Limite et continuité]], [[Application lipschitzienne]] (l'autre usage de « uniformément continue »), [[Interversion de limites]], [[Point limite]], [[Reste d'une série]]
 
-Résumés : [[Chp3 - Sequence of function (résumé)]], [[Chp4 - Series of functions (résumé)]]
+Résumés : [[Chp3 - Sequence of function (résumé)]], [[Chp4 - Series of functions (résumé)]], [[Chp5 - power series (résumé)]]

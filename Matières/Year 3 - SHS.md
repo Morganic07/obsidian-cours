@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 3/SHS/Entretiens/Synthese SHS GPT|Synthese SHS GPT]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 SHS de 3e année : enquête par entretiens sur l'imaginaire de la mobilité du futur. Les trois notes sont le matériau (transcriptions) et deux synthèses des mêmes trois entretiens.
@@ -28,7 +28,14 @@ Cours magistral, TD et trois textes de lecture de l'enseignant et de ses référ
 
 ## Concepts
 
-[[Imaginaire]] (notion centrale du cours), [[Entretien semi-directif]], [[Analyse thématique d'entretien]]. La matière est avant tout une méthode d'enquête (entretiens semi-directifs, archétypes). Les thèmes de mobilité et d'écologie sont repris dans [[Year 3 - Culture du vivant]].
+- **Imaginaire (cours magistral)** : [[Imaginaire]] (notion centrale du cours), [[Histoire visuelle]], [[Paréidolie]], [[Extension du schéma corporel]], [[Design fiction]], [[Moodboard]], [[Maquette (design)]]
+- **Méthode d'enquête (TD)** : [[Enquête qualitative et quantitative]], [[Entretien semi-directif]], [[Analyse thématique d'entretien]]
+- **Approche anthropologique (text1)** : [[Moi blindé]], [[Corps projectile]], [[Cyborg]], [[Futurisme]], [[Anthropomorphisme]]
+- **Approche historique (text2)** : [[Voiture autonome]], [[Fantastique (Todorov)]], [[Interaction homme-machine]]
+- **Approche sociologique (text3)** : [[Caractérologie des véhicules]], [[Concurrence pour l'espace]], [[Ethos de classe]]
+- **Écologie dans les entretiens** : [[Sobriété]], [[Manifeste pour le vivant]]
+
+La matière est avant tout une méthode d'enquête (entretiens semi-directifs, archétypes). Les thèmes de mobilité et d'écologie sont repris dans [[Year 3 - Culture du vivant]].
 
 ## À revoir en priorité
 
@@ -39,4 +46,5 @@ Les deux synthèses se recoupent presque entièrement. Les verbatims sont des op
 - **[[Year 3 - Sémiotique]]** : imaginaires du numérique et analyse des interfaces.
 - **[[Year 2 - SHS]]** : observation de terrain en ethnographie visuelle.
 - **[[Year 4 - SHS]]** : même démarche d'enquête, avec un plan type (observations, verbatims, hypothèses).
-- **[[Year 3 - Culture du vivant]]** : [[Limites planétaires]] et [[Anthropocène]] éclairent l'angoisse écologique des interviewés.
+- **[[Year 3 - Culture du vivant]]** : [[Limites planétaires]] et [[Anthropocène]] éclairent l'angoisse écologique des interviewés ; [[Sobriété]] et [[Manifeste pour le vivant]] y sont aussi traités.
+- **[[Year 3 - Affordance]]** : [[Enquête qualitative et quantitative]], [[Maquette (design)]] et [[Interaction homme-machine]], du côté de la recherche utilisateur.

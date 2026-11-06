@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Algèbre linéaire de 1re année, en français et centrée sur les applications linéaires. [[Year 2 - Bilinear Algebra]] reprend les mêmes notions en anglais, à partir des matrices. Les 7 notes sont intégrées.
@@ -18,13 +18,21 @@ Algèbre linéaire de 1re année, en français et centrée sur les applications 
 | [[Cours/Year 1/Algèbre Linéaire/Cours/chp6\|chp6]] | Déterminant, caractérisation des bases | [[Sources/Year 1/Algèbre Linéaire/chp6 (résumé)\|Résumé]] |
 | [[Cours/Year 1/Algèbre Linéaire/Cours/chp7\|chp7]] | Éléments propres, somme directe | [[Sources/Year 1/Algèbre Linéaire/chp7 (résumé)\|Résumé]] |
 
-## Concepts propres à cette matière
+## Concepts
 
-- [[Morphisme]]
-- [[Changement de base]]
-- [[Somme directe]]
+- **Espaces vectoriels (chp1)** : [[Espace vectoriel]], [[Sous-espace vectoriel]], [[Combinaison linéaire]], [[Espace engendré]], [[Indépendance linéaire]], [[Base (algèbre linéaire)]], [[Théorème de la base incomplète]], [[Dimension (algèbre linéaire)]], [[Coordonnées dans une base]]
+- **Applications linéaires (chp2)** : [[Morphisme]], [[Transformation linéaire]], [[Fonction identité]], [[Homothétie]], [[Composition de fonctions]], [[Injectivité et surjectivité]], [[Bijection]], [[Groupe linéaire]], [[Espace nul]], [[Image d'une application linéaire]], [[Rang d'une matrice]], [[Théorème du rang]]
+- **Systèmes et pivot de Gauss (chp3)** : [[Système linéaire]], [[Système linéaire homogène]], [[Opérations élémentaires sur les lignes]], [[Forme échelonnée]]
+- **Matrices (chp4 et chp5)** : [[Matrice]], [[Matrice d'une application linéaire]], [[Produit matriciel]], [[Transposée]], [[Matrice inversible]], [[Changement de base]]
+- **Déterminant (chp5 et chp6)** : [[Forme multilinéaire alternée]], [[Déterminant]]
+- **Éléments propres (chp7)** : [[Valeur propre]], [[Vecteur propre]], [[Spectre (algèbre linéaire)]], [[Espace propre]], [[Somme directe]]
 
-Les autres concepts sont communs avec [[Year 2 - Bilinear Algebra]] : [[Espace vectoriel]], [[Sous-espace vectoriel]], [[Base (algèbre linéaire)]], [[Dimension (algèbre linéaire)]], [[Indépendance linéaire]], [[Espace engendré]], [[Transformation linéaire]], [[Injectivité et surjectivité]], [[Espace nul]], [[Rang d'une matrice]], [[Système linéaire]], [[Forme échelonnée]], [[Produit matriciel]], [[Transposée]], [[Déterminant]], [[Valeur propre]], [[Vecteur propre]], [[Espace propre]].
+[[Morphisme]], [[Changement de base]] et [[Somme directe]] sont propres à cette matière. La plupart des autres sont communs avec [[Year 2 - Bilinear Algebra]].
+
+## Liens avec les autres matières
+
+- **[[Year 2 - Bilinear Algebra]]** : les mêmes notions en anglais, à partir des matrices (voir ci-dessous les correspondances de vocabulaire).
+- **[[Year 1 - Outil Maths]]** : la [[Bijection]], la [[Composition de fonctions]] et la [[Fonction identité]] y sont vues pour les fonctions en général, avant d'être appliquées ici aux applications linéaires.
 
 ## Correspondances de vocabulaire
 

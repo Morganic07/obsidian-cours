@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [route statique, routes statiques, static route, static routing, route par défaut, default route, table de routage, next hop]
+aliases: [route statique, routes statiques, static route, static routing, route par défaut, default route, table de routage, next hop, directly connected network, réseau directement connecté, réseaux directement connectés, remote network, réseau distant, show ip route]
 matieres: [Computer Network]
 sources: ["[[Chp2 - Static Routing]]", "[[Chp3 - Dynamic Routing]]", "[[chp1 - Computer Networks]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Un routeur décide du chemin d'un paquet avec sa **table de routage**. Il apprend seul les réseaux directement connectés (codes `C` et `L` dans `show ip route`) mais pas les réseaux distants : il lui faut des routes explicites, statiques (écrites par l'administrateur) ou dynamiques (voir [[Routage dynamique]]).
@@ -18,6 +18,8 @@ Un routeur décide du chemin d'un paquet avec sa **table de routage**. Il appren
 > [!warning] Écart dans le cours
 > Le tableau des réseaux connectés de [[Chp2 - Static Routing]] écrit « R3 » pour une ligne qui concerne R2.
 
-Liens : [[Routage dynamique]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
+Dans `show ip route`, `L` (local) désigne l'adresse de l'interface elle-même, en /32.
 
-Résumés : [[Chp2 - Static Routing (résumé)]], [[Chp3 - Dynamic Routing (résumé)]]
+Notion parente : [[Routage IP]]. Liens : [[Routage dynamique]], [[Routeur]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
+
+Résumés : [[Chp2 - Static Routing (résumé)]], [[Chp3 - Dynamic Routing (résumé)]], [[chp1 - Computer Networks (résumé)]]

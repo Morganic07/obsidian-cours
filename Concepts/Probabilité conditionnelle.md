@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [conditional probability, probabilités totales, law of total probability, théorème de Bayes, Bayes' theorem, événements indépendants, independent events, règle de multiplication]
+aliases: [conditional probability, probabilités totales, law of total probability, théorème de Bayes, Bayes' theorem, règle de multiplication, multiplication rule]
 matieres: [Probability, Statistics]
-sources: ["[[Chp 2 - Conditional proba and independence]]"]
-maj: 2026-11-05
+sources: ["[[Chp 2 - Conditional proba and independence]]", "[[probabilité statistiques utilitaire]]"]
+maj: 2026-11-06
 ---
 
 Pour $P(B) > 0$, $P(A|B) = P(A \cap B)/P(B)$ : conditionner sur $B$ prend $B$ comme nouvel espace d'échantillonnage.
@@ -14,8 +14,15 @@ Pour $P(B) > 0$, $P(A|B) = P(A \cap B)/P(B)$ : conditionner sur $B$ prend $B$ co
 
 **Bayes** : sous les mêmes hypothèses, $P(A_j|B) = \dfrac{P(B|A_j)P(A_j)}{\sum_i P(B|A_i)P(A_i)}$.
 
-**Indépendance** : $A$ et $B$ sont indépendants si $P(A|B) = P(A)$, ou de façon équivalente si $P(A \cap B) = P(A)P(B)$. Alors $A^c$ et $B$, $A$ et $B^c$, $A^c$ et $B^c$ le sont aussi. Pour des variables aléatoires, voir [[Loi conjointe]].
+**Indépendance** (voir [[Indépendance d'événements]]) : $A$ et $B$ sont indépendants si $P(A|B) = P(A)$, ou de façon équivalente si $P(A \cap B) = P(A)P(B)$. Alors $A^c$ et $B$, $A$ et $B^c$, $A^c$ et $B^c$ le sont aussi. Pour des variables aléatoires, voir [[Loi conjointe]].
 
-Liens : [[Espace probabilisé]]
+**Statistics** : l'aide-mémoire de troisième année rappelle les règles de l'union, de l'intersection (cas indépendant ou non) et la probabilité conditionnelle.
 
-Résumé : [[Chp 2 - Conditional proba and independence (résumé)]]
+Liens : [[Espace probabilisé]], [[Événements incompatibles]], [[Équiprobabilité]], [[Dénombrement]]
+
+## À vérifier
+
+- Dans [[Chp 2 - Conditional proba and independence]], les bornes $n$ et $k$ sont mélangées dans la formule de Bayes, et la phrase « P(A) is the probability of A given B » semble une coquille (image non ouverte).
+- Dans [[probabilité statistiques utilitaire]], « P(A∩B) = P(A|B)P(B) if not independent » : la formule vaut aussi dans le cas indépendant.
+
+Résumés : [[Chp 2 - Conditional proba and independence (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

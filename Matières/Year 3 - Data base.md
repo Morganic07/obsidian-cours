@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours 1 et 2 - Database]]", "[[Cours 3 - opérateurs et SQL]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Bases de données relationnelles : conception (MERISE), algèbre relationnelle, SQL. Les 2 notes sont intégrées.
@@ -15,8 +15,10 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 ## Concepts
 
-- **Conception** : [[Modèle entité-association]], [[Schéma relationnel]], [[Clé primaire et clé étrangère]]
-- **Interrogation** : [[Algèbre relationnelle]], [[Langage SQL]]
+- **Données et types** : [[Dictionnaire de données]], [[Types de données SQL]], [[Valeur NULL]]
+- **Conception** : [[Modèle entité-association]], [[Type d'association]], [[Héritage en base de données]], [[UML]], [[Schéma relationnel]], [[Clé primaire et clé étrangère]], [[Table de correspondance]]
+- **Interrogation** : [[Algèbre relationnelle]], [[Langage SQL]], [[Gestion des droits SQL]]
+- **Systèmes** : [[Système de gestion de base de données]], [[Architecture n-tiers]]
 
 ## À revoir en priorité avant un examen
 
@@ -26,3 +28,4 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 ## Liens avec les autres matières
 
 - **[[Year 3 - Computer Network]]** : le SGBD en architecture 3 tiers repose sur le réseau.
+- **[[Year 3 - ligue football]]** : le projet applique la méthode du cours ([[Dictionnaire de données]], [[Modèle entité-association]], [[Héritage en base de données]], [[Schéma relationnel]], [[Langage SQL]]).

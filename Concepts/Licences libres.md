@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [licence libre, licences libres, licences ouvertes, open source]
-matieres: [SHS]
-sources: ["[[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]]", "[[Entretien sur l'open source (résumé)]]"]
-maj: 2026-11-05
+aliases: [licence libre, licences libres, licences ouvertes, open source, licence MIT, OFL, ISC]
+matieres: [SHS, Anglais]
+sources: ["[[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]]", "[[Entretien sur l'open source (résumé)]]", "[[Global Exam Vocab]]"]
+maj: 2026-11-06
 ---
 
 Licences qui permettent de réutiliser, modifier et partager une œuvre. Les notes en citent plusieurs : CC0 (domaine public), MIT et ISC (code et icônes), OFL (typographies), plus des licences propres à certains collectifs. Creative Commons attribution est utilisée pour les assets de Blender Studio.
@@ -12,6 +12,10 @@ Limite relevée par le groupe : ces licences ont été pensées pour le partage 
 
 Le « vrai libre » exige aussi les fichiers sources modifiables ; un projet freemium qui les garde payants n'en est pas un.
 
-Voir aussi : [[Open design]], [[Communs numériques]]
+Les recherches d'un étudiant pour la même enquête notent qu'avec l'IA, les licences libres deviennent des failles ([[Recherches SHS (résumé)]]).
 
-Résumés : [[Sources/Year 4/SHS/Prise de note SHS (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]]
+Le glossaire d'anglais ([[Global Exam Vocab]]) définit *open source* comme un code source original libre que les utilisateurs peuvent modifier.
+
+Voir aussi : [[Open design]], [[Communs numériques]], [[Copyleft]], [[Creative Commons]], [[Licence anti-IA]], [[Propriété intellectuelle]]
+
+Résumés : [[Sources/Year 4/SHS/Prise de note SHS (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]], [[Recherches SHS (résumé)]], [[Global Exam Vocab (résumé)]]

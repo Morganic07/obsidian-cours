@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/HDA/Cours HDA|Cours HDA]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 HDA (histoire du design et des arts) de 1re année. Une seule note présente, très courte.
@@ -14,7 +14,7 @@ HDA (histoire du design et des arts) de 1re année. Une seule note présente, tr
 
 ## Concepts
 
-Aucun.
+- **Art textile kuna** : [[Mola]]
 
 ## À revoir en priorité
 

@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chp4 - dérivabilité]]", "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 notes de `Cours/` (dérivabilité et chapitre 5) sont intégrées. Le reste de la matière (cours des chapitres 0 à 3, travaux dirigés, contrôles) est en PDF : il est résumé dans la section « Documents PDF » ci-dessous.
@@ -33,7 +33,13 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 
 ## Concepts
 
-[[Dérivabilité]], [[Fonction de classe Ck]], [[Application lipschitzienne]], [[Limite et continuité]], [[Comparaison asymptotique]], [[Développement limité]], [[Borne supérieure]], [[Suite numérique]]
+- **Logique et fonctions** : [[Quantificateur]], [[Raisonnement par l'absurde]], [[Récurrence]], [[Relation d'ordre]], [[Composition de fonctions]], [[Injectivité et surjectivité]], [[Fonction paire et impaire]]
+- **Rappels (chapitre 0)** : [[Règles de calcul sur les inégalités]], [[Principe des substitutions]], [[Valeur absolue]], [[Inégalité triangulaire]], [[Racine carrée]], [[Symboles somme et produit]], [[Changement d'indice]], [[Somme télescopique]], [[Somme des premiers entiers]], [[Suite géométrique]], [[Factorielle]], [[Coefficient binomial]], [[Formule de Pascal]], [[Formule du binôme de Newton]], [[Équation du second degré]], [[Nombre complexe]], [[Fonctions trigonométriques]], [[Formules trigonométriques]], [[Équation trigonométrique]]
+- **Nombres réels (chapitre 1)** : [[Ensembles de nombres]], [[Nombre rationnel]], [[Intervalle réel]], [[Borne supérieure]], [[Propriété d'Archimède]], [[Partie entière]], [[Approximation décimale]], [[Densité de ℚ dans ℝ]], [[Identité d'Hermite]], [[Théorème de Bolzano-Weierstrass]], [[Inégalité de Bernoulli]], [[Inégalité de Cauchy-Schwarz]], [[Inégalité arithmético-géométrique]]
+- **Suites (chapitre 2)** : [[Suite numérique]], [[Convergence d'une suite]], [[Forme indéterminée]], [[Quantité conjuguée]], [[Théorème des gendarmes]], [[Théorème de la limite monotone]], [[Suites adjacentes]], [[Suite extraite]], [[Suite complexe]], [[Intervalle stable]], [[Point fixe]], [[Suite de Fibonacci]], [[Théorème de Cesàro]], [[Constante d'Euler]], [[Série numérique]], [[Critère de d'Alembert et de Cauchy]]
+- **Limites et continuité (chapitre 3)** : [[Limite et continuité]], [[Caractérisation séquentielle de la limite]], [[Prolongement par continuité]], [[Théorème des valeurs intermédiaires]], [[Recherche dichotomique]], [[Théorème des bornes atteintes]], [[Théorème de la bijection]], [[Fonctions trigonométriques réciproques]], [[Application lipschitzienne]]
+- **Dérivabilité (chapitre 4)** : [[Dérivabilité]], [[Tangente à une courbe]], [[Extremum local]], [[Théorème de Rolle]], [[Monotonie et signe de la dérivée]], [[Règle de l'Hôpital]], [[Fonction de classe Ck]], [[Formule de Leibniz]]
+- **Analyse asymptotique (chapitre 5)** : [[Comparaison asymptotique]], [[Équivalent (comparaison asymptotique)]], [[Croissances comparées]], [[Développement limité]], [[Développement asymptotique]], [[Asymptote oblique]], [[Polynôme]], [[Fonctions hyperboliques]]
 
 ## À revoir en priorité avant un examen
 
@@ -48,3 +54,6 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 - **[[Year 2 - Analyse dans Rn]]** : la même démarche en plusieurs variables, avec les [[Dérivée partielle|dérivées partielles]], la [[Différentielle]] (un DL d'ordre 1) et le [[Gradient]].
 - **[[Year 2 - Analyse]]** : l'[[Intégrale]] et les [[Primitive|primitives]] renversent la dérivation.
 - **Year 3, Séries** : Taylor et DL y reviennent, à relier lors de son intégration.
+- **[[Year 3 - Séries]]** : la [[Série numérique]], le [[Critère de d'Alembert et de Cauchy]] et le [[Théorème des gendarmes]], vus ici avec les suites, y sont repris.
+- **[[Year 1 - Outil Maths]]** : [[Quantificateur]], [[Relation d'ordre]], [[Nombre complexe]] et [[Polynôme]] y sont traités en détail.
+- **[[Year 1 - Algo Maths]]** : [[Récurrence]], [[Factorielle]], [[Suite de Fibonacci]] et [[Recherche dichotomique]].

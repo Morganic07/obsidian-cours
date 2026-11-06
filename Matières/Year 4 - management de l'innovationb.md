@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Douze innovations (résumé)]]", "[[Analyse d'innovations (résumé)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Management de l'innovation en 4e année. Les deux notes sont des devoirs rendus, non des cours : le cadre théorique (typologie des innovations, management de la valeur) n'apparaît qu'à travers leur application.
@@ -19,8 +19,12 @@ Management de l'innovation en 4e année. Les deux notes sont des devoirs rendus,
 
 ## Concepts
 
-[[Typologie des innovations]], [[Servitisation]], [[Grille du management de la valeur]], [[Value(s) Design]]
+- **Typologie et exemples d'innovations** : [[Typologie des innovations]], [[Innovation de rupture]], [[Servitisation]], [[Entreprise sans usine]], [[Buy now pay later]], [[Financement participatif]], [[Git]], [[Copyleft]], [[Tuile vectorielle]]
+- **Management de la valeur** : [[Grille du management de la valeur]], [[Value(s) Design]], [[Analyse fonctionnelle]], [[Partie prenante]], [[Cycle de vie d'un produit]]
 
 ## Liens
 
 [[Year 4 - projet court]] ; [[Économie circulaire]] pour les modèles d'usage.
+
+- **[[Year 4 - SHS]]** : [[Copyleft]], [[Git]] et [[Financement participatif]] reviennent dans les notes de recherche SHS (logiciel libre, Blender).
+- **[[Year 3 - Culture du vivant]]** et **[[Year 3 - workshop]]** : le [[Cycle de vie d'un produit]] y est décomposé du point de vue environnemental.

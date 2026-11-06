@@ -3,7 +3,7 @@ type: concept
 aliases: [IA symbolique, IA connexionniste, approche symbolique, approche connexionniste, symbolic AI, connectionism]
 matieres: [IA]
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Les deux grandes branches de l'IA dans le schéma historique du cours.
@@ -14,5 +14,7 @@ Les deux grandes branches de l'IA dans le schéma historique du cours.
 - **Hybride** (dès 2000) : systèmes multimodaux, neuro-symbolique.
 
 Le cours ne définit pas les deux approches : il les place sur une frise.
+
+Voir aussi : [[IA hybride]], [[Apprentissage automatique]], [[Système expert]].
 
 Résumé : [[Sources/Year 3/IA/Cours 1 (résumé)|Cours 1 (IA)]]

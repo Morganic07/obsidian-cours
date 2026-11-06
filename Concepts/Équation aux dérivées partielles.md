@@ -1,16 +1,16 @@
 ---
 type: concept
-aliases: [équations aux dérivées partielles, EDP, EDPs, partial differential equation]
+aliases: [équations aux dérivées partielles, EDP, EDPs, partial differential equation, système d'EDP, EDP d'ordre 1, EDP d'ordre 2]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
 sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Équation qui lie une fonction de plusieurs variables à ses dérivées partielles. La méthode vue cette année ramène l'équation à une forme connue par [[Difféomorphisme|changement de variables]].
 
 **Solutions connues**, sur un ouvert de $\mathbb{R}^2$ :
 
-- $\frac{\partial f}{\partial x} = g(x, y)$ donne $f = K(y) + \int g\,dx$, avec $K$ quelconque de classe $\mathcal{C}^1$.
+- $\frac{\partial f}{\partial x} = g(x, y)$ donne $f = K(y) + \int g\,dx$, avec $K$ quelconque de classe $\mathcal{C}^1$ (théorème 8 du chapitre 4).
 - $\frac{\partial^2 f}{\partial x^2} = 0$ donne $f = xG(y) + H(y)$.
 - $\frac{\partial^2 f}{\partial x \partial y} = 0$ donne $f = G(x) + H(y)$.
 
@@ -22,6 +22,6 @@ maj: 2026-11-05
 4. Résoudre l'équation obtenue sur $K$.
 5. Écrire la solution.
 
-Liens : [[Dérivée partielle]], [[Difféomorphisme]], [[Fonction de classe Ck]]
+Notion parente : [[Dérivée partielle]]. Voir aussi : [[Difféomorphisme]], [[Fonction de classe Ck]]
 
 Résumés : [[Chp 4 - Calcul différentiel du premier ordre (résumé)]], [[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)]]

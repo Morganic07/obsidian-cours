@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 3/ligue football/readme|readme (ligue football)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Projet de base de données de 3e année sur une ligue de football : modélisation (MCD, MLD), SQL (création, insertion, 9 requêtes) et application Python en ligne de commande avec 7 fonctions.
@@ -21,7 +21,16 @@ Projet de base de données de 3e année sur une ligue de football : modélisatio
 
 ## Concepts
 
-[[Héritage en base de données]] (entité `Personne` et ses spécialisations `Joueur` et `Arbitre`). Les autres notions sont celles du cours de bases de données : [[Modèle entité-association]], [[Schéma relationnel]], [[Clé primaire et clé étrangère]], [[Langage SQL]].
+- **Gestion du projet** : [[Diagramme de Gantt]]
+- **Modélisation (MERISE)** : [[Dictionnaire de données]], [[Modèle entité-association]], [[Type d'association]], [[Association ternaire]], [[Héritage en base de données]] (entité `Personne` et ses spécialisations `Joueur` et `Arbitre`), [[Schéma relationnel]], [[Table de correspondance]]
+- **Création de la base (DDL)** : [[PostgreSQL]], [[Système de gestion de base de données]], [[Types de données SQL]], [[Clé primaire et clé étrangère]], [[Clé auto-incrémentée]], [[Contrainte d'intégrité]], [[Valeur NULL]]
+- **Requêtes** : [[Langage SQL]], [[Algèbre relationnelle]], [[Jointure externe]], [[Sous-requête]], [[Fonction d'agrégation]], [[Expression CASE]]
+- **Application** : [[Architecture n-tiers]], [[ODBC et JDBC]], [[Langage Java]]
+
+## Liens avec les autres matières
+
+- [[Year 3 - Data base]] : cours dont le projet applique les notions (MERISE, SQL, architectures d'accès).
+- [[Year 3 - Java]] : un des langages proposés par le sujet pour l'application ([[Langage Java]], [[ODBC et JDBC]]).
 
 ## À revoir en priorité
 

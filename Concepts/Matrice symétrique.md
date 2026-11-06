@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [symmetric matrix, symmetric matrices, matrices symétriques]
-sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]
-maj: 2026-11-05
+aliases: [symmetric matrix, symmetric matrices, matrices symétriques, diagonalization of symmetric matrices]
+sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours 13 - Principal Components Analysis]]"]
+maj: 2026-11-06
 ---
 
 Matrice telle que $A^T = A$, donc nécessairement carrée. Sa diagonale est libre, et ses autres coefficients vont par paires de part et d'autre.
@@ -13,6 +13,8 @@ $A$ est orthogonalement diagonalisable si et seulement si elle est symétrique. 
 
 **Décomposition spectrale** : $A = \lambda_1\mathbf{u}_1\mathbf{u}_1^T + \dots + \lambda_n\mathbf{u}_n\mathbf{u}_n^T$, obtenue en développant $PDP^T$ colonnes-lignes. Chaque $\mathbf{u}_j\mathbf{u}_j^T$ est une matrice de [[Projection orthogonale|projection]] sur la droite engendrée par $\mathbf{u}_j$.
 
-Liens : [[Transposée]], [[Diagonalisation]], [[Espace propre]], [[Forme quadratique]], [[Matrice orthogonale]], [[Décomposition en valeurs singulières]]
+En Data analysis, la [[Matrice de covariance]] est symétrique, donc ses vecteurs propres sont orthogonaux ([[Cours 13 - Principal Components Analysis (résumé)]]).
 
-Résumé : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]]
+Voir aussi : [[Théorème spectral]], [[Transposée]], [[Diagonalisation]], [[Espace propre]], [[Forme quadratique]], [[Matrice orthogonale]], [[Décomposition en valeurs singulières]], [[Matrice de covariance]].
+
+Résumés : [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours 13 - Principal Components Analysis (résumé)]]

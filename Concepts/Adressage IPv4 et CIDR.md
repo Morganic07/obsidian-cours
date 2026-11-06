@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [adressage IPv4, adresse IPv4, adresses IPv4, IPv4 addressing, IPv4 address, masque de sous-réseau, subnet mask, CIDR, Classless Inter-Domain Routing, adresse de broadcast, broadcast address, adresse réseau d'un sous-réseau, classes d'adresses IPv4, subnetting, longueur de préfixe]
-matieres: [Computer Network]
-sources: ["[[Sources/Year 3/Computer Network/02 IP Addressing (résumé)|02 IP Addressing (résumé)]]"]
+aliases: [adressage IPv4, adresse IPv4, adresses IPv4, IPv4 addressing, IPv4 address, masque de sous-réseau, subnet mask, CIDR, Classless Inter-Domain Routing, adresse de broadcast, broadcast address, adresse réseau d'un sous-réseau, classes d'adresses IPv4, subnetting, longueur de préfixe, adresse IP, IP address, Internet Protocol, notation décimale pointée, dotted-decimal notation, adresse d'hôte, host address, hôtes par réseau]
+matieres: [Computer Network, Operating System]
+sources: ["[[raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing]]", "[[Cours TP3]]", "[[raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2)]]"]
 maj: 2026-11-06
 ---
 
@@ -37,3 +37,13 @@ Masques correspondants : /25 = 255.255.255.128, /26 = .192, /27 = .224, /28 = .2
 ## Liens
 
 Ces notions servent au [[Routage statique]], au [[Routage dynamique]], au [[VLAN]] (complément : un VLAN correspond en général à un sous-réseau) et au [[NAT et PAT]] (adresses privées). Les commandes `ifconfig` et `ip address` affichent l'adresse et le masque : voir [[Shell et Bash]].
+
+En Operating System (TP3), l'adresse IP est définie comme l'étiquette numérique attribuée à un appareil d'un réseau IPv4, qui l'identifie de façon unique et indique sa position pour faciliter la communication. La sortie d'exemple affiche, pour chaque interface, l'adresse, le broadcast et le masque de sous-réseau. Le cours de réseau précise qu'une adresse sur 32 bits donne environ 4,3 milliards d'adresses.
+
+Voir aussi : [[Adresse de bouclage]], [[IANA]], [[VLSM]], [[Octet]], [[Numération binaire]], [[Interface réseau]], [[Commande ifconfig]], [[Commande ip]], [[DNS]].
+
+## À vérifier
+
+- Diapositive 15 : le tableau donne la classe A de 0 à 127, corrigée juste dessous en 0 à 126. Le quiz 224.192.64.32/24 utilise une adresse de classe D avec un /24.
+
+Résumés : [[02 IP Addressing (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]], [[chp6 - Access Control List (résumé)]], [[Cours TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]

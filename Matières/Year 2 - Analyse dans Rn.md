@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chp 2 - éléments de topologie dans Rn]]", "[[Chp 3 - Limite et continuité d’applications]]", "[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Analyse des fonctions de plusieurs variables : topologie, limites, calcul différentiel et équations aux dérivées partielles. Les 4 notes sont intégrées. Il n'y a pas de note pour un chapitre 1.
@@ -17,9 +17,9 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 
 ## Concepts
 
-- **Topologie** : [[Norme]], [[Boule et voisinage]], [[Ouvert et fermé]], [[Intérieur et adhérence]]
-- **Limites** : [[Limite et continuité]], [[Application lipschitzienne]]
-- **Calcul différentiel** : [[Dérivée partielle]], [[Différentielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]]
+- **Topologie (chp 2)** : [[Norme]], [[Distance]], [[Inégalité triangulaire]], [[Boule et voisinage]], [[Ouvert et fermé]], [[Intérieur et adhérence]], [[Espace séparé]], [[Partie compacte]], [[Suite de Cauchy]]
+- **Limites (chp 3)** : [[Limite et continuité]], [[Continuité uniforme]], [[Application lipschitzienne]], [[Coordonnées polaires]]
+- **Calcul différentiel (chp 4 et 5)** : [[Dérivée partielle]], [[Différentielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]], [[Dérivation en chaîne]], [[Partie convexe]], [[Inégalité des accroissements finis]], [[Théorème de Schwarz]]
 - **Équations** : [[Équation aux dérivées partielles]], [[Difféomorphisme]]
 
 ## À revoir en priorité avant un examen
@@ -34,3 +34,5 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 - **[[Year 2 - Bilinear Algebra]]** : la [[Norme]] euclidienne est celle qui vient du [[Produit scalaire]]. La [[Différentielle]] est une [[Transformation linéaire]], la [[Matrice jacobienne]] est sa matrice, et le jacobien est un [[Déterminant]].
 - **[[Year 1 - Algèbre Linéaire]]** : la [[Matrice jacobienne]] applique la matrice d'une application linéaire dans les bases canoniques.
 - **[[Year 1 - Analyse Maths]] et [[Year 2 - Analyse]]** : les mêmes notions en une variable. La [[Différentielle]] généralise la [[Dérivabilité]], et le [[Gradient]] donne la version à plusieurs variables des accroissements finis.
+- **[[Year 2 - Analyse]]** : les [[Coordonnées polaires]] et la [[Matrice jacobienne]] servent au changement de variables des intégrales multiples (chp 9).
+- **[[Year 4 - data mining]]** : la [[Distance]] y mesure la similarité entre individus.

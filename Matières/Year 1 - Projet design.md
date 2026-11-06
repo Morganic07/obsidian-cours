@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]]", "[[Cours/Year 1/Projet design/ELBA/exposé melvita|exposé melvita]]", "[[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Projets de design de 1re année, menés en équipe sur trois commandes réelles.
@@ -16,7 +16,11 @@ Projets de design de 1re année, menés en équipe sur trois commandes réelles.
 
 ## Concepts
 
-[[Tiers-lieu]], [[Retail régénératif]], [[Atelier de co-conception]], [[Entretien semi-directif]]
+- **Méthode** : [[Brief]], [[Entretien semi-directif]], [[Analyse thématique d'entretien]], [[Atelier de co-conception]], [[Étude-action]], [[Démarche ascendante]]
+- **Bel-Air** : [[Écoquartier]], [[Géocaching]]
+- **Villeneuve** : [[Quartier prioritaire de la politique de la ville]], [[Stigmatisation]], [[Ville dortoir]], [[Sentiment d'appartenance]], [[Tiers-lieu]]
+- **ELBA / Melvita** : [[Retail régénératif]], [[Design produit]], [[Design de services]], [[Design d'expérience]], [[Merchandising]], [[Gifting]], [[Ferme verticale]], [[Biomimétisme]], [[Fréquence de Schumann]], [[Soin (care)]]
+- **Responsabilité et écologie** : [[Responsabilité sociétale des entreprises]], [[Économie circulaire]], [[Greenwashing]]
 
 ## Démarche commune
 
@@ -25,3 +29,6 @@ Brief, exploration (terrain, entretiens, recherches), problématique, solution, 
 ## Liens
 
 [[Year 1 - Dessein au cube]] (méthode d'entretien), [[Year 2 - Projet Design]] (suite des projets).
+
+- [[Year 3 - Culture du vivant]] : [[Biomimétisme]], [[Greenwashing]], [[Soin (care)]], [[Économie circulaire]] et [[Responsabilité sociétale des entreprises]] y sont repris dans un cours.
+- [[Year 3 - workshop]] : [[Atelier de co-conception]], [[Économie circulaire]] et [[Responsabilité sociétale des entreprises]] dans le projet ReYOU.

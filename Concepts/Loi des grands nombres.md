@@ -3,7 +3,7 @@ type: concept
 aliases: [law of large numbers, LLN, loi faible des grands nombres]
 matieres: [Statistics]
 sources: ["[[Chp4 Part 1 - Inferential statistics]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Si $X_1, \dots, X_n$ est un échantillon d'une loi de moyenne $\mu$ et de variance finie, $\bar{X}$ converge vers $\mu$ :
@@ -12,6 +12,6 @@ Si $X_1, \dots, X_n$ est un échantillon d'une loi de moyenne $\mu$ et de varian
 
 Pour des variables de Bernoulli de paramètre $p$, la proportion $\hat{P}$ converge de même vers $p$. En langage statistique : $\bar{X}$ est un estimateur consistant de $\mu$, et $\hat{P}$ de $p$ ([[Estimateur]]).
 
-Liens : [[Théorème central limite]], [[Distribution d'échantillonnage]]
+Voir aussi : [[Théorème central limite]], [[Distribution d'échantillonnage]], [[Convergence en probabilité]].
 
 Résumé : [[Chp4 Part 1 - Inferential statistics (résumé)]]

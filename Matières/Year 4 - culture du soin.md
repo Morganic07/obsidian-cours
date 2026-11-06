@@ -14,7 +14,10 @@ Culture du soin de 4e année : le soin comme geste culturel, et le design comme 
 
 ## Concepts
 
-Aucun concept propre. Voir [[Affordance]] et [[Limites planétaires]].
+- **Le soin comme geste culturel** : [[Soin (care)]], [[Vulnérabilité]]
+- **Du fonctionnalisme au Human Centered Design** : [[Fonctionnalisme]], [[Conception centrée sur l'humain]], [[Ergonomie]], [[Charge cognitive]], [[Accessibilité]], [[Affordance]]
+- **Trois lectures philosophiques du design** : [[Ouverture d'un monde (Heidegger)]], [[Structuration de l'expérience (Merleau-Ponty)]], [[Dispositif de normalisation]]
+- **Soutenabilité** : [[Responsabilité élargie du designer]], [[Defuturing]], [[Limites planétaires]]
 
 ## À revoir en priorité
 
@@ -25,3 +28,6 @@ Les trois lectures (Heidegger, Merleau-Ponty, Foucault) sont données en une dia
 - [[Year 3 - Culture du vivant]] : manifeste de l'école pour le vivant et attention fragile.
 - [[Year 3 - Sémiotique]] : même idée que les objets techniques ne sont pas neutres.
 - [[Year 3 - Projet courts]] : le projet sur la santé au travail touche au soin.
+- [[Year 3 - Affordance]] : [[Ergonomie]] y est définie (SELF), dans le cadre des tests utilisateurs.
+- [[Year 2 - Anglais]] : le glossaire définit [[Accessibilité]] et [[Ergonomie]].
+- [[Year 1 - Projet design]] : [[Soin (care)]] apparaît déjà dans le projet ELBA.

@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [techno-sémiotique, techno-sémiotique des interfaces, analyse techno-sémiotique, analyse techno-sémiologique]
+aliases: [techno-sémiotique, techno-sémiotique des interfaces, analyse techno-sémiotique, analyse techno-sémiologique, trois régimes d'analyse, trois niveaux d'analyse]
 matieres: [Sémiotique]
-sources: ["[[Sources/Year 3/Sémiotique/Cours 1 (PPTX) (résumé)|Cours 1 (résumé)]]", "[[Sources/Year 3/Sémiotique/Cours 2 (PPTX) (résumé)|Cours 2 (résumé)]]", "[[Sources/Year 3/Sémiotique/Cours 3 (PPTX) (résumé)|Cours 3 (résumé)]]", "[[Sources/Year 3/Sémiotique/Cours 4 (PPTX) (résumé)|Cours 4 (résumé)]]"]
+sources: ["[[raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]", "[[raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4 (Sémiotique)]]"]
 maj: 2026-11-06
 ---
 
@@ -12,6 +12,8 @@ Approche qui analyse les interfaces numériques comme des dispositifs à la fois
 
 **Trois niveaux de lecture d'une interface** : ce que je vois (formes, couleurs, hiérarchies) ; ce que cela me fait faire ou penser (actions, parcours) ; ce que cela suppose du monde (valeurs, normes, vision).
 
-**Trois régimes d'analyse en design** : ergonomie (l'usage, les performances), UX (l'expérience, les affects et parcours), techno-sémiotique (la compréhension critique, les inscriptions de sens). Voir aussi [[Affordance]] pour la lecture ergonomique.
+**Trois régimes d'analyse en design** : [[Ergonomie|ergonomie]] (l'usage, les performances), UX ([[Expérience utilisateur]] : l'expérience, les affects et parcours), techno-sémiotique (la compréhension critique, les inscriptions de sens). Voir aussi [[Affordance]] pour la lecture ergonomique.
 
-**Quatre grilles du cours** (une par séance de fond) : le numérique, c'est de l'humain ([[Écrit d'écran]], imaginaires, corps, mémoire) ; les écrans, ce sont des médias (médiation, temps, productivité) ; le formatage, c'est du pouvoir ([[Architexte]], code, mots, marché). Méthode : analyse de corpus. Détail : [[Sources/Year 3/Sémiotique/Cours 2 (PPTX) (résumé)|Cours 2]], [[Sources/Year 3/Sémiotique/Cours 3 (PPTX) (résumé)|Cours 3]], [[Sources/Year 3/Sémiotique/Cours 4 (PPTX) (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].
+**Trois grilles du cours** (une par séance de fond, cours 2 à 4) : grille 1, « Le numérique, c'est de l'humain » ([[Écrit d'écran]], imaginaires, corps, mémoire) ; grille 2, « Les écrans, ce sont des médias » (médiation, temps, productivité) ; grille 3, « Analyser les médias numériques », sur les enjeux de pouvoir du formatage ([[Architexte]], code, mots, marché). Méthode : [[Analyse de corpus|analyse de corpus]].
+
+Notion parente : [[Sémiotique]]. Voir aussi : [[Non-neutralité des objets techniques]]. Détail : [[Sources/Year 3/Sémiotique/Cours 2 (PPTX) (résumé)|Cours 2]], [[Sources/Year 3/Sémiotique/Cours 3 (PPTX) (résumé)|Cours 3]], [[Sources/Year 3/Sémiotique/Cours 4 (PPTX) (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].

@@ -1,0 +1,11 @@
+---
+type: concept
+aliases: [impressionniste]
+matieres: [Peinture]
+sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"]
+maj: 2026-11-06
+---
+
+Nommé dans le cours de peinture, avec Claude Monet comme référence, sans définition.
+
+Résumés : [[Sources/Year 1/Peinture/Cours 1 (résumé)|Cours 1 (Peinture) (résumé)]]

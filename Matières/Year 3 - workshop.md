@@ -1,14 +1,16 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Workshop de 3e année : une seule note, le dossier du projet ReYOU (espace de coworking sur un salon, pour valoriser le mobilier reconditionné). Résumé : [[Sources/Year 3/workshop/Reyou (résumé)|Reyou (résumé)]].
 
 ## Concepts
 
-[[Économie circulaire]], [[Persona]], [[Atelier de co-conception]]
+- **Circularité** : [[Économie circulaire]], [[Réemploi, recyclage et reconditionnement]], [[Cycle de vie d'un produit]], [[Écoconception]], [[Éco-organisme]], [[Responsabilité sociétale des entreprises]], [[Effet de serre]]
+- **Le salon et son public** : [[Salon professionnel]], [[Coworking]], [[Persona]], [[Top of mind]], [[Atelier de co-conception]]
+- **Notions reprises de sources extérieures** : [[Circulatique]], [[Classification de Strahler]]
 
 ## Points d'attention
 
@@ -17,3 +19,6 @@ Le dossier mélange recherches, idées et plan d'oral ; plusieurs sources web so
 ## Liens
 
 [[Year 2 - Projet Design]] ; [[Retail régénératif]] (projet de 1re année sur le même thème de la circularité).
+
+- [[Year 3 - Culture du vivant]] : [[Économie circulaire]], [[Réemploi, recyclage et reconditionnement]], [[Écoconception]] et [[Cycle de vie d'un produit]] y sont traités en cours.
+- [[Year 4 - management de l'innovationb]] : le [[Cycle de vie d'un produit]].

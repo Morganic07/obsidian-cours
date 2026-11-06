@@ -1,12 +1,16 @@
 ---
 type: concept
-aliases: [héritage en base de données, héritage exclusif total, spécialisation et généralisation, table fille et table mère]
-matieres: [ligue football]
-sources: ["[[Sources/Year 3/ligue football/sujet database (résumé)|sujet database (résumé)]]", "[[Sources/Year 3/ligue football/Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]"]
+aliases: [héritage en base de données, héritage exclusif total, spécialisation et généralisation, table fille et table mère, is-a, liaison is-a]
+matieres: [ligue football, Data base]
+sources: ["[[Sources/Year 3/ligue football/sujet database (résumé)|sujet database (résumé)]]", "[[Sources/Year 3/ligue football/Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]", "[[Cours 1 et 2 - Database]]"]
 maj: 2026-11-06
 ---
 
-L'héritage, dans un [[Modèle entité-association]], regroupe les attributs communs de plusieurs entités dans une entité parente. Les entités filles ne gardent que leurs attributs propres. Dans le projet de [[Year 3 - ligue football]], `Personne` est le parent de `Joueur` et `Arbitre`.
+L'héritage, dans un [[Modèle entité-association]], regroupe les attributs communs de plusieurs entités dans une entité parente. Les entités filles ne gardent que leurs attributs propres. Dans le projet de [[Year 3 - ligue football]], `Personne` est le parent de `Joueur` et `Arbitre` ; le sujet impose cet héritage.
+
+## Dans le cours de Data base
+
+Le cours parle de liaison **« is-a »** ([[UML]]) : `Client` est spécialisé en `PersonnePhysique` et `PersonneMorale`, traduit en `Client(numero)`, `PersonnePhysique(#numeroPP, nom, prenom)` et `PersonneMorale(#numeroPM)` ([[Cours 1 et 2 - Database (résumé)]]).
 
 ## Vocabulaire du projet
 
@@ -25,3 +29,5 @@ Voir [[Clé primaire et clé étrangère]], [[Schéma relationnel]] et [[Langage
 ## Limite
 
 Complément : les contraintes `CHECK` du rapport n'empêchent pas une même personne d'être à la fois dans `JOUEUR` et `ARBITRE` ; l'exclusion reste à la charge de l'application ou d'un déclencheur.
+
+Résumés : [[Sources/Year 3/ligue football/sujet database (résumé)|sujet database (résumé)]], [[Sources/Year 3/ligue football/Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[Cours 1 et 2 - Database (résumé)]]

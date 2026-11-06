@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[Cours/Year 1/Algo Maths/Python|Python (Algo Maths)]]", "[[explications DM d'algo]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir sur le sac à dos. Les 3 notes sont intégrées.
@@ -22,10 +22,12 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 
 ## Concepts
 
-- [[Tours de Hanoï]], [[Récurrence]]
-- [[Récursivité]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]] (voir [[AlgoID1 (résumé)]])
-- [[Problème du sac à dos]], [[Algorithme glouton]]
-- [[Complexité algorithmique]] (cours de graphes)
+- **Notions de départ (Cours 1)** : [[Algorithme]], [[Modélisation d'un problème]], [[Problème du passeur]], [[Correction d'un algorithme]], [[Récurrence]], [[Problème des crayons]], [[Somme des premiers entiers]], [[Carré magique]], [[Fractale]], [[Nombre premier]], [[Bit]], [[Numération binaire]], [[Nombre à virgule flottante]], [[Loi de Parkinson]]
+- **Pseudo-code et types** : [[Pseudo-code]], [[Affectation]], [[Échange de deux variables]], [[Type primitif]], [[Chaîne de caractères]], [[Division euclidienne]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Équation du second degré]], [[Palindrome]]
+- **Fonctions et enregistrements** : [[Fonction et procédure]], [[Passage de paramètres]], [[Portée d'une variable]], [[Programmation modulaire]], [[Structure (struct)]], [[Pile et file]] (voir [[AlgoID1 (résumé)]])
+- **Python** : [[Langage Python]], [[Langage interprété]], [[Typage dynamique]], [[Fonction range (Python)]], [[Dataclass (Python)]]
+- **Récursivité** : [[Récursivité]], [[Récursivité terminale]], [[Terminaison d'un algorithme]], [[Conjecture de Syracuse]], [[Problème indécidable]], [[Factorielle]], [[Suite de Fibonacci]], [[Algorithme d'Euclide]], [[Exponentiation rapide]], [[Recherche dichotomique]], [[Tours de Hanoï]]
+- **Problèmes difficiles et sac à dos** : [[Complexité algorithmique]] (cours de graphes), [[Problème du voyageur de commerce]], [[Algorithme d'approximation]], [[Problème du sac à dos]], [[Recherche exhaustive]], [[Code de Gray]], [[Algorithme glouton]], [[Algorithme stochastique]], [[Programmation dynamique]]
 
 ## À revoir en priorité avant un examen
 
@@ -37,3 +39,6 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 
 - **[[Year 1 - Outil Maths]]** : [[Récurrence]] et [[Logique propositionnelle]].
 - **[[Year 4 - graph theory]]** : la complexité des [[Tours de Hanoï]] ; l'[[Algorithme glouton]] de Kruskal ([[Arbre couvrant minimal]]).
+- **[[Year 2 - Algo]]** : [[Récursivité]] et [[Recherche dichotomique]] y sont reprises avec leur complexité.
+- **[[Year 3 - Java]]** et **[[Year 4 - C++]]** : [[Type primitif]], [[Structure conditionnelle]] et [[Boucle (programmation)]] dans d'autres langages.
+- **[[Year 1 - Analyse Maths]]** : [[Factorielle]], [[Suite de Fibonacci]] et [[Équation du second degré]].

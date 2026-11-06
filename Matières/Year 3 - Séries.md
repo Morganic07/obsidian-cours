@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chp0 - Revision chapter]]", "[[Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series]]", "[[Chp3 - Sequence of function]]", "[[Chp4 - Series of functions]]", "[[Chp5 - power series]]", "[[Chp6 - Fourier Series]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Séries numériques, suites et séries de fonctions, séries entières et séries de Fourier. Cours en anglais. Les 7 notes sont intégrées.
@@ -20,9 +20,11 @@ Séries numériques, suites et séries de fonctions, séries entières et série
 
 ## Concepts
 
-- **Séries numériques** : [[Série numérique]], [[Critère de d'Alembert et de Cauchy]]
-- **Fonctions** : [[Convergence uniforme]], [[Série entière]], [[Série de Fourier]]
-- **Rappels** : [[Comparaison asymptotique]], [[Développement limité]]
+- **Rappels (chapitre 0)** : [[Suite numérique]], [[Théorème des gendarmes]], [[Boule et voisinage]], [[Limite et continuité]], [[Comparaison asymptotique]], [[Développement limité]], [[Fonctions hyperboliques]]
+- **Séries numériques (chapitres 1 et 2)** : [[Série numérique]], [[Condition nécessaire de convergence]], [[Reste d'une série]], [[Critère de comparaison]], [[Comparaison série-intégrale]], [[Critère des séries alternées]], [[Convergence conditionnelle]], [[Critère de d'Alembert et de Cauchy]]
+- **Suites et séries de fonctions (chapitres 3 et 4)** : [[Point limite]], [[Convergence uniforme]], [[Interversion de limites]]
+- **Séries entières (chapitre 5)** : [[Série entière]], [[Reste de Taylor]]
+- **Séries de Fourier (chapitre 6)** : [[Fonction périodique]], [[Fonction continue par morceaux]], [[Fonction paire et impaire]], [[Série de Fourier]]
 
 ## À revoir en priorité avant un examen
 

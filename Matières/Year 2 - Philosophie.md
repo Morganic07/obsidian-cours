@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 2/Philosophie/philo 1|philo 1]]", "[[Cours/Year 2/Philosophie/philo 2|philo 2]]", "[[Cours/Year 2/Philosophie/philo 3|philo 3]]", "[[Cours/Year 2/Philosophie/philo 4|philo 4]]", "[[Cours/Year 2/Philosophie/philo 5|philo 5]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Philosophie de 2e année, centrée sur la technique, la nature et le progrès. Cinq cours.
@@ -18,7 +18,11 @@ Philosophie de 2e année, centrée sur la technique, la nature et le progrès. C
 
 ## Concepts
 
-[[Progrès technique]], [[Quatre causes d'Aristote]], [[Animal-machine]], [[Cybernétique]]
+- **Technique et nature chez Aristote (philo 1 et 2)** : [[Technè, praxis et épistémè]], [[Quatre causes d'Aristote]], [[Finalisme]], [[L'art imite la nature]], [[Monde sublunaire et supralunaire]], [[Homo faber]]
+- **Maîtrise de la nature (philo 1 et 2)** : [[Maîtrise de la nature]], [[Révolution scientifique]], [[Nature comme réserve de ressources]], [[Système technicien]], [[Aliénation]], [[Principe responsabilité]], [[Pont aux ânes]]
+- **Paysage et machine (philo 3)** : [[Paysage dans l'art]], [[Héliocentrisme]], [[Animal-machine]], [[Ruse de la raison]]
+- **Progrès (philo 4)** : [[Progrès technique]], [[Progrès moral]], [[Progrès transhistorique]], [[Philosophie de l'histoire]], [[Espace qualitatif et espace quantitatif]]
+- **Machine et organisme (philo 5)** : [[Organisme et machine]], [[Force plastique]], [[Cybernétique]], [[Technicité]], [[Transduction]], [[Sentience]]
 
 ## À revoir en priorité
 
@@ -29,3 +33,4 @@ Attribution à vérifier dans philo 3 : la citation de Hegel est rattachée au *
 - **[[Year 1 - Philosophie]]** : point de départ (Aristote, finalité).
 - **[[Year 3 - Culture du vivant]]** : la citation de Descartes et la domination technique y sont reprises avec la crise écologique ; voir aussi [[Anthropocène]].
 - **[[Year 4 - Culture du vivant]]** : IA, capitalisme et design politique prolongent la critique de la technique.
+- **[[Year 3 - IA]]** : la [[Cybernétique]] de Wiener y est présentée dans l'histoire de l'intelligence artificielle.

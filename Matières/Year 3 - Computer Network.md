@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[chp1 - Computer Networks]]", "[[Formation CISCO Packet Tracer]]", "[[Chp2 - Static Routing]]", "[[Chp3 - Dynamic Routing]]", "[[Chp4 - VLAN ／ IVR Commands]]", "[[Chp5 - NAT ／ PAT]]", "[[chp6 - Access Control List]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) avec Packet Tracer. Les 7 notes sont intégrées. Les cours sont surtout en anglais.
@@ -26,11 +26,12 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 
 ## Concepts
 
-- **Adressage** : [[Adressage IPv4 et CIDR]]
-- **Équipements** : [[CLI Cisco IOS]]
-- **Routage** : [[Routage statique]], [[Routage dynamique]]
-- **Commutation** : [[VLAN]]
-- **Adresses et filtrage** : [[NAT et PAT]], [[Liste de contrôle d'accès]]
+- **Équipements et configuration** : [[CLI Cisco IOS]], [[Routeur]], [[Commutateur]], [[Interface réseau]], [[Réseau local]], [[Commande ping]], [[ICMP]]
+- **Adressage** : [[Numération binaire]], [[Octet]], [[Adressage IPv4 et CIDR]], [[IANA]], [[IETF]], [[Multicast]], [[Adresse de bouclage]], [[IPv6]]
+- **Routage statique** : [[Routage IP]], [[Routage statique]], [[Passerelle par défaut]]
+- **Routage dynamique** : [[Routage dynamique]], [[Système autonome]], [[EIGRP]], [[OSPF]], [[BGP]], [[Routage classful et classless]], [[VLSM]], [[Résumé automatique de routes]], [[Convergence d'un protocole de routage]], [[Boucle de routage]]
+- **Commutation** : [[VLAN]], [[Domaine de diffusion]], [[Sous-interface]], [[Encapsulation 802.1Q]]
+- **Adresses et filtrage** : [[NAT et PAT]], [[Numéro de port]], [[Pare-feu]], [[Liste de contrôle d'accès]]
 
 ## À revoir en priorité avant un examen
 
@@ -42,3 +43,4 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 ## Liens avec les autres matières
 
 - **[[Year 3 - Data base]]** : l'architecture 3 tiers d'un SGBD repose sur le réseau.
+- **[[Year 2 - Operating System]]** : le TP3 aborde côté Linux [[Adressage IPv4 et CIDR]], [[Interface réseau]], [[Adresse de bouclage]], [[Commande ping]] et [[IPv6]].

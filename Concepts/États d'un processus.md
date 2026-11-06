@@ -3,7 +3,7 @@ type: concept
 aliases: [process states, process state, état d'un processus, états d'un processus]
 matieres: [Operating System]
 sources: ["[[OS - chp7]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Un [[Processus]] change d'état pendant son exécution. Cinq états :
@@ -20,6 +20,6 @@ Transitions du diagramme : new → ready (*admitted*), ready → running (*sched
 
 Le passage de ready à running est choisi par l'ordonnanceur à court terme et réalisé par le **dispatcher**, qui effectue le [[Changement de contexte]] en rechargeant le contexte depuis le [[Bloc de contrôle de processus]].
 
-Liens : [[Processus]], [[Ordonnancement des processus]], [[Changement de contexte]]
+Notion parente : [[Processus]]. Voir aussi : [[Ordonnancement des processus]], [[Changement de contexte]], [[Processus limité par les entrées-sorties ou par le processeur]]
 
 Résumé : [[OS - chp7 (résumé)]]

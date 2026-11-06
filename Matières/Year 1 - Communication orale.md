@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Communication orale/Communication orale - discours|Communication orale - discours]]", "[[Cours/Year 1/Communication orale/Debats|Debats]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Communication orale de 1re année : exercices de discours et de débat.
@@ -15,7 +15,7 @@ Communication orale de 1re année : exercices de discours et de débat.
 
 ## Concepts
 
-Aucun.
+- **Dossiers de débat** : [[Clonage animal]], [[Théorie de l'escalade]]
 
 ## À revoir en priorité
 

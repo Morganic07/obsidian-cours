@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [VLAN, VLANs, V-LAN, Inter VLAN Routing, InterVLANRouting, routage inter-VLAN, lien trunk, trunk link, access link]
+aliases: [VLAN, VLANs, V-LAN, Inter VLAN Routing, InterVLANRouting, routage inter-VLAN, lien trunk, trunk link, access link, switchport mode access, switchport mode trunk, VLAN 1, VLAN par défaut, IVR]
 matieres: [Computer Network]
 sources: ["[[Chp4 - VLAN ／ IVR Commands]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Un VLAN divise le domaine de diffusion (broadcast) d'un switch en plusieurs domaines. Par défaut, tous les ports d'un switch Cisco sont dans le VLAN 1, VLAN par défaut qu'on ne peut pas supprimer.
@@ -17,6 +17,10 @@ Un VLAN divise le domaine de diffusion (broadcast) d'un switch en plusieurs doma
 > [!warning] Écart dans le cours
 > Dans l'exemple du cours, les trois sous-interfaces portent `encapsulation dot1q 10`. Les sous-interfaces `.20` et `.30` devraient porter 20 et 30 (complément).
 
-Liens : [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
+Liens : [[Domaine de diffusion]], [[Sous-interface]], [[Encapsulation 802.1Q]], [[Commutateur]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 
-Résumé : [[Chp4 - VLAN ／ IVR Commands (résumé)]]
+## À vérifier
+
+- Le document [[Chp4 - VLAN ／ IVR Commands]] s'intitule « Chp5 : VLANs and InterVLANRouting » alors que c'est le chapitre 4.
+
+Résumés : [[Chp4 - VLAN ／ IVR Commands (résumé)]], [[Chp3 - Dynamic Routing (résumé)]]

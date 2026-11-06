@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, énergie, positionnement politique et droit d'auteur. Une seule note, intégrée. Les chiffres et noms d'outils datent de 2025.
@@ -14,9 +14,12 @@ Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, éner
 
 ## Concepts
 
-- [[Approche symbolique et connexionniste]]
-- [[Droit d'auteur et IA]]
-- [[Cybernétique]] (concept du cours de philosophie, cité dans la frise historique)
+- **Histoire et précurseurs** : [[Intelligence artificielle]], [[Neurone de McCulloch-Pitts]], [[Cybernétique]] (concept du cours de philosophie, cité dans la frise historique), [[Test de Turing]], [[Logic Theorist]], [[Conférence de Dartmouth]], [[Perceptron]]
+- **Approche symbolique** : [[Approche symbolique et connexionniste]], [[ELIZA]], [[Système expert]], [[Deep Blue]], [[IA hybride]]
+- **Apprentissage automatique** : [[Apprentissage automatique]], [[Apprentissage supervisé]], [[Apprentissage non supervisé]], [[Apprentissage par renforcement]], [[AlphaGo Zero]], [[Apprentissage profond]], [[Réseau de neurones convolutif]], [[Réseau de neurones récurrent]], [[Transformer (IA)]], [[Modèle de diffusion]]
+- **Usages et génération** : [[Prompt (IA)]], [[Token (IA)]], [[Modèle d'IA propriétaire ou ouvert]], [[Deepfake]], [[IA malveillante]]
+- **Énergie et matériel** : [[Consommation énergétique de l'IA]], [[Entraînement et inférence]], [[TPU]], [[Petit réacteur modulaire]]
+- **Politique et droit** : [[Biais politique des IA]], [[Droit d'auteur et IA]], [[Domaine public]]
 
 ## À revoir en priorité avant un examen
 

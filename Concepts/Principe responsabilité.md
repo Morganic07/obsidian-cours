@@ -1,0 +1,12 @@
+---
+type: concept
+aliases: []
+sources: ["[[philo 2]]"]
+maj: 2026-11-06
+---
+
+Hans Jonas, *Le Principe responsabilité* : si nous avons acquis la capacité de modifier la nature à grande échelle, avons-nous aussi la responsabilité de la préserver ?
+
+Voir aussi : [[Maîtrise de la nature]].
+
+Résumés : [[philo 2 (résumé)]]

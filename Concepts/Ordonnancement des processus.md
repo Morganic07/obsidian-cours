@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [process scheduling, scheduler, ordonnanceur, ordonnancement, long term scheduler, short term scheduler, mid term scheduler, ready queue]
+aliases: [process scheduling, scheduler, ordonnanceur, ordonnancement, long term scheduler, short term scheduler, mid term scheduler, ready queue, wait queue, wait queues, scheduling queues, swapper]
 matieres: [Operating System]
 sources: ["[[OS - chp7]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 L'ordonnanceur (*scheduler*) décide quel processus *ready* passe ensuite sur le CPU. Objectif du cours : maximiser l'usage du CPU et changer vite de processus.
@@ -13,10 +13,10 @@ L'ordonnanceur (*scheduler*) décide quel processus *ready* passe ensuite sur le
 **Trois ordonnanceurs** :
 - long terme (*LTS*) : choisit les processus qui passent de *new* à *ready* ;
 - court terme (*STS*) : choisit ceux qui passent de *ready* à *running* ;
-- moyen terme (*MTS*, ou *swapper*) : peut déplacer un processus de la RAM vers le stockage.
+- moyen terme (*MTS*, ou *swapper*) : peut déplacer un processus de la RAM vers le stockage (voir [[Espace d'échange (swap)]]).
 
-Le cours ne présente pas d'algorithme d'ordonnancement (FCFS, Round Robin…), seulement la notion de tranche de temps.
+Le cours ne présente pas d'algorithme d'ordonnancement (FCFS, Round Robin…), seulement la notion de tranche de temps ([[Quantum de temps]]).
 
-Liens : [[Processus]], [[États d'un processus]], [[Changement de contexte]], [[Interruption]]
+Liens : [[Processus]], [[États d'un processus]], [[Changement de contexte]], [[Interruption]], [[Quantum de temps]], [[Espace d'échange (swap)]]
 
 Résumé : [[OS - chp7 (résumé)]]

@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [autonomie morale, loi morale, impératif catégorique]
+aliases: [autonomie morale, loi morale, impératif catégorique, maxime universelle]
 matieres: [Philosophie]
 sources: ["[[Cours/Year 1/Philosophie/liberté et moralité|liberté et moralité]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 L'autonomie (*auto* : soi-même, *nomos* : règle) est le fait de se donner ses propres lois. Si l'on s'impose ses lois, on reste libre, du moins à l'égard de la nature.
@@ -18,6 +18,10 @@ Thèse de Kant d'après le cours :
 
 Le cours distingue le droit juridique (il porte sur les actions) et le droit moral (il porte sur les intentions). La justice est la compatibilité des libertés.
 
-Voir aussi : [[Perfectibilité]]
+Voir aussi : [[Perfectibilité]], [[Droit et morale]], [[Liberté relative et liberté absolue]]
+
+## À vérifier
+
+La note mêle au second principe la règle d'or (« traite les gens comme tu veux qu'on te traite »), qui n'est pas la formule de Kant.
 
 Résumé : [[Sources/Year 1/Philosophie/liberté et moralité (résumé)|liberté et moralité (résumé)]]

@@ -1,0 +1,13 @@
+---
+type: concept
+aliases: [uname, uname -r]
+matieres: [Operating System]
+sources: ["[[cours TP1]]"]
+maj: 2026-11-06
+---
+
+`uname` affiche des informations sur le système ; `uname -r` donne la version du [[Noyau]].
+
+Voir aussi : [[Noyau]].
+
+Résumés : [[cours TP1 (résumé)]], [[TP1 (résumé)]]

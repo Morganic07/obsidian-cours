@@ -10,7 +10,13 @@ Gestion financière de 4e année : une seule note, rangée à la racine de `Year
 |---|---|---|
 | [[Cours/Year 4/Gestion financière\|Gestion financière]] | Types de banque, marchés financiers, balances, TEE, PIB et PNB, coût et prix | [[Sources/Year 4/Gestion financière (résumé)\|Résumé]] |
 
-La note n'est qu'une liste de définitions brèves. Aucun concept créé : chaque notion n'y tient qu'en une ligne.
+La note n'est qu'une liste de définitions brèves : les pages de concepts ci-dessous n'en disent pas plus qu'elle.
+
+## Concepts
+
+- **Banques et marchés** : [[Types de banque]], [[Opérations de haut de bilan]], [[Marché financier]]
+- **Comptabilité nationale** : [[Balance commerciale]], [[Balance des paiements]], [[Tableau économique d'ensemble]], [[Produit intérieur brut]]
+- **Entreprise** : [[Coût et prix]]
 
 **À revoir en priorité** : la définition du PNB, qui semble incomplète (voir le résumé).
 

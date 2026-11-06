@@ -1,12 +1,12 @@
 ---
 type: concept
-aliases: [confidence interval, intervalles de confiance, niveau de confiance, confidence level, quantité pivot, pivotal quantity, marge d'erreur, taille d'échantillon pour un intervalle]
-matieres: [Statistics]
-sources: ["[[Chp4 Part2 - Inferential statistics]]", "[[Chp4 Part3 - Inferential statistics]]"]
-maj: 2026-11-05
+aliases: [confidence interval, intervalles de confiance, niveau de confiance, confidence level, quantité pivot, pivotal quantity, marge d'erreur, taille d'échantillon pour un intervalle, confidence interval estimator, CIE, intervalle de confiance d'une variance, intervalle de confiance d'une proportion]
+matieres: [Statistics, Data analysis (Thanos)]
+sources: ["[[Chp4 Part2 - Inferential statistics]]", "[[Chp4 Part3 - Inferential statistics]]", "[[Cours 4 - Estimation]]"]
+maj: 2026-11-06
 ---
 
-Un intervalle de confiance de niveau $100(1-\alpha)\,\%$ encadre un paramètre : estimation ponctuelle $\pm$ marge d'erreur. Sur de nombreux échantillons, une proportion $1 - \alpha$ des intervalles contient le paramètre.
+Un intervalle de confiance de niveau $100(1-\alpha)\,\%$ encadre un paramètre : estimation ponctuelle $\pm$ marge d'erreur. Sur de nombreux échantillons, une proportion $1 - \alpha$ des intervalles contient le paramètre : c'est l'intervalle qui varie, $\mu$ est fixe.
 
 **Moyenne, $\sigma$ connu** : $\bar{x} \pm z_{\alpha/2}\,\sigma/\sqrt{n}$, avec $P(-z_{\alpha/2} < Z < z_{\alpha/2}) = 1 - \alpha$. Valeurs : $z_{\alpha/2} = 1{,}645$ (90 %), $1{,}96$ (95 %), $2{,}58$ (99 %). Valable approximativement pour une loi quelconque si $n$ est grand ([[Théorème central limite]]).
 
@@ -19,6 +19,14 @@ Un intervalle de confiance de niveau $100(1-\alpha)\,\%$ encadre un paramètre :
 > [!warning] Écart dans le cours
 > Le tableau récapitulatif de [[Chp4 Part3 - Inferential statistics]] porte $\bar{X} + z_\alpha\sigma/\sqrt{n}$ dans les deux colonnes unilatérales pour $\sigma$ connu. L'intervalle supérieur devrait être $(\bar{X} - z_\alpha\sigma/\sqrt{n}, \infty)$ (complément).
 
+**En Data analysis** : les mêmes intervalles (moyenne, proportion, variance) servent avec les tests Z, t et du khi-deux ([[Test d'hypothèse]], [[Quantile]]). En régression, l'intervalle de la réponse moyenne est $\hat{y} \pm t_{\alpha/2}\,s\sqrt{1/n + (x_p - \bar{x})^2/SS_{xx}}$ ([[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]).
+
 Liens : [[Estimateur]], [[Loi normale]], [[Distribution d'échantillonnage]]
 
-Résumés : [[Chp4 Part2 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]
+## À vérifier
+
+- Le même tableau récapitulatif figure aussi dans [[Cours 8 - Chi²-Test]], avec le même $+$ au lieu d'un $-$ pour l'intervalle supérieur à $\sigma$ connu : à corriger avant un examen.
+- Le titre « mean known » est faux pour l'intervalle de la variance.
+- [[Cours 4 - Estimation]] et l'aide-mémoire ([[probabilité statistiques utilitaire (résumé)]]) notent $Z_\alpha$ là où il faut $z_{\alpha/2}$.
+
+Résumés : [[Chp4 Part2 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]], [[probabilité statistiques utilitaire (résumé)]], [[Cours 4 - Estimation (résumé)]], [[Cours 6 - T-Test (résumé)]], [[Cours 7 - Z-Test (résumé)]], [[Cours 8 - Chi²-Test (résumé)]], [[Cours 11 - Multiple Linear Regression and F-statistic (résumé)]]

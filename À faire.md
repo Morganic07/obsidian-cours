@@ -5,10 +5,11 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 ## Prochaines étapes, dans l'ordre
 
 1. [x] Compléter les concepts avec les ajouts proposés par les lots
-2. [x] Créer la commande `/maj-cours` (reste à l'essayer avec un Doc modifié sur Drive)
-3. [ ] Contrôler le wiki (lint)
-4. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
-5. [ ] Envoyer sur GitHub
+2. [x] Créer la commande `/maj-cours`, et l'essayer avec un Doc modifié sur Drive (mise à jour du 2026-11-06)
+3. [x] Donner une page à chaque notion nommée dans les cours, pour la voir dans le graphe : repasser sur les 223 résumés (docx, PDF et PPTX), créer les concepts manquants et les relier entre eux
+4. [ ] Contrôler le wiki (lint)
+5. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
+6. [ ] Envoyer sur GitHub
 
 ## Terminé
 
@@ -40,8 +41,8 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 - [x] Mettre le coffre sous git pour protéger `Concepts/` et `.transcriptions/`
 - [x] Écrire les consignes du coffre : répondre à partir des cours, citer la note, dire quand l'information n'y est pas
 - [x] Ajouter une sauvegarde hors de ce PC (git local uniquement pour l'instant)
-- [ ] Créer la commande `/maj-cours`
-- [ ] Tester une mise à jour de bout en bout avec un Doc modifié sur Drive
+- [x] Créer la commande `/maj-cours`
+- [x] Tester une mise à jour de bout en bout avec un Doc modifié sur Drive
 - [x] Tester deux questions sur le coffre : une dans les cours, une hors programme
 
 ## Transcrire les images

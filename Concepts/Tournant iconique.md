@@ -1,0 +1,12 @@
+---
+type: concept
+aliases: [iconic turn]
+sources: ["[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]
+maj: 2026-11-06
+---
+
+« The Iconic Turn », Gottfried Boehm (1994) : l'avènement d'une culture de l'image, qui dépasse parfois les mots. Contexte donné par le cours : 1,8 trillion de photos par an dans le monde en 2023.
+
+Notion parente : [[Ethnographie visuelle]].
+
+Résumés : [[Ethnographie visuelle (résumé)]]

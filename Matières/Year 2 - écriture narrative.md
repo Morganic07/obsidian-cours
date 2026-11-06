@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 2/écriture narrative/écriture narrative|écriture narrative]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Écriture narrative de 2e année. Une seule note, qui est un texte d'exercice et non un cours.
@@ -14,7 +14,7 @@ maj: 2026-11-05
 
 ## Concepts
 
-Aucun.
+- **Écriture de création** : [[Consigne d'écriture]], [[Structure narrative]]
 
 ## À revoir en priorité
 
@@ -22,4 +22,4 @@ La méthode d'écriture enseignée n'est pas dans le coffre : à compléter si d
 
 ## Liens avec les autres matières
 
-- **[[Year 2 - Anglais]]** : autre exercice de production de texte.
+- **[[Year 2 - Anglais]]** : autre exercice de production de texte. [[Consigne d'écriture]] (writing prompt) et [[Structure narrative]] figurent aussi au vocabulaire d'anglais (Global Exam).

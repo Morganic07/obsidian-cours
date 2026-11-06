@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", "[[Chapitre 3 - Relation binaire]]", "[[Chapitre 5 - Complexes]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Outils de base du raisonnement mathématique : logique, ensembles, relations, fonctions, nombres complexes. Les 4 notes sont intégrées. Le chapitre 4 (fonctions et applications) n'existe qu'en PDF : voir [[Chapitre4-Fonctions (1) (résumé)]]. Les PDF du professeur, les feuilles d'exercices et un contrôle sont résumés dans la section « Documents PDF ».
@@ -33,10 +33,12 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 
 ## Concepts
 
-- **Logique et preuves** : [[Logique propositionnelle]], [[Récurrence]]
-- **Ensembles et relations** : [[Opérations sur les ensembles]], [[Relation d'équivalence]], [[Relation d'ordre]]
-- **Fonctions** : [[Image et image réciproque]], [[Injectivité et surjectivité]]
-- **Complexes** : [[Nombre complexe]]
+- **Logique (chapitre 1)** : [[Logique propositionnelle]], [[Priorité des connecteurs logiques]], [[Propriétés des connecteurs logiques]], [[Implication logique]], [[Équivalence logique]], [[Condition nécessaire et suffisante]], [[Tautologie]], [[Lois de De Morgan]], [[Forme normale conjonctive et disjonctive]], [[Quantificateur]]
+- **Arguments et preuves (chapitre 1)** : [[Argument valide]], [[Règle d'inférence]], [[Modus ponens et modus tollens]], [[Règle de résolution]], [[Preuve par contraposition]], [[Preuve par contre-exemple]], [[Raisonnement par l'absurde]], [[Raisonnement par disjonction des cas]], [[Récurrence]], [[Parité d'un entier]], [[Irrationalité de √2]], [[Formule du binôme de Newton]]
+- **Ensembles (chapitre 2)** : [[Ensemble (mathématiques)]], [[Définition par compréhension]], [[Inclusion (ensembles)]], [[Double inclusion]], [[Opérations sur les ensembles]], [[Intersection et union d'ensembles]], [[Différence d'ensembles]], [[Différence symétrique]], [[Complémentaire d'un ensemble]], [[Ensembles disjoints]], [[Partition d'un ensemble]], [[Produit cartésien]], [[Cardinal d'un ensemble]]
+- **Relations binaires (chapitre 3)** : [[Relation binaire]], [[Représentation d'une relation binaire]], [[Domaine et rang d'une relation]], [[Relation réflexive]], [[Relation symétrique]], [[Relation antisymétrique]], [[Relation transitive]], [[Relation d'équivalence]], [[Congruence modulo n]], [[Relation d'ordre]], [[Divisibilité]], [[Majorant et minorant]], [[Plus grand élément]], [[Élément maximal]], [[Borne supérieure]], [[Application monotone]], [[Inégalité triangulaire]]
+- **Fonctions et applications (chapitre 4)** : [[Relation fonctionnelle]], [[Application (mathématiques)]], [[Ensemble de définition]], [[Graphe d'une fonction]], [[Égalité de deux fonctions]], [[Restriction d'une fonction]], [[Fonction identité]], [[Fonction indicatrice]], [[Injection canonique]], [[Composition de fonctions]], [[Image et image réciproque]], [[Injectivité et surjectivité]], [[Bijection]], [[Système linéaire]], [[Forme échelonnée]]
+- **Complexes (chapitre 5)** : [[Nombre complexe]], [[Affixe]], [[Forme trigonométrique et exponentielle]], [[Formules trigonométriques]], [[Formule de Pascal]], [[Équation du second degré]]
 
 ## À revoir en priorité avant un examen
 
@@ -50,4 +52,6 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 ## Liens avec les autres matières
 
 - **[[Year 1 - Algo Maths]]** : la [[Récurrence]] sert à prouver le nombre de coups des [[Tours de Hanoï]].
-- **[[Year 1 - Analyse Maths]]** : la [[Logique propositionnelle]] (quantificateurs) sert aux définitions de limite ; les [[Nombre complexe|complexes]] reviennent dans les formules d'Euler.
+- **[[Year 1 - Analyse Maths]]** : la [[Logique propositionnelle]] (quantificateurs) sert aux définitions de limite ; les [[Nombre complexe|complexes]] reviennent dans les formules d'Euler. [[Borne supérieure]], [[Inégalité triangulaire]], [[Composition de fonctions]] et [[Équation du second degré]] y sont repris.
+- **[[Year 1 - Algèbre Linéaire]]**, **[[Year 2 - Bilinear Algebra]]** : [[Injectivité et surjectivité]] et [[Bijection]] s'y appliquent aux applications linéaires ; le corrigé du TD4 résout des [[Système linéaire|systèmes linéaires]].
+- **[[Year 2 - Probability]]** : [[Opérations sur les ensembles]] et [[Cardinal d'un ensemble]] fondent le calcul des événements.

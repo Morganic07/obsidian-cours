@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Dessein au cube/Synthèse|Synthèse]]", "[[Cours/Year 1/Dessein au cube/Untitled document|Untitled document]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Matière de 1re année : apprendre l'enquête de terrain par entretien, à travers un projet sur l'accès à une alimentation saine. Les notes sont des documents de projet, pas un cours rédigé.
@@ -19,7 +19,8 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 
 ## Concepts
 
-[[Entretien semi-directif]], [[Analyse thématique d'entretien]]
+- **Méthode d'entretien** : [[Consentement éclairé]], [[Entretien semi-directif]], [[Analyse thématique d'entretien]]
+- **Biais de l'enquête** : [[Biais cognitif]], [[Biais de confirmation]], [[Biais de disponibilité]], [[Biais de rétrospective]]
 
 ## Points d'attention
 
@@ -29,3 +30,5 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 ## Liens avec les autres matières
 
 La méthode d'entretien est réutilisée dans [[Year 1 - Projet design]] et [[Year 2 - Projet Design]].
+
+Le [[Biais de confirmation]] est aussi défini dans le cours d'observation UX de [[Year 3 - Affordance]].

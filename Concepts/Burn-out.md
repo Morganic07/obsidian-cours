@@ -1,0 +1,13 @@
+---
+type: concept
+aliases: [burnout, burn out, épuisement professionnel, syndrome d'épuisement]
+matieres: [Projet courts]
+sources: ["PDF de la fiche ressources, dans raw/Year 3/Projet courts"]
+maj: 2026-11-06
+---
+
+Terme central du champ lexical de la fiche ressources du projet court « santé au travail », avec « épuisement professionnel » et « syndrome d'épuisement ». La fiche ne le définit pas : elle renvoie à des notices (INRS) et à des vidéos.
+
+Notion parente : [[Santé au travail]]. Voir aussi : [[Risques psychosociaux]].
+
+Résumés : [[Santé au travail - fiche ressources (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 aliases: [état de nature, state of nature]
 matieres: [Philosophie]
 sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Situation supposée des hommes avant tout état. Pour Hobbes (*Léviathan*), ils y sont tous égaux, mais la violence y est constante. Le cours en donne trois causes :
@@ -17,5 +17,7 @@ Conséquences, d'après le dessin du cours : insécurité constante, pas de trav
 À l'état de nature, on est libre, voire trop libre : la liberté de chacun entrave celle des autres.
 
 Aristote nie qu'un tel état ait existé (voir [[Animal politique]]). Le cours précise que la théorie de Hobbes n'est pas certaine : des anthropologues cherchent à trancher le débat, dont l'enjeu est de savoir si l'état est légitime et s'il est possible de vivre autrement.
+
+Notion parente : [[Contrat social]].
 
 Résumé : [[Sources/Year 1/Philosophie/L'état (résumé)|L'état (résumé)]]

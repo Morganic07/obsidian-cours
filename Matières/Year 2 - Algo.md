@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chp1 - récursivité et complexité]]", "[[chp2 - piles listes file]]", "[[AVL momo]]", "[[qui dit quoi AVL]]", "[[TD_Algo]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Algorithmique et programmation en Python : récursivité, complexité, structures de données linéaires, puis arbres AVL. Les 5 notes sont intégrées. Il y a deux chapitres de cours et trois notes de DM ou de TD.
@@ -30,9 +30,11 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 
 ## Concepts
 
-- **Arbres** : [[Arbre binaire]], [[Arbre binaire de recherche]]
-- **Récursivité et coût** : [[Récursivité]], [[Calcul de complexité et théorème de résolution]], [[Recherche dichotomique]]
-- **Structures de données** : [[Pile et file]], [[Liste chaînée]], [[Arbre AVL]]
+- **Récursivité** : [[Récursivité]], [[Récurrence]], [[Factorielle]], [[Pile d'exécution]], [[Diviser pour régner]]
+- **Complexité** : [[Complexité algorithmique]], [[Calcul de complexité et théorème de résolution]], [[Classe de complexité]], [[Recherche dichotomique]], [[Partie entière]]
+- **Structures de données linéaires** : [[Liste chaînée]], [[Pile et file]]
+- **Rappels sur les graphes** : [[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Circuit (graphe)]], [[Sous-graphe]]
+- **Arbres** : [[Arbre (théorie des graphes)]], [[Arborescence (graphe)]], [[Vocabulaire des arbres]], [[Hauteur d'un arbre]], [[Arbre m-aire]], [[B-arbre]], [[Arbre binaire]], [[Arbre binaire de recherche]], [[Méthode spéciale Python]], [[Arbre AVL]]
 
 ## À revoir en priorité avant un examen
 
@@ -45,4 +47,5 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 
 - **[[Year 2 - Analyse]]** : la notation $O$ rejoint la [[Comparaison asymptotique]] des fonctions et des suites.
 - **C++** (Year 4) : la [[Liste chaînée]] est reprise avec des pointeurs dans [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|le chapitre 3 de C++]]. La pile d'exécution est celle de la gestion mémoire en [[Chp1 - basiques (résumé)|C++ chapitre 1]].
-- **Graph theory** (Year 4) : le cours de théorie des graphes a sa propre page de [[Complexité algorithmique]].
+- **Graph theory** (Year 4) : le cours de théorie des graphes a sa propre page de [[Complexité algorithmique]]. Les rappels du chapitre 3 ([[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Sous-graphe]], [[Arbre (théorie des graphes)]]) y sont repris en détail : [[Year 4 - graph theory]].
+- **[[Year 1 - Algo Maths]]** : [[Récursivité]], [[Récurrence]] et [[Factorielle]] y sont introduites ; la [[Récurrence]] l'est aussi en [[Year 1 - Outil Maths]].

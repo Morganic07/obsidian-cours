@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0b - Matrix algebra]]", "[[Chp 0c - Determinants]]", "[[Chp 0d - Vector Space]]", "[[Chp 0e - Eigenvalues and eigenvectors]]", "[[chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Invertible matrix theorem]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Algèbre linéaire de 2e année : systèmes, matrices, espaces vectoriels, valeurs propres, orthogonalité, formes quadratiques et SVD. Les 8 notes sont intégrées.
@@ -23,13 +23,16 @@ Les chapitres 0a à 0e posent les bases et chacun réutilise le précédent. Le 
 
 ## Concepts
 
-- **Systèmes et vecteurs** : [[Système linéaire]], [[Forme échelonnée]], [[Combinaison linéaire]], [[Espace engendré]], [[Indépendance linéaire]]
-- **Matrices** : [[Produit matriciel]], [[Transposée]], [[Matrice inversible]], [[Déterminant]], [[Rang d'une matrice]], [[Matrice symétrique]], [[Matrice orthogonale]]
-- **Espaces** : [[Espace vectoriel]], [[Sous-espace vectoriel]], [[Sous-espaces fondamentaux]], [[Espace des colonnes]], [[Espace nul]], [[Base (algèbre linéaire)]], [[Dimension (algèbre linéaire)]]
-- **Transformations** : [[Transformation linéaire]], [[Injectivité et surjectivité]]
-- **Valeurs propres** : [[Valeur propre]], [[Vecteur propre]], [[Espace propre]], [[Diagonalisation]], [[Décomposition en valeurs singulières]]
-- **Orthogonalité** : [[Produit scalaire]], [[Norme]], [[Orthogonalité]], [[Complément orthogonal]], [[Famille orthogonale]], [[Projection orthogonale]], [[Procédé de Gram-Schmidt]], [[Factorisation QR]], [[Moindres carrés]], [[Régression linéaire]]
-- **Formes** : [[Forme bilinéaire]], [[Forme quadratique]]
+- **Systèmes et vecteurs (0a)** : [[Système linéaire]], [[Système linéaire homogène]], [[Matrice augmentée]], [[Opérations élémentaires sur les lignes]], [[Forme échelonnée]], [[Variable libre]], [[Combinaison linéaire]], [[Espace engendré]], [[Indépendance linéaire]]
+- **Transformations (0a)** : [[Transformation linéaire]], [[Transformations géométriques du plan]], [[Injectivité et surjectivité]]
+- **Matrices (0b)** : [[Produit matriciel]], [[Matrice diagonale]], [[Transposée]], [[Matrice inversible]], [[Théorème de la matrice inversible]]
+- **Déterminants (0c)** : [[Déterminant]], [[Matrice triangulaire]], [[Comatrice]], [[Règle de Cramer]]
+- **Espaces (0d)** : [[Espace vectoriel]], [[Sous-espace vectoriel]], [[Sous-espaces fondamentaux]], [[Espace des colonnes]], [[Espace nul]], [[Base (algèbre linéaire)]], [[Dimension (algèbre linéaire)]], [[Rang d'une matrice]]
+- **Valeurs propres (0e)** : [[Valeur propre]], [[Vecteur propre]], [[Équation caractéristique]], [[Multiplicité d'une valeur propre]], [[Espace propre]], [[Diagonalisation]], [[Récurrence]]
+- **Orthogonalité (chapitre 1)** : [[Produit scalaire]], [[Norme]], [[Vecteur unitaire]], [[Distance]], [[Orthogonalité]], [[Théorème de Pythagore]], [[Complément orthogonal]], [[Famille orthogonale]], [[Matrice orthogonale]], [[Projection orthogonale]], [[Procédé de Gram-Schmidt]], [[Factorisation QR]], [[Moindres carrés]], [[Régression linéaire]]
+- **Matrices symétriques (chapitre 2)** : [[Matrice symétrique]], [[Théorème spectral]], [[Décomposition spectrale]], [[Développement colonnes-lignes]], [[Corps (algèbre)]]
+- **Formes (chapitre 2)** : [[Forme linéaire]], [[Forme bilinéaire]], [[Forme quadratique]], [[Forme quadratique définie positive]], [[Théorème des axes principaux]], [[Optimisation sous contrainte]]
+- **SVD (chapitre 2)** : [[Décomposition en valeurs singulières]], [[Conditionnement d'une matrice]]
 
 ## À revoir en priorité avant un examen
 
@@ -46,3 +49,5 @@ Repérés dans les cours, à approfondir quand ces matières seront intégrées 
 - **Year 3, Data analysis** : [[Cours 10 - linear regression]] et [[Cours 11 - Multiple Linear Regression and F-statistic]] reprennent la [[Régression linéaire]] et les [[Moindres carrés]]. Une figure de [[Cours 13 - Principal Components Analysis]] projette orthogonalement un point sur une composante.
 - **Year 2, [[Year 2 - Analyse dans Rn]]** : [[Chp 2 - éléments de topologie dans Rn]] définit la [[Norme]] en général, alors que ce cours utilise celle qui vient du produit scalaire. La [[Matrice jacobienne]] y représente une [[Transformation linéaire]], et le [[Gradient]] s'y lit par un [[Produit scalaire]].
 - **Year 1, [[Year 1 - Algèbre Linéaire]]** : mêmes notions en français, centrées sur les applications linéaires. La plupart des concepts sont communs aux deux matières.
+- **Year 3, [[Year 3 - Data analysis (Thanos)]]** : l'ACP s'appuie sur la [[Décomposition en valeurs singulières]], la [[Matrice symétrique]], la [[Matrice orthogonale]] et le [[Théorème de Pythagore]] (aussi en [[Year 3 - Statistics]]).
+- **Year 4, [[Year 4 - data mining]]** : des fonctions de [[Distance]] y sont proposées pour calculer l'inertie en clustering.

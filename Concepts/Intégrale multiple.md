@@ -1,6 +1,6 @@
 ---
 type: concept
-aliases: [intégrale double, intégrales doubles, intégrales multiples, théorème de Fubini, Fubini]
+aliases: [intégrale double, intégrales doubles, intégrales multiples, théorème de Fubini, Fubini, intégrale double sur un pavé, "aire d'une figure"]
 matieres: [Analyse]
 sources: ["[[raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples]]"]
 maj: 2026-11-06
@@ -15,9 +15,9 @@ Une intégrale multiple étend l'[[Intégrale]] d'une variable à une fonction d
 
 ## Calcul
 
-- **Fubini** : pour $f$ continue sur un pavé, on intègre dans l'ordre que l'on veut, et le résultat est le même.
+- **Fubini** : pour $f$ continue sur un pavé $P = [a,b]\times[c,d]$, $\iint_P f\,dx\,dy = \int_c^d\left(\int_a^b f\,dx\right)dy = \int_a^b\left(\int_c^d f\,dy\right)dx$ : on intègre dans l'ordre qui arrange, et le résultat est le même.
 - Sur un compact élémentaire, l'ordre est imposé par la description du domaine : les bornes de l'intégrale intérieure dépendent de la variable extérieure. Pour un type 1, on intègre en $y$ puis en $x$.
-- L'aire d'un domaine est $\iint_D 1\,dx\,dy$.
+- L'aire d'une figure $D$ est $A(D) = \iint_D 1\,dx\,dy$.
 
 ## Changement de variable
 
@@ -26,4 +26,10 @@ Pour une bijection $\varphi$ de $\Delta$ sur $D$ : $\iint_D f\,dx\,dy = \iint_\D
 - Polaires (disques, cercles) : $x = r\cos\theta$, $y = r\sin\theta$.
 - Elliptiques : $x = ar\cos\theta$, $y = br\sin\theta$, jacobien $abr$.
 
-Voir aussi [[Dérivée partielle]], [[Difféomorphisme]], [[Year 2 - Analyse]].
+Notion parente : [[Intégrale]]. Voir aussi : [[Pavé]], [[Compact élémentaire]], [[Coordonnées polaires]], [[Coordonnées elliptiques]], [[Matrice jacobienne]], [[Dérivée partielle]], [[Difféomorphisme]], [[Year 2 - Analyse]].
+
+## À vérifier
+
+- Seules les intégrales doubles figurent dans ces notes manuscrites, et le jacobien polaire ($r$) n'y est pas écrit.
+
+Résumé : [[Chp9-intégrales multiples (résumé)]]

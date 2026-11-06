@@ -3,7 +3,7 @@ type: concept
 aliases: [PCB, process control block, Process Control Block, bloc de contrôle de processus]
 matieres: [Operating System]
 sources: ["[[OS - chp7]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Structure de données qui stocke l'essentiel sur un [[Processus]] : de quoi sauvegarder puis restaurer son état. Chaque processus a son PCB, mis à jour à chaque changement d'état.
@@ -11,8 +11,8 @@ Structure de données qui stocke l'essentiel sur un [[Processus]] : de quoi sauv
 Contenu cité par le cours :
 - état du processus (running, waiting…) ;
 - numéro du processus ;
-- compteur ordinal (*program counter*) : prochaine instruction à exécuter ;
-- registres du CPU (variables temporaires, données intermédiaires) ;
+- compteur ordinal (*program counter*, [[Compteur de programme]]) : prochaine instruction à exécuter ;
+- registres du CPU ([[Registre du processeur]] : variables temporaires, données intermédiaires) ;
 - informations d'ordonnancement : priorités, pointeur de file ;
 - gestion mémoire : mémoire allouée, limites ;
 - état des E/S : périphériques alloués, fichiers ouverts ;
@@ -20,6 +20,6 @@ Contenu cité par le cours :
 
 Le contexte d'un processus est représenté dans son PCB : c'est lui que le [[Changement de contexte]] sauvegarde et recharge.
 
-Liens : [[Processus]], [[États d'un processus]], [[Changement de contexte]]
+Notion parente : [[Processus]]. Liens : [[États d'un processus]], [[Changement de contexte]], [[Compteur de programme]], [[Registre du processeur]]
 
 Résumé : [[OS - chp7 (résumé)]]

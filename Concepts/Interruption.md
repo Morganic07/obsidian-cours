@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [interrupt, interrupts, interruption matérielle, ISR, interrupt service routine, vecteur d'interruption]
+aliases: [interrupt, interrupts, interruption matérielle, ISR, interrupt service routine, vecteur d'interruption, interrupt request]
 matieres: [Operating System]
 sources: ["[[OS - chp 1]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Signal envoyé par le matériel au CPU, qui force le processeur à suspendre ce qu'il fait pour traiter un événement urgent. Un contrôleur de périphérique en émet une quand une opération d'entrée/sortie est terminée : le CPU peut ainsi faire autre chose pendant l'attente.
@@ -19,6 +19,6 @@ Exemple du cours : l'imprimante interrompt le CPU, puis une seconde interruption
 
 Un [[Appel système]] est aussi un moyen de déclencher une interruption, côté logiciel. Pour accéder à la mémoire sans solliciter le CPU, un périphérique peut utiliser le **DMA** (Direct Memory Access).
 
-Liens : [[Appel système]], [[Changement de contexte]], [[Hiérarchie de stockage]]
+Voir aussi : [[Appel système]], [[Contrôleur de périphérique]], [[Bus système]], [[Changement de contexte]], [[Hiérarchie de stockage]].
 
 Résumé : [[OS - chp 1 (résumé)]]

@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [gradients]
+aliases: [gradients, nabla, vecteur gradient]
 matieres: [Analyse dans Rn]
 sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Pour $f : U \subset \mathbb{R}^p \to \mathbb{R}$ différentiable en $a$, $\vec{\nabla}_af$ est le vecteur de ses dérivées partielles, soit la transposée de sa [[Matrice jacobienne]]. La différentielle s'en déduit par un [[Produit scalaire]] : $D_af(h) = \vec{\nabla}_af \cdot h$.
@@ -14,6 +14,6 @@ Pour $f : U \subset \mathbb{R}^p \to \mathbb{R}$ différentiable en $a$, $\vec{\
 
 C'est la version à plusieurs variables de l'inégalité des accroissements finis de [[Dérivabilité]].
 
-Liens : [[Dérivée partielle]], [[Différentielle]], [[Matrice jacobienne]], [[Produit scalaire]], [[Application lipschitzienne]], [[Dérivabilité]]
+Notion parente : [[Différentielle]]. Voir aussi : [[Dérivée partielle]], [[Matrice jacobienne]], [[Produit scalaire]], [[Application lipschitzienne]], [[Dérivabilité]], [[Inégalité des accroissements finis]].
 
 Résumé : [[Chp 4 - Calcul différentiel du premier ordre (résumé)]]

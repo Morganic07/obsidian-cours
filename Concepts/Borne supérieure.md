@@ -1,8 +1,8 @@
 ---
 type: concept
 aliases: [borne supérieure, borne inférieure, bornes supérieure et inférieure, propriété de la borne supérieure, supremum, infimum, least upper bound]
-matieres: [Analyse Maths]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]"]
+matieres: [Analyse Maths, Outil Maths]
+sources: ["[[raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]", "[[raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides]]", "[[raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé]]", "[[Chapitre 3 - Relation binaire]]", "[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire]]"]
 maj: 2026-11-06
 ---
 
@@ -32,5 +32,16 @@ Pour prouver un $\sup$ dans un exercice : vérifier que $s$ est un majorant, pui
 - $\sup(A \cdot B) = \sup A \cdot \sup B$ est faux en général : il faut des ensembles de positifs.
 - Si $x \le y$ pour tout $x \in A$ et $y \in B$, alors $\sup A \le \inf B$.
 - Une suite croissante majorée converge vers $\sup\{u_n\}$ : voir [[Suite numérique]].
+- $\inf \sqrt A = \sqrt{\inf A}$.
 
-Résumés : [[Chap1-reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]].
+## Dans un ensemble ordonné quelconque (Outil Maths)
+
+Pour un ordre $\preceq$, $\sup(A)$ est le plus petit des majorants : $\forall y \in A,\ y \preceq \sup(A)$, et $\sup(A) \preceq z$ pour tout majorant $z$. Symétriquement, $\inf(A)$ est le plus grand des minorants. Exemple : $]1, +\infty[$ a pour borne inférieure 1 et pas de borne supérieure dans $(\mathbb{R}, \leq)$.
+
+Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[Plus grand élément]], [[Ensembles de nombres]], [[Théorème des valeurs intermédiaires]].
+
+## À vérifier
+
+DS1 2022 ex. 6 : coquilles de l'énoncé ($x \in A$ au lieu de $a \in A$, $\sup(A+B)$ au lieu de $\sup(A+x)$).
+
+Résumés : [[Chap1-reels (résumé)]], [[AnalyseID1 (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]], [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]].

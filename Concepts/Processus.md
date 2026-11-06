@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [processes, processus en cours, parent process, child process]
+aliases: [processes, processus en cours, parent process, child process, program in execution, programme en exécution]
 matieres: [Operating System]
 sources: ["[[OS - chp7]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Un processus est un programme en cours d'exécution. Le programme est un fichier exécutable passif, stocké sur le disque ; il devient processus quand il est chargé en mémoire. Un programme peut donner plusieurs processus (Chrome : un processus par onglet). Chaque processus a un identifiant unique, le **PID**.
@@ -18,6 +18,6 @@ Un processus exécute ses instructions l'une après l'autre : un seul flux (le t
 
 **Mobile** : les premières versions d'iOS n'autorisaient qu'un processus au premier plan ; Android exécute premier plan et arrière-plan, ce dernier via un *service* sans interface.
 
-Liens : [[États d'un processus]], [[Bloc de contrôle de processus]], [[Ordonnancement des processus]], [[Changement de contexte]], [[Création et terminaison de processus]], [[Processus zombie et orphelin]]
+Liens : [[États d'un processus]], [[Bloc de contrôle de processus]], [[Ordonnancement des processus]], [[Changement de contexte]], [[Création et terminaison de processus]], [[Processus zombie et orphelin]], [[Espace mémoire d'un processus]], [[Thread]]
 
-Résumé : [[OS - chp7 (résumé)]]
+Résumés : [[OS - chp7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[TP4-Unix Commands (résumé)]]

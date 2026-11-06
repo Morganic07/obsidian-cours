@@ -17,7 +17,10 @@ Sémiotique de 3e année : « Analyser les dispositifs numériques », analyse t
 
 ## Concepts
 
-[[Sémiotique]], [[Analyse techno-sémiotique]], [[Écrit d'écran]], [[Architexte]], [[Discours d'escorte]], [[Imaginaire]]
+- **Introduction (cours 1)** : [[Sémiotique]], [[Sémiologie]], [[Analyse techno-sémiotique]], [[Non-neutralité des objets techniques]], [[Images opératives]], [[Entrepreneur de soi]], [[Savoirs situés]], [[Conception centrée utilisateur]], [[Design centré vivant]], [[Moodboard]]
+- **La technologie, c'est de l'humain (cours 2)** : [[Écrit d'écran]], [[Numérique comme écriture]], [[Quatre cadres de l'écrit d'écran]], [[Machine textuelle]], [[Littératie numérique]], [[Discours d'escorte]], [[Imaginaire]], [[Corps communicant]], [[Techniques du corps]], [[Saillance et normalisation]], [[Externalisation des facultés]], [[Hypomnémata]], [[Traces numériques]], [[Travail invisible des utilisateurs]], [[Ergonomie]], [[Utilisabilité]], [[Expérience utilisateur]], [[Analyse de corpus]]
+- **Les écrans, ce sont des médias (cours 3)** : [[Dispositif (communication)]], [[Médiation]], [[Affordance]], [[Efficacité symbolique]], [[Genre communicationnel]], [[Temps des écrans]], [[Impératif de productivité]]
+- **Le formatage, c'est du pouvoir (cours 4)** : [[Architexte]], [[Désenfouissement du code]], [[Assemblages préfabriqués]], [[Novlangue du digital]], [[Logique du marché]], [[Économie des données]]
 
 ## Méthode
 
@@ -32,4 +35,6 @@ La numérotation des notes change entre les cours 1 et 4 (les notes 3 et 4 devie
 - [[Year 3 - Affordance]] : approche ergonomique et UX des interfaces.
 - [[Year 3 - Culture du vivant]] : le vivant comme thème d'étude.
 - [[Year 4 - culture du soin]] : le design comme dispositif de normalisation.
-- [[Year 3 - SHS]] : l'imaginaire de la mobilité du futur.
+- [[Year 3 - SHS]] : l'imaginaire de la mobilité du futur ; [[Moodboard]] et [[Sémiotique]] y servent aussi.
+- [[Year 1 - Corps à l'oeuvre]] : première approche de l'[[Affordance]] et de l'[[Expérience utilisateur]].
+- [[Year 3 - Projet courts]] : [[Conception centrée utilisateur]], nommée dans le brief « santé au travail ».

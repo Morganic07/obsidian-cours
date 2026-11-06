@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [Master Theorem, master theorem, théorème de résolution de la récurrence, méthode de substitution, diviser pour régner, complexité au meilleur, complexité en moyenne, règles de la notation O, complexité d'un algorithme récursif]
-matieres: [Algo]
-sources: ["[[Chp1 - récursivité et complexité]]", "[[AVL momo]]", "[[qui dit quoi AVL]]"]
-maj: 2026-11-05
+aliases: [Master Theorem, master theorem, théorème de résolution de la récurrence, méthode de substitution, complexité au meilleur, complexité en moyenne, règles de la notation O, complexité d'un algorithme récursif]
+matieres: [Algo, graph theory]
+sources: ["[[Chp1 - récursivité et complexité]]", "[[AVL momo]]", "[[qui dit quoi AVL]]", "[[chp3 - complexité]]"]
+maj: 2026-11-06
 ---
 
 Page du cours d'Algo de deuxième année sur le calcul de la complexité. La notion générale est dans [[Complexité algorithmique]] (cours de théorie des graphes), la comparaison des ordres de grandeur dans [[Comparaison asymptotique]].
@@ -18,10 +18,17 @@ Page du cours d'Algo de deuxième année sur le calcul de la complexité. La not
 
 **Fonction récursive** : le coût est celui des appels, plus celui qui sépare les données et reconstruit le résultat.
 - Substitution : $T(n) = T(n-1) + b$ donne $O(n)$.
-- Forme diviser pour régner : $T(n) = a\,T(n/b) + f(n)$ avec $f(n) = c\,n^k$. On a $O(n^{\log_b a})$ si $a > b^k$, $O(n^k \log_b n)$ si $a = b^k$, $O(n^k)$ si $a < b^k$.
+- Forme [[Diviser pour régner|diviser pour régner]] (Master Theorem) : $T(n) = a\,T(n/b) + f(n)$ avec $f(n) = c\,n^k$. On a $O(n^{\log_b a})$ si $a > b^k$, $O(n^k \log_b n)$ si $a = b^k$, $O(n^k)$ si $a < b^k$.
+
+**En théorie des graphes** (quatrième année) : la complexité d'un algorithme récursif est une suite définie par récurrence. Factorielle récursive : $T(n) = T(n-1) + 3$, donc $3n + 1$, en $\Theta(n)$. [[Tours de Hanoï]] : $T(n) = 2T(n-1) + 1$, $T(1) = 1$, donc $\sum_{k=0}^{n-1} 2^k$, en $\Theta(2^n)$.
 
 **Arbres AVL** : `ajouter` coûte $O(h)$, et la hauteur $h$ est en $O(\log n)$ si l'arbre est équilibré.
 
-Liens : [[Récursivité]], [[Recherche dichotomique]], [[Arbre AVL]], [[Complexité algorithmique]]
+Notion parente : [[Complexité algorithmique]]. Voir aussi : [[Récursivité]], [[Recherche dichotomique]], [[Diviser pour régner]], [[Tours de Hanoï]], [[Arbre AVL]]
 
-Résumés : [[Chp1 - récursivité et complexité (résumé)]], [[AVL momo (résumé)]]
+## À vérifier
+
+- Le Master Theorem est donné sans preuve, et seulement pour $f(n) = c\,n^k$.
+- Substitution : le cas de base est $T(0) = c$, mais la dernière ligne s'arrête sur $T(1)$ (résumé, point 1).
+
+Résumés : [[Chp1 - récursivité et complexité (résumé)]], [[AVL momo (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]], [[chp3 - complexité (résumé)]]

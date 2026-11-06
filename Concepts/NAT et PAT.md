@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [NAT, PAT, static NAT, NAT overload, Network Address Translation, adresses privées, RFC 1918, inside local, inside global]
+aliases: [NAT, PAT, static NAT, NAT overload, Network Address Translation, adresses privées, RFC 1918, inside local, inside global, outside local, outside global, Port Address Translation, ip nat inside, ip nat outside, show ip nat translations]
 matieres: [Computer Network]
 sources: ["[[Chp5 - NAT ／ PAT]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 IPv4 n'offre qu'environ 4,2 milliards d'adresses. À court terme : CIDR, adresses privées et NAT. Les plages privées (RFC 1918) sont 10.0.0.0/8, 172.16.0.0/12 et 192.168.0.0/16 : elles n'ont pas à être uniques et ne passent pas sur Internet.
@@ -16,9 +16,17 @@ IPv4 n'offre qu'environ 4,2 milliards d'adresses. À court terme : CIDR, adresse
 
 **PAT (NAT overload)** : traduit l'adresse et le port, ce qui permet à plusieurs hôtes de partager une adresse publique (plus de 65 000 ports). Configuration : une `access-list` qui désigne le trafic, puis `ip nat inside source list 1 interface g0/0 overload`.
 
-> [!warning] Écart dans le cours
-> Le cours écrit `overlead` au lieu de `overload`, et présente NAT comme un pare-feu. NAT n'est pas un mécanisme de sécurité (complément).
+Le PAT exploite les [[Numéro de port|numéros de port]]. À long terme, le cours renvoie la pénurie d'adresses à [[IPv6]].
 
-Liens : [[Liste de contrôle d'accès]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
+> [!warning] Écart dans le cours
+> Le cours écrit `overlead` au lieu de `overload`, et présente NAT comme un [[Pare-feu|pare-feu]]. NAT n'est pas un mécanisme de sécurité (complément).
+
+Liens : [[Liste de contrôle d'accès]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]], [[Numéro de port]], [[IPv6]], [[Pare-feu]]
+
+## À vérifier
+
+- [[Chp5 - NAT ／ PAT]] écrit `overlead` au lieu de `overload` (image 3).
+- Il écrit « 196.168.0.167 » au lieu de 192.168.0.167 (image 4).
+- Le prompt `R1(config)#ip nat outside` est donné au lieu de `R1(config-if)#`.
 
 Résumé : [[Chp5 - NAT ／ PAT (résumé)]]

@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]", "[[Cours/Year 1/Peinture/Cours/Cours 2|Cours 2 (Peinture)]]", "[[Cours/Year 1/Peinture/Cours/Cours 3|Cours 3 (Peinture)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
@@ -16,6 +16,12 @@ Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
 
 ## Concepts
 
-[[Cercle chromatique]], [[Contraste des couleurs]]
+- **Symbolique et perception des couleurs (cours 1 et 2)** : [[Symbolique des couleurs]], [[Cercle chromatique]], [[Contraste des couleurs]], [[Synesthésie]], [[Anthropocentrisme]]
+- **Mouvements et artistes cités** : [[Impressionnisme]], [[Fauvisme]], [[Surréalisme]], [[Bauhaus]], [[Art abstrait]], [[Expressionnisme abstrait]], [[Dripping]], [[Outrenoir]], [[Pop art]], [[Street art]]
+- **Fabriquer ses couleurs (cours 3)** : [[Liant et diluant]], [[Pigment]], [[Gouache]], [[Tempera]], [[Encaustique]]
 
 Les devoirs de cette matière sont volontairement absents du coffre.
+
+## Liens avec les autres matières
+
+- **[[Year 2 - Anglais]]** : [[Bauhaus]], [[Cercle chromatique]] et [[Art abstrait]] figurent au vocabulaire d'anglais (Global Exam).

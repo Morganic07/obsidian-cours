@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [Poisson distribution, Poisson random variable, variable de Poisson]
+aliases: [Poisson distribution, Poisson random variable, variable de Poisson, approximation de la binomiale par la loi de Poisson]
 matieres: [Probability, Statistics]
 sources: ["[[Chp 3 - Important discrete distributions]]", "[[Chp4 Part 1 - Inferential statistics]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Pour $\lambda > 0$, $P(X = i) = e^{-\lambda}\lambda^i/i!$ pour $i = 0, 1, \dots$ ; $E(X) = \mathrm{Var}(X) = \lambda$.
@@ -12,6 +12,10 @@ Elle approche la [[Loi binomiale]] $(n, p)$ quand $n \to \infty$, $p \to 0$ et $
 
 La somme de Poisson indépendantes de moyennes $\mu_i$ est une Poisson de moyenne $\sum \mu_i$. Pour $\mu$ grand, elle est approximée par une normale ([[Théorème central limite]]).
 
-Liens : [[Variable aléatoire]]
+Notion parente : [[Variable aléatoire]]. Voir aussi : [[Loi binomiale]], [[Stabilité des lois par somme]], [[Approximation normale]].
+
+## À vérifier
+
+- [[Chp 3 - Important discrete distributions]] utilise deux notations pour le paramètre, $\mu$ puis $\lambda$.
 
 Résumés : [[Chp 3 - Important discrete distributions (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]]

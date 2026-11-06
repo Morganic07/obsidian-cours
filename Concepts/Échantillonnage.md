@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [sampling, random sampling, échantillon aléatoire, simple random sample, stratified sampling, cluster sampling, systematic sampling, biais d'échantillonnage, sampling bias, iid, independent and identically distributed, variables iid]
-matieres: [Statistics]
+aliases: [sampling, random sampling, échantillon aléatoire, simple random sample, stratified sampling, cluster sampling, systematic sampling, biais d'échantillonnage, sampling bias, iid, independent and identically distributed, variables iid, convenience sampling, échantillon de convenance, échantillonnage de convenance]
+matieres: [Statistics, Data analysis (Thanos)]
 sources: ["[[Chp1 - Intro to statistics]]", "[[Chp3 - More on probability]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Un échantillon est une partie de la population, tirée pour estimer un paramètre par une statistique.
@@ -16,6 +16,8 @@ Un échantillon est une partie de la population, tirée pour estimer un paramèt
 
 **iid** : des variables $X_1, \dots, X_n$ indépendantes et de même loi forment un échantillon aléatoire simple. Avec tirage sans remise, on les traite comme iid si $n/N \le 0{,}05$.
 
-Liens : [[Distribution d'échantillonnage]], [[Estimateur]]
+**Data analysis** : la stratification réduit la variabilité, donc la largeur d'un intervalle ([[Intervalle de confiance]]).
 
-Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Chp3 - More on probability (résumé)]]
+Liens : [[Population et échantillon]], [[Erreur d'échantillonnage]], [[Tirage avec et sans remise]], [[Distribution d'échantillonnage]], [[Estimateur]]
+
+Résumés : [[Chp1 - Intro to statistics (résumé)]], [[Chp3 - More on probability (résumé)]], [[Cours 4 - Estimation (résumé)]]

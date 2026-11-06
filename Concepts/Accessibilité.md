@@ -1,0 +1,19 @@
+---
+type: concept
+aliases: [accessibility]
+matieres: [Anglais, culture du soin]
+sources: ["[[Global Exam Vocab]]", "[[raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1]]"]
+maj: 2026-11-06
+---
+
+**Accessibility** (glossaire d'anglais) : capacité d'une entité à être utilisable par tous les utilisateurs, quels que soient leur handicap ou leurs connaissances.
+
+**Culture du soin** : nommée sans définition, avec le handicap, parmi ce que le HCD prend en charge.
+
+Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Ergonomie]], [[Conception centrée sur l'humain]].
+
+## À vérifier
+
+Mot courant, sans doute présent dans d'autres cours de design : vérifier les liens créés après reconversion.
+
+Résumés : [[Global Exam Vocab (résumé)]], [[Culture du soin Seance 1 (résumé)]]

@@ -1,8 +1,8 @@
 ---
 type: concept
-aliases: [image réciproque, images réciproques, antécédent, antécédents, image directe, preimage, inverse image]
+aliases: [image réciproque, images réciproques, antécédent, antécédents, image directe, preimage, inverse image, "image d'une partie", ensemble image]
 matieres: [Outil Maths]
-sources: ["[[Chapitre4-Fonctions (1) (résumé)]]", "[[TD4Applications-Solutions (résumé)]]"]
+sources: ["[[raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1)]]", "[[raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
 maj: 2026-11-06
 ---
 
@@ -30,3 +30,13 @@ Les propriétés d'injectivité et de surjectivité sont dans [[Injectivité et 
 ## Exemple
 
 Pour $f(x) = x^2$ sur $\mathbb{R}$ : $f([-2, 1]) = [0, 4]$ et $f^{-1}([0, 4]) = [-2, 2]$. Les deux ensembles ne sont pas égaux, ce qui illustre $A \subsetneq f^{-1}(f(A))$ quand $f$ n'est pas injective.
+
+Le DS2 d'Outils math (9 déc. 2022) porte sur l'image réciproque d'une intersection et sur $A \subset f^{-1}(f(A))$, avec égalité si et seulement si $f$ est injective ([[Contrôles (résumé)]]).
+
+Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Injectivité et surjectivité]], [[Double inclusion]].
+
+## À vérifier
+
+- Erreurs du corrigé TD4 relevées par [[TD4Applications-Solutions (résumé)]] : ex. 5, $f_2^{-1}(]-1,1[)$ (réponse juste : $\mathbb{R} \setminus (\pi/2 + \pi\mathbb{Z})$) ; ex. 9, bornes de $f([0,2[)$ et $f(]2,4])$ ; ex. 19, $f^{-1}(i\mathbb{R}) = i\mathbb{R}^*$.
+
+Résumés : [[Chapitre4-Fonctions (1) (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]

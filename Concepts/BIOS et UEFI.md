@@ -1,16 +1,16 @@
 ---
 type: concept
-aliases: [BIOS, UEFI, MBR, master boot record, POST, power-on self-test, bootstrap program, firmware]
+aliases: [BIOS, UEFI, Basic Input Output System, Unified Extensible Firmware Interface, POST, power-on self-test, bootstrap program, firmware]
 matieres: [Operating System]
 sources: ["[[OS - chp 1]]", "[[OS - chp 2]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
-Le *firmware* (BIOS ou UEFI) est le premier programme lancé au démarrage. Il est stocké en mémoire morte sur la carte mère. Étapes du BIOS : **POST** (test de l'alimentation, de la RAM et du matériel), puis localisation du système sur le disque et chargement en RAM.
+Le programme d'amorçage (*bootstrap program*, *firmware* : BIOS ou UEFI) est le premier programme lancé au démarrage. Le BIOS est stocké en [[Mémoire morte|mémoire morte]] (ROM) sur une puce de la carte mère. Étapes du BIOS : **POST** (test de l'alimentation, de la RAM et du matériel), puis localisation du système sur le disque et chargement en RAM.
 
-**MBR** (*master boot record*) : situé sur le disque, il indique sur quelle partition se trouve le système et gère les partitions. Image du cours : le MBR est la table des matières, les partitions sont les chapitres, le système est le texte. S'il est corrompu, l'ordinateur ne trouve plus le système. Il n'y en a qu'un même avec plusieurs systèmes installés, indépendant de ceux-ci.
+Le système est trouvé grâce au [[MBR]] (*master boot record*), situé sur le disque, qui indique sur quelle partition il se trouve.
 
-**UEFI** : successeur plus récent du BIOS.
+**UEFI** : successeur plus récent du BIOS, avec une interface graphique, un démarrage plus rapide et plus sûr ([[Démarrage sécurisé]]), des disques plus grands, le réseau et l'administration à distance. Voir aussi [[Partition système EFI]].
 
 | | BIOS | UEFI |
 |---|---|---|
@@ -20,6 +20,10 @@ Le *firmware* (BIOS ou UEFI) est le premier programme lancé au démarrage. Il e
 | Réseau, administration à distance | non | oui |
 | Interface graphique | non | oui |
 
-Liens : [[Système de fichiers]], [[Interruption]]
+Liens : [[MBR]], [[Mémoire morte]], [[Démarrage sécurisé]], [[Partition système EFI]], [[Système de fichiers]], [[Interruption]]
+
+## À vérifier
+
+- Le chp 1 appelle le BIOS « le premier OS à se lancer » : le BIOS est un firmware, pas un OS.
 
 Résumé : [[OS - chp 2 (résumé)]], [[OS - chp 1 (résumé)]]

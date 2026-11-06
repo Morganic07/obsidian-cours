@@ -1,7 +1,7 @@
 ---
 type: matiere
 sources: ["[[Cours/Year 2/Corps à l'oeuvre/Dernier cours|Dernier cours (Corps à l'oeuvre)]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Corps à l'oeuvre de 2e année. Une seule note, le dernier cours.
@@ -14,7 +14,10 @@ Corps à l'oeuvre de 2e année. Une seule note, le dernier cours.
 
 ## Concepts
 
-Aucun propre ; voir [[Affordance]] en 1re année.
+- **Design et intention** : [[Geste]], [[Biais du designer]], [[Mécanique de succès et d'échec]]
+- **Émotions et corps** : [[Émotion et sentiment]], [[Posture et sentiment]], [[Mécanique du stress]], [[Système nerveux sympathique et parasympathique]]
+
+Voir aussi [[Affordance]] en 1re année.
 
 ## À revoir en priorité
 

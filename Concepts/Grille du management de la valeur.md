@@ -2,8 +2,8 @@
 type: concept
 aliases: [management de la valeur, grille à qui à quoi, avec qui par qui pour qui]
 matieres: [management de l'innovationb]
-sources: ["[[Analyse d'innovations (résumé)]]"]
-maj: 2026-11-05
+sources: ["[[Analyse d'innovations (résumé)]]", "[[raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|Management de l'innovation - 2026 09 30]]"]
+maj: 2026-11-06
 ---
 
 Grille d'analyse d'une innovation, telle qu'elle apparaît dans le devoir (la note ne reprend pas la définition du cours).
@@ -12,6 +12,10 @@ Grille d'analyse d'une innovation, telle qu'elle apparaît dans le devoir (la no
 
 **Version 2, tableau d'acteurs** : avec qui (partenaires), par qui (ceux qui portent le changement en interne), pour qui (bénéficiaires). Appliquée à Michelin Fleet Solutions.
 
-La définition du cours se trouve dans [[Value(s) Design]].
+Le diaporama du 30 septembre 2026 pose ces mêmes questions pour la séance suivante : comment l'innovation est-elle managée, par qui, pour qui, avec qui ? ([[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)]]).
 
-Voir [[Servitisation]], [[Typologie des innovations]], [[Analyse d'innovations (résumé)]].
+Notion parente : [[Value(s) Design]], où se trouve la définition du cours.
+
+Voir [[Servitisation]], [[Typologie des innovations]].
+
+Résumés : [[Analyse d'innovations (résumé)]], [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)]]

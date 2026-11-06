@@ -1,9 +1,9 @@
 ---
 type: concept
-aliases: [basis, bases, base]
+aliases: [basis, bases, base, standard basis, base standard, base canonique]
 matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]"]
-maj: 2026-11-05
+sources: ["[[Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+maj: 2026-11-06
 ---
 
 Une base d'un sous-espace $H$ est un ensemble de vecteurs linéairement indépendants de $H$ qui engendre $H$.
@@ -16,7 +16,14 @@ Une base d'un sous-espace $H$ est un ensemble de vecteurs linéairement indépen
 - **Théorème de la base incomplète** : toute famille libre peut être complétée en une base.
 - $n$ vecteurs forment une base si et seulement si le déterminant de la matrice de leurs composantes est non nul.
 - Une application bijective envoie une base sur une base.
+- En Algèbre Linéaire (1re année), une base est une famille libre et génératrice ; en dimension $n$, toute base a $n$ vecteurs, et une famille libre ou génératrice de $n$ vecteurs est une base.
 
-Liens : [[Indépendance linéaire]], [[Espace engendré]], [[Dimension (algèbre linéaire)]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Changement de base]], [[Déterminant]]
+Les évaluations 2 et 3 de 1re année portent sur une base de $\mathbb{R}^3$, des bases de sous-espaces et les coordonnées dans une base de $\mathbb{R}^3$ ([[Contrôles (résumé)]]).
 
-Résumés : [[Chp 0d - Vector Space (résumé)]], [[chp 1 - Orthogonality (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp1 (résumé)|chp1 (résumé)]]
+Notion parente : [[Espace vectoriel]] (base d'un [[Sous-espace vectoriel]]). Liens : [[Indépendance linéaire]], [[Espace engendré]], [[Dimension (algèbre linéaire)]], [[Théorème de la base incomplète]], [[Coordonnées dans une base]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Changement de base]], [[Déterminant]]
+
+## À vérifier
+
+« Base canonique » n'est pas dans le cours (alias facultatif).
+
+Résumés : [[Chp 0d - Vector Space (résumé)]], [[chp 1 - Orthogonality (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp1 (résumé)|chp1 (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp2 (résumé)|chp2 (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp5 (résumé)|chp5 (résumé)]], [[Sources/Year 1/Algèbre Linéaire/chp6 (résumé)|chp6 (résumé)]], [[Contrôles (résumé)]]

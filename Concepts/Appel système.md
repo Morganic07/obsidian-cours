@@ -3,7 +3,7 @@ type: concept
 aliases: [system call, system calls, appels système, syscall]
 matieres: [Operating System]
 sources: ["[[OS - chp 1]]", "[[OS - chp7]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Méthode par laquelle un logiciel déclenche une [[Interruption]] du CPU pour lui demander une action précise, réservée au système.
@@ -12,4 +12,6 @@ Dans le chapitre sur les processus, les appels système cités sont `fork()` (cr
 
 Liens : [[Interruption]], [[Création et terminaison de processus]], [[Changement de contexte]]
 
-Résumé : [[OS - chp 1 (résumé)]], [[OS - chp7 (résumé)]]
+Notion parente : [[Interruption]].
+
+Résumés : [[OS - chp 1 (résumé)]], [[OS - chp7 (résumé)]], [[TP6-Assignment (résumé)]]
