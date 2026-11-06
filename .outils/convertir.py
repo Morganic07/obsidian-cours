@@ -279,7 +279,12 @@ def convertir_doc(source, relatif, coffre, concepts, textes):
     texte = entete + corps.strip() + "\n"
 
     note.parent.mkdir(parents=True, exist_ok=True)
-    if not note.exists() or note.read_text(encoding="utf-8") != texte:
+    etat = None
+    if not note.exists():
+        etat = "nouvelle"
+    elif note.read_text(encoding="utf-8") != texte:
+        etat = "modifiée"
+    if etat:
         note.write_text(texte, encoding="utf-8")
     if contenu_dossier(medias) != nouveaux:
         shutil.rmtree(medias, ignore_errors=True)
@@ -287,7 +292,7 @@ def convertir_doc(source, relatif, coffre, concepts, textes):
             medias.mkdir(parents=True)
             for nom, octets in nouveaux.items():
                 (medias / nom).write_bytes(octets)
-    return note, empreintes
+    return note, empreintes, etat
 
 
 def retirer_dossiers_vides(dossier, limite):
@@ -341,7 +346,7 @@ def main(argv=None):
     textes = {f.stem: f.read_text(encoding="utf-8") for f in dossier_tr.glob("*.md")}
     concepts = charger_concepts(coffre / "Concepts") if (coffre / "Concepts").is_dir() else []
 
-    notes, a_transcrire, echecs = {}, {}, []
+    notes, a_transcrire, echecs, changees = {}, {}, [], []
     reussies = 0
     for source in sources:
         relatif = source.relative_to(args.miroir)
@@ -351,7 +356,9 @@ def main(argv=None):
             continue
         notes[cible] = relatif
         try:
-            _, empreintes = convertir_doc(source, relatif, coffre, concepts, textes)
+            note, empreintes, etat = convertir_doc(source, relatif, coffre, concepts, textes)
+            if etat:
+                changees.append((etat, note))
         except subprocess.CalledProcessError as erreur:
             echecs.append(f"{relatif} : {erreur.stderr.strip()}")
             continue
@@ -368,6 +375,8 @@ def main(argv=None):
 
     print(f"{reussies} notes à jour, {len(retirees)} retirées, "
           f"{len(a_transcrire)} images à transcrire, {len(concepts)} concepts")
+    for etat, note in changees:
+        print(f"{etat} : {note.relative_to(coffre)}")
     for note in retirees:
         print(f"retirée : {note.relative_to(coffre)}")
     for note in html:

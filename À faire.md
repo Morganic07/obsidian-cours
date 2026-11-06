@@ -5,7 +5,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 ## Prochaines étapes, dans l'ordre
 
 1. [x] Compléter les concepts avec les ajouts proposés par les lots
-2. [ ] Créer la commande `/maj-cours`
+2. [x] Créer la commande `/maj-cours` (reste à l'essayer avec un Doc modifié sur Drive)
 3. [ ] Contrôler le wiki (lint)
 4. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
 5. [ ] Envoyer sur GitHub

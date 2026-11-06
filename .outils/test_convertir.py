@@ -1,4 +1,6 @@
 import base64
+import contextlib
+import io
 import re
 import subprocess
 import tempfile
@@ -210,6 +212,21 @@ class TestBoutEnBout(unittest.TestCase):
         return convertir.main(
             ["--miroir", str(self.miroir), "--coffre", str(self.coffre), *options]
         )
+
+    def lancer_et_lire(self):
+        sortie = io.StringIO()
+        with contextlib.redirect_stdout(sortie):
+            self.assertEqual(self.lancer(), 0)
+        return sortie.getvalue()
+
+    def test_signale_les_notes_nouvelles_et_modifiees(self):
+        relative = "Cours/Year 2/Algebre/Chp 1 - Intro.md"
+        self.assertIn(f"nouvelle : {relative}", self.lancer_et_lire())
+        deuxieme = self.lancer_et_lire()
+        self.assertNotIn("nouvelle :", deuxieme)
+        self.assertNotIn("modifiée :", deuxieme)
+        self.note.write_text("version ancienne\n", encoding="utf-8")
+        self.assertIn(f"modifiée : {relative}", self.lancer_et_lire())
 
     def test_note_generee(self):
         self.assertEqual(self.lancer(), 0)
