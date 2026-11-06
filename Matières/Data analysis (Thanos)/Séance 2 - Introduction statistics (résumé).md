@@ -2,7 +2,8 @@
 type: source
 tags: [year3]
 sources: ["[[Cours 2 - Introduction statistics]]"]
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
 Résumé de [[Cours 2 - Introduction statistics]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
@@ -11,19 +12,30 @@ Résumé de [[Cours 2 - Introduction statistics]], dans [[Data analysis (Thanos)
 
 Note courte qui pose le vocabulaire : statistiques descriptives et inférentielles, paramètre et statistique, niveaux de mesure des données.
 
-## Contenu, dans l'ordre du cours
+## Statistiques descriptives et statistiques inférentielles
 
-- **Statistiques descriptives** : elles résument un échantillon de données numériques par des moyennes et d'autres mesures, comme la moyenne et l'écart-type.
-- **Inférence statistique** : utiliser des statistiques d'échantillon pour tirer des conclusions sur des paramètres de la population.
-- **Paramètre et statistique** : un paramètre décrit la population (la moyenne $\mu$), une statistique décrit l'échantillon (la moyenne d'échantillon $\bar{X}$).
-- **Types de données** :
+- **[[Statistique descriptive|Statistiques descriptives]]** (*descriptive statistics*) : les statistiques qui **résument** un **échantillon** de données numériques par des moyennes et d'autres mesures, dans un but de description, par exemple la **moyenne** et l'**[[Espérance et variance|écart-type]]** (*standard deviation*).
+- **[[Statistique inférentielle|Inférence statistique]]** (*statistical inference*) : le processus qui **utilise des statistiques d'échantillon** pour **tirer des conclusions** sur des **paramètres de la population**.
+
+### Paramètre et statistique
+
+Voir [[Paramètre et statistique]] et [[Population et échantillon]].
+
+- **Paramètre** ⇒ décrit la **population** (exemple : la moyenne $\mu$).
+- **Statistique** ⇒ décrit l'**échantillon** (exemple : la [[Moyenne empirique|moyenne d'échantillon]] $\bar{X}$).
+
+## Types de données
+
+Voir [[Type de variable statistique]].
 
 | Famille | Niveau | Propriété clé | Statistiques appropriées |
 |---|---|---|---|
-| Catégoriel (qualitatif) | Nominal | classification seule | mode, fréquences |
-| Catégoriel (qualitatif) | Ordinal | classification et ordre | médiane, en plus du mode |
-| Numérique (quantitatif) | Intervalle | ordre et écart significatif | moyenne, en plus de la médiane |
-| Numérique (quantitatif) | Ratio | écart et zéro absolu | toutes (moyenne, médiane, mode, coefficient de variation) |
+| Catégoriel / qualitatif (*categorical / qualitative*) | Nominal | classification uniquement | mode, fréquences |
+| Catégoriel / qualitatif | Ordinal | classification + ordre | médiane (en plus du mode) |
+| Numérique / quantitatif (*numerical / quantitative*) | Intervalle | ordre + écart significatif | moyenne (en plus de la médiane) |
+| Numérique / quantitatif | Ratio | écart + zéro absolu | toutes (moyenne, médiane, mode, [[Coefficient de variation|CV]]…) |
+
+Chaque niveau hérite des statistiques du niveau précédent et en ajoute une.
 
 ## Points à vérifier dans le cours
 

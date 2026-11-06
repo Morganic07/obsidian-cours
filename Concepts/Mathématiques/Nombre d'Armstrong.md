@@ -1,17 +1,21 @@
 ---
 type: concept
-tags: [year1, nomme]
+tags: [year1]
 aliases: ["nombres d'Armstrong"]
 sources: [".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 
-Nommé dans les contrôles de 1re année sans définition relevée : l'examen d'informatique de novembre 2022 demande d'écrire une fonction qui le teste ; la définition donnée par l'énoncé ne figure pas dans le résumé.
+Définition de l'examen d'informatique du 14 novembre 2022 (partie 2, pages 31-32 de `Contrôles.pdf`) : « Un nombre est considéré comme un nombre d'Armstrong s'il est égal à la somme des cubes des chiffres qui le composent. »
 
-Voir aussi : [[Fonction et procédure]].
+Exemple de l'énoncé : $153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27$.
+
+L'exercice demande d'écrire la fonction `armstrong(n : entier) : booléen`, qui teste cette propriété.
+
+Voir aussi : [[Fonction et procédure]], [[Nombre parfait]].
 
 ## À vérifier
 
-- PDF scanné : lire la définition sur l'image (pages 29 à 35) avant de compléter la page.
+- La définition usuelle élève chaque chiffre à une puissance égale au **nombre de chiffres** du nombre, pas toujours au cube ; les deux coïncident pour les nombres à trois chiffres, comme 153 (complément, hors du cours).
 
 Résumés : [[Contrôles (résumé)]]

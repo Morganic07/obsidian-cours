@@ -4,15 +4,37 @@ tags:
   - year3
 sources:
   - "[[readme|readme (ligue football)]]"
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
 Résumé de [[readme|readme]], dans [[Ligue football (matière)]]. Note très courte : un fichier de présentation de projet de base de données.
 
-Contenu du rendu décrit :
-- un rapport PDF : dictionnaire de données, MCD, MLD, schéma d'architecture, DDL (création des tables et jeu de données), DML (9 requêtes SQL) ;
-- `base.sql` (tables et `INSERT INTO`) et `requete.sql` (9 requêtes) ;
-- `app.py` : application en ligne de commande en Python (psycopg) avec 7 fonctions : classement des buteurs, capitaines par équipe, historique des matchs d'une saison, changement de capitaine (UPDATE), ajout d'un joueur (INSERT), suppression d'un joueur (DELETE), liste des joueurs ;
-- une vidéo de présentation.
+Il accompagne le rendu demandé par [[sujet database (résumé)]] ; le rapport est résumé dans [[Rapport du projet Ligue Football (résumé)]].
 
-Points d'attention notés : l'ajout exige un identifiant de joueur inédit ; la suppression ne marche que pour un joueur sans statistique, à cause de la clé étrangère.
+## Fichiers du rendu
+
+| Fichier | Contenu |
+|---|---|
+| `Ligue Football - Projet DATABASE ID3-B.pdf` | le rapport : dictionnaire de données, [[Modèle entité-association\|MCD]], [[Schéma relationnel\|MLD]], schéma d'architecture contextualisé, DDL (`CREATE TABLE` et insertion d'un jeu de données), DML (9 requêtes SQL représentatives) |
+| `base.sql` | création des tables et `INSERT INTO` du jeu de données initial ([[Langage SQL]]) |
+| `requete.sql` | les 9 requêtes représentatives |
+| `app.py` | toute l'application en Python, avec psycopg ([[ODBC et JDBC]]) |
+| `Presentation.mp4` | courte présentation du script Python |
+
+## L'application `app.py`
+
+Application en ligne de commande ([[Interface en ligne de commande]]) qui manipule les données par 7 fonctions :
+
+1. classement des meilleurs buteurs (`SELECT`) ;
+2. liste des capitaines de chaque équipe (`SELECT`) ;
+3. historique des matchs d'une saison (`SELECT`) ;
+4. changer le capitaine d'une équipe (`UPDATE`) ;
+5. ajouter un joueur (`INSERT INTO`) ;
+6. supprimer un joueur (`DELETE`) ;
+7. afficher tous les joueurs (`SELECT`).
+
+## Points d'attention signalés par le readme
+
+- **Ajout d'un joueur** : il ne faut pas saisir un identifiant de joueur qui existe déjà dans la table `PERSONNE` (l'identifiant du joueur est aussi celui de la personne, par héritage : [[Héritage en base de données]]).
+- **Suppression d'un joueur** : la fonction ne peut supprimer qu'un joueur « totalement neuf », jamais associé à une statistique dans `STATISTIQUE_JOUEUR_MATCH` ; sinon la [[Clé primaire et clé étrangère|clé étrangère]] empêche la suppression ([[Contrainte d'intégrité]]).

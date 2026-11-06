@@ -1,6 +1,4 @@
 {
   "alwaysUpdateLinks": true,
-  "userIgnoreFilters": [
-    "Cours/"
-  ]
+  "userIgnoreFilters": null
 }

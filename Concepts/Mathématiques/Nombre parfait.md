@@ -1,17 +1,19 @@
 ---
 type: concept
-tags: [year1, nomme]
+tags: [year1]
 aliases: [nombres parfaits]
 sources: [".raw/Year 1/Contrôles.pdf"]
 maj: 2026-11-06
 ---
 
-Nommé dans les contrôles de 1re année sans définition relevée : l'examen d'informatique de novembre 2022 demande d'écrire une fonction qui le teste, avec une fonction `divise` ; la définition de l'énoncé ne figure pas dans le résumé.
+Définition de l'examen d'informatique du 14 novembre 2022 (partie 2, pages 31-32 de `Contrôles.pdf`) : « Un nombre est dit parfait s'il est égal à la moitié de la somme de ses diviseurs. »
 
-Voir aussi : [[Fonction et procédure]].
+Exemple de l'énoncé : $6 = \frac{1 + 2 + 3 + 6}{2}$.
 
-## À vérifier
+Cela revient à dire que le nombre est égal à la somme de ses diviseurs autres que lui-même ($6 = 1 + 2 + 3$).
 
-- PDF scanné : lire la définition sur l'image (pages 29 à 35) avant de compléter la page.
+L'exercice fait d'abord écrire une fonction `divise(a, b)`, puis la fonction `parfait(n : entier) : booléen`.
+
+Voir aussi : [[Fonction et procédure]], [[Nombre d'Armstrong]].
 
 Résumés : [[Contrôles (résumé)]]

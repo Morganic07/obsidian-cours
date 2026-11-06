@@ -2,28 +2,335 @@
 type: source
 tags: [year3]
 sources: ["[[Chp1 - Intro Java]]"]
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
-Résumé de [[Chp1 - Intro Java]], dans [[Java (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Chp1 - Intro Java]], dans [[Java (matière)]]. En cas d'écart, le cours et ses images font foi. Voir [[Langage Java]].
 
 ## Idée générale
 
 Les bases du langage : variables, types, opérateurs, structures de contrôle, méthode `main`, compilation et tableaux.
 
-## Contenu, dans l'ordre du cours
+## 1. Variables
 
-- **Variables** : `<Type> <nom>;`, plusieurs noms séparés par des virgules. Un nom commence par une lettre, `_` ou `$`, n'est pas un mot-clé, et peut ensuite contenir lettres, chiffres, `_` ou `$`. Java est sensible à la casse. Une constante se déclare avec `final` et s'écrit en majuscules ; la modifier est une erreur de compilation.
-- **Types** : primitifs (`byte` 8 bits, `short` 16, `int` 32, `long` 64, `float` 32, `double` 64, `char` 16 en Unicode, `boolean`), types objets (définis par des classes et interfaces) et `void`.
-- **[[Portée d'une variable]]** : région délimitée par des accolades. Deux variables d'une même portée ne peuvent pas avoir le même nom. Exemple d'erreur : `x` déclarée dans un bloc `do { ... }` n'existe pas dans la condition du `while`.
-- **Opérations** : `print` et `println` ; comparaisons ; opérateurs booléens `&`, `|`, `^`, `&&`, `||`, `!` (voir [[Évaluation en court-circuit]]) ; caractères spéciaux `\n`, `\t`, `\r` ; `++` et `--`, où l'ordre compte (`y = ++x` donne `y = 11`, `y = x++` donne `y = 10` si `x` vaut 10).
-- **Associativité** : toutes les opérations binaires s'associent à gauche, sauf l'affectation. Les opérandes sont évalués de gauche à droite, ce qui compte avec les effets de bord : avec `a = 0`, `a + ++a` vaut 1 et `++a + a` vaut 2.
-- **Opérateur conditionnel** : `condition ? vrai : faux`.
-- **[[Transtypage]]** : implicite (automatique) si le type d'arrivée suffit, explicite (fait par le programmeur) sinon.
-- **Structures de contrôle** : `if` / `else`, `switch` (types `char`, `byte`, `short`, `int`, `default` optionnel), `while`, `do-while` (au moins une exécution), `for` (initialisation, condition, itération ; quand le nombre d'itérations est connu). `break` sort de la boucle, `continue` saute la fin de l'itération.
-- **Méthode `main`** : toute application doit en avoir une, exécutée en premier. Le fichier porte le nom de la classe (`Premier.java`).
-- **Compilation** : `javac Premier.java` produit `Premier.class` qui contient le bytecode, puis `java Premier` l'exécute.
-- **Tableaux** : `type[] nom = new type[taille]` (matrices : `new type[t1][t2]`), indices de 0 à taille − 1, initialisation par `{...}`, taille par `.length`. Exemple de l'aire d'un cercle avec `args[0]` et `Double.parseDouble`.
+### Déclaration
+
+Syntaxe ([[Variable (programmation)]]) :
+```
+<Type-donnée> <nom-de-variable>;
+<Type-donnée> <nom-de-variable1>, <nom-de-variable2>, <nom-de-variable3>;
+```
+Exemples :
+```java
+int age;
+char confirmation;
+double pointx, pointy, deltax, deltay;
+```
+
+### Règles de nommage
+
+- Un nom commence par une lettre, `_` ou `$` : `compteur` est valide, `3distance` non.
+- Ce ne peut pas être un [[Mot réservé|mot-clé]] : `double` est interdit.
+- Ensuite, une suite de lettres, chiffres, `_` ou `$` : `inc_delta`, `nombre3` sont valides.
+- Java est **sensible à la casse** (majuscules ≠ minuscules).
+
+### Constantes
+
+Une [[Constante (programmation)|constante]] est une variable de valeur fixe, déclarée avec le mot-clé `final`, qui ne peut pas être modifiée pendant l'exécution. Par convention, on l'écrit en majuscules.
+```java
+public class Exemple {
+   public static void main(String[] args) {
+      final int MOIS = 12;   // écrire les constantes en majuscules
+      System.out.print(MOIS);
+      MOIS = 3;              // erreur de compilation
+   }
+}
+```
+Modifier une constante provoque une [[Erreur de compilation|erreur de compilation]].
+
+### Types de données
+
+- **Primitifs** ([[Type primitif]]) : les types les plus simples, présents par défaut.
+- **Objets (références)** : définis par les classes et les interfaces ; chaque classe et chaque interface définit un type.
+- **Type spécial** : `void`, aucun type.
+
+| Type | Bits | Intervalle |
+|---|---|---|
+| `byte` | 8 | $[-128, 127]$ |
+| `short` | 16 | $[-32768, 32767]$ |
+| `int` | 32 | $[-2^{31}, 2^{31} - 1]$ |
+| `long` | 64 | $[-2^{63}, 2^{63} - 1]$ |
+| `float` | 32 | virgule flottante, de $-3{,}4 \times 10^{38}$ à $3{,}4 \times 10^{38}$ |
+| `double` | 64 | virgule flottante, de $-1{,}7 \times 10^{308}$ à $1{,}7 \times 10^{308}$ |
+| `char` | 16 | [[Unicode]] |
+| `boolean` | 1 | `true`, `false` |
+
+Ordre des types numériques, du plus large au plus étroit : `double` → `float` → `long` → `int` → `short` → `byte` (voir [[Nombre à virgule flottante]]).
+
+### Portée (*scope*) d'une variable
+
+La [[Portée d'une variable|portée]] est la région du code où la variable peut être écrite (affectation) ou lue. Dans une portée, tous les noms doivent être uniques : deux variables ne peuvent pas avoir le même nom. Les régions sont généralement délimitées par des paires d'accolades `{ … }`.
+
+**Erreur de portée** :
+```java
+double y = 5;
+do {
+  int x = 10;
+  y--;
+  if (y > 0) x--;
+  System.out.println("y= " + y);
+} while (x < 10);   // x n'existe plus ici
+```
+`x` est déclarée dans le bloc `do { … }`, mais la condition `while (x < 10)` l'utilise hors du bloc : erreur de compilation.
+
+## 2. Opérations de base
+
+### Affichage
+
+```java
+System.out.print(<Message>);     // sans nouvelle ligne
+System.out.println(<Message>);   // avec nouvelle ligne
+```
+
+### Comparaisons ([[Opérateur de comparaison]])
+
+| Opérateur | Signification |
+|---|---|
+| `==` | égal à |
+| `!=` | différent de |
+| `>` | supérieur à |
+| `<` | inférieur à |
+| `>=` | supérieur ou égal à |
+| `<=` | inférieur ou égal à |
+
+### Opérateurs booléens ([[Opérateur logique]])
+
+| Opérateur | Signification |
+|---|---|
+| `&` | et (*and*) |
+| `\|` | ou (*or*) |
+| `^` | ou exclusif (*xor*) |
+| `\|\|` | ou court-circuit (*short-circuit*) |
+| `&&` | et court-circuit |
+| `!` | négation |
+
+`&&` est en [[Évaluation en court-circuit|court-circuit]] : si une condition est fausse, l'évaluation s'arrête au lieu de continuer sur les autres.
+
+### Caractères spéciaux ([[Caractère d'échappement]])
+
+- `\n` : nouvelle ligne (*new line*) ;
+- `\t` : tabulation (*tab*) ;
+- `\r` : retour chariot (*carriage return*).
+
+### Incrément et décrément
+
+L'ordre importe ([[Opérateur d'incrémentation]]). Avec `x = 10` :
+```java
+y = ++x;   // y = 11, x = 11  (d'abord x = x + 1, puis y = x)
+y = x++;   // y = 10, x = 11  (d'abord y = x, puis x = x + 1)
+```
+
+### Associativité et ordre d'évaluation
+
+Voir [[Associativité et ordre d'évaluation]].
+- L'associativité fixe l'ordre des opérations de **même précédence**.
+- Toutes les opérations binaires s'associent **à gauche**, sauf l'affectation (`=`).
+- Une opération binaire évalue d'abord son premier opérande, puis le second. C'est important en présence d'[[Effet de bord|effets de bord]] (*side effects*) :
+```java
+int a = 0;
+int x = a + ++a;   // x = 1  (0 + 1)
+```
+```java
+int a = 0;
+int x = ++a + a;   // x = 2  (1 + 1)
+```
+
+### Opérateur conditionnel
+
+Syntaxe ([[Opérateur conditionnel]]) :
+```
+condition ? <si-vrai-expression> : <si-faux-expression>;
+```
+Exemple :
+```java
+boolean test = false;
+int valeur = test == true ? 10 : 20;   // valeur = 20
+```
+
+### Transtypage (*type casting*)
+
+![[Cours/Year 3/Java/medias/Chp1 - Intro Java/image9.png]]
+*Figure : hiérarchie des types primitifs numériques, de haut en bas `double`, `float`, `long`, `int`, puis `short` et `char` sous `int`, et `byte` en bas.*
+
+**Règle générale** ([[Transtypage]]) :
+- si le type d'arrivée est suffisant → OK (exemple : `float` vers `double`) ;
+- s'il n'est pas suffisant → attention aux valeurs (exemple : `double` vers `float` peut être correct ou non selon la valeur).
+
+- **Implicite** : automatique.
+- **Explicite** : fait par le programmeur, avec `(type)`.
+
+Exemple du cours :
+```java
+int i;
+float r;
+r = i;                    // ok
+i = r;                    // incorrect (float vers int sans cast)
+
+double x, y;
+int quotient;
+quotient = (int)(x/y);    // marqué « incorrect » par le cours, voir « Points à vérifier »
+```
+
+## 3. Structures de contrôle
+
+### `if` / `else`
+
+```
+if (condition) instruction;
+
+if (condition) {
+  … séquence d'instructions …
+}
+
+if (condition) {
+  … séquence d'instructions …
+} else {
+  … séquence d'instructions …
+}
+```
+Le cours ajoute « ELSE IF N'EXISTE PAS EN JAVA » : c'est faux, voir « Points à vérifier ». Voir [[Structure conditionnelle]].
+
+### `switch`
+
+```
+switch (expression) {
+    case valeur1 : … instructions …
+                   break;
+    case valeur2 : … instructions …
+                   break;
+    …
+    default : … instructions …
+              break;
+}
+```
+- Types de valeurs acceptés selon le cours : `char`, `byte`, `short`, `int`.
+- Le bloc `default` est optionnel ; « les `break` sont optionnels ».
+
+### Boucles ([[Boucle (programmation)]])
+
+**`while`** :
+```
+while (condition) instruction;
+
+while (condition) {
+   … séquence d'instructions …
+}
+```
+
+**`do-while`** : s'exécute **au moins une fois**, même si la condition n'est pas vérifiée.
+```
+do {
+   … séquence d'instructions …
+} while (condition);
+```
+
+**`for`** : utilisée quand le nombre d'itérations est connu.
+```
+for (initialisation; condition; itération) {
+    … séquence d'instructions …
+}
+```
+- *Initialisation* : définit la ou les variables de contrôle ;
+- *Condition* : condition d'exécution de la séquence ;
+- *Itération* : modifie les variables de contrôle à chaque tour.
+
+**Sauts** :
+- `break` sort des boucles `for`, `while` et `do-while` ;
+- `continue` saute la fin de l'itération en cours.
+
+## 4. Fonctions : la méthode `main`
+
+```java
+public class Premier {
+    public static void main(String[] args) {
+        System.out.println("Bonjour Monde");
+    }
+}
+```
+1. Le programme est stocké dans le fichier `Premier.java` (même nom que la classe).
+2. Toute application Java doit contenir une [[Méthode main|méthode `main()`]], exécutée en premier.
+
+![[Cours/Year 3/Java/medias/Chp1 - Intro Java/image25.png]]
+*Figure : le programme `Premier` annoté : `class Premier` identifie une classe ; `public`, `static`, `void` sont des modificateurs ; `main` est le début de l'exécution ; `String[] args` est le tableau des éléments d'entrée ; `System.out.println` affiche un message à l'écran.*
+
+### Compiler et exécuter
+
+La compilation crée un fichier `.class` qui contient le [[Compilation et bytecode|bytecode]] ; l'exécution utilise ce fichier.
+```
+> javac Premier.java      → produit Premier.class
+> java Premier
+Bonjour Monde
+```
+
+## 5. Tableaux
+
+Voir [[Tableau (programmation)]].
+
+### Créer un tableau
+
+```java
+type nom[] = new type[taille];
+type nom[][] = new type[taille1][taille2];
+// ou
+type[] nom = new type[taille];
+type[][] nom = new type[taille1][taille2];
+```
+Exemples :
+```java
+int valeurs[] = new int[5];
+int[][] matrice = new int[3][3];
+```
+
+### Initialiser un tableau
+
+- Par indices, qui vont de **0 à taille − 1** dans chaque dimension :
+```java
+valeurs[2] = 4;
+matrice[0][0] = 1;
+```
+- Par énumération dans la définition :
+```java
+int valeurs[] = { 5, 2, 4, 8, 9 };
+int matrice[][] = { {1, 2, 3}, {4, 5, 6}, {7, 8, 9} };
+```
+
+### Taille : `length`
+
+```java
+int valeurs[] = { 5, 2, 4, 8, 9 };
+System.out.println(valeurs.length);       // le cours écrit 4 ; la bonne valeur est 5
+int matrice[][] = { {1, 2, 3}, {4, 5, 6} };
+System.out.println(matrice.length);       // 2 (nombre de lignes)
+System.out.println(matrice[0].length);    // 3 (nombre de colonnes)
+```
+
+### Exemple : aire d'un cercle
+
+```java
+public class Aire {
+    public static void main(String[] args) {
+        double rayon = Double.parseDouble(args[0]);
+        double pi = 3.1416;
+        double aire = pi * rayon * rayon;
+        System.out.print(" Aire d'un cercle avec rayon " + rayon);
+        System.out.println(" est " + aire);
+    }
+}
+```
+- `args[0]` contient la valeur du premier paramètre passé au programme, `args[i]` celle du $i$-ème (indices à partir de 0) : `args` est l'entrée donnée par l'utilisateur.
+- `Double.parseDouble` convertit une `String` en `double`.
+- Exécution, par exemple : `java Aire 2` (complément : la commande n'est pas écrite dans le cours).
 
 ## Points à vérifier dans le cours
 
@@ -37,3 +344,5 @@ Rien n'a été corrigé dans le cours. Les images 2 et 23 ont été ouvertes, le
 6. **Guillemets et typographie** : `“Bonjour Monde”` aux guillemets courbes et `Systemt.out` sont des coquilles de la source ; `Final` avec majuscule dans le texte, `final` dans le code.
 7. **Tableau des types** : « boolean 1 bit » est une simplification, le cours ne dit rien de plus. Les exposants de `int` et `long` ($-2^{31}$, $-2^{63}$) sont déduits de la transcription et non vérifiés.
 8. **Exemple `do { ... } while (x < 10)`** : la transcription le qualifie d'erreur de portée, et c'est l'intention du cours (texte au-dessus de l'image).
+9. **Exemples de code rectifiés dans la fiche** : guillemets droits, `System.out`, `matrice[0].length` et indentation ; le cours écrit aussi « Transcryptage » pour transtypage. Dans l'exemple `r = i;` et `quotient = (int)(x/y);`, `i`, `x` et `y` ne sont pas initialisées : le code ne compilerait pas tel quel (complément, sans lien avec ce que l'exemple veut montrer).
+10. **Symboles ☐ des transcriptions** (types et transtypage) : probablement des flèches mal rendues ; la mention « cc » en bas de l'image du `do-while` est illisible.

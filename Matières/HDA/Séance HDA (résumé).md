@@ -4,13 +4,26 @@ tags:
   - year1
 sources:
   - "[[Cours HDA|Cours HDA]]"
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
 Résumé de [[Cours HDA|Cours HDA]], dans [[HDA (matière)]]. Note très courte du 26/10/23, dans la rubrique « Culture G ».
 
-Les femmes kuna fabriquaient leurs vêtements en découpant des couches de tissu pour laisser apparaître la couche inférieure, d'une autre couleur. Les motifs sont de l'art kuna et chaque vêtement est une succession de couches colorées. Les deux images montrent des *molas*, textiles à appliqués superposés sur fond orange : animaux symétriques à motifs floraux et labyrinthe de lignes dans la première ; grand motif central avec oiseaux stylisés dans la seconde. Les transcriptions décrivent bien les images.
+## Culture G : l'art kuna
 
-La rubrique « Truc important, inspirant » est vide. La note est presque vide : un seul sujet.
+Les femmes kuna avaient des vêtements conçus **en coupant les tissus pour faire apparaître la couche inférieure**, d'une couleur différente. Cela met de la couleur dans les vêtements ; les motifs sont de l'**art kuna**. Chaque vêtement est donc une **succession de couches de tissus** de couleurs différentes. Ces textiles sont des *molas* (voir [[Mola]]).
+
+![[Cours/Year 1/HDA/medias/Cours HDA/image1.png]]
+
+*Figure : mola sur fond orange vif — deux animaux symétriques à motifs floraux, entourés de lignes sinueuses formant un labyrinthe.*
+
+![[Cours/Year 1/HDA/medias/Cours HDA/image2.png]]
+
+*Figure : mola encadré de noir — grand motif central en forme de coupe ou de chandelier, oiseaux stylisés, motifs géométriques sinueux sur les bords.*
+
+## Truc important, inspirant
+
+Rubrique présente dans la note, mais vide. La note est presque vide : un seul sujet.
 
 Aucun point à vérifier.

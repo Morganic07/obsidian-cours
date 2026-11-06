@@ -2,30 +2,208 @@
 type: source
 tags: [year3]
 sources: ["[[Chp5 - power series]]"]
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
-Résumé de [[Chp5 - power series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Images non ouvertes.
+Résumé de [[Chp5 - power series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
 
 ## Idée générale
 
-Les séries entières $\sum a_n(x - \alpha)^n$ : domaine de convergence, régularité de la somme, développement de Taylor et séries usuelles. Voir [[Série entière]].
+Les séries entières $\sum a_n(x - \alpha)^n$ : domaine de convergence, régularité de la somme, développement de Taylor et séries usuelles, puis applications au calcul de sommes et à l'approximation de $\pi$ et de $e$. Voir [[Série entière]].
 
-## Contenu, dans l'ordre du cours
+## Définition
 
-- **Définition** : série de fonctions centrée en 0 ou en $\alpha$.
-- **Rayon de convergence** : trois cas. Convergence en $\alpha$ seulement ($R = 0$), partout ($R = +\infty$), ou $0 < R < +\infty$ avec convergence absolue pour $|x - \alpha| < R$ et divergence pour $|x - \alpha| > R$. Aux bords, tout peut arriver. Le rayon est unique.
-- **Intervalle de convergence** : $\{\alpha\}$, $\mathbb{R}$, ou l'un des quatre intervalles de bornes $\alpha \pm R$.
-- **Rapport et racine** : $\lim \frac{|a_{n+1}|}{|a_n|} = \ell$ ou $\lim \sqrt[n]{|a_n|} = \ell$ donne $R = 1/\ell$ (avec $1/0 = +\infty$ et $1/{+\infty} = 0$). En cas de coefficients nuls, appliquer le critère aux termes complets de rangs $n$ et $n+1$.
-- **Opérations** : $\lambda a_n$ garde le rayon. Pour la somme, $R_{a+b} \ge \min(R_a, R_b)$, avec égalité si $R_a \ne R_b$.
-- **Continuité** : convergence normale sur tout $[\alpha - r, \alpha + r]$ avec $r < R$, donc somme continue sur $]\alpha - R, \alpha + R[$. Continuité aussi au bord où la série converge.
-- **Dérivation et intégration terme à terme** : même rayon, mais l'intervalle de convergence peut changer aux bords. La somme est indéfiniment dérivable.
-- **Séries de Taylor et de Maclaurin** : si $f$ est somme d'une série entière, $a_n = f^{(n)}(\alpha)/n!$. Polynômes de Taylor $T_n$ et reste $R_n = f - T_n$. Si $R_n(x) \to 0$, $f$ est somme de sa série de Taylor.
-- **Restes** : inégalité de Taylor ($|f^{(n+1)}| \le M$ donne $|R_n(x)| \le \frac{M}{(n+1)!}|x - \alpha|^{n+1}$), forme intégrale $\frac{1}{n!}\int_\alpha^x (x - t)^n f^{(n+1)}(t)\,dt$, forme de Lagrange $\frac{f^{(n+1)}(c)}{(n+1)!}(x - \alpha)^{n+1}$.
-- **Série de $\sin$** : dérivées successives, puis majoration du reste (cas $x > 0$ et $x < 0$) par $\frac{|x|^{n+1}}{(n+1)!} \to 0$.
-- **$(1 + x)^a$** pour $|x| < 1$, série binomiale, rayon 1. Aux bords : $a > 0$ absolument convergente en $\pm 1$ ; $-1 < a \le 0$ conditionnellement convergente en 1 et divergente en $-1$ ; $a \le -1$ divergente aux deux bords. Cas particuliers $\sqrt{1+x}$ sur $[-1, 1]$ et $\frac{1}{\sqrt{1+x}}$ sur $]-1, 1]$, avec coefficients en $\binom{2n}{n}$.
-- **Séries usuelles** : $e^x$, $\sinh$, $\cosh$, $\sin$, $\cos$ sur $\mathbb{R}$ ; $\arctan$, $\frac{1}{1-x}$, $\frac{1}{(1-x)^2}$, $\frac{1}{1+x}$, $\ln(1+x)$, $(1+x)^a$ sur $]-1, 1[$.
-- **Applications** : $\sum \frac{(-1)^{n-1}}{n 2^n} = \ln\frac{3}{2}$ ; $\pi = 4\sum \frac{(-1)^n}{2n+1}$, précision $10^{-2}$ pour $n \ge 49$ ; $e = \sum \frac{1}{n!}$ avec $0 \le R_n(1) \le \frac{3}{(n+1)!}$, précision $10^{-5}$ pour $n = 8$.
+**Définition.** Une série entière (*power series*) centrée en 0 est une série de fonctions de la forme
+$$\sum_{n\in\mathbb{N}} a_n x^n = a_0 + a_1 x + a_2 x^2 + a_3 x^3 + \ldots$$
+Les constantes $a_n$ sont les **coefficients**. Pour $\alpha \in \mathbb{R}$, une série entière centrée en $\alpha$ est
+$$\sum_{n\in\mathbb{N}} a_n (x-\alpha)^n = a_0 + a_1 (x-\alpha) + a_2 (x-\alpha)^2 + \ldots$$
+
+## Convergence d'une série entière
+
+**Théorème.** Pour une série entière $\sum a_n(x-\alpha)^n$, il n'y a que trois possibilités :
+1. elle ne converge que pour $x = \alpha$ ;
+2. elle converge pour tout $x \in \mathbb{R}$ ;
+3. il existe $R$ avec $0 < R < +\infty$ tel que la série converge absolument si $|x-\alpha| < R$ et diverge si $|x-\alpha| > R$. Pour $x - \alpha = \pm R$, tout peut arriver.
+
+**Définition.** Ce nombre $R$ est le **rayon de convergence** (*radius of convergence*). Par convention, $R = 0$ dans le cas 1 et $R = +\infty$ dans le cas 2.
+
+**Proposition.** Le rayon de convergence est unique.
+
+## Intervalle de convergence
+
+**Proposition.** L'intervalle de convergence de $\sum a_n(x-\alpha)^n$ est l'ensemble des $x$ pour lesquels la série converge.
+
+Centrée en 0 :
+- $R = 0$ : intervalle $\{0\}$ ;
+- $R = +\infty$ : intervalle $]-\infty, +\infty[$ ;
+- $R \in\, ]0, +\infty[$ : en $x = \pm R$, la série peut converger en une borne, aux deux, ou à aucune. Quatre possibilités : $[-R, R]$, $]-R, R]$, $[-R, R[$, $]-R, R[$.
+
+Centrée en $\alpha$ (généralisation) :
+- $R = 0$ : $\{\alpha\}$ ;
+- $R = +\infty$ : $]-\infty, +\infty[$ ;
+- $R \in\, ]0, +\infty[$ : $[\alpha - R, \alpha + R]$, $]\alpha - R, \alpha + R]$, $[\alpha - R, \alpha + R[$ ou $]\alpha - R, \alpha + R[$.
+
+## Critères du rapport et de la racine
+
+Voir [[Critère de d'Alembert et de Cauchy]].
+
+**Proposition (rapport).** Si $R$ est le rayon de $\sum a_n(x-\alpha)^n$ et si $a_n \ne 0$ pour $n$ assez grand :
+$$\lim_{n\to+\infty} \frac{|a_{n+1}|}{|a_n|} = \ell \in [0,+\infty] \ \Rightarrow\ R = \frac{1}{\ell}.$$
+
+**Proposition (racine).** Sous les mêmes hypothèses :
+$$\lim_{n\to+\infty} \sqrt[n]{|a_n|} = \ell \in [0,+\infty] \ \Rightarrow\ R = \frac{1}{\ell}.$$
+
+Conventions : $\frac{1}{0} = +\infty$ et $\frac{1}{+\infty} = 0$.
+
+**Remarque (coefficients lacunaires).** Quand des coefficients sont nuls (*gaps*), appliquer les critères aux termes complets de rangs $n$ et $n+1$ de la série, c'est-à-dire à $a_n(x-\alpha)^n$, et non aux seuls coefficients.
+
+## Opérations sur les séries entières
+
+**Proposition (multiplication par un scalaire).** Soit $\lambda \in \mathbb{R}$ et $\sum a_n x^n$ de rayon $R_a$ et de somme $S_a$. Le rayon $R_{\lambda a}$ et la somme $S_{\lambda a}$ de $\sum \lambda a_n x^n$ vérifient
+$$R_{\lambda a} = R_a \quad\text{et}\quad \forall x,\ |x| \le R_a \Rightarrow S_{\lambda a}(x) = \lambda S_a(x).$$
+
+**Définition (somme).** La somme de $\sum a_n x^n$ et $\sum b_n x^n$ est $\sum (a_n + b_n)x^n$.
+
+**Proposition.** Avec $R_a$, $R_b$ les rayons et $S_a$, $S_b$ les sommes, le rayon $R_{a+b}$ de la série somme vérifie $R_{a+b} \ge \min(R_a, R_b)$, et
+$$\forall x,\ |x| \le \min(R_a, R_b) \Rightarrow S_{a+b}(x) = S_a(x) + S_b(x).$$
+De plus, si $R_a \ne R_b$, alors $R_{a+b} = \min(R_a, R_b)$.
+
+Le cours annonce ensuite l'étude de la continuité de la somme, puis la **dérivation et l'intégration terme à terme** (*term-by-term differentiation and integration*).
+
+## Continuité
+
+**Théorème.** Soit $\sum a_n(x-\alpha)^n$ de rayon $R > 0$. La série converge normalement sur tout intervalle $[\alpha - r, \alpha + r]$ avec $0 < r < R$, donc la somme $S$ est continue sur $]\alpha - R, \alpha + R[$.
+De plus, si $\sum a_n(-R)^n$ converge, $S$ est continue en $\alpha - R$ ; si $\sum a_n R^n$ converge, $S$ est continue en $\alpha + R$.
+
+**Corollaire.** Dans ces conditions, si $\sum a_n(-R)^n$ converge, alors $S(\alpha - R) = \sum a_n(-R)^n$ ; si $\sum a_n R^n$ converge, alors $S(\alpha + R) = \sum a_n R^n$.
+
+## Dérivation et intégration terme à terme
+
+**Théorème (dérivation).** Si $R > 0$, la somme $S$ est dérivable sur $]\alpha - R, \alpha + R[$ et
+$$\forall x \in\, ]\alpha - R, \alpha + R[,\quad S'(x) = \sum_{n=1}^{+\infty} n a_n (x-\alpha)^{n-1}.$$
+
+**Théorème (intégration).** Si $R > 0$, la somme $S$ est intégrable sur $]\alpha - R, \alpha + R[$ et
+$$\int S(x)\,dx = C + \sum_{n=0}^{+\infty} a_n \frac{(x-\alpha)^{n+1}}{n+1}.$$
+
+**Remarques.**
+1. Le rayon de convergence reste le même après dérivation ou intégration, mais pas forcément l'intervalle de convergence : le comportement aux bornes peut changer. Une série peut converger en une borne alors que sa série dérivée y diverge.
+2. Faits de base (série centrée en 0) : toute série entière a un rayon $0 \le R \le +\infty$ ; elle converge absolument pour $|x| < R$ et diverge pour $|x| > R$ ; la convergence est normale, donc uniforme, sur tout intervalle $|x| < r$ avec $0 \le r < R$ ; si $R > 0$, la somme est indéfiniment dérivable sur $|x| < R$, et ses dérivées s'obtiennent en dérivant terme à terme.
+
+## Séries de Taylor et de Maclaurin
+
+**Théorème (valeur des coefficients).** Si $f$ est développable en série entière en $\alpha$, $f(x) = \sum a_n (x-\alpha)^n$, alors
+$$a_n = \frac{f^{(n)}(\alpha)}{n!}, \qquad \forall x \in\, ]\alpha - R, \alpha + R[,\ f(x) = \sum_{n=0}^{+\infty} \frac{f^{(n)}(\alpha)}{n!}(x-\alpha)^n.$$
+
+**Définitions.**
+- Cette série est la **série de Taylor** de $f$ en $\alpha$.
+- En $\alpha = 0$, $\sum \frac{f^{(n)}(0)}{n!}x^n$ est la **série de Maclaurin** de $f$.
+
+### Polynômes de Taylor
+
+**Définition.** Pour $f$ indéfiniment dérivable, le $n$-ième polynôme de Taylor de $f$ en $\alpha$ est
+$$T_n(x) = \sum_{k=0}^{n} \frac{f^{(k)}(\alpha)}{k!}(x-\alpha)^k,$$
+et le reste est $R_n(x) = f(x) - T_n(x)$. Voir [[Reste de Taylor]] et [[Développement limité]].
+
+**Théorème (condition suffisante).** Si $\lim_{n\to+\infty} R_n(x) = 0$ pour $|x-\alpha| < R$, alors $f$ est la somme de sa série de Taylor sur $|x-\alpha| < R$.
+
+### Inégalité de Taylor
+
+**Théorème.** S'il existe $M > 0$ et $d > 0$ tels que, pour tout $x$ avec $|x-\alpha| \le d$ et pour tout $n$, $|f^{(n+1)}(x)| \le M$, alors
+$$\forall x \in [\alpha - d, \alpha + d],\quad |R_n(x)| \le \frac{M}{(n+1)!}|x - \alpha|^{n+1}.$$
+(Le cours écrit l'intervalle $[d - \alpha, d + \alpha]$, voir « Points à vérifier ».)
+
+### Forme intégrale du reste
+
+**Théorème.** Si $f^{(n+1)}$ est continue sur un intervalle ouvert $I$ contenant $\alpha$ et $x$ :
+$$R_n(x) = \frac{1}{n!}\int_{\alpha}^{x} (x-t)^n f^{(n+1)}(t)\,dt.$$
+
+### Exemple : série de Maclaurin de $\sin$
+
+Dérivées successives :
+
+| Ordre | $f^{(k)}(x)$ | $f^{(k)}(0)$ |
+|---|---|---|
+| $4n$ | $\sin x$ | 0 |
+| $4n+1$ | $\cos x$ | 1 |
+| $4n+2$ | $-\sin x$ | 0 |
+| $4n+3$ | $-\cos x$ | $-1$ |
+
+D'où
+$$\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \ldots = \sum_{n=0}^{+\infty} (-1)^n \frac{x^{2n+1}}{(2n+1)!}.$$
+
+**Étude du reste.** Pour tout $x$ et tout $n$, $|f^{(n)}(x)| \le 1$.
+- Si $x > 0$ :
+$$|R_n(x)| = \frac{1}{n!}\left|\int_0^x (x-t)^n f^{(n+1)}(t)\,dt\right| \le \frac{1}{n!}\int_0^x (x-t)^n\,dt = \frac{x^{n+1}}{(n+1)!}.$$
+- Si $x < 0$ : $R_n(x) = -\frac{1}{n!}\int_x^0 (x-t)^n f^{(n+1)}(t)\,dt$, donc
+$$|R_n(x)| \le \frac{1}{n!}\int_x^0 |x - t|^n\,dt = \frac{1}{n!}\int_x^0 (t-x)^n\,dt = \frac{(-x)^{n+1}}{(n+1)!}.$$
+
+Comme $\frac{|x|^{n+1}}{(n+1)!} \to 0$, $R_n(x) \to 0$ : $\sin x$ est la somme de sa série de Maclaurin.
+
+### Forme de Lagrange du reste
+
+**Théorème.** Si $f^{(n+1)}$ est continue sur un intervalle ouvert $I$ contenant $\alpha$ et $x$, il existe $c$ entre $\alpha$ et $x$ tel que
+$$R_n(x) = \frac{f^{(n+1)}(c)}{(n+1)!}(x-\alpha)^{n+1}.$$
+
+## La fonction $(1+x)^a$ et la série binomiale
+
+**Théorème.** Pour $a \in \mathbb{R}$ et $|x| < 1$ :
+$$(1+x)^a = 1 + \sum_{n=1}^{+\infty} \frac{a(a-1)\cdots(a-n+1)}{n!} x^n = \sum_{n=0}^{+\infty} \binom{a}{n} x^n.$$
+Voir [[Coefficient binomial]].
+
+**Remarques.**
+1. Si $a$ est un entier positif, les termes finissent par être nuls : la série est finie (formule du [[Formule du binôme de Newton|binôme]]).
+2. Le rayon vaut 1 ; la convergence en $\pm 1$ dépend de $a$.
+
+**Proposition (bords).**
+1. $a > 0$ : absolument convergente en $x = 1$ et $x = -1$.
+2. $-1 < a \le 0$ : [[Convergence conditionnelle|conditionnellement convergente]] en $x = 1$, divergente en $x = -1$.
+3. $a \le -1$ : divergente en $x = 1$ et $x = -1$.
+
+**Deux cas particuliers.**
+1. Pour $x \in [-1, 1]$ :
+$$\sqrt{1+x} = 1 + \frac{x}{2} + \sum_{n=2}^{+\infty} (-1)^{n+1} \frac{1\cdot 3\cdot 5 \cdots (2n-3)}{n!\,2^n} x^n = \sum_{n=0}^{+\infty} (-1)^{n+1} \frac{\binom{2n}{n}}{(2n-1)2^{2n}} x^n.$$
+2. Pour $x \in\, ]-1, 1]$ :
+$$\frac{1}{\sqrt{1+x}} = 1 + \sum_{n=1}^{+\infty} (-1)^{n} \frac{1\cdot 3\cdot 5 \cdots (2n-1)}{n!\,2^n} x^n = \sum_{n=0}^{+\infty} (-1)^{n} \frac{\binom{2n}{n}}{2^{2n}} x^n.$$
+
+## Séries de Maclaurin usuelles
+
+| Fonction | Série | Domaine (cours) |
+|---|---|---|
+| $e^x$ | $\sum_{n\ge0} \frac{x^n}{n!}$ | $\mathbb{R}$ |
+| $\sinh x$ | $\sum_{n\ge0} \frac{x^{2n+1}}{(2n+1)!}$ | $\mathbb{R}$ |
+| $\cosh x$ | $\sum_{n\ge0} \frac{x^{2n}}{(2n)!}$ | $\mathbb{R}$ |
+| $\sin x$ | $\sum_{n\ge0} (-1)^n \frac{x^{2n+1}}{(2n+1)!}$ | $\mathbb{R}$ |
+| $\cos x$ | $\sum_{n\ge0} (-1)^n \frac{x^{2n}}{(2n)!}$ | $\mathbb{R}$ |
+| $\arctan x$ | $\sum_{n\ge0} (-1)^n \frac{x^{2n+1}}{2n+1}$ | $]-1, 1[$ |
+| $\frac{1}{1-x}$ | $\sum_{n\ge0} x^n$ | $]-1, 1[$ |
+| $\frac{1}{(1-x)^2}$ | $\sum_{n\ge1} n x^{n-1}$ | $]-1, 1[$ |
+| $\frac{1}{1+x}$ | $\sum_{n\ge0} (-1)^n x^n$ | $]-1, 1[$ |
+| $\ln(1+x)$ | $\sum_{n\ge1} (-1)^{n-1} \frac{x^n}{n}$ | $]-1, 1[$ |
+| $(1+x)^a$, $a \in \mathbb{R}$ | $\sum_{n\ge0} \frac{a(a-1)\cdots(a-n+1)}{n!} x^n$ | $]-1, 1[$ |
+
+Voir aussi [[Fonctions hyperboliques]] et [[Fonctions trigonométriques réciproques]].
+
+## Applications
+
+### Calcul de la somme d'une série numérique
+
+On cherche $\frac{1}{1\cdot 2} - \frac{1}{2\cdot 2^2} + \frac{1}{3\cdot 2^3} - \frac{1}{4\cdot 2^4} + \dots$ On l'écrit
+$$\sum_{n=1}^{+\infty} (-1)^{n-1}\frac{1}{n\cdot 2^n} = \sum_{n=1}^{+\infty} (-1)^{n-1}\frac{\left(\frac{1}{2}\right)^n}{n},$$
+et la série de $\ln(1+x)$ en $x = \frac12$ donne
+$$\sum_{n=1}^{+\infty} (-1)^{n-1}\frac{1}{n\cdot 2^n} = \ln\left(1+\frac{1}{2}\right) = \ln\frac{3}{2}.$$
+
+### Approximation de $\pi$
+
+On part de $\arctan x = \sum (-1)^n \frac{x^{2n+1}}{2n+1}$. En $x = 1$, la série est alternée et convergente, d'où
+$$\pi = 4\sum_{n=0}^{+\infty} \frac{(-1)^n}{2n+1}.$$
+Comme la série est alternée ([[Critère des séries alternées]]), $|R_n(1)| \le |a_{n+1}| = \frac{1}{2n+3}$. Selon le cours, pour une précision de $10^{-2}$, il faut $n \ge 49$ (voir « Points à vérifier »).
+
+### Approximation de $e$
+
+$e^x = \sum \frac{x^n}{n!}$, donc en $x = 1$ : $e = \sum_{n=0}^{+\infty} \frac{1}{n!}$. Avec la forme de Lagrange, il existe $c$ entre 0 et 1 tel que $R_n(1) = \frac{f^{(n+1)}(c)}{(n+1)!}$. Toutes les dérivées de l'exponentielle sont égales à l'exponentielle, donc
+$$0 \le R_n(1) = \frac{e^c}{(n+1)!} \le \frac{e}{(n+1)!} \le \frac{3}{(n+1)!}.$$
+Pour une précision de $10^{-5}$, $n = 8$ suffit ($9! = 362\,880$). L'approximation est bien plus efficace que pour $\pi$.
 
 ## Points à vérifier dans le cours
 
@@ -39,3 +217,5 @@ Rien n'a été corrigé dans le cours.
 6. **Binôme avec $a = 0$** : la proposition « $-1 < a \le 0$ conditionnellement convergente en 1 » ne vaut que pour $-1 < a < 0$ ; pour $a = 0$ la série se réduit à 1 (complément).
 7. **Intervalles des séries usuelles** : $\arctan$ et $\ln(1+x)$ sont données sur $]-1, 1[$, mais le cours applique $\arctan$ en $x = 1$ pour $\pi$ grâce au théorème de continuité au bord. La formule vaut en fait sur $[-1, 1]$ pour $\arctan$ et sur $]-1, 1]$ pour $\ln(1+x)$ (complément).
 8. **Double intitulé** : deux versions de l'intervalle de convergence (centrée en 0 puis en $\alpha$) se suivent ; la seconde généralise la première.
+9. **Formule de $\sqrt{1+x}$ avec $\binom{2n}{n}$** : en $n = 0$, $(-1)^{1}\frac{1}{(-1)\cdot 1} = 1$, cohérent ; en $n = 1$, $(-1)^2 \frac{2}{1 \cdot 4} = \frac12$, cohérent (vérification, complément). Dans la forme développée, le signe $(-1)^{n+1}$ donne $-\frac{x^2}{8}$ pour $n = 2$, cohérent, contrairement à la formule du [[Chp0 - Revision chapter (résumé)|chapitre 0]].
+10. **Intégration terme à terme** : la formule est donnée sous forme de primitive avec une constante $C$ ; le cours ne précise pas le rayon de la série intégrée dans l'énoncé, seulement dans la remarque qui suit.

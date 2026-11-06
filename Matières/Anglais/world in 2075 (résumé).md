@@ -4,16 +4,46 @@ tags:
   - year2
 sources:
   - "[[world in 2075|world in 2075]]"
-maj: 2026-11-05
+maj: 2026-11-06
+complet: true
 ---
 
-Résumé de [[world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties :
+Résumé de [[world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties, accompagné d'une infographie. Ce sont des scénarios imaginés pour l'exposé, non des prévisions établies.
 
-1. **Exploration spatiale** : colonisation du système solaire (base sur Mars, stations dans la ceinture d'astéroïdes, missions vers les lunes glacées), robots explorateurs type EELS sous les glaces d'Europe ou d'Encelade, télescope plus avancé que le JWST.
-2. **Nations unifiées** : une Union Africaine fédérale à monnaie unique, technologies adaptées au continent, puissance manufacturière, mégalopoles connectées.
-3. **Écologie et humanité** : planète plus verte, énergie solaire spatiale et fusion nucléaire, égalité hommes-femmes, disparition du racisme.
-4. **IA** : assistants anticipateurs, interfaces neuronales, villes autonomes.
+## 1. L'exploration spatiale au premier plan
 
-L'image est une infographie « Earth in 2075 » (IA, interface cerveau-machine, énergie durable). **À vérifier** : le texte de l'image est déformé (« BRAIN-INTERFACE INTERCEPRAUY », etc.), typique d'une image générée ; la transcription le recopie tel quel.
+- **Colonisation avancée du système solaire** : une base habitée sur Mars, des stations autonomes dans la ceinture d'astéroïdes, peut-être des missions vers les lunes glacées de Jupiter et de Saturne.
+- **EELS et autres robots explorateurs** : des robots serpents et d'autres machines autonomes analysent les océans extraterrestres sous les surfaces glacées d'Europe ou d'Encelade, à la recherche de vie.
+- **Un télescope spatial révolutionnaire** : un observatoire bien plus avancé que le JWST scrute les exoplanètes en haute résolution pour détecter directement des signes de vie.
 
-**Points à signaler** : ce sont des scénarios, non des prévisions établies ; la disparition du racisme est une hypothèse optimiste du groupe.
+## 2. Nations unifiées
+
+- **Une Union africaine forte** : inspirée de l'Union européenne, elle pourrait devenir une fédération d'États, avec une monnaie unique et une politique économique harmonisée.
+- **Des technologies adaptées au continent** : l'Afrique a déjà sauté des étapes technologiques (adoption massive du *mobile banking* sans passer par les banques classiques). En 2075, elle pourrait être pionnière dans l'adaptation des IA aux contextes locaux.
+- **Un centre de production mondial** : population jeune et industrialisation accélérée font de l'Afrique une puissance manufacturière et technologique capable de rivaliser avec l'Asie.
+- **Des infrastructures futuristes** : grâce à des investissements massifs, des mégalopoles ultra-connectées émergent, avec transports autonomes, énergie propre et villes intelligentes adaptées aux climats locaux.
+
+## 3. Écologie et humanité
+
+- **Une planète plus verte et durable** : l'exploration spatiale a poussé l'humanité à préserver la Terre. L'urbanisme minimise l'impact environnemental ; l'énergie vient surtout du solaire spatial ou de la [[Fusion nucléaire|fusion nucléaire]].
+- La fusion nucléaire est la nouvelle source d'énergie de la Terre : « sans impact écologique », elle alimente n'importe quelle ville ou projet technologique.
+- Les hommes sont au même niveau que les femmes.
+- Le racisme a disparu.
+
+## 4. IA
+
+- **Des assistants IA ultra-intuitifs** : plus qu'un Siri ou un ChatGPT, ils anticipent les besoins et facilitent la vie quotidienne, tout en respectant les libertés individuelles (« enfin, en théorie »).
+- **Des [[Interface cerveau-machine|interfaces neuronales]] avancées** : l'humain et l'IA interagissent directement par implants cérébraux, fusionnant pensée et algorithmes.
+- **Les villes IA-autonomes** : circulation fluide, ressources optimisées, zéro gaspillage ; des systèmes d'IA adaptent l'environnement en temps réel.
+
+## Infographie
+
+![[Cours/Year 2/Anglais/medias/world in 2075/image1.png]]
+
+*Figure : infographie « Earth in 2075 » : ville futuriste avec éoliennes, planète dans le ciel, satellites, fusées, panneaux solaires ; libellés « AI », « Brain-interface technology », « Sustainable energy ».*
+
+## Points à vérifier
+
+- **À vérifier** : le texte de l'image est déformé (« BRAIN-INTERFACE INTERCEPRAUY », « BRAIN INTERACE TECHNOLOGY », « BRAIN-INTERACE »), typique d'une image générée par IA ; la transcription le recopie tel quel. Les petits textes gris du fond sont illisibles.
+- Ce sont des scénarios, non des prévisions établies ; la disparition du racisme est une hypothèse optimiste du groupe.
+- « Fusion nucléaire sans impact écologique » est une affirmation de l'exposé, pas un fait établi.

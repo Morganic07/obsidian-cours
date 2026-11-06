@@ -5,19 +5,42 @@ tags:
 sources:
   - "[[Gestion financière|Gestion financière]]"
 maj: 2026-11-06
+complet: true
 ---
 
-Résumé de [[Gestion financière|Gestion financière]], dans [[Gestion financière (matière)]]. Note très courte de prise de notes, sans image : quelques notions de vocabulaire économique et financier. En cas d'écart, le cours fait foi.
+Résumé de [[Gestion financière|Gestion financière]], dans [[Gestion financière (matière)]]. Note très courte de prise de notes, sans image : quelques notions de vocabulaire économique et financier. En cas d'écart, le cours fait foi. La fiche reprend tout le contenu de la note.
 
-## Contenu, dans l'ordre du cours
+## Trois types de banque
 
-- **Trois types de banque** : commerciale ; d'investissement, chargée des opérations de haut de bilan ; centrale.
-- **Marchés financiers** : on distingue le marché d'émission et le marché d'échange.
-- **Balance des paiements** : l'argent qui entre et l'argent qui sort.
-- **Balance commerciale** : importations et exportations de produits.
-- **TEE** : tableau économique d'ensemble.
-- **PIB et PNB** : le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France, le PNB seulement les entreprises françaises en France.
-- **Coût et prix** : le coût est la somme nécessaire pour obtenir ou réaliser quelque chose ; le prix est la somme à payer ou à recevoir lors d'une transaction.
+[[Types de banque]] :
+
+| Type | Rôle noté |
+|---|---|
+| Banque commerciale | — (non détaillé) |
+| Banque d'investissement | chargée des [[Opérations de haut de bilan\|opérations de haut de bilan]] |
+| Banque centrale | — (non détaillé) |
+
+## Marchés financiers
+
+Sur les [[Marché financier|marchés financiers]], on distingue le **marché d'émission** d'un côté et le **marché d'échange** de l'autre.
+
+## Balances
+
+- [[Balance des paiements]] : l'argent qui entre et l'argent qui sort.
+- [[Balance commerciale]] : importations et exportations de produits.
+
+## Comptabilité nationale
+
+- **TEE** : [[Tableau économique d'ensemble]].
+- **PIB et PNB** : le [[Produit intérieur brut|PIB]] a remplacé le PNB (produit national brut). Différence selon la note :
+  - le PIB compte aussi les entreprises non françaises installées sur le sol français ;
+  - le PNB ne compte que les entreprises françaises sur le sol français.
+
+## Coût et prix
+
+[[Coût et prix]] :
+- le **coût** est la somme nécessaire pour obtenir ou réaliser quelque chose ;
+- le **prix** est la somme à payer ou à recevoir lors d'une transaction.
 
 ## Points à vérifier dans le cours
 

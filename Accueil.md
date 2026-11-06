@@ -1473,8 +1473,8 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 **Autres**
 
 - [[Linéarisation trigonométrique]] : nommé dans le cours, sans définition
-- [[Nombre d'Armstrong]] : nommé dans le cours, sans définition
-- [[Nombre parfait]] : nommé dans le cours, sans définition
+- [[Nombre d'Armstrong]] : nombre égal à la somme des cubes de ses chiffres (153)
+- [[Nombre parfait]] : nombre égal à la moitié de la somme de ses diviseurs (6)
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
