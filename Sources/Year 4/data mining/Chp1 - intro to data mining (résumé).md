@@ -1,7 +1,7 @@
 ---
 type: source
 sources: ["[[Chp1 - intro to data mining]]"]
-maj: 2026-11-05
+maj: 2026-11-06
 ---
 
 Résumé de [[Chp1 - intro to data mining]], dans [[Year 4 - data mining]]. En cas d'écart, le cours et ses images font foi.
@@ -14,7 +14,7 @@ Le data mining extrait des structures cachées, des corrélations non évidentes
 
 - **Tâches** : prédictives (classification, régression, séries temporelles, prédiction) ou descriptives (clustering, résumé, règles d'association, découverte de séquences).
 - **Exemple de modèle, jeu météo** : 14 exemples avec Outlook, Temp., Humidity, Wind et une classe P ou N. L'arbre obtenu a pour racine Outlook : sunny mène à Humidity (strong donne N, normal donne P), overcast donne P, rainy mène à Wind (yes donne N, no donne P). Un arbre se lit comme un ensemble de règles « SI … ALORS CLASS = … ».
-- **Classifieur** : fonction ou algorithme qui prend des caractéristiques et attribue une classe discrète. Trois types : construction d'un modèle comme un arbre, estimation directe de la classe à partir d'exemples (k plus proches voisins), modèle paramétrable (réseaux de neurones, SVM).
+- **Classifieur** : fonction ou algorithme qui prend des caractéristiques et attribue une classe discrète. C'est lui qui produit les prédictions que l'on évalue ensuite avec la matrice de confusion (voir [[Validation d'un classifieur]]). Trois types : construction d'un modèle comme un arbre, estimation directe de la classe à partir d'exemples (k plus proches voisins), modèle paramétrable (réseaux de neurones, SVM).
 - **k plus proches voisins** : on classe un point selon les classes de ses $k$ voisins. Sur la figure du cours, avec $k = 3$ il y a 1 point jaune et 2 violets, avec $k = 6$ 4 jaunes et 2 violets : le résultat dépend de $k$.
 - **Validation** : la base est séparée en données d'entraînement (construction du modèle) et de test (précision). Si la précision est acceptable, on applique le modèle à des données inconnues. L'erreur $Er$ est la probabilité de mal prédire, le taux de réussite est $1 - Er$. L'erreur d'entraînement est mesurée sur la base d'entraînement.
 - **Matrice de confusion** : TP et TN (vrais positifs et négatifs), FP et FN (faux positifs et négatifs). Précision positive $\dfrac{TP}{TP+FP}$ et négative $\dfrac{TN}{TN+FN}$. Rappel positif $\dfrac{TP}{TP+FN}$ et négatif $\dfrac{TN}{TN+FP}$. Exemple du filtre anti-spam sur 100 e-mails (20 spams, 80 légitimes) : 15 VP, 5 FN, 2 FP, 78 VN. Précision $15/17 \approx 88{,}2\,\%$, rappel $15/20 = 75\,\%$.

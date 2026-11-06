@@ -273,7 +273,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Discours d'escorte]] : discours qui orientent l'appropriation des dispositifs numériques
 - [[Value(s) Design]] : méthode de conception du cours de management de l'innovation
 
-## Résumés de sources (222)
+## Résumés de sources (223)
 
 ### Documents PDF et PPTX (59)
 
@@ -339,6 +339,7 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 
 ### Year 4
 
+- **Gestion financière** : [[Gestion financière (résumé)]]
 - **C++** : [[Chp1 - basiques (résumé)]], [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[chp2 - structures code (résumé)]]
 - **Culture du vivant** : [[Culture du vivant - prise de note (résumé)]]
 - **SHS** : [[Prise de note SHS (résumé)]], [[Recherches SHS (résumé)]], [[Entretien sur l'open source (résumé)]]
@@ -386,14 +387,14 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 - [[Chp2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (45)
+## Matières (46)
 
 - **Matières connues par leurs seuls documents PDF ou PPTX** : [[Year 2 - SHS]], [[Year 3 - Affordance]], [[Year 3 - Projet courts]], [[Year 3 - Sémiotique]], [[Year 4 - culture du soin]]
 
 - **Year 1, autres** : [[Year 1 - Algo Maths]], [[Year 1 - Communication orale]], [[Year 1 - Corps à l'oeuvre]], [[Year 1 - Dessein au cube]], [[Year 1 - HDA]], [[Year 1 - Outil Maths]], [[Year 1 - Peinture]], [[Year 1 - Philosophie]], [[Year 1 - Projet design]]
 - **Year 2, autres** : [[Year 2 - Algo]], [[Year 2 - Anglais]], [[Year 2 - Corps à l'oeuvre]], [[Year 2 - Operating System]], [[Year 2 - Philosophie]], [[Year 2 - Probability]], [[Year 2 - Projet Design]], [[Year 2 - écriture narrative]]
 - **Year 3** : [[Year 3 - Computer Network]], [[Year 3 - Culture du vivant]], [[Year 3 - Data analysis (Thanos)]], [[Year 3 - Data base]], [[Year 3 - IA]], [[Year 3 - Java]], [[Year 3 - SHS]], [[Year 3 - Statistics]], [[Year 3 - Séries]], [[Year 3 - ligue football]], [[Year 3 - workshop]]
-- **Year 4** : [[Year 4 - C++]], [[Year 4 - Culture du vivant]], [[Year 4 - SHS]], [[Year 4 - data mining]], [[Year 4 - graph theory]], [[Year 4 - management de l'innovationb]], [[Year 4 - projet court]]
+- **Year 4** : [[Year 4 - C++]], [[Year 4 - Culture du vivant]], [[Year 4 - Gestion financière]], [[Year 4 - SHS]], [[Year 4 - data mining]], [[Year 4 - graph theory]], [[Year 4 - management de l'innovationb]], [[Year 4 - projet court]]
 
 - [[Year 1 - Analyse Maths]] : 2 notes sur 2, une grande partie reste en PDF
 - [[Year 2 - Analyse]] : 3 notes sur 3 pour le chapitre 7, le reste est en PDF
@@ -407,7 +408,7 @@ Aucune pour l'instant.
 
 ## Sources disponibles
 
-Notes présentes dans `Cours/` (165), par matière. Le nombre entre parenthèses est le nombre de notes.
+Notes présentes dans `Cours/` (163), par matière. Le nombre entre parenthèses est le nombre de notes.
 
 ### Year 1
 
@@ -423,4 +424,4 @@ Computer Network (7), Culture du vivant (3), Data analysis (Thanos) (15), Data b
 
 ### Year 4
 
-C++ (3), Culture du vivant (1), SHS (3), data mining (1), graph theory (5), management de l'innovationb (2), projet court (1)
+C++ (3), Culture du vivant (1), SHS (3), data mining (1), graph theory (5), management de l'innovationb (2), projet court (1), plus 1 note à la racine de `Year 4` (Gestion financière)
