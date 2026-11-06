@@ -1,7 +1,10 @@
 ---
 type: matiere
-tags: [year2]
-sources: ["[[Cours/Year 2/Projet Design/Edossah/EDOSSAH|EDOSSAH]]", "[[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi|Qui dit quoi]]"]
+tags:
+  - year2
+sources:
+  - "[[EDOSSAH|EDOSSAH]]"
+  - "[[Qui dit quoi|Qui dit quoi]]"
 maj: 2026-11-06
 ---
 
@@ -11,8 +14,8 @@ Projets de design de 2e année, sur deux commandes d'organisations sociales.
 
 | Projet | Sujet | Notes et résumés |
 |---|---|---|
-| Edossah | Atelier d'immersion entre institutions publiques et associations du travail social | [[Cours/Year 2/Projet Design/Edossah/EDOSSAH\|EDOSSAH]] : [[EDOSSAH (résumé)\|Résumé]] |
-| Hello Art Up | Impliquer résidents d'EHPAD, familles et salariés | [[Cours/Year 2/Projet Design/Hello Art Up/Helloartup\|Helloartup]] : [[Helloartup (résumé)\|Résumé]] ; [[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi\|Qui dit quoi]] et sa copie : [[Qui dit quoi (résumé)\|Résumé]] |
+| Edossah | Atelier d'immersion entre institutions publiques et associations du travail social | [[EDOSSAH\|EDOSSAH]] : [[EDOSSAH (résumé)\|Résumé]] |
+| Hello Art Up | Impliquer résidents d'EHPAD, familles et salariés | [[Helloartup\|Helloartup]] : [[Helloartup (résumé)\|Résumé]] ; [[Qui dit quoi\|Qui dit quoi]] et sa copie : [[Qui dit quoi (résumé)\|Résumé]] |
 
 ## Documents PDF
 

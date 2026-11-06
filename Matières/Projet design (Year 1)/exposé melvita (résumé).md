@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/ELBA/exposé melvita|exposé melvita]]"]
+tags:
+  - year1
+sources:
+  - "[[exposé melvita|exposé melvita]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/ELBA/exposé melvita|exposé melvita]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre trois membres, non reprise ici).
+Résumé de [[exposé melvita|exposé melvita]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre trois membres, non reprise ici).
 
 **Démarche**
 1. **Brief** : un entretien en visio avec ELBA et Melvita donne la problématique « Comment aider Melvita à se différencier grâce au retail régénératif ? » (voir [[Topo ELBA (résumé)|Topo ELBA (résumé)]]).

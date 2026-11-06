@@ -27,4 +27,4 @@ Le chapitre généralise les vecteurs de $\mathbb{R}^n$, puis décrit une matric
 
 Rien n'a été corrigé dans le cours.
 
-1. **Dixième axiome** : image lue directement, elle s'arrête à l'axiome 9, alors que le texte annonce dix axiomes. Le manquant est $1\mathbf{u} = \mathbf{u}$ : il figure dans les propriétés de $\mathbb{R}^n$ de [[Chp 0a - Linear combination]] et dans la définition de [[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]].
+1. **Dixième axiome** : image lue directement, elle s'arrête à l'axiome 9, alors que le texte annonce dix axiomes. Le manquant est $1\mathbf{u} = \mathbf{u}$ : il figure dans les propriétés de $\mathbb{R}^n$ de [[Chp 0a - Linear combination]] et dans la définition de [[chp1|chp1 (Algèbre)]].

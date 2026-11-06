@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [cybernétique, machine cybernétique, cybernetics]
-matieres: [Philosophie, IA]
-sources: ["[[Cours/Year 2/Philosophie/philo 5|philo 5]]", "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - cybernétique
+  - machine cybernétique
+  - cybernetics
+matieres:
+  - Philosophie
+  - IA
+sources:
+  - "[[philo 5|philo 5]]"
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

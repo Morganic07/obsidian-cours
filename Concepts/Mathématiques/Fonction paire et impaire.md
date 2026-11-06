@@ -1,8 +1,19 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [fonction paire, fonction impaire, fonctions paires, fonctions impaires, even function, odd function]
-sources: ["[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]", "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]", "[[Chp6 - Fourier Series]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - fonction paire
+  - fonction impaire
+  - fonctions paires
+  - fonctions impaires
+  - even function
+  - odd function
+sources:
+  - "[[raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1]]"
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]"
+  - "[[Chp6 - Fourier Series]]"
 maj: 2026-11-06
 ---
 

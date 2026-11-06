@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year1]
-aliases: [bits, binary digit, chiffre binaire]
-matieres: [Algo Maths]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[explications DM d'algo]]"]
+tags:
+  - year1
+aliases:
+  - bits
+  - binary digit
+  - chiffre binaire
+matieres:
+  - Algo Maths
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[explications DM d'algo]]"
 maj: 2026-11-06
 ---
 

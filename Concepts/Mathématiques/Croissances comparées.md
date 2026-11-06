@@ -1,8 +1,10 @@
 ---
 type: concept
-tags: [year1]
+tags:
+  - year1
 aliases: []
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

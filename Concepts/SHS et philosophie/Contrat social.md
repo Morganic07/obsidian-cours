@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [contrat social, social contract]
-matieres: [Philosophie, Culture du vivant]
-sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - contrat social
+  - social contract
+matieres:
+  - Philosophie
+  - Culture du vivant
+sources:
+  - "[[L'état|L'état (Philosophie)]]"
+  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
 maj: 2026-11-06
 ---
 

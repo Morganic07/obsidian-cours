@@ -1,7 +1,9 @@
 ---
 type: matiere
-tags: [year2]
-sources: ["[[Cours/Year 2/écriture narrative/écriture narrative|écriture narrative]]"]
+tags:
+  - year2
+sources:
+  - "[[écriture narrative|écriture narrative]]"
 maj: 2026-11-06
 ---
 
@@ -11,7 +13,7 @@ maj: 2026-11-06
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Cours/Year 2/écriture narrative/écriture narrative\|écriture narrative]] | Nouvelle à contraintes (ticket imposé) | [[écriture narrative (résumé)\|Résumé]] |
+| [[écriture narrative\|écriture narrative]] | Nouvelle à contraintes (ticket imposé) | [[écriture narrative (résumé)\|Résumé]] |
 
 ## Concepts
 

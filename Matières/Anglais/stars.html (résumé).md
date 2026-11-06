@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Anglais/stars.html|stars.html]]"]
+tags:
+  - year2
+sources:
+  - "[[stars.html|stars.html]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Anglais/stars.html|stars.html]], dans [[Anglais (matière)]]. Le fichier contient le code d'un site web 3D sur la taille des étoiles (HTML, CSS, JavaScript ; interface en anglais), puis un brouillon des textes en français.
+Résumé de [[stars.html|stars.html]], dans [[Anglais (matière)]]. Le fichier contient le code d'un site web 3D sur la taille des étoiles (HTML, CSS, JavaScript ; interface en anglais), puis un brouillon des textes en français.
 
 **Contenu du site.** Panneau de navigation (touches J et K, zoom, vue 3D), puis une explication : une étoile est un corps massif d'hydrogène et d'hélium qui produit de l'énergie par fusion. Sa catégorie dépend de la masse et non de la taille. Plus elle est massive, plus elle est chaude ; plus elle est froide, plus elle tire vers le rouge. Catégories par taille : naine rouge, type solaire, géante, supergéante, hypergéante.
 

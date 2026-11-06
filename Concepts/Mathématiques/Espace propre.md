@@ -1,8 +1,17 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [eigenspace, eigenspaces, espaces propres, sous-espace propre]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - eigenspace
+  - eigenspaces
+  - espaces propres
+  - sous-espace propre
+sources:
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[chp7|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

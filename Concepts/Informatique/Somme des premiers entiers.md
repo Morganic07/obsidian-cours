@@ -1,8 +1,15 @@
 ---
 type: concept
-tags: [year1]
-aliases: [somme des n premiers entiers, nombre triangulaire, nombres triangulaires]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel]]"]
+tags:
+  - year1
+aliases:
+  - somme des n premiers entiers
+  - nombre triangulaire
+  - nombres triangulaires
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
+  - "[[raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel]]"
 maj: 2026-11-06
 ---
 

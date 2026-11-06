@@ -1,7 +1,9 @@
 ---
 type: matiere
-tags: [year4]
-sources: ["[[Cours/Year 4/projet court/recherches femmes et foot|recherches femmes et foot]]"]
+tags:
+  - year4
+sources:
+  - "[[recherches femmes et foot|recherches femmes et foot]]"
 maj: 2026-11-06
 ---
 

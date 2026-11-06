@@ -1,8 +1,27 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [linear transformation, linear transformations, linear map, linear maps, application linéaire, applications linéaires, matrix transformation, transformation matricielle, linear function]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0b - Matrix algebra]]", "[[Chp 0d - Vector Space]]", "[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - linear transformation
+  - linear transformations
+  - linear map
+  - linear maps
+  - application linéaire
+  - applications linéaires
+  - matrix transformation
+  - transformation matricielle
+  - linear function
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[Chp 0b - Matrix algebra]]"
+  - "[[Chp 0d - Vector Space]]"
+  - "[[Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[chp2|chp2 (Algèbre)]]"
+  - "[[chp4|chp4 (Algèbre)]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
 maj: 2026-11-06
 ---
 
@@ -24,7 +43,7 @@ Voir aussi : [[Espace nul]], [[Espace des colonnes]], [[Injectivité et surjecti
 
 ## À vérifier
 
-- [[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]] écrit « L(E,F) est stable par application linéaire » pour dire stable par combinaison linéaire.
+- [[chp2|chp2 (Algèbre)]] écrit « L(E,F) est stable par application linéaire » pour dire stable par combinaison linéaire.
 - [[Chp2 - Symmetric matrices and quadratic forms]] : « $F = \mathbb{N}$ » est faux pour le corps ($\mathbb{N}$ n'est pas un corps), et « field (ensemble) » est trop vague.
 
 Résumés : [[Chp 0a - Linear combination (résumé)]], [[Chp 0b - Matrix algebra (résumé)]], [[Chp 0d - Vector Space (résumé)]], [[Chp2 - Symmetric matrices and quadratic forms (résumé)]], [[chp2 (résumé)|chp2 (résumé)]], [[chp4 (résumé)|chp4 (résumé)]], [[chp5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

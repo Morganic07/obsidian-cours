@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Philosophie/philo 1|philo 1]]"]
+tags:
+  - year2
+sources:
+  - "[[philo 1|philo 1]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Philosophie/philo 1|philo 1]], dans [[Philosophie (matière)]]. Titre : « Art et instruments techniques : pensés par rapport à une nature finaliste ». Voir [[Progrès technique]].
+Résumé de [[philo 1|philo 1]], dans [[Philosophie (matière)]]. Titre : « Art et instruments techniques : pensés par rapport à une nature finaliste ». Voir [[Progrès technique]].
 
 **1. Technique et nature dans l'histoire.**
 - Platon : la technique prolonge la nature et sert le bien commun, mais les artisans sont critiqués.

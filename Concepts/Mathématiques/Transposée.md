@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year1, year2, year3]
-aliases: [transpose, transposes, transposée d'une matrice, transposed matrix]
-matieres: [Bilinear Algebra, Algèbre Linéaire, Data analysis (Thanos)]
-sources: ["[[Chp 0b - Matrix algebra]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]", "[[Summary functions in RStudio]]"]
+tags:
+  - year1
+  - year2
+  - year3
+aliases:
+  - transpose
+  - transposes
+  - transposée d'une matrice
+  - transposed matrix
+matieres:
+  - Bilinear Algebra
+  - Algèbre Linéaire
+  - Data analysis (Thanos)
+sources:
+  - "[[Chp 0b - Matrix algebra]]"
+  - "[[chp4|chp4 (Algèbre)]]"
+  - "[[Summary functions in RStudio]]"
 maj: 2026-11-06
 ---
 
@@ -19,6 +32,6 @@ Notion parente : [[Matrice]]. Liens : [[Matrice symétrique]], [[Déterminant]],
 
 ## À vérifier
 
-- [[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]] ne donne que le format de la transposée, pas la règle $a'_{ij} = a_{ji}$.
+- [[chp4|chp4 (Algèbre)]] ne donne que le format de la transposée, pas la règle $a'_{ij} = a_{ji}$.
 
 Résumés : [[Chp 0b - Matrix algebra (résumé)]], [[Chp 0c - Determinants (résumé)]], [[chp4 (résumé)|chp4 (résumé)]], [[Summary functions in RStudio (résumé)]]

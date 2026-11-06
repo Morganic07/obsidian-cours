@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year4]
-aliases: [commun numérique, communs numériques, digital commons]
-matieres: [SHS]
-sources: ["[[SHS Recherches-Morgane]]", "[[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]]"]
+tags:
+  - year4
+aliases:
+  - commun numérique
+  - communs numériques
+  - digital commons
+matieres:
+  - SHS
+sources:
+  - "[[SHS Recherches-Morgane]]"
+  - "[[Prise de note SHS|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 

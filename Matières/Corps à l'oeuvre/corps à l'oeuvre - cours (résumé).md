@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours|corps à l'oeuvre - cours]]"]
+tags:
+  - year1
+sources:
+  - "[[corps à l'oeuvre - cours|corps à l'oeuvre - cours]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours|corps à l'oeuvre - cours]], dans [[Corps à l'oeuvre (matière)]]. Cours du 09/01/24, avec un intervenant extérieur (nom non repris). Notion centrale : la « gestelligence ».
+Résumé de [[corps à l'oeuvre - cours|corps à l'oeuvre - cours]], dans [[Corps à l'oeuvre (matière)]]. Cours du 09/01/24, avec un intervenant extérieur (nom non repris). Notion centrale : la « gestelligence ».
 
 - **Chorégraphie et design.** Le chorégraphe conçoit la manière dont le chœur bouge ; le design fait bouger les gens par ses objets, services et espaces. Formule : sens, connaissance, énergie.
 - **Préhistoire.** Homo sapiens a 300 000 ans environ (os datés de 2017 au Maroc), l'écriture 6 000 ans : physiologiquement nous sommes les mêmes. Face à beaucoup d'yeux, le cerveau primitif réagit comme à un danger, d'où le stress en public. La partie inconsciente prend le plus de décisions. La technologie prolonge les capacités humaines (le couteau prolonge ongles et dents).

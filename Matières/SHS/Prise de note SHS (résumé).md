@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year4]
-sources: ["[[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]]"]
+tags:
+  - year4
+sources:
+  - "[[Prise de note SHS|Prise de note SHS]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]], dans [[SHS (matière)]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels (liens non repris ici).
+Résumé de [[Prise de note SHS|Prise de note SHS]], dans [[SHS (matière)]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels (liens non repris ici).
 
 **Notes de recherche.** Pablo Stanley publie des illustrations libres et choisit de les héberger sur Blush.design, logiciel propriétaire. Licences : CC0, MIT, OFL, ISC, licences maison ([[Licences libres]]). Financement : freemium, Vault, dons. Crédits (Collletttivo, Blush) : reconnaissance et visibilité. CocoMaterial est à rapprocher de Penpot, développé par Kaleidos (entreprise de tech open source). Hugging Face et OpenFisca sont cités. L'IA dans l'open source est dangereuse selon le secteur, et les licences ne bloquent pas l'IA.
 

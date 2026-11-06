@@ -1,8 +1,18 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [nombres premiers, prime number, prime numbers, test de primalité]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[DM Shell Scripting]]", "[[Copy of 08 Processes-TP]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - nombres premiers
+  - prime number
+  - prime numbers
+  - test de primalité
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
+  - "[[DM Shell Scripting]]"
+  - "[[Copy of 08 Processes-TP]]"
 maj: 2026-11-06
 ---
 

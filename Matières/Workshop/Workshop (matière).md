@@ -1,7 +1,9 @@
 ---
 type: matiere
-tags: [year3]
-sources: ["[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]"]
+tags:
+  - year3
+sources:
+  - "[[Reyou|Reyou]]"
 maj: 2026-11-06
 ---
 

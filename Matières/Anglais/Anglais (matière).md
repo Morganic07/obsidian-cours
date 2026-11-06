@@ -1,7 +1,11 @@
 ---
 type: matiere
-tags: [year2]
-sources: ["[[Cours/Year 2/Anglais/world in 2075|world in 2075]]", "[[Cours/Year 2/Anglais/stars.html|stars.html]]", "[[Cours/Year 2/Anglais/Global Exam Vocab|Global Exam Vocab]]"]
+tags:
+  - year2
+sources:
+  - "[[world in 2075|world in 2075]]"
+  - "[[stars.html|stars.html]]"
+  - "[[Global Exam Vocab|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 
@@ -11,9 +15,9 @@ Anglais de 2e année, par projets et vocabulaire de design.
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Cours/Year 2/Anglais/world in 2075\|world in 2075]] | Exposé prospectif | [[world in 2075 (résumé)\|Résumé]] |
-| [[Cours/Year 2/Anglais/stars.html\|stars.html]] | Site 3D sur les étoiles | [[stars.html (résumé)\|Résumé]] |
-| [[Cours/Year 2/Anglais/Global Exam Vocab\|Global Exam Vocab]] | Glossaire de révision | [[Global Exam Vocab (résumé)\|Résumé]] |
+| [[world in 2075\|world in 2075]] | Exposé prospectif | [[world in 2075 (résumé)\|Résumé]] |
+| [[stars.html\|stars.html]] | Site 3D sur les étoiles | [[stars.html (résumé)\|Résumé]] |
+| [[Global Exam Vocab\|Global Exam Vocab]] | Glossaire de révision | [[Global Exam Vocab (résumé)\|Résumé]] |
 
 ## Concepts
 

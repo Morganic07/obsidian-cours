@@ -1,11 +1,14 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi|Qui dit quoi]]", "[[Cours/Year 2/Projet Design/Hello Art Up/Copy of Qui dit quoi|Copy of Qui dit quoi]]"]
+tags:
+  - year2
+sources:
+  - "[[Qui dit quoi|Qui dit quoi]]"
+  - "[[Copy of Qui dit quoi|Copy of Qui dit quoi]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi|Qui dit quoi]] et de sa copie [[Cours/Year 2/Projet Design/Hello Art Up/Copy of Qui dit quoi|Copy of Qui dit quoi]], dans [[Projet design (Year 2) (matière)]]. La copie est une version antérieure : seule la répartition des diapositives diffère, dans les passages comparés. Les membres de l'équipe ne sont pas nommés ici.
+Résumé de [[Qui dit quoi|Qui dit quoi]] et de sa copie [[Copy of Qui dit quoi|Copy of Qui dit quoi]], dans [[Projet design (Year 2) (matière)]]. La copie est une version antérieure : seule la répartition des diapositives diffère, dans les passages comparés. Les membres de l'équipe ne sont pas nommés ici.
 
 Texte de l'oral de la phase d'analyse du projet Hello Art Up (voir [[Helloartup (résumé)|Helloartup (résumé)]]).
 

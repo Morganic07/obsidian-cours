@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/ligue football/readme|readme (ligue football)]]"]
+tags:
+  - year3
+sources:
+  - "[[readme|readme (ligue football)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 3/ligue football/readme|readme]], dans [[Ligue football (matière)]]. Note très courte : un fichier de présentation de projet de base de données.
+Résumé de [[readme|readme]], dans [[Ligue football (matière)]]. Note très courte : un fichier de présentation de projet de base de données.
 
 Contenu du rendu décrit :
 - un rapport PDF : dictionnaire de données, MCD, MLD, schéma d'architecture, DDL (création des tables et jeu de données), DML (9 requêtes SQL) ;

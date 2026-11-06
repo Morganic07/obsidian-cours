@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/Villeneuve/recherches/Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]]"]
+tags:
+  - year1
+sources:
+  - "[[Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/Villeneuve/recherches/Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]], dans [[Projet design (Year 1) (matière)]]. Notes prises lors de la présentation du brief par la ville.
+Résumé de [[Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]], dans [[Projet design (Year 1) (matière)]]. Notes prises lors de la présentation du brief par la ville.
 
 **La ville** (chiffres INSEE cités) : département 92, 24 592 habitants en 2020, 9 370 ménages, revenu disponible médian de 18 570 € par unité de consommation en 2021, 41,9 % des habitants ont moins de 30 ans, 58 % de la ville en quartier prioritaire (QPV). Fort engagement citoyen ; beaucoup de terrains vierges, la moitié de la ville est inhabitée ; la ville est à l'étape 1 sur 32 de la démarche écoquartier.
 

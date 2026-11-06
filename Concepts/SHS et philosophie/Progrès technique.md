@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [progrès technique, progrès scientifique et technique, solutionnisme technologique, solutionnisme]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 2/Philosophie/philo 1|philo 1]]", "[[Cours/Year 2/Philosophie/philo 4|philo 4]]"]
+tags:
+  - year2
+aliases:
+  - progrès technique
+  - progrès scientifique et technique
+  - solutionnisme technologique
+  - solutionnisme
+matieres:
+  - Philosophie
+sources:
+  - "[[philo 1|philo 1]]"
+  - "[[philo 4|philo 4]]"
 maj: 2026-11-06
 ---
 

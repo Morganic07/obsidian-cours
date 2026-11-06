@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year3]
-aliases: [stem and leaf, stem-and-leaf, stem and leaf display, tige et feuilles]
-matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp2 - Descriptive statistics]]", "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"]
+tags:
+  - year3
+aliases:
+  - stem and leaf
+  - stem-and-leaf
+  - stem and leaf display
+  - tige et feuilles
+matieres:
+  - Statistics
+  - Data analysis (Thanos)
+sources:
+  - "[[Chp2 - Descriptive statistics]]"
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"
 maj: 2026-11-06
 ---
 

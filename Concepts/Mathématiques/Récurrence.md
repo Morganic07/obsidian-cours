@@ -1,9 +1,27 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [preuve par récurrence, raisonnement par récurrence, démonstration par récurrence, hérédité]
-matieres: [Outil Maths, Algo Maths, Analyse Maths, Algo]
-sources: ["[[Chapitre 1 logique]]", "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]", "[[raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1 algèbre]]", "[[raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique]]", "[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]", "[[Chp 0e - Eigenvalues and eigenvectors]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - preuve par récurrence
+  - raisonnement par récurrence
+  - démonstration par récurrence
+  - hérédité
+matieres:
+  - Outil Maths
+  - Algo Maths
+  - Analyse Maths
+  - Algo
+sources:
+  - "[[Chapitre 1 logique]]"
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
+  - "[[raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels]]"
+  - "[[raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1 algèbre]]"
+  - "[[raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique]]"
+  - "[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
 maj: 2026-11-06
 ---
 

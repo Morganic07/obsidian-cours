@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year3]
-aliases: [IA symbolique, IA connexionniste, approche symbolique, approche connexionniste, symbolic AI, connectionism]
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
+tags:
+  - year3
+aliases:
+  - IA symbolique
+  - IA connexionniste
+  - approche symbolique
+  - approche connexionniste
+  - symbolic AI
+  - connectionism
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

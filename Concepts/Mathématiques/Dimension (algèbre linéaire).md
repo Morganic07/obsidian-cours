@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [dimension, dimensions, dimension finie, dimension infinie]
-matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0d - Vector Space]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - dimension
+  - dimensions
+  - dimension finie
+  - dimension infinie
+matieres:
+  - Bilinear Algebra
+  - Algèbre Linéaire
+sources:
+  - "[[Chp 0d - Vector Space]]"
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[chp4|chp4 (Algèbre)]]"
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
 maj: 2026-11-06
 ---
 

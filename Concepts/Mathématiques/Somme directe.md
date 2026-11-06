@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year1]
-aliases: [sommes directes, direct sum, sous-espaces supplémentaires, en somme directe]
-sources: ["[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
+tags:
+  - year1
+aliases:
+  - sommes directes
+  - direct sum
+  - sous-espaces supplémentaires
+  - en somme directe
+sources:
+  - "[[chp7|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [circular economy, obsolescence programmée, modèle circulaire, circularité, durabilité programmée, allongement de la durée d'usage, consommation responsable]
-matieres: [workshop, Projet design, Culture du vivant]
-sources: ["[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]", "[[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours|Culture du vivant Dernier cours]]", "[[Cours/Year 1/Projet design/ELBA/exposé melvita|exposé melvita]]", "[[Cours/Year 1/Projet design/ELBA/Topo ELBA|Topo ELBA]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - circular economy
+  - obsolescence programmée
+  - modèle circulaire
+  - circularité
+  - durabilité programmée
+  - allongement de la durée d'usage
+  - consommation responsable
+matieres:
+  - workshop
+  - Projet design
+  - Culture du vivant
+sources:
+  - "[[Reyou|Reyou]]"
+  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
+  - "[[exposé melvita|exposé melvita]]"
+  - "[[Topo ELBA|Topo ELBA]]"
 maj: 2026-11-06
 ---
 
@@ -24,6 +40,6 @@ Voir aussi : [[Retail régénératif]], [[Servitisation]], [[Limites planétaire
 
 ## À vérifier
 
-- La transcription de [[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
+- La transcription de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
 
 Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[Culture du vivant Dernier cours (résumé)|Culture du vivant Dernier cours (résumé)]], [[exposé melvita (résumé)|exposé melvita (résumé)]], [[Topo ELBA (résumé)|Topo ELBA (résumé)]]

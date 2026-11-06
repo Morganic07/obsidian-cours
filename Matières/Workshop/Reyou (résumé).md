@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]"]
+tags:
+  - year3
+sources:
+  - "[[Reyou|Reyou]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]], dans [[Workshop (matière)]]. Dossier de projet long (recherches, idées, plan de l'oral). Les tableaux comparatifs et les sources internet sont repris tels que cités ; la note signale des sources tronquées dans le tableau neuf contre reconditionné.
+Résumé de [[Reyou|Reyou]], dans [[Workshop (matière)]]. Dossier de projet long (recherches, idées, plan de l'oral). Les tableaux comparatifs et les sources internet sont repris tels que cités ; la note signale des sources tronquées dans le tableau neuf contre reconditionné.
 
 **Sujet** : ReYOU reconditionne du mobilier de bureau. Il faut concevoir, sur un salon professionnel, un espace de coworking ou de détente de 80 à 120 m² qui soit attractif et qui enseigne l'économie circulaire. Problématique : « Comment un espace temporaire peut-il réparer l'image du meuble d'occasion ? »
 

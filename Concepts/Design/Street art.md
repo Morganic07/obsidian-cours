@@ -1,8 +1,11 @@
 ---
 type: concept
-tags: [year1, nomme]
+tags:
+  - year1
+  - nomme
 aliases: []
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"]
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
 maj: 2026-11-06
 ---
 

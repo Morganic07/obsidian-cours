@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/SHS/Entretiens/Synthese SHS GPT|Synthese SHS GPT]]"]
+tags:
+  - year3
+sources:
+  - "[[Synthese SHS GPT|Synthese SHS GPT]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 3/SHS/Entretiens/Synthese SHS GPT|Synthese SHS GPT]], dans [[SHS (matière)]]. Analyse de trois entretiens semi-directifs sur la mobilité du futur (voir [[Transcriptions des entretiens (résumé)|les transcriptions]]). Les interviewés sont désignés par un prénom d'emprunt dans la note ; on parle ici de M., A. et F.
+Résumé de [[Synthese SHS GPT|Synthese SHS GPT]], dans [[SHS (matière)]]. Analyse de trois entretiens semi-directifs sur la mobilité du futur (voir [[Transcriptions des entretiens (résumé)|les transcriptions]]). Les interviewés sont désignés par un prénom d'emprunt dans la note ; on parle ici de M., A. et F.
 
 | Thème | M. | A. | F. |
 |---|---|---|---|

@@ -1,9 +1,13 @@
 ---
 type: concept
-tags: [year3, nomme]
+tags:
+  - year3
+  - nomme
 aliases: []
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
 maj: 2026-11-06
 ---
 

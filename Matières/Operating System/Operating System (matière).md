@@ -30,7 +30,7 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 | Rendu TP2 (dossier DM/TP2) | Rendu du TP2 | [[TP2 (résumé)\|Résumé]] |
 | Rendu TP3 (dossier DM/TP3) | Rendu du TP3 | [[TP3 (résumé)\|Résumé]] |
 | Rendu TP4 (dossier DM/TP4) | Rendu du TP4 | [[TP4 (résumé)\|Résumé]] |
-| [[Cours/Year 2/Operating System/DM/TP5/TP5\|TP5 (DM)]] | Rendu du TP5 | [[TP5 (résumé)\|Résumé]] |
+| [[TP5\|TP5 (DM)]] | Rendu du TP5 | [[TP5 (résumé)\|Résumé]] |
 | [[Cours/Year 2/Operating System/DM/TP6/log\|log (TP6)]] | Données pour AWK | [[log (résumé)\|Résumé]] |
 
 ## Documents PDF

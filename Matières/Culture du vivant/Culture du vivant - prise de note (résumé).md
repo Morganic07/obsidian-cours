@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year4]
-sources: ["[[Cours/Year 4/Culture du vivant/Culture du vivant - prise de note|Culture du vivant - prise de note]]"]
+tags:
+  - year4
+sources:
+  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 4/Culture du vivant/Culture du vivant - prise de note|Culture du vivant - prise de note]], dans [[Culture du vivant (matière)]]. Cours 1, notes de l'étudiant.
+Résumé de [[Culture du vivant - prise de note|Culture du vivant - prise de note]], dans [[Culture du vivant (matière)]]. Cours 1, notes de l'étudiant.
 
 - **Capitalisme et design.** Le capitalisme tend vers l'autoritarisme (politique) et le monopole (économie). Tout design est politique (un groupe plus une prise de position). Pour toute proposition : à qui cela profite, qui est exploité ?
 - **Smith.** La « main invisible » (l'égoïsme individuel produit la prospérité collective, le capitalisme s'autorégule) : l'étudiant juge que « il s'est trompé ».

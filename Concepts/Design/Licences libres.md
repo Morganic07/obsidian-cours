@@ -1,9 +1,23 @@
 ---
 type: concept
-tags: [year2, year4]
-aliases: [licence libre, licences libres, licences ouvertes, open source, licence MIT, OFL, ISC]
-matieres: [SHS, Anglais]
-sources: ["[[Cours/Year 4/SHS/Prise de note SHS|Prise de note SHS]]", "[[Entretien sur l'open source (résumé)]]", "[[Global Exam Vocab]]"]
+tags:
+  - year2
+  - year4
+aliases:
+  - licence libre
+  - licences libres
+  - licences ouvertes
+  - open source
+  - licence MIT
+  - OFL
+  - ISC
+matieres:
+  - SHS
+  - Anglais
+sources:
+  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Entretien sur l'open source (résumé)]]"
+  - "[[Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 

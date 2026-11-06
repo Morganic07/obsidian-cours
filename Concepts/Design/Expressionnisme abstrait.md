@@ -1,8 +1,12 @@
 ---
 type: concept
-tags: [year1, nomme]
-aliases: [expressionisme abstrait]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"]
+tags:
+  - year1
+  - nomme
+aliases:
+  - expressionisme abstrait
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
 maj: 2026-11-06
 ---
 

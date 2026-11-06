@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Communication orale/Debats|Debats]]"]
+tags:
+  - year1
+sources:
+  - "[[Debats|Debats]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Communication orale/Debats|Debats]], dans [[Communication orale (matière)]]. Deux dossiers d'arguments préparés pour des débats.
+Résumé de [[Debats|Debats]], dans [[Communication orale (matière)]]. Deux dossiers d'arguments préparés pour des débats.
 
 **Légalisation du cannabis (argumentaire « pour »).** Chiffres cités : 17 millions d'expérimentateurs, 5 millions d'usagers ; marché de 809 à 1 424 millions d'euros en 2010 (48 % du marché des drogues illicites).
 - Économie : la pénalisation nourrit les trafiquants ; la répression coûte environ 400 M€ par an ; pas de recette fiscale, contrairement à l'alcool et au tabac ; un monopole public à prix élevé pourrait rapporter 1,3 Md€ et économiser 500 M€.

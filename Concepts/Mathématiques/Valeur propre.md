@@ -1,8 +1,19 @@
 ---
 type: concept
-tags: [year1, year2, year3]
-aliases: [eigenvalue, eigenvalues, valeurs propres, éléments propres]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]", "[[Cours 13 - Principal Components Analysis]]", "[[Cours 13 - PCA in R]]"]
+tags:
+  - year1
+  - year2
+  - year3
+aliases:
+  - eigenvalue
+  - eigenvalues
+  - valeurs propres
+  - éléments propres
+sources:
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Cours 13 - Principal Components Analysis]]"
+  - "[[Cours 13 - PCA in R]]"
 maj: 2026-11-06
 ---
 
@@ -24,7 +35,7 @@ Notion parente : [[Morphisme]]. Voir aussi : [[Vecteur propre]], [[Espace propre
 
 ## À vérifier
 
-- [[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]] écrit « Ǝ un vecteur nul X tq A·X = λ·X » : il faut « non nul ».
+- [[chp7|chp7 (Algèbre)]] écrit « Ǝ un vecteur nul X tq A·X = λ·X » : il faut « non nul ».
 - Même chapitre, coquilles : « non-injonctive », et « une valeur propre peut si Ker f ≠ {0} » (il manque « être nulle »).
 - Dans [[Chp 0e - Eigenvalues and eigenvectors]], une note personnelle dit que la forme échelonnée permet de « repérer direct les eigenvalues », ce que contredit l'avertissement du cours.
 - Le cours d'ACP nomme « eigenvalue » deux grandeurs aux normalisations différentes.

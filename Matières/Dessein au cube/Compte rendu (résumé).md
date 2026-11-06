@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/inégalités alimentaires/Compte rendu|Compte rendu (Dessein au cube)]]"]
+tags:
+  - year1
+sources:
+  - "[[Compte rendu|Compte rendu (Dessein au cube)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Compte rendu|Compte rendu]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Compte rendu|Compte rendu]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Rapport de l'enquête menée auprès de deux participants (entretiens de 30 min et 1 h 30, le second en visioconférence).
 

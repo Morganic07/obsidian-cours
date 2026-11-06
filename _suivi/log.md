@@ -86,7 +86,7 @@ Les 53 PDF et 6 PPTX de `raw/` sont résumés en 4 lots, soit 1 515 pages : 59 r
 
 ## [2026-11-06] import | Mise à jour depuis Drive
 
-Deux fichiers changés sur Drive, aucune image à transcrire. Nouvelle note `Year 4/Gestion financière`, rangée à la racine de l'année : résumé et page de matière [[Gestion financière (matière)]] créés, sans concept (définitions d'une ligne), trois points à vérifier dont la définition du PNB. Note modifiée `Chp1 - intro to data mining` : seul ajout repéré, la phrase reliant le classifieur à la matrice de confusion, reportée dans le résumé. L'index compte désormais 163 notes (le décompte de 165 n'avait pas suivi le retrait de trois notes isolées).
+Deux fichiers changés sur Drive, aucune image à transcrire. Nouvelle note `Year 4/Gestion financière`, rangée à la racine de l'année : résumé et page de matière Gestion financière (matière) créés, sans concept (définitions d'une ligne), trois points à vérifier dont la définition du PNB. Note modifiée `Chp1 - intro to data mining` : seul ajout repéré, la phrase reliant le classifieur à la matrice de confusion, reportée dans le résumé. L'index compte désormais 163 notes (le décompte de 165 n'avait pas suivi le retrait de trois notes isolées).
 
 ## [2026-11-06] ingest | Une page par notion nommée dans les cours
 

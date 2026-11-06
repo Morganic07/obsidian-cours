@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Algo Maths/Python|Python (Algo Maths)]]"]
+tags:
+  - year1
+sources:
+  - "[[Python|Python (Algo Maths)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Algo Maths/Python|Python (Algo Maths)]], dans [[Algo Maths (matière)]]. Note courte, sans image.
+Résumé de [[Python|Python (Algo Maths)]], dans [[Algo Maths (matière)]]. Note courte, sans image.
 
 ## Contenu, dans l'ordre du cours
 

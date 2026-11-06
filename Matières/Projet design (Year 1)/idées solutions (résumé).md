@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/Villeneuve/recherches/idées solutions|idées solutions]]"]
+tags:
+  - year1
+sources:
+  - "[[idées solutions|idées solutions]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/Villeneuve/recherches/idées solutions|idées solutions]], dans [[Projet design (Year 1) (matière)]]. La note se compose de quatre images transcrites, extraites d'un rapport sur les tiers-lieux destiné aux collectivités (2018) ; les corrections d'apostrophes sont signalées « À vérifier » dans la note.
+Résumé de [[idées solutions|idées solutions]], dans [[Projet design (Year 1) (matière)]]. La note se compose de quatre images transcrites, extraites d'un rapport sur les tiers-lieux destiné aux collectivités (2018) ; les corrections d'apostrophes sont signalées « À vérifier » dans la note.
 
 - **Retours de terrain** (« Photographie des tiers-lieux 2016 ») : 60 % citent l'effet réseau et le bouche à oreille comme levier ; 30 % la communication et l'animation ; 19 % la diversification des services ; 55 % se disent freinés par la méconnaissance de leur action.
 - **Expérience tiers-lieu** : partager son quotidien, rencontrer d'autres profils, avec une facilitation interne (collectif, ateliers, rencontres) et externe (réseaux de partenaires, financeurs, débouchés).

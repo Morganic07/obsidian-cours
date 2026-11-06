@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Philosophie/philo 4|philo 4]]"]
+tags:
+  - year2
+sources:
+  - "[[philo 4|philo 4]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Philosophie/philo 4|philo 4]], dans [[Philosophie (matière)]]. Titre : « Technologie et rapport à la technologie ». Voir [[Progrès technique]].
+Résumé de [[philo 4|philo 4]], dans [[Philosophie (matière)]]. Titre : « Technologie et rapport à la technologie ». Voir [[Progrès technique]].
 
 - **Concept de progrès.** Le progrès technique est un fait, mais sa perception varie : solutionnisme (la technique résout les problèmes) ou approche critique.
 - **Pascal (*Traité sur le vide*, 1647).** Contre Aristote, il défend l'existence du vide. L'espace d'Aristote est qualitatif (haut, bas, lieux), celui de Pascal quantitatif (x, y, z). Faute de preuve directe, il justifie sa méthode : l'apprentissage de l'humanité ressemble à celui d'un individu, donc le progrès est une « substance transhistorique » et l'on peut remettre en cause les idées passées.

@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year3]
-aliases: [clé primaire, clef primaire, clé étrangère, clef étrangère, clés primaires, primary key, foreign key, clé composée, clé primaire composée, composite key]
-matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]", "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]", "[[Cours/Year 3/ligue football/readme|readme (ligue football)]]"]
+tags:
+  - year3
+aliases:
+  - clé primaire
+  - clef primaire
+  - clé étrangère
+  - clef étrangère
+  - clés primaires
+  - primary key
+  - foreign key
+  - clé composée
+  - clé primaire composée
+  - composite key
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[Cours 1 et 2 - Database]]"
+  - "[[raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B]]"
+  - "[[readme|readme (ligue football)]]"
 maj: 2026-11-06
 ---
 

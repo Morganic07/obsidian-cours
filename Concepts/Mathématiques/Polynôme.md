@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year1]
-aliases: [polynômes, division euclidienne de polynômes]
-matieres: [Outil Maths, Analyse Maths]
-sources: ["[[raw/Year 1/Contrôles.pdf|Contrôles]]", "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
+tags:
+  - year1
+aliases:
+  - polynômes
+  - division euclidienne de polynômes
+matieres:
+  - Outil Maths
+  - Analyse Maths
+sources:
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

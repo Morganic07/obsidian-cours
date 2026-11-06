@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant (Y3)]]"]
+tags:
+  - year3
+sources:
+  - "[[Culture du vivant|Culture du vivant (Y3)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant]] (3e année), dans [[Culture du vivant (matière)]]. La note ne contient aucun texte : ce sont huit images, toutes transcrites.
+Résumé de [[Culture du vivant|Culture du vivant]] (3e année), dans [[Culture du vivant (matière)]]. La note ne contient aucun texte : ce sont huit images, toutes transcrites.
 
 1. **[[Collapsologie]] et courbe de deuil** : infographie de Matthieu Van Niel (2017).
 2. **Modèle World3** (« Limites à la croissance », scénario standard) : ressources en baisse continue, pics autour de 2020 pour la production et la nourriture, de 2030-2040 pour la population et la pollution, d'après Turner (2012).

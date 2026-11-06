@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year3]
-aliases: [framework, bibliothèque logicielle, software library, library vs framework]
-matieres: [Data analysis (Thanos)]
-sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"]
+tags:
+  - year3
+aliases:
+  - framework
+  - bibliothèque logicielle
+  - software library
+  - library vs framework
+matieres:
+  - Data analysis (Thanos)
+sources:
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"
 maj: 2026-11-06
 ---
 

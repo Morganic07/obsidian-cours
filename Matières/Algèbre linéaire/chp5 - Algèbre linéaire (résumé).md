@@ -1,7 +1,9 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"]
+tags:
+  - year1
+sources:
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
 maj: 2026-11-05
 ---
 

@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [awk, AWK, commande awk, gawk]
-matieres: [Operating System]
-sources: ["[[Cours TP5]]", "[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]", "[[TP5]]", "[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"]
+tags:
+  - year2
+aliases:
+  - awk
+  - AWK
+  - commande awk
+  - gawk
+matieres:
+  - Operating System
+sources:
+  - "[[Cours TP5]]"
+  - "[[raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command]]"
+  - "[[TP5]]"
+  - "[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"
 maj: 2026-11-06
 ---
 

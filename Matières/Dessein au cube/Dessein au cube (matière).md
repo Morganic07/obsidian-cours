@@ -1,7 +1,10 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/Synthèse|Synthèse]]", "[[Cours/Year 1/Dessein au cube/Untitled document|Untitled document]]"]
+tags:
+  - year1
+sources:
+  - "[[Synthèse|Synthèse]]"
+  - "[[Untitled document|Untitled document]]"
 maj: 2026-11-06
 ---
 
@@ -11,12 +14,12 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Cours/Year 1/Dessein au cube/Untitled document\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
-| [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Inégalités alimentaires\|Inégalités alimentaires]] | Problématique et questions | [[Inégalités alimentaires (résumé)\|Résumé]] |
-| [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Pistes entrevue\|Pistes entrevue]] | Méthode d'entretien | [[Pistes entrevue (résumé)\|Résumé]] |
-| [[Cours/Year 1/Dessein au cube/inégalités alimentaires/retranscription\|retranscription]] et [[Cours/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
-| [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Compte rendu\|Compte rendu]] | Rapport de l'enquête | [[Compte rendu (résumé)\|Résumé]] |
-| [[Cours/Year 1/Dessein au cube/Synthèse\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
+| [[Untitled document\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
+| [[Inégalités alimentaires\|Inégalités alimentaires]] | Problématique et questions | [[Inégalités alimentaires (résumé)\|Résumé]] |
+| [[Pistes entrevue\|Pistes entrevue]] | Méthode d'entretien | [[Pistes entrevue (résumé)\|Résumé]] |
+| [[retranscription\|retranscription]] et [[1.0 retranscription entrevue\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
+| [[Compte rendu\|Compte rendu]] | Rapport de l'enquête | [[Compte rendu (résumé)\|Résumé]] |
+| [[Synthèse\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
 
 ## Concepts
 

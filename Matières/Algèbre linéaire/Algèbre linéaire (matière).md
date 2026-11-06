@@ -1,7 +1,15 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
+tags:
+  - year1
+sources:
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[chp2|chp2 (Algèbre)]]"
+  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[chp4|chp4 (Algèbre)]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[chp6|chp6 (Algèbre)]]"
+  - "[[chp7|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -11,13 +19,13 @@ Algèbre linéaire de 1re année, en français et centrée sur les applications 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp1\|chp1]] | Espaces vectoriels, familles, bases | [[chp1 (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp2\|chp2]] | Applications linéaires, morphismes, rang | [[chp2 (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp3\|chp3]] | Pivot de Gauss, systèmes | [[chp3 (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp4\|chp4]] | Matrices, matrice d'une application | [[chp4 (résumé)\|Résumé]] |
+| [[chp1\|chp1]] | Espaces vectoriels, familles, bases | [[chp1 (résumé)\|Résumé]] |
+| [[chp2\|chp2]] | Applications linéaires, morphismes, rang | [[chp2 (résumé)\|Résumé]] |
+| [[chp3\|chp3]] | Pivot de Gauss, systèmes | [[chp3 (résumé)\|Résumé]] |
+| [[chp4\|chp4]] | Matrices, matrice d'une application | [[chp4 (résumé)\|Résumé]] |
 | [[Cours/Year 1/Algèbre Linéaire/Cours/chp5\|chp5]] | Changement de base, déterminant | [[chp5 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp6\|chp6]] | Déterminant, caractérisation des bases | [[chp6 (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algèbre Linéaire/Cours/chp7\|chp7]] | Éléments propres, somme directe | [[chp7 (résumé)\|Résumé]] |
+| [[chp6\|chp6]] | Déterminant, caractérisation des bases | [[chp6 (résumé)\|Résumé]] |
+| [[chp7\|chp7]] | Éléments propres, somme directe | [[chp7 (résumé)\|Résumé]] |
 
 ## Concepts
 

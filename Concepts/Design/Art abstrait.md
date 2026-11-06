@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [abstract art]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]", "[[Global Exam Vocab]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - abstract art
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
+  - "[[Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 

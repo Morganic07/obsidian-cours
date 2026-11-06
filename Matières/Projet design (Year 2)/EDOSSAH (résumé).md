@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Projet Design/Edossah/EDOSSAH|EDOSSAH]]"]
+tags:
+  - year2
+sources:
+  - "[[EDOSSAH|EDOSSAH]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Projet Design/Edossah/EDOSSAH|EDOSSAH]], dans [[Projet design (Year 2) (matière)]]. Note de travail d'équipe. Elle indique que le détail de l'atelier a été développé avec un outil de génération de texte à partir des idées de l'équipe ; ces passages sont donc des propositions à valider, non des résultats.
+Résumé de [[EDOSSAH|EDOSSAH]], dans [[Projet design (Year 2) (matière)]]. Note de travail d'équipe. Elle indique que le détail de l'atelier a été développé avec un outil de génération de texte à partir des idées de l'équipe ; ces passages sont donc des propositions à valider, non des résultats.
 
 **Barème rappelé** : 4 points d'analyse (schémas), 4 d'idéation, 4 de réponse au projet, 4 de clarté (présentation et oral).
 

@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year3]
-aliases: [limites planétaires, limite planétaire, planetary boundaries, frontières planétaires, neuf limites planétaires, 9 limites planétaires]
-matieres: [Culture du vivant]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant (Y3)]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"]
+tags:
+  - year3
+aliases:
+  - limites planétaires
+  - limite planétaire
+  - planetary boundaries
+  - frontières planétaires
+  - neuf limites planétaires
+  - 9 limites planétaires
+matieres:
+  - Culture du vivant
+sources:
+  - "[[Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
 maj: 2026-11-06
 ---
 

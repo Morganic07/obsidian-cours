@@ -1,7 +1,23 @@
 ---
 type: matiere
-tags: [year3]
-sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]", "[[Cours 2 - Introduction statistics]]", "[[Cours 3 - Paradoxe de Simpson]]", "[[Cours 4 - Estimation]]", "[[Cours 5 - Hypothesis Testing]]", "[[Cours 6 - T-Test]]", "[[Cours 7 - Z-Test]]", "[[Cours 8 - Chi²-Test]]", "[[Cours 9 - Covariance and Correlation]]", "[[Cours 10 - linear regression]]", "[[Cours 11 - Multiple Linear Regression and F-statistic]]", "[[Cours 12 - ANOVA and F-statistic]]", "[[Cours 13 - Principal Components Analysis]]", "[[Cours 13 - PCA in R]]", "[[Summary functions in RStudio]]"]
+tags:
+  - year3
+sources:
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]"
+  - "[[Cours 2 - Introduction statistics]]"
+  - "[[Cours 3 - Paradoxe de Simpson]]"
+  - "[[Cours 4 - Estimation]]"
+  - "[[Cours 5 - Hypothesis Testing]]"
+  - "[[Cours 6 - T-Test]]"
+  - "[[Cours 7 - Z-Test]]"
+  - "[[Cours 8 - Chi²-Test]]"
+  - "[[Cours 9 - Covariance and Correlation]]"
+  - "[[Cours 10 - linear regression]]"
+  - "[[Cours 11 - Multiple Linear Regression and F-statistic]]"
+  - "[[Cours 12 - ANOVA and F-statistic]]"
+  - "[[Cours 13 - Principal Components Analysis]]"
+  - "[[Cours 13 - PCA in R]]"
+  - "[[Summary functions in RStudio]]"
 maj: 2026-11-06
 ---
 

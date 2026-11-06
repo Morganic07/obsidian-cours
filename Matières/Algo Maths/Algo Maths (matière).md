@@ -1,7 +1,11 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[Cours/Year 1/Algo Maths/Python|Python (Algo Maths)]]", "[[explications DM d'algo]]"]
+tags:
+  - year1
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[Python|Python (Algo Maths)]]"
+  - "[[explications DM d'algo]]"
 maj: 2026-11-06
 ---
 
@@ -12,7 +16,7 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 | Note | Sujet | Résumé |
 |---|---|---|
 | [[Cours/Year 1/Algo Maths/Cours 1\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[Cours 1 - Algo Maths (résumé)\|Résumé]] |
-| [[Cours/Year 1/Algo Maths/Python\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
+| [[Python\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
 | [[explications DM d'algo]] | Lecture de fichier, exhaustif, glouton, stochastique | [[explications DM d'algo (résumé)\|Résumé]] |
 
 ## Documents PDF

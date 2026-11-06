@@ -1,11 +1,14 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/inégalités alimentaires/retranscription|retranscription]]", "[[Cours/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue|1.0 retranscription entrevue]]"]
+tags:
+  - year1
+sources:
+  - "[[retranscription|retranscription]]"
+  - "[[1.0 retranscription entrevue|1.0 retranscription entrevue]]"
 maj: 2026-11-05
 ---
 
-Résumé de deux notes de [[Dessein au cube (matière)]] : [[Cours/Year 1/Dessein au cube/inégalités alimentaires/retranscription|retranscription]] et [[Cours/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue|1.0 retranscription entrevue]]. Les deux notes semblent être le même texte (même début, même fin). En cas d'écart, la note fait foi.
+Résumé de deux notes de [[Dessein au cube (matière)]] : [[retranscription|retranscription]] et [[1.0 retranscription entrevue|1.0 retranscription entrevue]]. Les deux notes semblent être le même texte (même début, même fin). En cas d'écart, la note fait foi.
 
 Retranscription brute, sans titre, de l'entretien d'environ 30 minutes avec un participant adulte (anonymisé). Elle montre la méthode appliquée :
 

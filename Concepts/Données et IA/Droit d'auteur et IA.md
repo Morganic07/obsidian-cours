@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year3]
-aliases: [copyright et IA, AI copyright, droit d'auteur des contenus générés, copyright des images générées, Thaler contre Perlmutter, Thaler v. Perlmutter]
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
+tags:
+  - year3
+aliases:
+  - copyright et IA
+  - AI copyright
+  - droit d'auteur des contenus générés
+  - copyright des images générées
+  - Thaler contre Perlmutter
+  - Thaler v. Perlmutter
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

@@ -1,7 +1,10 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Cours/Year 1/Communication orale/Communication orale - discours|Communication orale - discours]]", "[[Cours/Year 1/Communication orale/Debats|Debats]]"]
+tags:
+  - year1
+sources:
+  - "[[Communication orale - discours|Communication orale - discours]]"
+  - "[[Debats|Debats]]"
 maj: 2026-11-06
 ---
 
@@ -11,8 +14,8 @@ Communication orale de 1re année : exercices de discours et de débat.
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Cours/Year 1/Communication orale/Communication orale - discours\|Communication orale - discours]] | Extrait d'un discours de Malcolm X | [[Communication orale - discours (résumé)\|Résumé]] |
-| [[Cours/Year 1/Communication orale/Debats\|Debats]] | Arguments : cannabis, clonage animal | [[Debats (résumé)\|Résumé]] |
+| [[Communication orale - discours\|Communication orale - discours]] | Extrait d'un discours de Malcolm X | [[Communication orale - discours (résumé)\|Résumé]] |
+| [[Debats\|Debats]] | Arguments : cannabis, clonage animal | [[Debats (résumé)\|Résumé]] |
 
 ## Concepts
 

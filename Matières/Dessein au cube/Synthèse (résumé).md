@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/Synthèse|Synthèse (Dessein au cube)]]"]
+tags:
+  - year1
+sources:
+  - "[[Synthèse|Synthèse (Dessein au cube)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Dessein au cube/Synthèse|Synthèse]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours fait foi.
+Résumé de [[Synthèse|Synthèse]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours fait foi.
 
 Texte de synthèse d'une enquête sur l'accès à une alimentation saine (format décrit dans [[Untitled document (résumé)|Untitled document (résumé)]]).
 

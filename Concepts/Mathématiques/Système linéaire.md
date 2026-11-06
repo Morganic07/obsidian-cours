@@ -1,8 +1,25 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [linear system, linear systems, system of linear equation, system of linear equations, systems of linear equation, systems of linear equations, systèmes linéaires, système compatible, système incompatible, row picture, column picture, existence and uniqueness theorem]
-sources: ["[[Chp 0a - Linear combination]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - linear system
+  - linear systems
+  - system of linear equation
+  - system of linear equations
+  - systems of linear equation
+  - systems of linear equations
+  - systèmes linéaires
+  - système compatible
+  - système incompatible
+  - row picture
+  - column picture
+  - existence and uniqueness theorem
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
 maj: 2026-11-06
 ---
 
@@ -23,6 +40,6 @@ Liens : [[Forme échelonnée]], [[Matrice augmentée]], [[Opérations élémenta
 
 ## À vérifier
 
-- [[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]] écrit la solution « en fonction d'une inconnue » : il peut y en avoir plusieurs, selon le nombre de variables libres.
+- [[chp3|chp3 (Algèbre)]] écrit la solution « en fonction d'une inconnue » : il peut y en avoir plusieurs, selon le nombre de variables libres.
 
 Résumés : [[Chp 0a - Linear combination (résumé)]], [[chp3 (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

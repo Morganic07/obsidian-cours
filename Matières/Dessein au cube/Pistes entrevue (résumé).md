@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/inégalités alimentaires/Pistes entrevue|Pistes entrevue]]"]
+tags:
+  - year1
+sources:
+  - "[[Pistes entrevue|Pistes entrevue]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Pistes entrevue|Pistes entrevue]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Pistes entrevue|Pistes entrevue]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Aide-mémoire de méthode pour mener un entretien (c'est le cœur du cours) :
 

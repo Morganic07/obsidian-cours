@@ -1,8 +1,15 @@
 ---
 type: concept
-tags: [year1]
-aliases: [matrice de f, matrice d'une application, standard matrix, matrice standard]
-sources: ["[[chp4]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]"]
+tags:
+  - year1
+aliases:
+  - matrice de f
+  - matrice d'une application
+  - standard matrix
+  - matrice standard
+sources:
+  - "[[chp4]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]"
 maj: 2026-11-06
 ---
 

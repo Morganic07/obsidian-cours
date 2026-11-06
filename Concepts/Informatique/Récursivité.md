@@ -1,9 +1,30 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [fonction récursive, fonctions récursives, algorithme récursif, algorithmes récursifs, appel récursif, appels récursifs, récursion simple, récursion multiple, condition d'arrêt, récursivité directe, récursivité indirecte, phase de descente, phase de montée]
-matieres: [Algo, Algo Maths]
-sources: ["[[Chp1 - récursivité et complexité]]", "[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]", "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - fonction récursive
+  - fonctions récursives
+  - algorithme récursif
+  - algorithmes récursifs
+  - appel récursif
+  - appels récursifs
+  - récursion simple
+  - récursion multiple
+  - condition d'arrêt
+  - récursivité directe
+  - récursivité indirecte
+  - phase de descente
+  - phase de montée
+matieres:
+  - Algo
+  - Algo Maths
+sources:
+  - "[[Chp1 - récursivité et complexité]]"
+  - "[[raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID]]"
+  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 

@@ -1,9 +1,35 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [roue des couleurs, roue chromatique, couleurs complémentaires, gamme chromatique, gammes chromatiques, couleurs primaires, camaïeu, cercle de Johannes Itten, cercle d'Itten, couleurs secondaires, couleurs tertiaires, couleurs chaudes, couleurs froides, colour wheel, tertiary colours, analogous colours, couleurs analogues, monochromatic, colour palette]
-matieres: [Peinture, Anglais]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1]]", "[[Cours/Year 1/Peinture/Cours/Cours 2|Cours 2]]", "[[Global Exam Vocab]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - roue des couleurs
+  - roue chromatique
+  - couleurs complémentaires
+  - gamme chromatique
+  - gammes chromatiques
+  - couleurs primaires
+  - camaïeu
+  - cercle de Johannes Itten
+  - cercle d'Itten
+  - couleurs secondaires
+  - couleurs tertiaires
+  - couleurs chaudes
+  - couleurs froides
+  - colour wheel
+  - tertiary colours
+  - analogous colours
+  - couleurs analogues
+  - monochromatic
+  - colour palette
+matieres:
+  - Peinture
+  - Anglais
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1]]"
+  - "[[Cours 2|Cours 2]]"
+  - "[[Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 

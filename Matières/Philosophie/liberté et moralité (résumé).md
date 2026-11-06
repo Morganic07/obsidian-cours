@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Philosophie/liberté et moralité|liberté et moralité]]"]
+tags:
+  - year1
+sources:
+  - "[[liberté et moralité|liberté et moralité]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Philosophie/liberté et moralité|liberté et moralité]], dans [[Philosophie (matière)]]. Cours du 04/03/24. En cas d'écart, le cours fait foi.
+Résumé de [[liberté et moralité|liberté et moralité]], dans [[Philosophie (matière)]]. Cours du 04/03/24. En cas d'écart, le cours fait foi.
 
 - **Liberté relative.** Comprendre les causes extérieures qui nous déterminent permet de s'en dégager. La liberté absolue est inaccessible à l'homme. Développer sa liberté, c'est développer ses facultés.
 - **[[Perfectibilité]]** (Rousseau) : propre de l'homme, elle donne quatre libertés empilées (technique, désir, réflexion, moralité) et mène à l'autoconstruction de soi (Nietzsche : « Deviens ce que tu es »).

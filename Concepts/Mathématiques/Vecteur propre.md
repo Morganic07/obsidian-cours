@@ -1,8 +1,17 @@
 ---
 type: concept
-tags: [year1, year2, year3]
-aliases: [eigenvector, eigenvectors, vecteurs propres]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]", "[[Cours 13 - Principal Components Analysis]]"]
+tags:
+  - year1
+  - year2
+  - year3
+aliases:
+  - eigenvector
+  - eigenvectors
+  - vecteurs propres
+sources:
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Cours 13 - Principal Components Analysis]]"
 maj: 2026-11-06
 ---
 

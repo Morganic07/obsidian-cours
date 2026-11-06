@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year3]
-aliases: [collapsologie, collapsologue, courbe de deuil, deuil par anticipation]
-matieres: [Culture du vivant]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant (Y3)]]"]
+tags:
+  - year3
+aliases:
+  - collapsologie
+  - collapsologue
+  - courbe de deuil
+  - deuil par anticipation
+matieres:
+  - Culture du vivant
+sources:
+  - "[[Culture du vivant|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 ---
 

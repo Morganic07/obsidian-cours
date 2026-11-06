@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year1]
-aliases: [état de nature, state of nature]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]"]
+tags:
+  - year1
+aliases:
+  - état de nature
+  - state of nature
+matieres:
+  - Philosophie
+sources:
+  - "[[L'état|L'état (Philosophie)]]"
 maj: 2026-11-06
 ---
 

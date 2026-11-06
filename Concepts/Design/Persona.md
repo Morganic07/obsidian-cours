@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [personas, personae]
-matieres: [Projet design, Projet Design, workshop, Affordance]
-sources: ["[[Cours/Year 2/Projet Design/Hello Art Up/Qui dit quoi|Qui dit quoi]]", "[[Cours/Year 3/workshop/ReYOU/Reyou|Reyou]]", "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - personas
+  - personae
+matieres:
+  - Projet design
+  - Projet Design
+  - workshop
+  - Affordance
+sources:
+  - "[[Qui dit quoi|Qui dit quoi]]"
+  - "[[Reyou|Reyou]]"
+  - "[[raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026]]"
 maj: 2026-11-06
 ---
 

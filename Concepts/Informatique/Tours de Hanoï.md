@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year1, year4]
-aliases: [Hanoï, tours de Hanoi, Tower of Hanoi]
-matieres: [Algo Maths, graph theory]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]", "[[chp3 - complexité]]", "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"]
+tags:
+  - year1
+  - year4
+aliases:
+  - Hanoï
+  - tours de Hanoi
+  - Tower of Hanoi
+matieres:
+  - Algo Maths
+  - graph theory
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[chp3 - complexité]]"
+  - "[[raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1]]"
 maj: 2026-11-06
 ---
 

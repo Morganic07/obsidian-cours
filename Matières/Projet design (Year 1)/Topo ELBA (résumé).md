@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/ELBA/Topo ELBA|Topo ELBA]]"]
+tags:
+  - year1
+sources:
+  - "[[Topo ELBA|Topo ELBA]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/ELBA/Topo ELBA|Topo ELBA]], dans [[Projet design (Year 1) (matière)]]. Dossier de recherche en grande partie fait d'images transcrites (diapositives du brief), avec quelques notes de l'équipe. Les légendes trop petites sont signalées « À vérifier » dans la note.
+Résumé de [[Topo ELBA|Topo ELBA]], dans [[Projet design (Year 1) (matière)]]. Dossier de recherche en grande partie fait d'images transcrites (diapositives du brief), avec quelques notes de l'équipe. Les légendes trop petites sont signalées « À vérifier » dans la note.
 
 **Le brief**
 - **ELBA** : écosystème pluridisciplinaire qui accompagne les marques dans la création d'expériences en point de vente (vision : faire du merchandising le pivot des nouveaux modes de communication, distribution et consommation). Chiffres de la diapositive : 54 M€ de chiffre d'affaires en 2022, 285 collaborateurs, démarche RSE.

@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year3, nomme]
-aliases: [réseaux convolutifs, convolutional neural network, CNN, réseau convolutif]
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]
+tags:
+  - year3
+  - nomme
+aliases:
+  - réseaux convolutifs
+  - convolutional neural network
+  - CNN
+  - réseau convolutif
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
 maj: 2026-11-06
 ---
 

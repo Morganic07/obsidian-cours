@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [null space, nullspace, null spaces, Nul A, kernel, noyau, Ker, "noyau d'une application linéaire", N(A)]
-matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0d - Vector Space]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - null space
+  - nullspace
+  - null spaces
+  - Nul A
+  - kernel
+  - noyau
+  - Ker
+  - noyau d'une application linéaire
+  - N(A)
+matieres:
+  - Bilinear Algebra
+  - Algèbre Linéaire
+sources:
+  - "[[Chp 0d - Vector Space]]"
+  - "[[chp2|chp2 (Algèbre)]]"
+  - "[[chp7|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

@@ -1,8 +1,12 @@
 ---
 type: concept
-tags: [year1]
-aliases: [asymptotes obliques]
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]", "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"]
+tags:
+  - year1
+aliases:
+  - asymptotes obliques
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"
 maj: 2026-11-06
 ---
 

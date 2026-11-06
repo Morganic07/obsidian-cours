@@ -1,8 +1,26 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [echelon form, formes échelonnées, totalement échelonnée, pivot de Gauss, méthode du pivot de Gauss, système en cascade, reduced echelon form, forme échelonnée réduite, colonne pivot, pivot column, pivot position, position pivot]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - echelon form
+  - formes échelonnées
+  - totalement échelonnée
+  - pivot de Gauss
+  - méthode du pivot de Gauss
+  - système en cascade
+  - reduced echelon form
+  - forme échelonnée réduite
+  - colonne pivot
+  - pivot column
+  - pivot position
+  - position pivot
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
 maj: 2026-11-06
 ---
 

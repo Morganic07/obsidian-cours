@@ -1,7 +1,9 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]"]
+tags:
+  - year3
+sources:
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]"
 maj: 2026-11-05
 ---
 

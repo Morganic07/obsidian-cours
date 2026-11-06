@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/Untitled document|Untitled document (Dessein au cube)]]"]
+tags:
+  - year1
+sources:
+  - "[[Untitled document|Untitled document (Dessein au cube)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Dessein au cube/Untitled document|Untitled document]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Untitled document|Untitled document]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 Consignes du rendu final du projet d'enquête par entretien (trois images transcrites) :
 

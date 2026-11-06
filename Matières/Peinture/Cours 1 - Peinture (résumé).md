@@ -1,7 +1,9 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"]
+tags:
+  - year1
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
 maj: 2026-11-05
 ---
 

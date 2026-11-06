@@ -1,9 +1,23 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [span, spanned, espaces engendrés, espace vectoriel engendré, famille génératrice, familles génératrices]
-matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0d - Vector Space]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp2|chp2 (Algèbre)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - span
+  - spanned
+  - espaces engendrés
+  - espace vectoriel engendré
+  - famille génératrice
+  - familles génératrices
+matieres:
+  - Bilinear Algebra
+  - Algèbre Linéaire
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[Chp 0d - Vector Space]]"
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[chp2|chp2 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

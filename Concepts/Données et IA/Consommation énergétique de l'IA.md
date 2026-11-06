@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year3]
-aliases: [consommation d'énergie de l'IA, énergie de l'entraînement, énergie de l'inférence, consommation d'énergie pour l'inférence]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
+tags:
+  - year3
+aliases:
+  - consommation d'énergie de l'IA
+  - énergie de l'entraînement
+  - énergie de l'inférence
+  - consommation d'énergie pour l'inférence
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

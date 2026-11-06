@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year1]
-aliases: [animal politique, animal social, zoon politikon]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]"]
+tags:
+  - year1
+aliases:
+  - animal politique
+  - animal social
+  - zoon politikon
+matieres:
+  - Philosophie
+sources:
+  - "[[L'état|L'état (Philosophie)]]"
 maj: 2026-11-06
 ---
 

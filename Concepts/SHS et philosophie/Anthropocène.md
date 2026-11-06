@@ -1,9 +1,21 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [anthropocène, Anthropocene, technosphère, entropocène, biosphère contre technosphère]
-matieres: [Culture du vivant, SHS]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]", "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]", "[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - anthropocène
+  - Anthropocene
+  - technosphère
+  - entropocène
+  - biosphère contre technosphère
+matieres:
+  - Culture du vivant
+  - SHS
+sources:
+  - "[[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
+  - "[[raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2]]"
 maj: 2026-11-06
 ---
 

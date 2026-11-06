@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year3, nomme]
-aliases: [AlphaGo]
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"]
+tags:
+  - year3
+  - nomme
+aliases:
+  - AlphaGo
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year4]
-aliases: [web sémantique, semantic web, web 3.0, sujet - prédicat - objet]
-matieres: [Culture du vivant]
-sources: ["[[Cours/Year 4/Culture du vivant/Culture du vivant - prise de note|Culture du vivant - prise de note]]"]
+tags:
+  - year4
+aliases:
+  - web sémantique
+  - semantic web
+  - web 3.0
+  - sujet - prédicat - objet
+matieres:
+  - Culture du vivant
+sources:
+  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 

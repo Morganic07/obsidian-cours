@@ -1,9 +1,21 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [animal-machine, animaux-machines, vision mécaniste de la nature, nature-machine, cadre mécaniste, modèle de l'horloge, corps-machine]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 2/Philosophie/philo 3|philo 3]]", "[[Cours/Year 2/Philosophie/philo 5|philo 5]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - animal-machine
+  - animaux-machines
+  - vision mécaniste de la nature
+  - nature-machine
+  - cadre mécaniste
+  - modèle de l'horloge
+  - corps-machine
+matieres:
+  - Philosophie
+sources:
+  - "[[philo 3|philo 3]]"
+  - "[[philo 5|philo 5]]"
 maj: 2026-11-06
 ---
 

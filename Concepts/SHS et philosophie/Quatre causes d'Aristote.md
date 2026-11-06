@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [quatre causes, cause finale, cause efficiente, cause formelle, cause matérielle, causes aristotéliciennes]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]", "[[Cours/Year 2/Philosophie/philo 2|philo 2]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - quatre causes
+  - cause finale
+  - cause efficiente
+  - cause formelle
+  - cause matérielle
+  - causes aristotéliciennes
+matieres:
+  - Philosophie
+sources:
+  - "[[L'état|L'état (Philosophie)]]"
+  - "[[philo 2|philo 2]]"
 maj: 2026-11-06
 ---
 

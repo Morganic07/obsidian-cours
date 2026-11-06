@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year1]
-aliases: [fractales, flocon de Koch, autosimilaire]
-matieres: [Algo Maths]
-sources: ["[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"]
+tags:
+  - year1
+aliases:
+  - fractales
+  - flocon de Koch
+  - autosimilaire
+matieres:
+  - Algo Maths
+sources:
+  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 

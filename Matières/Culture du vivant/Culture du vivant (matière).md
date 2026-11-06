@@ -1,7 +1,13 @@
 ---
 type: matiere
-tags: [year3, year4]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant (Y3)]]", "[[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours|Culture du vivant Dernier cours]]", "[[Cours/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]", "[[Cours/Year 4/Culture du vivant/Culture du vivant - prise de note|Culture du vivant - prise de note]]"]
+tags:
+  - year3
+  - year4
+sources:
+  - "[[Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
+  - "[[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -15,9 +21,9 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 3/Culture du vivant/Culture du vivant\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[Culture du vivant (résumé)\|Résumé]] |
-| [[Cours/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant COURS 2 EXPLICATION (résumé)\|Résumé]] |
-| [[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[Culture du vivant Dernier cours (résumé)\|Résumé]] |
+| [[Culture du vivant\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[Culture du vivant (résumé)\|Résumé]] |
+| [[Culture Vivant COURS 2 EXPLICATION\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant COURS 2 EXPLICATION (résumé)\|Résumé]] |
+| [[Culture du vivant Dernier cours\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[Culture du vivant Dernier cours (résumé)\|Résumé]] |
 
 ### Documents PDF
 
@@ -57,7 +63,7 @@ Culture du vivant de 4e année : technique, capitalisme et numérique. Une seule
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 4/Culture du vivant/Culture du vivant - prise de note\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[Culture du vivant - prise de note (résumé)\|Résumé]] |
+| [[Culture du vivant - prise de note\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[Culture du vivant - prise de note (résumé)\|Résumé]] |
 
 ### Concepts
 

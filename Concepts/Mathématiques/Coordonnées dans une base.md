@@ -1,8 +1,16 @@
 ---
 type: concept
-tags: [year1]
-aliases: [composantes dans une base, composantes d'un vecteur, matrice d'un vecteur]
-sources: ["[[chp1]]", "[[chp4]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]", "[[chp6]]"]
+tags:
+  - year1
+aliases:
+  - composantes dans une base
+  - composantes d'un vecteur
+  - matrice d'un vecteur
+sources:
+  - "[[chp1]]"
+  - "[[chp4]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]"
+  - "[[chp6]]"
 maj: 2026-11-06
 ---
 

@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Anglais/world in 2075|world in 2075]]"]
+tags:
+  - year2
+sources:
+  - "[[world in 2075|world in 2075]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Anglais/world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties :
+Résumé de [[world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties :
 
 1. **Exploration spatiale** : colonisation du système solaire (base sur Mars, stations dans la ceinture d'astéroïdes, missions vers les lunes glacées), robots explorateurs type EELS sous les glaces d'Europe ou d'Encelade, télescope plus avancé que le JWST.
 2. **Nations unifiées** : une Union Africaine fédérale à monnaie unique, technologies adaptées au continent, puissance manufacturière, mégalopoles connectées.

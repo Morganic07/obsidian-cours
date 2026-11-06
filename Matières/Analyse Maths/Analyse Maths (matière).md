@@ -1,7 +1,10 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Chp4 - dérivabilité]]", "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
+tags:
+  - year1
+sources:
+  - "[[Chp4 - dérivabilité]]"
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

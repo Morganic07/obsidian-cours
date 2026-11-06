@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year3]
-aliases: [niveaux d'un facteur, fonction factor, facteurs et régresseurs]
-matieres: [Data analysis (Thanos)]
-sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]", "[[Summary functions in RStudio]]"]
+tags:
+  - year3
+aliases:
+  - niveaux d'un facteur
+  - fonction factor
+  - facteurs et régresseurs
+matieres:
+  - Data analysis (Thanos)
+sources:
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"
+  - "[[Summary functions in RStudio]]"
 maj: 2026-11-06
 ---
 

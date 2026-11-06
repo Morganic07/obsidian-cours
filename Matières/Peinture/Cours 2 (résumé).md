@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 2|Cours 2 (Peinture)]]"]
+tags:
+  - year1
+sources:
+  - "[[Cours 2|Cours 2 (Peinture)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Peinture/Cours/Cours 2|Cours 2 (Peinture)]], dans [[Peinture (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Cours 2|Cours 2 (Peinture)]], dans [[Peinture (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 Cours du 26/10/23.
 

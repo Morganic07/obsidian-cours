@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Dessein au cube/inégalités alimentaires/Inégalités alimentaires|Inégalités alimentaires]]"]
+tags:
+  - year1
+sources:
+  - "[[Inégalités alimentaires|Inégalités alimentaires]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Dessein au cube/inégalités alimentaires/Inégalités alimentaires|Inégalités alimentaires]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Inégalités alimentaires|Inégalités alimentaires]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Première préparation de l'enquête : thème (inégalités alimentaires), problématique (« Comment les disparités économiques influencent-elles l'accès des individus à une alimentation saine et équilibrée ? ») et premier jet de questions.
 

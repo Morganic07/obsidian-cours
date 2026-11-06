@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Projet Design/Hello Art Up/Helloartup|Helloartup]]"]
+tags:
+  - year2
+sources:
+  - "[[Helloartup|Helloartup]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Projet Design/Hello Art Up/Helloartup|Helloartup]], dans [[Projet design (Year 2) (matière)]]. Notes de travail en vrac (pistes, liens, comptes rendus intermédiaires). Les chiffres du graphique sont des lectures approximatives, signalées « À vérifier » dans la note.
+Résumé de [[Helloartup|Helloartup]], dans [[Projet design (Year 2) (matière)]]. Notes de travail en vrac (pistes, liens, comptes rendus intermédiaires). Les chiffres du graphique sont des lectures approximatives, signalées « À vérifier » dans la note.
 
 **Projet** : Hello Art Up, un projet d'art et de technologie pour les résidents d'EHPAD, avec la participation des familles et des salariés. L'analyse est exposée dans [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]].
 

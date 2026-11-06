@@ -1,7 +1,11 @@
 ---
 type: matiere
-tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]]", "[[Cours/Year 1/Projet design/ELBA/exposé melvita|exposé melvita]]", "[[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]]"]
+tags:
+  - year1
+sources:
+  - "[[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]]"
+  - "[[exposé melvita|exposé melvita]]"
+  - "[[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]]"
 maj: 2026-11-06
 ---
 
@@ -12,8 +16,8 @@ Projets de design de 1re année, menés en équipe sur trois commandes réelles.
 | Projet | Sujet | Notes et résumés |
 |---|---|---|
 | Bel-Air (Saint-Germain-en-Laye) | Un musée interactif de quartier | [[Cours/Year 1/Projet design/Bel-Air/Projet BLR\|Projet BLR]] : [[Projet BLR (résumé)\|Résumé]] |
-| Villeneuve | Créer un sentiment d'appartenance à la ville ; solution Caravilleneuve | [[Cours/Year 1/Projet design/Villeneuve/recherches/Informations villeneuve (Brief Intro)\|Brief]] : [[Informations villeneuve (Brief Intro) (résumé)\|Résumé]] ; [[Cours/Year 1/Projet design/Villeneuve/recherches/idées solutions\|idées solutions]] : [[idées solutions (résumé)\|Résumé]] ; [[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final\|Prise parole]] : [[Prise parole Rendu final (résumé)\|Résumé]] |
-| ELBA / Melvita | Le retail régénératif d'une marque de cosmétiques | [[Cours/Year 1/Projet design/ELBA/Topo ELBA\|Topo ELBA]] : [[Topo ELBA (résumé)\|Résumé]] ; [[Cours/Year 1/Projet design/ELBA/exposé melvita\|exposé melvita]] : [[exposé melvita (résumé)\|Résumé]] |
+| Villeneuve | Créer un sentiment d'appartenance à la ville ; solution Caravilleneuve | [[Informations villeneuve (Brief Intro)\|Brief]] : [[Informations villeneuve (Brief Intro) (résumé)\|Résumé]] ; [[idées solutions\|idées solutions]] : [[idées solutions (résumé)\|Résumé]] ; [[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final\|Prise parole]] : [[Prise parole Rendu final (résumé)\|Résumé]] |
+| ELBA / Melvita | Le retail régénératif d'une marque de cosmétiques | [[Topo ELBA\|Topo ELBA]] : [[Topo ELBA (résumé)\|Résumé]] ; [[exposé melvita\|exposé melvita]] : [[exposé melvita (résumé)\|Résumé]] |
 
 ## Concepts
 

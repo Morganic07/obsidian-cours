@@ -1,9 +1,29 @@
 ---
 type: concept
-tags: [year1, year2, year3]
-aliases: [analyse asymptotique, équivalents, négligeable, dominée, grand O, petit o, domination, négligeabilité, little o, big O]
-matieres: [Analyse Maths, Séries, Analyse]
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]", "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]", "[[Chp0 - Revision chapter]]", "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"]
+tags:
+  - year1
+  - year2
+  - year3
+aliases:
+  - analyse asymptotique
+  - équivalents
+  - négligeable
+  - dominée
+  - grand O
+  - petit o
+  - domination
+  - négligeabilité
+  - little o
+  - big O
+matieres:
+  - Analyse Maths
+  - Séries
+  - Analyse
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"
+  - "[[Chp0 - Revision chapter]]"
+  - "[[raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1)]]"
 maj: 2026-11-06
 ---
 

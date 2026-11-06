@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year3]
-aliases: [Les limites à la croissance, The Limits to Growth, Limits to growth, World3, modèle World3, rapport du Club de Rome]
-matieres: [Culture du vivant]
-sources: ["[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]", "[[Cours/Year 3/Culture du vivant/Culture du vivant|Culture du vivant (Y3)]]"]
+tags:
+  - year3
+aliases:
+  - Les limites à la croissance
+  - The Limits to Growth
+  - Limits to growth
+  - World3
+  - modèle World3
+  - rapport du Club de Rome
+matieres:
+  - Culture du vivant
+sources:
+  - "[[raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys]]"
+  - "[[Culture du vivant|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 ---
 

@@ -1,9 +1,24 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [basis, bases, base, standard basis, base standard, base canonique]
-matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]", "[[raw/Year 1/Contrôles.pdf|Contrôles]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - basis
+  - bases
+  - base
+  - standard basis
+  - base standard
+  - base canonique
+matieres:
+  - Bilinear Algebra
+  - Algèbre Linéaire
+sources:
+  - "[[Chp 0d - Vector Space]]"
+  - "[[chp 1 - Orthogonality]]"
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[chp6|chp6 (Algèbre)]]"
+  - "[[raw/Year 1/Contrôles.pdf|Contrôles]]"
 maj: 2026-11-06
 ---
 

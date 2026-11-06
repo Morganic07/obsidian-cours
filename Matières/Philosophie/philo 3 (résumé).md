@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Philosophie/philo 3|philo 3]]"]
+tags:
+  - year2
+sources:
+  - "[[philo 3|philo 3]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Philosophie/philo 3|philo 3]], dans [[Philosophie (matière)]]. Titre : « Progrès scientifiques et techniques : naissance, problèmes, progrès et civilisation ».
+Résumé de [[philo 3|philo 3]], dans [[Philosophie (matière)]]. Titre : « Progrès scientifiques et techniques : naissance, problèmes, progrès et civilisation ».
 
 - **Le paysage dans l'art.** La nature a longtemps servi de modèle, le paysage n'étant pas un genre à part. À la Renaissance il gagne en perspective et en virtuosité (pittoresque, bucolique, sublime comme chez Friedrich). Au XIXe siècle il devient un genre majeur. Aujourd'hui l'art influence notre perception de la nature (Wilde : « La nature imite presque l'art »).
 - **Parallèle avec la technique.** Héliocentrisme et infinité de l'univers (Galilée, Descartes) changent la perception de la nature et de la causalité. La machine devient le modèle : voir [[Animal-machine]]. Harvey (1628) explique la circulation du sang. La technique s'éloigne de la nature et se rapproche de la science.

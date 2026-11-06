@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year1]
-aliases: [contraste simultané, contraste de couleurs, illusion d'optique de contraste, perspective atmosphérique, profondeur d'une couleur, spatialité d'une couleur]
-matieres: [Peinture]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 2|Cours 2]]"]
+tags:
+  - year1
+aliases:
+  - contraste simultané
+  - contraste de couleurs
+  - illusion d'optique de contraste
+  - perspective atmosphérique
+  - profondeur d'une couleur
+  - spatialité d'une couleur
+matieres:
+  - Peinture
+sources:
+  - "[[Cours 2|Cours 2]]"
 maj: 2026-11-06
 ---
 

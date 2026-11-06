@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year1]
-aliases: [polysémie des couleurs, couleurs polysémiques]
-sources: ["[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]", "[[Cours 2]]"]
+tags:
+  - year1
+aliases:
+  - polysémie des couleurs
+  - couleurs polysémiques
+sources:
+  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
+  - "[[Cours 2]]"
 maj: 2026-11-06
 ---
 

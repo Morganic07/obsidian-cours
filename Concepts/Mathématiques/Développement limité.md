@@ -1,9 +1,24 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [développements limités, DL, Taylor-Young, formule de Taylor, partie régulière, DL usuels]
-matieres: [Analyse Maths, Analyse, Analyse dans Rn, Séries]
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]", "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]", "[[Chp0 - Revision chapter]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - développements limités
+  - DL
+  - Taylor-Young
+  - formule de Taylor
+  - partie régulière
+  - DL usuels
+matieres:
+  - Analyse Maths
+  - Analyse
+  - Analyse dans Rn
+  - Séries
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1)]]"
+  - "[[Chp0 - Revision chapter]]"
 maj: 2026-11-06
 ---
 

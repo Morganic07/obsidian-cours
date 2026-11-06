@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [affordances, afordance, signifier, signifiers]
-matieres: [Corps à l'oeuvre, Sémiotique, Affordance]
-sources: ["[[Cours/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours|corps à l'oeuvre - cours]]", "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - affordances
+  - afordance
+  - signifier
+  - signifiers
+matieres:
+  - Corps à l'oeuvre
+  - Sémiotique
+  - Affordance
+sources:
+  - "[[corps à l'oeuvre - cours|corps à l'oeuvre - cours]]"
+  - "[[raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3 (Sémiotique)]]"
 maj: 2026-11-06
 ---
 

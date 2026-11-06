@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]]"]
+tags:
+  - year1
+sources:
+  - "[[L'état|L'état (Philosophie)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Philosophie/L'état|L'état (Philosophie)]], dans [[Philosophie (matière)]]. Cours du 27/09/23. En cas d'écart, le cours fait foi.
+Résumé de [[L'état|L'état (Philosophie)]], dans [[Philosophie (matière)]]. Cours du 27/09/23. En cas d'écart, le cours fait foi.
 
 **Aristote (*Les Politiques*).** Thèse : par nature, l'homme est un [[Animal politique]]. Le cours distingue le *logos* (langage et raisonnement humains) de la *phonè* (voix des animaux). La Nature ne fait rien en vain : elle a donné le logos à l'homme seul pour qu'il dialogue, donc pour qu'il vive dans un état. Aristote décrit l'état et prescrit que le dialogue y soit essentiel. L'état sert d'abord à survivre, puis à bien vivre. Les sophistes, eux, le tiennent pour artificiel.
 

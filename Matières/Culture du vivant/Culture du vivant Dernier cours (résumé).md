@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year3]
-sources: ["[[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"]
+tags:
+  - year3
+sources:
+  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 3/Culture du vivant/Culture du vivant Dernier cours|Culture du vivant Dernier cours]], dans [[Culture du vivant (matière)]].
+Résumé de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]], dans [[Culture du vivant (matière)]].
 
 **Constat.** La pyramide des besoins est « buggée » : le social ne redonne pas à la Nature, et nos habitudes, du réveil au coucher, n'ont aucun impact régénératif. Chaque achat a un coût caché, économique et social (déforestation, travail des enfants), à l'autre bout du globe. Il faut reconfigurer le système économique : le vivant devient un enjeu du monde financier.
 

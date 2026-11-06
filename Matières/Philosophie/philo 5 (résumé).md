@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Philosophie/philo 5|philo 5]]"]
+tags:
+  - year2
+sources:
+  - "[[philo 5|philo 5]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Philosophie/philo 5|philo 5]], dans [[Philosophie (matière)]]. Titre : « Distinction classique entre machine et organisme ».
+Résumé de [[philo 5|philo 5]], dans [[Philosophie (matière)]]. Titre : « Distinction classique entre machine et organisme ».
 
 1. **XVIIe siècle.** Nature-machine mathématisable (Descartes), modèle de l'horloge, rejet de la finalité, [[Animal-machine]]. Utile en médecine, insuffisant aujourd'hui pour le vivant.
 2. **Remise en question.** Kant (1790) : l'organisme s'adapte, réagit, se reproduit, se répare, pas la machine. Nietzsche : « force plastique », principe d'individuation du vivant.

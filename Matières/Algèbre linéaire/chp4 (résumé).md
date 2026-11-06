@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]]"]
+tags:
+  - year1
+sources:
+  - "[[chp4|chp4 (Algèbre)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Algèbre Linéaire/Cours/chp4|chp4 (Algèbre)]], dans [[Algèbre linéaire (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[chp4|chp4 (Algèbre)]], dans [[Algèbre linéaire (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Contenu
 

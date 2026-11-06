@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Corps à l'oeuvre/Dernier cours|Dernier cours (Corps à l'oeuvre)]]"]
+tags:
+  - year2
+sources:
+  - "[[Dernier cours|Dernier cours (Corps à l'oeuvre)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Corps à l'oeuvre/Dernier cours|Dernier cours (Corps à l'oeuvre)]], dans [[Corps à l'oeuvre (matière)]].
+Résumé de [[Dernier cours|Dernier cours (Corps à l'oeuvre)]], dans [[Corps à l'oeuvre (matière)]].
 
 - Designer à partir de gestes et d'actions, non d'intentions (un geste est un mouvement avec intention). Nous ne maîtrisons pas les mouvements autour de nous mais nous choisissons le nôtre. Un geste peut produire une quantité de mouvement (coup de billard).
 - **Mécanique de succès et d'échec** : chercher la constante, le réflexe qui mène systématiquement au succès ou à l'échec.

@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year1]
-sources: ["[[Cours/Year 1/Communication orale/Communication orale - discours|Communication orale - discours]]"]
+tags:
+  - year1
+sources:
+  - "[[Communication orale - discours|Communication orale - discours]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Communication orale/Communication orale - discours|Communication orale - discours]], dans [[Communication orale (matière)]]. Extrait en français du discours « Message to the Grass Roots » de Malcolm X (novembre 1963), étudié comme exercice d'oral.
+Résumé de [[Communication orale - discours|Communication orale - discours]], dans [[Communication orale (matière)]]. Extrait en français du discours « Message to the Grass Roots » de Malcolm X (novembre 1963), étudié comme exercice d'oral.
 
 Idées de l'extrait :
 

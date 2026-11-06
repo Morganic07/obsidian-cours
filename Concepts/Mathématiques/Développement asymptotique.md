@@ -1,8 +1,12 @@
 ---
 type: concept
-tags: [year1]
-aliases: [développements asymptotiques, "DL en l'infini"]
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"]
+tags:
+  - year1
+aliases:
+  - développements asymptotiques
+  - DL en l'infini
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

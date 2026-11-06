@@ -1,7 +1,9 @@
 ---
 type: matiere
-tags: [year3]
-sources: ["[[Cours/Year 3/ligue football/readme|readme (ligue football)]]"]
+tags:
+  - year3
+sources:
+  - "[[readme|readme (ligue football)]]"
 maj: 2026-11-06
 ---
 
@@ -9,7 +11,7 @@ Projet de base de données de 3e année sur une ligue de football : modélisatio
 
 | Note | Résumé |
 |---|---|
-| [[Cours/Year 3/ligue football/readme\|readme]] | [[readme (résumé)\|Résumé]] |
+| [[readme\|readme]] | [[readme (résumé)\|Résumé]] |
 
 `base.sql`, `requete.sql` et `app.py` ne sont pas dans le wiki : seule une note très courte existe pour le dépôt.
 

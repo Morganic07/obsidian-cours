@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year3, year4]
-aliases: [supervised learning]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]", "[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]", "[[Chp1 - intro to data mining]]"]
+tags:
+  - year3
+  - year4
+aliases:
+  - supervised learning
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
+  - "[[raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof]]"
+  - "[[Chp1 - intro to data mining]]"
 maj: 2026-11-06
 ---
 

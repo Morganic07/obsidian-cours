@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year3]
-aliases: [prompts, prompt JSON, negative prompt, negative_prompt, prompt engineering, ingénierie de prompt]
-matieres: [IA]
-sources: ["[[Cours/Year 3/IA/Cours 1|Cours 1]]"]
+tags:
+  - year3
+aliases:
+  - prompts
+  - prompt JSON
+  - negative prompt
+  - negative_prompt
+  - prompt engineering
+  - ingénierie de prompt
+matieres:
+  - IA
+sources:
+  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
 maj: 2026-11-06
 ---
 

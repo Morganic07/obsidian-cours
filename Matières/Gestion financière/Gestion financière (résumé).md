@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year4]
-sources: ["[[Cours/Year 4/Gestion financière|Gestion financière]]"]
+tags:
+  - year4
+sources:
+  - "[[Gestion financière|Gestion financière]]"
 maj: 2026-11-06
 ---
 
-Résumé de [[Cours/Year 4/Gestion financière|Gestion financière]], dans [[Gestion financière (matière)]]. Note très courte de prise de notes, sans image : quelques notions de vocabulaire économique et financier. En cas d'écart, le cours fait foi.
+Résumé de [[Gestion financière|Gestion financière]], dans [[Gestion financière (matière)]]. Note très courte de prise de notes, sans image : quelques notions de vocabulaire économique et financier. En cas d'écart, le cours fait foi.
 
 ## Contenu, dans l'ordre du cours
 

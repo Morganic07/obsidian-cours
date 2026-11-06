@@ -1,7 +1,9 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"]
+tags:
+  - year2
+sources:
+  - "[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"
 maj: 2026-11-05
 ---
 

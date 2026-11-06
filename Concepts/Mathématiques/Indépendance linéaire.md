@@ -1,8 +1,27 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [linearly independent, linear independence, linéairement indépendants, linéairement indépendantes, famille libre, familles libres, famille liée, familles liées, linearly dependent, linear dependence relation, relation de dépendance linéaire]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp6|chp6 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp7|chp7 (Algèbre)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - linearly independent
+  - linear independence
+  - linéairement indépendants
+  - linéairement indépendantes
+  - famille libre
+  - familles libres
+  - famille liée
+  - familles liées
+  - linearly dependent
+  - linear dependence relation
+  - relation de dépendance linéaire
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[chp6|chp6 (Algèbre)]]"
+  - "[[chp7|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

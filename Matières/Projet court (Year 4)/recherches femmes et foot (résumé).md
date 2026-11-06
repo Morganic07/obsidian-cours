@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year4]
-sources: ["[[Cours/Year 4/projet court/recherches femmes et foot|recherches femmes et foot]]"]
+tags:
+  - year4
+sources:
+  - "[[recherches femmes et foot|recherches femmes et foot]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 4/projet court/recherches femmes et foot|recherches femmes et foot]], dans [[Projet court (Year 4) (matière)]]. Notes de recherche, sans consigne ni problématique écrite ; les chiffres viennent de sources citées dans la note et ne sont pas vérifiés ici. Le tableau de la note est signalé « À vérifier » (chiffres incohérents).
+Résumé de [[recherches femmes et foot|recherches femmes et foot]], dans [[Projet court (Year 4) (matière)]]. Notes de recherche, sans consigne ni problématique écrite ; les chiffres viennent de sources citées dans la note et ne sont pas vérifiés ici. Le tableau de la note est signalé « À vérifier » (chiffres incohérents).
 
 **Thème** : la place des femmes dans la direction du sport et du football.
 

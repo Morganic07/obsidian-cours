@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year1]
-aliases: [autonomie morale, loi morale, impératif catégorique, maxime universelle]
-matieres: [Philosophie]
-sources: ["[[Cours/Year 1/Philosophie/liberté et moralité|liberté et moralité]]"]
+tags:
+  - year1
+aliases:
+  - autonomie morale
+  - loi morale
+  - impératif catégorique
+  - maxime universelle
+matieres:
+  - Philosophie
+sources:
+  - "[[liberté et moralité|liberté et moralité]]"
 maj: 2026-11-06
 ---
 

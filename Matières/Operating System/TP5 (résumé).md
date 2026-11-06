@@ -1,11 +1,13 @@
 ---
 type: source
-tags: [year2]
-sources: ["[[Cours/Year 2/Operating System/DM/TP5/TP5|TP5 (DM)]]"]
+tags:
+  - year2
+sources:
+  - "[[TP5|TP5 (DM)]]"
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 2/Operating System/DM/TP5/TP5|TP5 (DM)]], dans [[Operating System (matière)]]. C'est la version rendue du TP5 : même contenu que [[Cours TP5]], avec en plus le tableau des variables prédéfinies d'AWK issu de la page de manuel (`ARGC`, `ARGV`, `CONVFMT`, `ENVIRON`, `FILENAME`, `FNR`, `FS`, `NF`, `NR`, `OFMT`, `OFS`, `ORS`, `RLENGTH`, `RS`, `RSTART`, `SUBSEP`). Le TP apprend à manipuler des fichiers en colonnes avec [[AWK]].
+Résumé de [[TP5|TP5 (DM)]], dans [[Operating System (matière)]]. C'est la version rendue du TP5 : même contenu que [[Cours TP5]], avec en plus le tableau des variables prédéfinies d'AWK issu de la page de manuel (`ARGC`, `ARGV`, `CONVFMT`, `ENVIRON`, `FILENAME`, `FNR`, `FS`, `NF`, `NR`, `OFMT`, `OFS`, `ORS`, `RLENGTH`, `RS`, `RSTART`, `SUBSEP`). Le TP apprend à manipuler des fichiers en colonnes avec [[AWK]].
 
 ## Points à vérifier dans le cours
 

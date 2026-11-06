@@ -1,9 +1,23 @@
 ---
 type: concept
-tags: [year1, year3, nomme]
-aliases: [sinus hyperbolique, cosinus hyperbolique, tangente hyperbolique, cosh, sinh, hyperbolic functions]
-matieres: [Analyse Maths, Séries]
-sources: ["[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]", "[[Chp0 - Revision chapter]]", "[[Chp5 - power series]]"]
+tags:
+  - year1
+  - year3
+  - nomme
+aliases:
+  - sinus hyperbolique
+  - cosinus hyperbolique
+  - tangente hyperbolique
+  - cosh
+  - sinh
+  - hyperbolic functions
+matieres:
+  - Analyse Maths
+  - Séries
+sources:
+  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]"
+  - "[[Chp0 - Revision chapter]]"
+  - "[[Chp5 - power series]]"
 maj: 2026-11-06
 ---
 

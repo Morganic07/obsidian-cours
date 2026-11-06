@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year3]
-aliases: [RStudio, R language]
-matieres: [Data analysis (Thanos)]
-sources: ["[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]", "[[Summary functions in RStudio]]", "[[Cours 13 - PCA in R]]"]
+tags:
+  - year3
+aliases:
+  - RStudio
+  - R language
+matieres:
+  - Data analysis (Thanos)
+sources:
+  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"
+  - "[[Summary functions in RStudio]]"
+  - "[[Cours 13 - PCA in R]]"
 maj: 2026-11-06
 ---
 

@@ -1,8 +1,20 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [linear combination, linear combinations, combinaisons linéaires, vector equation, équation vectorielle, "poids d'une combinaison linéaire"]
-sources: ["[[Chp 0a - Linear combination]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp1|chp1 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp3|chp3 (Algèbre)]]", "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - linear combination
+  - linear combinations
+  - combinaisons linéaires
+  - vector equation
+  - équation vectorielle
+  - poids d'une combinaison linéaire
+sources:
+  - "[[Chp 0a - Linear combination]]"
+  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
