@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Chp 4 Discrete random variable",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:Raw/",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22298524945041312,
+  "scale": 0.35148699869863365,
   "close": false
 }

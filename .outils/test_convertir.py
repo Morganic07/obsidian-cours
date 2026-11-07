@@ -258,6 +258,23 @@ class TestBoutEnBout(unittest.TestCase):
         self.assertIn("# Chapitre", sortie.getvalue())
         self.assertEqual([p.name for p in self.coffre.iterdir()], [chemins.TRANSCRIPTIONS])
 
+    def test_commande_extrait_les_images_hors_du_coffre(self):
+        dossier = self.coffre.parent / "images"
+        sortie = io.StringIO()
+        with contextlib.redirect_stdout(sortie):
+            code = convertir.main([str(self.source), "--coffre", str(self.coffre),
+                                   "--images", str(dossier)])
+        self.assertEqual(code, 0)
+        nom = re.search(r"!\[\[images/([^\]]+)\]\]", sortie.getvalue())[1]
+        self.assertEqual((dossier / nom).read_bytes(), PNG)
+
+    def test_commande_refuse_des_images_dans_le_coffre(self):
+        with contextlib.redirect_stderr(io.StringIO()), contextlib.redirect_stdout(io.StringIO()):
+            code = convertir.main([str(self.source), "--coffre", str(self.coffre),
+                                   "--images", str(self.coffre / "img")])
+        self.assertEqual(code, 2)
+        self.assertFalse((self.coffre / "img").exists())
+
     def test_commande_refuse_autre_chose_qu_un_docx(self):
         with contextlib.redirect_stderr(io.StringIO()):
             self.assertEqual(convertir.main([str(self.fabrique / "s.md")]), 2)

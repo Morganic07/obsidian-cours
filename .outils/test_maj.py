@@ -261,6 +261,19 @@ class TestCas(Base):
         self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Contrôles (résumé).md`",
                       unicodedata.normalize("NFC", self.lot("01 - Contro")))
 
+    def test_fiche_qui_cite_seulement_le_dossier_signalee(self):
+        # Cas réel : les PDF de « Projet courts » portent le nom de tiers, la fiche ne
+        # cite que leur dossier.
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Brief (résumé).md",
+                    f'---\nsources: ["PDF du brief, dans {M}/Year 2/Algebre"]\n---\n')
+        self.docx("Year 2/Algebre/Brief - Prénom Nom.docx", "Brief.\n")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        texte = self.lot("01 - Brief")
+        self.assertIn("Fiche existante : aucune", texte)
+        self.assertIn(f"citent son dossier sans le lier (peut-être la sienne) : "
+                      f"`{chemins.MATIERES}/Algebre/Brief (résumé).md`", texte)
+        self.assertNotIn("Chp 1 (résumé)", texte.split("Fiches qui citent")[1].split("\n")[0])
+
     def test_tableau_reste_en_html_signale(self):
         # Cas réel (« Cours 1 et 2 : Database ») : plusieurs lignes d'en-tête, que pandoc
         # garde en HTML. Pandoc ne sait pas écrire un tel docx : on place directement le

@@ -1,8 +1,8 @@
-# Régénéré depuis Drive par .outils/maj.sh
-.raw/
-Cours/
+# Miroir de Drive, régénéré par .outils/maj.sh
+Raw/
 .outils/exclusions.local
-.transcriptions/A_FAIRE.tsv
+# Anciennes notes converties, à supprimer
+Cours/
 
 # État local d'Obsidian
 .obsidian/workspace*

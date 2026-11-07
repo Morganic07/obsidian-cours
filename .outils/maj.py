@@ -243,6 +243,14 @@ def fiches_du_document(fiches, document):
     return [fiche for fiche, cibles in fiches if nfc(document) in cibles]
 
 
+def fiches_citant_le_dossier(fiches, chemin):
+    """Fiches dont sources nomme le dossier du document sans le lier (« PDF du brief, dans
+    Raw/Year 3/Projet courts ») : le nom du fichier porte celui d'un tiers."""
+    dossier = nfc(f"{chemins.MIROIR}/{Path(chemin).parent.as_posix()}")
+    return [fiche for fiche, cibles in fiches
+            if any(c.endswith(dossier) and not c.startswith("[[") for c in cibles)]
+
+
 def dossiers_probables(fiches, coffre, chemin):
     """Dossiers de Matières/ des fiches tirées du même dossier de Drive, ou d'un parent
     jusqu'au dossier de la matière (Year N/<matière>)."""
@@ -326,6 +334,10 @@ def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes):
     else:
         probables = dossiers_probables(fiches, coffre, chemin)
         lignes.append("- Fiche existante : aucune")
+        par_dossier = fiches_citant_le_dossier(fiches, chemin)
+        if par_dossier:
+            lignes.append("- Fiches qui citent son dossier sans le lier (peut-être la sienne) : " + ", ".join(
+                f"`{f.relative_to(coffre).as_posix()}`" for f in par_dossier))
         lignes.append("- Dossier de fiches probable : " + (
             ", ".join(f"`{p}/`" for p in probables) or "aucun (nouvelle matière ?)"))
     if etat in (SUPPRIME, DEPLACE):

@@ -9,16 +9,16 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 3. [x] Donner une page à chaque notion nommée dans les cours, pour la voir dans le graphe : repasser sur les 223 résumés (docx, PDF et PPTX), créer les concepts manquants et les relier entre eux
 4. [x] Transformer les résumés en fiches complètes, avec figures et captures (216 fiches, 2026-11-06)
 5. [x] Vérifier les 1 839 transcriptions d'images sur l'image, puis corriger les fiches qui ont recopié une erreur de lecture (reste l'image « Critical Evaluation » de Statistics Chp1, à vérifier à la main)
-6. [ ] Décider comment cacher `Cours/` sans perdre les images des fiches ni les liens vers les notes
+6. [ ] Supprimer `Cours/` : liens migrés vers les fiches et `Raw/` (2026-11-07) ; reste une mise à jour d'essai sur un document, puis la suppression
 7. [ ] Contrôler le wiki (lint)
 8. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
 9. [ ] Envoyer sur GitHub
 
 ## Résumés pas encore en fiche complète (plus tard)
 
-- [ ] `Prise parole Rendu final`, `Projet BLR`, `UNIX Commands - Semester report` : notes supprimées de `Cours/` ; décider de les garder (relire le `.docx` de `Raw/`) ou de les retirer avec leur résumé
-- [ ] `Synthèse des entretiens`, `Transcriptions des entretiens` (SHS, Year 3) : la note n'existe plus dans `Cours/` ni sur Drive
-- [ ] `TP2` (Operating System) : la note `DM/TP2` est absente de `Cours/`
+- [ ] `Prise parole Rendu final`, `Projet BLR`, `UNIX Commands - Semester report` : documents exclus du miroir (2026-11-07) ; décider de garder leur fiche telle quelle ou de la retirer
+- [ ] `Synthèse des entretiens`, `Transcriptions des entretiens` (SHS, Year 3) : documents exclus du miroir ; seules les fiches restent
+- [ ] `TP2` (Operating System) : le document `DM/TP2` est exclu du miroir
 - [ ] `Entretien sur l'open source` : déjà complet, lui ajouter `complet: true`
 
 ## Terminé

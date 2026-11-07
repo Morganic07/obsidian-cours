@@ -10,8 +10,7 @@ import os
 import sys
 from pathlib import Path
 
-MIROIR = ".raw"  # copie brute de Drive, suit son arborescence
-NOTES = "Cours"  # ancien dossier des notes converties : lu seulement par la migration des liens
+MIROIR = "Raw"  # copie brute de Drive, suit son arborescence ; visible dans Obsidian
 CONCEPTS = "Concepts"  # pages de concepts ; aliases et matieres servent à les repérer dans un document
 MATIERES = "Matières"  # cartes de matière et fiches (résumés)
 SYNTHESES = "Synthèses"
@@ -21,7 +20,7 @@ TRANSCRIPTIONS = ".transcriptions"  # texte lu dans les images, une page par emp
 A_FAIRE = "A_FAIRE.tsv"  # images restant à transcrire, dans le dossier de travail
 EXCLUSIONS = "exclusions.local"  # filtres rclone, dans .outils
 
-NOMS = ("MIROIR", "NOTES", "CONCEPTS", "MATIERES", "SYNTHESES", "SUIVI", "ACCUEIL",
+NOMS = ("MIROIR", "CONCEPTS", "MATIERES", "SYNTHESES", "SUIVI", "ACCUEIL",
         "TRANSCRIPTIONS", "A_FAIRE", "EXCLUSIONS")
 
 # Pages du wiki, celles dont on cherche les liens.

@@ -271,9 +271,14 @@ def empreintes_images(images, base):
     return {f"{base}/{nom}": hashlib.sha256(octets).hexdigest() for nom, octets in images.items()}
 
 
-def lire(source, coffre):
-    """Texte d'un .docx avec la transcription de chaque image, comme on le relit."""
+def lire(source, coffre, dossier_images=None):
+    """Texte d'un .docx avec la transcription de chaque image, comme on le relit.
+    Si dossier_images est donné, les images y sont écrites, sous le nom cité dans le texte."""
     corps, images = convertir_docx(source, "images")
+    if dossier_images is not None:
+        dossier_images.mkdir(parents=True, exist_ok=True)
+        for nom, octets in images.items():
+            (dossier_images / nom).write_bytes(octets)
     return inserer_transcriptions(corps, empreintes_images(images, "images"),
                                   charger_transcriptions(coffre))
 
@@ -283,12 +288,18 @@ def main(argv=None):
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("document", type=Path, help="fichier .docx à lire")
     parser.add_argument("--coffre", type=Path, default=ICI.parent)
+    parser.add_argument("--images", type=Path,
+                        help="dossier où écrire les images (hors du coffre), pour les copier dans une fiche")
     args = parser.parse_args(argv)
+    coffre = args.coffre.resolve()
     if args.document.suffix.lower() != ".docx" or not args.document.is_file():
         print(f"erreur : {args.document} n'est pas un .docx existant", file=sys.stderr)
         return 2
+    if args.images and coffre in [args.images.resolve(), *args.images.resolve().parents]:
+        print("erreur : le dossier des images doit être hors du coffre", file=sys.stderr)
+        return 2
     try:
-        texte = lire(args.document, args.coffre.resolve())
+        texte = lire(args.document, coffre, args.images)
     except subprocess.CalledProcessError as erreur:
         print(f"erreur : pandoc a échoué : {erreur.stderr.strip()}", file=sys.stderr)
         return 1

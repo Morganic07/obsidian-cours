@@ -2,7 +2,7 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-06 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Toutes les notes de `Cours/` et tous les PDF et PPTX de `Raw/` sont intégrés. Le texte des PDF n'est pas cherchable : seuls leurs résumés le sont.
+État au 2026-11-07 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Tous les documents de `Raw/` (Word, PDF et PPTX) sont intégrés, et leur fiche les lie dans `sources`, sauf deux PDF de Projet courts dont le nom porte celui de tiers (la fiche cite leur dossier). Six fiches n'ont plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
 
 ## Concepts (1266)
 
@@ -1609,20 +1609,20 @@ Aucune pour l'instant.
 
 ## Sources disponibles
 
-Notes présentes dans `Cours/` (163), par matière. Le nombre entre parenthèses est le nombre de notes.
+Documents du miroir de Drive dans `Raw/` (219 : 160 docx, 53 pdf, 6 pptx), par dossier de Drive, au 2026-11-07.
 
 ### Year 1
 
-Algo Maths (3), Algèbre Linéaire (7), Analyse Maths (2), Communication orale (2), Corps à l'oeuvre (1), Dessein au cube (7), HDA (1), Outil Maths (4), Peinture (3), Philosophie (2), Projet design (6)
+Algo Maths (3 docx, 1 pdf), Algèbre Linéaire (7 docx), Analyse Maths (2 docx, 12 pdf), Communication orale (2 docx), Corps à l'oeuvre (1 docx), Dessein au cube (7 docx), HDA (1 docx), Outil Maths (4 docx, 10 pdf), Peinture (3 docx), Philosophie (2 docx), Projet design (4 docx), plus 1 pdf à la racine de `Year 1`
 
 ### Year 2
 
-Algo (5), Analyse (3), Analyse dans Rn (4), Anglais (3), Bilinear Algebra (8), Corps à l'oeuvre (1), Operating System (21), Philosophie (5), Probability (7), Projet Design (4), écriture narrative (1)
+Algo (5 docx, 5 pdf), Analyse (3 docx, 2 pdf), Analyse dans Rn (4 docx), Anglais (3 docx), Bilinear Algebra (8 docx), Corps à l'oeuvre (1 docx), Operating System (19 docx, 6 pdf), Philosophie (5 docx), Probability (7 docx), Projet Design (4 docx, 1 pdf), SHS (1 pdf), écriture narrative (1 docx)
 
 ### Year 3
 
-Computer Network (7), Culture du vivant (3), Data analysis (Thanos) (15), Data base (2), IA (1), Java (1), SHS (3), Statistics (7), Séries (7), ligue football (1), workshop (1), plus 1 note à la racine de `Year 3`
+Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx, 1 pdf), Data analysis (Thanos) (15 docx), Data base (2 docx), IA (1 docx), Java (1 docx), ligue football (1 docx, 2 pdf), Projet courts (2 pdf), SHS (1 docx, 5 pdf), Statistics (7 docx), Sémiotique (4 pptx), Séries (7 docx), workshop (1 docx), plus 1 docx à la racine de `Year 3`
 
 ### Year 4
 
-C++ (3), Culture du vivant (1), SHS (3), data mining (1), graph theory (5), management de l'innovationb (2), projet court (1), plus 1 note à la racine de `Year 4` (Gestion financière)
+C++ (3 docx), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (3 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)
