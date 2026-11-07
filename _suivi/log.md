@@ -176,3 +176,13 @@ Relecture critique des 162 définitions, avec vérification sur le web pour les 
 
 Restent incertains : [[Gestelligence]] (aucune occurrence hors du cours), [[ReFS]] (rapport à NTFS selon les versions de Windows), les seuils de [[Devoir de vigilance]] (simplifiés), le numéro de la directive Omnibus I (non vérifié sur EUR-Lex, et non cité dans la page).
 
+## [2026-11-07] schema | Matières rangées par domaine
+
+Les 43 dossiers de `Matières/` sont rangés dans les cinq domaines de `Concepts/` : `Matières/<Domaine>/<Matière>/`.
+- Mathématiques (9) : Algèbre linéaire, Algo Maths, Analyse, Analyse dans Rn, Analyse Maths, Bilinear Algebra, Contrôles, Outil Maths, Séries.
+- Probabilités et statistiques (3) : Data analysis (Thanos), Probability, Statistics.
+- Informatique (10) : Algo, C++, Computer Network, Data base, Data mining, Graph theory, IA, Java, Ligue football, Operating System.
+- Design (11) : Affordance, Corps à l'oeuvre, Culture du soin, Dessein au cube, HDA, Peinture, Projet courts (Year 3), Projet design (Year 1), Projet design (Year 2), Sémiotique, Workshop.
+- Sciences humaines (10) : Anglais, Communication orale, Culture du vivant, Écriture narrative, Gestion financière, Management de l'innovation, Philosophie, Projet court (Year 4), SHS, Séance BU.
+
+Aucun lien ne passait par le chemin d'une matière : rien de cassé (contrôle de tous les liens et images du wiki). Chemins en texte corrigés dans [[AnalyseID1 (résumé)]] et [[Chp 4 - Discrete random variables (résumé)]]. `CLAUDE.md`, `/maj-cours` et [[Accueil]] (liste par domaine, et « cinq domaines » au lieu de six pour `Concepts/`) mis à jour. `maj.py` parcourt `Matières/` en profondeur : il retrouve les 223 fiches et oriente un document nouveau vers le dossier de sa matière.

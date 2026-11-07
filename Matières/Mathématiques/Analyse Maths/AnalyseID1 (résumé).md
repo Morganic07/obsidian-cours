@@ -17,7 +17,7 @@ Résumé de AnalyseID1 ([[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseI
 | 4. Dérivabilité | 61 à 72 | [[Chp4 - dérivabilité (résumé)]] |
 | 5. Analyse asymptotique | 73 à 95 | [[chp5 - Analyse Maths (résumé)\|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]] |
 
-Les chapitres 0 à 3 ont été lus en image (le polycopié est en grande partie fait de captures). Pour les chapitres 1, 4 et 5 et les rappels du chapitre 0, la fiche renvoie aux résumés dédiés ; elle détaille ici la trigonométrie, les chapitres 2 et 3 et le TD3. Les figures sont recadrées dans `Matières/Analyse Maths/images/`.
+Les chapitres 0 à 3 ont été lus en image (le polycopié est en grande partie fait de captures). Pour les chapitres 1, 4 et 5 et les rappels du chapitre 0, la fiche renvoie aux résumés dédiés ; elle détaille ici la trigonométrie, les chapitres 2 et 3 et le TD3. Les figures sont recadrées dans `Matières/Mathématiques/Analyse Maths/images/`.
 
 ## Chapitre 0 : rappels (pages 1 à 14)
 

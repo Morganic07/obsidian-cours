@@ -2,7 +2,7 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-07 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Tous les documents de `Raw/` (Word, PDF et PPTX) sont intégrés, et leur fiche les lie dans `sources`, sauf deux PDF de Projet courts dont le nom porte celui de tiers (la fiche cite leur dossier). Six fiches n'ont plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
+État au 2026-11-07 : 1 265 concepts, rangés en cinq domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés dans `Matières/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Tous les documents de `Raw/` (Word, PDF et PPTX) sont intégrés, et leur fiche les lie dans `sources`, sauf deux PDF de Projet courts dont le nom porte celui de tiers (la fiche cite leur dossier). Six fiches n'ont plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
 
 ## Concepts (1266)
 
@@ -1594,7 +1594,17 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 
 ## Matières (41)
 
-Chaque matière a son dossier `Matières/<Matière>/`, qui contient sa carte `<Matière> (matière)` et ses résumés. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
+Chaque matière a son dossier `Matières/<Domaine>/<Matière>/`, qui contient sa carte `<Matière> (matière)` et ses résumés. Les domaines sont ceux de `Concepts/`. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
+
+Par domaine :
+
+- **Mathématiques** (9) : [[Algèbre linéaire (matière)]], [[Algo Maths (matière)]], [[Analyse (matière)]], [[Analyse dans Rn (matière)]], [[Analyse Maths (matière)]], [[Bilinear Algebra (matière)]], [[Outil Maths (matière)]], [[Séries (matière)]], [[Contrôles (résumé)]] (sans carte)
+- **Probabilités et statistiques** (3) : [[Data analysis (Thanos) (matière)]], [[Probability (matière)]], [[Statistics (matière)]]
+- **Informatique** (10) : [[Algo (matière)]], [[C++ (matière)]], [[Computer Network (matière)]], [[Data base (matière)]], [[Data mining (matière)]], [[Graph theory (matière)]], [[IA (matière)]], [[Java (matière)]], [[Ligue football (matière)]], [[Operating System (matière)]]
+- **Design** (11) : [[Affordance (matière)]], [[Corps à l'oeuvre (matière)]], [[Culture du soin (matière)]], [[Dessein au cube (matière)]], [[HDA (matière)]], [[Peinture (matière)]], [[Projet courts (Year 3) (matière)]], [[Projet design (Year 1) (matière)]], [[Projet design (Year 2) (matière)]], [[Sémiotique (matière)]], [[Workshop (matière)]]
+- **Sciences humaines** (10) : [[Anglais (matière)]], [[Communication orale (matière)]], [[Culture du vivant (matière)]], [[Écriture narrative (matière)]], [[Gestion financière (matière)]], [[Management de l'innovation (matière)]], [[Philosophie (matière)]], [[Projet court (Year 4) (matière)]], [[SHS (matière)]], [[Séance BU - Savoir rechercher sur Google (résumé)]] (sans carte)
+
+Par année :
 
 - **Year 1** : [[Algèbre linéaire (matière)]], [[Algo Maths (matière)]], [[Analyse Maths (matière)]], [[Communication orale (matière)]], [[Corps à l'oeuvre (matière)]] (aussi Year 2), [[Dessein au cube (matière)]], [[HDA (matière)]], [[Outil Maths (matière)]], [[Peinture (matière)]], [[Philosophie (matière)]] (aussi Year 2), [[Projet design (Year 1) (matière)]], [[Contrôles (résumé)]] (sans carte)
 - **Year 2** : [[Algo (matière)]], [[Analyse (matière)]], [[Analyse dans Rn (matière)]], [[Anglais (matière)]], [[Bilinear Algebra (matière)]], [[Écriture narrative (matière)]], [[Operating System (matière)]], [[Probability (matière)]], [[Projet design (Year 2) (matière)]], [[SHS (matière)]] (aussi Year 3 et 4)
