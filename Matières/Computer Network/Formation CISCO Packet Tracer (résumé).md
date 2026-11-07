@@ -1,16 +1,16 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Formation CISCO Packet Tracer]]"]
+sources: ["[[Raw/Year 3/Computer Network/Formation CISCO Packet Tracer.docx|Formation CISCO Packet Tracer]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Formation CISCO Packet Tracer]], dans [[Computer Network (matière)]] : notes de prise en main de Cisco Packet Tracer (matériel utilisé, modes de la ligne de commande IOS, mémoires de configuration) et d'un tutoriel vidéo sur `ping`. Note très courte, sans image, écrite par l'étudiante (« recap cours du prof », avec un « je crois » sur le sens d'IOS).
+Résumé de [[Raw/Year 3/Computer Network/Formation CISCO Packet Tracer.docx|Formation CISCO Packet Tracer]], dans [[Computer Network (matière)]] : notes de prise en main de Cisco Packet Tracer (matériel utilisé, modes de la ligne de commande IOS, mémoires de configuration) et d'un tutoriel vidéo sur `ping`. Note très courte, sans image, écrite par l'étudiante (« recap cours du prof », avec un « je crois » sur le sens d'IOS).
 
 ## Récapitulatif du cours
 
-Le même texte figure au début de [[chp1 - Computer Networks]]. Voir [[CLI Cisco IOS]].
+Le même texte figure au début de [[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]. Voir [[CLI Cisco IOS]].
 
 ### Matériel utilisé
 
@@ -73,6 +73,6 @@ Le titre existe, la section est vide. Le sujet est traité dans [[02 IP Addressi
 ## Points à vérifier dans le cours
 
 1. **Contenu manquant** : la partie sur l'adressage IP et les masques n'a pas de texte.
-2. **Doublon** : le récapitulatif est identique à celui de [[chp1 - Computer Networks]]. Rien de nouveau n'est à y chercher.
+2. **Doublon** : le récapitulatif est identique à celui de [[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]. Rien de nouveau n'est à y chercher.
 3. **« startup Config : fait monter les running config dans la RAM »** : formulation de l'étudiante. Au démarrage, c'est la *startup-config* qui est copiée dans la RAM pour devenir la *running-config*.
 4. **« Global Config mode permet de run all configurations commands sauf les show commands »** : vrai pour les commandes `show` saisies telles quelles ; IOS permet de les lancer depuis ce mode avec le préfixe `do` (complément, hors cours).

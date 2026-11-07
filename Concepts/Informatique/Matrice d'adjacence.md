@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [adjacency matrix]
-sources: ["[[Chp 1 - Undirected graph]]", "[[Graph - Python]]"]
+sources: ["[[Chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 

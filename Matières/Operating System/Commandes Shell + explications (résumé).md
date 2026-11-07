@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Commandes Shell + explications]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/Commandes Shell + explications.docx|Commandes Shell + explications]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Commandes Shell + explications]], dans [[Operating System (matière)]]. Fiche de référence rédigée par l'étudiante (mélange de français et d'anglais) : commandes de base, `cat`, `chmod`, puis langage Bash. Une seule image, une capture de `shuf`.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/Commandes Shell + explications.docx|Commandes Shell + explications]], dans [[Operating System (matière)]]. Fiche de référence rédigée par l'étudiante (mélange de français et d'anglais) : commandes de base, `cat`, `chmod`, puis langage Bash. Une seule image, une capture de `shuf`.
 
 ## Tableau des commandes de base
 

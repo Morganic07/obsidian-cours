@@ -13,10 +13,10 @@ aliases:
   - transformation inversible
   - algorithm for finding A^-1
 sources:
-  - "[[Chp 0b - Matrix algebra]]"
-  - "[[Invertible matrix theorem]]"
-  - "[[chp4|chp4 (Algèbre)]]"
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
+  - "[[Invertible matrix theorem (résumé)|Invertible matrix theorem]]"
+  - "[[chp4 (résumé)|chp4 (Algèbre)]]"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -49,7 +49,7 @@ Liens : [[Déterminant]], [[Rang d'une matrice]], [[Valeur propre]], [[Forme éc
 
 ## À vérifier
 
-- [[chp4|chp4 (Algèbre)]] : la formule « $M_f \times M_{f^{-1}} =$ » est tronquée dans l'export Google.
-- [[Chp 0b - Matrix algebra]] : l'exemple $e^x$ / $\ln$ est une analogie hors des transformations linéaires.
+- [[chp4 (résumé)|chp4 (Algèbre)]] : la formule « $M_f \times M_{f^{-1}} =$ » est tronquée dans l'export Google.
+- [[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]] : l'exemple $e^x$ / $\ln$ est une analogie hors des transformations linéaires.
 
 Résumés : [[Chp 0b - Matrix algebra (résumé)]], [[Invertible matrix theorem (résumé)]], [[chp4 (résumé)|chp4 (résumé)]], [[chp5 - Algèbre linéaire (résumé)|chp5 (résumé)]]

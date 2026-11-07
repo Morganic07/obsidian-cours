@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Pistes entrevue|Pistes entrevue]]"
+  - "[[Raw/Year 1/Dessein au cube/inégalités alimentaires/Pistes entrevue.docx|Pistes entrevue]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Pistes entrevue|Pistes entrevue]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Raw/Year 1/Dessein au cube/inégalités alimentaires/Pistes entrevue.docx|Pistes entrevue]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Aide-mémoire de méthode pour mener un entretien (c'est le cœur du cours). Détail : [[Entretien semi-directif]].
 

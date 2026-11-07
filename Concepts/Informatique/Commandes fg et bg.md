@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [fg %1, bg %1, foreground, premier plan, commande fg, commande bg]
 matieres: [Operating System]
-sources: ["[[Cours TP2]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 

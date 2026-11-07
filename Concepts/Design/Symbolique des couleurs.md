@@ -6,8 +6,8 @@ aliases:
   - polysémie des couleurs
   - couleurs polysémiques
 sources:
-  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
-  - "[[Cours 2]]"
+  - "[[Séance 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
+  - "[[Séance 2 (résumé)|Cours 2]]"
 maj: 2026-11-06
 ---
 

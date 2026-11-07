@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [binomial distribution, binomial random variable, loi de Bernoulli, Bernoulli random variable, expérience binomiale, Bernoulli rv, variable de Bernoulli]
 matieres: [Probability, Statistics]
-sources: ["[[Chp 3 - Important discrete distributions]]", "[[Chp3 - More on probability]]"]
+sources: ["[[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -20,6 +20,6 @@ Notion parente : [[Variable aléatoire]]. Voir aussi : [[Loi de Poisson]], [[Com
 ## À vérifier
 
 - $E(X^n) = p$ pour une Bernoulli n'est vrai que pour $n \ge 1$.
-- [[Chp4 Part 1 - Inferential statistics]] écrit $Y \sim \mathrm{Bin}(n_j, q)$ au lieu de $\mathrm{Bin}(\sum n_i, p)$.
+- [[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]] écrit $Y \sim \mathrm{Bin}(n_j, q)$ au lieu de $\mathrm{Bin}(\sum n_i, p)$.
 
 Résumés : [[Chp 3 - Important discrete distributions (résumé)]], [[Chp 4 - Discrete random variables (résumé)]], [[Chp3 - More on probability (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]], [[probabilité statistiques utilitaire (résumé)]], [[Séance 7 - Z-Test (résumé)]]

@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours 3|Cours 3 (Peinture)]]"
+  - "[[Raw/Year 1/Peinture/Cours/Cours 3.docx|Cours 3 (Peinture)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 3|Cours 3 (Peinture)]], dans [[Peinture (matière)]]. Note courte (cours du 16/11/23), la section « Culture G » est vide.
+Résumé de [[Raw/Year 1/Peinture/Cours/Cours 3.docx|Cours 3 (Peinture)]], dans [[Peinture (matière)]]. Note courte (cours du 16/11/23), la section « Culture G » est vide.
 
 ## Références
 

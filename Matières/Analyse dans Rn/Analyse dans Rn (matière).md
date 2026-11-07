@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]", "[[Chp 3 - Limite et continuité d’applications]]", "[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[Chp 3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]", "[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 
@@ -11,10 +11,10 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp 2 - éléments de topologie dans Rn]] | Normes, boules, ouverts, adhérence | [[Chp 2 - éléments de topologie dans Rn (résumé)\|Résumé]] |
-| [[Chp 3 - Limite et continuité d’applications]] | Limites, continuité, lipschitz | [[Chp 3 - Limite et continuité d’applications (résumé)\|Résumé]] |
-| [[Chp 4 - Calcul différentiel du premier ordre]] | Différentielle, gradient, EDP d'ordre 1 | [[Chp 4 - Calcul différentiel du premier ordre (résumé)\|Résumé]] |
-| [[Chp 5 - Calcul différentiel d'ordre supérieur]] | Classe $\mathcal{C}^k$, Schwarz, EDP d'ordre 2 | [[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)\|Résumé]] |
+| [[Chp 2 - éléments de topologie dans Rn (résumé)\|Chp 2 - éléments de topologie dans Rn]] | Normes, boules, ouverts, adhérence | [[Chp 2 - éléments de topologie dans Rn (résumé)\|Résumé]] |
+| [[Chp 3 - Limite et continuité d’applications (résumé)\|Chp 3 - Limite et continuité d’applications]] | Limites, continuité, lipschitz | [[Chp 3 - Limite et continuité d’applications (résumé)\|Résumé]] |
+| [[Chp 4 - Calcul différentiel du premier ordre (résumé)\|Chp 4 - Calcul différentiel du premier ordre]] | Différentielle, gradient, EDP d'ordre 1 | [[Chp 4 - Calcul différentiel du premier ordre (résumé)\|Résumé]] |
+| [[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)\|Chp 5 - Calcul différentiel d'ordre supérieur]] | Classe $\mathcal{C}^k$, Schwarz, EDP d'ordre 2 | [[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)\|Résumé]] |
 
 ## Concepts
 

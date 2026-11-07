@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/contrôles/correction-DS1-analyse-18-11-2021(1)(1).pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/contrôles/correction-DS1-analyse-18-11-2021(1)(1).pdf|correction-DS1-analyse-18-11-2021(1)(1).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de correction-DS1-analyse-18-11-2021 (`.raw/Year 1/Analyse Maths/contrôles/correction-DS1-analyse-18-11-2021(1)(1).pdf`) (5 pages, texte), dans [[Analyse Maths (matière)]]. Corrigé du DS1 d'Analyse du 18 novembre 2021 (Département de Mathématiques, PréING1, 2021-2022). Même structure que [[DS1-Analyse-2022-corrigé (résumé)]], sur [[Chap0-Rappels-etc (résumé)]] et [[Chap1-reels (résumé)]]. Le barème est indiqué pour chaque question. Le document ne contient aucune figure (seule image : le logo de la première page).
+Résumé de correction-DS1-analyse-18-11-2021 ([[Raw/Year 1/Analyse Maths/contrôles/correction-DS1-analyse-18-11-2021(1)(1).pdf|correction-DS1-analyse-18-11-2021(1)(1).pdf]]) (5 pages, texte), dans [[Analyse Maths (matière)]]. Corrigé du DS1 d'Analyse du 18 novembre 2021 (Département de Mathématiques, PréING1, 2021-2022). Même structure que [[DS1-Analyse-2022-corrigé (résumé)]], sur [[Chap0-Rappels-etc (résumé)]] et [[Chap1-reels (résumé)]]. Le barème est indiqué pour chaque question. Le document ne contient aucune figure (seule image : le logo de la première page).
 
 ## Exercice 1 : équations dans $\mathbb{R}$
 

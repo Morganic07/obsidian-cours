@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[philo 5|philo 5]]"
+  - "[[Raw/Year 2/Philosophie/philo 5 .docx|philo 5]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[philo 5|philo 5]], dans [[Philosophie (matière)]]. Titre : « Distinction classique entre machine et organisme ». La note ne contient aucune image.
+Résumé de [[Raw/Year 2/Philosophie/philo 5 .docx|philo 5]], dans [[Philosophie (matière)]]. Titre : « Distinction classique entre machine et organisme ». La note ne contient aucune image.
 
 ## 1. Vision mécaniste de la Nature au XVIIᵉ siècle
 

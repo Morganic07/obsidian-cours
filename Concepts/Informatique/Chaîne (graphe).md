@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [chaîne élémentaire, chaîne simple, simple chain, longueur d'une chaîne]
-sources: ["[[Chp 1 - Undirected graph]]", "[[Graph - Python]]"]
+sources: ["[[Chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 

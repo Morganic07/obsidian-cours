@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [rareté de l'espace de circulation]
-sources: [".raw/Year 3/SHS/Cours/text3.pdf", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]", "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [law of large numbers, LLN, loi faible des grands nombres]
 matieres: [Statistics]
-sources: ["[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 

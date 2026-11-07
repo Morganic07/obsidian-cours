@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3, year4]
 aliases: [analyse thématique, mapping thématique, verbatim, verbatims, insight, insights, grille d'analyse d'entretien, typologie de mots-clés, mots-clés récurrents]
 matieres: [Dessein au cube, Projet design, Projet Design, SHS, Affordance]
-sources: ["[[Untitled document]]", "[[Prise parole Rendu final]]", "[[Global Exam Vocab]]", ".raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf", "[[Synthese SHS GPT]]", "[[SHS Recherches-Morgane]]", "[[Prise de note SHS]]"]
+sources: ["[[Untitled document (résumé)|Untitled document]]", "[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]", "[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]", "[[Synthese SHS GPT (résumé)|Synthese SHS GPT]]", "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]", "[[Prise de note SHS (résumé)|Prise de note SHS]]"]
 maj: 2026-11-06
 ---
 

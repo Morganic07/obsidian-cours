@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[chp1 - Computer Networks]]"]
+sources: ["[[Raw/Year 3/Computer Network/chp1 : Computer Networks.docx|chp1 - Computer Networks]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp1 - Computer Networks]], dans [[Computer Network (matière)]]. Notes personnelles de l'étudiante, en français et en anglais mêlés, des deux premiers cours Cisco : prise en main d'IOS (modes, mémoires, interfaces), puis premières commandes de configuration d'interface et de route statique. Aucune image. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 3/Computer Network/chp1 : Computer Networks.docx|chp1 - Computer Networks]], dans [[Computer Network (matière)]]. Notes personnelles de l'étudiante, en français et en anglais mêlés, des deux premiers cours Cisco : prise en main d'IOS (modes, mémoires, interfaces), puis premières commandes de configuration d'interface et de route statique. Aucune image. En cas d'écart, le cours fait foi.
 
 ## Premier cours : Cisco et IOS
 
@@ -89,5 +89,5 @@ Rien n'a été corrigé dans le cours. Cette note n'a aucune image.
 1. **« Internetwork Operating System, je crois »** : l'étudiant doute. C'est bien le sens de IOS (complément).
 2. **« Global Config permet toutes les commandes de configuration sauf les show »** : sur IOS, `show` se lance depuis une configuration avec `do show ...`. Le cours dit que certaines commandes ne marchent pas dans les autres modes, ce qui reste vrai (complément).
 3. **Étudiant : « je sais pas à quoi tout ça sert »** : `ip address` donne son adresse à l'interface et `no shutdown` l'active (une interface de routeur est désactivée par défaut, voir [[VLAN]]). Le commentaire « to enable the interface » placé à côté de `interface gigabitEthernet 0/1` est donc inexact : cette ligne sélectionne l'interface (complément).
-4. **Adressage de l'exemple** : l'interface 0/2 reçoit `203.0.113.5/255.255.255.252`, alors que l'exemple de route cible 192.168.20.0 via `g0/2`. Ce n'est pas le même plan d'adressage que dans [[Chp2 - Static Routing]].
-5. **Redondance** : les sections du mode de la ligne de commande sont répétées dans [[Formation CISCO Packet Tracer]].
+4. **Adressage de l'exemple** : l'interface 0/2 reçoit `203.0.113.5/255.255.255.252`, alors que l'exemple de route cible 192.168.20.0 via `g0/2`. Ce n'est pas le même plan d'adressage que dans [[Chp2 - Static Routing (résumé)|Chp2 - Static Routing]].
+5. **Redondance** : les sections du mode de la ligne de commande sont répétées dans [[Formation CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]].

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [QPV, quartier prioritaire, quartiers prioritaires]
 matieres: [Projet design]
-sources: ["[[Informations villeneuve (Brief Intro)]]"]
+sources: ["[[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro)]]"]
 maj: 2026-11-06
 ---
 

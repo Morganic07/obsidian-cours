@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["TP4 du dossier DM/TP4"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP4/TP4 - Pina Morgane.docx|TP4]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de la note TP4 du dossier `DM/TP4` de [[Operating System (matière)]] (la note porte le nom de l'étudiante, d'où l'absence de lien direct). Version rendue de [[Cours TP4]] (voir [[Séance TP4 (résumé)]]) : un programme C à deux processus, puis la planification avec [[Tâche planifiée cron|cron]]. Une seule image, du texte, recopiée ci-dessous.
+Résumé de la note TP4 du dossier `DM/TP4` de [[Operating System (matière)]] (la note porte le nom de l'étudiante, d'où l'absence de lien direct). Version rendue de [[Séance TP4 (résumé)|Cours TP4]] (voir [[Séance TP4 (résumé)]]) : un programme C à deux processus, puis la planification avec [[Tâche planifiée cron|cron]]. Une seule image, du texte, recopiée ci-dessous.
 
 ## Programme C à deux processus
 
@@ -106,7 +106,7 @@ Réponses aux questions (image de la note) :
 
 Rien n'a été corrigé dans le cours.
 
-1. **Le programme C ne compile pas tel quel** : `waitpid` est appelé avec `status` non déclaré et sans `<sys/wait.h>` (complément) ; de plus il est inatteignable après la boucle infinie. Le même programme dans [[Cours TP4]] déclare `status`.
+1. **Le programme C ne compile pas tel quel** : `waitpid` est appelé avec `status` non déclaré et sans `<sys/wait.h>` (complément) ; de plus il est inatteignable après la boucle infinie. Le même programme dans [[Séance TP4 (résumé)|Cours TP4]] déclare `status`.
 2. **Syntaxe `const` en italique** (`*const* char`) : mise en forme Markdown parasite dans la note, à lire `const char *`.
 3. **Dossier de destination** : `/home/momo/data/backup` ici, `/home/momo/backup` ailleurs ; le dossier doit exister avant la copie.
 4. **Correspondance des tâches** : la note ne recopie pas l'énoncé de la tâche 2 ; l'interprétation des trois lignes (chaque minute, toutes les 3 minutes, chaque jour à 2 h) est celle de l'ancien résumé, déduite de la syntaxe.

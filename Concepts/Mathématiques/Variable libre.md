@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [free variable, free variables, variables libres]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0a - Linear combination]]", "[[Chp 0d - Vector Space]]"]
+sources: ["[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]", "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"]
 maj: 2026-11-06
 ---
 

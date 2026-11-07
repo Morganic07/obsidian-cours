@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, nomme]
 aliases: [système sympathique, système parasympathique, nerf vague dorsal, nerfs vagues dorsaux]
-sources: ["[[Dernier cours]]"]
+sources: ["[[Dernière séance (résumé)|Dernier cours]]"]
 maj: 2026-11-06
 ---
 

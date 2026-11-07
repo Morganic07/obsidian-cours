@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [graphe de f]
 matieres: [Outil Maths]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [complexité temporelle, complexité spatiale, complexité d'un algorithme, complexité en temps, pire des cas, notation Θ, notation Ω, opération élémentaire, complexité au pire]
 matieres: [graph theory, Algo Maths, Algo]
-sources: ["[[chp3 - complexité]]", "[[Chp1 - récursivité et complexité]]"]
+sources: ["[[chp3 - complexité (résumé)|chp3 - complexité]]", "[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"]
 maj: 2026-11-06
 ---
 

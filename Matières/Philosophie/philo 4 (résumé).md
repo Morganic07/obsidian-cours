@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[philo 4|philo 4]]"
+  - "[[Raw/Year 2/Philosophie/philo 4 .docx|philo 4]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[philo 4|philo 4]], dans [[Philosophie (matière)]]. Titre : « Technologie et rapport à la technologie ». Voir [[Progrès technique]]. La note ne contient aucune image.
+Résumé de [[Raw/Year 2/Philosophie/philo 4 .docx|philo 4]], dans [[Philosophie (matière)]]. Titre : « Technologie et rapport à la technologie ». Voir [[Progrès technique]]. La note ne contient aucune image.
 
 ## Le concept de progrès
 

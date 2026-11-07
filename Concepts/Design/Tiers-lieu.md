@@ -12,10 +12,10 @@ matieres:
   - Projet design
   - Projet Design
 sources:
-  - "[[idées solutions|idées solutions]]"
-  - "[[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]]"
-  - "[[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]]"
-  - "[[exposé melvita|exposé melvita]]"
+  - "[[idées solutions (résumé)|idées solutions]]"
+  - "[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"
+  - "[[Projet BLR (résumé)|Projet BLR]]"
+  - "[[exposé melvita (résumé)|exposé melvita]]"
 maj: 2026-11-06
 ---
 
@@ -32,6 +32,6 @@ Voir aussi : [[Démarche ascendante]], [[Étude-action]], [[Atelier de co-concep
 
 ## À vérifier
 
-- Les chiffres et pratiques viennent des transcriptions des images du rapport, dans [[idées solutions|idées solutions]] : apostrophes rétablies, signalées « À vérifier » dans la note.
+- Les chiffres et pratiques viennent des transcriptions des images du rapport, dans [[idées solutions (résumé)|idées solutions]] : apostrophes rétablies, signalées « À vérifier » dans la note.
 
 Résumés : [[idées solutions (résumé)|idées solutions (résumé)]], [[Prise parole Rendu final (résumé)|Prise parole Rendu final (résumé)]], [[Projet BLR (résumé)|Projet BLR (résumé)]], [[exposé melvita (résumé)|exposé melvita (résumé)]]

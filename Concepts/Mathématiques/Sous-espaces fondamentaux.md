@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [four fundamental subspaces, fundamental subspaces, row space, left null space, left nullspace, quatre sous-espaces fondamentaux, Row A]
-sources: ["[[Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [convergence in probability, convergence en moyenne quadratique, mean square convergence, convergence in mean square]
-sources: ["[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 

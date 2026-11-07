@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [nœud interne, noeud interne, nœud externe, descendants d'un nœud, ascendants d'un nœud, arité d'un nœud, arité d'un arbre, degré d'un nœud, degré d'un arbre]
-sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf", ".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"]
 maj: 2026-11-06
 ---
 

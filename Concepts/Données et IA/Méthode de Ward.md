@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [Ward method, critère de Ward]
-sources: [".raw/Year 4/data mining/cours data mining du prof.pdf"]
+sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 

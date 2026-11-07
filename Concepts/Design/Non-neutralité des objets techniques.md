@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [non-neutralité de la technique, les objets techniques ne sont jamais neutres]
-sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"]
 maj: 2026-11-06
 ---
 

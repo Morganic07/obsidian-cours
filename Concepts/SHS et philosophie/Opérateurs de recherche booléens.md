@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [opérateurs booléens, recherche booléenne]
-sources: ["[[Cours BU - Savoir rechercher sur Google]]"]
+sources: ["[[Séance BU - Savoir rechercher sur Google (résumé)|Cours BU - Savoir rechercher sur Google]]"]
 maj: 2026-11-06
 ---
 

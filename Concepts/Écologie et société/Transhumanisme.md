@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [transhumanité]
 matieres: [Culture du vivant, SHS]
-sources: ["[[Culture Vivant COURS 2 EXPLICATION]]"]
+sources: ["[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"]
 maj: 2026-11-06
 ---
 

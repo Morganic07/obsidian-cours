@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[Culture du vivant (résumé)|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Combinaison, combination, combinations, combinaisons, nCk, combinaison avec répétition]
 matieres: [Probability]
-sources: ["[[Chp 3 - Combinatorics]]"]
+sources: ["[[Chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
 maj: 2026-11-06
 ---
 

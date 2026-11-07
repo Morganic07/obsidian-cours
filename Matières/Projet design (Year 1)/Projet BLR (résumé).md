@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]]"]
+sources: ["Projet BLR"]
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/Bel-Air/Projet BLR|Projet BLR]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral. Les prénoms des personnes interrogées ne sont pas repris.
+Résumé de Projet BLR, dans [[Projet design (Year 1) (matière)]]. Notes d'oral. Les prénoms des personnes interrogées ne sont pas repris.
 
 **Sujet** : la ville de Saint-Germain-en-Laye veut mettre en avant le quartier Bel-Air (BLR) comme son musée archéologique. Il faut imaginer un musée interactif sur le quartier et un moyen d'attirer les visiteurs.
 

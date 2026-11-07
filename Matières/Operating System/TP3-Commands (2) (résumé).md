@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF TP3-Commands (2) (`.raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf`) (8 pages, 25 novembre 2024, « TP-3 : Network Management, and Backup »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP3 (résumé)]] ; les notes de cours, [[Séance TP3 (résumé)]]. Les trois figures du sujet sont des extraits de fichiers texte (hosts, YAML) : elles sont recopiées en blocs de code, sans image. Aucun corrigé.
+Résumé du PDF TP3-Commands (2) ([[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]) (8 pages, 25 novembre 2024, « TP-3 : Network Management, and Backup »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP3 (résumé)]] ; les notes de cours, [[Séance TP3 (résumé)]]. Les trois figures du sujet sont des extraits de fichiers texte (hosts, YAML) : elles sont recopiées en blocs de code, sans image. Aucun corrigé.
 
 ## Partie 1 : réseau
 

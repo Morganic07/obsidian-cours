@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [sampling, random sampling, échantillon aléatoire, simple random sample, stratified sampling, cluster sampling, systematic sampling, biais d'échantillonnage, sampling bias, iid, independent and identically distributed, variables iid, convenience sampling, échantillon de convenance, échantillonnage de convenance]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp1 - Intro to statistics]]", "[[Chp3 - More on probability]]"]
+sources: ["[[Chp1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 

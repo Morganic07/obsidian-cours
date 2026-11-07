@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF OS - chp 4 (`.raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf`) (4 pages, en anglais), dans [[Operating System (matière)]]. C'est le chapitre 4, absent jusqu'ici du coffre : la matière passe du chapitre 3 au chapitre 5.
+Résumé du PDF OS - chp 4 ([[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]) (4 pages, en anglais), dans [[Operating System (matière)]]. C'est le chapitre 4, absent jusqu'ici du coffre : la matière passe du chapitre 3 au chapitre 5.
 
 ## Idée générale
 

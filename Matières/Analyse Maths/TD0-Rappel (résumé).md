@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de TD0-Rappel (`.raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf`) (2 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD d'accompagnement de [[Chap0-Rappels-etc (résumé)]]. Version 2020-2021 (PréING1, département de mathématiques).
+Résumé de TD0-Rappel ([[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]) (2 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD d'accompagnement de [[Chap0-Rappels-etc (résumé)]]. Version 2020-2021 (PréING1, département de mathématiques).
 
 Le document ne donne que les énoncés : aucune correction. Les « pistes » ci-dessous sont des méthodes ajoutées pour réviser, pas des corrections du TD. Aucune figure (seule image : le logo).
 

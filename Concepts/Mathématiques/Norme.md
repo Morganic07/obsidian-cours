@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [norm, norms, normes, espace vectoriel normé, espaces vectoriels normés, EVN, norme euclidienne, normes équivalentes, norme 1, norme infinie, norme de Manhattan, absolue homogénéité, équivalence des normes, length of a vector, longueur d'un vecteur]
 matieres: [Bilinear Algebra, Algèbre Linéaire, Analyse dans Rn]
-sources: ["[[chp 1 - Orthogonality]]", "[[Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 
@@ -26,7 +26,7 @@ Sur $\mathbb{R}$, ces trois normes valent $|x|$. Un vecteur de norme 1 est un un
 **[[Distance]]** : une norme donne une distance $d(X, Y) = \|X - Y\|$. Une distance en général est symétrique, nulle seulement entre points égaux, et vérifie l'inégalité triangulaire.
 
 > [!warning] Écart dans le cours
-> [[Chp 2 - éléments de topologie dans Rn]] donne le cas d'égalité $\|x + y\| = \|x\| + \|y\| \iff x = \lambda y$ avec $\lambda \in \mathbb{R}$. Il faut $\lambda \ge 0$ (complément).
+> [[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]] donne le cas d'égalité $\|x + y\| = \|x\| + \|y\| \iff x = \lambda y$ avec $\lambda \in \mathbb{R}$. Il faut $\lambda \ge 0$ (complément).
 
 Liens : [[Produit scalaire]], [[Orthogonalité]], [[Boule et voisinage]], [[Limite et continuité]], [[Espace vectoriel]], [[Distance]], [[Inégalité triangulaire]], [[Vecteur unitaire]]
 

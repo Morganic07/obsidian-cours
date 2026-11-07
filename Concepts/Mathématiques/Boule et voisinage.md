@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [boule ouverte, boules ouvertes, boule fermée, boules fermées, voisinage, voisinages, sphère de centre a, boule unité, intersection de voisinages]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse, Séries]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]", "[[Chp0 - Revision chapter]]"]
+sources: ["[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"]
 maj: 2026-11-06
 ---
 

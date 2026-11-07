@@ -11,8 +11,8 @@ matieres:
   - Philosophie
   - IA
 sources:
-  - "[[philo 5|philo 5]]"
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
+  - "[[philo 5 (résumé)|philo 5]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 

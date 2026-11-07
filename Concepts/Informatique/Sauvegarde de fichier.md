@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [backup, backing up, file backup, backup.sh]
 matieres: [Operating System]
-sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
+sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [intégrale double, intégrales doubles, intégrales multiples, théorème de Fubini, Fubini, intégrale double sur un pavé, "aire d'une figure"]
 matieres: [Analyse]
-sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
+sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"]
 maj: 2026-11-06
 ---
 

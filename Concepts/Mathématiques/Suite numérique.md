@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [suite numérique, suites numériques, suite récurrente, suites récurrentes, suite bornée, suite majorée, suite minorée, suite monotone]
 matieres: [Analyse Maths, Séries]
-sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf", "[[Chp0 - Revision chapter]]", ".raw/Year 1/Contrôles.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]", "[[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[philo 1|philo 1]]"
+  - "[[Raw/Year 2/Philosophie/philo 1 .docx|philo 1]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[philo 1|philo 1]], dans [[Philosophie (matière)]]. Titre : « Art et instruments techniques : pensés par rapport à une nature finaliste ». Voir [[Progrès technique]]. La note ne contient aucune image.
+Résumé de [[Raw/Year 2/Philosophie/philo 1 .docx|philo 1]], dans [[Philosophie (matière)]]. Titre : « Art et instruments techniques : pensés par rapport à une nature finaliste ». Voir [[Progrès technique]]. La note ne contient aucune image.
 
 ## 1. La technique et la nature à travers l'histoire de la pensée
 

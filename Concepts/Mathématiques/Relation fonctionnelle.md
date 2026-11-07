@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [relations fonctionnelles]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"]
 maj: 2026-11-06
 ---
 

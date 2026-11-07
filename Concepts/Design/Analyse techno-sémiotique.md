@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [techno-sémiotique, techno-sémiotique des interfaces, analyse techno-sémiotique, analyse techno-sémiologique, trois régimes d'analyse, trois niveaux d'analyse]
 matieres: [Sémiotique]
-sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 3.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
 maj: 2026-11-06
 ---
 

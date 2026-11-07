@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [positive space, negative space, espace négatif, espace positif]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

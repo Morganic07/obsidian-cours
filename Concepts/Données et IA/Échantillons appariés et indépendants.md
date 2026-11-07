@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [paired samples, independent samples, données appariées, échantillons appariés, échantillons indépendants]
-sources: ["[[Cours 7 - Z-Test]]"]
+sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [erreurs de compilation, erreurs du compilateur, undefined reference]
-sources: ["[[Chp1 - basiques]]"]
+sources: ["[[Chp1 - basiques (résumé)|Chp1 - basiques]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3, year4]
 aliases: [court-circuit, short-circuit, évaluation paresseuse, opérateur paresseux, lazy operator]
 matieres: [Java, C++]
-sources: ["[[Chp1 - Intro Java]]", "[[Chp1 - basiques]]"]
+sources: ["[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[Chp1 - basiques (résumé)|Chp1 - basiques]]"]
 maj: 2026-11-06
 ---
 

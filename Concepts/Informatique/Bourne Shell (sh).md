@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Bourne Shell, commande sh]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", "[[OS - chp 5]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[OS - chp 5 (résumé)|OS - chp 5]]"]
 maj: 2026-11-06
 ---
 

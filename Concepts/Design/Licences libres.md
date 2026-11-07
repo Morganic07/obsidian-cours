@@ -15,9 +15,9 @@ matieres:
   - SHS
   - Anglais
 sources:
-  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Prise de note SHS (résumé)|Prise de note SHS]]"
   - "[[Entretien sur l'open source (résumé)]]"
-  - "[[Global Exam Vocab]]"
+  - "[[Global Exam Vocab (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 
@@ -29,7 +29,7 @@ Le « vrai libre » exige aussi les fichiers sources modifiables ; un projet fre
 
 Les recherches d'un étudiant pour la même enquête notent qu'avec l'IA, les licences libres deviennent des failles ([[Recherches SHS (résumé)]]).
 
-Le glossaire d'anglais ([[Global Exam Vocab]]) définit *open source* comme un code source original libre que les utilisateurs peuvent modifier.
+Le glossaire d'anglais ([[Global Exam Vocab (résumé)|Global Exam Vocab]]) définit *open source* comme un code source original libre que les utilisateurs peuvent modifier.
 
 Voir aussi : [[Open design]], [[Communs numériques]], [[Copyleft]], [[Creative Commons]], [[Licence anti-IA]], [[Propriété intellectuelle]]
 

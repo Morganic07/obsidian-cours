@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [phonè]
 matieres: [Philosophie]
-sources: ["[[L'état]]"]
+sources: ["[[L'état (résumé)|L'état]]"]
 maj: 2026-11-06
 ---
 

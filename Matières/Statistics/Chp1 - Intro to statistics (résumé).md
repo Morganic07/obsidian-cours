@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp1 - Intro to statistics]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp1 - Intro to statistics.docx|Chp1 - Intro to statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp1 - Intro to statistics]], dans [[Statistics (matière)]] : vocabulaire de la statistique, types de variables, méthodes d'[[Échantillonnage]] (*sampling*) et pièges à repérer dans une étude. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Statistics/Chp1 - Intro to statistics.docx|Chp1 - Intro to statistics]], dans [[Statistics (matière)]] : vocabulaire de la statistique, types de variables, méthodes d'[[Échantillonnage]] (*sampling*) et pièges à repérer dans une étude. En cas d'écart, le cours et ses images font foi.
 
 ## Définitions
 

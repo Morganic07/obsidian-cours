@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["Note d'origine dans Cours/Year 3/SHS/Entretiens"]
+sources: ["Document de Year 3/SHS/Entretiens sur Drive, exclu du miroir"]
 maj: 2026-11-05
 ---
 
-Résumé d'une note de `Cours/Year 3/SHS/Entretiens`, dans [[SHS (matière)]]. Rapport d'analyse rédigé sur trois entretiens semi-directifs (M., A., F.) autour de la mobilité du futur.
+Résumé d'un document de `Year 3/SHS/Entretiens` sur Drive (exclu du miroir), dans [[SHS (matière)]]. Rapport d'analyse rédigé sur trois entretiens semi-directifs (M., A., F.) autour de la mobilité du futur.
 
 1. **Mobilité actuelle : contraignante et inégale.** M. dénonce des transports chers, en retard, privatisés, et la voiture comme injustice écologique. A. parle du coût de la voiture et du manque d'accessibilité des transports. F. prône l'usage raisonné et voit dans le déplacement un acte écologique.
 2. **Futurs contrastés.** M. : catastrophe nucléaire et écologique, vie souterraine, inégalités, puis possible retour à la nature (« le vrai progrès, ce serait d'apprendre à moins bouger »). A. : capsules aériennes autonomes, inspirées du *Cinquième Élément*, accessibles à tous et non possédées. F. : l'électrique est une étape, énergies renouvelables, véhicules autonomes et partagés, téléportation (« se déplacer moins, mais mieux »).

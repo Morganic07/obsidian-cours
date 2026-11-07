@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [integral test, critère de l'intégrale, comparaison série intégrale]
-sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]"]
+sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [recyclage, upcycling, upcyclé, objet reconditionné, remise à neuf, réemploi, reconditionnement]
 matieres: [workshop, Culture du vivant]
-sources: ["[[Reyou]]", "[[Culture du vivant Dernier cours]]"]
+sources: ["[[Reyou (résumé)|Reyou]]", "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]"]
 maj: 2026-11-06
 ---
 

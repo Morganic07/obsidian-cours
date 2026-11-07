@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [diagonalizable, diagonalization, orthogonally diagonalizable, diagonalisable, étapes pour diagonaliser]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 

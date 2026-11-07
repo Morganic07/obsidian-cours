@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [subdivision d'un segment, subdivision adaptée, subdivisions]
 matieres: [Analyse]
-sources: ["[[Chap7-Integration]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]"]
 maj: 2026-11-06
 ---
 

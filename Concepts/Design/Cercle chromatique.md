@@ -27,9 +27,9 @@ matieres:
   - Peinture
   - Anglais
 sources:
-  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1]]"
-  - "[[Cours 2|Cours 2]]"
-  - "[[Global Exam Vocab]]"
+  - "[[Séance 1 - Peinture (résumé)|Cours 1]]"
+  - "[[Séance 2 (résumé)|Cours 2]]"
+  - "[[Global Exam Vocab (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 

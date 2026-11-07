@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [théorie de la passerelle]
-sources: ["[[Debats]]"]
+sources: ["[[Debats (résumé)|Debats]]"]
 maj: 2026-11-06
 ---
 

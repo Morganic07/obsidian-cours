@@ -3,9 +3,9 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - "[[Python|Python (Algo Maths)]]"
-  - "[[explications DM d'algo]]"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[Python (résumé)|Python (Algo Maths)]]"
+  - "[[explications DM d'algo (résumé)|explications DM d'algo]]"
 maj: 2026-11-06
 ---
 
@@ -15,9 +15,9 @@ Premiers pas en algorithmique : récurrence, récursivité, Python, et un devoir
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 1/Algo Maths/Cours 1\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[Séance 1 - Algo Maths (résumé)\|Résumé]] |
-| [[Python\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
-| [[explications DM d'algo]] | Lecture de fichier, exhaustif, glouton, stochastique | [[explications DM d'algo (résumé)\|Résumé]] |
+| [[Séance 1 - Algo Maths (résumé)\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[Séance 1 - Algo Maths (résumé)\|Résumé]] |
+| [[Python (résumé)\|Python (Algo Maths)]] | `range`, `print` | [[Python (résumé)\|Résumé]] |
+| [[explications DM d'algo (résumé)\|explications DM d'algo]] | Lecture de fichier, exhaustif, glouton, stochastique | [[explications DM d'algo (résumé)\|Résumé]] |
 
 ## Documents PDF
 

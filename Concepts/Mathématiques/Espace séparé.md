@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [EVN séparé, espace de Hausdorff]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 

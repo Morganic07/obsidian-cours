@@ -7,7 +7,7 @@ aliases: []
 matieres:
   - Peinture
 sources:
-  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
+  - "[[Séance 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
 maj: 2026-11-06
 ---
 

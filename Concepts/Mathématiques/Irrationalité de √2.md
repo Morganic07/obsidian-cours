@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [√2 irrationnel, racine de 2 irrationnelle]
-sources: ["[[Chapitre 1 logique]]"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 

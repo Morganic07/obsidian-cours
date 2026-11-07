@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [coefficient of variation, coefficients de variation]
-sources: ["[[probabilité statistiques utilitaire]]", "[[Cours 2 - Introduction statistics]]"]
+sources: ["[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]", "[[Séance 2 - Introduction statistics (résumé)|Cours 2 - Introduction statistics]]"]
 maj: 2026-11-06
 ---
 

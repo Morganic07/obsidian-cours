@@ -2,11 +2,11 @@
 type: concept
 tags: [year3]
 aliases: [limit point, points limites]
-sources: ["[[Chp3 - Sequence of function]]"]
+sources: ["[[Chp3 - Sequence of function (résumé)|Chp3 - Sequence of function]]"]
 maj: 2026-11-06
 ---
 
-$a$ est un point limite de $X \subset \mathbb{R}$ si, pour tout $\epsilon > 0$, $]a - \epsilon, a + \epsilon[ \cap X$ contient un point. $+\infty$ est point limite de $[b, +\infty[$. La notion sert à énoncer l'échange de limites ([[Chp3 - Sequence of function]]).
+$a$ est un point limite de $X \subset \mathbb{R}$ si, pour tout $\epsilon > 0$, $]a - \epsilon, a + \epsilon[ \cap X$ contient un point. $+\infty$ est point limite de $[b, +\infty[$. La notion sert à énoncer l'échange de limites ([[Chp3 - Sequence of function (résumé)|Chp3 - Sequence of function]]).
 
 Notion parente : [[Convergence uniforme]]. Voir aussi : [[Interversion de limites]], [[Intérieur et adhérence]].
 

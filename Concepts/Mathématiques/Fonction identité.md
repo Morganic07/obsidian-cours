@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [application identité, application identique]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", "[[chp2]]", "[[chp7]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]", "[[chp2 (résumé)|chp2]]", "[[chp7 (résumé)|chp7]]"]
 maj: 2026-11-06
 ---
 

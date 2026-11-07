@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [transtypage, transtypage implicite, transtypage explicite, type casting, conversion de type]
 matieres: [Java, C++]
-sources: ["[[Chp1 - Intro Java]]"]
+sources: ["[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 ---
 
@@ -18,6 +18,6 @@ Voir aussi : [[Type primitif]], [[Portée d'une variable]]
 
 ## À vérifier
 
-- [[Chp1 - Intro Java]] marque `quotient = (int)(x/y);` comme « incorrect », alors que ce cast explicite est valide.
+- [[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]] marque `quotient = (int)(x/y);` comme « incorrect », alors que ce cast explicite est valide.
 
 Résumé : [[Chp1 - Intro Java (résumé)]]

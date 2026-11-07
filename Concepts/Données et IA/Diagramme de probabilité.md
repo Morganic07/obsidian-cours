@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [probability plot, normal probability plot, diagramme de probabilité normal, Weibull probability plot, diagramme de Weibull, Q-Q plot, qqnorm, QQ plot]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp3 - More on probability]]"]
+sources: ["[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 

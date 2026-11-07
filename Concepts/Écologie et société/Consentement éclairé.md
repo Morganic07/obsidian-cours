@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [feuille de consentement, fiche de consentement]
-sources: ["[[Compte rendu]]", "[[Pistes entrevue]]"]
+sources: ["[[Compte rendu (résumé)|Compte rendu]]", "[[Pistes entrevue (résumé)|Pistes entrevue]]"]
 maj: 2026-11-06
 ---
 

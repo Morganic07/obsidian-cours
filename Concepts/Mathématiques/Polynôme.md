@@ -9,8 +9,8 @@ matieres:
   - Outil Maths
   - Analyse Maths
 sources:
-  - ".raw/Year 1/Contrôles.pdf"
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

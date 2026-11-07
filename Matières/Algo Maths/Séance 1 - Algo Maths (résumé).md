@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]] (séance du 21/09/23), dans [[Algo Maths (matière)]]. En cas d'écart, le cours fait foi. Pas d'image dans cette note : les dessins n'en restent que par leur texte.
+Résumé de [[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]] (séance du 21/09/23), dans [[Algo Maths (matière)]]. En cas d'écart, le cours fait foi. Pas d'image dans cette note : les dessins n'en restent que par leur texte.
 
 ## Idée générale
 

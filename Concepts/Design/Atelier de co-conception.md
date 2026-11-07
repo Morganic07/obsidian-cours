@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [co-conception, co-construction, atelier participatif, atelier d'immersion, méthodes participatives, co-création]
 matieres: [Projet design, Projet Design, workshop]
-sources: ["[[Prise parole Rendu final]]", "[[idées solutions]]", "[[EDOSSAH]]", "[[Helloartup]]"]
+sources: ["[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]", "[[idées solutions (résumé)|idées solutions]]", "[[EDOSSAH (résumé)|EDOSSAH]]", "[[Helloartup (résumé)|Helloartup]]"]
 maj: 2026-11-06
 ---
 

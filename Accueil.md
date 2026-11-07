@@ -2,7 +2,7 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-06 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Toutes les notes de `Cours/` et tous les PDF et PPTX de `.raw/` sont intégrés. Le texte des PDF n'est pas cherchable : seuls leurs résumés le sont.
+État au 2026-11-06 : 1 265 concepts, rangés en six domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés par matière dans `Matières/` ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Toutes les notes de `Cours/` et tous les PDF et PPTX de `Raw/` sont intégrés. Le texte des PDF n'est pas cherchable : seuls leurs résumés le sont.
 
 ## Concepts (1266)
 

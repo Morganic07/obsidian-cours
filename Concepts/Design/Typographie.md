@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [typography, typeface, police de caractères, kerning, crénage, interlignage, sans serif]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

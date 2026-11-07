@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/TD4Applications.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TD4Applications.pdf|TD4Applications.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de l'énoncé TD4 Applications (PDF) (`.raw/Year 1/Outil Maths/Exos/TD4Applications.pdf`) (4 pages, cycle pré-ingénieur première année, Algèbre 1, 2023/2024), dans [[Outil Maths (matière)]]. **Sans corrigé** : les corrections sont dans [[TD4Applications-Solutions (résumé)]]. Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Image et image réciproque]], [[Bijection]], [[Composition de fonctions]]. Les exercices marqués « à faire chez soi » sont indiqués. Le document ne contient aucune figure (seulement le logo de l'école).
+Résumé de l'énoncé TD4 Applications (PDF) ([[Raw/Year 1/Outil Maths/Exos/TD4Applications.pdf|TD4Applications.pdf]]) (4 pages, cycle pré-ingénieur première année, Algèbre 1, 2023/2024), dans [[Outil Maths (matière)]]. **Sans corrigé** : les corrections sont dans [[TD4Applications-Solutions (résumé)]]. Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Image et image réciproque]], [[Bijection]], [[Composition de fonctions]]. Les exercices marqués « à faire chez soi » sont indiqués. Le document ne contient aucune figure (seulement le logo de l'école).
 
 ## Exercice 1 — Images et images réciproques
 

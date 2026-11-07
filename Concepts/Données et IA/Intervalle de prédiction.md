@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [prediction interval, prediction interval estimate, intervalle de prédiction d'une valeur individuelle]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 ---
 

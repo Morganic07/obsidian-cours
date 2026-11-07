@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [TSV, Tab-Separated Values, .tsv]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf", "[[Cours TP5]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[Séance TP5 (résumé)|Cours TP5]]"]
 maj: 2026-11-06
 ---
 

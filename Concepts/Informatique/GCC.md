@@ -3,7 +3,7 @@ type: concept
 tags: [year2, nomme]
 aliases: [compilateur GCC, GCC compiler]
 matieres: [Operating System]
-sources: ["[[Copy of 08 Processes-TP]]"]
+sources: ["[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 ---
 

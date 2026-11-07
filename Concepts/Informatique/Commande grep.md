@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [grep]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", "[[Cours TP2]]", "[[DM Shell Scripting]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 

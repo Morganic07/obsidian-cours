@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [orthogonal set, orthogonal sets, orthogonal basis, base orthogonale, orthonormal set, orthonormal sets, orthonormal basis, orthonormal columns, base orthonormale, famille orthonormale, Orthonormal Decomposition Theorem]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 

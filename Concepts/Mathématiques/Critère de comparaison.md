@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [comparison test, limit comparison test, critère des équivalents, règle des équivalents, séries à termes positifs, series with positive terms]
-sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]"]
+sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [geocaching, géocatching]
 matieres: [Projet design]
-sources: ["[[Projet BLR]]"]
+sources: ["[[Projet BLR (résumé)|Projet BLR]]"]
 maj: 2026-11-06
 ---
 

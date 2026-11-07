@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Summary functions in RStudio]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Summary functions in RStudio]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours fait foi.
 
 Aide-mémoire du [[Langage R]] (sous RStudio), sans théorie : chaque commande est donnée avec ce qu'elle renvoie.
 

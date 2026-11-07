@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Simpson's paradox, Simpson paradox, facteur de confusion, confounding factor, variable cachée, stratifier, stratification par groupe]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 3 - Paradoxe de Simpson]]"]
+sources: ["[[Séance 3 - Paradoxe de Simpson (résumé)|Cours 3 - Paradoxe de Simpson]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: ["nombres d'Armstrong"]
-sources: [".raw/Year 1/Contrôles.pdf"]
+sources: ["[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
 maj: 2026-11-06
 ---
 

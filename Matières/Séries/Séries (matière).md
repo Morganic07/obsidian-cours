@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[Chp0 - Revision chapter]]", "[[Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series]]", "[[Chp3 - Sequence of function]]", "[[Chp4 - Series of functions]]", "[[Chp5 - power series]]", "[[Chp6 - Fourier Series]]"]
+sources: ["[[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]]", "[[Chp1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[Chp3 - Sequence of function (résumé)|Chp3 - Sequence of function]]", "[[Chp4 - Series of functions (résumé)|Chp4 - Series of functions]]", "[[Chp5 - power series (résumé)|Chp5 - power series]]", "[[Chp6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"]
 maj: 2026-11-06
 ---
 
@@ -11,13 +11,13 @@ Séries numériques, suites et séries de fonctions, séries entières et série
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp0 - Revision chapter]] | Rappels sur les suites, $o$, $O$, équivalents | [[Chp0 - Revision chapter (résumé)\|Résumé]] |
-| [[Chp1 - Convergent, divergent and positive terms SERIES]] | Séries de référence, termes positifs | [[Chp1 - Convergent, divergent and positive terms SERIES (résumé)\|Résumé]] |
-| [[Chp2 - Alternating and absolutly convergent series]] | Alternées, absolue, d'Alembert, Cauchy | [[Chp2 - Alternating and absolutly convergent series (résumé)\|Résumé]] |
-| [[Chp3 - Sequence of function]] | Convergence simple et uniforme | [[Chp3 - Sequence of function (résumé)\|Résumé]] |
-| [[Chp4 - Series of functions]] | Convergence normale, échanges | [[Chp4 - Series of functions (résumé)\|Résumé]] |
-| [[Chp5 - power series]] | Rayon, Taylor, séries usuelles | [[Chp5 - power series (résumé)\|Résumé]] |
-| [[Chp6 - Fourier Series]] | Coefficients, convergence, Parseval | [[Chp6 - Fourier Series (résumé)\|Résumé]] |
+| [[Chp0 - Revision chapter (résumé)\|Chp0 - Revision chapter]] | Rappels sur les suites, $o$, $O$, équivalents | [[Chp0 - Revision chapter (résumé)\|Résumé]] |
+| [[Chp1 - Convergent, divergent and positive terms SERIES (résumé)\|Chp1 - Convergent, divergent and positive terms SERIES]] | Séries de référence, termes positifs | [[Chp1 - Convergent, divergent and positive terms SERIES (résumé)\|Résumé]] |
+| [[Chp2 - Alternating and absolutly convergent series (résumé)\|Chp2 - Alternating and absolutly convergent series]] | Alternées, absolue, d'Alembert, Cauchy | [[Chp2 - Alternating and absolutly convergent series (résumé)\|Résumé]] |
+| [[Chp3 - Sequence of function (résumé)\|Chp3 - Sequence of function]] | Convergence simple et uniforme | [[Chp3 - Sequence of function (résumé)\|Résumé]] |
+| [[Chp4 - Series of functions (résumé)\|Chp4 - Series of functions]] | Convergence normale, échanges | [[Chp4 - Series of functions (résumé)\|Résumé]] |
+| [[Chp5 - power series (résumé)\|Chp5 - power series]] | Rayon, Taylor, séries usuelles | [[Chp5 - power series (résumé)\|Résumé]] |
+| [[Chp6 - Fourier Series (résumé)\|Chp6 - Fourier Series]] | Coefficients, convergence, Parseval | [[Chp6 - Fourier Series (résumé)\|Résumé]] |
 
 ## Concepts
 

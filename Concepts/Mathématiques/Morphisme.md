@@ -16,8 +16,8 @@ matieres:
   - Algèbre Linéaire
   - Bilinear Algebra
 sources:
-  - "[[chp2|chp2 (Algèbre)]]"
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[chp2 (résumé)|chp2 (Algèbre)]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -38,7 +38,7 @@ Liens : [[Injectivité et surjectivité]], [[Matrice inversible]]
 
 ## À vérifier
 
-- [[chp2|chp2 (Algèbre)]] : coquille « Homomoprhisme » dans le tableau.
+- [[chp2 (résumé)|chp2 (Algèbre)]] : coquille « Homomoprhisme » dans le tableau.
 - Le même chapitre parle d'« endomorphisme nul » pour l'application nulle, qui n'est un endomorphisme que si $E = F$.
 
 Résumés : [[chp2 (résumé)|chp2 (résumé)]], [[chp7 (résumé)|chp7 (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, nomme]
 aliases: [desktop environment, desktop environments, windowing system, système de fenêtrage]
-sources: ["[[OS - chp 3]]"]
+sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 

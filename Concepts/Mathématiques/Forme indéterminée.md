@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [formes indéterminées]
-sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"]
 maj: 2026-11-06
 ---
 

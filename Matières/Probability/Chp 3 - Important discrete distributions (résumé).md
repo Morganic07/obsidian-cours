@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 3 - Important discrete distributions]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 3 : Important discrete distributions.docx|Chp 3 - Important discrete distributions]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 3 - Important discrete distributions]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Toutes les images du chapitre sont des énoncés ou des formules : elles sont recopiées ci-dessous, aucune n'est intégrée.
+Résumé de [[Raw/Year 2/Probability/Chp 3 : Important discrete distributions.docx|Chp 3 - Important discrete distributions]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Toutes les images du chapitre sont des énoncés ou des formules : elles sont recopiées ci-dessous, aucune n'est intégrée.
 
 ## Idée générale
 

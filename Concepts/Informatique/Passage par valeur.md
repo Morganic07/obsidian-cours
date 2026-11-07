@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [passage par copie, pass by value, paramètres par référence]
-sources: ["[[chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[chp2 - structures code (résumé)|chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 

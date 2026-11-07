@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Synthese SHS GPT|Synthese SHS GPT]]"
+  - "[[Raw/Year 3/SHS/Entretiens/Synthese SHS GPT.docx|Synthese SHS GPT]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Synthese SHS GPT|Synthese SHS GPT]], dans [[SHS (matière)]]. Analyse de trois entretiens semi-directifs sur la mobilité du futur (voir [[Transcriptions des entretiens (résumé)|les transcriptions]]). Les interviewés sont désignés par un prénom d'emprunt dans la note ; on parle ici de M., A. et F.
+Résumé de [[Raw/Year 3/SHS/Entretiens/Synthese SHS GPT.docx|Synthese SHS GPT]], dans [[SHS (matière)]]. Analyse de trois entretiens semi-directifs sur la mobilité du futur (voir [[Transcriptions des entretiens (résumé)|les transcriptions]]). Les interviewés sont désignés par un prénom d'emprunt dans la note ; on parle ici de M., A. et F.
 
 **Origine du texte** : le titre (« GPT »), la mise en forme et l'adresse finale (« tu pourrais t'appuyer sur… ») indiquent un **texte produit par un outil de génération de texte** à partir des entretiens. Les « lectures » et les archétypes sont donc des interprétations produites par l'outil, pas des conclusions du cours ni des propos des interviewés. La note ne contient aucune image.
 

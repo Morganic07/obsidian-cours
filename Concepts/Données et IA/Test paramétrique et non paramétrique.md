@@ -2,11 +2,11 @@
 type: concept
 tags: [year3]
 aliases: [parametric test, nonparametric test, non-parametric test, test non paramétrique, test paramétrique, tests non paramétriques, tests paramétriques]
-sources: ["[[Cours 7 - Z-Test]]"]
+sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-06
 ---
 
-Un test paramétrique dispose d'une information sur un paramètre de la population (« la moyenne vaut 15 ») ; un test non paramétrique ne suppose pas que les données viennent d'une loi gaussienne ([[Cours 7 - Z-Test]]).
+Un test paramétrique dispose d'une information sur un paramètre de la population (« la moyenne vaut 15 ») ; un test non paramétrique ne suppose pas que les données viennent d'une loi gaussienne ([[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]).
 
 **Organigramme du cours** :
 

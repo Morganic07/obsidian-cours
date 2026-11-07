@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[L'état|L'état (Philosophie)]]"
+  - "[[L'état (résumé)|L'état (Philosophie)]]"
 maj: 2026-11-06
 ---
 

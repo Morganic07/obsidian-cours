@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [boot partition, bootable partition, "partition /boot", partition amorçable]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
 maj: 2026-11-06
 ---
 

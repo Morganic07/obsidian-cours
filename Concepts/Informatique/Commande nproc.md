@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [nproc, nproc --all]
 matieres: [Operating System]
-sources: ["[[DM Shell Scripting]]"]
+sources: ["[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 

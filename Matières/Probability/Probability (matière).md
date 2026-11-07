@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[Chp 1 - Sample space,events, proba]]", "[[Chp 2 - Conditional proba and independence]]", "[[Chp 3 - Combinatorics]]", "[[Chp 3 - Important discrete distributions]]", "[[Chp 4 - Discrete random variables]]", "[[Chp 5 - Continuous random variable]]", "[[Chp 6 - Joint probability distributions]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[Chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]", "[[Chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]", "[[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[Chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 ---
 
@@ -11,13 +11,13 @@ Probabilités : événements, probabilité conditionnelle, dénombrement, variab
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp 1 - Sample space,events, proba]] | Événements, axiomes de probabilité | [[Chp 1 - Sample space,events, proba (résumé)\|Résumé]] |
-| [[Chp 2 - Conditional proba and independence]] | Conditionnelle, Bayes, indépendance | [[Chp 2 - Conditional proba and independence (résumé)\|Résumé]] |
-| [[Chp 3 - Combinatorics]] | Permutations, combinaisons | [[Chp 3 - Combinatorics (résumé)\|Résumé]] |
-| [[Chp 3 - Important discrete distributions]] | Bernoulli, binomiale, Poisson, hypergéométrique | [[Chp 3 - Important discrete distributions (résumé)\|Résumé]] |
-| [[Chp 4 - Discrete random variables]] | pmf, cdf, espérance, variance | [[Chp 4 - Discrete random variables (résumé)\|Résumé]] |
-| [[Chp 5 - Continuous random variable]] | Densité, normale, exponentielle, fonction génératrice | [[Chp 5 - Continuous random variable (résumé)\|Résumé]] |
-| [[Chp 6 - Joint probability distributions]] | Loi conjointe, covariance, sommes | [[Chp 6 - Joint probability distributions (résumé)\|Résumé]] |
+| [[Chp 1 - Sample space,events, proba (résumé)\|Chp 1 - Sample space,events, proba]] | Événements, axiomes de probabilité | [[Chp 1 - Sample space,events, proba (résumé)\|Résumé]] |
+| [[Chp 2 - Conditional proba and independence (résumé)\|Chp 2 - Conditional proba and independence]] | Conditionnelle, Bayes, indépendance | [[Chp 2 - Conditional proba and independence (résumé)\|Résumé]] |
+| [[Chp 3 - Combinatorics (résumé)\|Chp 3 - Combinatorics]] | Permutations, combinaisons | [[Chp 3 - Combinatorics (résumé)\|Résumé]] |
+| [[Chp 3 - Important discrete distributions (résumé)\|Chp 3 - Important discrete distributions]] | Bernoulli, binomiale, Poisson, hypergéométrique | [[Chp 3 - Important discrete distributions (résumé)\|Résumé]] |
+| [[Chp 4 - Discrete random variables (résumé)\|Chp 4 - Discrete random variables]] | pmf, cdf, espérance, variance | [[Chp 4 - Discrete random variables (résumé)\|Résumé]] |
+| [[Chp 5 - Continuous random variable (résumé)\|Chp 5 - Continuous random variable]] | Densité, normale, exponentielle, fonction génératrice | [[Chp 5 - Continuous random variable (résumé)\|Résumé]] |
+| [[Chp 6 - Joint probability distributions (résumé)\|Chp 6 - Joint probability distributions]] | Loi conjointe, covariance, sommes | [[Chp 6 - Joint probability distributions (résumé)\|Résumé]] |
 
 ## Concepts
 

@@ -16,12 +16,12 @@ aliases:
   - linear dependence relation
   - relation de dépendance linéaire
 sources:
-  - "[[Chp 0a - Linear combination]]"
-  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
-  - "[[chp6|chp6 (Algèbre)]]"
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[chp6 (résumé)|chp6 (Algèbre)]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -34,7 +34,7 @@ Un ensemble est **dépendant** si et seulement si l'un de ses vecteurs est une c
 
 Dans une famille libre, la décomposition d'un vecteur est unique. Toute sous-famille d'une famille libre est libre. Ajouter à une famille libre un vecteur qui n'est pas combinaison de ses vecteurs la garde libre. Une application injective envoie une famille libre sur une famille libre.
 
-En dimension $n$, une famille libre a au plus $n$ vecteurs. On teste la liberté par le [[Déterminant]]. Des vecteurs propres associés à des valeurs propres distinctes forment une famille libre, de même que des vecteurs non nuls deux à deux orthogonaux. Chaque *linear dependence relation* (relation de dépendance linéaire) entre les colonnes de $A$ correspond à une solution non triviale de $A\mathbf{x} = \mathbf{0}$ ([[Chp 0a - Linear combination]]).
+En dimension $n$, une famille libre a au plus $n$ vecteurs. On teste la liberté par le [[Déterminant]]. Des vecteurs propres associés à des valeurs propres distinctes forment une famille libre, de même que des vecteurs non nuls deux à deux orthogonaux. Chaque *linear dependence relation* (relation de dépendance linéaire) entre les colonnes de $A$ correspond à une solution non triviale de $A\mathbf{x} = \mathbf{0}$ ([[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]).
 
 Notion parente : [[Espace vectoriel]]. Voir aussi : [[Combinaison linéaire]], [[Base (algèbre linéaire)]], [[Espace engendré]], [[Matrice inversible]], [[Famille orthogonale]], [[Vecteur propre]], [[Déterminant]], [[Système linéaire homogène]].
 

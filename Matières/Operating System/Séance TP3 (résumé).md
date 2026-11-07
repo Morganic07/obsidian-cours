@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Cours TP3]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/Cours TP3.docx|Cours TP3]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours TP3]], dans [[Operating System (matière)]]. Séance de TP sur le réseau sous Linux (adresse IP, interfaces, `/etc/hosts`, `ping`, Netplan) puis sur la sauvegarde de fichiers par script. Les extraits du support (captures de texte) sont recopiés ; les captures du terminal sont intégrées.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/Cours TP3.docx|Cours TP3]], dans [[Operating System (matière)]]. Séance de TP sur le réseau sous Linux (adresse IP, interfaces, `/etc/hosts`, `ping`, Netplan) puis sur la sauvegarde de fichiers par script. Les extraits du support (captures de texte) sont recopiés ; les captures du terminal sont intégrées.
 
 ## Adresse IP
 

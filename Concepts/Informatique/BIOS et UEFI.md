@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [BIOS, UEFI, Basic Input Output System, Unified Extensible Firmware Interface, POST, power-on self-test, bootstrap program, firmware]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp 2]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 

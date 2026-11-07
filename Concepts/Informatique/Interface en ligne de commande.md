@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [command line interface, command-line interface, ligne de commande]
-sources: ["[[OS - chp 1]]", "[[DM Shell Scripting]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 

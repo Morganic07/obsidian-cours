@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF TP5-AWK Command (`.raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf`) (6 pages, 9 décembre 2024, « TP-5 : AWK Command »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP5 (résumé)]] ; les notes de cours, [[Séance TP5 (résumé)]]. La seule figure est un tableau (capture), recopié en Markdown. Aucun corrigé.
+Résumé du PDF TP5-AWK Command ([[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]) (6 pages, 9 décembre 2024, « TP-5 : AWK Command »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP5 (résumé)]] ; les notes de cours, [[Séance TP5 (résumé)]]. La seule figure est un tableau (capture), recopié en Markdown. Aucun corrigé.
 
 ## Idée générale
 

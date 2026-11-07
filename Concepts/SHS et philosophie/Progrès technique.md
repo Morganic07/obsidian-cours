@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[philo 1|philo 1]]"
-  - "[[philo 4|philo 4]]"
+  - "[[philo 1 (résumé)|philo 1]]"
+  - "[[philo 4 (résumé)|philo 4]]"
 maj: 2026-11-06
 ---
 

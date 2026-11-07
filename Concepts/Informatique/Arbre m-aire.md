@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [arbre n-aire]
-sources: [".raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
 maj: 2026-11-06
 ---
 

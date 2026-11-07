@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [likelihood]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 5 - Hypothesis Testing]]"]
+sources: ["[[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]"]
 maj: 2026-11-06
 ---
 

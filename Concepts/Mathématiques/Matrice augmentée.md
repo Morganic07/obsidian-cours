@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [augmented matrix, matrice des coefficients, coefficient matrix, matrices augmentées]
-sources: ["[[Chp 0a - Linear combination]]"]
+sources: ["[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"]
 maj: 2026-11-06
 ---
 

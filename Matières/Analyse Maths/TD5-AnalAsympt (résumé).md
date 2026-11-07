@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf|TD5-AnalAsympt.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de TD5-AnalAsympt (`.raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf`) (5 pages, énoncés seuls, version 2020-2021 « CPI 1 »), dans [[Analyse Maths (matière)]]. Son corrigé est résumé dans [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]. Le TD accompagne le cours [[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]] : voir [[chp5 - Analyse Maths (résumé)|son résumé]].
+Résumé de TD5-AnalAsympt ([[Raw/Year 1/Analyse Maths/Exos/TD5-AnalAsympt.pdf|TD5-AnalAsympt.pdf]]) (5 pages, énoncés seuls, version 2020-2021 « CPI 1 »), dans [[Analyse Maths (matière)]]. Son corrigé est résumé dans [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]. Le TD accompagne le cours [[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]] : voir [[chp5 - Analyse Maths (résumé)|son résumé]].
 
 Ce document ne contient que les énoncés (aucune correction, voir le corrigé ci-dessus) et aucune figure (la seule image est le logo). Notions : [[Comparaison asymptotique]] ($o$, $O$, $\sim$), [[Équivalent (comparaison asymptotique)|équivalents]], [[Développement limité|développements limités]] (DL), [[Développement asymptotique|développements asymptotiques]], [[Asymptote oblique|asymptotes obliques]].
 

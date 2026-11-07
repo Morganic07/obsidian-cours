@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp5 - power series]]"]
+sources: ["[[Raw/Year 3/Séries/Chp5 : power series.docx|Chp5 - power series]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp5 - power series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
+Résumé de [[Raw/Year 3/Séries/Chp5 : power series.docx|Chp5 - power series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
 
 ## Idée générale
 

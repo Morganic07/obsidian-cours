@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year2]
 aliases: [système homogène, systèmes homogènes, système homogène associé, systèmes linéaires homogènes, homogeneous system, solution triviale, trivial solution, nonhomogeneous system, parametric vector form, forme vectorielle paramétrique]
-sources: ["[[chp3]]", "[[Chp 0a - Linear combination]]"]
+sources: ["[[chp3 (résumé)|chp3]]", "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"]
 maj: 2026-11-06
 ---
 
@@ -16,6 +16,6 @@ Notion parente : [[Système linéaire]]. Voir aussi : [[Espace nul]], [[Indépen
 
 ## À vérifier
 
-- Dans [[Chp 0a - Linear combination]], la phrase « w = p + v_h is any solution » a perdu un mot (point 4 de [[Chp 0a - Linear combination (résumé)]]).
+- Dans [[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]], la phrase « w = p + v_h is any solution » a perdu un mot (point 4 de [[Chp 0a - Linear combination (résumé)]]).
 
 Résumés : [[chp3 (résumé)]], [[Chp 0a - Linear combination (résumé)]]

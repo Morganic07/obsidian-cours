@@ -2,11 +2,11 @@
 type: concept
 tags: [year4, nomme]
 aliases: [banque commerciale, banque d'investissement, banque centrale]
-sources: ["[[Gestion financière]]"]
+sources: ["[[Gestion financière (résumé)|Gestion financière]]"]
 maj: 2026-11-06
 ---
 
-Nommés dans la note de [[Gestion financière]] sans définition : la note distingue trois types de banque, la banque commerciale, la banque d'investissement, chargée des [[Opérations de haut de bilan]], et la banque centrale.
+Nommés dans la note de [[Gestion financière (résumé)|Gestion financière]] sans définition : la note distingue trois types de banque, la banque commerciale, la banque d'investissement, chargée des [[Opérations de haut de bilan]], et la banque centrale.
 
 Voir aussi : [[Marché financier]].
 

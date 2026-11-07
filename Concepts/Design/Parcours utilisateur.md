@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [user journey, pain point, pain points, point de friction, user flow, user journeys, userjourneys, parcours-types, parcours utilisateurs]
 matieres: [Anglais, Affordance]
-sources: ["[[Global Exam Vocab]]", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]", "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"]
 maj: 2026-11-06
 ---
 

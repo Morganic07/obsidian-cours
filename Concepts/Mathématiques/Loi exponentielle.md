@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [exponential distribution, exponential random variable, loi gamma, gamma distribution, loi de Weibull, Weibull distribution]
 matieres: [Probability, Statistics]
-sources: ["[[Chp 5 - Continuous random variable]]", "[[Chp4 Part 1 - Inferential statistics]]", "[[Chp3 - More on probability]]"]
+sources: ["[[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 

@@ -15,9 +15,9 @@ matieres:
   - Analyse Maths
   - Séries
 sources:
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]"
-  - "[[Chp0 - Revision chapter]]"
-  - "[[Chp5 - power series]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
+  - "[[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
+  - "[[Chp5 - power series (résumé)|Chp5 - power series]]"
 maj: 2026-11-06
 ---
 

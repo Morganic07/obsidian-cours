@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Analyse Maths
 sources:
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
-  - ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
 maj: 2026-11-06
 ---
 

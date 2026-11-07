@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [design régénératif, regenerative retail, modèle régénératif, retail du futur, retail immersif]
 matieres: [Projet design]
-sources: ["[[Topo ELBA]]", "[[exposé melvita]]"]
+sources: ["[[Topo ELBA (résumé)|Topo ELBA]]", "[[exposé melvita (résumé)|exposé melvita]]"]
 maj: 2026-11-06
 ---
 

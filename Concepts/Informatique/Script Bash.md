@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [script Bash, bash script, shell script, script shell, scripting Bash, fichier .sh]
 matieres: [Operating System]
-sources: ["[[OS - chp 5]]", "[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Cours TP3]]"]
+sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Séance TP3 (résumé)|Cours TP3]]"]
 maj: 2026-11-06
 ---
 

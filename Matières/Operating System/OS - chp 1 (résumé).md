@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 1.docx|OS - chp 1]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[OS - chp 1]] (« Chp 1 - Introduction »), dans [[Operating System (matière)]]. Notes de cours de l'étudiante, en français et en anglais, avec les figures des diapositives. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 1.docx|OS - chp 1]] (« Chp 1 - Introduction »), dans [[Operating System (matière)]]. Notes de cours de l'étudiante, en français et en anglais, avec les figures des diapositives. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

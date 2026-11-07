@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [UX design, UX, user experience, design de l'expérience utilisateur, expérience utilisateurs]
 matieres: [Corps à l'oeuvre, Anglais, Affordance, Sémiotique, Projet courts]
-sources: ["[[corps à l'oeuvre - cours]]", "[[Global Exam Vocab]]", ".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx", "PDF du brief du projet, dans .raw/Year 3/Projet courts"]
+sources: ["[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]", "[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]", "PDF du brief du projet, dans Raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

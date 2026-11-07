@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [équiprobable, equally likely, equally likely outcomes, issues équiprobables]
 matieres: [Probability]
-sources: ["[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 

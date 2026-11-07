@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [constitution du corpus, corpus d'applications]
 matieres: [Sémiotique]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 3.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
 maj: 2026-11-06
 ---
 

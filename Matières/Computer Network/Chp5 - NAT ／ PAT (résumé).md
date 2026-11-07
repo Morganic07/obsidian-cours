@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp5 - NAT ／ PAT]]"]
+sources: ["[[Raw/Year 3/Computer Network/Chp5 : NAT ／ PAT.docx|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp5 - NAT ／ PAT]], dans [[Computer Network (matière)]] : manque d'adresses IPv4, adresses privées, principe du NAT, NAT statique et sa configuration, PAT (*NAT overload*) et sa configuration. Cours mêlant français et anglais. En cas d'écart, le cours et ses images font foi. Voir [[NAT et PAT]].
+Résumé de [[Raw/Year 3/Computer Network/Chp5 : NAT ／ PAT.docx|Chp5 - NAT ／ PAT]], dans [[Computer Network (matière)]] : manque d'adresses IPv4, adresses privées, principe du NAT, NAT statique et sa configuration, PAT (*NAT overload*) et sa configuration. Cours mêlant français et anglais. En cas d'écart, le cours et ses images font foi. Voir [[NAT et PAT]].
 
 ## Pourquoi le NAT
 

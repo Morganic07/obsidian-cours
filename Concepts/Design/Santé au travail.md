@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, nomme]
 aliases: [souffrance au travail, "obligations de l'employeur"]
-sources: ["PDF du brief du projet, dans .raw/Year 3/Projet courts", "PDF de la fiche ressources, dans .raw/Year 3/Projet courts"]
+sources: ["PDF du brief du projet, dans Raw/Year 3/Projet courts", "PDF de la fiche ressources, dans Raw/Year 3/Projet courts"]
 maj: 2026-11-06
 ---
 

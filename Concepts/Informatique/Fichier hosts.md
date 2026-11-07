@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Fichier /etc/hosts, /etc/hosts, hosts file]
 matieres: [Operating System]
-sources: ["[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [SQL, DDL, DML, requête SQL, requêtes SQL, Structured Query Language]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 3 - opérateurs et SQL]]", ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
+sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]", "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"]
 maj: 2026-11-06
 ---
 

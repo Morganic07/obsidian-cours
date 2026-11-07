@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [UI, user interface, interface utilisateur, interface design, UI design]
 matieres: ["Corps à l'oeuvre", Anglais]
-sources: ["[[corps à l'oeuvre - cours]]", "[[Global Exam Vocab]]"]
+sources: ["[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]", "[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

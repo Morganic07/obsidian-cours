@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [sample mean, X barre]
-sources: ["[[Chp 6 - Joint probability distributions]]"]
+sources: ["[[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 ---
 

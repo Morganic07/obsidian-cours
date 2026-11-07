@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [intersection d'ensembles, union d'ensembles, réunion d'ensembles, intersection d'une famille, union d'une famille, distributivité de l'intersection et de l'union]
 matieres: [Outil Maths]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf", "[[Chapitre 2 ensembles]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[Chapitre 2 ensembles (résumé)|Chapitre 2 ensembles]]"]
 maj: 2026-11-06
 ---
 

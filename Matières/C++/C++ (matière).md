@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year4]
-sources: ["[[Chp1 - basiques]]", "[[chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Chp1 - basiques (résumé)|Chp1 - basiques]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 
@@ -11,9 +11,9 @@ Programmation bas niveau. Le contenu des trois notes est du langage C (`printf`,
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp1 - basiques]] | Syntaxe, types, mémoire, erreurs, questions pièges | [[Chp1 - basiques (résumé)\|Résumé]] |
-| [[chp2 - structures code]] | Boucles, `switch`, fonctions, tableaux | [[chp2 - structures code (résumé)\|Résumé]] |
-| [[Chp3 - pointeurs , tableaux, listes chainées, structures]] | Adresses, pointeurs, passage par adresse, `struct`, listes chaînées | [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)\|Résumé]] |
+| [[Chp1 - basiques (résumé)\|Chp1 - basiques]] | Syntaxe, types, mémoire, erreurs, questions pièges | [[Chp1 - basiques (résumé)\|Résumé]] |
+| [[chp2 - structures code (résumé)\|chp2 - structures code]] | Boucles, `switch`, fonctions, tableaux | [[chp2 - structures code (résumé)\|Résumé]] |
+| [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)\|Chp3 - pointeurs , tableaux, listes chainées, structures]] | Adresses, pointeurs, passage par adresse, `struct`, listes chaînées | [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)\|Résumé]] |
 
 ## Concepts
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [imaginaire du futur, imaginaires du futur, imaginaire collectif, imaginaire de la mobilité, imaginaires contemporains, imaginaires utopiques, imaginaires dystopiques, imaginaire du numérique, mythes directeurs, motifs dominants, imaginaire du futur en panne]
 matieres: [SHS, Sémiotique]
-sources: [".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf", ".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]", "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [online core, offline core, On-line CPU(s) list, cœur en ligne, cœur hors ligne]
-sources: ["[[DM Shell Scripting]]", "[[Operating Systems - Semester report]]"]
+sources: ["[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Operating Systems - Semester report (résumé)|Operating Systems - Semester report]]"]
 maj: 2026-11-06
 ---
 

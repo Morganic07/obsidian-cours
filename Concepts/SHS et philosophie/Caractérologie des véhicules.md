@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [symbolisme automobile, signe extérieur de richesse]
-sources: [".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf", ".raw/Year 3/SHS/Cours/text3.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]", "[[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]"]
 maj: 2026-11-06
 ---
 

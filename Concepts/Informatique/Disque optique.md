@@ -3,7 +3,7 @@ type: concept
 tags: [year2, nomme]
 aliases: [optical disk, Blu-ray]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

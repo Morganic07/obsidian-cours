@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3, year4]
 aliases: [structures conditionnelles, instruction conditionnelle, selon le cas, Structure conditionnelle en Bash, if statement, if elif else, if else statement, instruction if Bash, instruction if, instruction switch, if else, else if, structures de contrôle, switch case]
 matieres: [Algo Maths, Operating System, Java, C++]
-sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Chp1 - Intro Java]]", "[[chp2 - structures code]]"]
+sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 

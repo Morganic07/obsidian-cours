@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[DM Shell Scripting]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[DM Shell Scripting]] (TP du 30/09/2024), dans [[Operating System (matière)]]. Un énoncé commenté de 19 questions de cours (shell, Bash, variables, tests, boucles), puis 11 tâches de DM avec les réponses de l'étudiante. Il apprend à écrire des [[Script Bash]]. Une capture d'écran (`lscpu`). Les réponses sont celles de l'étudiante, pas un corrigé officiel.
+Résumé de [[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]] (TP du 30/09/2024), dans [[Operating System (matière)]]. Un énoncé commenté de 19 questions de cours (shell, Bash, variables, tests, boucles), puis 11 tâches de DM avec les réponses de l'étudiante. Il apprend à écrire des [[Script Bash]]. Une capture d'écran (`lscpu`). Les réponses sont celles de l'étudiante, pas un corrigé officiel.
 
 ## Partie 1 : questions de cours
 

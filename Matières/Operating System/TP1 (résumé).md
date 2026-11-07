@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[TP1]] (rendu de TP, dossier DM), dans [[Operating System (matière)]]. Il apprend à utiliser l'aide du shell, `sudo`, les paquets, le clavier, le nom de machine et les droits, puis à manipuler des arborescences. Ce sont les réponses de l'étudiante, sur un Linux (Debian) lancé dans ChromeOS, avec ses captures du terminal ; les énoncés des tâches ne sont pas reproduits dans la note, seulement leur numéro et parfois une reformulation. Pas de corrigé officiel.
+Résumé de [[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]] (rendu de TP, dossier DM), dans [[Operating System (matière)]]. Il apprend à utiliser l'aide du shell, `sudo`, les paquets, le clavier, le nom de machine et les droits, puis à manipuler des arborescences. Ce sont les réponses de l'étudiante, sur un Linux (Debian) lancé dans ChromeOS, avec ses captures du terminal ; les énoncés des tâches ne sont pas reproduits dans la note, seulement leur numéro et parfois une reformulation. Pas de corrigé officiel.
 
 ## Tâche 1 : enchaîner deux commandes
 

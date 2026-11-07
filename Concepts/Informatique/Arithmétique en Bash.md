@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [arithmetic expansion, expression arithmétique Bash]
-sources: ["[[Commandes Shell + explications]]", "[[DM Shell Scripting]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [device controller, contrôleurs de périphériques, disk controller, USB controller]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

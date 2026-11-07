@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [processes, processus en cours, parent process, child process, program in execution, programme en exécution]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

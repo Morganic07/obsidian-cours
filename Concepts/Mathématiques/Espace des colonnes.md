@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [column space, column spaces, Col A]
-sources: ["[[Chp 0d - Vector Space]]"]
+sources: ["[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"]
 maj: 2026-11-06
 ---
 

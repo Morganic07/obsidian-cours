@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [Pythagorean Theorem, Pythagore]
 matieres: [Bilinear Algebra, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 1 - Orthogonality]]", "[[Chp3 - More on probability]]", "[[Cours 13 - Principal Components Analysis]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 

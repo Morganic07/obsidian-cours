@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year4]
-sources: ["[[Chp 1 - Undirected graph]]", "[[Chp2 - tree]]", "[[chp3 - complexité]]", "[[chp4 - oriented graphs]]", "[[Graph - Python]]"]
+sources: ["[[Chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Chp2 - tree (résumé)|Chp2 - tree]]", "[[chp3 - complexité (résumé)|chp3 - complexité]]", "[[chp4 - oriented graphs (résumé)|chp4 - oriented graphs]]", "[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 
@@ -11,11 +11,11 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp 1 - Undirected graph]] | Définitions, graphes particuliers | [[Chp 1 - Undirected graph (résumé)\|Résumé]] |
-| [[Chp2 - tree]] | Arbres, arbre couvrant minimal, Kruskal | [[Chp2 - tree (résumé)\|Résumé]] |
-| [[chp3 - complexité]] | Complexité, $O$, $\Omega$, $\Theta$ | [[chp3 - complexité (résumé)\|Résumé]] |
-| [[chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[chp4 - oriented graphs (résumé)\|Résumé]] |
-| [[Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[Graph - Python (résumé)\|Résumé]] |
+| [[Chp 1 - Undirected graph (résumé)\|Chp 1 - Undirected graph]] | Définitions, graphes particuliers | [[Chp 1 - Undirected graph (résumé)\|Résumé]] |
+| [[Chp2 - tree (résumé)\|Chp2 - tree]] | Arbres, arbre couvrant minimal, Kruskal | [[Chp2 - tree (résumé)\|Résumé]] |
+| [[chp3 - complexité (résumé)\|chp3 - complexité]] | Complexité, $O$, $\Omega$, $\Theta$ | [[chp3 - complexité (résumé)\|Résumé]] |
+| [[chp4 - oriented graphs (résumé)\|chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[chp4 - oriented graphs (résumé)\|Résumé]] |
+| [[Graph - Python (résumé)\|Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[Graph - Python (résumé)\|Résumé]] |
 
 ## Concepts
 

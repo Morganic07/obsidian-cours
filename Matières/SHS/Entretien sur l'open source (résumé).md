@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year4]
-sources: ["Note d'origine dans Cours/Year 4/SHS"]
+sources: ["[[Raw/Year 4/SHS/ratranscription HermioneXMorgane.docx|Entretien sur l'open source]]"]
 maj: 2026-11-06
 ---
 
-Résumé d'une note de `Cours/Year 4/SHS`, dans [[SHS (matière)]]. Transcription d'un entretien entre deux étudiants pour l'enquête sur le [[Open design|design libre]], où l'enquêtée décrit sa pratique de l'open source.
+Résumé d'un document Word de `Raw/Year 4/SHS` (lien dans `sources`), dans [[SHS (matière)]]. Transcription d'un entretien entre deux étudiants pour l'enquête sur le [[Open design|design libre]], où l'enquêtée décrit sa pratique de l'open source.
 
 - **Pratique.** Environ deux ans sur GitHub : sites web, applications (un projet d'application de taxi pour femmes, dont la maquette est publiée au fil de l'avancement), et des « briques » réutilisables comme des Lego. La moitié des dépôts est privée (confidentialité), l'autre publique.
 - **Motivation.** D'abord l'hébergement, puis la communauté et le travail d'équipe. Elle se déclare contre les écosystèmes fermés et travaille avec Linux. Personne ne réutilise encore ses codes.

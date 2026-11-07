@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [AGGIR, GIR, groupes iso-ressources, autonomie gérontologique groupes iso-ressources]
 matieres: [Projet Design]
-sources: ["[[Qui dit quoi]]"]
+sources: ["[[Qui dit quoi (résumé)|Qui dit quoi]]"]
 maj: 2026-11-06
 ---
 

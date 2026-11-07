@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [égalité modulo n, modulo n, Z/nZ]
 matieres: [Outil Maths]
-sources: [".raw/Year 1/Outil Maths/Exos/TDRelations.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year4]
 aliases: [dichotomie, recherche par dichotomie, approche par dichotomie, binary search, recherche_dichotomique]
 matieres: [Algo, Analyse Maths, Algo Maths, graph theory]
-sources: ["[[Chp1 - récursivité et complexité]]", ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[chp3 - complexité]]"]
+sources: ["[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]", "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[chp3 - complexité (résumé)|chp3 - complexité]]"]
 maj: 2026-11-06
 ---
 
@@ -21,6 +21,6 @@ Notions parentes : [[Diviser pour régner]], [[Complexité algorithmique]]. Lien
 
 ## À vérifier
 
-- Dans [[chp3 - complexité]], la fonction `recherche_dic` renverrait 0 si la valeur est trouvée, et non sa position (relevé du résumé).
+- Dans [[chp3 - complexité (résumé)|chp3 - complexité]], la fonction `recherche_dic` renverrait 0 si la valeur est trouvée, et non sa position (relevé du résumé).
 
 Résumés : [[Chp1 - récursivité et complexité (résumé)]], [[chp3 - complexité (résumé)]], [[AnalyseID1 (résumé)]], [[AlgoID1 (résumé)]]

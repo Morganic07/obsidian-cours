@@ -7,9 +7,9 @@ aliases:
   - nombre triangulaire
   - nombres triangulaires
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
-  - ".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
+  - "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]"
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [équations aux dérivées partielles, EDP, EDPs, partial differential equation, système d'EDP, EDP d'ordre 1, EDP d'ordre 2]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 

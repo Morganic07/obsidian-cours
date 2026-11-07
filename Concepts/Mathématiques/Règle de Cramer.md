@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Cramer's rule, Cramer’s Rule, formules de Cramer, Cramer]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0c - Determinants]]"]
+sources: ["[[Chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
 maj: 2026-11-06
 ---
 

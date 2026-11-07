@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [process scheduling, scheduler, ordonnanceur, ordonnancement, long term scheduler, short term scheduler, mid term scheduler, ready queue, wait queue, wait queues, scheduling queues, swapper]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

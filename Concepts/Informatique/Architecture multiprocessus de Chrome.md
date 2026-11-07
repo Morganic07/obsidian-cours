@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [multiprocess architecture, browser process, renderer process, plug-in process, processus de rendu]
-sources: ["[[OS - chp7]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

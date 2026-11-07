@@ -2,7 +2,7 @@
 type: concept
 tags: [year4, nomme]
 aliases: [séries temporelles, time series]
-sources: ["[[Chp1 - intro to data mining]]"]
+sources: ["[[Chp1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
 maj: 2026-11-06
 ---
 

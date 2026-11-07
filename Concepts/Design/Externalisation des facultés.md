@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [externalisation de nos facultés]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 ---
 

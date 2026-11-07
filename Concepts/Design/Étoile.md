@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [étoiles, naine rouge, naines rouges, géante rouge, supergéante, hypergéante, red dwarf]
 matieres: [Anglais]
-sources: ["[[stars.html]]"]
+sources: ["[[stars.html (résumé)|stars.html]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 2 - Introduction statistics]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 2 : Introduction statistics.docx|Cours 2 - Introduction statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 2 - Introduction statistics]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 2 : Introduction statistics.docx|Cours 2 - Introduction statistics]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

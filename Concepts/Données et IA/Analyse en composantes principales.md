@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [PCA, principal component analysis, principal components analysis, composantes principales, composante principale, principal component, ACP, scree plot, biplot, Dim 1, PC1, PC2]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 13 - Principal Components Analysis]]", "[[Cours 13 - PCA in R]]"]
+sources: ["[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]", "[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
 maj: 2026-11-06
 ---
 

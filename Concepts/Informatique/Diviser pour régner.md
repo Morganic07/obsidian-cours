@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[Chp1 - récursivité et complexité]]"]
+sources: ["[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"]
 maj: 2026-11-06
 ---
 

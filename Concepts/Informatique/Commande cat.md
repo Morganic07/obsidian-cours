@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cat -n]
 matieres: [Operating System]
-sources: ["[[OS - chp 5]]", "[[Commandes Shell + explications]]"]
+sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"]
 maj: 2026-11-06
 ---
 

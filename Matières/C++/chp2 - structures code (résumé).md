@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[chp2 - structures code]]"]
+sources: ["[[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp2 - structures code]], dans [[C++ (matière)]]. Le code est du [[Langage C|C]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]], dans [[C++ (matière)]]. Le code est du [[Langage C|C]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

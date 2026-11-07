@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [pointeur nul, "NULL"]
 matieres: [C++]
-sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 

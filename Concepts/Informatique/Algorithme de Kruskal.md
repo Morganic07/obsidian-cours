@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [Kruskal]
 matieres: [graph theory]
-sources: ["[[Chp2 - tree]]", "[[Graph - Python]]"]
+sources: ["[[Chp2 - tree (résumé)|Chp2 - tree]]", "[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 

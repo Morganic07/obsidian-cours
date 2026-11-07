@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de la feuille Exo Chapitre 1 Logique (PDF) (`.raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf`) (3 pages, 2023-2024), dans [[Outil Maths (matière)]]. Titre de la feuille : « Logique et Calcul propositionnel », Outils Mathématiques, semestre 1. Document scanné, sans couche de texte : lu à partir des images des trois pages. **Énoncés seuls, sans corrigé** : aucune correction n'est donnée par le document. Pas de figure : rien à intégrer. Cours : [[Chapitre 1 logique (résumé)]], [[Logique propositionnelle]], [[Récurrence]]. Les exercices 15 à 19 sortent de la logique pure (inégalités, récurrence, dénombrement).
+Résumé de la feuille Exo Chapitre 1 Logique (PDF) ([[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]) (3 pages, 2023-2024), dans [[Outil Maths (matière)]]. Titre de la feuille : « Logique et Calcul propositionnel », Outils Mathématiques, semestre 1. Document scanné, sans couche de texte : lu à partir des images des trois pages. **Énoncés seuls, sans corrigé** : aucune correction n'est donnée par le document. Pas de figure : rien à intégrer. Cours : [[Chapitre 1 logique (résumé)]], [[Logique propositionnelle]], [[Récurrence]]. Les exercices 15 à 19 sortent de la logique pure (inégalités, récurrence, dénombrement).
 
 ## Vue d'ensemble : 19 exercices
 

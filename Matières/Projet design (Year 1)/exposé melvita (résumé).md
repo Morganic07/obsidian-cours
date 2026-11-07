@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[exposé melvita|exposé melvita]]"
+  - "[[Raw/Year 1/Projet design/ELBA/exposé melvita.docx|exposé melvita]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[exposé melvita|exposé melvita]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre trois membres, non reprise ici). Le texte est celui des étudiantes, rangé ici dans l'ordre des diapositives (1 à 32) ; certaines diapositives n'ont pas de notes (8, 10 à 12). La note ne contient pas d'image.
+Résumé de [[Raw/Year 1/Projet design/ELBA/exposé melvita.docx|exposé melvita]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre trois membres, non reprise ici). Le texte est celui des étudiantes, rangé ici dans l'ordre des diapositives (1 à 32) ; certaines diapositives n'ont pas de notes (8, 10 à 12). La note ne contient pas d'image.
 
 ## 1. Introduction (diapositives 1 à 3)
 

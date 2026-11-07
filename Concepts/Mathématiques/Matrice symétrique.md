@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [symmetric matrix, symmetric matrices, matrices symétriques, diagonalization of symmetric matrices]
-sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours 13 - Principal Components Analysis]]"]
+sources: ["[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 

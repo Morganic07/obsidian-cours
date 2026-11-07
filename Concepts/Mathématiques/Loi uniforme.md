@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [uniform distribution, loi uniforme continue, distribution uniforme]
-sources: ["[[Chp 5 - Continuous random variable]]", "[[Chp3 - More on probability]]"]
+sources: ["[[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [system bus, data bus, address bus, control bus, bus de données, bus d'adresses, bus de contrôle]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

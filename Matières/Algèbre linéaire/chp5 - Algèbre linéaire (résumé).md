@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp5 .docx|chp5 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 5, [[Changement de base]]. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp5 .docx|chp5 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 5, [[Changement de base]]. En cas d'écart, le cours fait foi.
 
 La [[Matrice|matrice]] qui représente une [[Transformation linéaire|application linéaire]] est construite avec une [[Base (algèbre linéaire)|base]] de départ et une base d'arrivée. Une autre base donne une autre matrice.
 

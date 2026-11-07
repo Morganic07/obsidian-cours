@@ -25,6 +25,7 @@ import re
 import shutil
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 
 import chemins
@@ -216,6 +217,12 @@ def preparer(coffre, travail):
     return changements
 
 
+def nfc(texte):
+    """Drive donne parfois des noms en Unicode décomposé (NFD), le wiki les écrit composés :
+    on compare toujours sous la forme composée."""
+    return unicodedata.normalize("NFC", texte)
+
+
 def cible(valeur):
     """Cible d'une valeur de sources : celle du lien [[…]], sinon le texte lui-même."""
     lien = re.match(r"\s*\[\[([^\]|\\#]+)", valeur)
@@ -227,13 +234,13 @@ def index_fiches(coffre):
     fiches = []
     for fiche in sorted((coffre / chemins.MATIERES).rglob("*(résumé).md")):
         champs = convertir.lire_frontmatter(fiche.read_text(encoding="utf-8"))
-        fiches.append((fiche, [cible(v) for v in champs.get("sources", [])]))
+        fiches.append((fiche, [nfc(cible(v)) for v in champs.get("sources", [])]))
     return fiches
 
 
 def fiches_du_document(fiches, document):
     """Fiches dont sources cite ce document (chemin préfixé par le dossier du miroir)."""
-    return [fiche for fiche, cibles in fiches if document in cibles]
+    return [fiche for fiche, cibles in fiches if nfc(document) in cibles]
 
 
 def dossiers_probables(fiches, coffre, chemin):
@@ -241,7 +248,7 @@ def dossiers_probables(fiches, coffre, chemin):
     jusqu'au dossier de la matière (Year N/<matière>)."""
     parties = Path(chemin).parent.parts
     for k in range(len(parties), 1, -1):
-        prefixe = f"{chemins.MIROIR}/{'/'.join(parties[:k])}/"
+        prefixe = nfc(f"{chemins.MIROIR}/{'/'.join(parties[:k])}/")
         trouves = {fiche.parent.relative_to(coffre).as_posix()
                    for fiche, cibles in fiches if any(c.startswith(prefixe) for c in cibles)}
         if trouves:
@@ -261,7 +268,7 @@ def pages_du_wiki(coffre):
         racine = coffre / nom
         fichiers = [racine] if racine.is_file() else sorted(racine.rglob("*.md")) if racine.is_dir() else []
         for f in fichiers:
-            pages[f.relative_to(coffre).as_posix()] = f.read_text(encoding="utf-8")
+            pages[f.relative_to(coffre).as_posix()] = nfc(f.read_text(encoding="utf-8"))
     return pages
 
 
@@ -269,7 +276,7 @@ def pages_citant(pages, fiche, document):
     """Pages qui lient la fiche ou citent le document."""
     lien = re.compile(rf"\[\[{re.escape(fiche.stem)}(?:\]\]|\\?\||#)")
     return [p for p, texte in pages.items()
-            if (lien.search(texte) or document in texte) and not p.endswith(f"/{fiche.name}")]
+            if (lien.search(texte) or nfc(document) in texte) and not p.endswith(f"/{fiche.name}")]
 
 
 def bloc(texte, langue=""):
@@ -328,7 +335,7 @@ def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes):
             lignes.append(f"- Pages qui lient `{fiche.stem}` ou citent l'ancien chemin : "
                           + (", ".join(f"`{p}`" for p in citants) or "aucune"))
         if not trouvees:
-            citants = [p for p, texte in pages.items() if ancien_chemin in texte]
+            citants = [p for p, texte in pages.items() if nfc(ancien_chemin) in texte]
             lignes.append("- Pages qui citent l'ancien chemin : "
                           + (", ".join(f"`{p}`" for p in citants) or "aucune"))
     if images_n:

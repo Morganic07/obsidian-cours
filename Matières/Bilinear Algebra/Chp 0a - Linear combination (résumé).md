@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 0a - Linear combination]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 0a - Linear combination]] (« Chapter 0a - Linear equation in linear algebra »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]] (« Chapter 0a - Linear equation in linear algebra »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

@@ -8,17 +8,17 @@ aliases:
 matieres:
   - Data analysis (Thanos)
 sources:
-  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1]]"
-  - "[[Summary functions in RStudio]]"
-  - "[[Cours 13 - PCA in R]]"
+  - "[[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1]]"
+  - "[[Summary functions in RStudio (résumé)|Summary functions in RStudio]]"
+  - "[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"
 maj: 2026-11-06
 ---
 
-Langage où tout passe par des fonctions et où tout est un objet. Les arguments nommés sont stricts, et l'aide s'obtient par `help()` ou `?` ([[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]).
+Langage où tout passe par des fonctions et où tout est un objet. Les arguments nommés sont stricts, et l'aide s'obtient par `help()` ou `?` ([[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)]]).
 
 **Structures** : vecteur (linéaire, éléments de même type), matrice (rectangulaire, même type, rangée par colonnes), liste (types mélangés) et [[Data frame]].
 
-**Fonctions vues dans les cours** : `c()`, `seq`, `mean`, `summary`, `table`, `plot`, `t()` (Cours 1) ; `sd`, `var`, `quantile`, `hist`, `boxplot`, `qqnorm`, `cbind`, `rbind` ([[Summary functions in RStudio]]) ; `cov`, `eigen`, `prcomp` pour l'[[Analyse en composantes principales]] ([[Cours 13 - PCA in R]]).
+**Fonctions vues dans les cours** : `c()`, `seq`, `mean`, `summary`, `table`, `plot`, `t()` (Cours 1) ; `sd`, `var`, `quantile`, `hist`, `boxplot`, `qqnorm`, `cbind`, `rbind` ([[Summary functions in RStudio (résumé)|Summary functions in RStudio]]) ; `cov`, `eigen`, `prcomp` pour l'[[Analyse en composantes principales]] ([[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]).
 
 Voir aussi : [[Data frame]], [[Facteur (variable catégorielle)]], [[Formule de modèle en R]], [[Bibliothèque ggplot2]], [[Analyse en composantes principales]].
 

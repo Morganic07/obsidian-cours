@@ -21,10 +21,10 @@ matieres:
   - Algo
   - Algo Maths
 sources:
-  - "[[Chp1 - récursivité et complexité]]"
-  - ".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 

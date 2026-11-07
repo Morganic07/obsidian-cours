@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [chi-square test, chi square test, chi-square, test du khi-deux, test du chi-deux, loi du χ², χ² test, chi-square statistic, test d'indépendance du χ²]
 matieres: [Data analysis (Thanos), Statistics]
-sources: ["[[Cours 8 - Chi²-Test]]", "[[probabilité statistiques utilitaire]]"]
+sources: ["[[Séance 8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]]", "[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]"]
 maj: 2026-11-06
 ---
 

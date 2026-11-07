@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [free -h]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 

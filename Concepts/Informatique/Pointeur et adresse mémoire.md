@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [pointeur, pointeurs, double pointeur, doubles pointeurs, adresse mémoire, passage par adresse]
 matieres: [C++]
-sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures]]", "[[chp2 - structures code]]"]
+sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 

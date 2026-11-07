@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: []
 matieres: [Projet Design]
-sources: ["[[Helloartup]]"]
+sources: ["[[Helloartup (résumé)|Helloartup]]"]
 maj: 2026-11-06
 ---
 

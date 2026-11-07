@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year2]
 aliases: [imitation de la nature, "la nature imite l'art"]
-sources: ["[[L'état]]", "[[philo 2]]", "[[philo 3]]"]
+sources: ["[[L'état (résumé)|L'état]]", "[[philo 2 (résumé)|philo 2]]", "[[philo 3 (résumé)|philo 3]]"]
 maj: 2026-11-06
 ---
 

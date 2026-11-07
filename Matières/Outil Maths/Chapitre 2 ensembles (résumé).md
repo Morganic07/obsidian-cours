@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Chapitre 2 ensembles]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/Chapitre 2 ensembles .docx|Chapitre 2 ensembles]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chapitre 2 ensembles]], dans [[Outil Maths (matière)]] (cours du 19/10/23). En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 2 ensembles .docx|Chapitre 2 ensembles]], dans [[Outil Maths (matière)]] (cours du 19/10/23). En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

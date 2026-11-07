@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [mécanique de succès, "mécanique d'échec"]
-sources: ["[[Dernier cours]]"]
+sources: ["[[Dernière séance (résumé)|Dernier cours]]"]
 maj: 2026-11-06
 ---
 

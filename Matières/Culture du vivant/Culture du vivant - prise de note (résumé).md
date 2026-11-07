@@ -3,12 +3,12 @@ type: source
 tags:
   - year4
 sources:
-  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
+  - "[[Raw/Year 4/Culture du vivant/Culture du vivant - prise de note .docx|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Culture du vivant - prise de note|Culture du vivant - prise de note]], dans [[Culture du vivant (matière)]]. Cours 1, notes de l'étudiant : une suite d'affirmations rapportées du cours, parfois accompagnées de jugements personnels.
+Résumé de [[Raw/Year 4/Culture du vivant/Culture du vivant - prise de note .docx|Culture du vivant - prise de note]], dans [[Culture du vivant (matière)]]. Cours 1, notes de l'étudiant : une suite d'affirmations rapportées du cours, parfois accompagnées de jugements personnels.
 
 ## Capitalisme et design
 

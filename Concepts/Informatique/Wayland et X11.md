@@ -3,7 +3,7 @@ type: concept
 tags: [year2, nomme]
 aliases: [Wayland, XWayland, X11]
 matieres: [Operating System]
-sources: ["[[TP1]]"]
+sources: ["[[TP1 (résumé)|TP1]]"]
 maj: 2026-11-06
 ---
 

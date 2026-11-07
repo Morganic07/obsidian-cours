@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [system(), fonction system]
 matieres: [Operating System]
-sources: ["[[Cours TP4]]", "[[TP4 - Pina Morgane|TP4]]"]
+sources: ["[[Séance TP4 (résumé)|Cours TP4]]", "[[TP4 (résumé)|TP4]]"]
 maj: 2026-11-06
 ---
 

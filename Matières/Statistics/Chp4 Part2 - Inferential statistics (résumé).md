@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp4 Part2 - Inferential statistics]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp4 Part2 : Inferential statistics.docx|Chp4 Part2 - Inferential statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 Part2 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 2, intervalles de confiance (*confidence intervals*). On passe d'une estimation ponctuelle à un encadrement : l'[[Intervalle de confiance]] pour la moyenne d'une [[Loi normale|loi normale]] quand $\sigma$ est connu. En cas d'écart, le cours et ses images font foi. Les formules viennent des transcriptions des images.
+Résumé de [[Raw/Year 3/Statistics/Chp4 Part2 : Inferential statistics.docx|Chp4 Part2 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 2, intervalles de confiance (*confidence intervals*). On passe d'une estimation ponctuelle à un encadrement : l'[[Intervalle de confiance]] pour la moyenne d'une [[Loi normale|loi normale]] quand $\sigma$ est connu. En cas d'écart, le cours et ses images font foi. Les formules viennent des transcriptions des images.
 
 ## Intervalle de confiance à 95 % (variable gaussienne)
 

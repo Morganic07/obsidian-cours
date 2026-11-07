@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [BNPL]
 matieres: ["management de l'innovationb"]
-sources: ["Note d'origine dans Cours/Year 4/management de l'innovationb"]
+sources: ["[[Douze innovations (résumé)]]"]
 maj: 2026-11-06
 ---
 

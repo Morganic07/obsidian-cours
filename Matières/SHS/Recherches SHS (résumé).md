@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["Note d'origine dans Cours/Year 4/SHS"]
+sources: ["[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|Recherches SHS]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé d'une note de `Cours/Year 4/SHS`, dans [[SHS (matière)]]. Recherches d'un étudiant pour l'enquête sur le [[Open design|design libre et en commun]], reprises dans [[Prise de note SHS (résumé)|la note de travail du groupe]]. Les deux images en tête ne contiennent que du texte (les définitions recopiées ci-dessous) : aucune n'est intégrée. Les transcriptions sont lisibles.
+Résumé d'un document Word de `Raw/Year 4/SHS` (lien dans `sources`), dans [[SHS (matière)]]. Recherches d'un étudiant pour l'enquête sur le [[Open design|design libre et en commun]], reprises dans [[Prise de note SHS (résumé)|la note de travail du groupe]]. Les deux images en tête ne contiennent que du texte (les définitions recopiées ci-dessous) : aucune n'est intégrée. Les transcriptions sont lisibles.
 
 **Origine du texte** : plusieurs passages s'adressent au lecteur (« votre groupe », « votre syllabus ») et se commentent eux-mêmes (« c'est ici que l'analyse d'OpenFisca devient intellectuellement brillante ») : une bonne part de la note semble être un **texte produit par un outil de génération de texte** et recopié, puis annoté par l'étudiant. Les affirmations sur les projets cités ne sont pas sourcées.
 

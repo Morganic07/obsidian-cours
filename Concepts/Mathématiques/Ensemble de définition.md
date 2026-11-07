@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [domaine de définition]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"]
 maj: 2026-11-06
 ---
 

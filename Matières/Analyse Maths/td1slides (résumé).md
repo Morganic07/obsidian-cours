@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/td1slides.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de td1slides (`.raw/Year 1/Analyse Maths/Exos/td1slides.pdf`) (101 diapositives, texte, « Analyse 1, premier semestre 2026-2027 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD1 « Réels ». Elles reprennent les exercices de [[TD1-numbres-reels (résumé)]] et en ajoutent (partie entière, dénombrement d'entiers). Cours associé : [[Chap1-reels (résumé)]].
+Résumé de td1slides ([[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]) (101 diapositives, texte, « Analyse 1, premier semestre 2026-2027 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD1 « Réels ». Elles reprennent les exercices de [[TD1-numbres-reels (résumé)]] et en ajoutent (partie entière, dénombrement d'entiers). Cours associé : [[Chap1-reels (résumé)]].
 
 Les diapositives ne contiennent aucune figure : seulement du texte, des calculs et deux tableaux de signe, recopiés ici. Les exercices marqués « À faire chez soi » ou « Pour aller plus loin » sont corrigés eux aussi. Les barres de période des écritures décimales sont perdues à l'extraction du texte ; elles sont rétablies ici d'après les calculs des corrigés.
 

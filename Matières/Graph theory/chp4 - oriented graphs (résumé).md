@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[chp4 - oriented graphs]]"]
+sources: ["[[Raw/Year 4/graph theory/chp4 - oriented graphs.docx|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp4 - oriented graphs]], dans [[Graph theory (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Images non ouvertes : lues par leur transcription. Voir [[Graphe orienté]].
+Résumé de [[Raw/Year 4/graph theory/chp4 - oriented graphs.docx|chp4 - oriented graphs]], dans [[Graph theory (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Images non ouvertes : lues par leur transcription. Voir [[Graphe orienté]].
 
 ## Idée générale
 

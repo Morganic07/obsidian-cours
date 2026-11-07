@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [negative binomial distribution, negative binomial rv, binomiale négative]
-sources: ["[[Chp 3 - Important discrete distributions]]", "[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 

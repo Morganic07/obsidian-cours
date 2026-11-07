@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [oligarchie de l'expertise, illusion de l'inclusion]
-sources: ["[[SHS Recherches-Morgane]]", "[[Prise de note SHS]]"]
+sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]", "[[Prise de note SHS (résumé)|Prise de note SHS]]"]
 maj: 2026-11-06
 ---
 

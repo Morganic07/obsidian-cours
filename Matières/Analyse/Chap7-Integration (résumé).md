@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chap7-Integration]]"]
+sources: ["[[Raw/Year 2/Analyse/chp7/Chap7-Integration.docx|Chap7-Integration]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chap7-Integration]], dans [[Analyse (matière)]]. Le chapitre construit l'[[Intégrale]] (fonctions en escalier, puis continues), la relie aux [[Primitive|primitives]], donne les techniques de calcul et les méthodes d'approximation. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse/chp7/Chap7-Integration.docx|Chap7-Integration]], dans [[Analyse (matière)]]. Le chapitre construit l'[[Intégrale]] (fonctions en escalier, puis continues), la relie aux [[Primitive|primitives]], donne les techniques de calcul et les méthodes d'approximation. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

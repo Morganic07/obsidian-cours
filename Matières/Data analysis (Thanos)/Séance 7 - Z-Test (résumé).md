@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 7 - Z-Test]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 7 - Z-Test]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

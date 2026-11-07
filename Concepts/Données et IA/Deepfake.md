@@ -9,11 +9,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : les outils de deepfake figurent dans la liste des « IA maléfiques ».
+Nommé dans [[Séance 1 - IA (résumé)|Cours 1 (IA)]] sans définition : les outils de deepfake figurent dans la liste des « IA maléfiques ».
 
 Notion parente : [[IA malveillante]].
 

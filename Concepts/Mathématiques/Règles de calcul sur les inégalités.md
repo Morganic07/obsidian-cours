@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [règles sur les inégalités, manipulation des inégalités, "passage à l'inverse"]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]"]
 maj: 2026-11-06
 ---
 

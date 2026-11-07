@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [partition de E]
 matieres: [Outil Maths]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf", "[[Chapitre 2 ensembles]]", ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[Chapitre 2 ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 

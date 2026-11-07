@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[readme|readme (ligue football)]]"
+  - "[[Raw/Year 3/ligue football/readme.docx|readme (ligue football)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[readme|readme]], dans [[Ligue football (matière)]]. Note très courte : un fichier de présentation de projet de base de données.
+Résumé de [[Raw/Year 3/ligue football/readme.docx|readme]], dans [[Ligue football (matière)]]. Note très courte : un fichier de présentation de projet de base de données.
 
 Il accompagne le rendu demandé par [[sujet database (résumé)]] ; le rapport est résumé dans [[Rapport du projet Ligue Football (résumé)]].
 

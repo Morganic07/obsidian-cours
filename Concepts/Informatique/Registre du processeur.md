@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [registres du processeur, CPU registers, registres CPU]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp7]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[stars.html|stars.html]]"
+  - "[[Raw/Year 2/Anglais/stars.html.docx|stars.html]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[stars.html|stars.html]], dans [[Anglais (matière)]]. Le fichier contient le code d'un site web 3D sur la taille des [[Étoile|étoiles]] (HTML, CSS, JavaScript ; interface en anglais), puis le brouillon des textes en français, étoile par étoile, et une conclusion bilingue.
+Résumé de [[Raw/Year 2/Anglais/stars.html.docx|stars.html]], dans [[Anglais (matière)]]. Le fichier contient le code d'un site web 3D sur la taille des [[Étoile|étoiles]] (HTML, CSS, JavaScript ; interface en anglais), puis le brouillon des textes en français, étoile par étoile, et une conclusion bilingue.
 
 ## Le site (code)
 

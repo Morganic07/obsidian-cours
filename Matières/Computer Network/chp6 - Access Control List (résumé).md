@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[chp6 - Access Control List]]"]
+sources: ["[[Raw/Year 3/Computer Network/chp6 : Access Control List.docx|chp6 - Access Control List]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp6 - Access Control List]], dans [[Computer Network (matière)]] : masque générique (*wildcard mask*), trafic entrant et sortant, principe des ACL, refus implicite, types d'ACL, configuration, et TP de placement d'ACL standard. Cours en anglais. En cas d'écart, le cours et ses images font foi. Voir [[Liste de contrôle d'accès]].
+Résumé de [[Raw/Year 3/Computer Network/chp6 : Access Control List.docx|chp6 - Access Control List]], dans [[Computer Network (matière)]] : masque générique (*wildcard mask*), trafic entrant et sortant, principe des ACL, refus implicite, types d'ACL, configuration, et TP de placement d'ACL standard. Cours en anglais. En cas d'écart, le cours et ses images font foi. Voir [[Liste de contrôle d'accès]].
 
 La note s'ouvre sur une définition isolée : [[ICMP]] = *Internet Control Message Protocol*.
 

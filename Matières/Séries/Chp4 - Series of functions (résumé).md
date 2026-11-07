@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp4 - Series of functions]]"]
+sources: ["[[Raw/Year 3/Séries/Chp4 : Series of functions.docx|Chp4 - Series of functions]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 - Series of functions]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seul le schéma des modes de convergence est intégré.
+Résumé de [[Raw/Year 3/Séries/Chp4 : Series of functions.docx|Chp4 - Series of functions]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seul le schéma des modes de convergence est intégré.
 
 ## Idée générale
 

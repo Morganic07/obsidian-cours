@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[EDOSSAH|EDOSSAH]]"
+  - "[[Raw/Year 2/Projet Design /Edossah/EDOSSAH.docx|EDOSSAH]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[EDOSSAH|EDOSSAH]], dans [[Projet design (Year 2) (matière)]]. Note de travail d'équipe, sans image. Elle indique que le détail de l'atelier a été développé avec un outil de génération de texte (« Chat ») à partir des idées de l'équipe ; ces passages, signalés ci-dessous, sont donc des propositions à valider, non des résultats. Le cahier des charges de la structure est résumé dans [[Projet Etudiants CYDesign 2025 (résumé)]].
+Résumé de [[Raw/Year 2/Projet Design /Edossah/EDOSSAH.docx|EDOSSAH]], dans [[Projet design (Year 2) (matière)]]. Note de travail d'équipe, sans image. Elle indique que le détail de l'atelier a été développé avec un outil de génération de texte (« Chat ») à partir des idées de l'équipe ; ces passages, signalés ci-dessous, sont donc des propositions à valider, non des résultats. Le cahier des charges de la structure est résumé dans [[Projet Etudiants CYDesign 2025 (résumé)]].
 
 ## Barème rappelé
 

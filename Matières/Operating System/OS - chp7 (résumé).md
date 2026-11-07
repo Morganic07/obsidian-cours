@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[OS - chp7]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp7.docx|OS - chp7]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[OS - chp7]] (« Chp7 - Processes »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp7.docx|OS - chp7]] (« Chp7 - Processes »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

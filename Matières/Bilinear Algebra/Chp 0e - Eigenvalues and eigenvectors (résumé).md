@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0e - Eigenvalues and eigenvectors.docx|Chp 0e - Eigenvalues and eigenvectors]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 0e - Eigenvalues and eigenvectors]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0e - Eigenvalues and eigenvectors.docx|Chp 0e - Eigenvalues and eigenvectors]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 
@@ -58,7 +58,7 @@ $$A^n\mathbf x = \lambda^n\mathbf x \Rightarrow AA^n\mathbf x = A\lambda^n\mathb
 > s. le nombre $0$ n'est **pas** valeur propre de $A$ ;
 > t. le déterminant de $A$ n'est **pas** nul.
 >
-> Voir [[Invertible matrix theorem]], [[Matrice inversible]].
+> Voir [[Invertible matrix theorem (résumé)|Invertible matrix theorem]], [[Matrice inversible]].
 
 ## 3. Diagonalisation (*diagonalization*)
 

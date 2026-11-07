@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [superuser, super-utilisateur, utilisateur root, root user, root privileges]
 matieres: [Operating System]
-sources: ["[[cours TP1]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 ---
 

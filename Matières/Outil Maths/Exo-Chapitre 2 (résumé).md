@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf|Exo-Chapitre 2.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de la feuille d'exercices Exo Chapitre 2 (PDF) (`.raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf`) (2 pages, Outils Mathématiques, semestre 1, 2023/2024), dans [[Outil Maths (matière)]]. Énoncés seuls, sans corrigé : les solutions de la plupart sont dans [[TDEnsembles (1) (résumé)]]. Cours : [[Chapitre2-Ensemble (4) (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Opérations sur les ensembles]].
+Résumé de la feuille d'exercices Exo Chapitre 2 (PDF) ([[Raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf|Exo-Chapitre 2.pdf]]) (2 pages, Outils Mathématiques, semestre 1, 2023/2024), dans [[Outil Maths (matière)]]. Énoncés seuls, sans corrigé : les solutions de la plupart sont dans [[TDEnsembles (1) (résumé)]]. Cours : [[Chapitre2-Ensemble (4) (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Opérations sur les ensembles]].
 
 La feuille ne contient aucune figure. Les numéros de corrigé renvoient au TD [[TDEnsembles (1) (résumé)|TDEnsembles]].
 

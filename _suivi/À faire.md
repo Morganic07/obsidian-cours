@@ -16,7 +16,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 
 ## Résumés pas encore en fiche complète (plus tard)
 
-- [ ] `Prise parole Rendu final`, `Projet BLR`, `UNIX Commands - Semester report` : notes supprimées de `Cours/` ; décider de les garder (relire le `.docx` de `.raw/`) ou de les retirer avec leur résumé
+- [ ] `Prise parole Rendu final`, `Projet BLR`, `UNIX Commands - Semester report` : notes supprimées de `Cours/` ; décider de les garder (relire le `.docx` de `Raw/`) ou de les retirer avec leur résumé
 - [ ] `Synthèse des entretiens`, `Transcriptions des entretiens` (SHS, Year 3) : la note n'existe plus dans `Cours/` ni sur Drive
 - [ ] `TP2` (Operating System) : la note `DM/TP2` est absente de `Cours/`
 - [ ] `Entretien sur l'open source` : déjà complet, lui ajouter `complet: true`

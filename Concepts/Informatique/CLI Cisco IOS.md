@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [IOS, Cisco IOS, modes de la CLI, mode privilégié, mode utilisateur, configuration globale, running-config, startup-config, Packet Tracer, show running-config, write memory, show startup-config, configure terminal]
 matieres: [Computer Network]
-sources: ["[[chp1 - Computer Networks]]", "[[Formation CISCO Packet Tracer]]"]
+sources: ["[[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[Formation CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]]"]
 maj: 2026-11-06
 ---
 

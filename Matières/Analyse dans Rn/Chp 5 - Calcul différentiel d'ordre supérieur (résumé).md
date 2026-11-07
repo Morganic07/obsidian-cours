@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 5 : Calcul différentiel d'ordre supérieur.docx|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 5 - Calcul différentiel d'ordre supérieur]], dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 5 : Calcul différentiel d'ordre supérieur.docx|Chp 5 - Calcul différentiel d'ordre supérieur]], dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## 1. Différentiation d'ordre supérieur ou égal à 2
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [distributed systems, distributed system, systèmes distribués, Network Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

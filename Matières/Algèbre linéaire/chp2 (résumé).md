@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[chp2|chp2 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp2 .docx|chp2 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp2|chp2 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 2, applications linéaires et [[Morphisme|morphismes]] d'espaces vectoriels. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp2 .docx|chp2 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 2, applications linéaires et [[Morphisme|morphismes]] d'espaces vectoriels. En cas d'écart, le cours fait foi.
 
 ## Application linéaire
 

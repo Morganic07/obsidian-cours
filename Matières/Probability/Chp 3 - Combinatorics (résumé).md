@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 3 - Combinatorics]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 3 : Combinatorics.docx|Chp 3 - Combinatorics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 3 - Combinatorics]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les images à texte sont recopiées ; l'arbre de décision est intégré.
+Résumé de [[Raw/Year 2/Probability/Chp 3 : Combinatorics.docx|Chp 3 - Combinatorics]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les images à texte sont recopiées ; l'arbre de décision est intégré.
 
 ## Idée générale
 

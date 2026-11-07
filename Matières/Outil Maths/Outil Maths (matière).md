@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year1]
-sources: ["[[Chapitre 1 logique]]", "[[Chapitre 2 ensembles]]", "[[Chapitre 3 - Relation binaire]]", "[[Chapitre 5 - Complexes]]"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]", "[[Chapitre 2 ensembles (résumé)|Chapitre 2 ensembles]]", "[[Chapitre 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Chapitre 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -11,11 +11,11 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chapitre 1 logique]] | Connecteurs, quantificateurs, types de preuve | [[Chapitre 1 logique (résumé)\|Résumé]] |
-| [[Chapitre 2 ensembles]] | Opérations, partitions, cardinal | [[Chapitre 2 ensembles (résumé)\|Résumé]] |
-| [[Chapitre 3 - Relation binaire]] | Équivalence, ordre | [[Chapitre 3 - Relation binaire (résumé)\|Résumé]] |
+| [[Chapitre 1 logique (résumé)\|Chapitre 1 logique]] | Connecteurs, quantificateurs, types de preuve | [[Chapitre 1 logique (résumé)\|Résumé]] |
+| [[Chapitre 2 ensembles (résumé)\|Chapitre 2 ensembles]] | Opérations, partitions, cardinal | [[Chapitre 2 ensembles (résumé)\|Résumé]] |
+| [[Chapitre 3 - Relation binaire (résumé)\|Chapitre 3 - Relation binaire]] | Équivalence, ordre | [[Chapitre 3 - Relation binaire (résumé)\|Résumé]] |
 | Chapitre 4 (PDF seul) | Applications, injective, surjective, bijective, image réciproque | [[Chapitre4-Fonctions (1) (résumé)\|Résumé]] |
-| [[Chapitre 5 - Complexes]] | Formes d'un complexe, Moivre, Euler | [[Chapitre 5 - Complexes (résumé)\|Résumé]] |
+| [[Chapitre 5 - Complexes (résumé)\|Chapitre 5 - Complexes]] | Formes d'un complexe, Moivre, Euler | [[Chapitre 5 - Complexes (résumé)\|Résumé]] |
 
 ## Documents PDF
 

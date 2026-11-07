@@ -3,13 +3,13 @@ type: concept
 tags: [year2]
 aliases: [primitives, théorème fondamental de l’analyse, théorème fondamental de l'analyse, primitives usuelles, tableau des primitives]
 matieres: [Analyse, Analyse Maths, Probability]
-sources: ["[[Chap7-Integration]]", "[[démonstrations - integration]]", "[[Intégration UTILITAIRE]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 ---
 
 Une primitive de $f$, continue sur l'intervalle $I$, est une fonction $F$ de classe $\mathcal{C}^1$ telle que $F' = f$. Deux primitives diffèrent d'une constante.
 
-**Théorème fondamental de l'analyse** : $x \mapsto \int_a^x f(t)\,dt$ est l'unique primitive de $f$ nulle en $a$. Pour toute primitive $F$, $\int_a^x f(t)\,dt = F(x) - F(a)$. La preuve de [[démonstrations - integration]] repose sur la continuité de $f$ en $x_0$.
+**Théorème fondamental de l'analyse** : $x \mapsto \int_a^x f(t)\,dt$ est l'unique primitive de $f$ nulle en $a$. Pour toute primitive $F$, $\int_a^x f(t)\,dt = F(x) - F(a)$. La preuve de [[démonstrations - integration (résumé)|démonstrations - integration]] repose sur la continuité de $f$ en $x_0$.
 
 **Techniques** :
 
@@ -24,7 +24,7 @@ Une primitive de $f$, continue sur l'intervalle $I$, est une fonction $F$ de cla
 - $\sin x \to -\cos x$, $\cos x \to \sin x$, et $\tan x \to -\ln|\cos x|$
 - $\frac{1}{u^2 + a^2} \to \frac{1}{a}\arctan\frac{u}{a}$
 - $\frac{u'}{u} \to \ln|u|$, $u'u^n \to \frac{u^{n+1}}{n+1}$, $\frac{u'}{\sqrt{u}} \to 2\sqrt{u}$, et $u'e^u \to e^u$
-- la fiche [[Intégration UTILITAIRE]] ajoute $\int u'\ln u = u\ln u - u + C$
+- la fiche [[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]] ajoute $\int u'\ln u = u\ln u - u + C$
 
 **Fractions rationnelles** : [[Décomposition en éléments simples|décomposer]] en partie entière et éléments simples, $\frac{\gamma}{(x - x_0)^k}$ ou $\frac{\alpha x + \beta}{(ax^2 + bx + c)^k}$ avec $b^2 - 4ac < 0$. On se ramène à $\ln$, $\arctan$, et à $I_k = \int\frac{du}{(u^2 + 1)^k}$ par parties.
 
@@ -36,6 +36,6 @@ Notion parente : [[Intégrale]]. Voir aussi : [[Intégration par parties]], [[Ch
 
 ## À vérifier
 
-- [[Chap7-Integration]] (point 2 du résumé) écrit « La primitive de $f$ est toute fonction » : il faudrait « Une primitive ».
+- [[Chap7-Integration (résumé)|Chap7-Integration]] (point 2 du résumé) écrit « La primitive de $f$ est toute fonction » : il faudrait « Une primitive ».
 
 Résumés : [[Chap7-Integration (résumé)]], [[démonstrations - integration (résumé)]], [[Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]], [[Chp 5 - Continuous random variable (résumé)]]

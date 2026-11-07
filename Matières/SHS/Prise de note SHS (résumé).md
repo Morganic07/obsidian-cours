@@ -3,12 +3,12 @@ type: source
 tags:
   - year4
 sources:
-  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Prise de note SHS|Prise de note SHS]], dans [[SHS (matière)]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels de chaque membre (liens non repris ici). Tout le contenu est celui du groupe d'étudiants : hypothèses et plan de travail, pas un cours. La note ne contient aucune image.
+Résumé de [[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]], dans [[SHS (matière)]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels de chaque membre (liens non repris ici). Tout le contenu est celui du groupe d'étudiants : hypothèses et plan de travail, pas un cours. La note ne contient aucune image.
 
 ## Notes de recherche
 

@@ -14,10 +14,10 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[Chp 0a - Linear combination]]"
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[chp2|chp2 (Algèbre)]]"
+  - "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp2 (résumé)|chp2 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -35,6 +35,6 @@ Liens : [[Espace des colonnes]], [[Base (algèbre linéaire)]]
 
 ## À vérifier
 
-- [[Chp 0a - Linear combination]] : le théorème « Let A be a nxm matrix » mélange $\mathbb{R}^n$ et $\mathbb{R}^m$.
+- [[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]] : le théorème « Let A be a nxm matrix » mélange $\mathbb{R}^n$ et $\mathbb{R}^m$.
 
 Résumés : [[Chp 0a - Linear combination (résumé)]], [[Chp 0d - Vector Space (résumé)]], [[chp1 (résumé)|chp1 (résumé)]], [[chp2 (résumé)|chp2 (résumé)]], [[Contrôles (résumé)]]

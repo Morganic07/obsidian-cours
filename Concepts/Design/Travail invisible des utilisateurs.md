@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [travail invisible, travail émotionnel, travailleur involontaire, brouillage travail-loisir]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
 maj: 2026-11-06
 ---
 

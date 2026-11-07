@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Intégration UTILITAIRE]]"]
+sources: ["[[Raw/Year 2/Analyse/chp7/Intégration UTILITAIRE .docx|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Intégration UTILITAIRE]], dans [[Analyse (matière)]]. Fiche pratique sur l'[[Intégrale]], sans preuves : elle reprend les énoncés utiles de [[Chap7-Integration]] (voir aussi [[Chap7-Integration (résumé)]]) et ajoute une primitive en $u'\ln u$ et les [[Intégrales de Wallis]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse/chp7/Intégration UTILITAIRE .docx|Intégration UTILITAIRE]], dans [[Analyse (matière)]]. Fiche pratique sur l'[[Intégrale]], sans preuves : elle reprend les énoncés utiles de [[Chap7-Integration (résumé)|Chap7-Integration]] (voir aussi [[Chap7-Integration (résumé)]]) et ajoute une primitive en $u'\ln u$ et les [[Intégrales de Wallis]]. En cas d'écart, le cours et ses images font foi.
 
 La note ne contient aucune figure : toutes ses images sont des énoncés, recopiés ici.
 
@@ -107,4 +107,4 @@ Aucun point à vérifier dans le fond. Mentions « À vérifier » des transcrip
 2. Dans le tableau en $\frac{u'}{u^n}$, le texte est coupé à gauche ; l'accolade de $\mathbb{N}^*\setminus\{1\}$ a été reconstituée.
 3. L'énoncé du changement de variable passe de $\varphi$ à $\phi$ dans les remarques pratiques (même fonction).
 4. L'image de la forme $\int P(\cos x, \sin x)\,dx$ est très petite et coupée à gauche.
-5. Les règles de Bioche sont écrites ici sur $f$ (« $f(-x) = -f(x)$ »), alors que [[Chap7-Integration]] les écrit sur $\omega(x) = f(x)\,dx$ (« $\omega(-x) = \omega(x)$ »). Les deux formulations sont équivalentes, puisque $\omega(-x) = -f(-x)\,dx$.
+5. Les règles de Bioche sont écrites ici sur $f$ (« $f(-x) = -f(x)$ »), alors que [[Chap7-Integration (résumé)|Chap7-Integration]] les écrit sur $\omega(x) = f(x)\,dx$ (« $\omega(-x) = \omega(x)$ »). Les deux formulations sont équivalentes, puisque $\omega(-x) = -f(-x)\,dx$.

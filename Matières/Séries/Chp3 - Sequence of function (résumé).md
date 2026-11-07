@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp3 - Sequence of function]]"]
+sources: ["[[Raw/Year 3/Séries/Chp3 : Sequence of function.docx|Chp3 - Sequence of function]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp3 - Sequence of function]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
+Résumé de [[Raw/Year 3/Séries/Chp3 : Sequence of function.docx|Chp3 - Sequence of function]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
 
 ## Idée générale
 

@@ -4,13 +4,13 @@ tags:
   - year1
   - year2
 sources:
-  - "[[L'état|L'état (Philosophie)]]"
-  - "[[liberté et moralité|liberté et moralité]]"
-  - "[[philo 1|philo 1]]"
-  - "[[philo 2|philo 2]]"
-  - "[[philo 3|philo 3]]"
-  - "[[philo 4|philo 4]]"
-  - "[[philo 5|philo 5]]"
+  - "[[L'état (résumé)|L'état (Philosophie)]]"
+  - "[[liberté et moralité (résumé)|liberté et moralité]]"
+  - "[[philo 1 (résumé)|philo 1]]"
+  - "[[philo 2 (résumé)|philo 2]]"
+  - "[[philo 3 (résumé)|philo 3]]"
+  - "[[philo 4 (résumé)|philo 4]]"
+  - "[[philo 5 (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -24,8 +24,8 @@ Philosophie de 1re année, deux cours : l'état (septembre 2023) et la liberté 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[L'état\|L'état (Philosophie)]] | Aristote contre Hobbes sur l'origine de l'état | [[L'état (résumé)\|Résumé]] |
-| [[liberté et moralité\|liberté et moralité]] | Perfectibilité, technique, désir, Kant | [[liberté et moralité (résumé)\|Résumé]] |
+| [[L'état (résumé)\|L'état (Philosophie)]] | Aristote contre Hobbes sur l'origine de l'état | [[L'état (résumé)\|Résumé]] |
+| [[liberté et moralité (résumé)\|liberté et moralité]] | Perfectibilité, technique, désir, Kant | [[liberté et moralité (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -53,11 +53,11 @@ Philosophie de 2e année, centrée sur la technique, la nature et le progrès. C
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[philo 1\|philo 1]] | Technique et nature, de l'Antiquité aux critiques modernes | [[philo 1 (résumé)\|Résumé]] |
-| [[philo 2\|philo 2]] | Maîtrise de la nature, de la cause à la loi | [[philo 2 (résumé)\|Résumé]] |
-| [[philo 3\|philo 3]] | Paysage, machine comme modèle, technique propre de l'homme | [[philo 3 (résumé)\|Résumé]] |
-| [[philo 4\|philo 4]] | Progrès, philosophie de l'histoire | [[philo 4 (résumé)\|Résumé]] |
-| [[philo 5\|philo 5]] | Machine et organisme, cybernétique, Simondon | [[philo 5 (résumé)\|Résumé]] |
+| [[philo 1 (résumé)\|philo 1]] | Technique et nature, de l'Antiquité aux critiques modernes | [[philo 1 (résumé)\|Résumé]] |
+| [[philo 2 (résumé)\|philo 2]] | Maîtrise de la nature, de la cause à la loi | [[philo 2 (résumé)\|Résumé]] |
+| [[philo 3 (résumé)\|philo 3]] | Paysage, machine comme modèle, technique propre de l'homme | [[philo 3 (résumé)\|Résumé]] |
+| [[philo 4 (résumé)\|philo 4]] | Progrès, philosophie de l'histoire | [[philo 4 (résumé)\|Résumé]] |
+| [[philo 5 (résumé)\|philo 5]] | Machine et organisme, cybernétique, Simondon | [[philo 5 (résumé)\|Résumé]] |
 
 ### Concepts
 

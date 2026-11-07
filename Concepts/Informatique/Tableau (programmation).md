@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3, year4]
 aliases: [Tableau Bash, bash array, tableaux Bash, read -a, array, arrays, tableau Java, tableaux Java, Tableau en C, tableaux en C, "indice d'un tableau"]
 matieres: [Operating System, Java, C++]
-sources: ["[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Chp1 - Intro Java]]", "[[chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 

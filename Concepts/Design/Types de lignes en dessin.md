@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [gesture lines, cross contour lines, outlines, line art, dashed line]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

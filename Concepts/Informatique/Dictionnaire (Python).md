@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [dictionnaire Python, dictionnaires Python, dict]
 matieres: [graph theory]
-sources: ["[[Graph - Python]]"]
+sources: ["[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 

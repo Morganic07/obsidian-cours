@@ -3,7 +3,7 @@ type: concept
 tags: [year2, nomme]
 aliases: [uptime]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[UNIX Commands - Semester report]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
 maj: 2026-11-06
 ---
 

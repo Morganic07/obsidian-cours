@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [union par rang, find_parent]
 matieres: [graph theory]
-sources: ["[[Graph - Python]]"]
+sources: ["[[Graph - Python (résumé)|Graph - Python]]"]
 maj: 2026-11-06
 ---
 

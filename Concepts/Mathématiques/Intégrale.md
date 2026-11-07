@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [intégrales, fonction en escalier, fonctions en escalier, méthode des rectangles, intégrale d'une fonction en escalier, intégrale d'une fonction continue, fonction en escalier adaptée]
 matieres: [Analyse, Analyse Maths, Analyse dans Rn, Probability, Séries]
-sources: ["[[Chap7-Integration]]", "[[démonstrations - integration]]", "[[Intégration UTILITAIRE]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 ---
 
@@ -30,6 +30,6 @@ Liens : [[Primitive]], [[Limite et continuité]], [[Application lipschitzienne]]
 
 ## À vérifier
 
-- Dans les preuves de [[démonstrations - integration]], plusieurs « = » sont à lire « ≤ », et $f(x) \le f(c)/2$ à lire $f(x) \ge f(c)/2$ (relevé du résumé, points 1 à 3).
+- Dans les preuves de [[démonstrations - integration (résumé)|démonstrations - integration]], plusieurs « = » sont à lire « ≤ », et $f(x) \le f(c)/2$ à lire $f(x) \ge f(c)/2$ (relevé du résumé, points 1 à 3).
 
 Résumés : [[TD7-integration (1) (résumé)]] (exercices, dont Wallis et sommes de Riemann), [[Chap7-Integration (résumé)]], [[démonstrations - integration (résumé)]], [[Intégration UTILITAIRE (résumé)]], [[Chp 5 - Continuous random variable (résumé)]]

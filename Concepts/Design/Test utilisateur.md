@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [tests utilisateurs, test utilisateurs, user testing, usability testing, passation]
 matieres: [Affordance, Projet courts]
-sources: [".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx"]
+sources: ["[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"]
 maj: 2026-11-06
 ---
 

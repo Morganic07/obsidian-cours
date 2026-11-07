@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [strongly connected component, SCC]
 matieres: [graph theory]
-sources: ["[[chp4 - oriented graphs]]"]
+sources: ["[[chp4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 

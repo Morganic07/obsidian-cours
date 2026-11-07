@@ -3,13 +3,13 @@ type: source
 tags:
   - year2
 sources:
-  - "[[Qui dit quoi|Qui dit quoi]]"
-  - "[[Copy of Qui dit quoi|Copy of Qui dit quoi]]"
+  - "[[Raw/Year 2/Projet Design /Hello Art Up/Qui dit quoi .docx|Qui dit quoi]]"
+  - "[[Raw/Year 2/Projet Design /Hello Art Up/Copy of Qui dit quoi .docx|Copy of Qui dit quoi]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Qui dit quoi|Qui dit quoi]] et de sa copie [[Copy of Qui dit quoi|Copy of Qui dit quoi]], dans [[Projet design (Year 2) (matière)]]. La copie est une version antérieure : seule la répartition des diapositives diffère, dans les passages comparés. Les membres de l'équipe ne sont pas nommés ici. La note ne contient aucune image : les graphiques et schémas commentés à l'oral sont sur les diapositives, absentes de la note.
+Résumé de [[Raw/Year 2/Projet Design /Hello Art Up/Qui dit quoi .docx|Qui dit quoi]] et de sa copie [[Raw/Year 2/Projet Design /Hello Art Up/Copy of Qui dit quoi .docx|Copy of Qui dit quoi]], dans [[Projet design (Year 2) (matière)]]. La copie est une version antérieure : seule la répartition des diapositives diffère, dans les passages comparés. Les membres de l'équipe ne sont pas nommés ici. La note ne contient aucune image : les graphiques et schémas commentés à l'oral sont sur les diapositives, absentes de la note.
 
 Texte de l'oral de la phase d'analyse du projet Hello Art Up (voir [[Helloartup (résumé)|Helloartup (résumé)]]), présenté par trois étudiants, avec la répartition des 20 diapositives entre eux.
 

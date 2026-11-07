@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [intégrale de Wallis, Wallis]
 matieres: [Analyse]
-sources: ["[[Intégration UTILITAIRE]]", ".raw/Year 2/Analyse/chp7/TD7-integration (1).pdf"]
+sources: ["[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
 maj: 2026-11-06
 ---
 

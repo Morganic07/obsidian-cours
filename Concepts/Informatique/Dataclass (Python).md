@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [dataclass, dataclasses, "@dataclass"]
 matieres: [Algo Maths]
-sources: ["[[explications DM d'algo]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
 maj: 2026-11-06
 ---
 

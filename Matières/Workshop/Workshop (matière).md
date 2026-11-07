@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year3
 sources:
-  - "[[Reyou|Reyou]]"
+  - "[[Reyou (résumé)|Reyou]]"
 maj: 2026-11-06
 ---
 

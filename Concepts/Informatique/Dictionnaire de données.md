@@ -2,11 +2,11 @@
 type: concept
 tags: [year3]
 aliases: [data dictionary, dictionnaire des données]
-sources: ["[[Cours 1 et 2 - Database]]", ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"]
 maj: 2026-11-06
 ---
 
-Première étape de la méthode MERISE : lister les données non décomposables, avec pour chacune son nom, son type, si elle peut être nulle, ses autres caractéristiques et sa valeur par défaut ([[Cours 1 et 2 - Database]]).
+Première étape de la méthode MERISE : lister les données non décomposables, avec pour chacune son nom, son type, si elle peut être nulle, ses autres caractéristiques et sa valeur par défaut ([[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]).
 
 Le rapport du projet étudiant Ligue Football ajoute à chaque donnée son domaine, sa contrainte et un exemple.
 

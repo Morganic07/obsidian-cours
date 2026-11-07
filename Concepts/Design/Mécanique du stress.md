@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year2]
 aliases: [niveaux du stress, cerveau primitif]
-sources: ["[[Dernier cours]]", "[[corps à l'oeuvre - cours]]"]
+sources: ["[[Dernière séance (résumé)|Dernier cours]]", "[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]"]
 maj: 2026-11-06
 ---
 

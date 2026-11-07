@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, nomme]
 aliases: []
-sources: ["[[Helloartup]]"]
+sources: ["[[Helloartup (résumé)|Helloartup]]"]
 maj: 2026-11-06
 ---
 

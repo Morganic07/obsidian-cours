@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3, nomme]
 aliases: [adresse IPv6, inet6]
 matieres: [Operating System, Computer Network]
-sources: ["[[Cours TP3]]", "[[Chp5 - NAT ／ PAT]]"]
+sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-06
 ---
 
@@ -16,6 +16,6 @@ Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[Interface réseau]].
 
 ## À vérifier
 
-- Le nombre d'adresses IPv4 diffère selon les sources : 4,3 milliards dans 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`), 4,2 milliards dans [[Chp5 - NAT ／ PAT]].
+- Le nombre d'adresses IPv4 diffère selon les sources : 4,3 milliards dans 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]), 4,2 milliards dans [[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]].
 
 Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[Chp5 - NAT ／ PAT (résumé)]]

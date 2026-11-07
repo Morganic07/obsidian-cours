@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [séries entières, power series, rayon de convergence, radius of convergence, intervalle de convergence, série de Taylor, série de Maclaurin, Taylor series, Maclaurin series, série binomiale, polynôme de Taylor, Taylor polynomial]
 matieres: [Séries]
-sources: ["[[Chp5 - power series]]"]
+sources: ["[[Chp5 - power series (résumé)|Chp5 - power series]]"]
 maj: 2026-11-06
 ---
 
@@ -17,7 +17,7 @@ Voir aussi : [[Développement limité]], [[Convergence uniforme]], [[Série num�
 
 ## À vérifier
 
-- [[Chp5 - power series]] annonce une précision de $10^{-2}$ sur $\pi$ pour $n \ge 49$ : c'est sur $\pi/4$, il faut $n \ge 199$ pour $\pi$ (à corriger avant un examen).
+- [[Chp5 - power series (résumé)|Chp5 - power series]] annonce une précision de $10^{-2}$ sur $\pi$ pour $n \ge 49$ : c'est sur $\pi/4$, il faut $n \ge 199$ pour $\pi$ (à corriger avant un examen).
 - « $R_{\lambda a} = R_a$ » est faux pour $\lambda = 0$ (série nulle, $R = +\infty$).
 
 Résumé : [[Chp5 - power series (résumé)]]

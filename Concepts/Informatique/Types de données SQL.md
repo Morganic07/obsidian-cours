@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [types SQL, VARCHAR, DECIMAL, BLOB, ENUM, TIMESTAMP, DATETIME, SQL data types]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]", ".raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [diagonal matrix, matrices diagonales, matrice identité, identity matrix, I_n]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0b - Matrix algebra]]"]
+sources: ["[[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"]
 maj: 2026-11-06
 ---
 

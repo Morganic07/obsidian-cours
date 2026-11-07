@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Topo ELBA|Topo ELBA]]"
+  - "[[Raw/Year 1/Projet design/ELBA/Topo ELBA.docx|Topo ELBA]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Topo ELBA|Topo ELBA]], dans [[Projet design (Year 1) (matière)]]. Dossier de recherche en grande partie fait d'images transcrites (diapositives du brief), avec quelques notes de l'équipe. Les légendes trop petites sont signalées « À vérifier » dans la note.
+Résumé de [[Raw/Year 1/Projet design/ELBA/Topo ELBA.docx|Topo ELBA]], dans [[Projet design (Year 1) (matière)]]. Dossier de recherche en grande partie fait d'images transcrites (diapositives du brief), avec quelques notes de l'équipe. Les légendes trop petites sont signalées « À vérifier » dans la note.
 
 ## 1. Le groupe ELBA (l'agence)
 

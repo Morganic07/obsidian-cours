@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[TP5|TP5 (DM)]]"
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5.docx|TP5 (DM)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[TP5|TP5 (DM)]], dans [[Operating System (matière)]]. C'est la version rendue du TP5 (Task 1, questions a à h) : même contenu que [[Cours TP5]] (voir [[Séance TP5 (résumé)]]), avec en plus le tableau des variables prédéfinies d'AWK issu de la page de manuel, mais sans la partie sur `log.txt`. Le TP apprend à manipuler des fichiers en colonnes avec [[AWK]]. Réponses de l'étudiante, captures du terminal intégrées.
+Résumé de [[Raw/Year 2/Operating System/DM/TP5/TP5.docx|TP5 (DM)]], dans [[Operating System (matière)]]. C'est la version rendue du TP5 (Task 1, questions a à h) : même contenu que [[Séance TP5 (résumé)|Cours TP5]] (voir [[Séance TP5 (résumé)]]), avec en plus le tableau des variables prédéfinies d'AWK issu de la page de manuel, mais sans la partie sur `log.txt`. Le TP apprend à manipuler des fichiers en colonnes avec [[AWK]]. Réponses de l'étudiante, captures du terminal intégrées.
 
 ## a. À quoi sert AWK ?
 

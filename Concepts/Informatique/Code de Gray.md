@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [codes de Gray, Gray code]
-sources: ["[[explications DM d'algo]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
 maj: 2026-11-06
 ---
 

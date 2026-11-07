@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf"]
+sources: ["[[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF Projet-Arbre-AVL-ID2 (`.raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf`) (2 pages), sujet de projet du module « Algorithmique et programmation 3 », groupe Preing2-ID, 2024-2025, dans [[Algo (matière)]].
+Résumé du PDF Projet-Arbre-AVL-ID2 ([[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2.pdf]]) (2 pages), sujet de projet du module « Algorithmique et programmation 3 », groupe Preing2-ID, 2024-2025, dans [[Algo (matière)]].
 
 ## Introduction du sujet
 

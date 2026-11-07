@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[liberté et moralité|liberté et moralité]]"
+  - "[[Raw/Year 1/Philosophie/liberté et moralité .docx|liberté et moralité]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[liberté et moralité|liberté et moralité]], dans [[Philosophie (matière)]]. Cours du 04/03/24. En cas d'écart, le cours fait foi. La note est une prise de notes d'étudiant ; elle ne contient aucune image, seulement le texte d'un dessin.
+Résumé de [[Raw/Year 1/Philosophie/liberté et moralité .docx|liberté et moralité]], dans [[Philosophie (matière)]]. Cours du 04/03/24. En cas d'écart, le cours fait foi. La note est une prise de notes d'étudiant ; elle ne contient aucune image, seulement le texte d'un dessin.
 
 ## Liberté relative
 

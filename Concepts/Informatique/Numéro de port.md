@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [port number, numéros de port, ports de couche 4, Layer 4 ports]
-sources: ["[[Chp5 - NAT ／ PAT]]", "[[chp6 - Access Control List]]"]
+sources: ["[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]", "[[chp6 - Access Control List (résumé)|chp6 - Access Control List]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [plan complexe, géométrie dans le plan complexe]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 5 - Complexes]]"]
+sources: ["[[Chapitre 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 

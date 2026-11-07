@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF Chapitre4-Preing2ID (`.raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf`) (63 diapositives, « Chapitre 4 : Les arbres binaires », groupe Preing2 ID, 2024-2025, format beamer avec animations), dans [[Algo (matière)]]. Les exemples sont en [[Langage Python|Python]].
+Résumé du PDF Chapitre4-Preing2ID ([[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]) (63 diapositives, « Chapitre 4 : Les arbres binaires », groupe Preing2 ID, 2024-2025, format beamer avec animations), dans [[Algo (matière)]]. Les exemples sont en [[Langage Python|Python]].
 
 ## Idée générale
 

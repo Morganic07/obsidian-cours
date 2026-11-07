@@ -11,10 +11,10 @@ aliases:
   - équation vectorielle
   - poids d'une combinaison linéaire
 sources:
-  - "[[Chp 0a - Linear combination]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[chp3|chp3 (Algèbre)]]"
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
+  - "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp3 (résumé)|chp3 (Algèbre)]]"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

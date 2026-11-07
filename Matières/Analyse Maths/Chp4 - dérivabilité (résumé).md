@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Chp4 - dérivabilité]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chp4 - dérivabilité.docx|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 - dérivabilité]], dans [[Analyse Maths (matière)]] : dérivabilité en un point, opérations sur les dérivées, classes $\mathcal{C}^n$, extremums, théorème de Rolle, accroissements finis, fonctions lipschitziennes et règle de l'Hôpital. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Analyse Maths/Cours/Chp4 - dérivabilité.docx|Chp4 - dérivabilité]], dans [[Analyse Maths (matière)]] : dérivabilité en un point, opérations sur les dérivées, classes $\mathcal{C}^n$, extremums, théorème de Rolle, accroissements finis, fonctions lipschitziennes et règle de l'Hôpital. En cas d'écart, le cours et ses images font foi.
 
 ## La base
 

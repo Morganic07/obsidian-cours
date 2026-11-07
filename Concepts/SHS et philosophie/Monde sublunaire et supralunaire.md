@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [monde sublunaire, monde supralunaire, sublunaire, supralunaire]
 matieres: [Philosophie]
-sources: ["[[philo 2]]"]
+sources: ["[[philo 2 (résumé)|philo 2]]"]
 maj: 2026-11-06
 ---
 

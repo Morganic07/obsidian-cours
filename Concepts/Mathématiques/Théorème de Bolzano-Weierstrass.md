@@ -3,7 +3,7 @@ type: concept
 tags: [year1, nomme]
 aliases: [Bolzano-Weierstrass]
 matieres: [Analyse Maths]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]"]
 maj: 2026-11-06
 ---
 

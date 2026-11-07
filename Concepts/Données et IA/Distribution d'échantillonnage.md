@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [sampling distribution, loi d'échantillonnage, distribution d'échantillonnage de la moyenne, erreur type de la moyenne, standard error of the mean, facteur de correction pour population finie]
 matieres: [Statistics]
-sources: ["[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 
@@ -19,6 +19,6 @@ Liens : [[Estimateur]], [[Théorème central limite]], [[Échantillonnage]], [[T
 
 ## À vérifier
 
-- [[Chp4 Part 1 - Inferential statistics]] écrit « So far, we have worked with the assumption of a finite population » avant d'introduire le facteur de correction : il faut lire « infinie ».
+- [[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]] écrit « So far, we have worked with the assumption of a finite population » avant d'introduire le facteur de correction : il faut lire « infinie ».
 
 Résumés : [[Chp4 Part 1 - Inferential statistics (résumé)]], [[Chp4 Part3 - Inferential statistics (résumé)]]

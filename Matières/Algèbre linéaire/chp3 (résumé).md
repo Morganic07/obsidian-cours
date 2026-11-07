@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[chp3|chp3 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp3.docx|chp3 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp3|chp3 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 3, méthode du pivot de Gauss. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp3.docx|chp3 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 3, méthode du pivot de Gauss. En cas d'écart, le cours et ses images font foi.
 
 ## Méthode du pivot de Gauss
 

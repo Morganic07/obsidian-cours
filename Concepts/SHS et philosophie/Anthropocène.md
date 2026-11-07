@@ -13,9 +13,9 @@ matieres:
   - Culture du vivant
   - SHS
 sources:
-  - "[[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]"
-  - ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"
-  - ".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"
+  - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
+  - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
 maj: 2026-11-06
 ---
 

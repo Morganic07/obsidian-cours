@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [uniform convergence, convergence simple, pointwise convergence, convergence normale, normal convergence, norme uniforme, suite de fonctions, séries de fonctions, critère de Weierstrass, Weierstrass M-test]
 matieres: [Séries]
-sources: ["[[Chp3 - Sequence of function]]", "[[Chp4 - Series of functions]]"]
+sources: ["[[Chp3 - Sequence of function (résumé)|Chp3 - Sequence of function]]", "[[Chp4 - Series of functions (résumé)|Chp4 - Series of functions]]"]
 maj: 2026-11-06
 ---
 

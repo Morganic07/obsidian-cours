@@ -4,7 +4,7 @@ tags:
   - year1
 aliases: []
 sources:
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 

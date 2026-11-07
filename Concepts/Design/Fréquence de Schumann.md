@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [résonance de Schumann]
-sources: ["[[exposé melvita]]"]
+sources: ["[[exposé melvita (résumé)|exposé melvita]]"]
 maj: 2026-11-06
 ---
 

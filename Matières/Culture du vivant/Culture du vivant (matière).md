@@ -4,10 +4,10 @@ tags:
   - year3
   - year4
 sources:
-  - "[[Culture du vivant|Culture du vivant (Y3)]]"
-  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
-  - "[[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]"
-  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
+  - "[[Culture du vivant (résumé)|Culture du vivant (Y3)]]"
+  - "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]"
+  - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -21,9 +21,9 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Culture du vivant\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[Culture du vivant (résumé)\|Résumé]] |
-| [[Culture Vivant COURS 2 EXPLICATION\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Résumé]] |
-| [[Culture du vivant Dernier cours\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[Culture du vivant Dernière séance (résumé)\|Résumé]] |
+| [[Culture du vivant (résumé)\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[Culture du vivant (résumé)\|Résumé]] |
+| [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Résumé]] |
+| [[Culture du vivant Dernière séance (résumé)\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[Culture du vivant Dernière séance (résumé)\|Résumé]] |
 
 ### Documents PDF
 
@@ -63,7 +63,7 @@ Culture du vivant de 4e année : technique, capitalisme et numérique. Une seule
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Culture du vivant - prise de note\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[Culture du vivant - prise de note (résumé)\|Résumé]] |
+| [[Culture du vivant - prise de note (résumé)\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[Culture du vivant - prise de note (résumé)\|Résumé]] |
 
 ### Concepts
 

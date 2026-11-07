@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[Raw/Year 3/Computer Network/Chp4 :  VLAN ／ IVR Commands.docx|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 - VLAN ／ IVR Commands]], dans [[Computer Network (matière)]] : définitions (routeur, commutateur, VLAN, liens *access* et *trunk*), commandes de création des VLAN, d'affectation des ports, de lien *trunk*, et routage inter-VLAN (IVR) sur un routeur. Cours en anglais, sans image. Voir [[VLAN]].
+Résumé de [[Raw/Year 3/Computer Network/Chp4 :  VLAN ／ IVR Commands.docx|Chp4 - VLAN ／ IVR Commands]], dans [[Computer Network (matière)]] : définitions (routeur, commutateur, VLAN, liens *access* et *trunk*), commandes de création des VLAN, d'affectation des ports, de lien *trunk*, et routage inter-VLAN (IVR) sur un routeur. Cours en anglais, sans image. Voir [[VLAN]].
 
 ## Définitions
 

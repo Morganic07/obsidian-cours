@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [factorielles, factorial]
 matieres: [Analyse Maths, Algo Maths, Operating System, Algo, Probability]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[explications DM d'algo]]", "[[Copy of 08 Processes-TP]]", "[[Chp1 - récursivité et complexité]]", "[[Chp 3 - Combinatorics]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[explications DM d'algo (résumé)|explications DM d'algo]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]", "[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]", "[[Chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
 maj: 2026-11-06
 ---
 

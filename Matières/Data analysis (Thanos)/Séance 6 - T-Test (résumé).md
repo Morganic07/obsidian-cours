@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 6 - T-Test]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 6 : T-Test.docx|Cours 6 - T-Test]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 6 - T-Test]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 6 : T-Test.docx|Cours 6 - T-Test]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

@@ -3,11 +3,11 @@ type: concept
 tags: [year4]
 aliases: [PIB, PNB, produit national brut, produit national]
 matieres: [Gestion financière]
-sources: ["[[Gestion financière]]"]
+sources: ["[[Gestion financière (résumé)|Gestion financière]]"]
 maj: 2026-11-06
 ---
 
-D'après la note de [[Gestion financière]], le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France, le PNB seulement les entreprises françaises en France.
+D'après la note de [[Gestion financière (résumé)|Gestion financière]], le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France, le PNB seulement les entreprises françaises en France.
 
 Voir aussi : [[Tableau économique d'ensemble]].
 

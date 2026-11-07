@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [écologie industrielle, Kalundborg, symbiose industrielle]
 matieres: [Culture du vivant]
-sources: ["[[Culture du vivant Dernier cours]]"]
+sources: ["[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]"]
 maj: 2026-11-06
 ---
 

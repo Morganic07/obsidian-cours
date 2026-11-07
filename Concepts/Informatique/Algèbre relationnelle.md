@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [projection, restriction, jointure naturelle, jointure, division relationnelle, opérateurs relationnels, renommage d'attributs, opérateurs ensemblistes, union relationnelle, différence relationnelle]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 3 - opérateurs et SQL]]"]
+sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
 maj: 2026-11-06
 ---
 

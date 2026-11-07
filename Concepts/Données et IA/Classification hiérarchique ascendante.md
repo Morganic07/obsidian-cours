@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [classification hiérarchique, hierarchical clustering, dendrogramme, dendrogram, saut minimal, saut maximal, minimal jump]
 matieres: [data mining]
-sources: [".raw/Year 4/data mining/cours data mining du prof.pdf", "[[Chp1 - intro to data mining]]"]
+sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]", "[[Chp1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
 maj: 2026-11-06
 ---
 

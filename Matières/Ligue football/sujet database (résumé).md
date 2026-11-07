@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: [".raw/Year 3/ligue football/for me/sujet database.pdf"]
+sources: ["[[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF sujet database (`.raw/Year 3/ligue football/for me/sujet database.pdf`) (2 pages, version 1.1 du 13 mai 2026), sujet de la SAÉ « Relational Database », ID3 semestre 2, 2025-2026, dans [[Ligue football (matière)]]. Le projet réalisé est résumé dans [[Rapport du projet Ligue Football (résumé)]].
+Résumé du PDF sujet database ([[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]) (2 pages, version 1.1 du 13 mai 2026), sujet de la SAÉ « Relational Database », ID3 semestre 2, 2025-2026, dans [[Ligue football (matière)]]. Le projet réalisé est résumé dans [[Rapport du projet Ligue Football (résumé)]].
 
 ## Préambule
 

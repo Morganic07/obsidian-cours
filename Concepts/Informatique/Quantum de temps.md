@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [time slice, tranche de temps, time slice expired]
-sources: ["[[OS - chp7]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

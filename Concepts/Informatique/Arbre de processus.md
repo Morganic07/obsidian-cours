@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [tree of processes, process tree]
-sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 ---
 

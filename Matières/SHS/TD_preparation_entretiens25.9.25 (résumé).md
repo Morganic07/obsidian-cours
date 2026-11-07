@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: [".raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---

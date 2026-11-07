@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [dénombrable, countable, uncountable, indénombrable, countable set]
 matieres: [Probability]
-sources: ["[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 

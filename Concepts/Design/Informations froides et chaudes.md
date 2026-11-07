@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [informations froides, informations chaudes]
-sources: ["[[corps à l'oeuvre - cours]]"]
+sources: ["[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]"]
 maj: 2026-11-06
 ---
 

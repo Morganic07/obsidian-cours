@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 0d - Vector Space]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0d - Vector Space.docx|Chp 0d - Vector Space]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 0d - Vector Space]] (« Chapter 0d - Vectors »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0d - Vector Space.docx|Chp 0d - Vector Space]] (« Chapter 0d - Vectors »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 
@@ -149,7 +149,7 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > **Théorème du rang** ([[Théorème du rang|rank theorem]]) : si $A$ a $n$ colonnes,
 > $$\text{rank}\,A + \dim \text{Nul}\,A = n.$$
 
-> **Théorème de la matrice inversible (suite)** : $A$ de taille $n \times n$. Chacun des énoncés suivants équivaut à « $A$ est inversible » (voir [[Invertible matrix theorem]]) :
+> **Théorème de la matrice inversible (suite)** : $A$ de taille $n \times n$. Chacun des énoncés suivants équivaut à « $A$ est inversible » (voir [[Invertible matrix theorem (résumé)|Invertible matrix theorem]]) :
 > m. les colonnes de $A$ forment une base de $\mathbb R^n$ ;
 > n. $\text{Col}\,A = \mathbb R^n$ ;
 > o. $\dim \text{Col}\,A = n$ ;
@@ -171,6 +171,6 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 
 Rien n'a été corrigé dans le cours.
 
-1. **Dixième axiome** : image lue directement, elle s'arrête à l'axiome 9, alors que le texte annonce dix axiomes. Le manquant est $1\mathbf{u} = \mathbf{u}$ : il figure dans les propriétés de $\mathbb{R}^n$ de [[Chp 0a - Linear combination]] et dans la définition de [[chp1|chp1 (Algèbre)]].
+1. **Dixième axiome** : image lue directement, elle s'arrête à l'axiome 9, alors que le texte annonce dix axiomes. Le manquant est $1\mathbf{u} = \mathbf{u}$ : il figure dans les propriétés de $\mathbb{R}^n$ de [[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]] et dans la définition de [[chp1 (résumé)|chp1 (Algèbre)]].
 2. **Figure du row space** : l'image est coupée à droite et en bas ; la phrase « $A^T$ v… » et la formule $A^T\mathbf w = w_1(1,2) + w_2 \ldots$ sont incomplètes (mention « À vérifier » de la transcription). L'étiquette « Left Null Space » pointe l'origine sur une figure de $\mathbb R^3$, alors que $\text{Nul}\,A^T$ est un sous-espace de $\mathbb R^m = \mathbb R^2$ (complément).
 3. **Propriété du null space** : la phrase « the number of vectors in the spanning set » sous-entend la famille génératrice obtenue par la forme paramétrique ; le cours ne précise pas laquelle (complément).

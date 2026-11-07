@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [base incomplète]
-sources: ["[[chp1]]"]
+sources: ["[[chp1 (résumé)|chp1]]"]
 maj: 2026-11-06
 ---
 

@@ -8,11 +8,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : le cours affirme que les IA reposent sur des TPU, et non sur des CPU ou des GPU.
+Nommé dans [[Séance 1 - IA (résumé)|Cours 1 (IA)]] sans définition : le cours affirme que les IA reposent sur des TPU, et non sur des CPU ou des GPU.
 
 Voir aussi : [[Consommation énergétique de l'IA]].
 

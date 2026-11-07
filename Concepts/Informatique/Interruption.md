@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [interrupt, interrupts, interruption matérielle, ISR, interrupt service routine, vecteur d'interruption, interrupt request]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

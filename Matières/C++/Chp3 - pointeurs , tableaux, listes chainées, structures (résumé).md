@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[C++ (matière)]]. Le code est du [[Langage C|C]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[C++ (matière)]]. Le code est du [[Langage C|C]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

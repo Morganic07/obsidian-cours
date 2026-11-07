@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cron, crontab, cron job, cron jobs, tâche cron, crontab -e, crontab -l, crontab -r, cron table]
 matieres: [Operating System]
-sources: ["[[Cours TP4]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf", ".raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf"]
+sources: ["[[Séance TP4 (résumé)|Cours TP4]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]", "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"]
 maj: 2026-11-06
 ---
 

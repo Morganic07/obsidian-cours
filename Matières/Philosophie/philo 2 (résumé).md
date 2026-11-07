@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[philo 2|philo 2]]"
+  - "[[Raw/Year 2/Philosophie/philo 2.docx|philo 2]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[philo 2|philo 2]], dans [[Philosophie (matière)]]. Titre : « Horizon moderne de la technique comme maîtrise de la nature ». La note ne contient aucune image.
+Résumé de [[Raw/Year 2/Philosophie/philo 2.docx|philo 2]], dans [[Philosophie (matière)]]. Titre : « Horizon moderne de la technique comme maîtrise de la nature ». La note ne contient aucune image.
 
 ## 1. L'imitation de la nature : un principe ancien
 

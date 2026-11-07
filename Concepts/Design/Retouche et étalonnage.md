@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [photo retouching, color correction, colour correction, retouche photo, étalonnage]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

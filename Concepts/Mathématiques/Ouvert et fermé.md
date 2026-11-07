@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [ouvert, ouverts, fermé, fermés]
 matieres: [Analyse dans Rn]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 

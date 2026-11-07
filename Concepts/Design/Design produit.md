@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [product design, design de produit]
-sources: ["[[Topo ELBA]]"]
+sources: ["[[Topo ELBA (résumé)|Topo ELBA]]"]
 maj: 2026-11-06
 ---
 

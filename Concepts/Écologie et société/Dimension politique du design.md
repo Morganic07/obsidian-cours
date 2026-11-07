@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [tout design est politique]
-sources: ["[[Culture du vivant - prise de note]]"]
+sources: ["[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"]
 maj: 2026-11-06
 ---
 

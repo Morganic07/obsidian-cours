@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [ZAN, loi Climat et Résilience, artificialisation des sols]
 matieres: [Culture du vivant]
-sources: ["[[Culture du vivant Dernier cours]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
+sources: ["[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]", "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"]
 maj: 2026-11-06
 ---
 

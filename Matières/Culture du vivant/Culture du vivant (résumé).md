@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[Raw/Year 3/Culture du vivant/Culture du vivant.docx|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Culture du vivant|Culture du vivant]] (3e année), dans [[Culture du vivant (matière)]]. La note ne contient aucun texte : ce sont huit images, toutes transcrites. Elles forment un parcours : l'état émotionnel face à l'effondrement, les modèles de croissance, l'empreinte écologique, la biodiversité, les limites planétaires, puis une consigne de synthèse.
+Résumé de [[Raw/Year 3/Culture du vivant/Culture du vivant.docx|Culture du vivant]] (3e année), dans [[Culture du vivant (matière)]]. La note ne contient aucun texte : ce sont huit images, toutes transcrites. Elles forment un parcours : l'état émotionnel face à l'effondrement, les modèles de croissance, l'empreinte écologique, la biodiversité, les limites planétaires, puis une consigne de synthèse.
 
 ## 1. Collapsologie et courbe de deuil
 

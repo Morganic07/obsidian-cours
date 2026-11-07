@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du support du professeur Chapitre 4 - Fonctions (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf`) (25 diapositives, « Outils Mathématiques - Semestre 1 - 2023 », sous-titre « Fonctions injectives, surjectives, bijectives — Ensembles et fonctions »), dans [[Outil Maths (matière)]]. Ce chapitre n'existe qu'en PDF. Il prolonge [[Chapitre 3 - Relation binaire (résumé)]] (une fonction est une relation binaire) et [[Chapitre2-Ensemble (4) (résumé)]]. Les propriétés d'injectivité et de surjectivité sont reprises, pour les applications linéaires, dans [[Injectivité et surjectivité]]. Les exercices du support sont posés sans correction.
+Résumé du support du professeur Chapitre 4 - Fonctions (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]) (25 diapositives, « Outils Mathématiques - Semestre 1 - 2023 », sous-titre « Fonctions injectives, surjectives, bijectives — Ensembles et fonctions »), dans [[Outil Maths (matière)]]. Ce chapitre n'existe qu'en PDF. Il prolonge [[Chapitre 3 - Relation binaire (résumé)]] (une fonction est une relation binaire) et [[Chapitre2-Ensemble (4) (résumé)]]. Les propriétés d'injectivité et de surjectivité sont reprises, pour les applications linéaires, dans [[Injectivité et surjectivité]]. Les exercices du support sont posés sans correction.
 
 ## Introduction
 

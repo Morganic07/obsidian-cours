@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 3 - Limite et continuité d’applications]]"]
+sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 3 : Limite et continuité d’applications.docx|Chp 3 - Limite et continuité d’applications]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 3 - Limite et continuité d’applications]] (« Chapitre 3 : Limite et continuité d'applications »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 3 : Limite et continuité d’applications.docx|Chp 3 - Limite et continuité d’applications]] (« Chapitre 3 : Limite et continuité d'applications »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

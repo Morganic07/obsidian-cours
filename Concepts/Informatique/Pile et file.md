@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [LIFO, FIFO, last in first out, first in first out, empiler, dépiler, enfiler, défiler, push et pop, sommet de pile, lireSommet]
 matieres: [Algo]
-sources: ["[[chp2 - piles listes file]]", "[[Chp1 - récursivité et complexité]]"]
+sources: ["[[chp2 - piles listes file (résumé)|chp2 - piles listes file]]", "[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"]
 maj: 2026-11-06
 ---
 
@@ -24,6 +24,6 @@ Liens : [[Liste chaînée]], [[Récursivité]]
 
 ## À vérifier
 
-- Le tableau de [[chp2 - piles listes file]] dit la file « insérée et retirée aux 2 extrémités », formulation imprécise : on insère à l'arrière et on retire à l'avant.
+- Le tableau de [[chp2 - piles listes file (résumé)|chp2 - piles listes file]] dit la file « insérée et retirée aux 2 extrémités », formulation imprécise : on insère à l'arrière et on retire à l'avant.
 
 Résumés : [[chp2 - piles listes file (résumé)]], [[Chp1 - récursivité et complexité (résumé)]]

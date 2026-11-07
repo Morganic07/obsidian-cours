@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [sort -g]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", "[[Cours TP2]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Séance TP2 (résumé)|Cours TP2]]"]
 maj: 2026-11-06
 ---
 

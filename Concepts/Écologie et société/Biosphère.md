@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [biosphere]
 matieres: [Culture du vivant]
-sources: ["[[Culture Vivant COURS 2 EXPLICATION]]", ".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf"]
+sources: ["[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]", "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"]
 maj: 2026-11-06
 ---
 

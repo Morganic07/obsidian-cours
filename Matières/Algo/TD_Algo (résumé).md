@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[TD_Algo]]"]
+sources: ["[[Raw/Year 2/Algo/DM/TD_Algo.docx|TD_Algo]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[TD_Algo]], dans [[Algo (matière)]]. Note de TD très courte : du code [[Langage Python|Python]] sans énoncé, qui dessine des motifs avec le caractère `#`. L'indentation a été perdue à la conversion : elle est reconstituée ci-dessous d'après la logique du code.
+Résumé de [[Raw/Year 2/Algo/DM/TD_Algo.docx|TD_Algo]], dans [[Algo (matière)]]. Note de TD très courte : du code [[Langage Python|Python]] sans énoncé, qui dessine des motifs avec le caractère `#`. L'indentation a été perdue à la conversion : elle est reconstituée ci-dessous d'après la logique du code.
 
 Le fichier commence par `from math import *` (pour `ceil` et `floor`, voir [[Partie entière]]).
 

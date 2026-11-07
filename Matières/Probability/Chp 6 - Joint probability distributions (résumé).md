@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 6 - Joint probability distributions]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 6 : Joint probability distributions.docx|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 6 - Joint probability distributions]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés donnés en images sont recopiés ; seule la figure des nuages de points est intégrée (l'icône d'avertissement est décorative).
+Résumé de [[Raw/Year 2/Probability/Chp 6 : Joint probability distributions.docx|Chp 6 - Joint probability distributions]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés donnés en images sont recopiés ; seule la figure des nuages de points est intégrée (l'icône d'avertissement est décorative).
 
 ## Idée générale
 

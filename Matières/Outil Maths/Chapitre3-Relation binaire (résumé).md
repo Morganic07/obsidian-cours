@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du support du professeur Chapitre 3 - Relation binaire (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf`) (28 diapositives, Outils Mathématiques, semestre 1, novembre 2023), dans [[Outil Maths (matière)]]. Version du professeur du cours déjà résumé dans [[Chapitre 3 - Relation binaire (résumé)]]. Notions : [[Relation binaire]], [[Relation d'équivalence]], [[Relation d'ordre]]. La page de titre porte « Chapitre 3-Ensemble Binaire » (coquille pour « Relation binaire »).
+Résumé du support du professeur Chapitre 3 - Relation binaire (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]) (28 diapositives, Outils Mathématiques, semestre 1, novembre 2023), dans [[Outil Maths (matière)]]. Version du professeur du cours déjà résumé dans [[Chapitre 3 - Relation binaire (résumé)]]. Notions : [[Relation binaire]], [[Relation d'équivalence]], [[Relation d'ordre]]. La page de titre porte « Chapitre 3-Ensemble Binaire » (coquille pour « Relation binaire »).
 
 ## 1. Motivation : des équivalences partout (diapositive 2)
 

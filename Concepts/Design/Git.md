@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [contrôle de version, contrôle de version décentralisé]
 matieres: [management de l'innovationb, SHS]
-sources: ["[[Douze innovations (résumé)]]", "[[SHS Recherches-Morgane]]"]
+sources: ["[[Douze innovations (résumé)]]", "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"]
 maj: 2026-11-06
 ---
 

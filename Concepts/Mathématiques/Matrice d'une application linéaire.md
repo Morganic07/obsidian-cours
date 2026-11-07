@@ -8,8 +8,8 @@ aliases:
   - standard matrix
   - matrice standard
 sources:
-  - "[[chp4]]"
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]"
+  - "[[chp4 (résumé)|chp4]]"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre Linéaire)]]"
 maj: 2026-11-06
 ---
 

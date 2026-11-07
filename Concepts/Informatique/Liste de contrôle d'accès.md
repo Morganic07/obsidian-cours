@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [ACL, ACLs, Access Control List, access-list, wildcard mask, masque générique, ACE, refus implicite, implicit deny, ACL standard, ACL étendue, standard ACL, extended ACL, ip access-group, inbound, outbound]
 matieres: [Computer Network]
-sources: ["[[chp6 - Access Control List]]", "[[Chp5 - NAT ／ PAT]]"]
+sources: ["[[chp6 - Access Control List (résumé)|chp6 - Access Control List]]", "[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-06
 ---
 

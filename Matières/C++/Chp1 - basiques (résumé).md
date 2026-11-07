@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Chp1 - basiques]]"]
+sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp1 - basiques]], dans [[C++ (matière)]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], dans [[C++ (matière)]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

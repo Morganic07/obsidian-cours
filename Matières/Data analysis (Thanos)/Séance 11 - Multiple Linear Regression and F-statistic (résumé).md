@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 11 : Multiple Linear Regression and F-statistic.docx|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 11 - Multiple Linear Regression and F-statistic]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 11 : Multiple Linear Regression and F-statistic.docx|Cours 11 - Multiple Linear Regression and F-statistic]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

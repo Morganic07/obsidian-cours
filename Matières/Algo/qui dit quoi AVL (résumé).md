@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[qui dit quoi AVL]]"]
+sources: ["[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[qui dit quoi AVL]], dans [[Algo (matière)]]. Scénario parlé d'un exposé étudiant de 20 diapositives sur les [[Arbre AVL|arbres AVL]], avec le partage de la parole entre trois intervenants (noms non repris ici). Le contenu vient donc des étudiants, pas de l'enseignant. En cas d'écart, le cours et ses images font foi. Le projet correspondant est [[Projet-Arbre-AVL-ID2 (résumé)|Projet-Arbre-AVL-ID2]] ; voir aussi [[AVL momo (résumé)|AVL momo]] et [[ARBRE AVL (résumé)|ARBRE AVL]].
+Résumé de [[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]], dans [[Algo (matière)]]. Scénario parlé d'un exposé étudiant de 20 diapositives sur les [[Arbre AVL|arbres AVL]], avec le partage de la parole entre trois intervenants (noms non repris ici). Le contenu vient donc des étudiants, pas de l'enseignant. En cas d'écart, le cours et ses images font foi. Le projet correspondant est [[Projet-Arbre-AVL-ID2 (résumé)|Projet-Arbre-AVL-ID2]] ; voir aussi [[AVL momo (résumé)|AVL momo]] et [[ARBRE AVL (résumé)|ARBRE AVL]].
 
 ## Répartition de l'exposé
 

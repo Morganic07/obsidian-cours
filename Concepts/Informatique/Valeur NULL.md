@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [NOT NULL, nullabilité, valeur nulle]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]"]
 maj: 2026-11-06
 ---
 

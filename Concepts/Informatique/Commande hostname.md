@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [sudo hostname, hostname -f, hostname -I]
-sources: ["[[cours TP1]]", "[[TP1]]", "[[TP3 - PINA Morgane|TP3]]"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]", "[[TP3 (résumé)|TP3]]"]
 maj: 2026-11-06
 ---
 

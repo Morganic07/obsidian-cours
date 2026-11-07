@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [symbole somme, symbole produit, symboles sigma et pi, indice muet]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]"]
 maj: 2026-11-06
 ---
 

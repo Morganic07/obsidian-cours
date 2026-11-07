@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [sac à dos, knapsack, knapsack problem]
 matieres: [Algo Maths]
-sources: ["[[explications DM d'algo]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
 maj: 2026-11-06
 ---
 
@@ -17,6 +17,6 @@ Voir aussi : [[Recherche exhaustive]], [[Code de Gray]], [[Algorithme glouton]],
 
 ## À vérifier
 
-- Dans [[explications DM d'algo]], le commentaire du code dit que la première ligne donne « la valeur de chaque objet », alors que le code y lit la capacité $P$.
+- Dans [[explications DM d'algo (résumé)|explications DM d'algo]], le commentaire du code dit que la première ligne donne « la valeur de chaque objet », alors que le code y lit la capacité $P$.
 
 Résumé : [[explications DM d'algo (résumé)]]

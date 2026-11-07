@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[Chp1 - Intro to statistics]]", "[[Chp2 - Descriptive statistics]]", "[[Chp3 - More on probability]]", "[[Chp4 Part 1 - Inferential statistics]]", "[[Chp4 Part2 - Inferential statistics]]", "[[Chp4 Part3 - Inferential statistics]]", "[[probabilité statistiques utilitaire]]"]
+sources: ["[[Chp1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]", "[[Chp2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[Chp4 Part2 - Inferential statistics (résumé)|Chp4 Part2 - Inferential statistics]]", "[[Chp4 Part3 - Inferential statistics (résumé)|Chp4 Part3 - Inferential statistics]]", "[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]"]
 maj: 2026-11-06
 ---
 
@@ -11,13 +11,13 @@ Statistique : description de données, compléments de probabilité, estimation 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp1 - Intro to statistics]] | Vocabulaire, échantillonnage | [[Chp1 - Intro to statistics (résumé)\|Résumé]] |
-| [[Chp2 - Descriptive statistics]] | Graphiques, moyenne, variance, quartiles | [[Chp2 - Descriptive statistics (résumé)\|Résumé]] |
-| [[Chp3 - More on probability]] | Combinaisons linéaires, TCL, diagrammes de probabilité | [[Chp3 - More on probability (résumé)\|Résumé]] |
-| [[Chp4 Part 1 - Inferential statistics]] | Estimateurs, distribution d'échantillonnage, loi des grands nombres | [[Chp4 Part 1 - Inferential statistics (résumé)\|Résumé]] |
-| [[Chp4 Part2 - Inferential statistics]] | Intervalle de confiance, $\sigma$ connu | [[Chp4 Part2 - Inferential statistics (résumé)\|Résumé]] |
-| [[Chp4 Part3 - Inferential statistics]] | Student, khi-deux, variance, proportion | [[Chp4 Part3 - Inferential statistics (résumé)\|Résumé]] |
-| [[probabilité statistiques utilitaire]] | Aide-mémoire de formules | [[probabilité statistiques utilitaire (résumé)\|Résumé]] |
+| [[Chp1 - Intro to statistics (résumé)\|Chp1 - Intro to statistics]] | Vocabulaire, échantillonnage | [[Chp1 - Intro to statistics (résumé)\|Résumé]] |
+| [[Chp2 - Descriptive statistics (résumé)\|Chp2 - Descriptive statistics]] | Graphiques, moyenne, variance, quartiles | [[Chp2 - Descriptive statistics (résumé)\|Résumé]] |
+| [[Chp3 - More on probability (résumé)\|Chp3 - More on probability]] | Combinaisons linéaires, TCL, diagrammes de probabilité | [[Chp3 - More on probability (résumé)\|Résumé]] |
+| [[Chp4 Part 1 - Inferential statistics (résumé)\|Chp4 Part 1 - Inferential statistics]] | Estimateurs, distribution d'échantillonnage, loi des grands nombres | [[Chp4 Part 1 - Inferential statistics (résumé)\|Résumé]] |
+| [[Chp4 Part2 - Inferential statistics (résumé)\|Chp4 Part2 - Inferential statistics]] | Intervalle de confiance, $\sigma$ connu | [[Chp4 Part2 - Inferential statistics (résumé)\|Résumé]] |
+| [[Chp4 Part3 - Inferential statistics (résumé)\|Chp4 Part3 - Inferential statistics]] | Student, khi-deux, variance, proportion | [[Chp4 Part3 - Inferential statistics (résumé)\|Résumé]] |
+| [[probabilité statistiques utilitaire (résumé)\|probabilité statistiques utilitaire]] | Aide-mémoire de formules | [[probabilité statistiques utilitaire (résumé)\|Résumé]] |
 
 ## Concepts
 

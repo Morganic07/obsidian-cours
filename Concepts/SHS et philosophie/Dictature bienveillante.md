@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [benevolent dictator]
-sources: ["[[SHS Recherches-Morgane]]"]
+sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"]
 maj: 2026-11-06
 ---
 

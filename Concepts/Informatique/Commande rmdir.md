@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [rmdir]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"]
 maj: 2026-11-06
 ---
 

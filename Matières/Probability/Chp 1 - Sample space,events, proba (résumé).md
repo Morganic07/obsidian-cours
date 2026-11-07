@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 1 : Sample space,events, proba.docx|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 1 - Sample space,events, proba]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les images à formule ou à texte sont recopiées ci-dessous ; les deux figures (diagrammes de Venn, types d'ensembles) sont intégrées.
+Résumé de [[Raw/Year 2/Probability/Chp 1 : Sample space,events, proba.docx|Chp 1 - Sample space,events, proba]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les images à formule ou à texte sont recopiées ci-dessous ; les deux figures (diagrammes de Venn, types d'ensembles) sont intégrées.
 
 ## Idée générale
 

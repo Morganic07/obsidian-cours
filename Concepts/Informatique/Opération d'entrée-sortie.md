@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [I/O operation, "opération d'E/S", "opérations d'E/S", I/O request, "requête d'E/S", entrées-sorties]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp1 - Intro Java]]"]
+sources: ["[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp1 - Intro Java]], dans [[Java (matière)]]. En cas d'écart, le cours et ses images font foi. Voir [[Langage Java]].
+Résumé de [[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]], dans [[Java (matière)]]. En cas d'écart, le cours et ses images font foi. Voir [[Langage Java]].
 
 ## Idée générale
 

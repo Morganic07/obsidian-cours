@@ -2,11 +2,11 @@
 type: concept
 tags: [year3, nomme]
 aliases: [étrange et merveilleux, purement fantastique]
-sources: [".raw/Year 3/SHS/Cours/text2.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/text2.pdf|text2.pdf]]"]
 maj: 2026-11-06
 ---
 
-Nommé dans text2 (`.raw/Year 3/SHS/Cours/text2.pdf`) sans définition développée : Kröger reprend la distinction de Todorov pour la littérature fantastique. La logique culturelle de la voiture autonome se développe entre l'étrange et le merveilleux ; Herbie relève du « purement fantastique ».
+Nommé dans text2 ([[Raw/Year 3/SHS/Cours/text2.pdf|text2.pdf]]) sans définition développée : Kröger reprend la distinction de Todorov pour la littérature fantastique. La logique culturelle de la voiture autonome se développe entre l'étrange et le merveilleux ; Herbie relève du « purement fantastique ».
 
 Voir aussi : [[Voiture autonome]].
 

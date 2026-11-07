@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["Note d'origine dans Cours/Year 4/management de l'innovationb"]
+sources: ["[[Raw/Year 4/management de l'innovationb/innovations - Morgane Pina .docx|Douze innovations]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé d'une note de `Cours/Year 4/management de l'innovationb`, dans [[Management de l'innovation (matière)]]. Devoir maison de l'étudiante : repérer des innovations dans son quotidien et les classer selon la [[Typologie des innovations]] (six types, deux exemples chacun). Le fil conducteur est une journée ordinaire (café, cigarette, code, ordinateur, courses, paiement…). Tout le texte est celui de l'étudiante, appuyé sur des liens (vidéos YouTube, Wikipédia, sites officiels) ; les chiffres cités viennent des sources liées dans la note ; ils ne sont pas vérifiés ici.
+Résumé d'un document Word de `Raw/Year 4/management de l'innovationb` (lien dans `sources`), dans [[Management de l'innovation (matière)]]. Devoir maison de l'étudiante : repérer des innovations dans son quotidien et les classer selon la [[Typologie des innovations]] (six types, deux exemples chacun). Le fil conducteur est une journée ordinaire (café, cigarette, code, ordinateur, courses, paiement…). Tout le texte est celui de l'étudiante, appuyé sur des liens (vidéos YouTube, Wikipédia, sites officiels) ; les chiffres cités viennent des sources liées dans la note ; ils ne sont pas vérifiés ici.
 
 ## Tableau de synthèse
 

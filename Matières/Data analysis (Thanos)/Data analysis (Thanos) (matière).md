@@ -3,21 +3,21 @@ type: matiere
 tags:
   - year3
 sources:
-  - "[[Cours/Year 3/Data analysis (Thanos)/Cours 1|Cours 1 (Data analysis)]]"
-  - "[[Cours 2 - Introduction statistics]]"
-  - "[[Cours 3 - Paradoxe de Simpson]]"
-  - "[[Cours 4 - Estimation]]"
-  - "[[Cours 5 - Hypothesis Testing]]"
-  - "[[Cours 6 - T-Test]]"
-  - "[[Cours 7 - Z-Test]]"
-  - "[[Cours 8 - Chi²-Test]]"
-  - "[[Cours 9 - Covariance and Correlation]]"
-  - "[[Cours 10 - linear regression]]"
-  - "[[Cours 11 - Multiple Linear Regression and F-statistic]]"
-  - "[[Cours 12 - ANOVA and F-statistic]]"
-  - "[[Cours 13 - Principal Components Analysis]]"
-  - "[[Cours 13 - PCA in R]]"
-  - "[[Summary functions in RStudio]]"
+  - "[[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)]]"
+  - "[[Séance 2 - Introduction statistics (résumé)|Cours 2 - Introduction statistics]]"
+  - "[[Séance 3 - Paradoxe de Simpson (résumé)|Cours 3 - Paradoxe de Simpson]]"
+  - "[[Séance 4 - Estimation (résumé)|Cours 4 - Estimation]]"
+  - "[[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]"
+  - "[[Séance 6 - T-Test (résumé)|Cours 6 - T-Test]]"
+  - "[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"
+  - "[[Séance 8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]]"
+  - "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"
+  - "[[Séance 10 - linear regression (résumé)|Cours 10 - linear regression]]"
+  - "[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"
+  - "[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]"
+  - "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
+  - "[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"
+  - "[[Summary functions in RStudio (résumé)|Summary functions in RStudio]]"
 maj: 2026-11-06
 ---
 
@@ -27,21 +27,21 @@ Analyse de données avec R : rappels de statistique, tests d'hypothèse, corrél
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 3/Data analysis (Thanos)/Cours 1\|Cours 1]] | R : structures, fonctions, opérateurs | [[Séance 1 - Data analysis (Thanos) (résumé)\|Résumé]] |
-| [[Cours 2 - Introduction statistics]] | Descriptif et inférentiel, niveaux de mesure | [[Séance 2 - Introduction statistics (résumé)\|Résumé]] |
-| [[Cours 3 - Paradoxe de Simpson]] | Variable cachée | [[Séance 3 - Paradoxe de Simpson (résumé)\|Résumé]] |
-| [[Cours 4 - Estimation]] | Intervalle de confiance | [[Séance 4 - Estimation (résumé)\|Résumé]] |
-| [[Cours 5 - Hypothesis Testing]] | Hypothèses, erreurs, procédure | [[Séance 5 - Hypothesis Testing (résumé)\|Résumé]] |
-| [[Cours 6 - T-Test]] | Loi de Student, test t | [[Séance 6 - T-Test (résumé)\|Résumé]] |
-| [[Cours 7 - Z-Test]] | Tests Z, proportions | [[Séance 7 - Z-Test (résumé)\|Résumé]] |
-| [[Cours 8 - Chi²-Test]] | χ², variance, indépendance | [[Séance 8 - Chi²-Test (résumé)\|Résumé]] |
-| [[Cours 9 - Covariance and Correlation]] | Covariance, Pearson, Spearman, Kendall | [[Séance 9 - Covariance and Correlation (résumé)\|Résumé]] |
-| [[Cours 10 - linear regression]] | Régression simple, résidus | [[Séance 10 - linear regression (résumé)\|Résumé]] |
-| [[Cours 11 - Multiple Linear Regression and F-statistic]] | Prédiction, régression multiple, F | [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)\|Résumé]] |
-| [[Cours 12 - ANOVA and F-statistic]] | ANOVA | [[Séance 12 - ANOVA and F-statistic (résumé)\|Résumé]] |
-| [[Cours 13 - Principal Components Analysis]] | ACP | [[Séance 13 - Principal Components Analysis (résumé)\|Résumé]] |
-| [[Cours 13 - PCA in R]] | ACP en R | [[Séance 13 - PCA in R (résumé)\|Résumé]] |
-| [[Summary functions in RStudio]] | Aide-mémoire R | [[Summary functions in RStudio (résumé)\|Résumé]] |
+| [[Séance 1 - Data analysis (Thanos) (résumé)\|Cours 1]] | R : structures, fonctions, opérateurs | [[Séance 1 - Data analysis (Thanos) (résumé)\|Résumé]] |
+| [[Séance 2 - Introduction statistics (résumé)\|Cours 2 - Introduction statistics]] | Descriptif et inférentiel, niveaux de mesure | [[Séance 2 - Introduction statistics (résumé)\|Résumé]] |
+| [[Séance 3 - Paradoxe de Simpson (résumé)\|Cours 3 - Paradoxe de Simpson]] | Variable cachée | [[Séance 3 - Paradoxe de Simpson (résumé)\|Résumé]] |
+| [[Séance 4 - Estimation (résumé)\|Cours 4 - Estimation]] | Intervalle de confiance | [[Séance 4 - Estimation (résumé)\|Résumé]] |
+| [[Séance 5 - Hypothesis Testing (résumé)\|Cours 5 - Hypothesis Testing]] | Hypothèses, erreurs, procédure | [[Séance 5 - Hypothesis Testing (résumé)\|Résumé]] |
+| [[Séance 6 - T-Test (résumé)\|Cours 6 - T-Test]] | Loi de Student, test t | [[Séance 6 - T-Test (résumé)\|Résumé]] |
+| [[Séance 7 - Z-Test (résumé)\|Cours 7 - Z-Test]] | Tests Z, proportions | [[Séance 7 - Z-Test (résumé)\|Résumé]] |
+| [[Séance 8 - Chi²-Test (résumé)\|Cours 8 - Chi²-Test]] | χ², variance, indépendance | [[Séance 8 - Chi²-Test (résumé)\|Résumé]] |
+| [[Séance 9 - Covariance and Correlation (résumé)\|Cours 9 - Covariance and Correlation]] | Covariance, Pearson, Spearman, Kendall | [[Séance 9 - Covariance and Correlation (résumé)\|Résumé]] |
+| [[Séance 10 - linear regression (résumé)\|Cours 10 - linear regression]] | Régression simple, résidus | [[Séance 10 - linear regression (résumé)\|Résumé]] |
+| [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)\|Cours 11 - Multiple Linear Regression and F-statistic]] | Prédiction, régression multiple, F | [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)\|Résumé]] |
+| [[Séance 12 - ANOVA and F-statistic (résumé)\|Cours 12 - ANOVA and F-statistic]] | ANOVA | [[Séance 12 - ANOVA and F-statistic (résumé)\|Résumé]] |
+| [[Séance 13 - Principal Components Analysis (résumé)\|Cours 13 - Principal Components Analysis]] | ACP | [[Séance 13 - Principal Components Analysis (résumé)\|Résumé]] |
+| [[Séance 13 - PCA in R (résumé)\|Cours 13 - PCA in R]] | ACP en R | [[Séance 13 - PCA in R (résumé)\|Résumé]] |
+| [[Summary functions in RStudio (résumé)\|Summary functions in RStudio]] | Aide-mémoire R | [[Summary functions in RStudio (résumé)\|Résumé]] |
 
 ## Concepts
 

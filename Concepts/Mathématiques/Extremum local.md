@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [extremums locaux, extrema locaux, maximum local, minimum local]
-sources: ["[[Chp4 - dérivabilité]]"]
+sources: ["[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 

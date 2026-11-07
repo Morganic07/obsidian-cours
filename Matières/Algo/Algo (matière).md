@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[Chp1 - récursivité et complexité]]", "[[chp2 - piles listes file]]", "[[AVL momo]]", "[[qui dit quoi AVL]]", "[[TD_Algo]]"]
+sources: ["[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]", "[[chp2 - piles listes file (résumé)|chp2 - piles listes file]]", "[[AVL momo (résumé)|AVL momo]]", "[[qui dit quoi AVL (résumé)|qui dit quoi AVL]]", "[[TD_Algo (résumé)|TD_Algo]]"]
 maj: 2026-11-06
 ---
 
@@ -11,11 +11,11 @@ Algorithmique et programmation en Python : récursivité, complexité, structure
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp1 - récursivité et complexité]] | Récursivité, pile de récursion, complexité, dichotomie | [[Chp1 - récursivité et complexité (résumé)\|Résumé]] |
-| [[chp2 - piles listes file]] | Listes, piles, files | [[chp2 - piles listes file (résumé)\|Résumé]] |
-| [[AVL momo]] | Notes sur l'exposé AVL : hauteur, rotations, code, complexité | [[AVL momo (résumé)\|Résumé]] |
-| [[qui dit quoi AVL]] | Scénario parlé de l'exposé AVL | [[qui dit quoi AVL (résumé)\|Résumé]] |
-| [[TD_Algo]] | Motifs de `#` en Python | [[TD_Algo (résumé)\|Résumé]] |
+| [[Chp1 - récursivité et complexité (résumé)\|Chp1 - récursivité et complexité]] | Récursivité, pile de récursion, complexité, dichotomie | [[Chp1 - récursivité et complexité (résumé)\|Résumé]] |
+| [[chp2 - piles listes file (résumé)\|chp2 - piles listes file]] | Listes, piles, files | [[chp2 - piles listes file (résumé)\|Résumé]] |
+| [[AVL momo (résumé)\|AVL momo]] | Notes sur l'exposé AVL : hauteur, rotations, code, complexité | [[AVL momo (résumé)\|Résumé]] |
+| [[qui dit quoi AVL (résumé)\|qui dit quoi AVL]] | Scénario parlé de l'exposé AVL | [[qui dit quoi AVL (résumé)\|Résumé]] |
+| [[TD_Algo (résumé)\|TD_Algo]] | Motifs de `#` en Python | [[TD_Algo (résumé)\|Résumé]] |
 
 ## Documents PDF
 
@@ -23,11 +23,11 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Chapitre3-Arbres (`.raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf`) | Rappel sur les graphes, définition et vocabulaire des arbres | [[Chapitre3-Arbres (résumé)\|Résumé]] |
-| Chapitre4-Preing2ID (`.raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf`) | Arbres binaires : propriétés, parcours, code Python | [[Chapitre4-Preing2ID (résumé)\|Résumé]] |
-| Chapitre5-ABR (`.raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf`) | Arbres binaires de recherche : insertion, recherche, suppression | [[Chapitre5-ABR (résumé)\|Résumé]] |
-| Projet-Arbre-AVL-ID2 (`.raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf`) | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
-| ARBRE AVL (`.raw/Year 2/Algo/DM/ARBRE AVL.pdf`) | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[ARBRE AVL (résumé)\|Résumé]] |
+| Chapitre3-Arbres ([[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf\|Chapitre3-Arbres.pdf]]) | Rappel sur les graphes, définition et vocabulaire des arbres | [[Chapitre3-Arbres (résumé)\|Résumé]] |
+| Chapitre4-Preing2ID ([[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf\|Chapitre4-Preing2ID.pdf]]) | Arbres binaires : propriétés, parcours, code Python | [[Chapitre4-Preing2ID (résumé)\|Résumé]] |
+| Chapitre5-ABR ([[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf\|Chapitre5-ABR.pdf]]) | Arbres binaires de recherche : insertion, recherche, suppression | [[Chapitre5-ABR (résumé)\|Résumé]] |
+| Projet-Arbre-AVL-ID2 ([[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf\|Projet-Arbre-AVL-ID2.pdf]]) | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
+| ARBRE AVL ([[Raw/Year 2/Algo/DM/ARBRE AVL.pdf\|ARBRE AVL.pdf]]) | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[ARBRE AVL (résumé)\|Résumé]] |
 
 ## Concepts
 

@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]]"
+  - "[[Raw/Year 2/Operating System/DM/TP6/log.docx|log (TP6)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 2/Operating System/DM/TP6/log|log (TP6)]], dans [[Operating System (matière)]]. Ce n'est pas un cours mais le fichier de données du TP6 : un journal `log.txt` ([[Fichier journal]]) à champs séparés par `|` (horodatage, utilisateur, connexion, déconnexion, durée, sites visités) pour cinq utilisateurs fictifs. Il sert à s'exercer à [[AWK]] : chercher les utilisateurs de YouTube ou Facebook sur la colonne 6. Voir l'énoncé dans [[TP6-Assignment (résumé)]] et la méthode dans [[Séance TP5 (résumé)]].
+Résumé de [[Raw/Year 2/Operating System/DM/TP6/log.docx|log (TP6)]], dans [[Operating System (matière)]]. Ce n'est pas un cours mais le fichier de données du TP6 : un journal `log.txt` ([[Fichier journal]]) à champs séparés par `|` (horodatage, utilisateur, connexion, déconnexion, durée, sites visités) pour cinq utilisateurs fictifs. Il sert à s'exercer à [[AWK]] : chercher les utilisateurs de YouTube ou Facebook sur la colonne 6. Voir l'énoncé dans [[TP6-Assignment (résumé)]] et la méthode dans [[Séance TP5 (résumé)]].
 
 ## Contenu du fichier
 
@@ -46,5 +46,5 @@ donnerait alice, charlie et diana (YouTube ou Facebook) ; avec `&&` au lieu de `
 ## Points à vérifier dans le cours
 
 1. **Données incohérentes** : trois durées ne correspondent pas aux heures (charlie : 10:00 à 10:30 pour « 2h 30m » ; diana : déconnexion avant connexion ; edward : 10:30 à 14:00 pour « 1h 30m »). Probablement voulues, sans effet sur les commandes.
-2. **Mêmes domaines** : ce fichier écrit `technews.com` et `facebook.com`, comme la capture de [[Cours TP5]] (sa transcription automatique lisait `technews.org` et `facebook.org` ; l'image fait foi).
+2. **Mêmes domaines** : ce fichier écrit `technews.com` et `facebook.com`, comme la capture de [[Séance TP5 (résumé)|Cours TP5]] (sa transcription automatique lisait `technews.org` et `facebook.org` ; l'image fait foi).
 3. **En-tête et ligne de tirets** : ils sont traités par AWK comme des enregistrements ; l'en-tête ne contient ni « youtube » ni « facebook », donc sans effet ici (complément).

@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]] (chapitre 5, « Analyse asymptotique »), dans [[Analyse Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des énoncés et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
+Résumé de [[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]] (chapitre 5, « Analyse asymptotique »), dans [[Analyse Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des énoncés et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
 
 Dans cette note, plusieurs formules en image sont décalées par rapport au texte qu'elles complètent, par exemple « Alors : » après sa formule. C'est un effet de la mise en page d'origine ; la fiche remet chaque formule à sa place.
 

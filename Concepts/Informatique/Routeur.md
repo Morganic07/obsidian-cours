@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [router, routers, routeurs, Cisco 2911]
 matieres: [Computer Network]
-sources: ["[[chp1 - Computer Networks]]", "[[Chp2 - Static Routing]]", "[[Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[Chp2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[Chp4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 

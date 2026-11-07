@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [héritage en base de données, héritage exclusif total, spécialisation et généralisation, table fille et table mère, is-a, liaison is-a]
 matieres: [ligue football, Data base]
-sources: ["[[sujet database (résumé)|sujet database (résumé)]]", "[[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]", "[[Cours 1 et 2 - Database]]"]
+sources: ["[[sujet database (résumé)|sujet database (résumé)]]", "[[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]", "[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]"]
 maj: 2026-11-06
 ---
 

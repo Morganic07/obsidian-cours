@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 0b - Matrix algebra]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0b - Matrix algebra.docx|Chp 0b - Matrix algebra]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 0b - Matrix algebra]] (« Chapter 0b - Matrix Algebra »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0b - Matrix algebra.docx|Chp 0b - Matrix algebra]] (« Chapter 0b - Matrix Algebra »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 
@@ -77,7 +77,7 @@ Vocabulaire : une matrice non inversible est **singulière** (*singular*) ; une 
 
 ### Théorème de la matrice inversible (*The Invertible Matrix Theorem*)
 
-Soit $A$ carrée $n \times n$. Les énoncés suivants sont équivalents (tous vrais ou tous faux) ; voir [[Invertible matrix theorem]] et [[Théorème de la matrice inversible]] :
+Soit $A$ carrée $n \times n$. Les énoncés suivants sont équivalents (tous vrais ou tous faux) ; voir [[Invertible matrix theorem (résumé)|Invertible matrix theorem]] et [[Théorème de la matrice inversible]] :
 - a. $A$ est inversible ;
 - b. $A$ est équivalente par lignes à $I_n$ ;
 - c. $A$ a $n$ positions pivots ;

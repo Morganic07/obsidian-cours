@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[UNIX Commands - Semester report]]"]
+sources: ["[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
 maj: 2026-11-06
 ---
 

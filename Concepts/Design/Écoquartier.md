@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [écoquartiers, label écoquartier, économie solidaire]
 matieres: [Projet design]
-sources: ["[[Projet BLR]]", "[[Informations villeneuve (Brief Intro)]]"]
+sources: ["[[Projet BLR (résumé)|Projet BLR]]", "[[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro)]]"]
 maj: 2026-11-06
 ---
 

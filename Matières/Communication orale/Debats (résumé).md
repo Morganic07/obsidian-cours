@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Debats|Debats]]"
+  - "[[Raw/Year 1/Communication orale /Debats.docx|Debats]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Debats|Debats]], dans [[Communication orale (matière)]]. Deux dossiers d'arguments préparés pour des débats : la légalisation du cannabis (argumentaire « pour ») et le clonage animal (pour et contre). Ce sont des notes de préparation d'étudiant, pas un cours : les sources ne sont pas indiquées, sauf l'EFSA. Note sans image.
+Résumé de [[Raw/Year 1/Communication orale /Debats.docx|Debats]], dans [[Communication orale (matière)]]. Deux dossiers d'arguments préparés pour des débats : la légalisation du cannabis (argumentaire « pour ») et le clonage animal (pour et contre). Ce sont des notes de préparation d'étudiant, pas un cours : les sources ne sont pas indiquées, sauf l'EFSA. Note sans image.
 
 ## 1. Débat : légalisation du cannabis
 

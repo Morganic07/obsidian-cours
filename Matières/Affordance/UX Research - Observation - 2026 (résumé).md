@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: [".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx"]
+sources: ["[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"]
 maj: 2026-11-06
 complet: true
 ---

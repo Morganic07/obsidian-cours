@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [systemctl, systemctl start, systemctl enable, systemctl status]
 matieres: [Operating System]
-sources: ["[[Cours TP4]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
+sources: ["[[Séance TP4 (résumé)|Cours TP4]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 ---
 

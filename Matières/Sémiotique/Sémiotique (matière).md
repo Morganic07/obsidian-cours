@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 3/Sémiotique/Cours 4.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
 maj: 2026-11-06
 ---
 

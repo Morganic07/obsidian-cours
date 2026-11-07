@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]]"]
+sources: ["Prise parole Rendu final"]
 maj: 2026-11-05
 ---
 
-Résumé de [[Cours/Year 1/Projet design/Villeneuve/Prise parole Rendu final|Prise parole Rendu final]], dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre l'équipe, non reprise).
+Résumé de Prise parole Rendu final, dans [[Projet design (Year 1) (matière)]]. Notes d'oral pour la présentation finale (répartition des diapositives entre l'équipe, non reprise).
 
 - **Notion d'appartenance** : philosophiquement, adhérer volontairement aux valeurs et traditions d'une communauté ; sociologiquement, entretenir des relations sociales et partager des ressources matérielles et symboliques.
 - **Atelier avec des habitantes** : avec l'aide de la mairie, discussion sur les expériences d'appartenance, puis groupes de quatre pour imaginer des solutions. Verbatims anonymes (« on connaît que son quartier »), qui font ressortir l'effet « ville dortoir ». Voir [[Atelier de co-conception]].

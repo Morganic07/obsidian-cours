@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [le numérique comme écriture, dispositifs d'écriture et de lecture]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 ---
 

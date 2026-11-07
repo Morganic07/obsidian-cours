@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
+  - "[[Raw/Year 3/IA/Cours 1.docx|Cours 1 (IA)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]], dans [[IA (matière)]]. En cas d'écart, le cours et ses images font foi. Les diapositives à texte (listes, tableaux, articles) sont recopiées ; les images d'exemples, le schéma des familles d'IA et la boussole politique sont intégrés.
+Résumé de [[Raw/Year 3/IA/Cours 1.docx|Cours 1 (IA)]], dans [[IA (matière)]]. En cas d'écart, le cours et ses images font foi. Les diapositives à texte (listes, tableaux, articles) sont recopiées ; les images d'exemples, le schéma des familles d'IA et la boussole politique sont intégrés.
 
 ## Idée générale
 

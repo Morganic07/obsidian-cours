@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [artefact du futur]
-sources: [".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"]
 maj: 2026-11-06
 ---
 

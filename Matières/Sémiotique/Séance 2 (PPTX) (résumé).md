@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 complet: true
 ---

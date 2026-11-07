@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year4
 sources:
-  - "[[recherches femmes et foot|recherches femmes et foot]]"
+  - "[[recherches femmes et foot (résumé)|recherches femmes et foot]]"
 maj: 2026-11-06
 ---
 

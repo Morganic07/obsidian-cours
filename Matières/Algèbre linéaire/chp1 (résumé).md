@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[chp1|chp1 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp1 .docx|chp1 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp1|chp1 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 1, espaces vectoriels et sous-espaces vectoriels. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp1 .docx|chp1 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 1, espaces vectoriels et sous-espaces vectoriels. En cas d'écart, le cours fait foi.
 
 ## Espace vectoriel et sous-espace vectoriel
 

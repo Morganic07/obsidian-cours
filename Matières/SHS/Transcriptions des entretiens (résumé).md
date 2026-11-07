@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year3]
-sources: ["Note d'origine dans Cours/Year 3/SHS/Entretiens"]
+sources: ["Document de Year 3/SHS/Entretiens sur Drive, exclu du miroir"]
 maj: 2026-11-05
 ---
 
-Résumé d'une note de `Cours/Year 3/SHS/Entretiens`, dans [[SHS (matière)]]. Transcription brute de trois entretiens menés par une étudiante du cours de design, avec l'accord enregistré des interviewés. Dans le texte, les questions de l'étudiante sont en gras et les réponses en texte normal. Les trois sections portent les repères M., A. et F.
+Résumé d'un document de `Year 3/SHS/Entretiens` sur Drive (exclu du miroir), dans [[SHS (matière)]]. Transcription brute de trois entretiens menés par une étudiante du cours de design, avec l'accord enregistré des interviewés. Dans le texte, les questions de l'étudiante sont en gras et les réponses en texte normal. Les trois sections portent les repères M., A. et F.
 
 Chaque entretien suit le même fil : moyens de transport actuels, avis sur la voiture (pollution, coût), puis une question de projection : « si tu étais réalisateur de film, comment les gens se déplaceraient-ils dans le futur ? ».
 

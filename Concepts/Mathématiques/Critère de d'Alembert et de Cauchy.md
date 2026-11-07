@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [critère de d'Alembert, règle de d'Alembert, ratio test, critère de la racine, critère de Cauchy, root test, test du rapport]
 matieres: [Séries, Analyse Maths]
-sources: ["[[Chp2 - Alternating and absolutly convergent series]]", "[[Chp5 - power series]]", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf"]
+sources: ["[[Chp2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[Chp5 - power series (résumé)|Chp5 - power series]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
 maj: 2026-11-06
 ---
 

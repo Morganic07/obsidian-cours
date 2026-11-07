@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Student distribution, t distribution, loi t, loi de Student à n degrés de liberté, théorème de Gosset, Gosset's theorem]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp4 Part3 - Inferential statistics]]", "[[Cours 6 - T-Test]]"]
+sources: ["[[Chp4 Part3 - Inferential statistics (résumé)|Chp4 Part3 - Inferential statistics]]", "[[Séance 6 - T-Test (résumé)|Cours 6 - T-Test]]"]
 maj: 2026-11-06
 ---
 

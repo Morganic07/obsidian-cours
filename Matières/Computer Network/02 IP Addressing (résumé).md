@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf"]
+sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`) (57 diapositives, en anglais, « IPv4 Addressing »), dans [[Computer Network (matière)]]. Les tableaux et schémas ont été lus sur les diapositives (texte et images) ; les figures utiles sont intégrées ci-dessous. Le concept détaillé est [[Adressage IPv4 et CIDR]].
+Résumé du PDF 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]) (57 diapositives, en anglais, « IPv4 Addressing »), dans [[Computer Network (matière)]]. Les tableaux et schémas ont été lus sur les diapositives (texte et images) ; les figures utiles sont intégrées ci-dessous. Le concept détaillé est [[Adressage IPv4 et CIDR]].
 
 Plan du cours : comprendre l'adressage IP, terminologie, notation décimale pointée, décimal et binaire, adresse IPv4, classes, adresse réservée de classe A, longueur de préfixe, masques par défaut, adresses réseau et de broadcast, première et dernière adresse utilisable, nombre maximal d'hôtes, révision, quiz, récapitulatif, IANA, exemple, CIDR, notation CIDR, quiz.
 

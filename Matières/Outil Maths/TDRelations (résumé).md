@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/TDRelations.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du corrigé TD Relations (PDF) (`.raw/Year 1/Outil Maths/Exos/TDRelations.pdf`) (42 diapositives, TD Algèbre CY Tech, premier semestre 2025-2026), dans [[Outil Maths (matière)]]. 10 exercices, dont les 8 à 10 « à faire chez soi », corrigés (sauf l'exercice 2.3, voir « Points à vérifier »). Cours : [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[Relation d'équivalence]], [[Relation d'ordre]].
+Résumé du corrigé TD Relations (PDF) ([[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]) (42 diapositives, TD Algèbre CY Tech, premier semestre 2025-2026), dans [[Outil Maths (matière)]]. 10 exercices, dont les 8 à 10 « à faire chez soi », corrigés (sauf l'exercice 2.3, voir « Points à vérifier »). Cours : [[Chapitre 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[Relation d'équivalence]], [[Relation d'ordre]].
 
 Rappel des propriétés étudiées (voir [[Relation binaire]]) : [[Relation réflexive|réflexive]] ($\forall x,\ xRx$), [[Relation symétrique|symétrique]] ($xRy \Rightarrow yRx$), [[Relation antisymétrique|antisymétrique]] ($xRy$ et $yRx \Rightarrow x = y$), [[Relation transitive|transitive]] ($xRy$ et $yRz \Rightarrow xRz$). Équivalence = réflexive + symétrique + transitive ; ordre = réflexive + antisymétrique + transitive.
 

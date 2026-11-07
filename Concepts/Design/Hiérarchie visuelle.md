@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [focal point, point focal, subdominant, subordinate, stand out]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

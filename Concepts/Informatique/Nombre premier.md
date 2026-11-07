@@ -9,10 +9,10 @@ aliases:
   - prime numbers
   - test de primalité
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
-  - "[[DM Shell Scripting]]"
-  - "[[Copy of 08 Processes-TP]]"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"
 maj: 2026-11-06
 ---
 

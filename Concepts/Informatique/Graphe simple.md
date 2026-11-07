@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [simple graph, multigraphe]
 matieres: [graph theory]
-sources: ["[[Chp 1 - Undirected graph]]"]
+sources: ["[[Chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 

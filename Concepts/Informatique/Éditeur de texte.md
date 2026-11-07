@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [text editor, éditeurs de texte]
-sources: ["[[OS - chp 5]]"]
+sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]"]
 maj: 2026-11-06
 ---
 

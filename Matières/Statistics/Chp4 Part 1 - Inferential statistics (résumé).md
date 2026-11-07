@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp4 Part 1 : Inferential statistics.docx|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 Part 1 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 1. Estimer un paramètre à partir d'un échantillon et juger la qualité de l'estimation (biais, variance, convergence). Le chapitre introduit la [[Distribution d'échantillonnage]] et la [[Loi des grands nombres]]. En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
+Résumé de [[Raw/Year 3/Statistics/Chp4 Part 1 : Inferential statistics.docx|Chp4 Part 1 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 1. Estimer un paramètre à partir d'un échantillon et juger la qualité de l'estimation (biais, variance, convergence). Le chapitre introduit la [[Distribution d'échantillonnage]] et la [[Loi des grands nombres]]. En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
 
 ## Estimation des paramètres
 

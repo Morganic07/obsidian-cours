@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year4]
 aliases: [capitaliste]
 matieres: [Philosophie, Culture du vivant]
-sources: ["[[liberté et moralité]]", "[[Culture du vivant - prise de note]]"]
+sources: ["[[liberté et moralité (résumé)|liberté et moralité]]", "[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"]
 maj: 2026-11-06
 ---
 

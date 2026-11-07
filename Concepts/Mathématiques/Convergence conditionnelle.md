@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [conditionally convergent, conditional convergence, conditionnellement convergente, série semi-convergente]
-sources: ["[[Chp2 - Alternating and absolutly convergent series]]"]
+sources: ["[[Chp2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
 maj: 2026-11-06
 ---
 

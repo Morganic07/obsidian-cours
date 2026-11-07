@@ -6,8 +6,8 @@ tags:
 aliases:
   - abstract art
 sources:
-  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
-  - "[[Global Exam Vocab]]"
+  - "[[Séance 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
+  - "[[Global Exam Vocab (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 

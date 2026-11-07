@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [hallucination, hallucinations]
 matieres: [SHS]
-sources: ["[[SHS Recherches-Morgane]]"]
+sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"]
 maj: 2026-11-06
 ---
 

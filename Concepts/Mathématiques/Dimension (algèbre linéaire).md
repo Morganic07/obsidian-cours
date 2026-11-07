@@ -12,11 +12,11 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[chp3|chp3 (Algèbre)]]"
-  - "[[chp4|chp4 (Algèbre)]]"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp3 (résumé)|chp3 (Algèbre)]]"
+  - "[[chp4 (résumé)|chp4 (Algèbre)]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 

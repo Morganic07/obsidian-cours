@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Cours BU - Savoir rechercher sur Google|Cours BU - Savoir rechercher sur Google]]"
+  - "[[Raw/Year 3/Cours BU - Savoir rechercher sur Google.docx|Cours BU - Savoir rechercher sur Google]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours BU - Savoir rechercher sur Google|Cours BU - Savoir rechercher sur Google]]. Note très courte, sans matière associée, prise pendant une séance à la bibliothèque universitaire : les [[Opérateurs de recherche booléens]] pour faire une recherche Google.
+Résumé de [[Raw/Year 3/Cours BU - Savoir rechercher sur Google.docx|Cours BU - Savoir rechercher sur Google]]. Note très courte, sans matière associée, prise pendant une séance à la bibliothèque universitaire : les [[Opérateurs de recherche booléens]] pour faire une recherche Google.
 
 ## Faire une recherche Google
 

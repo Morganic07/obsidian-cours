@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[idées solutions|idées solutions]]"
+  - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[idées solutions|idées solutions]], dans [[Projet design (Year 1) (matière)]]. La note se compose de quatre images transcrites, extraites d'un rapport sur les [[Tiers-lieu|tiers-lieux]] destiné aux collectivités (2018) ; les corrections d'apostrophes sont signalées « À vérifier » dans la note. C'est une recherche documentaire pour le projet Villeneuve (voir [[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro) (résumé)]]).
+Résumé de [[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]], dans [[Projet design (Year 1) (matière)]]. La note se compose de quatre images transcrites, extraites d'un rapport sur les [[Tiers-lieu|tiers-lieux]] destiné aux collectivités (2018) ; les corrections d'apostrophes sont signalées « À vérifier » dans la note. C'est une recherche documentaire pour le projet Villeneuve (voir [[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro) (résumé)]]).
 
 ## 1. Retours de terrain en chiffres
 

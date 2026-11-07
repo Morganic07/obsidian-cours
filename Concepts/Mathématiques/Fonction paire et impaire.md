@@ -11,9 +11,9 @@ aliases:
   - even function
   - odd function
 sources:
-  - ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse Maths)]]"
-  - "[[Chp6 - Fourier Series]]"
+  - "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
+  - "[[Chp6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"
 maj: 2026-11-06
 ---
 

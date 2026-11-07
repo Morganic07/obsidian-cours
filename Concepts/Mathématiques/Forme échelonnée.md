@@ -17,10 +17,10 @@ aliases:
   - pivot position
   - position pivot
 sources:
-  - "[[Chp 0a - Linear combination]]"
-  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp3|chp3 (Algèbre)]]"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp3 (résumé)|chp3 (Algèbre)]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -31,7 +31,7 @@ Matrice dont les lignes de zéros sont en bas, et où chaque ligne non nulle a p
 - **Pivot de Gauss** : la méthode qui amène un système à cette forme. On choisit une ligne pivot qu'on ne touche plus, on élimine les inconnues une par une par [[Combinaison linéaire|combinaisons linéaires]] pour obtenir un système en cascade, puis on remonte la cascade pour trouver leurs valeurs. Le cours de 1re année ne parle pas de forme échelonnée, seulement de pivot de Gauss ; la méthode et les opérations élémentaires sont demandées à l'évaluation 1 ([[Contrôles (résumé)]]).
 
 > [!warning] Attention
-> La forme échelonnée ne donne en général pas les [[Valeur propre|valeurs propres]]. Une note de [[Chp 0e - Eigenvalues and eigenvectors]] affirme le contraire, mais l'avertissement du même chapitre l'exclut.
+> La forme échelonnée ne donne en général pas les [[Valeur propre|valeurs propres]]. Une note de [[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] affirme le contraire, mais l'avertissement du même chapitre l'exclut.
 
 Notion parente : [[Système linéaire]].
 

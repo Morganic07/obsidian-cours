@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[world in 2075|world in 2075]]"
+  - "[[Raw/Year 2/Anglais/world in 2075.docx|world in 2075]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[world in 2075|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties, accompagné d'une infographie. Ce sont des scénarios imaginés pour l'exposé, non des prévisions établies.
+Résumé de [[Raw/Year 2/Anglais/world in 2075.docx|world in 2075]], dans [[Anglais (matière)]]. Plan en français d'un exposé prospectif sur la Terre en 2075, en quatre parties, accompagné d'une infographie. Ce sont des scénarios imaginés pour l'exposé, non des prévisions établies.
 
 ## 1. L'exploration spatiale au premier plan
 

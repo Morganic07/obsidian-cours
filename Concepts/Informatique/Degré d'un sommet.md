@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [degree of a vertex]
 matieres: [graph theory]
-sources: ["[[Chp 1 - Undirected graph]]", "[[chp4 - oriented graphs]]"]
+sources: ["[[Chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[chp4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 

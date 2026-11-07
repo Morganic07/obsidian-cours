@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [conditional probability, probabilités totales, law of total probability, théorème de Bayes, Bayes' theorem, règle de multiplication, multiplication rule]
 matieres: [Probability, Statistics]
-sources: ["[[Chp 2 - Conditional proba and independence]]", "[[probabilité statistiques utilitaire]]"]
+sources: ["[[Chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]", "[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]"]
 maj: 2026-11-06
 ---
 
@@ -23,7 +23,7 @@ Liens : [[Espace probabilisé]], [[Événements incompatibles]], [[Équiprobabil
 
 ## À vérifier
 
-- Dans [[Chp 2 - Conditional proba and independence]], les bornes $n$ et $k$ sont mélangées dans la formule de Bayes, et la phrase « P(A) is the probability of A given B » semble une coquille (image non ouverte).
-- Dans [[probabilité statistiques utilitaire]], « P(A∩B) = P(A|B)P(B) if not independent » : la formule vaut aussi dans le cas indépendant.
+- Dans [[Chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]], les bornes $n$ et $k$ sont mélangées dans la formule de Bayes, et la phrase « P(A) is the probability of A given B » semble une coquille (image non ouverte).
+- Dans [[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]], « P(A∩B) = P(A|B)P(B) if not independent » : la formule vaut aussi dans le cas indépendant.
 
 Résumés : [[Chp 2 - Conditional proba and independence (résumé)]], [[probabilité statistiques utilitaire (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, nomme]
 aliases: [dynamic programming]
-sources: ["[[explications DM d'algo]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
 maj: 2026-11-06
 ---
 

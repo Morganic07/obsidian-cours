@@ -3,8 +3,8 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[Synthèse|Synthèse]]"
-  - "[[Untitled document|Untitled document]]"
+  - "[[Synthèse (résumé)|Synthèse]]"
+  - "[[Untitled document (résumé)|Untitled document]]"
 maj: 2026-11-06
 ---
 
@@ -14,12 +14,12 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Untitled document\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
-| [[Inégalités alimentaires\|Inégalités alimentaires]] | Problématique et questions | [[Inégalités alimentaires (résumé)\|Résumé]] |
-| [[Pistes entrevue\|Pistes entrevue]] | Méthode d'entretien | [[Pistes entrevue (résumé)\|Résumé]] |
-| [[retranscription\|retranscription]] et [[1.0 retranscription entrevue\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
-| [[Compte rendu\|Compte rendu]] | Rapport de l'enquête | [[Compte rendu (résumé)\|Résumé]] |
-| [[Synthèse\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
+| [[Untitled document (résumé)\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
+| [[Inégalités alimentaires (résumé)\|Inégalités alimentaires]] | Problématique et questions | [[Inégalités alimentaires (résumé)\|Résumé]] |
+| [[Pistes entrevue (résumé)\|Pistes entrevue]] | Méthode d'entretien | [[Pistes entrevue (résumé)\|Résumé]] |
+| [[retranscription (résumé)\|retranscription]] et [[retranscription (résumé)\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
+| [[Compte rendu (résumé)\|Compte rendu]] | Rapport de l'enquête | [[Compte rendu (résumé)\|Résumé]] |
+| [[Synthèse (résumé)\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
 
 ## Concepts
 

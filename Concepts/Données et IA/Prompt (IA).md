@@ -12,11 +12,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] distingue trois types de prompts pour la génération d'images :
+[[Séance 1 - IA (résumé)|Cours 1 (IA)]] distingue trois types de prompts pour la génération d'images :
 
 - le prompt de texte détaillé : style, éclairage, objectif, résolution ;
 - le prompt avec image de référence, par exemple une planche de style dans Gemini ;

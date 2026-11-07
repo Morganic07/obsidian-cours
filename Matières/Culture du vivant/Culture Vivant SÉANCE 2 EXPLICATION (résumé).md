@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[Raw/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION .docx|Culture Vivant COURS 2 EXPLICATION]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Culture Vivant COURS 2 EXPLICATION|Culture Vivant COURS 2 EXPLICATION]], dans [[Culture du vivant (matière)]]. Note courte : l'explication d'un dessin (la balance), qui n'est pas dans la note. Voir [[Anthropocène]] pour le contenu développé.
+Résumé de [[Raw/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION .docx|Culture Vivant COURS 2 EXPLICATION]], dans [[Culture du vivant (matière)]]. Note courte : l'explication d'un dessin (la balance), qui n'est pas dans la note. Voir [[Anthropocène]] pour le contenu développé.
 
 ## La métaphore de la balance
 

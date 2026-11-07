@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[philo 1]]", "[[philo 3]]"]
+sources: ["[[philo 1 (résumé)|philo 1]]", "[[philo 3 (résumé)|philo 3]]"]
 maj: 2026-11-06
 ---
 

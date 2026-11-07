@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [QR factorization, QR decomposition, The QR Factorization]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 

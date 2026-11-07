@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [range(n), fonction range]
 matieres: [Algo Maths]
-sources: ["[[Python]]"]
+sources: ["[[Python (résumé)|Python]]"]
 maj: 2026-11-06
 ---
 

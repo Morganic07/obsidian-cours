@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [subinterface, sub-interface, sous-interfaces, config-subif]
 matieres: [Computer Network]
-sources: ["[[Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[Chp4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 

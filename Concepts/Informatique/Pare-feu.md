@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [firewall]
 matieres: [Computer Network]
-sources: ["[[Chp5 - NAT ／ PAT]]"]
+sources: ["[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-06
 ---
 

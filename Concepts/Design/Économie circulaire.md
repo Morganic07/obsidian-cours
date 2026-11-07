@@ -16,10 +16,10 @@ matieres:
   - Projet design
   - Culture du vivant
 sources:
-  - "[[Reyou|Reyou]]"
-  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
-  - "[[exposé melvita|exposé melvita]]"
-  - "[[Topo ELBA|Topo ELBA]]"
+  - "[[Reyou (résumé)|Reyou]]"
+  - "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]"
+  - "[[exposé melvita (résumé)|exposé melvita]]"
+  - "[[Topo ELBA (résumé)|Topo ELBA]]"
 maj: 2026-11-06
 ---
 
@@ -40,6 +40,6 @@ Voir aussi : [[Retail régénératif]], [[Servitisation]], [[Limites planétaire
 
 ## À vérifier
 
-- La transcription de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
+- La transcription de [[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
 
 Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours (résumé)]], [[exposé melvita (résumé)|exposé melvita (résumé)]], [[Topo ELBA (résumé)|Topo ELBA (résumé)]]

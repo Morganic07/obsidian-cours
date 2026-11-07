@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Untitled document|Untitled document (Dessein au cube)]]"
+  - "[[Raw/Year 1/Dessein au cube/Untitled document.docx|Untitled document (Dessein au cube)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Untitled document|Untitled document]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Dessein au cube/Untitled document.docx|Untitled document]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 Consignes du rendu final du projet d'enquête par entretien. La note ne contient que trois images de texte, toutes transcrites ; leur contenu est recopié ci-dessous. Barème total : 15 points (4 + 4 + 7).
 

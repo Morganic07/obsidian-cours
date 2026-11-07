@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [écrit d'écran, écrits d'écran, écrits d'écrans, texte d'écran, textes d'écran, image du texte]
 matieres: [Sémiotique]
-sources: [".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 ---
 

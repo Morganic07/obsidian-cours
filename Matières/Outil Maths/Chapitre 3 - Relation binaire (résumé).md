@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Chapitre 3 - Relation binaire]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/Chapitre 3 - Relation binaire.docx|Chapitre 3 - Relation binaire]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chapitre 3 - Relation binaire]] (cours d'Outils maths du 29/11/23), dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Le cours ne contient aucune figure : ses images sont des encadrés de définitions (recopiés ici) et une petite icône décorative.
+Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 3 - Relation binaire.docx|Chapitre 3 - Relation binaire]] (cours d'Outils maths du 29/11/23), dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Le cours ne contient aucune figure : ses images sont des encadrés de définitions (recopiés ici) et une petite icône décorative.
 
 ## Idée générale
 

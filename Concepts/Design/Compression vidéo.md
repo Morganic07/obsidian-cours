@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [compression formats, video formats, aspect ratio, screen resolution, full resolution, "résolution d'écran"]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

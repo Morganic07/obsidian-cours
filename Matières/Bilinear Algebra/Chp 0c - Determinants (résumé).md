@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 0c - Determinants]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0c - Determinants.docx|Chp 0c - Determinants]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 0c - Determinants]] (« Chapter 0c - Determinants »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0c - Determinants.docx|Chp 0c - Determinants]] (« Chapter 0c - Determinants »), dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Algo Maths
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 

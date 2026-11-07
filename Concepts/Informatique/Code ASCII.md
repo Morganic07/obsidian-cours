@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [ASCII, American Standard Code for Information Interchange, Table ASCII]
 matieres: [Operating System, C++]
-sources: ["[[OS - chp 1]]", "[[Commandes Shell + explications]]", "[[Chp1 - basiques]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Chp1 - basiques (résumé)|Chp1 - basiques]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Chp2 - Symmetric matrices and quadratic forms.docx|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp2 - Symmetric matrices and quadratic forms]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp2 - Symmetric matrices and quadratic forms.docx|Chp2 - Symmetric matrices and quadratic forms]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

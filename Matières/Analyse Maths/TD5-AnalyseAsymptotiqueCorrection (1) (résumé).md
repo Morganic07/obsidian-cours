@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de TD5-AnalyseAsymptotiqueCorrection (`.raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf`) (32 pages, texte, « Analyse II 2021/2022 »), dans [[Analyse Maths (matière)]]. C'est le corrigé détaillé du TD d'analyse asymptotique dont l'énoncé 2020-2021 est dans [[TD5-AnalAsympt (résumé)]]. Cette version compte 5 affirmations à l'exercice 1 au lieu de 4. Cette fiche reprend, pour chacun des 24 exercices, l'énoncé, puis la correction du document avec ses étapes clés et son résultat ; les méthodes sont regroupées à la fin. Le document ne contient aucune figure. Cours associé : [[chp5 - Analyse Maths (résumé)|chp5 (résumé)]].
+Résumé de TD5-AnalyseAsymptotiqueCorrection ([[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]) (32 pages, texte, « Analyse II 2021/2022 »), dans [[Analyse Maths (matière)]]. C'est le corrigé détaillé du TD d'analyse asymptotique dont l'énoncé 2020-2021 est dans [[TD5-AnalAsympt (résumé)]]. Cette version compte 5 affirmations à l'exercice 1 au lieu de 4. Cette fiche reprend, pour chacun des 24 exercices, l'énoncé, puis la correction du document avec ses étapes clés et son résultat ; les méthodes sont regroupées à la fin. Le document ne contient aucune figure. Cours associé : [[chp5 - Analyse Maths (résumé)|chp5 (résumé)]].
 
 Notations du corrigé : $u_n = o(v_n)$ ($u$ négligeable devant $v$), $u_n = O(v_n)$ ($u$ dominée par $v$), $u_n \sim v_n$ ([[Équivalent (comparaison asymptotique)|équivalent]]), voir [[Comparaison asymptotique]]. « Règle d'or » rappelée par le corrigé : $u_n \sim v_n \iff u_n = v_n + o(v_n)$.
 

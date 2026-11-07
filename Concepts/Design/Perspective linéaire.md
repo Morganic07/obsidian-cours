@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [linear perspective, vanishing point, vanishing points, point de fuite, points de fuite, horizon line, ligne d'horizon, two-point perspective, perspective à deux points]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

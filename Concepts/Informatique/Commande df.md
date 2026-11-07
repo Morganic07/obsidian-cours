@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [df -h]
 matieres: [Operating System]
-sources: ["[[Commandes Shell + explications]]", "[[UNIX Commands - Semester report]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [analysis of variance, analyse de la variance, one-way ANOVA, two-way ANOVA, ANOVA à un facteur, ANOVA à deux facteurs, tableau d'ANOVA, ANOVA table]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 12 - ANOVA and F-statistic]]", "[[Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]", "[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 ---
 

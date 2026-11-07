@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Chapitre 5 - Complexes]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/Chapitre 5 - Complexes.docx|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chapitre 5 - Complexes]], dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les tableaux de formules de la note sont en partie vides : les formules figurent dans les transcriptions qui suivent, et sont recopiées ici.
+Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 5 - Complexes.docx|Chapitre 5 - Complexes]], dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les tableaux de formules de la note sont en partie vides : les formules figurent dans les transcriptions qui suivent, et sont recopiées ici.
 
 ## Idée générale
 

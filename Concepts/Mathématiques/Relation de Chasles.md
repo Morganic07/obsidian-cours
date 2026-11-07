@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Chasles]
 matieres: [Analyse]
-sources: ["[[Chap7-Integration]]", "[[démonstrations - integration]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]"]
 maj: 2026-11-06
 ---
 

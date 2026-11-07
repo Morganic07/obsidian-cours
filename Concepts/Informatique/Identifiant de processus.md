@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [PID, process identifier, process ID, getpid]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 ---
 

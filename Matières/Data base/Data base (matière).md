@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[Cours 1 et 2 - Database]]", "[[Cours 3 - opérateurs et SQL]]"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
 maj: 2026-11-06
 ---
 
@@ -11,8 +11,8 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[Séances 1 et 2 - Database (résumé)\|Résumé]] |
-| [[Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[Séance 3 - opérateurs et SQL (résumé)\|Résumé]] |
+| [[Séances 1 et 2 - Database (résumé)\|Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[Séances 1 et 2 - Database (résumé)\|Résumé]] |
+| [[Séance 3 - opérateurs et SQL (résumé)\|Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[Séance 3 - opérateurs et SQL (résumé)\|Résumé]] |
 
 ## Concepts
 

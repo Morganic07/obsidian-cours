@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 3 - Paradoxe de Simpson]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 3 : Paradoxe de Simpson.docx|Cours 3 - Paradoxe de Simpson]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 3 - Paradoxe de Simpson]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 3 : Paradoxe de Simpson.docx|Cours 3 - Paradoxe de Simpson]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

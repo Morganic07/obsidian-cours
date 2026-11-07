@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[Helloartup|Helloartup]]"
+  - "[[Raw/Year 2/Projet Design /Hello Art Up/Helloartup.docx|Helloartup]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Helloartup|Helloartup]], dans [[Projet design (Year 2) (matière)]]. Notes de travail en vrac (pistes, liens, comptes rendus intermédiaires). Les chiffres du graphique sont des lectures approximatives, signalées « À vérifier » dans la note. La capture du guide de soins (texte seul) est résumée en texte ; le graphique et la frise du projet sont intégrés.
+Résumé de [[Raw/Year 2/Projet Design /Hello Art Up/Helloartup.docx|Helloartup]], dans [[Projet design (Year 2) (matière)]]. Notes de travail en vrac (pistes, liens, comptes rendus intermédiaires). Les chiffres du graphique sont des lectures approximatives, signalées « À vérifier » dans la note. La capture du guide de soins (texte seul) est résumée en texte ; le graphique et la frise du projet sont intégrés.
 
 ## Projet
 

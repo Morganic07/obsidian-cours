@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Linux partitions, root partition, home partition, "partition /home", "partition /usr", "partition /var"]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[OS - chp 3]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[OS - chp 3 (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 

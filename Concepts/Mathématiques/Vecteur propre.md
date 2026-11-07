@@ -9,9 +9,9 @@ aliases:
   - eigenvectors
   - vecteurs propres
 sources:
-  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp7|chp7 (Algèbre)]]"
-  - "[[Cours 13 - Principal Components Analysis]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
+  - "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Vecteur **non nul** $\mathbf{x}$ tel que $A\mathbf{x} = \lambda\mathbf{x}$ pour 
 
 - Des vecteurs propres associés à des valeurs propres distinctes sont linéairement indépendants.
 - $A^n\mathbf{x} = \lambda^n\mathbf{x}$, par récurrence.
-- Une combinaison non nulle de vecteurs propres d'une **même** valeur propre reste un vecteur propre de celle-ci. [[Chp 0e - Eigenvalues and eigenvectors]] l'énonce sans ces deux précisions.
+- Une combinaison non nulle de vecteurs propres d'une **même** valeur propre reste un vecteur propre de celle-ci. [[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] l'énonce sans ces deux précisions.
 
 > [!warning] Écart dans le cours
 > [[chp7 (résumé)|chp7]] définit les éléments propres d'une matrice avec un vecteur « nul ». Il faut lire « non nul », comme le dit le même chapitre plus haut.
@@ -30,7 +30,7 @@ En 1re année, la définition porte sur une application linéaire : $v$ est vect
 
 ## À vérifier
 
-- [[Chp 0e - Eigenvalues and eigenvectors]] écrit « Any linear combination of basic eigenvectors is an eigenvector » : ce n'est vrai que pour une même valeur propre et une combinaison non nulle.
+- [[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] écrit « Any linear combination of basic eigenvectors is an eigenvector » : ce n'est vrai que pour une même valeur propre et une combinaison non nulle.
 
 Notion parente : [[Valeur propre]]. Liens : [[Espace propre]], [[Diagonalisation]], [[Indépendance linéaire]], [[Analyse en composantes principales]]
 

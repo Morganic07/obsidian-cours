@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, nomme]
 aliases: []
-sources: ["[[EDOSSAH]]"]
+sources: ["[[EDOSSAH (résumé)|EDOSSAH]]"]
 maj: 2026-11-06
 ---
 

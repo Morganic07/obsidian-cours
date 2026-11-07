@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: []
 matieres: [Culture du vivant, SHS]
-sources: ["[[Culture du vivant Dernier cours]]", "Note d'origine dans Cours/Year 3/SHS/Entretiens"]
+sources: ["[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]", "[[Synthèse des entretiens (résumé)]]"]
 maj: 2026-11-06
 ---
 

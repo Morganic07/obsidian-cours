@@ -9,9 +9,9 @@ aliases:
   - changements de base
   - change of basis
 sources:
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre)]]"
-  - "[[Chp2 - Symmetric matrices and quadratic forms]]"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 

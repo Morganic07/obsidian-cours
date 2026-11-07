@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[Global Exam Vocab|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Global Exam Vocab|Global Exam Vocab]], dans [[Anglais (matière)]]. Glossaire anglais de révision : environ 285 entrées, chacune un terme suivi d'une définition en anglais, sans commentaire. Il sert de base à l'examen d'anglais. Les termes qui ont une page de concept sont reliés dans la note et ici.
+Résumé de [[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]], dans [[Anglais (matière)]]. Glossaire anglais de révision : environ 285 entrées, chacune un terme suivi d'une définition en anglais, sans commentaire. Il sert de base à l'examen d'anglais. Les termes qui ont une page de concept sont reliés dans la note et ici.
 
 Chaque tableau garde le terme anglais du glossaire et traduit fidèlement sa définition en français, dans l'ordre de la note. Les regroupements en sous-parties sont ajoutés pour la révision.
 

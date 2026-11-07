@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [vulnérabilités, vulnérabilités déplacées, fragilités produites]
 matieres: [culture du soin]
-sources: [".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
+sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
 maj: 2026-11-06
 ---
 

@@ -17,9 +17,9 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp2|chp2 (Algèbre)]]"
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp2 (résumé)|chp2 (Algèbre)]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

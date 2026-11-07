@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [ordre d'évaluation, précédence des opérateurs, associativity, operator precedence]
 matieres: [Java]
-sources: ["[[Chp1 - Intro Java]]"]
+sources: ["[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 ---
 

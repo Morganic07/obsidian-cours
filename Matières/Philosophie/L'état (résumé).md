@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[L'état|L'état (Philosophie)]]"
+  - "[[Raw/Year 1/Philosophie/L'état.docx|L'état (Philosophie)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[L'état|L'état (Philosophie)]], dans [[Philosophie (matière)]]. Cours du 27/09/23. En cas d'écart, le cours fait foi. La note est une prise de notes d'étudiant, brute (elle commence par « METTRE EN PAGE ») ; elle ne contient aucune image.
+Résumé de [[Raw/Year 1/Philosophie/L'état.docx|L'état (Philosophie)]], dans [[Philosophie (matière)]]. Cours du 27/09/23. En cas d'écart, le cours fait foi. La note est une prise de notes d'étudiant, brute (elle commence par « METTRE EN PAGE ») ; elle ne contient aucune image.
 
 ## Question du cours
 

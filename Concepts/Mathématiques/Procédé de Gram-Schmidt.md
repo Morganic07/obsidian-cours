@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Gram-Schmidt, Gram–Schmidt, Gram–Schmidt Process, Gram schmidt]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 

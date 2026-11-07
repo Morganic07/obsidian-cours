@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [classe Ck, classe C1, classe C2, classe Cn, classe C∞, classe C0, classe C infini, C∞, stabilité de Ck par composition]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]", "[[Chp4 - dérivabilité]]"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]", "[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 

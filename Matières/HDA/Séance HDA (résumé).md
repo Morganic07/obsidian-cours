@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours HDA|Cours HDA]]"
+  - "[[Raw/Year 1/HDA/Cours HDA .docx|Cours HDA]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours HDA|Cours HDA]], dans [[HDA (matière)]]. Note très courte du 26/10/23, dans la rubrique « Culture G ».
+Résumé de [[Raw/Year 1/HDA/Cours HDA .docx|Cours HDA]], dans [[HDA (matière)]]. Note très courte du 26/10/23, dans la rubrique « Culture G ».
 
 ## Culture G : l'art kuna
 

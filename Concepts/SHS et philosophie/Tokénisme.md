@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [tokenisme, théorie de Kanter]
 matieres: [projet court]
-sources: ["[[recherches femmes et foot]]"]
+sources: ["[[recherches femmes et foot (résumé)|recherches femmes et foot]]"]
 maj: 2026-11-06
 ---
 

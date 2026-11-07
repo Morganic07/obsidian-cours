@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [multi-processor systems, multiprocessor system, parallel systems, symmetric multiprocessing, asymmetric multiprocessing, multitraitement symétrique, multitraitement asymétrique]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

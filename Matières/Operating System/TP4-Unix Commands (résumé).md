@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF TP4-Unix Commands (`.raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf`) (3 pages, 2 décembre 2024, « TP-4 : Backup processes, and automating the backup using Cron »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP4 (résumé)]] ; les notes de cours, [[Séance TP4 (résumé)]]. La seule figure (schéma de la syntaxe crontab) est du texte, recopiée ci-dessous. Aucun corrigé.
+Résumé du PDF TP4-Unix Commands ([[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]) (3 pages, 2 décembre 2024, « TP-4 : Backup processes, and automating the backup using Cron »), dans [[Operating System (matière)]]. Sujet de TP, en anglais. Le rendu est [[TP4 (résumé)]] ; les notes de cours, [[Séance TP4 (résumé)]]. La seule figure (schéma de la syntaxe crontab) est du texte, recopiée ci-dessous. Aucun corrigé.
 
 ## 1. Processus père et fils pour journaliser l'heure et la sauvegarder
 

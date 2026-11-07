@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [line graph, probability histogram, histogramme de probabilité, diagramme en bâtons]
 matieres: [Probability]
-sources: ["[[Chp 4 - Discrete random variables]]"]
+sources: ["[[Chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]"]
 maj: 2026-11-06
 ---
 

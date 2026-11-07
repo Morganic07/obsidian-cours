@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [matrice de Jacobi, matrices jacobiennes, jacobien, Jacobian, "jacobien d'un changement de variable", J_φ]
 matieres: [Analyse dans Rn, Analyse]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]", ".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"]
 maj: 2026-11-06
 ---
 

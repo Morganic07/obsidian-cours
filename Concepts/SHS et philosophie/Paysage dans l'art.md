@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [pittoresque, bucolique, paysage comme genre]
 matieres: [Philosophie]
-sources: ["[[philo 3]]"]
+sources: ["[[philo 3 (résumé)|philo 3]]"]
 maj: 2026-11-06
 ---
 

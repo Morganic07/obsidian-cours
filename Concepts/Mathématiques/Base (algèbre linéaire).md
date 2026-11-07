@@ -14,11 +14,11 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp 1 - Orthogonality]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[chp6|chp6 (Algèbre)]]"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp6 (résumé)|chp6 (Algèbre)]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 

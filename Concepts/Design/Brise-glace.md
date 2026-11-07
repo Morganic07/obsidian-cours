@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [ice breaker, icebreaker]
 matieres: [Projet Design, Anglais]
-sources: ["[[EDOSSAH]]", "[[Global Exam Vocab]]"]
+sources: ["[[EDOSSAH (résumé)|EDOSSAH]]", "[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

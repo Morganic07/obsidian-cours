@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [eco-design, éco-conception, biodegradable packaging, emballage biodégradable, approvisionnement durable, conception durable]
 matieres: [Anglais, Culture du vivant, workshop]
-sources: ["[[Global Exam Vocab]]", "[[Culture du vivant Dernier cours]]", "[[Reyou]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]", "[[Reyou (résumé)|Reyou]]"]
 maj: 2026-11-06
 ---
 

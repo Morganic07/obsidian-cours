@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de TD1-numbres-reels (`.raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf`) (4 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD sur les réels (PréING1, Analyse, 2020-2021), en lien avec [[Chap1-reels (résumé)]]. Le document ne donne que les énoncés : les pistes de méthode signalées « Piste » ne viennent pas du TD, sauf mention « Indication (TD) ».
+Résumé de TD1-numbres-reels ([[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]) (4 pages, sans corrigé), dans [[Analyse Maths (matière)]]. TD sur les réels (PréING1, Analyse, 2020-2021), en lien avec [[Chap1-reels (résumé)]]. Le document ne donne que les énoncés : les pistes de méthode signalées « Piste » ne viennent pas du TD, sauf mention « Indication (TD) ».
 
 ## Énoncés des 19 exercices
 

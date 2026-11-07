@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [central limit theorem, CLT, TCL, asymptotiquement normale, asymptotically normal]
 matieres: [Statistics, Probability]
-sources: ["[[Chp3 - More on probability]]", "[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 

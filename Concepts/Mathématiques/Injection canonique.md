@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"]
 maj: 2026-11-06
 ---
 

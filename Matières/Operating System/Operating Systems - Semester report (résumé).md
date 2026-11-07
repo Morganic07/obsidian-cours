@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Operating Systems - Semester report]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/Operating Systems - Semester report.docx|Operating Systems - Semester report]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Operating Systems - Semester report]], dans [[Operating System (matière)]]. Rapport de semestre de l'étudiante (classe ID2B) qui rassemble le « Lab 1 Shell scripting » (30 septembre 2024) et le « Lab 2 Processes » (21 octobre 2024), avec ses réponses, son code commenté et les captures des résultats. Ce sont les réponses de l'étudiante, pas un corrigé. Les énoncés, reproduits en captures dans le rapport, sont recopiés ici en texte ; seules les captures de résultats du terminal sont intégrées.
+Résumé de [[Raw/Year 2/Operating System/DM/Operating Systems - Semester report.docx|Operating Systems - Semester report]], dans [[Operating System (matière)]]. Rapport de semestre de l'étudiante (classe ID2B) qui rassemble le « Lab 1 Shell scripting » (30 septembre 2024) et le « Lab 2 Processes » (21 octobre 2024), avec ses réponses, son code commenté et les captures des résultats. Ce sont les réponses de l'étudiante, pas un corrigé. Les énoncés, reproduits en captures dans le rapport, sont recopiés ici en texte ; seules les captures de résultats du terminal sont intégrées.
 
 Mêmes questions que [[DM Shell Scripting (résumé)]] pour le Lab 1, mêmes programmes que [[Copy of 08 Processes-TP (résumé)]] pour le Lab 2, mais avec les sorties obtenues et des commentaires.
 

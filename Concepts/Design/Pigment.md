@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [pigments]
 matieres: [Peinture]
-sources: ["[[Cours 3]]"]
+sources: ["[[Séance 3 (résumé)|Cours 3]]"]
 maj: 2026-11-06
 ---
 

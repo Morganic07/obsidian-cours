@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [mean square, mean squares, carrés moyens, MS between, MS within, MSB, MSW]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 12 - ANOVA and F-statistic]]"]
+sources: ["[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]"]
 maj: 2026-11-06
 ---
 

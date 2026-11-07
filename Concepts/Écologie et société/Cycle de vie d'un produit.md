@@ -3,7 +3,7 @@ type: concept
 tags: [year3, year4]
 aliases: [cycle de vie du produit, cycle de vie des produits, fin de vie]
 matieres: [Culture du vivant, workshop, "management de l'innovationb"]
-sources: ["[[Culture du vivant Dernier cours]]", "[[Reyou]]", ".raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf"]
+sources: ["[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]", "[[Reyou (résumé)|Reyou]]", "[[Raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|CY école de design 4e - Management de l'innovation - 2026 09 30.pdf]]"]
 maj: 2026-11-06
 ---
 

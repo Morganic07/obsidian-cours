@@ -12,7 +12,7 @@ aliases:
 matieres:
   - Peinture
 sources:
-  - "[[Cours 2|Cours 2]]"
+  - "[[Séance 2 (résumé)|Cours 2]]"
 maj: 2026-11-06
 ---
 

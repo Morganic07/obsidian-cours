@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du support du professeur Chapitre 2 - Ensembles (PDF) (`.raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf`) (26 diapositives, octobre 2023, Outils mathématiques, semestre 1), dans [[Outil Maths (matière)]]. C'est la version du professeur du cours déjà résumé dans [[Chapitre 2 ensembles (résumé)]] ; notions : [[Opérations sur les ensembles]], [[Logique propositionnelle]].
+Résumé du support du professeur Chapitre 2 - Ensembles (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]) (26 diapositives, octobre 2023, Outils mathématiques, semestre 1), dans [[Outil Maths (matière)]]. C'est la version du professeur du cours déjà résumé dans [[Chapitre 2 ensembles (résumé)]] ; notions : [[Opérations sur les ensembles]], [[Logique propositionnelle]].
 
 Plan du support : 1. Introduction à la théorie des ensembles ; 2. Ensemble des parties d'un ensemble ; 3. Diagramme de Venn ; 4. Produits cartésiens.
 

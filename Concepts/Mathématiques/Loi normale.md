@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [normal distribution, Gaussian distribution, loi gaussienne, loi normale centrée réduite, standard normal distribution, règle 68-95-99.7, variable normale, lognormal distribution, loi log-normale, standard normal random variable, table de la loi normale, quantile de la loi normale]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[Chp 5 - Continuous random variable]]", "[[Chp3 - More on probability]]", "[[Chp4 Part2 - Inferential statistics]]"]
+sources: ["[[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Chp4 Part2 - Inferential statistics (résumé)|Chp4 Part2 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 
@@ -23,7 +23,7 @@ Notion parente : [[Variable aléatoire]]. Liens : [[Espérance et variance]]
 
 ## À vérifier
 
-- [[Chp 5 - Continuous random variable]] emploie deux notations dans le même chapitre : $N(\mu, \sigma)$ et $\mathcal{N}(\mu, \sigma^2)$.
-- [[Chp3 - More on probability]] affirme sans preuve qu'une combinaison linéaire de normales indépendantes est normale.
+- [[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]] emploie deux notations dans le même chapitre : $N(\mu, \sigma)$ et $\mathcal{N}(\mu, \sigma^2)$.
+- [[Chp3 - More on probability (résumé)|Chp3 - More on probability]] affirme sans preuve qu'une combinaison linéaire de normales indépendantes est normale.
 
 Résumés : [[Chp 5 - Continuous random variable (résumé)]], [[Chp3 - More on probability (résumé)]], [[Chp4 Part2 - Inferential statistics (résumé)]], [[Séance 4 - Estimation (résumé)]]

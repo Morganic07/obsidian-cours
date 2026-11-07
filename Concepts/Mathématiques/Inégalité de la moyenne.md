@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [valeur moyenne d'une fonction, valeur moyenne]
 matieres: [Analyse]
-sources: ["[[Chap7-Integration]]", "[[Intégration UTILITAIRE]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 ---
 

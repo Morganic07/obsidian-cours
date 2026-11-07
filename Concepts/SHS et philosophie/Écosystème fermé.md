@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [écosystèmes fermés]
-sources: ["[[ratranscription HermioneXMorgane]]"]
+sources: ["[[Entretien sur l'open source (résumé)|ratranscription HermioneXMorgane]]"]
 maj: 2026-11-06
 ---
 

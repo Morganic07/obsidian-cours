@@ -20,14 +20,14 @@ matieres:
   - Outil Maths
   - Analyse Maths
 sources:
-  - "[[Chp 0a - Linear combination]]"
-  - "[[Chp 0b - Matrix algebra]]"
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp2|chp2 (Algèbre)]]"
-  - ".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf"
-  - ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"
-  - ".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp2 (résumé)|chp2 (Algèbre)]]"
+  - "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"
+  - "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"
+  - "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -54,6 +54,6 @@ Liens : [[Transformation linéaire]], [[Espace nul]], [[Espace des colonnes]], [
 ## À vérifier
 
 - [[Contrôles (résumé)]] : « bijection de $x^2 - 1$ sur $[1, +\infty[$ » est la formulation du résumé ; les ensembles de départ et d'arrivée sont à vérifier dans le scan.
-- [[chp7|chp7 (Algèbre)]] : coquille « non-injonctive ».
+- [[chp7 (résumé)|chp7 (Algèbre)]] : coquille « non-injonctive ».
 
 Résumés : [[Chp 0a - Linear combination (résumé)]], [[Chp 0d - Vector Space (résumé)]], [[chp2 (résumé)|chp2 (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[AnalyseID1 (résumé)]], [[Contrôles (résumé)]]

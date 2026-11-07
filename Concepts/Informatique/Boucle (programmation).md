@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3, year4]
 aliases: [boucle TANTQUE, boucle POUR, boucle REPETER, boucle while, boucle for, Boucle en Bash, while loop, for loop, while true, boucle do-while, do-while, boucles for, boucles while, do while, do ... while, boucle infinie]
 matieres: [Algo Maths, Operating System, Java, C++]
-sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Python]]", "[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Cours TP3]]", "[[Chp1 - Intro Java]]", "[[chp2 - structures code]]"]
+sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Python (résumé)|Python]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Séance TP3 (résumé)|Cours TP3]]", "[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 

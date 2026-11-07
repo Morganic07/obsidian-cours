@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [accessibility]
 matieres: [Anglais, culture du soin]
-sources: ["[[Global Exam Vocab]]", ".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
 maj: 2026-11-06
 ---
 

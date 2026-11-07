@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [sample space, espace d'échantillonnage, espace des événements, sigma-algèbre, sigma-algebra, tribu, axiomes de probabilité, événement impossible, événement nul, sample set, espace des issues, space of events]
 matieres: [Probability]
-sources: ["[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 
@@ -19,6 +19,6 @@ Liens : [[Probabilité conditionnelle]], [[Variable aléatoire]], [[Opérations 
 
 ## À vérifier
 
-- [[Chp 1 - Sample space,events, proba]] écrit « A is impossible if P(A) = ø », qui mélange $P(A) = 0$ (événement nul) et $A = \emptyset$ (événement impossible).
+- [[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]] écrit « A is impossible if P(A) = ø », qui mélange $P(A) = 0$ (événement nul) et $A = \emptyset$ (événement impossible).
 
 Résumé : [[Chp 1 - Sample space,events, proba (résumé)]]

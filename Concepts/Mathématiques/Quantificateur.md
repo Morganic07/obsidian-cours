@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [quantificateurs, quantificateur universel, quantificateur existentiel, négation des quantificateurs, distributivité des quantificateurs]
 matieres: [Analyse Maths, Outil Maths]
-sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf", ".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf", ".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf", ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/td1slides.pdf", ".raw/Year 1/Contrôles.pdf"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
 maj: 2026-11-06
 ---
 

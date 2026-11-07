@@ -7,8 +7,8 @@ aliases:
   - machine learning
   - apprentissage machine
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
-  - ".raw/Year 4/data mining/cours data mining du prof.pdf"
+  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
+  - "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"
 maj: 2026-11-06
 ---
 

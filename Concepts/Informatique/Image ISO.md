@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [ISO image, fichier ISO]
-sources: ["[[OS - chp 3]]"]
+sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 

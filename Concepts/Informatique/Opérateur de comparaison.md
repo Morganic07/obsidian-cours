@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [Opérateurs de comparaison en Bash, integer comparison operators, string comparison operators, opérateurs de comparaison, XOR logique, triple égalité]
 matieres: [Operating System, C++]
-sources: ["[[Commandes Shell + explications]]", "[[DM Shell Scripting]]", "[[Chp1 - basiques]]", "[[chp2 - structures code]]"]
+sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]", "[[Chp1 - basiques (résumé)|Chp1 - basiques]]", "[[chp2 - structures code (résumé)|chp2 - structures code]]"]
 maj: 2026-11-06
 ---
 

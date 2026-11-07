@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [substance transhistorique]
-sources: ["[[philo 4]]"]
+sources: ["[[philo 4 (résumé)|philo 4]]"]
 maj: 2026-11-06
 ---
 

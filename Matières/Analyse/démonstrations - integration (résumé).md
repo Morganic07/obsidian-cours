@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[démonstrations - integration]]"]
+sources: ["[[Raw/Year 2/Analyse/chp7/démonstrations - integration .docx|démonstrations - integration]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[démonstrations - integration]], dans [[Analyse (matière)]]. Cette note donne les preuves des énoncés de [[Chap7-Integration]] (voir [[Chap7-Integration (résumé)]]), dans le même ordre, et deux exemples de calcul de primitives trigonométriques. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse/chp7/démonstrations - integration .docx|démonstrations - integration]], dans [[Analyse (matière)]]. Cette note donne les preuves des énoncés de [[Chap7-Integration (résumé)|Chap7-Integration]] (voir [[Chap7-Integration (résumé)]]), dans le même ordre, et deux exemples de calcul de primitives trigonométriques. En cas d'écart, le cours et ses images font foi.
 
 Notations : $\mathcal{E}([a,b],\mathbb{R})$ désigne les fonctions en escalier ; $\mathcal{E}^-_{[a,b]}(f)$ celles qui sont $\le f$, $\mathcal{E}^+_{[a,b]}(f)$ celles qui sont $\ge f$ ; $A^\pm_{[a,b]}(f)$ l'ensemble de leurs intégrales.
 
@@ -146,5 +146,5 @@ Ces points viennent des transcriptions, sans que j'aie ouvert les images. Rien n
 4. **Primitives** : « deux primitives de la fonction $F$ » doit se lire $f$.
 5. **Existence de l'intégrale** : $I^-_{[a,b]}(f)$ doit se lire $A^-_{[a,b]}(f)$.
 6. **Transcriptions** (mentions « À vérifier » reprises) : la fin de la ligne (iii) des fonctions en escalier est coupée sur l'image et complétée par $\int_{[c,b]} f$ ; la dernière ligne de la preuve de l'encadrement est en partie masquée par la figure.
-7. **Sommes de Riemann** : l'avant-dernière majoration est justifiée « car $f$ est lipschitzienne », alors qu'elle vient de $|x - a_k| \le a_{k+1} - a_k$ sur $[a_k, a_{k+1}]$. Cette preuve porte sur la somme à gauche ($k = 0$ à $n-1$), alors que l'énoncé de [[Chap7-Integration]] porte sur $k = 1$ à $n$.
+7. **Sommes de Riemann** : l'avant-dernière majoration est justifiée « car $f$ est lipschitzienne », alors qu'elle vient de $|x - a_k| \le a_{k+1} - a_k$ sur $[a_k, a_{k+1}]$. Cette preuve porte sur la somme à gauche ($k = 0$ à $n-1$), alors que l'énoncé de [[Chap7-Integration (résumé)|Chap7-Integration]] porte sur $k = 1$ à $n$.
 8. **Relation de Chasles, preuve** : image vérifiée, le cours écrit $\varphi_{|[a,c]} \in \mathcal{E}^-_{[a,c]}(f)$ et $\varphi_{|[c,b]} \in A^-_{[c,b]}(f)$. Le second est sans doute une coquille pour $\mathcal{E}^-_{[c,b]}(f)$ : $A^-$ est un ensemble d'intégrales (des réels), pas de fonctions.

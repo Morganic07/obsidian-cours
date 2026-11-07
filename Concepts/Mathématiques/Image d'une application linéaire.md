@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [image d'une transformation linéaire, im(t)]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp2]]"]
+sources: ["[[chp2 (résumé)|chp2]]"]
 maj: 2026-11-06
 ---
 

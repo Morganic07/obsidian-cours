@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: []
-sources: [".raw/Year 3/Sémiotique/Cours 3.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
 maj: 2026-11-06
 ---
 

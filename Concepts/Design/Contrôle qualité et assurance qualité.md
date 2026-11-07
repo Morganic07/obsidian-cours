@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [quality control, quality assurance, contrôle qualité, assurance qualité, nonconformity, non-conformité]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF Copy of TP2-Commands (`.raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf`) (6 pages, 18 novembre 2024, cours « UNIX Commands », partie « File Management »), dans [[Operating System (matière)]]. Sujet de TP, en anglais, sans figure. Le rendu correspondant est [[TP2 (résumé)]] ; les notes de cours, [[Séance TP2 (résumé)]]. Pour chaque tâche, le sujet demande une capture du terminal avant et après la commande. Aucun corrigé dans le document.
+Résumé du PDF Copy of TP2-Commands ([[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]) (6 pages, 18 novembre 2024, cours « UNIX Commands », partie « File Management »), dans [[Operating System (matière)]]. Sujet de TP, en anglais, sans figure. Le rendu correspondant est [[TP2 (résumé)]] ; les notes de cours, [[Séance TP2 (résumé)]]. Pour chaque tâche, le sujet demande une capture du terminal avant et après la commande. Aucun corrigé dans le document.
 
 ## 1. Méta-caractères (*Meta characters*)
 

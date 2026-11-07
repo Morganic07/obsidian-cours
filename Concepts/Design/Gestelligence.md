@@ -3,7 +3,7 @@ type: concept
 tags: [year1, nomme]
 aliases: []
 matieres: ["Corps à l'oeuvre"]
-sources: ["[[corps à l'oeuvre - cours]]"]
+sources: ["[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp3 - Dynamic Routing]]"]
+sources: ["[[Raw/Year 3/Computer Network/Chp3 : Dynamic Routing.docx|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp3 - Dynamic Routing]], dans [[Computer Network (matière)]] : route par défaut, principe du routage dynamique, types de protocoles (IGP, EGP), protocole RIP et ses commandes Cisco. Cours en anglais. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Computer Network/Chp3 : Dynamic Routing.docx|Chp3 - Dynamic Routing]], dans [[Computer Network (matière)]] : route par défaut, principe du routage dynamique, types de protocoles (IGP, EGP), protocole RIP et ses commandes Cisco. Cours en anglais. En cas d'écart, le cours et ses images font foi.
 
 ## Route par défaut (*default route*)
 

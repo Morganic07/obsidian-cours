@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[OS - chp 3]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 3.docx|OS - chp 3]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[OS - chp 3]] (« Course 3 »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 3.docx|OS - chp 3]] (« Course 3 »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

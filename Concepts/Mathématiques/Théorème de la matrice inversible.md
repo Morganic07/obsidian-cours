@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[Invertible matrix theorem]]", "[[Chp 0b - Matrix algebra]]"]
+sources: ["[[Invertible matrix theorem (résumé)|Invertible matrix theorem]]", "[[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [multidiffusion, adresse multicast, 224.0.0.9]
 matieres: [Computer Network]
-sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf", "[[Chp3 - Dynamic Routing]]"]
+sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]", "[[Chp3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 ---
 

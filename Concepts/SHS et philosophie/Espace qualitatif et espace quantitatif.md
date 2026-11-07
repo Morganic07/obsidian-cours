@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [espace qualitatif, espace quantitatif, existence du vide]
-sources: ["[[philo 4]]"]
+sources: ["[[philo 4 (résumé)|philo 4]]"]
 maj: 2026-11-06
 ---
 

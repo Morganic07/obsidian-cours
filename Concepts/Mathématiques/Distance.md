@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [distance associée à une norme, distance euclidienne, distance between vectors, distance de Manhattan, distance de Hamming, Euclidean distance, Manhattan distance, Hamming distance]
 matieres: [Analyse dans Rn, Bilinear Algebra, data mining]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]", "[[chp 1 - Orthogonality]]", ".raw/Year 4/data mining/cours data mining du prof.pdf"]
+sources: ["[[Chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 

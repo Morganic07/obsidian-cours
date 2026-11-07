@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 13 - Principal Components Analysis]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 13 : Principal Components Analysis.docx|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 13 - Principal Components Analysis]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 13 : Principal Components Analysis.docx|Cours 13 - Principal Components Analysis]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

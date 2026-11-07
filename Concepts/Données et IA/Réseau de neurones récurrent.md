@@ -11,11 +11,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Nommé dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition, comme famille de l'apprentissage profond dans le schéma du cours.
+Nommé dans [[Séance 1 - IA (résumé)|Cours 1 (IA)]] sans définition, comme famille de l'apprentissage profond dans le schéma du cours.
 
 Notion parente : [[Apprentissage profond]].
 

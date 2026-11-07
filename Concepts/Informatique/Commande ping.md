@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [ping]
 matieres: [Operating System, Computer Network]
-sources: ["[[Cours TP3]]", "[[Commandes Shell + explications]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf", "[[Formation CISCO Packet Tracer]]"]
+sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]", "[[Formation CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [architecture 2 tiers, architecture 3 tiers, architecture web 3 tiers, 3-tier, n-tier, serveur d'application]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 3 - opérateurs et SQL]]"]
+sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [MLD, modèle logique de données, schéma relationnel, relational diagram, relation (base de données), attribut (base de données)]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]", "[[Cours 3 - opérateurs et SQL]]"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
 maj: 2026-11-06
 ---
 

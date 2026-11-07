@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [agile, sprint, sprints, user story, user stories, product owner]
 matieres: [Anglais]
-sources: ["[[Global Exam Vocab]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]"]
 maj: 2026-11-06
 ---
 

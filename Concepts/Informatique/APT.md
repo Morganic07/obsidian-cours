@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Advanced Package Tool, apt update, apt upgrade, apt full-upgrade, apt install, apt-get]
 matieres: [Operating System]
-sources: ["[[OS - chp 5]]", "[[cours TP1]]", "[[TP1]]"]
+sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]"]
 maj: 2026-11-06
 ---
 

@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Culture du vivant Dernier cours|Culture du vivant Dernier cours]]"
+  - "[[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Culture du vivant Dernier cours|Culture du vivant Dernier cours]], dans [[Culture du vivant (matière)]]. Notes de l'étudiant sur la dernière séance, avec trois photos d'écran du diaporama (le diaporama compte 43 diapositives d'après la barre d'état d'une photo).
+Résumé de [[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]], dans [[Culture du vivant (matière)]]. Notes de l'étudiant sur la dernière séance, avec trois photos d'écran du diaporama (le diaporama compte 43 diapositives d'après la barre d'état d'une photo).
 
 ## Constat : une pyramide « buggée »
 

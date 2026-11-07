@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[explications DM d'algo]]"]
+sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[explications DM d'algo]], dans [[Algo Maths (matière)]]. Note pédagogique d'un étudiant, partagée avec la promotion, autour d'un devoir sur le [[Problème du sac à dos]]. Pas d'image dans la note.
+Résumé de [[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]], dans [[Algo Maths (matière)]]. Note pédagogique d'un étudiant, partagée avec la promotion, autour d'un devoir sur le [[Problème du sac à dos]]. Pas d'image dans la note.
 
 **Statut de la source** : l'auteur indique en préambule que la majorité du code provient de ChatGPT, qu'il ne détient « pas la vérité absolue », que le code peut être inexact, et demande de faire preuve d'esprit critique. Tout ce qui suit est donc une explication d'étudiant sur du code en grande partie généré, pas un corrigé de l'enseignant.
 

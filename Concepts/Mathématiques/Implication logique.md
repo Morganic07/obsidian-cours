@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [réciproque d'une implication]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"]
 maj: 2026-11-06
 ---
 

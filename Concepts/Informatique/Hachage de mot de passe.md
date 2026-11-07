@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [hashed password, mot de passe haché, mots de passe hachés]
 matieres: [Operating System]
-sources: ["[[cours TP1]]"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

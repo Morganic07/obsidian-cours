@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[Dernier cours|Dernier cours (Corps à l'oeuvre)]]"
+  - "[[Raw/Year 2/Corps à l'oeuvre/Dernier cours.docx|Dernier cours (Corps à l'oeuvre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Dernier cours|Dernier cours (Corps à l'oeuvre)]], dans [[Corps à l'oeuvre (matière)]]. Note de séance courte, surlignée en entier, sans titres ni images : les titres ci-dessous sont ajoutés pour la lecture.
+Résumé de [[Raw/Year 2/Corps à l'oeuvre/Dernier cours.docx|Dernier cours (Corps à l'oeuvre)]], dans [[Corps à l'oeuvre (matière)]]. Note de séance courte, surlignée en entier, sans titres ni images : les titres ci-dessous sont ajoutés pour la lecture.
 
 ## Geste et mouvement
 

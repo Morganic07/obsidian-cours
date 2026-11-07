@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Python|Python (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/Python.docx|Python (Algo Maths)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Python|Python (Algo Maths)]], dans [[Algo Maths (matière)]] : notes de la séance du 05/10/23, premier cours de [[Langage Python|Python]]. Note courte, sans image.
+Résumé de [[Raw/Year 1/Algo Maths/Python.docx|Python (Algo Maths)]], dans [[Algo Maths (matière)]] : notes de la séance du 05/10/23, premier cours de [[Langage Python|Python]]. Note courte, sans image.
 
 ## Remarque générale
 

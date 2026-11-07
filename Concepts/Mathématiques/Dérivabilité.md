@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [dérivable, dérivables, nombre dérivé, dérivée à gauche, dérivée à droite, dérivées usuelles]
 matieres: [Analyse Maths, Analyse, Analyse dans Rn]
-sources: ["[[Chp4 - dérivabilité]]"]
+sources: ["[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 
@@ -24,13 +24,13 @@ $f$ est dérivable en $a$ si $f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$ 
 **[[Règle de l'Hôpital]]** : si $f(x_0) = g(x_0) = 0$, si $g'$ ne s'annule pas hors de $x_0$, et si $f'/g' \to \ell$, alors $f/g \to \ell$.
 
 > [!warning] Écart dans le cours
-> [[Chp4 - dérivabilité]] ajoute « pareil avec strictement » pour le sens de variation. Seul $f' > 0 \Rightarrow$ strictement croissante est vrai : $x^3$ est strictement croissante, alors que $f'(0) = 0$ (complément).
+> [[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]] ajoute « pareil avec strictement » pour le sens de variation. Seul $f' > 0 \Rightarrow$ strictement croissante est vrai : $x^3$ est strictement croissante, alors que $f'(0) = 0$ (complément).
 
 Liens : [[Limite et continuité]], [[Fonction de classe Ck]], [[Application lipschitzienne]], [[Développement limité]], [[Primitive]], [[Dérivée partielle]], [[Formule de Leibniz]]
 
 ## À vérifier
 
-- [[Chp4 - dérivabilité]] écrit $c \in [a, b]$ pour Rolle et les accroissements finis, alors que le théorème usuel donne $c \in ]a, b[$.
+- [[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]] écrit $c \in [a, b]$ pour Rolle et les accroissements finis, alors que le théorème usuel donne $c \in ]a, b[$.
 - Pour la dérivée de la réciproque, le cours écrit « si $f$ ne s'annule pas » au lieu de $f'$.
 
 Résumés : [[Chp4 - dérivabilité (résumé)]], [[AnalyseID1 (résumé)]], [[Contrôles (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [kill %1]
 matieres: [Operating System]
-sources: ["[[TP3 - PINA Morgane|TP3]]", "[[UNIX Commands - Semester report]]"]
+sources: ["[[TP3 (résumé)|TP3]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
 maj: 2026-11-06
 ---
 

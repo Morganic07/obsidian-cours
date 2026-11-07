@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [orthogonal projection, orthogonal projections, projections orthogonales, projeté orthogonal, projeté orthogonalement, Orthogonal Decomposition Theorem, théorème de décomposition orthogonale, best approximation, meilleure approximation]
-sources: ["[[chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms]]", "[[Cours 13 - Principal Components Analysis]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 

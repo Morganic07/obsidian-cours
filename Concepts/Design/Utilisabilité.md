@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [usability]
 matieres: [Affordance, Sémiotique]
-sources: [".raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx", ".raw/Year 3/Sémiotique/Cours 2.pptx"]
+sources: ["[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-06
 ---
 

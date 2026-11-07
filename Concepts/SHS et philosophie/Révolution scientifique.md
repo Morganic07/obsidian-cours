@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [rupture moderne, du monde clos à l'univers infini]
-sources: ["[[philo 2]]", "[[philo 3]]"]
+sources: ["[[philo 2 (résumé)|philo 2]]", "[[philo 3 (résumé)|philo 3]]"]
 maj: 2026-11-06
 ---
 

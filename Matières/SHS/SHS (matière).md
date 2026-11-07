@@ -5,9 +5,9 @@ tags:
   - year3
   - year4
 sources:
-  - ".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"
-  - "[[Synthese SHS GPT|Synthese SHS GPT]]"
-  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
+  - "[[Synthese SHS GPT (résumé)|Synthese SHS GPT]]"
+  - "[[Prise de note SHS (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -54,7 +54,7 @@ SHS de 3e année : enquête par entretiens sur l'imaginaire de la mobilité du f
 |---|---|---|
 | Transcriptions des entretiens | Entretiens bruts | [[Transcriptions des entretiens (résumé)\|Résumé]] |
 | Synthèse des entretiens | Rapport rédigé | [[Synthèse des entretiens (résumé)\|Résumé]] |
-| [[Synthese SHS GPT\|Synthese SHS GPT]] | Analyse comparative | [[Synthese SHS GPT (résumé)\|Résumé]] |
+| [[Synthese SHS GPT (résumé)\|Synthese SHS GPT]] | Analyse comparative | [[Synthese SHS GPT (résumé)\|Résumé]] |
 
 ### Documents PDF
 
@@ -99,7 +99,7 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Prise de note SHS\|Prise de note SHS]] | Problématique, plan, ouvertures | [[Prise de note SHS (résumé)\|Résumé]] |
+| [[Prise de note SHS (résumé)\|Prise de note SHS]] | Problématique, plan, ouvertures | [[Prise de note SHS (résumé)\|Résumé]] |
 | Recherches SHS | Recherches (Blender, OpenFisca, IA) | [[Recherches SHS (résumé)\|Résumé]] |
 | Entretien sur l'open source | Entretien retranscrit | [[Entretien sur l'open source (résumé)\|Résumé]] |
 

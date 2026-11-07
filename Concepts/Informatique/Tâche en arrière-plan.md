@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [background job, background task, tâche de fond, tâches de fond, background and job control, job control, commandes en arrière-plan]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP2]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 

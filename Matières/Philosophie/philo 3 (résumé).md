@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[philo 3|philo 3]]"
+  - "[[Raw/Year 2/Philosophie/philo 3.docx|philo 3]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[philo 3|philo 3]], dans [[Philosophie (matière)]]. Titre : « Progrès scientifiques et techniques : naissance, problèmes, progrès et civilisation ». La note ne contient aucune image.
+Résumé de [[Raw/Year 2/Philosophie/philo 3.docx|philo 3]], dans [[Philosophie (matière)]]. Titre : « Progrès scientifiques et techniques : naissance, problèmes, progrès et civilisation ». La note ne contient aucune image.
 
 ## L'évolution de la perception du paysage dans l'art
 

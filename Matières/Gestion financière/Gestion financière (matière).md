@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year4
 sources:
-  - "[[Gestion financière|Gestion financière]]"
+  - "[[Gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-06
 ---
 
@@ -11,7 +11,7 @@ Gestion financière de 4e année : une seule note, rangée à la racine de `Year
 
 | Note | Contenu | Résumé |
 |---|---|---|
-| [[Gestion financière\|Gestion financière]] | Types de banque, marchés financiers, balances, TEE, PIB et PNB, coût et prix | [[Gestion financière (résumé)\|Résumé]] |
+| [[Gestion financière (résumé)\|Gestion financière]] | Types de banque, marchés financiers, balances, TEE, PIB et PNB, coût et prix | [[Gestion financière (résumé)\|Résumé]] |
 
 La note n'est qu'une liste de définitions brèves : les pages de concepts ci-dessous n'en disent pas plus qu'elle.
 

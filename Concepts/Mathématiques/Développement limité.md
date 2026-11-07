@@ -16,9 +16,9 @@ matieres:
   - Analyse dans Rn
   - Séries
 sources:
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
-  - ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"
-  - "[[Chp0 - Revision chapter]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
+  - "[[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
 maj: 2026-11-06
 ---
 
@@ -48,7 +48,7 @@ Le chapitre 0 de Séries reprend la liste des DL usuels : $e^x$, $\cos$, $\sin$,
 Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Asymptote oblique]], [[Tangente à une courbe]], [[Fonction de classe Ck]], [[Fonctions trigonométriques réciproques]], [[Série entière]], [[Reste de Taylor]], [[Dérivabilité]], [[Différentielle]]
 
 > [!warning] Écart dans le cours
-> [[Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
+> [[Chp0 - Revision chapter (résumé)|Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
 
 **Piège** : un DL d'ordre $n$ n'implique pas $n$ dérivées. $x^3\sin(1/x)$ a un DL d'ordre 2 en 0 sans être deux fois dérivable en 0 (corrigé du TD5) : $\mathcal{C}^n \Rightarrow$ DL$_n$, sans réciproque.
 

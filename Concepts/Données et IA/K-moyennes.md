@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [k-means, K-means, kmeans, k-moyennes]
 matieres: [data mining]
-sources: ["[[Chp1 - intro to data mining]]", ".raw/Year 4/data mining/cours data mining du prof.pdf"]
+sources: ["[[Chp1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 

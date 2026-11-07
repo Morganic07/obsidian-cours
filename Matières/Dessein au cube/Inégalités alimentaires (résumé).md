@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Inégalités alimentaires|Inégalités alimentaires]]"
+  - "[[Raw/Year 1/Dessein au cube/inégalités alimentaires/Inégalités alimentaires .docx|Inégalités alimentaires]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Inégalités alimentaires|Inégalités alimentaires]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Raw/Year 1/Dessein au cube/inégalités alimentaires/Inégalités alimentaires .docx|Inégalités alimentaires]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Première préparation de l'enquête par entretien : thème, problématique, premier jet du guide d'entretien, activités prévues et corrections à apporter. Méthode : [[Entretien semi-directif]].
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [bar chart, bar graph, pie chart, diagramme circulaire, diagramme en barres, diagrammes en barres]
-sources: ["[[Chp2 - Descriptive statistics]]"]
+sources: ["[[Chp2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [/etc/shadow, /etc/passwd, fichier shadow]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[cours TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 
@@ -13,6 +13,6 @@ Notion parente : [[Arborescence des répertoires Linux]]. Voir aussi : [[Command
 
 ## À vérifier
 
-- Désaccord entre sources : OS - chp 4 (`.raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf`) place les mots de passe dans `/etc/passwd`, le [[cours TP1]] dans `/etc/shadow`.
+- Désaccord entre sources : OS - chp 4 ([[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]) place les mots de passe dans `/etc/passwd`, le [[séance TP1 (résumé)|cours TP1]] dans `/etc/shadow`.
 
 Résumés : [[OS - chp 4 (résumé)]], [[séance TP1 (résumé)]]

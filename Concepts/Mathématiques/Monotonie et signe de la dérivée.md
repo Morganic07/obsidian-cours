@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [sens de variation, tableau de variation]
-sources: ["[[Chp4 - dérivabilité]]"]
+sources: ["[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [éco-organismes, eco-organisme]
 matieres: [workshop]
-sources: ["[[Reyou]]"]
+sources: ["[[Reyou (résumé)|Reyou]]"]
 maj: 2026-11-06
 ---
 

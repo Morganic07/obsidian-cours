@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 2 - éléments de topologie dans Rn]] (« Chapitre 2 : éléments de topologie dans Rn »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]] (« Chapitre 2 : éléments de topologie dans Rn »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

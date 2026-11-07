@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [unit vector, unit vectors, normalization, normalisation d'un vecteur, vecteurs unitaires]
 matieres: [Bilinear Algebra]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [passwd, sudo passwd]
 matieres: [Operating System]
-sources: ["[[cours TP1]]"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

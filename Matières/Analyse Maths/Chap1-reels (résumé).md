@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de Chap1-reels (`.raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf`) (PDF de 6 pages, « Chapitre 1 : L'ensemble $\mathbb{R}$ »), dans [[Analyse Maths (matière)]]. Scan sans texte (assemblage de captures de plusieurs documents), lu en image. Le document ne contient aucune figure : tout est recopié en texte ci-dessous.
+Résumé de Chap1-reels ([[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]) (PDF de 6 pages, « Chapitre 1 : L'ensemble $\mathbb{R}$ »), dans [[Analyse Maths (matière)]]. Scan sans texte (assemblage de captures de plusieurs documents), lu en image. Le document ne contient aucune figure : tout est recopié en texte ci-dessous.
 
 ## I. Ensembles de nombres
 

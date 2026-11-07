@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[AVL momo]]"]
+sources: ["[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[AVL momo]], dans [[Algo (matière)]]. Note étudiante de préparation d'un exposé sur les arbres AVL (voir [[qui dit quoi AVL (résumé)|qui dit quoi AVL]]), avec des extraits de l'amphi et le code [[Langage Python|Python]] des fonctions. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]], dans [[Algo (matière)]]. Note étudiante de préparation d'un exposé sur les arbres AVL (voir [[qui dit quoi AVL (résumé)|qui dit quoi AVL]]), avec des extraits de l'amphi et le code [[Langage Python|Python]] des fonctions. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 
@@ -162,7 +162,7 @@ La note s'arrête là : la complexité finale de `ajouter` et `supprimer` n'est 
 
 Rien n'a été corrigé dans le cours. Seule l'image 1 (propriété de hauteur) a été ouverte ; les autres sont lues par leur transcription.
 
-1. **Complexité de `rebalance`** (complément). **À corriger avant un examen.** La note annonce $O(\log n)$ avec une justification faible. Dans le code donné, `rebalance` appelle `facteur_equilibrage`, qui appelle `hauteur` deux fois, et `hauteur` parcourt tout le sous-arbre. `rebalance` est donc en $O(n)$ dans ce code. Elle n'est en $O(1)$ que si la hauteur est stockée dans chaque nœud. L'autre note de l'exposé, [[qui dit quoi AVL]], dit $O(1)$ : les deux notes se contredisent.
+1. **Complexité de `rebalance`** (complément). **À corriger avant un examen.** La note annonce $O(\log n)$ avec une justification faible. Dans le code donné, `rebalance` appelle `facteur_equilibrage`, qui appelle `hauteur` deux fois, et `hauteur` parcourt tout le sous-arbre. `rebalance` est donc en $O(n)$ dans ce code. Elle n'est en $O(1)$ que si la hauteur est stockée dans chaque nœud. L'autre note de l'exposé, [[qui dit quoi AVL (résumé)|qui dit quoi AVL]], dit $O(1)$ : les deux notes se contredisent.
 2. **Convention de hauteur** : la formule écrit $h = -1$ pour un sous-arbre vide, mais le code renvoie 0 pour un sous-arbre vide, donc 1 pour une feuille. La propriété $\log_2(1+n) \le 1 + h$ suppose qu'une feuille a $h = 0$.
 3. **Exemple chiffré de la propriété** : image lue directement, « si $n = 100000$, $17 \le h \le 25$ ». Avec les formules écrites au-dessus, on trouve environ $16 \le h \le 22$ (complément). Les bornes de l'amphi ne suivent donc pas exactement ses formules.
 4. **Facteurs après rotation** : la transcription juge incohérents $x = 1$ et $y = -1$ pour le cas $eq(x) = 0$. Fausse alerte (complément) : avec les sous-arbres de hauteurs $h+1$, $h+1$ et $h$, le calcul donne bien $x = 1$ et $y = -1$. Ce cas n'arrive qu'à la suppression.

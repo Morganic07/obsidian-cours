@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [pseudocode]
 matieres: [Algo Maths]
-sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf"]
+sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"]
 maj: 2026-11-06
 ---
 

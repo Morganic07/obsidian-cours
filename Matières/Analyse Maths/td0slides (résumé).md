@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/td0slides.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de td0slides (`.raw/Year 1/Analyse Maths/Exos/td0slides.pdf`) (85 diapositives, texte, « Analyse 1, premier semestre 2026-2027 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD0 « Inégalités, sigma et fonctions trigonométriques » (CY Tech). Les énoncés sont ceux de [[TD0-Rappel (résumé)]] (ordre légèrement différent), avec la solution rédigée pas à pas. Cours associé : [[Chap0-Rappels-etc (résumé)]]. Les diapositives ont été relues en image.
+Résumé de td0slides ([[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]) (85 diapositives, texte, « Analyse 1, premier semestre 2026-2027 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD0 « Inégalités, sigma et fonctions trigonométriques » (CY Tech). Les énoncés sont ceux de [[TD0-Rappel (résumé)]] (ordre légèrement différent), avec la solution rédigée pas à pas. Cours associé : [[Chap0-Rappels-etc (résumé)]]. Les diapositives ont été relues en image.
 
 Organisation : exercices 1, 5, 6, 7, 8, 9, 10, 12, 13, 14 en séance ; exercices 2, 3, 4 « à faire chez soi » ; exercice 11 « pour aller plus loin » ; puis des exercices supplémentaires sans corrigé.
 

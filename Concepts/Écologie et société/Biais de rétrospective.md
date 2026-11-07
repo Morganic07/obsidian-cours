@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [biais rétrospectif, hindsight bias]
-sources: ["[[Compte rendu]]"]
+sources: ["[[Compte rendu (résumé)|Compte rendu]]"]
 maj: 2026-11-06
 ---
 

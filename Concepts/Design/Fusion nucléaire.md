@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [nuclear fusion]
-sources: ["[[stars.html]]", "[[world in 2075]]"]
+sources: ["[[stars.html (résumé)|stars.html]]", "[[world in 2075 (résumé)|world in 2075]]"]
 maj: 2026-11-06
 ---
 

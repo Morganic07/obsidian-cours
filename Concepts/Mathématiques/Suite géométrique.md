@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [suites géométriques, somme géométrique, geometric sequence]
-sources: [".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", ".raw/Year 1/Analyse Maths/Exos/td1slides.pdf", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
 maj: 2026-11-06
 ---
 

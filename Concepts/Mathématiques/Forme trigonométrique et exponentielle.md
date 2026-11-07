@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [forme trigonométrique, forme exponentielle, formule de Moivre, formules d'Euler]
-sources: ["[[Chapitre 5 - Complexes]]"]
+sources: ["[[Chapitre 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 

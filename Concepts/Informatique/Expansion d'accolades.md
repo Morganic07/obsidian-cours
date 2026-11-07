@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [brace expansion, accolades]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[cours TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

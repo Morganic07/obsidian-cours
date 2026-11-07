@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cofactor, cofactors, cofacteur, cofacteurs, matrice des cofacteurs, adjugate, adjugate matrix, adj A, développement par cofacteurs, cofactor expansion]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0c - Determinants]]"]
+sources: ["[[Chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
 maj: 2026-11-06
 ---
 

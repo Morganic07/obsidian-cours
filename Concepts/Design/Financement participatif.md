@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [financement communautaire, financement participatif conditionnel, crowdfunding]
 matieres: [SHS, management de l'innovationb]
-sources: ["[[Prise de note SHS]]", "[[Analyse d'innovations (résumé)]]"]
+sources: ["[[Prise de note SHS (résumé)|Prise de note SHS]]", "[[Analyse d'innovations (résumé)]]"]
 maj: 2026-11-06
 ---
 

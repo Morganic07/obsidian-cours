@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["Note d'origine dans Cours/Year 4/management de l'innovationb"]
+sources: ["[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé d'une note de `Cours/Year 4/management de l'innovationb`, dans [[Management de l'innovation (matière)]]. Devoir de l'étudiante qui applique la [[Grille du management de la valeur]] à des innovations : deux innovateurs (questions « à qui, à quoi, que suffit-il, que suffirait-il ») puis une entreprise (tableau « avec qui, par qui, pour qui »). Ces questions sont celles du cours [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)|séance 3]] (« Qui innove ? » et « Comment l'innovation est managée dans une entreprise »). La note ne donne pas la consigne. Tout le contenu est l'analyse de l'étudiante, pas le cours. Aucune image.
+Résumé d'un document Word de `Raw/Year 4/management de l'innovationb` (lien dans `sources`), dans [[Management de l'innovation (matière)]]. Devoir de l'étudiante qui applique la [[Grille du management de la valeur]] à des innovations : deux innovateurs (questions « à qui, à quoi, que suffit-il, que suffirait-il ») puis une entreprise (tableau « avec qui, par qui, pour qui »). Ces questions sont celles du cours [[CY école de design 4e - Management de l'innovation - 2026 09 30 (résumé)|séance 3]] (« Qui innove ? » et « Comment l'innovation est managée dans une entreprise »). La note ne donne pas la consigne. Tout le contenu est l'analyse de l'étudiante, pas le cours. Aucune image.
 
 ## Innovateurs
 

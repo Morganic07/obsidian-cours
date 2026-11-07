@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du TD4 Applications, corrigé (PDF) (`.raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf`) (94 diapositives, algèbre, premier semestre 2023), dans [[Outil Maths (matière)]]. C'est le corrigé de [[TD4Applications (résumé)]] (les énoncés y sont listés). Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Opérations sur les ensembles]]. Texte extrait en entier ; chaque exercice est repris avec son énoncé et les étapes de la correction.
+Résumé du TD4 Applications, corrigé (PDF) ([[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]) (94 diapositives, algèbre, premier semestre 2023), dans [[Outil Maths (matière)]]. C'est le corrigé de [[TD4Applications (résumé)]] (les énoncés y sont listés). Cours : [[Chapitre4-Fonctions (1) (résumé)]], [[Injectivité et surjectivité]], [[Opérations sur les ensembles]]. Texte extrait en entier ; chaque exercice est repris avec son énoncé et les étapes de la correction.
 
 Notions mobilisées : [[Application (mathématiques)]], [[Image et image réciproque]], [[Bijection]], [[Composition de fonctions]], [[Ensemble de définition]], [[Intersection et union d'ensembles]], [[Complémentaire d'un ensemble]], [[Fonction indicatrice]], [[Différence symétrique]], [[Quantificateur]].
 

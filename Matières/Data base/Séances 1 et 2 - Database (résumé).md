@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 1 et 2 - Database]]"]
+sources: ["[[Raw/Year 3/Data base/Cours 1 et 2 : Database.docx|Cours 1 et 2 - Database]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 1 et 2 - Database]], dans [[Data base (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data base/Cours 1 et 2 : Database.docx|Cours 1 et 2 - Database]], dans [[Data base (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

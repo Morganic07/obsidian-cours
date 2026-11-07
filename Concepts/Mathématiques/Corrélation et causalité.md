@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [correlation is not causation, association is not causation, corrélation n'est pas causalité, correlation does not imply causation, corrélation n'implique pas causalité]
 matieres: [Probability, Data analysis (Thanos), Statistics]
-sources: ["[[Chp 6 - Joint probability distributions]]", "[[Cours 9 - Covariance and Correlation]]", "[[Chp1 - Intro to statistics]]"]
+sources: ["[[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[Chp1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"]
 maj: 2026-11-06
 ---
 

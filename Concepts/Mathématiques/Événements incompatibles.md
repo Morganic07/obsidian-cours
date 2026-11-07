@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [mutually exclusive, mutually exclusive events, événements disjoints, disjoint events, exhaustive events, événements exhaustifs, système complet d'événements]
-sources: ["[[Chp 1 - Sample space,events, proba]]", "[[Chp 2 - Conditional proba and independence]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[Chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[Qui dit quoi]]"]
+sources: ["[[Qui dit quoi (résumé)|Qui dit quoi]]"]
 maj: 2026-11-06
 ---
 

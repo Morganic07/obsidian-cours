@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 2 - Conditional proba and independence]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 2 : Conditional proba and independence .docx|Chp 2 - Conditional proba and independence]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 2 - Conditional proba and independence]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés et démonstrations, donnés en images, sont recopiés en LaTeX ; les deux schémas sont intégrés.
+Résumé de [[Raw/Year 2/Probability/Chp 2 : Conditional proba and independence .docx|Chp 2 - Conditional proba and independence]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés et démonstrations, donnés en images, sont recopiés en LaTeX ; les deux schémas sont intégrés.
 
 ## Idée générale
 

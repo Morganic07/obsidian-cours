@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [independent events, événements indépendants]
 matieres: [Probability]
-sources: ["[[Chp 2 - Conditional proba and independence]]"]
+sources: ["[[Chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
 maj: 2026-11-06
 ---
 

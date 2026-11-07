@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: []
-sources: ["[[Reyou]]"]
+sources: ["[[Reyou (résumé)|Reyou]]"]
 maj: 2026-11-06
 ---
 

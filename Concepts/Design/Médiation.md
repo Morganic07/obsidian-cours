@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [médiation du vivant, design comme médiation]
 matieres: [Sémiotique]
-sources: [".raw/Year 3/Sémiotique/Cours 3.pptx", ".raw/Year 3/Sémiotique/Cours 1.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"]
 maj: 2026-11-06
 ---
 

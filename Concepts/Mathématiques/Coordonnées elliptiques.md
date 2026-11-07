@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [coords elliptiques]
-sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
+sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"]
 maj: 2026-11-06
 ---
 

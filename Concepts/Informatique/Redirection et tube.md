@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [redirection, redirections, pipe, tube, pattern matching shell]
 matieres: [Operating System]
-sources: ["[[Cours TP2]]", ".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf"]
+sources: ["[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"]
 maj: 2026-11-06
 ---
 

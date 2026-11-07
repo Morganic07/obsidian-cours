@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Chp2 - tree]]"]
+sources: ["[[Raw/Year 4/graph theory/Chp2 - tree.docx|Chp2 - tree]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp2 - tree]], dans [[Graph theory (matière)]]. Cours en anglais (pseudo-code en français). En cas d'écart, le cours et ses images font foi. Images non ouvertes : lues par leur transcription.
+Résumé de [[Raw/Year 4/graph theory/Chp2 - tree.docx|Chp2 - tree]], dans [[Graph theory (matière)]]. Cours en anglais (pseudo-code en français). En cas d'écart, le cours et ses images font foi. Images non ouvertes : lues par leur transcription.
 
 ## Idée générale
 

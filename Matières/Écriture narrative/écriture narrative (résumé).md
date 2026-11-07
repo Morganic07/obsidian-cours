@@ -3,12 +3,12 @@ type: source
 tags:
   - year2
 sources:
-  - "[[écriture narrative|écriture narrative]]"
+  - "[[Raw/Year 2/écriture narrative/écriture narrative.docx|écriture narrative]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[écriture narrative|écriture narrative]], dans [[Écriture narrative (matière)]]. La note ne contient pas de cours mais un texte d'exercice, sans image : une courte nouvelle humoristique construite à partir d'un « ticket » imposé (« Ticket n° 11 avec "Chaton" ») et d'une liste de mots à placer.
+Résumé de [[Raw/Year 2/écriture narrative/écriture narrative.docx|écriture narrative]], dans [[Écriture narrative (matière)]]. La note ne contient pas de cours mais un texte d'exercice, sans image : une courte nouvelle humoristique construite à partir d'un « ticket » imposé (« Ticket n° 11 avec "Chaton" ») et d'une liste de mots à placer.
 
 ## Consigne (reconstituée d'après le texte)
 

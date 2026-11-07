@@ -1,16 +1,16 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Invertible matrix theorem]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/Invertible matrix theorem .docx|Invertible matrix theorem]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Invertible matrix theorem]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Invertible matrix theorem .docx|Invertible matrix theorem]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 Cette note rassemble les 20 énoncés (a à t) du théorème, tous équivalents pour une matrice carrée : ils sont tous vrais, ou tous faux. Ils sont classés par thème dans [[Matrice inversible]] (voir aussi [[Théorème de la matrice inversible]]).
 
-Les énoncés a à l viennent de [[Chp 0b - Matrix algebra]], m à r de [[Chp 0d - Vector Space]], s et t de [[Chp 0e - Eigenvalues and eigenvectors]].
+Les énoncés a à l viennent de [[Chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]], m à r de [[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]], s et t de [[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]].
 
 ## Le théorème de la matrice inversible (*The Invertible Matrix Theorem*)
 

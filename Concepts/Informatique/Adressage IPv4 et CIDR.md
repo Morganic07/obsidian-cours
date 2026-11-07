@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [adressage IPv4, adresse IPv4, adresses IPv4, IPv4 addressing, IPv4 address, masque de sous-réseau, subnet mask, CIDR, Classless Inter-Domain Routing, adresse de broadcast, broadcast address, adresse réseau d'un sous-réseau, classes d'adresses IPv4, subnetting, longueur de préfixe, adresse IP, IP address, Internet Protocol, notation décimale pointée, dotted-decimal notation, adresse d'hôte, host address, hôtes par réseau]
 matieres: [Computer Network, Operating System]
-sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf", "[[Cours TP3]]", ".raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf"]
+sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]", "[[Séance TP3 (résumé)|Cours TP3]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 

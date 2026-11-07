@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[liberté et moralité|liberté et moralité]]"
+  - "[[liberté et moralité (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [GUI, graphical user interface]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp 3]]", "[[OS - chp7]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 3 (résumé)|OS - chp 3]]", "[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

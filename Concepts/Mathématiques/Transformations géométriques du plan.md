@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [reflection, reflections, shear, shears, cisaillement, contraction and expansion, contraction et dilatation, projection onto the x1-axis]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0a - Linear combination]]"]
+sources: ["[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"]
 maj: 2026-11-06
 ---
 

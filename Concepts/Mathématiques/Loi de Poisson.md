@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [Poisson distribution, Poisson random variable, variable de Poisson, approximation de la binomiale par la loi de Poisson]
 matieres: [Probability, Statistics]
-sources: ["[[Chp 3 - Important discrete distributions]]", "[[Chp4 Part 1 - Inferential statistics]]"]
+sources: ["[[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 
@@ -17,6 +17,6 @@ Notion parente : [[Variable aléatoire]]. Voir aussi : [[Loi binomiale]], [[Stab
 
 ## À vérifier
 
-- [[Chp 3 - Important discrete distributions]] utilise deux notations pour le paramètre, $\mu$ puis $\lambda$.
+- [[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]] utilise deux notations pour le paramètre, $\mu$ puis $\lambda$.
 
 Résumés : [[Chp 3 - Important discrete distributions (résumé)]], [[Chp4 Part 1 - Inferential statistics (résumé)]]

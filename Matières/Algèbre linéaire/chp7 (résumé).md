@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp7.docx|chp7 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp7|chp7 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 7, éléments propres d'un [[Morphisme|endomorphisme]]. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp7.docx|chp7 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 7, éléments propres d'un [[Morphisme|endomorphisme]]. En cas d'écart, le cours fait foi.
 
 ## Valeur propre, vecteur propre et sous-espace propre
 

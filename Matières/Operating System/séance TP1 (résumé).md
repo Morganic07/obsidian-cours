@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[cours TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[cours TP1]], dans [[Operating System (matière)]]. Note de cours sur les bases de l'administration : extraits du support (captures de texte, recopiées ici) et réponses de l'étudiante aux questions courtes. Le rendu correspondant est résumé dans [[TP1 (résumé)]].
+Résumé de [[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]], dans [[Operating System (matière)]]. Note de cours sur les bases de l'administration : extraits du support (captures de texte, recopiées ici) et réponses de l'étudiante aux questions courtes. Le rendu correspondant est résumé dans [[TP1 (résumé)]].
 
 ## Obtenir de l'aide sur une commande
 

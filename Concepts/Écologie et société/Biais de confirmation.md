@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year3]
 aliases: [confirmation bias]
-sources: ["[[Compte rendu]]", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx"]
+sources: ["[[Compte rendu (résumé)|Compte rendu]]", "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"]
 maj: 2026-11-06
 ---
 

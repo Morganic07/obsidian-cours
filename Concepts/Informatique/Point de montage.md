@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [mount point, mount points, points de montage, fstab]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
 maj: 2026-11-06
 ---
 

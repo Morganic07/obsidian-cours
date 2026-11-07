@@ -3,7 +3,7 @@ type: concept
 tags: [year4, nomme]
 aliases: [licence copyleft, GPL]
 matieres: ["management de l'innovationb", SHS]
-sources: ["Note d'origine dans Cours/Year 4/management de l'innovationb", "Note d'origine dans Cours/Year 4/SHS"]
+sources: ["[[Analyse d'innovations (résumé)]]", "[[Recherches SHS (résumé)]]"]
 maj: 2026-11-06
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du Corrigé DS1 algèbre, octobre 2022 (PDF) (`.raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf`) (5 pages), dans [[Outil Maths (matière)]]. Devoir surveillé 1 de Préing 1, algèbre I, du mardi 25 octobre 2022 : 1 h 30, appareils électroniques interdits, 6 exercices à traiter dans l'ordre voulu, rédaction et précision des justifications prises en compte. Barème détaillé dans le corrigé (notation de $\Delta$ et de $\mathbb{N}$ comme dans le cours). Il couvre les chapitres de logique et d'ensembles : [[Chapitre 1 logique (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Logique propositionnelle]], [[Opérations sur les ensembles]], [[Récurrence]].
+Résumé du Corrigé DS1 algèbre, octobre 2022 (PDF) ([[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]) (5 pages), dans [[Outil Maths (matière)]]. Devoir surveillé 1 de Préing 1, algèbre I, du mardi 25 octobre 2022 : 1 h 30, appareils électroniques interdits, 6 exercices à traiter dans l'ordre voulu, rédaction et précision des justifications prises en compte. Barème détaillé dans le corrigé (notation de $\Delta$ et de $\mathbb{N}$ comme dans le cours). Il couvre les chapitres de logique et d'ensembles : [[Chapitre 1 logique (résumé)]], [[Chapitre 2 ensembles (résumé)]], [[Logique propositionnelle]], [[Opérations sur les ensembles]], [[Récurrence]].
 
 Le document ne contient aucune figure (seul le logo de l'école en tête).
 

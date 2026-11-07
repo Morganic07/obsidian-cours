@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Cours 13 - PCA in R]]"]
+sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 13 : PCA in R.docx|Cours 13 - PCA in R]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours 13 - PCA in R]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 13 : PCA in R.docx|Cours 13 - PCA in R]], dans [[Data analysis (Thanos) (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

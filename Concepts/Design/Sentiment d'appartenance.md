@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: ["[[Prise parole Rendu final]]", "[[Informations villeneuve (Brief Intro)]]"]
+sources: ["[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]", "[[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro)]]"]
 maj: 2026-11-06
 ---
 

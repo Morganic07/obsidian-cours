@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du corrigé TD Ensembles (PDF) (`.raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf`) (36 diapositives, « TD Algèbre — Ensemble », CY Tech, premier semestre 2022), dans [[Outil Maths (matière)]]. 13 exercices avec solutions rédigées, recopiées ici dans l'ordre. L'énoncé seul est résumé dans [[Exo-Chapitre 2 (résumé)]]. Cours associé : [[Chapitre 2 ensembles (résumé)]], [[Opérations sur les ensembles]], [[Logique propositionnelle]].
+Résumé du corrigé TD Ensembles (PDF) ([[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]) (36 diapositives, « TD Algèbre — Ensemble », CY Tech, premier semestre 2022), dans [[Outil Maths (matière)]]. 13 exercices avec solutions rédigées, recopiées ici dans l'ordre. L'énoncé seul est résumé dans [[Exo-Chapitre 2 (résumé)]]. Cours associé : [[Chapitre 2 ensembles (résumé)]], [[Opérations sur les ensembles]], [[Logique propositionnelle]].
 
 Le document ne contient aucune figure : uniquement du texte et des formules.
 

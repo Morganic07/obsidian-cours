@@ -10,11 +10,11 @@ aliases:
   - sous-espaces
   - sous-espaces vectoriels
 sources:
-  - "[[Chp 0d - Vector Space]]"
-  - "[[chp1|chp1 (Algèbre)]]"
-  - "[[chp2|chp2 (Algèbre)]]"
-  - "[[chp3|chp3 (Algèbre)]]"
-  - ".raw/Year 1/Contrôles.pdf"
+  - "[[Chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[chp1 (résumé)|chp1 (Algèbre)]]"
+  - "[[chp2 (résumé)|chp2 (Algèbre)]]"
+  - "[[chp3 (résumé)|chp3 (Algèbre)]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -34,7 +34,7 @@ Notion parente : [[Espace vectoriel]]. Voir aussi : [[Espace engendré]], [[Sous
 
 ## À vérifier
 
-- [[chp1|chp1 (Algèbre)]] écrit « $p < n$ » au lieu de $p \leq n$ (le cas $p = n$ est traité juste après).
+- [[chp1 (résumé)|chp1 (Algèbre)]] écrit « $p < n$ » au lieu de $p \leq n$ (le cas $p = n$ est traité juste après).
 - Il écrit aussi « F\E jamais sev », sans doute pour $E \setminus F$.
 
 Résumés : [[Chp 0d - Vector Space (résumé)]], [[chp1 (résumé)|chp1 (résumé)]], [[chp2 (résumé)|chp2 (résumé)]], [[chp3 (résumé)|chp3 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

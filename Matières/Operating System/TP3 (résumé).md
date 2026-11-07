@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["TP3 du dossier DM/TP3"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP3/TP3 - PINA Morgane.docx|TP3]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de la note TP3 du dossier `DM/TP3` de [[Operating System (matière)]] (la note porte le nom de l'étudiante, d'où l'absence de lien direct). C'est la version rendue de [[Cours TP3]] (voir [[Séance TP3 (résumé)]]) : réseau, `/etc/hosts`, puis scripts de sauvegarde lancés en arrière-plan. Les captures du terminal ne sont pas intégrées, car leur chemin contient le nom de l'étudiante ; leur contenu est recopié ci-dessous en texte, d'après les transcriptions.
+Résumé de la note TP3 du dossier `DM/TP3` de [[Operating System (matière)]] (la note porte le nom de l'étudiante, d'où l'absence de lien direct). C'est la version rendue de [[Séance TP3 (résumé)|Cours TP3]] (voir [[Séance TP3 (résumé)]]) : réseau, `/etc/hosts`, puis scripts de sauvegarde lancés en arrière-plan. Les captures du terminal ne sont pas intégrées, car leur chemin contient le nom de l'étudiante ; leur contenu est recopié ci-dessous en texte, d'après les transcriptions.
 
 ## Tâche 1 : réseau
 

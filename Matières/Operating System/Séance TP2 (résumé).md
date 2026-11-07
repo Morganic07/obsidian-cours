@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Cours TP2]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/Cours TP2.docx|Cours TP2]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours TP2]], dans [[Operating System (matière)]]. Séance de TP sur les caractères spéciaux du shell : extraits du support (captures de texte, recopiées ici) et essais de l'étudiante dans le terminal (captures intégrées). Voir [[Redirection et tube]] et [[Méta-caractère]].
+Résumé de [[Raw/Year 2/Operating System/Cours OS/Cours TP2.docx|Cours TP2]], dans [[Operating System (matière)]]. Séance de TP sur les caractères spéciaux du shell : extraits du support (captures de texte, recopiées ici) et essais de l'étudiante dans le terminal (captures intégrées). Voir [[Redirection et tube]] et [[Méta-caractère]].
 
 ## Les six familles de caractères spéciaux
 

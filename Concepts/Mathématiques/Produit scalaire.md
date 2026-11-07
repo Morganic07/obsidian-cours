@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [dot product, inner product, produits scalaires]
-sources: ["[[chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 

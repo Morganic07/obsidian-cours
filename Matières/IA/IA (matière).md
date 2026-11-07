@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year3
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 
@@ -13,7 +13,7 @@ Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, éner
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Year 3/IA/Cours 1\|Cours 1 (IA)]] | Culture générale, prompts, familles d'IA, outils, énergie, politique, copyright | [[Séance 1 - IA (résumé)\|Résumé]] |
+| [[Séance 1 - IA (résumé)\|Cours 1 (IA)]] | Culture générale, prompts, familles d'IA, outils, énergie, politique, copyright | [[Séance 1 - IA (résumé)\|Résumé]] |
 
 ## Concepts
 

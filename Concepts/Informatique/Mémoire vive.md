@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [RAM, random access memory, DRAM, Dynamic Random Access Memory]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [NAT, PAT, static NAT, NAT overload, Network Address Translation, adresses privées, RFC 1918, inside local, inside global, outside local, outside global, Port Address Translation, ip nat inside, ip nat outside, show ip nat translations]
 matieres: [Computer Network]
-sources: ["[[Chp5 - NAT ／ PAT]]"]
+sources: ["[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-06
 ---
 
@@ -26,7 +26,7 @@ Liens : [[Liste de contrôle d'accès]], [[CLI Cisco IOS]], [[Adressage IPv4 et 
 
 ## À vérifier
 
-- [[Chp5 - NAT ／ PAT]] écrit `overlead` au lieu de `overload` (image 3).
+- [[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]] écrit `overlead` au lieu de `overload` (image 3).
 - Il écrit « 196.168.0.167 » au lieu de 192.168.0.167 (image 4).
 - Le prompt `R1(config)#ip nat outside` est donné au lieu de `R1(config-if)#`.
 

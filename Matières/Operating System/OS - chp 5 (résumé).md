@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[OS - chp 5]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 5.docx|OS - chp 5]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[OS - chp 5]] (« Chp 5 - linux commands »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 5.docx|OS - chp 5]] (« Chp 5 - linux commands »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

@@ -9,9 +9,9 @@ aliases:
   - espaces propres
   - sous-espace propre
 sources:
-  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[Chp2 - Symmetric matrices and quadratic forms]]"
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

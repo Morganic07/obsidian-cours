@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [bottom up, bottom-up]
 matieres: [Projet design]
-sources: ["[[idées solutions]]"]
+sources: ["[[idées solutions (résumé)|idées solutions]]"]
 maj: 2026-11-06
 ---
 

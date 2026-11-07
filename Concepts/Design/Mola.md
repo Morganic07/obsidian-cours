@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [molas, art kuna]
 matieres: [HDA]
-sources: ["[[Cours HDA]]"]
+sources: ["[[Séance HDA (résumé)|Cours HDA]]"]
 maj: 2026-11-06
 ---
 

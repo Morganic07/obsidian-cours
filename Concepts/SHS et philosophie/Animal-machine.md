@@ -14,8 +14,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[philo 3|philo 3]]"
-  - "[[philo 5|philo 5]]"
+  - "[[philo 3 (résumé)|philo 3]]"
+  - "[[philo 5 (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 

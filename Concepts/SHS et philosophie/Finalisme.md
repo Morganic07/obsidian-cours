@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [vision finaliste, nature finaliste, télos, finalité dans la Nature]
 matieres: [Philosophie]
-sources: ["[[L'état]]", "[[philo 1]]", "[[philo 2]]", "[[philo 5]]"]
+sources: ["[[L'état (résumé)|L'état]]", "[[philo 1 (résumé)|philo 1]]", "[[philo 2 (résumé)|philo 2]]", "[[philo 5 (résumé)|philo 5]]"]
 maj: 2026-11-06
 ---
 

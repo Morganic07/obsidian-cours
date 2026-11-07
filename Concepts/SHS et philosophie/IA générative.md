@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [IA génératives, intelligence artificielle générative, IA probabiliste, generative AI]
-sources: ["[[SHS Recherches-Morgane]]", "[[Prise de note SHS]]", "[[Culture du vivant - prise de note]]"]
+sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]", "[[Prise de note SHS (résumé)|Prise de note SHS]]", "[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"]
 maj: 2026-11-06
 ---
 

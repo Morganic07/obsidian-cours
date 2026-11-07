@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [différence entre prix et coût]
-sources: ["[[Gestion financière]]"]
+sources: ["[[Gestion financière (résumé)|Gestion financière]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [forêt, forest]
 matieres: [graph theory]
-sources: ["[[Chp2 - tree]]"]
+sources: ["[[Chp2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 

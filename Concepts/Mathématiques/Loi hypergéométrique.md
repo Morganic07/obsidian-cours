@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [hypergeometric distribution, hypergeometric rv]
-sources: ["[[Chp 3 - Important discrete distributions]]"]
+sources: ["[[Chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]"]
 maj: 2026-11-06
 ---
 

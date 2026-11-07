@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Analyse/Chp9-intégrales multiples.pdf"]
+sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de Chp9-intégrales multiples (`.raw/Year 2/Analyse/Chp9-intégrales multiples.pdf`) (3 pages manuscrites, scannées), dans [[Analyse (matière)]]. Ce sont des notes de cours à la main : pas de preuves, seulement les définitions et les méthodes. Lu en image. Les passages surlignés dans les notes sont les formules à retenir.
+Résumé de Chp9-intégrales multiples ([[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]) (3 pages manuscrites, scannées), dans [[Analyse (matière)]]. Ce sont des notes de cours à la main : pas de preuves, seulement les définitions et les méthodes. Lu en image. Les passages surlignés dans les notes sont les formules à retenir.
 
 ## 1. Domaines d'intégration
 

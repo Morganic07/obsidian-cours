@@ -3,11 +3,11 @@ type: concept
 tags: [year3]
 aliases: [SST, SSR, SSE, TSS, RSS, sum of squares, somme des carrés totale, somme des carrés résiduelle, SSW, SSB, décomposition de la variation]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 10 - linear regression]]", "[[Cours 12 - ANOVA and F-statistic]]"]
+sources: ["[[Séance 10 - linear regression (résumé)|Cours 10 - linear regression]]", "[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]"]
 maj: 2026-11-06
 ---
 
-En régression ([[Cours 10 - linear regression]]) :
+En régression ([[Séance 10 - linear regression (résumé)|Cours 10 - linear regression]]) :
 
 - $SST = \sum (y_i - \bar y)^2$, variation totale ;
 - $SSR = \sum (\hat y_i - \bar y)^2$, variation expliquée ;
@@ -15,7 +15,7 @@ En régression ([[Cours 10 - linear regression]]) :
 
 On a $SST = SSR + SSE$, car le terme croisé s'annule.
 
-En [[ANOVA]], $SST = SSW + SSB$ : variation intra-groupes et inter-groupes ([[Cours 12 - ANOVA and F-statistic]]). On divise ensuite chaque somme par ses degrés de liberté pour obtenir les [[Carré moyen|carrés moyens]].
+En [[ANOVA]], $SST = SSW + SSB$ : variation intra-groupes et inter-groupes ([[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]). On divise ensuite chaque somme par ses degrés de liberté pour obtenir les [[Carré moyen|carrés moyens]].
 
 Notion parente : [[Régression linéaire]]. Voir aussi : [[ANOVA]], [[Statistique F]], [[Coefficient de détermination]], [[Carré moyen]].
 

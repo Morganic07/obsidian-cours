@@ -3,12 +3,12 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Reyou|Reyou]]"
+  - "[[Raw/Year 3/workshop/ReYOU/           						Reyou.docx|Reyou]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Reyou|Reyou]], dans [[Workshop (matière)]]. Dossier de projet long (recherches, idées, plan de l'oral). Les tableaux comparatifs et les sources internet sont repris tels que cités ; la note signale des sources tronquées dans le tableau neuf contre reconditionné.
+Résumé de [[Raw/Year 3/workshop/ReYOU/           						Reyou.docx|Reyou]], dans [[Workshop (matière)]]. Dossier de projet long (recherches, idées, plan de l'oral). Les tableaux comparatifs et les sources internet sont repris tels que cités ; la note signale des sources tronquées dans le tableau neuf contre reconditionné.
 
 ## Sujet et problématique
 

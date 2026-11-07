@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cœurs de processeur, processor core, multicœur]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[DM Shell Scripting]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 

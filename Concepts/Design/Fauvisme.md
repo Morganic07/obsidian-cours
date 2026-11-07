@@ -3,7 +3,7 @@ type: concept
 tags: [year1, nomme]
 aliases: [fauviste]
 matieres: [Peinture]
-sources: ["[[Cours 2]]"]
+sources: ["[[Séance 2 (résumé)|Cours 2]]"]
 maj: 2026-11-06
 ---
 

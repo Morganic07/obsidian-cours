@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp2 - Descriptive statistics]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp2 : Descriptive statistics.docx|Chp2 - Descriptive statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp2 - Descriptive statistics]], dans [[Statistics (matière)]] : résumer un jeu de données par des graphiques, puis par des indicateurs de position (moyenne, médiane, quartiles) et de dispersion (étendue, variance, écart interquartile). Voir [[Statistique descriptive]]. En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
+Résumé de [[Raw/Year 3/Statistics/Chp2 : Descriptive statistics.docx|Chp2 - Descriptive statistics]], dans [[Statistics (matière)]] : résumer un jeu de données par des graphiques, puis par des indicateurs de position (moyenne, médiane, quartiles) et de dispersion (étendue, variance, écart interquartile). Voir [[Statistique descriptive]]. En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
 
 ## Méthodes graphiques
 

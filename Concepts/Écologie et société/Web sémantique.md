@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[Culture du vivant - prise de note|Culture du vivant - prise de note]]"
+  - "[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 

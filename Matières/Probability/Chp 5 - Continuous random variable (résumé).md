@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 5 - Continuous random variable]]"]
+sources: ["[[Raw/Year 2/Probability/Chp 5 : Continuous random variable.docx|Chp 5 - Continuous random variable]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 5 - Continuous random variable]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés donnés en images sont recopiés ; les images qui portent une courbe ou un schéma sont intégrées à côté de leur énoncé.
+Résumé de [[Raw/Year 2/Probability/Chp 5 : Continuous random variable.docx|Chp 5 - Continuous random variable]], dans [[Probability (matière)]]. En cas d'écart, le cours et ses images font foi. Les énoncés donnés en images sont recopiés ; les images qui portent une courbe ou un schéma sont intégrées à côté de leur énoncé.
 
 ## Idée générale
 

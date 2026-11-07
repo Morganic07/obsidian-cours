@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [dérivées partielles, partial derivative, partial derivatives, Schwarz, dérivées croisées, dérivée seconde partielle, "dérivées d'ordre 2"]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[Chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 

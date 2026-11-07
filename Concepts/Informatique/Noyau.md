@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [kernel, noyau du système, Linux kernel, noyau Linux]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp 3]]", ".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[cours TP1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 3 (résumé)|OS - chp 3]]", "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

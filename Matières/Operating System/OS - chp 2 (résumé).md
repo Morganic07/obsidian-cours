@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[OS - chp 2]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 2.docx|OS - chp 2]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[OS - chp 2]] (« Chapter 2 »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 2.docx|OS - chp 2]] (« Chapter 2 »), dans [[Operating System (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

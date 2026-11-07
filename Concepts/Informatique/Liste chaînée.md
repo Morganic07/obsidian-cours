@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [liste chaînée, listes chaînées, liste chainée, listes chainées, liste chaînée simple, chaînon, chaînons, liste (structure de données), ajouteEnTete, supprEnTete]
 matieres: [Algo, C++]
-sources: ["[[chp2 - piles listes file]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[chp2 - piles listes file (résumé)|chp2 - piles listes file]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 
@@ -22,6 +22,6 @@ Liens : [[Pile et file]], [[Pointeur et adresse mémoire]], [[Structure (struct)
 
 ## À vérifier
 
-- [[Chp3 - pointeurs , tableaux, listes chainées, structures]] : une annotation `[cite: 1]` est restée dans un commentaire du code (relevé du résumé).
+- [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]] : une annotation `[cite: 1]` est restée dans un commentaire du code (relevé du résumé).
 
 Résumés : [[chp2 - piles listes file (résumé)]], [[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

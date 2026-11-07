@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [sleep 90]
 matieres: [Operating System]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP3]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[Séance TP3 (résumé)|Cours TP3]]"]
 maj: 2026-11-06
 ---
 

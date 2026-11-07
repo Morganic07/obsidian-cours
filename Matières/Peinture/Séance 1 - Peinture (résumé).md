@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]]"
+  - "[[Raw/Year 1/Peinture/Cours/Cours 1.docx|Cours 1 (Peinture)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours/Year 1/Peinture/Cours/Cours 1|Cours 1 (Peinture)]], dans [[Peinture (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Peinture/Cours/Cours 1.docx|Cours 1 (Peinture)]], dans [[Peinture (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 Cours du 20/09/23 : peinture et couleur.
 

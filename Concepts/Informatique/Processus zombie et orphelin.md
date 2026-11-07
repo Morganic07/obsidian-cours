@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [zombie, zombie process, processus zombie, orphan process, processus orphelin, orphelin]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 

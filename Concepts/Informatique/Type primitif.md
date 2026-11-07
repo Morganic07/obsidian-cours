@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3, year4]
 aliases: [Type de base, types de base, types primitifs, basic datatypes, primitive type, primitive types, type objet, types objets, unsigned char, long double, type void]
 matieres: [Algo Maths, Java, C++]
-sources: [".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Chp1 - Intro Java]]", "[[Chp1 - basiques]]"]
+sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[Chp1 - basiques (résumé)|Chp1 - basiques]]"]
 maj: 2026-11-06
 ---
 

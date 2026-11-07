@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [IP routing]
-sources: ["[[Chp2 - Static Routing]]"]
+sources: ["[[Chp2 - Static Routing (résumé)|Chp2 - Static Routing]]"]
 maj: 2026-11-06
 ---
 

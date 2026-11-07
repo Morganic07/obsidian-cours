@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [gradient de calme, aimants et ralentisseurs]
 matieres: [workshop]
-sources: ["[[Reyou]]"]
+sources: ["[[Reyou (résumé)|Reyou]]"]
 maj: 2026-11-06
 ---
 

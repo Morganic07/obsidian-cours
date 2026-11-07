@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, nomme]
 aliases: [extreme user, average user, utilisateur moyen]
-sources: [".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"]
+sources: ["[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"]
 maj: 2026-11-06
 ---
 

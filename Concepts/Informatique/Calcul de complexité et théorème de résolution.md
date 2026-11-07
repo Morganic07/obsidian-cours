@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [Master Theorem, master theorem, théorème de résolution de la récurrence, méthode de substitution, complexité au meilleur, complexité en moyenne, règles de la notation O, complexité d'un algorithme récursif]
 matieres: [Algo, graph theory]
-sources: ["[[Chp1 - récursivité et complexité]]", "[[AVL momo]]", "[[qui dit quoi AVL]]", "[[chp3 - complexité]]"]
+sources: ["[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]", "[[AVL momo (résumé)|AVL momo]]", "[[qui dit quoi AVL (résumé)|qui dit quoi AVL]]", "[[chp3 - complexité (résumé)|chp3 - complexité]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [anthropomorphism]
 matieres: [SHS]
-sources: [".raw/Year 3/SHS/Cours/text2.pdf", ".raw/Year 3/SHS/Cours/text1.pdf"]
+sources: ["[[Raw/Year 3/SHS/Cours/text2.pdf|text2.pdf]]", "[[Raw/Year 3/SHS/Cours/text1.pdf|text1.pdf]]"]
 maj: 2026-11-06
 ---
 

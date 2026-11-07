@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [file path, chemin d'accès, répertoire courant, répertoire parent, current directory, parent directory]
-sources: [".raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf", "[[Cours TP2]]", "[[cours TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [regular expression, expressions régulières, regex, pattern-based search]
 matieres: [Operating System]
-sources: ["[[Cours TP5]]", ".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf", "[[TP5]]"]
+sources: ["[[Séance TP5 (résumé)|Cours TP5]]", "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[TP5 (résumé)|TP5]]"]
 maj: 2026-11-06
 ---
 

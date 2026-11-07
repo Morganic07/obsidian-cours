@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year4]
-sources: [".raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf"]
+sources: ["[[Raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|CY école de design 4e - Management de l'innovation - 2026 09 30.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---

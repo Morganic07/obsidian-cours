@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [green washing, social washing, écoblanchiment]
 matieres: [Projet design, Culture du vivant]
-sources: ["[[idées solutions]]", "[[Culture du vivant Dernier cours]]"]
+sources: ["[[idées solutions (résumé)|idées solutions]]", "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]"]
 maj: 2026-11-06
 ---
 

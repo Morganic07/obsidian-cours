@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp2 - Static Routing]]"]
+sources: ["[[Raw/Year 3/Computer Network/Chp2 : Static Routing.docx|Chp2 - Static Routing]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp2 - Static Routing]], dans [[Computer Network (matière)]] : routage IP, réseaux connectés et distants, configuration de routes statiques sous Cisco IOS (par interface de sortie ou par adresse du saut suivant), suppression d'une route. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 3/Computer Network/Chp2 : Static Routing.docx|Chp2 - Static Routing]], dans [[Computer Network (matière)]] : routage IP, réseaux connectés et distants, configuration de routes statiques sous Cisco IOS (par interface de sortie ou par adresse du saut suivant), suppression d'une route. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

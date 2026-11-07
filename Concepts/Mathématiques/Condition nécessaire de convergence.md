@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [divergence grossière, test for divergence, test de divergence, grossièrement divergente]
-sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series]]"]
+sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[Chp2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
 maj: 2026-11-06
 ---
 

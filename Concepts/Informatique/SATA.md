@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Serial ATA, Serial Advanced Technology Attachment, mSATA]
 matieres: [Operating System]
-sources: ["[[OS - chp 2]]", "[[OS - chp 1]]"]
+sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]", "[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [permissions Unix, permissions d'un fichier, file permissions, droits d'accès, chmod -R, octal permissions, valeurs octales]
 matieres: [Operating System]
-sources: ["[[OS - chp 5]]", "[[cours TP1]]"]
+sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

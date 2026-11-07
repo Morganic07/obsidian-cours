@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Chp 1 - Undirected graph]]"]
+sources: ["[[Raw/Year 4/graph theory/Chp 1 - Undirected graph.docx|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 1 - Undirected graph]], dans [[Graph theory (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. L'image des chaînes (image 17) a été ouverte ; les autres sont lues par leur transcription. Voir [[Graphe non orienté]].
+Résumé de [[Raw/Year 4/graph theory/Chp 1 - Undirected graph.docx|Chp 1 - Undirected graph]], dans [[Graph theory (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. L'image des chaînes (image 17) a été ouverte ; les autres sont lues par leur transcription. Voir [[Graphe non orienté]].
 
 ## Idée générale
 

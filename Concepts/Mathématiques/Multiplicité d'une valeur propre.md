@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [multiplicity, multiplicité, multiplicité algébrique, algebraic multiplicity]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]", "[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 

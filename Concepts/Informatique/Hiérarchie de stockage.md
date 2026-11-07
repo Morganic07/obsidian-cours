@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [storage hierarchy, storage structure, primary storage, secondary storage, tertiary storage, mémoire principale, main memory, stockage secondaire]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp 2]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 

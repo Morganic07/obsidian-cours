@@ -1,11 +1,11 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[UNIX Commands - Semester report]]"]
+sources: ["UNIX Commands - Semester report"]
 maj: 2026-11-05
 ---
 
-Résumé de [[UNIX Commands - Semester report]], dans [[Operating System (matière)]]. Très longue note (plus de 2 400 lignes) : rapport qui reprend les rendus des TP1 à TP6, avec captures. Lue par parties (table des matières, titres, énoncés et commentaires de l'étudiant, sorties de terminal parcourues), images non rouvertes.
+Résumé de UNIX Commands - Semester report, dans [[Operating System (matière)]]. Très longue note (plus de 2 400 lignes) : rapport qui reprend les rendus des TP1 à TP6, avec captures. Lue par parties (table des matières, titres, énoncés et commentaires de l'étudiant, sorties de terminal parcourues), images non rouvertes.
 
 ## Ce qu'apprend le rapport
 

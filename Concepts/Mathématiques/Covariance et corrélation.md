@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [covariance, correlation coefficient, coefficient de corrélation, variables non corrélées, uncorrelated, combinaison linéaire de variables aléatoires, linear combination of rvs, Covariance shortcut formula, distributive property of covariance, correlation versus causation, corrélation de Pearson, coefficient de corrélation de Pearson, Pearson correlation, "coefficient d'échantillon r"]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[Chp 6 - Joint probability distributions]]", "[[Chp3 - More on probability]]", "[[Cours 9 - Covariance and Correlation]]"]
+sources: ["[[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
 maj: 2026-11-06
 ---
 

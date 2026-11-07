@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [règle de la chaîne, chain rule, dérivée d'une composée, composition et changement de variables]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 

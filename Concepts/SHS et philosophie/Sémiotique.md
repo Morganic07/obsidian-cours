@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [sémiotique, analyse sémiotique, semiotics, étude des signes]
 matieres: [Sémiotique, SHS]
-sources: [".raw/Year 3/Sémiotique/Cours 1.pptx", ".raw/Year 2/SHS/dessein au cube Semestre 2.pdf"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"]
 maj: 2026-11-06
 ---
 

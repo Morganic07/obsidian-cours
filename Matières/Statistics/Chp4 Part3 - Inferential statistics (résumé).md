@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp4 Part3 - Inferential statistics]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp4 Part3 : Inferential statistics.docx|Chp4 Part3 - Inferential statistics]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp4 Part3 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 3, compléments sur les [[Intervalle de confiance|intervalles de confiance]] : taille d'échantillon, méthode générale du pivot, puis les cas où $\sigma$ est inconnu (loi de [[Loi de Student|Student]]), la variance (loi du [[Loi du khi-deux|khi-deux]]) et la proportion. En cas d'écart, le cours et ses images font foi. Seule l'image du tableau récapitulatif des intervalles (image11) a été ouverte ; les autres transcriptions n'ont pas été comparées aux images.
+Résumé de [[Raw/Year 3/Statistics/Chp4 Part3 : Inferential statistics.docx|Chp4 Part3 - Inferential statistics]], dans [[Statistics (matière)]] : chapitre 4, partie 3, compléments sur les [[Intervalle de confiance|intervalles de confiance]] : taille d'échantillon, méthode générale du pivot, puis les cas où $\sigma$ est inconnu (loi de [[Loi de Student|Student]]), la variance (loi du [[Loi du khi-deux|khi-deux]]) et la proportion. En cas d'écart, le cours et ses images font foi. Seule l'image du tableau récapitulatif des intervalles (image11) a été ouverte ; les autres transcriptions n'ont pas été comparées aux images.
 
 ## Taille de l'échantillon
 

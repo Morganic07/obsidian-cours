@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [correlation circle, PCA graph of variables, cercle de corrélation]
-sources: ["[[Cours 13 - PCA in R]]"]
+sources: ["[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
 maj: 2026-11-06
 ---
 

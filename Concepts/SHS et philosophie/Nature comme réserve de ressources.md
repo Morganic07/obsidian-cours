@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [réserve de ressources, ressource exploitable]
-sources: ["[[philo 1]]", "[[philo 2]]"]
+sources: ["[[philo 1 (résumé)|philo 1]]", "[[philo 2 (résumé)|philo 2]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [assemblage préfabriqué, petites formes, menu hamburger]
 matieres: [Sémiotique]
-sources: [".raw/Year 3/Sémiotique/Cours 4.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
 maj: 2026-11-06
 ---
 

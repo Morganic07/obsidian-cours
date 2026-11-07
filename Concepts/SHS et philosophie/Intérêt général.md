@@ -3,7 +3,7 @@ type: concept
 tags: [year4, nomme]
 aliases: []
 matieres: [SHS]
-sources: ["[[Prise de note SHS]]"]
+sources: ["[[Prise de note SHS (résumé)|Prise de note SHS]]"]
 maj: 2026-11-06
 ---
 

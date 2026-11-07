@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year4]
 aliases: [algorithmes gloutons, algo glouton, algos gloutons, greedy algorithm]
 matieres: [Algo Maths, graph theory]
-sources: ["[[explications DM d'algo]]", "[[Chp2 - tree]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]", "[[Chp2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 

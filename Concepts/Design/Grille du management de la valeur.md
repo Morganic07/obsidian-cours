@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [management de la valeur, grille à qui à quoi, avec qui par qui pour qui]
 matieres: [management de l'innovationb]
-sources: ["[[Analyse d'innovations (résumé)]]", ".raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf"]
+sources: ["[[Analyse d'innovations (résumé)]]", "[[Raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|CY école de design 4e - Management de l'innovation - 2026 09 30.pdf]]"]
 maj: 2026-11-06
 ---
 

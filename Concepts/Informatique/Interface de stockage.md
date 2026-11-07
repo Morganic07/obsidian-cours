@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [secondary storage interface, interface de disque, interfaces de stockage]
-sources: ["[[OS - chp 2]]"]
+sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 

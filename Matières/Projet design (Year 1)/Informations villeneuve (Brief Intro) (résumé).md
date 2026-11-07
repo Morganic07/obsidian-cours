@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]]"
+  - "[[Raw/Year 1/Projet design/Villeneuve/recherches/Informations villeneuve (Brief Intro).docx|Informations villeneuve (Brief Intro)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Informations villeneuve (Brief Intro)|Informations villeneuve (Brief Intro)]], dans [[Projet design (Year 1) (matière)]]. Notes prises lors de la présentation du [[Brief|brief]] par la ville de Villeneuve-la-Garenne. Ce sont des notes d'étudiante, au style oral ; les propos rapportés sont ceux des intervenants de la ville.
+Résumé de [[Raw/Year 1/Projet design/Villeneuve/recherches/Informations villeneuve (Brief Intro).docx|Informations villeneuve (Brief Intro)]], dans [[Projet design (Year 1) (matière)]]. Notes prises lors de la présentation du [[Brief|brief]] par la ville de Villeneuve-la-Garenne. Ce sont des notes d'étudiante, au style oral ; les propos rapportés sont ceux des intervenants de la ville.
 
 ## Infos sur la ville
 

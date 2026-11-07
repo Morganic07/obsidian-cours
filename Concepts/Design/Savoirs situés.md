@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, nomme]
 aliases: [savoir situé]
-sources: [".raw/Year 3/Sémiotique/Cours 1.pptx"]
+sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"]
 maj: 2026-11-06
 ---
 

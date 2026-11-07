@@ -3,19 +3,19 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[Chp4 - dérivabilité]]"
-  - "[[Cours/Year 1/Analyse Maths/Cours/chp5|chp5 (Analyse)]]"
+  - "[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"
+  - "[[chp5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 
-Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 notes de `Cours/` (dérivabilité et chapitre 5) sont intégrées. Le reste de la matière (cours des chapitres 0 à 3, travaux dirigés, contrôles) est en PDF : il est résumé dans la section « Documents PDF » ci-dessous.
+Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 documents Word (dérivabilité et chapitre 5) sont intégrés. Le reste de la matière (cours des chapitres 0 à 3, travaux dirigés, contrôles) est en PDF : il est résumé dans la section « Documents PDF » ci-dessous.
 
 ## Chapitres
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp4 - dérivabilité]] | Dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis | [[Chp4 - dérivabilité (résumé)\|Résumé]] |
-| [[Cours/Year 1/Analyse Maths/Cours/chp5\|chp5]] | Équivalents, développements limités | [[chp5 - Analyse Maths (résumé)\|Résumé]] |
+| [[Chp4 - dérivabilité (résumé)\|Chp4 - dérivabilité]] | Dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis | [[Chp4 - dérivabilité (résumé)\|Résumé]] |
+| [[chp5 - Analyse Maths (résumé)\|chp5]] | Équivalents, développements limités | [[chp5 - Analyse Maths (résumé)\|Résumé]] |
 
 ## Documents PDF
 

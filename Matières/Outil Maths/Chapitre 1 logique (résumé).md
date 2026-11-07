@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: ["[[Chapitre 1 logique]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chapitre 1 logique]] (séance du 07/10/23), dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des tables, des définitions et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
+Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]] (séance du 07/10/23), dans [[Outil Maths (matière)]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des tables, des définitions et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
 
 ## Idée générale
 

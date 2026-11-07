@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[chp2 - piles listes file]]"]
+sources: ["[[Raw/Year 2/Algo/Cours/chp2 - piles listes file.docx|chp2 - piles listes file]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp2 - piles listes file]], dans [[Algo (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Algo/Cours/chp2 - piles listes file.docx|chp2 - piles listes file]], dans [[Algo (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

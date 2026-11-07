@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [narrative structure, plot, climax]
 matieres: [Anglais, écriture narrative]
-sources: ["[[Global Exam Vocab]]", "[[écriture narrative]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[écriture narrative (résumé)|écriture narrative]]"]
 maj: 2026-11-06
 ---
 

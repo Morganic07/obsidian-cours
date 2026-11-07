@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [octets, byte, bytes]
 matieres: [Computer Network]
-sources: [".raw/Year 3/Computer Network/02 IP Addressing.pdf"]
+sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"]
 maj: 2026-11-06
 ---
 

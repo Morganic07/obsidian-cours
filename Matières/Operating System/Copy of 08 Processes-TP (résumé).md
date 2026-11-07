@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Copy of 08 Processes-TP]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Copy of 08 Processes-TP]] (TP « Processes », *Lesson 05*, daté du 11/03/2024 dans la note), dans [[Operating System (matière)]]. Il apprend à programmer en [[Langage C|C]] avec les [[Processus]]. Les énoncés sont recopiés, suivis du code de l'étudiante (captures d'écran de code, recopiées ici en texte ; pas d'image à intégrer). Aucun corrigé officiel.
+Résumé de [[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]] (TP « Processes », *Lesson 05*, daté du 11/03/2024 dans la note), dans [[Operating System (matière)]]. Il apprend à programmer en [[Langage C|C]] avec les [[Processus]]. Les énoncés sont recopiés, suivis du code de l'étudiante (captures d'écran de code, recopiées ici en texte ; pas d'image à intégrer). Aucun corrigé officiel.
 
 ## Énoncés
 

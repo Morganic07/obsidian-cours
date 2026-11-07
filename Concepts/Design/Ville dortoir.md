@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, nomme]
 aliases: [effet ville dortoir]
-sources: ["[[Prise parole Rendu final]]"]
+sources: ["[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"]
 maj: 2026-11-06
 ---
 

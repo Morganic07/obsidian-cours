@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [orthogonal, orthogonality, orthogonaux, orthogonales]
 matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 

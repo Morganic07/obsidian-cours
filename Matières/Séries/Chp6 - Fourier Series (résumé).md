@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp6 - Fourier Series]]"]
+sources: ["[[Raw/Year 3/Séries/Chp6 : Fourier Series.docx|Chp6 - Fourier Series]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp6 - Fourier Series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seule la figure du phénomène de Gibbs est intégrée.
+Résumé de [[Raw/Year 3/Séries/Chp6 : Fourier Series.docx|Chp6 - Fourier Series]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seule la figure du phénomène de Gibbs est intégrée.
 
 ## Idée générale
 

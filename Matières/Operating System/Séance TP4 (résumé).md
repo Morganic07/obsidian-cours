@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Cours TP4]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/Cours TP4.docx|Cours TP4]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Cours TP4]], dans [[Operating System (matière)]]. Séance de TP en deux parties : un programme C à deux processus qui sauvegarde un fichier, puis la planification de tâches avec cron.
+Résumé de [[Raw/Year 2/Operating System/Cours OS/Cours TP4.docx|Cours TP4]], dans [[Operating System (matière)]]. Séance de TP en deux parties : un programme C à deux processus qui sauvegarde un fichier, puis la planification de tâches avec cron.
 
 ## Programme C à deux processus
 

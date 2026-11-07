@@ -12,11 +12,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Nommée dans [[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]] sans définition : branche « hybride » du schéma (dès 2000), qui relie l'approche symbolique et l'approche connexionniste, avec les systèmes multimodaux et le neuro-symbolique.
+Nommée dans [[Séance 1 - IA (résumé)|Cours 1 (IA)]] sans définition : branche « hybride » du schéma (dès 2000), qui relie l'approche symbolique et l'approche connexionniste, avec les systèmes multimodaux et le neuro-symbolique.
 
 Notion parente : [[Approche symbolique et connexionniste]].
 

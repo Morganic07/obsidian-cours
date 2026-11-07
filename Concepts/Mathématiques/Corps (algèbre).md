@@ -3,11 +3,11 @@ type: concept
 tags: [year2, nomme]
 aliases: [corps commutatif]
 matieres: [Bilinear Algebra]
-sources: ["[[Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
-Nommé dans [[Chp2 - Symmetric matrices and quadratic forms]] sans définition : pour une application linéaire, le cours écrit « $\lambda\in F$ (F is a field (ensemble), F = ℝ, F = ℕ ...) ».
+Nommé dans [[Chp2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] sans définition : pour une application linéaire, le cours écrit « $\lambda\in F$ (F is a field (ensemble), F = ℝ, F = ℕ ...) ».
 
 Voir aussi : [[Transformation linéaire]], [[Espace vectoriel]].
 

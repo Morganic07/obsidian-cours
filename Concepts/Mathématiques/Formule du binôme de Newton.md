@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [binôme de Newton, formule du binôme]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf", ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"]
 maj: 2026-11-06
 ---
 

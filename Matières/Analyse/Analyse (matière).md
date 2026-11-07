@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[Chap7-Integration]]", "[[démonstrations - integration]]", "[[Intégration UTILITAIRE]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 ---
 
@@ -11,9 +11,9 @@ Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intég
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Chap7-Integration]] | Le cours | [[Chap7-Integration (résumé)\|Résumé]] |
-| [[démonstrations - integration]] | Les preuves du cours | [[démonstrations - integration (résumé)\|Résumé]] |
-| [[Intégration UTILITAIRE]] | Fiche pratique | [[Intégration UTILITAIRE (résumé)\|Résumé]] |
+| [[Chap7-Integration (résumé)\|Chap7-Integration]] | Le cours | [[Chap7-Integration (résumé)\|Résumé]] |
+| [[démonstrations - integration (résumé)\|démonstrations - integration]] | Les preuves du cours | [[démonstrations - integration (résumé)\|Résumé]] |
+| [[Intégration UTILITAIRE (résumé)\|Intégration UTILITAIRE]] | Fiche pratique | [[Intégration UTILITAIRE (résumé)\|Résumé]] |
 
 ## Documents PDF
 

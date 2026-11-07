@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [même parité, nombre pair, nombre impair, entier pair, entier impair]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 1 logique]]"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 

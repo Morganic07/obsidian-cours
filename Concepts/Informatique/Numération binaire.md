@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year3, year4]
 aliases: [Écriture binaire, représentation binaire, nombre binaire, conversion décimal-binaire, base 2, binary number, Système binaire]
-sources: ["[[explications DM d'algo]]", ".raw/Year 3/Computer Network/02 IP Addressing.pdf", "[[Culture du vivant - prise de note]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]", "[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]", "[[Culture du vivant - prise de note (résumé)|Culture du vivant - prise de note]]"]
 maj: 2026-11-06
 ---
 

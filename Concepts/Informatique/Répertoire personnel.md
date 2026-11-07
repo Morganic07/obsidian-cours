@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [home directory, dossier personnel]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf", "[[Cours TP2]]", "[[cours TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[séance TP1 (résumé)|cours TP1]]"]
 maj: 2026-11-06
 ---
 

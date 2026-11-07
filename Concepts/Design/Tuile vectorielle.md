@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [tuiles vectorielles, PMTiles, vector tiles]
 matieres: [management de l'innovationb]
-sources: ["[[innovations - Morgane Pina]]"]
+sources: ["[[Douze innovations (résumé)|innovations - Morgane Pina]]"]
 maj: 2026-11-06
 ---
 

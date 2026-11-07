@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [availability bias, heuristique de disponibilité]
-sources: ["[[Compte rendu]]"]
+sources: ["[[Compte rendu (résumé)|Compte rendu]]"]
 maj: 2026-11-06
 ---
 

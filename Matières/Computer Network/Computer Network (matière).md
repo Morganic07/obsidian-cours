@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[chp1 - Computer Networks]]", "[[Formation CISCO Packet Tracer]]", "[[Chp2 - Static Routing]]", "[[Chp3 - Dynamic Routing]]", "[[Chp4 - VLAN ／ IVR Commands]]", "[[Chp5 - NAT ／ PAT]]", "[[chp6 - Access Control List]]"]
+sources: ["[[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[Formation CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]]", "[[Chp2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[Chp3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]", "[[Chp4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]", "[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]", "[[chp6 - Access Control List (résumé)|chp6 - Access Control List]]"]
 maj: 2026-11-06
 ---
 
@@ -11,19 +11,19 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp1 - Computer Networks]] | Modes de la CLI, mémoires, début du routage statique | [[chp1 - Computer Networks (résumé)\|Résumé]] |
-| [[Formation CISCO Packet Tracer]] | Récapitulatif et ping | [[Formation CISCO Packet Tracer (résumé)\|Résumé]] |
-| [[Chp2 - Static Routing]] | Table de routage, routes statiques | [[Chp2 - Static Routing (résumé)\|Résumé]] |
-| [[Chp3 - Dynamic Routing]] | Route par défaut, RIP | [[Chp3 - Dynamic Routing (résumé)\|Résumé]] |
-| [[Chp4 - VLAN ／ IVR Commands]] | VLAN, trunk, routage inter-VLAN | [[Chp4 - VLAN ／ IVR Commands (résumé)\|Résumé]] |
-| [[Chp5 - NAT ／ PAT]] | Adresses privées, NAT, PAT | [[Chp5 - NAT ／ PAT (résumé)\|Résumé]] |
-| [[chp6 - Access Control List]] | Wildcard mask, ACL | [[chp6 - Access Control List (résumé)\|Résumé]] |
+| [[chp1 - Computer Networks (résumé)\|chp1 - Computer Networks]] | Modes de la CLI, mémoires, début du routage statique | [[chp1 - Computer Networks (résumé)\|Résumé]] |
+| [[Formation CISCO Packet Tracer (résumé)\|Formation CISCO Packet Tracer]] | Récapitulatif et ping | [[Formation CISCO Packet Tracer (résumé)\|Résumé]] |
+| [[Chp2 - Static Routing (résumé)\|Chp2 - Static Routing]] | Table de routage, routes statiques | [[Chp2 - Static Routing (résumé)\|Résumé]] |
+| [[Chp3 - Dynamic Routing (résumé)\|Chp3 - Dynamic Routing]] | Route par défaut, RIP | [[Chp3 - Dynamic Routing (résumé)\|Résumé]] |
+| [[Chp4 - VLAN ／ IVR Commands (résumé)\|Chp4 - VLAN ／ IVR Commands]] | VLAN, trunk, routage inter-VLAN | [[Chp4 - VLAN ／ IVR Commands (résumé)\|Résumé]] |
+| [[Chp5 - NAT ／ PAT (résumé)\|Chp5 - NAT ／ PAT]] | Adresses privées, NAT, PAT | [[Chp5 - NAT ／ PAT (résumé)\|Résumé]] |
+| [[chp6 - Access Control List (résumé)\|chp6 - Access Control List]] | Wildcard mask, ACL | [[chp6 - Access Control List (résumé)\|Résumé]] |
 
 ## Documents PDF
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| 02 IP Addressing (`.raw/Year 3/Computer Network/02 IP Addressing.pdf`) | Adressage IPv4 : binaire, classes, masques, CIDR, sous-réseaux | [[02 IP Addressing (résumé)\|Résumé]] |
+| 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf\|02 IP Addressing.pdf]]) | Adressage IPv4 : binaire, classes, masques, CIDR, sous-réseaux | [[02 IP Addressing (résumé)\|Résumé]] |
 
 ## Concepts
 

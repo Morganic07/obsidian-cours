@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp1 - récursivité et complexité]]"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chp1 - récursivité et complexité.docx|Chp1 - récursivité et complexité]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp1 - récursivité et complexité]], dans [[Algo (matière)]]. En cas d'écart, le cours et ses images font foi. Les exemples sont en [[Langage Python|Python]].
+Résumé de [[Raw/Year 2/Algo/Cours/Chp1 - récursivité et complexité.docx|Chp1 - récursivité et complexité]], dans [[Algo (matière)]]. En cas d'écart, le cours et ses images font foi. Les exemples sont en [[Langage Python|Python]].
 
 ## Idée générale
 

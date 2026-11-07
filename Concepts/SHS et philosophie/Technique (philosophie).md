@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: []
 matieres: [Philosophie]
-sources: ["[[liberté et moralité]]"]
+sources: ["[[liberté et moralité (résumé)|liberté et moralité]]"]
 maj: 2026-11-06
 ---
 

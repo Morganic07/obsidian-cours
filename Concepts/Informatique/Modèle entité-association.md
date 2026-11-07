@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [MCD, schéma E/A, schéma entité-association, diagramme entité-association, ER diagram, modèle conceptuel de données, MERISE, cardinalités, entité faible, association réflexive]
 matieres: [Data base, ligue football]
-sources: ["[[Cours 1 et 2 - Database]]"]
+sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]"]
 maj: 2026-11-06
 ---
 

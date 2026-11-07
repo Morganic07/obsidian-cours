@@ -11,9 +11,9 @@ matieres:
   - Algo Maths
   - graph theory
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - "[[chp3 - complexité]]"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[chp3 - complexité (résumé)|chp3 - complexité]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -25,6 +25,6 @@ Notion parente : [[Récursivité]].
 
 ## À vérifier
 
-- Dans [[chp3 - complexité]], l'équation est introduite pour « $n > 0$ » alors que la base est $T(1)$, et la fin de la résolution est coupée sur l'image.
+- Dans [[chp3 - complexité (résumé)|chp3 - complexité]], l'équation est introduite pour « $n > 0$ » alors que la base est $T(1)$, et la fin de la résolution est coupée sur l'image.
 
 Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (résumé, Algo Maths)]], [[chp3 - complexité (résumé)]], [[AlgoID1 (résumé)]]

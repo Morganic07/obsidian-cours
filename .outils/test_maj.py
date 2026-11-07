@@ -4,6 +4,7 @@ import json
 import shutil
 import subprocess
 import tempfile
+import unicodedata
 import unittest
 from pathlib import Path
 
@@ -246,6 +247,19 @@ class TestCas(Base):
         self.assertIn("Fiche existante : aucune", texte)
         self.assertIn(f"Pages qui citent l'ancien chemin : `{chemins.MATIERES}/Algebre/Algebre (matière).md`",
                       texte)
+
+    def test_nom_decompose_sur_drive_retrouve_sa_fiche(self):
+        # Cas réel : « Contrôles.pdf » arrive de Drive en Unicode décomposé (NFD).
+        nfd = unicodedata.normalize("NFD", "Contrôles.docx")
+        self.docx(f"Year 2/Algebre/{nfd}", "Version 1.\n")
+        faux_rclone(self.drive)(["rclone", "sync", maj.DRIVE, str(self.coffre / M),
+                                 "--backup-dir", str(self.racine / "jeter")], None)
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Contrôles (résumé).md",
+                    f'---\nsources: ["[[{M}/Year 2/Algebre/Contrôles.docx|Contrôles.docx]]"]\n---\n')
+        self.docx(f"Year 2/Algebre/{nfd}", "Version 2.\n")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Contrôles (résumé).md`",
+                      unicodedata.normalize("NFC", self.lot("01 - Contro")))
 
     def test_tableau_reste_en_html_signale(self):
         # Cas réel (« Cours 1 et 2 : Database ») : plusieurs lignes d'en-tête, que pandoc

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [sommes télescopiques, produit télescopique, produits télescopiques, télescopage]
 matieres: [Analyse Maths]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]"]
 maj: 2026-11-06
 ---
 

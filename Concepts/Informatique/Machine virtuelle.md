@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [virtual machine, virtual machines, VMM, virtual machine manager, hyperviseur, VirtualBox, KVM, bare metal, hosted hypervisor, Kernel Virtual Machine]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]", "[[OS - chp 3]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 3 (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 

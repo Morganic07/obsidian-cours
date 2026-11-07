@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3, year4]
 aliases: [entretien utilisateur, guide d'entretien, entretien semi-structuré, semi-structured interview, journal de bord d'entretien, topo de présentation, questions de relance, retranscription d'entretien, entretien exploratoire]
 matieres: [Dessein au cube, Projet design, Projet Design, SHS, Affordance]
-sources: ["[[Pistes entrevue (résumé)|Pistes entrevue (résumé)]]", "[[Compte rendu (résumé)|Compte rendu (résumé)]]", "[[Pistes entrevue]]", "[[Inégalités alimentaires]]", "[[Projet BLR]]", ".raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf", ".raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf", ".raw/Year 3/Affordance/UX Research - Observation - 2026.pptx", "[[Entretien sur l'open source (résumé)]]", "[[Prise de note SHS]]"]
+sources: ["[[Pistes entrevue (résumé)|Pistes entrevue (résumé)]]", "[[Compte rendu (résumé)|Compte rendu (résumé)]]", "[[Pistes entrevue (résumé)|Pistes entrevue]]", "[[Inégalités alimentaires (résumé)|Inégalités alimentaires]]", "[[Projet BLR (résumé)|Projet BLR]]", "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]", "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]", "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]", "[[Entretien sur l'open source (résumé)]]", "[[Prise de note SHS (résumé)|Prise de note SHS]]"]
 maj: 2026-11-06
 ---
 
@@ -34,6 +34,6 @@ Notion parente : [[Enquête qualitative et quantitative]]. Suite logique : [[Ana
 
 ## À vérifier
 
-- Les notes « Synthèse des entretiens » et « Transcriptions des entretiens » (SHS, 3e année) n'ont plus de fichier dans `Cours/` : seuls leurs résumés ont été lus ([[Synthèse des entretiens (résumé)]], [[Transcriptions des entretiens (résumé)]]).
+- Les notes « Synthèse des entretiens » et « Transcriptions des entretiens » (SHS, 3e année) sont exclues du miroir de Drive : seuls leurs résumés ont été lus ([[Synthèse des entretiens (résumé)]], [[Transcriptions des entretiens (résumé)]]).
 
 Résumés : [[Pistes entrevue (résumé)|Pistes entrevue (résumé)]], [[Inégalités alimentaires (résumé)]], [[Compte rendu (résumé)|Compte rendu (résumé)]], [[retranscription (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[UX Research - Observation - 2026 (résumé)]], [[Entretien sur l'open source (résumé)]], [[Prise de note SHS (résumé)]]

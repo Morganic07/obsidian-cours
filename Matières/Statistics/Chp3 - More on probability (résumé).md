@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp3 - More on probability]]"]
+sources: ["[[Raw/Year 3/Statistics/Chp3 : More on probability.docx|Chp3 - More on probability]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp3 - More on probability]], dans [[Statistics (matière)]]. Le chapitre complète la probabilité du cours de [[Probability (matière)]] avec ce qu'il faut pour l'inférence : combinaisons linéaires, échantillons iid, [[Théorème central limite]], diagrammes de probabilité, simulation par la fonction de répartition inverse, fonction génératrice des moments et deux lois d'appoint (Weibull, log-normale). En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
+Résumé de [[Raw/Year 3/Statistics/Chp3 : More on probability.docx|Chp3 - More on probability]], dans [[Statistics (matière)]]. Le chapitre complète la probabilité du cours de [[Probability (matière)]] avec ce qu'il faut pour l'inférence : combinaisons linéaires, échantillons iid, [[Théorème central limite]], diagrammes de probabilité, simulation par la fonction de répartition inverse, fonction génératrice des moments et deux lois d'appoint (Weibull, log-normale). En cas d'écart, le cours et ses images font foi. Les images n'ont pas été ouvertes : seules leurs transcriptions ont été lues.
 
 ## Combinaisons linéaires de variables aléatoires
 

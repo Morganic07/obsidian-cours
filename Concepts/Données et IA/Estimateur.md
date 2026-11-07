@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [estimator, point estimate, estimation ponctuelle, biais d'un estimateur, unbiased estimator, estimateur sans biais, erreur quadratique moyenne, mean squared error, MSE, standard error, erreur type, estimateur consistant, consistent estimator, exactitude, précision d'un estimateur]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp4 Part 1 - Inferential statistics]]", "[[Cours 4 - Estimation]]"]
+sources: ["[[Chp4 Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[Séance 4 - Estimation (résumé)|Cours 4 - Estimation]]"]
 maj: 2026-11-06
 ---
 

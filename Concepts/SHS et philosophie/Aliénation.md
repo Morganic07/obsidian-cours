@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [aliénation technologique, division du travail]
 matieres: [Philosophie]
-sources: ["[[philo 1]]", "[[philo 2]]", "[[philo 5]]"]
+sources: ["[[philo 1 (résumé)|philo 1]]", "[[philo 2 (résumé)|philo 2]]", "[[philo 5 (résumé)|philo 5]]"]
 maj: 2026-11-06
 ---
 

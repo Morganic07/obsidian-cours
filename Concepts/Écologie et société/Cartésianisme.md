@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [séparation homme-nature]
 matieres: [Culture du vivant]
-sources: [".raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf", "[[Culture Vivant COURS 2 EXPLICATION]]"]
+sources: ["[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]", "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"]
 maj: 2026-11-06
 ---
 

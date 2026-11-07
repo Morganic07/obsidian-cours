@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [matrice carrée, matrices carrées, matrice nulle]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp4]]"]
+sources: ["[[chp4 (résumé)|chp4]]"]
 maj: 2026-11-06
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [équations trigonométriques]
-sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]"]
 maj: 2026-11-06
 ---
 

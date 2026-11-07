@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [classful, classless, routage classful, routage classless]
 matieres: [Computer Network]
-sources: ["[[Chp3 - Dynamic Routing]]"]
+sources: ["[[Chp3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 ---
 

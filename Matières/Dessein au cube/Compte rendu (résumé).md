@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Compte rendu|Compte rendu (Dessein au cube)]]"
+  - "[[Raw/Year 1/Dessein au cube/inégalités alimentaires/Compte rendu.docx|Compte rendu (Dessein au cube)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Compte rendu|Compte rendu]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
+Résumé de [[Raw/Year 1/Dessein au cube/inégalités alimentaires/Compte rendu.docx|Compte rendu]], dans [[Dessein au cube (matière)]]. En cas d'écart, la note fait foi.
 
 Rapport de l'enquête menée auprès de deux participants (entretiens de 30 min et 1 h 30, le second en visioconférence). Il suit le plan : thème, problématique, topo, recrutement, guide d'entretien, points clés, analyse critique, recommandations, analyse critique de la problématique.
 

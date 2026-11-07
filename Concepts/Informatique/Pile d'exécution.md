@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [pile d'appels, call stack, cadre de pile, stack frame, stack pointer, pile mémoire, pile de récursion]
 matieres: [Algo, C++]
-sources: ["[[Chp1 - récursivité et complexité]]", "[[Chp1 - basiques]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Chp1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]", "[[Chp1 - basiques (résumé)|Chp1 - basiques]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 

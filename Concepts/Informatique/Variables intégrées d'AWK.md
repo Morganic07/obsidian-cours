@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [built-in variables, "variables prédéfinies d'AWK", AWK built-in variables]
-sources: [".raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf", "[[Cours TP5]]", "[[TP5]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[Séance TP5 (résumé)|Cours TP5]]", "[[TP5 (résumé)|TP5]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [simple event, compound event, événement simple, événement composé, événement contraire, complementary event]
 matieres: [Probability]
-sources: ["[[Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 

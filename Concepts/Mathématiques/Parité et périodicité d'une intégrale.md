@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [intégrale d'une fonction paire, intégrale d'une fonction impaire, intégrale d'une fonction périodique]
-sources: ["[[Chap7-Integration]]", "[[Intégration UTILITAIRE]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
 maj: 2026-11-06
 ---
 

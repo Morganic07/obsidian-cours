@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [orthogonal matrix, orthogonal matrices, matrices orthogonales]
-sources: ["[[chp 1 - Orthogonality]]", "[[Cours 13 - Principal Components Analysis]]"]
+sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 

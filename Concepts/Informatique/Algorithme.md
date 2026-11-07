@@ -8,8 +8,8 @@ aliases:
 matieres:
   - Algo Maths
 sources:
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
 maj: 2026-11-06
 ---
 

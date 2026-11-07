@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [équations du second degré, trinôme du second degré, signe du trinôme, discriminant, trinôme, polynôme complexe, racine double]
 matieres: [Analyse Maths, Algo Maths, Outil Maths]
-sources: [".raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf", ".raw/Year 1/Analyse Maths/Exos/td0slides.pdf", ".raw/Year 1/Algo Maths/AlgoID1.pdf", "[[Chapitre 5 - Complexes]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Chapitre 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 

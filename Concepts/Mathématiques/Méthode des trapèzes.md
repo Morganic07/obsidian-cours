@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [trapèzes]
 matieres: [Analyse]
-sources: ["[[Chap7-Integration]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]"]
 maj: 2026-11-06
 ---
 

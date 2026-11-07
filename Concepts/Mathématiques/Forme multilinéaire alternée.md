@@ -3,7 +3,7 @@ type: concept
 tags: [year1, nomme]
 aliases: [forme multilinéaire, multilinéaire]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp6]]"]
+sources: ["[[chp6 (résumé)|chp6]]"]
 maj: 2026-11-06
 ---
 

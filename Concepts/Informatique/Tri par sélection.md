@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [tri de sélection, selection sort]
-sources: ["[[chp3 - complexité]]"]
+sources: ["[[chp3 - complexité (résumé)|chp3 - complexité]]"]
 maj: 2026-11-06
 ---
 

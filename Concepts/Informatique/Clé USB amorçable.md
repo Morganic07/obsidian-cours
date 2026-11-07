@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [bootable USB, clé USB bootable, Rufus]
 matieres: [Operating System]
-sources: ["[[OS - chp 3]]"]
+sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 

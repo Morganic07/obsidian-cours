@@ -7,10 +7,10 @@ aliases:
   - composantes d'un vecteur
   - matrice d'un vecteur
 sources:
-  - "[[chp1]]"
-  - "[[chp4]]"
-  - "[[Cours/Year 1/Algèbre Linéaire/Cours/chp5|chp5 (Algèbre Linéaire)]]"
-  - "[[chp6]]"
+  - "[[chp1 (résumé)|chp1]]"
+  - "[[chp4 (résumé)|chp4]]"
+  - "[[chp5 - Algèbre linéaire (résumé)|chp5 (Algèbre Linéaire)]]"
+  - "[[chp6 (résumé)|chp6]]"
 maj: 2026-11-06
 ---
 

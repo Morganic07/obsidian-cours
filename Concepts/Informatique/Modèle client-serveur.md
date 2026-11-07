@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [client-server computing, client-serveur, compute server, serveur de calcul, file-server system, serveur de fichiers, architecture client-serveur]
 matieres: [Operating System]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

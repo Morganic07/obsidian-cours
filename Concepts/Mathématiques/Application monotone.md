@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [application croissante, application décroissante, strictement croissante, strictement décroissante, application strictement monotone]
-sources: [".raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 

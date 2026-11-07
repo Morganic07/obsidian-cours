@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [triangular matrix, matrice triangulaire supérieure, upper triangular matrix, matrices triangulaires]
-sources: ["[[Chp 0c - Determinants]]", "[[Chp 0e - Eigenvalues and eigenvectors]]"]
+sources: ["[[Chp 0c - Determinants (résumé)|Chp 0c - Determinants]]", "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"]
 maj: 2026-11-06
 ---
 

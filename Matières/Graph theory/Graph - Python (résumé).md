@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Graph - Python]]"]
+sources: ["[[Raw/Year 4/graph theory/Graph - Python.docx|Graph - Python]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Graph - Python]], dans [[Graph theory (matière)]]. Notes de TP en Python, sans image : dictionnaires, représentation d'un graphe (matrice d'adjacence ou dictionnaire de voisins), fonctions de test sur les chaînes et les graphes, puis algorithme de Kruskal avec Union-Find. Les définitions viennent de [[Chp 1 - Undirected graph (résumé)]] et [[Chp2 - tree (résumé)]]. L'indentation du code, perdue dans la note, est reconstituée ici ; le code est par ailleurs recopié tel quel, erreurs comprises (voir Points à vérifier).
+Résumé de [[Raw/Year 4/graph theory/Graph - Python.docx|Graph - Python]], dans [[Graph theory (matière)]]. Notes de TP en Python, sans image : dictionnaires, représentation d'un graphe (matrice d'adjacence ou dictionnaire de voisins), fonctions de test sur les chaînes et les graphes, puis algorithme de Kruskal avec Union-Find. Les définitions viennent de [[Chp 1 - Undirected graph (résumé)]] et [[Chp2 - tree (résumé)]]. L'indentation du code, perdue dans la note, est reconstituée ici ; le code est par ailleurs recopié tel quel, erreurs comprises (voir Points à vérifier).
 
 ## Dictionnaires Python
 

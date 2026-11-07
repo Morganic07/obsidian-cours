@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [GL(E)]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp2]]"]
+sources: ["[[chp2 (résumé)|chp2]]"]
 maj: 2026-11-06
 ---
 

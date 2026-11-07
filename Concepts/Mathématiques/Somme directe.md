@@ -8,7 +8,7 @@ aliases:
   - sous-espaces supplémentaires
   - en somme directe
 sources:
-  - "[[chp7|chp7 (Algèbre)]]"
+  - "[[chp7 (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 

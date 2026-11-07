@@ -14,14 +14,14 @@ matieres:
   - Analyse Maths
   - Algo
 sources:
-  - "[[Chapitre 1 logique]]"
-  - "[[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]]"
-  - ".raw/Year 1/Algo Maths/AlgoID1.pdf"
-  - ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf"
-  - ".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf"
-  - ".raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf"
-  - ".raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf"
-  - "[[Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]"
+  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
+  - "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]"
+  - "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]"
+  - "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"
+  - "[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"
+  - "[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
 maj: 2026-11-06
 ---
 
@@ -43,6 +43,6 @@ Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Récursivité]], [
 
 ## À vérifier
 
-- [[Cours/Year 1/Algo Maths/Cours 1|Cours 1 (Algo Maths)]] : la conclusion dit « vraie pour tout entier ≥ 1 » alors que l'initialisation est en 0, et $2^{k+1}$ est écrit « 2^k+1 ».
+- [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]] : la conclusion dit « vraie pour tout entier ≥ 1 » alors que l'initialisation est en 0, et $2^{k+1}$ est écrit « 2^k+1 ».
 
 Résumés : [[Chapitre 1 logique (résumé)]], [[Séance 1 - Algo Maths (résumé)|Cours 1 (résumé, Algo Maths)]], [[AlgoID1 (résumé)]], [[Chap0-Rappels-etc (résumé)]], [[Chap1-reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[Chapitre4-Preing2ID (résumé)]], [[Chp 0e - Eigenvalues and eigenvectors (résumé)]]

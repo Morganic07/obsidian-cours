@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [joint distribution, joint pmf, joint pdf, loi marginale, marginal pmf, marginal pdf, convolution, joint probability distribution, lois marginales, densité conjointe, joint density]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[Chp 6 - Joint probability distributions]]", "[[Cours 9 - Covariance and Correlation]]", "[[Chp3 - More on probability]]"]
+sources: ["[[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[Chp3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -23,6 +23,6 @@ Liens : [[Covariance et corrélation]], [[Probabilité conditionnelle]]
 
 ## À vérifier
 
-- [[Chp 6 - Joint probability distributions]] : la mention d'un événement « de $S \times S$ » est à vérifier sur l'image.
+- [[Chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]] : la mention d'un événement « de $S \times S$ » est à vérifier sur l'image.
 
 Résumés : [[Chp 6 - Joint probability distributions (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[Chp3 - More on probability (résumé)]]

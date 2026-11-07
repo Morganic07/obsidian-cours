@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [sommes de Riemann, somme de Riemann d'ordre n, méthode des rectangles à gauche, méthode des rectangles à droite]
-sources: ["[[Chap7-Integration]]", "[[démonstrations - integration]]"]
+sources: ["[[Chap7-Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]"]
 maj: 2026-11-06
 ---
 

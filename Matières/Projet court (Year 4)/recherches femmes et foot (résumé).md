@@ -3,12 +3,12 @@ type: source
 tags:
   - year4
 sources:
-  - "[[recherches femmes et foot|recherches femmes et foot]]"
+  - "[[Raw/Year 4/projet court/recherches femmes et foot .docx|recherches femmes et foot]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[recherches femmes et foot|recherches femmes et foot]], dans [[Projet court (Year 4) (matière)]]. Notes de recherche, sans consigne ni problématique écrite ; les chiffres viennent de sources citées dans la note et ne sont pas vérifiés ici. Le tableau de la note est signalé « À vérifier » (chiffres incohérents).
+Résumé de [[Raw/Year 4/projet court/recherches femmes et foot .docx|recherches femmes et foot]], dans [[Projet court (Year 4) (matière)]]. Notes de recherche, sans consigne ni problématique écrite ; les chiffres viennent de sources citées dans la note et ne sont pas vérifiés ici. Le tableau de la note est signalé « À vérifier » (chiffres incohérents).
 
 Plusieurs liens de la note portent `utm_source=gemini`, et le style des derniers paragraphes (« postulat de départ », renvois numérotés sans liste de références) laisse penser qu'une partie du texte a été produite ou rédigée avec un assistant d'IA : à traiter comme une piste de recherche, pas comme une source.
 

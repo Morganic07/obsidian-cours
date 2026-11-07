@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [keyboard layout, keyboard map, setxkbmap, XKBLAYOUT, /etc/default/keyboard]
 matieres: [Operating System]
-sources: ["[[cours TP1]]", "[[TP1]]"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]"]
 maj: 2026-11-06
 ---
 

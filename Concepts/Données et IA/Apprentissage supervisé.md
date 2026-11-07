@@ -6,9 +6,9 @@ tags:
 aliases:
   - supervised learning
 sources:
-  - "[[Cours/Year 3/IA/Cours 1|Cours 1 (IA)]]"
-  - ".raw/Year 4/data mining/cours data mining du prof.pdf"
-  - "[[Chp1 - intro to data mining]]"
+  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
+  - "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"
+  - "[[Chp1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"
 maj: 2026-11-06
 ---
 

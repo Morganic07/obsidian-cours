@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [clonage, transfert de noyau de cellule somatique, transfert de noyau]
 matieres: [Communication orale]
-sources: ["[[Debats]]"]
+sources: ["[[Debats (résumé)|Debats]]"]
 maj: 2026-11-06
 ---
 

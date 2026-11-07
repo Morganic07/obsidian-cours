@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [fork, fork(), wait(), process creation, process termination, création de processus, cascading termination, exit(), abort()]
 matieres: [Operating System]
-sources: ["[[OS - chp7]]", "[[Copy of 08 Processes-TP]]", "[[Cours TP4]]", ".raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf"]
+sources: ["[[OS - chp7 (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]", "[[Séance TP4 (résumé)|Cours TP4]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 ---
 

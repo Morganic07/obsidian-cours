@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [tangente à la courbe, équation de la tangente, tangente verticale]
 matieres: [Analyse Maths]
-sources: ["[[Chp4 - dérivabilité]]", ".raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf"]
+sources: ["[[Chp4 - dérivabilité (résumé)|Chp4 - dérivabilité]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"]
 maj: 2026-11-06
 ---
 

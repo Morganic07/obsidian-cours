@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[Synthèse|Synthèse (Dessein au cube)]]"
+  - "[[Raw/Year 1/Dessein au cube/Synthèse.docx|Synthèse (Dessein au cube)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Synthèse|Synthèse]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 1/Dessein au cube/Synthèse.docx|Synthèse]], dans [[Dessein au cube (matière)]]. En cas d'écart, le cours fait foi.
 
 Texte de synthèse d'une enquête par entretien sur l'accès à une alimentation saine, rédigé par l'étudiante selon le format décrit dans [[Untitled document (résumé)|Untitled document (résumé)]] (choix du sujet, problématique, recrutement, analyse, réponse à la problématique).
 

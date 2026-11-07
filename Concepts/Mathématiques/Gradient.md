@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [gradients, nabla, vecteur gradient]
 matieres: [Analyse dans Rn]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[Chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 

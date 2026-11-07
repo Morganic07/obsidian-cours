@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de Chap0-Rappels-etc (`.raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf`) (PDF de 6 pages, « Chapitre 0 : Rappels et symboles sigma et pi »), dans [[Analyse Maths (matière)]]. Le PDF est fait de pages scannées ou collées en image, avec quelques titres en texte : il a été lu sur l'image. Une seule figure (la droite réelle, page 2).
+Résumé de Chap0-Rappels-etc ([[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]) (PDF de 6 pages, « Chapitre 0 : Rappels et symboles sigma et pi »), dans [[Analyse Maths (matière)]]. Le PDF est fait de pages scannées ou collées en image, avec quelques titres en texte : il a été lu sur l'image. Une seule figure (la droite réelle, page 2).
 
 ## I. Équations, inéquations, encadrements, valeur absolue, racine carrée
 

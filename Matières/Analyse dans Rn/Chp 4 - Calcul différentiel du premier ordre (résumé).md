@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp 4 - Calcul différentiel du premier ordre]] (« Chapitre 4 : Calcul différentiel du premier ordre »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]] (« Chapitre 4 : Calcul différentiel du premier ordre »), dans [[Analyse dans Rn (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

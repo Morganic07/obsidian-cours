@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [Percentile d'une loi continue, (100p)th percentile, percentile of a distribution, median of a continuous distribution, médiane d'une loi continue, quantiles, z_α, percentile, percentiles]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[Chp 5 - Continuous random variable]]", "[[Chp4 Part2 - Inferential statistics]]"]
+sources: ["[[Chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[Chp4 Part2 - Inferential statistics (résumé)|Chp4 Part2 - Inferential statistics]]"]
 maj: 2026-11-06
 ---
 

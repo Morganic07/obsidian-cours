@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [nombre décimal, nombres décimaux, ensemble des réels, corps totalement ordonné]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]"]
 maj: 2026-11-06
 ---
 

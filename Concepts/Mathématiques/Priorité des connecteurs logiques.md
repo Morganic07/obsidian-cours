@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [précédence des connecteurs, ordre de priorité des connecteurs, priorité des connecteurs]
-sources: ["[[Chapitre 1 logique]]"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 

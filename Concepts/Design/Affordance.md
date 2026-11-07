@@ -13,8 +13,8 @@ matieres:
   - Sémiotique
   - Affordance
 sources:
-  - "[[corps à l'oeuvre - cours|corps à l'oeuvre - cours]]"
-  - ".raw/Year 3/Sémiotique/Cours 3.pptx"
+  - "[[corps à l'oeuvre - séance (résumé)|corps à l'oeuvre - cours]]"
+  - "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"
 maj: 2026-11-06
 ---
 

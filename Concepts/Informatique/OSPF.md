@@ -3,7 +3,7 @@ type: concept
 tags: [year3, nomme]
 aliases: [Open Shortest Path First]
 matieres: [Computer Network]
-sources: ["[[Chp3 - Dynamic Routing]]"]
+sources: ["[[Chp3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 ---
 

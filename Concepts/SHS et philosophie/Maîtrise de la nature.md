@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [maître et possesseur de la nature, domination de la nature, "savoir c'est pouvoir"]
-sources: ["[[philo 1]]", "[[philo 2]]", "[[philo 3]]"]
+sources: ["[[philo 1 (résumé)|philo 1]]", "[[philo 2 (résumé)|philo 2]]", "[[philo 3 (résumé)|philo 3]]"]
 maj: 2026-11-06
 ---
 

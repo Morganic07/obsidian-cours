@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: [".raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF Chapitre5-ABR (`.raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf`) (30 diapositives, « Chapitre 5 : Les arbres binaires de recherche », ID2, 2024-2025), dans [[Algo (matière)]]. Le code est en [[Langage Python|Python]], en programmation objet ; l'indentation, perdue dans le PDF, est reconstituée.
+Résumé du PDF Chapitre5-ABR ([[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR.pdf]]) (30 diapositives, « Chapitre 5 : Les arbres binaires de recherche », ID2, 2024-2025), dans [[Algo (matière)]]. Le code est en [[Langage Python|Python]], en programmation objet ; l'indentation, perdue dans le PDF, est reconstituée.
 
 ## Idée générale
 

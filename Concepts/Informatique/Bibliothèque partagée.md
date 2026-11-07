@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [shared library, shared libraries, bibliothèques partagées]
-sources: [".raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
 maj: 2026-11-06
 ---
 

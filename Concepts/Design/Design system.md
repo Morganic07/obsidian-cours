@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year4]
 aliases: [système de design, design systems]
-sources: ["[[Global Exam Vocab]]", "Note d'origine dans Cours/Year 4/SHS"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Recherches SHS (résumé)]]"]
 maj: 2026-11-06
 ---
 

@@ -3,13 +3,13 @@ type: source
 tags:
   - year1
 sources:
-  - "[[retranscription|retranscription]]"
-  - "[[1.0 retranscription entrevue|1.0 retranscription entrevue]]"
+  - "[[Raw/Year 1/Dessein au cube/inégalités alimentaires/retranscription.docx|retranscription]]"
+  - "[[Raw/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue.docx|1.0 retranscription entrevue]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de deux notes de [[Dessein au cube (matière)]] : [[retranscription|retranscription]] et [[1.0 retranscription entrevue|1.0 retranscription entrevue]]. Les deux notes reprennent le même entretien (même début, même fin), avec des écarts décrits plus bas. En cas d'écart, la note fait foi.
+Résumé de deux notes de [[Dessein au cube (matière)]] : [[Raw/Year 1/Dessein au cube/inégalités alimentaires/retranscription.docx|retranscription]] et [[Raw/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue.docx|1.0 retranscription entrevue]]. Les deux notes reprennent le même entretien (même début, même fin), avec des écarts décrits plus bas. En cas d'écart, la note fait foi.
 
 Retranscription brute, sans titre, de l'entretien d'environ 30 minutes entre l'étudiante (Speaker 1) et un participant adulte, père de famille, anonymisé (Speaker 2). Il s'agit du participant 1 du [[Compte rendu (résumé)|Compte rendu]]. L'entretien applique la méthode de l'[[Entretien semi-directif]] préparée dans [[Pistes entrevue (résumé)|Pistes entrevue]]. **Tous les propos sur la santé et la nutrition sont ceux du participant et ne sont pas vérifiés.**
 

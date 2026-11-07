@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [opérations élémentaires, row operations, elementary row operations, row equivalent, lignes équivalentes, row reduction]
 matieres: [Algèbre Linéaire, Bilinear Algebra]
-sources: ["[[chp3]]", "[[Chp 0a - Linear combination]]", "[[Chp 0c - Determinants]]"]
+sources: ["[[chp3 (résumé)|chp3]]", "[[Chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]", "[[Chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Notion parente : [[Forme échelonnée]]. Voir aussi : [[Système linéaire]], [[
 
 ## À vérifier
 
-- Pour $L_i \leftarrow \alpha L_i + \beta L_j$, il faut $\alpha \neq 0$, ce que [[chp3]] ne précise pas.
+- Pour $L_i \leftarrow \alpha L_i + \beta L_j$, il faut $\alpha \neq 0$, ce que [[chp3 (résumé)|chp3]] ne précise pas.
 - La réduction par lignes ne donne pas les valeurs propres : c'est l'avertissement de Chp 0e, contredit par une note personnelle du même chapitre (voir [[Chp 0e - Eigenvalues and eigenvectors (résumé)]]).
 
 Résumés : [[chp3 (résumé)]], [[Chp 0a - Linear combination (résumé)]], [[Chp 0b - Matrix algebra (résumé)]], [[Chp 0c - Determinants (résumé)]]

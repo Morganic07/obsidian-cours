@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: []
 matieres: [Anglais, Projet design]
-sources: ["[[Global Exam Vocab]]", "[[Topo ELBA]]", "[[Informations villeneuve (Brief Intro)]]"]
+sources: ["[[Global Exam Vocab (résumé)|Global Exam Vocab]]", "[[Topo ELBA (résumé)|Topo ELBA]]", "[[Informations villeneuve (Brief Intro) (résumé)|Informations villeneuve (Brief Intro)]]"]
 maj: 2026-11-06
 ---
 

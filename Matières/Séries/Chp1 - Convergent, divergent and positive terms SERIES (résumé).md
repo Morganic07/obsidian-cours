@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[Chp1 - Convergent, divergent and positive terms SERIES]]"]
+sources: ["[[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Chp1 - Convergent, divergent and positive terms SERIES]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seules les trois figures de la comparaison série-intégrale sont intégrées.
+Résumé de [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]], dans [[Séries (matière)]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seules les trois figures de la comparaison série-intégrale sont intégrées.
 
 ## Idée générale
 

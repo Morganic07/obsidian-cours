@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year4]
-sources: [".raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf"]
+sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
 maj: 2026-11-06
 ---
 

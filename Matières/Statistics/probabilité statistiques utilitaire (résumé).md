@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year3]
-sources: ["[[probabilité statistiques utilitaire]]"]
+sources: ["[[Raw/Year 3/Statistics/probabilité statistiques utilitaire.docx|probabilité statistiques utilitaire]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[probabilité statistiques utilitaire]], dans [[Statistics (matière)]] : aide-mémoire de formules en deux pages (« Statistics formulas »), sans commentaire. En cas d'écart, le cours et ses images font foi. Les deux images ne contiennent que des formules : elles sont recopiées ici d'après leurs transcriptions ; la page 2 a été vérifiée sur l'image.
+Résumé de [[Raw/Year 3/Statistics/probabilité statistiques utilitaire.docx|probabilité statistiques utilitaire]], dans [[Statistics (matière)]] : aide-mémoire de formules en deux pages (« Statistics formulas »), sans commentaire. En cas d'écart, le cours et ses images font foi. Les deux images ne contiennent que des formules : elles sont recopiées ici d'après leurs transcriptions ; la page 2 a été vérifiée sur l'image.
 
 Il va plus loin que les chapitres intégrés : tests d'hypothèse, deux échantillons, régression, khi-deux. Le wiki ne reprend comme explication que les formules dont un chapitre intégré établit le sens ; les autres sont seulement recopiées.
 

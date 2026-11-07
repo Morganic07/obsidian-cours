@@ -11,7 +11,7 @@ matieres:
   - SHS
 sources:
   - "[[Recherches SHS (résumé)]]"
-  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Prise de note SHS (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -30,6 +30,6 @@ Notion parente : [[Communs numériques]]. Voir aussi : [[Design contributif]], [
 
 ## À vérifier
 
-- Le plan de [[Prise de note SHS|Prise de note SHS]] note encore « Définir l'Open design » comme reste à faire : la définition de cette page est celle, provisoire, du groupe.
+- Le plan de [[Prise de note SHS (résumé)|Prise de note SHS]] note encore « Définir l'Open design » comme reste à faire : la définition de cette page est celle, provisoire, du groupe.
 
 Résumés : [[Recherches SHS (résumé)]], [[Prise de note SHS (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]]

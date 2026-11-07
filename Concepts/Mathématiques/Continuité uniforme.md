@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [uniformément continue, uniformly continuous]
-sources: ["[[Chp 3 - Limite et continuité d’applications]]"]
+sources: ["[[Chp 3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]"]
 maj: 2026-11-06
 ---
 

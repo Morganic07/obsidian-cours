@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cd .., cd -]
 matieres: [Operating System]
-sources: ["[[cours TP1]]", "[[OS - chp 5]]"]
+sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[OS - chp 5 (résumé)|OS - chp 5]]"]
 maj: 2026-11-06
 ---
 

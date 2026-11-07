@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[corps à l'oeuvre - cours|corps à l'oeuvre - cours]]"
+  - "[[Raw/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours.docx|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[corps à l'oeuvre - cours|corps à l'oeuvre - cours]], dans [[Corps à l'oeuvre (matière)]]. Cours du 09/01/24, avec un intervenant extérieur (nom non repris). Notion centrale : la [[Gestelligence|« gestelligence »]]. Note sans image ; un dessin n'en garde que les mots (voir la dernière section).
+Résumé de [[Raw/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours.docx|corps à l'oeuvre - cours]], dans [[Corps à l'oeuvre (matière)]]. Cours du 09/01/24, avec un intervenant extérieur (nom non repris). Notion centrale : la [[Gestelligence|« gestelligence »]]. Note sans image ; un dessin n'en garde que les mots (voir la dernière section).
 
 ## Chorégraphie et design
 

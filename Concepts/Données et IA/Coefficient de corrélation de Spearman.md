@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Spearman, rho de Spearman, Spearman's rank correlation, corrélation de Spearman, corrélation de rang, rank correlation, rangs ex æquo]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Cours 9 - Covariance and Correlation]]"]
+sources: ["[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
 maj: 2026-11-06
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [contraposée, raisonnement par contraposition, démonstration par contraposition]
 matieres: [Outil Maths]
-sources: ["[[Chapitre 1 logique]]", ".raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf"]
+sources: ["[[Chapitre 1 logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]"]
 maj: 2026-11-06
 ---
 

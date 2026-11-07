@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year3]
-sources: ["PDF du brief du projet, dans .raw/Year 3/Projet courts"]
+sources: ["PDF du brief du projet, dans Raw/Year 3/Projet courts"]
 maj: 2026-11-06
 complet: true
 ---

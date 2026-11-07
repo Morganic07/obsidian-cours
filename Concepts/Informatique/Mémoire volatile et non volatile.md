@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [volatile storage, nonvolatile storage, nonvolatile memory, mémoire volatile, mémoire non volatile]
-sources: ["[[OS - chp 1]]"]
+sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 

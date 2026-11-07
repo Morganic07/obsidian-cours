@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cp --help, cp -r]
 matieres: [Operating System]
-sources: ["[[TP1]]", "[[UNIX Commands - Semester report]]", "[[Cours TP3]]"]
+sources: ["[[TP1 (résumé)|TP1]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]", "[[Séance TP3 (résumé)|Cours TP3]]"]
 maj: 2026-11-06
 ---
 

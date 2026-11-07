@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [densité de Q dans R, ℚ est dense dans ℝ, Q dense dans R]
-sources: [".raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf", ".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
 maj: 2026-11-06
 ---
 

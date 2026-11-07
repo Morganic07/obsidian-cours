@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[Chp1 - Intro Java]]"]
+sources: ["[[Chp1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 ---
 
@@ -11,7 +11,7 @@ Introduction au langage Java. Une seule note, intégrée.
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Chp1 - Intro Java]] | Variables, types, opérateurs, structures de contrôle, `main`, tableaux | [[Chp1 - Intro Java (résumé)\|Résumé]] |
+| [[Chp1 - Intro Java (résumé)\|Chp1 - Intro Java]] | Variables, types, opérateurs, structures de contrôle, `main`, tableaux | [[Chp1 - Intro Java (résumé)\|Résumé]] |
 
 ## Concepts
 

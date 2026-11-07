@@ -3,12 +3,12 @@ type: source
 tags:
   - year1
 sources:
-  - "[[chp4|chp4 (Algèbre)]]"
+  - "[[Raw/Year 1/Algèbre Linéaire/Cours /chp4.docx|chp4 (Algèbre)]]"
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp4|chp4 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 4, matrices. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 1/Algèbre Linéaire/Cours /chp4.docx|chp4 (Algèbre)]], dans [[Algèbre linéaire (matière)]] : chapitre 4, matrices. En cas d'écart, le cours et ses images font foi.
 
 ## Généralités
 

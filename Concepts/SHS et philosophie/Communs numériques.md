@@ -9,8 +9,8 @@ aliases:
 matieres:
   - SHS
 sources:
-  - "[[SHS Recherches-Morgane]]"
-  - "[[Prise de note SHS|Prise de note SHS]]"
+  - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
+  - "[[Prise de note SHS (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 

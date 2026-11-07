@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [printf, scanf, séquences de contrôle, spécificateur de format, modificateurs de format]
 matieres: [C++]
-sources: ["[[Chp1 - basiques]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Chp1 - basiques (résumé)|Chp1 - basiques]]", "[[Chp3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-06
 ---
 

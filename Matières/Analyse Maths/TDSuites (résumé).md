@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year1]
-sources: [".raw/Year 1/Analyse Maths/Exos/TDSuites.pdf"]
+sources: ["[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de TDSuites (`.raw/Year 1/Analyse Maths/Exos/TDSuites.pdf`) (122 diapositives, texte, « Analyse, premier semestre 2023-2024 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD sur les suites numériques. La numérotation compte deux exercices 15 (l'un sur les suites adjacentes, l'autre sur Cesàro). Lu par sections ; les énoncés des exercices 4, 6, 7 et 11 et deux pages de corrigé (4 f-h, 4 m) ont été relus en image. Le document ne contient aucune figure : rien n'est intégré. Notion centrale : [[Suite numérique]].
+Résumé de TDSuites ([[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]) (122 diapositives, texte, « Analyse, premier semestre 2023-2024 »), dans [[Analyse Maths (matière)]]. Ce sont les diapositives corrigées du TD sur les suites numériques. La numérotation compte deux exercices 15 (l'un sur les suites adjacentes, l'autre sur Cesàro). Lu par sections ; les énoncés des exercices 4, 6, 7 et 11 et deux pages de corrigé (4 f-h, 4 m) ont été relus en image. Le document ne contient aucune figure : rien n'est intégré. Notion centrale : [[Suite numérique]].
 
 ## Récapitulatif des exercices
 

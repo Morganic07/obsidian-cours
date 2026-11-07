@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [characteristic equation, polynôme caractéristique, characteristic polynomial]
-sources: ["[[Chp 0e - Eigenvalues and eigenvectors]]"]
+sources: ["[[Chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"]
 maj: 2026-11-06
 ---
 

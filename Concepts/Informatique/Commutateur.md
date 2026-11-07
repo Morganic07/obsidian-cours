@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [switchs, switches, commutateurs, Cisco 2960]
 matieres: [Computer Network]
-sources: ["[[chp1 - Computer Networks]]", "[[Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[chp1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[Chp4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 

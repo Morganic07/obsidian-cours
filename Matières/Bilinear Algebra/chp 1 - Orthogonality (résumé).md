@@ -1,12 +1,12 @@
 ---
 type: source
 tags: [year2]
-sources: ["[[chp 1 - Orthogonality]]"]
+sources: ["[[Raw/Year 2/Bilinear Algebra/chp 1 - Orthogonality.docx|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[chp 1 - Orthogonality]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/chp 1 - Orthogonality.docx|chp 1 - Orthogonality]], dans [[Bilinear Algebra (matière)]]. En cas d'écart, le cours et ses images font foi.
 
 ## Idée générale
 

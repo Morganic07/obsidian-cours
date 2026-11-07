@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [chi-squared distribution, chi-square distribution, loi du chi-deux, loi χ², khi-deux]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[Chp4 Part3 - Inferential statistics]]", "[[Cours 8 - Chi²-Test]]"]
+sources: ["[[Chp4 Part3 - Inferential statistics (résumé)|Chp4 Part3 - Inferential statistics]]", "[[Séance 8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]]"]
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Liens : [[Loi de Student]], [[Distribution d'échantillonnage]]
 
 ## À vérifier
 
-- [[Cours 8 - Chi²-Test]] parle de « somme des carrés d'une loi de Student », et donne $n-1$ degrés de liberté pour $x_1^2 + \dots + x_n^2$ : à corriger avant un examen (la définition donne $n$ degrés pour $n$ normales centrées réduites).
+- [[Séance 8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]] parle de « somme des carrés d'une loi de Student », et donne $n-1$ degrés de liberté pour $x_1^2 + \dots + x_n^2$ : à corriger avant un examen (la définition donne $n$ degrés pour $n$ normales centrées réduites).
 - La colonne 0,005 de la table du même cours est fausse.
 
 Résumés : [[Chp4 Part3 - Inferential statistics (résumé)]], [[Séance 8 - Chi²-Test (résumé)]]
