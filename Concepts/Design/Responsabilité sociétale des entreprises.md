@@ -1,11 +1,15 @@
 ---
 type: concept
-tags: [year1, year3, nomme]
+tags: [year1, year3]
 aliases: [RSE, responsabilité sociale des entreprises, engagement RSE]
 matieres: [Projet design, Culture du vivant, workshop]
 sources: ["[[Topo ELBA (résumé)|Topo ELBA]]", "[[idées solutions (résumé)|idées solutions]]", "[[Culture du vivant Dernière séance (résumé)|Culture du vivant Dernier cours]]", "[[Reyou (résumé)|Reyou]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
+
+**Définition (complément, hors du cours)** : la responsabilité sociétale (ou sociale) des entreprises, RSE, désigne la prise en compte, par une entreprise, des effets de son activité sur la société et l'environnement. Longtemps présentée comme une démarche volontaire allant au-delà des obligations légales (Livre vert de la Commission européenne, 2001), elle est définie par la Commission depuis 2011 comme « la responsabilité des entreprises vis-à-vis des effets qu'elles exercent sur la société ». Elle couvre les dimensions sociale, environnementale et économique, et le dialogue avec les [[Partie prenante|parties prenantes]] ; la norme ISO 26000 en donne les lignes directrices.
+
+## Dans le cours
 
 Notion nommée dans plusieurs cours, sans définition :
 

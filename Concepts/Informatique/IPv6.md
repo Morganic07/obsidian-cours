@@ -1,11 +1,15 @@
 ---
 type: concept
-tags: [year2, year3, nomme]
+tags: [year2, year3]
 aliases: [adresse IPv6, inet6]
 matieres: [Operating System, Computer Network]
 sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Chp5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
+
+**Définition (complément, hors du cours)** : IPv6 (Internet Protocol version 6) est la version du protocole IP qui succède à IPv4. Ses adresses font 128 bits au lieu de 32, soit environ 3,4 × 10³⁸ adresses, et s'écrivent en huit groupes de quatre chiffres hexadécimaux séparés par `:` (par exemple `2001:db8::1`, où `::` abrège une suite de groupes nuls).
+
+## Dans le cours
 
 Nommé sans définition dans deux matières :
 

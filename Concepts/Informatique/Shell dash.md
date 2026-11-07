@@ -1,11 +1,15 @@
 ---
 type: concept
-tags: [year2, nomme]
+tags: [year2]
 aliases: [dash, Debian Almquist shell]
 matieres: [Operating System]
 sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
+
+**Définition (complément, hors du cours)** : dash (*Debian Almquist shell*) est un shell léger, compatible avec la norme POSIX et dérivé du shell Almquist (ash), lui-même une réimplémentation du [[Bourne Shell (sh)]]. Plus petit et plus rapide que Bash, il n'en a pas les extensions (tableaux, `[[ … ]]`, etc.). Sous Debian et Ubuntu, `/bin/sh` pointe vers dash : les scripts lancés avec `sh` ou commençant par `#!/bin/sh` sont donc exécutés par dash, et non par Bash (voir [[Shell et Bash]]).
+
+## Dans le cours
 
 Nommé sans définition : dash est cité parmi les shells, et `/bin/dash` figure dans la sortie de `cat /etc/shells`.
 

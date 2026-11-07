@@ -110,11 +110,11 @@ Le miroir Drive passe de `raw/` à `.raw/`, qu'Obsidian n'affiche pas ; `maj.sh`
 
 ## [2026-11-06] ingest | Fin de deux résumés incomplets
 
-`Entretien sur l'open source` : transcription lue en entier, le résumé ajoute la façon de juger un dépôt (mises à jour, communauté, étoiles), la diffusion par le bouche-à-oreille et les réseaux sociaux, l'absence de licence, et la contribution par demande de fusion. Nouveau concept [[Demande de fusion]]. `Global Exam Vocab` : les quelque 285 entrées sont classées par chapitre ; sept définitions discutables relevées (hue, tertiary colours, golden ratio, aspect ratio, die cut, tolerance, anti-ornate), la définition d'aspect ratio aussi signalée sur [[Compression vidéo]].
+`Entretien sur l'open source` : transcription lue en entier, le résumé ajoute la façon de juger un dépôt (mises à jour, communauté, étoiles), la diffusion par le bouche-à-oreille et les réseaux sociaux, l'absence de licence, et la contribution par demande de fusion. Nouveau concept . `Global Exam Vocab` : les quelque 285 entrées sont classées par chapitre ; sept définitions discutables relevées (hue, tertiary colours, golden ratio, aspect ratio, die cut, tolerance, anti-ornate), la définition d'aspect ratio aussi signalée sur 
 
 ## [2026-11-06] ingest | Résumés complets, avec figures
 
-Les 216 résumés des notes de `Cours/` et des documents de `.raw/` deviennent des fiches complètes (`complet: true`), pour réviser sans ouvrir la source : définitions, théorèmes, formules, méthodes, code, exemples et exercices corrigés quand le document le permet. Ils passent d'environ 100 000 à 376 000 mots. Sont écartés : les résumés des trois notes supprimées par l'utilisatrice, les deux résumés d'entretiens SHS de Year 3 dont la note n'existe plus, et l'entretien sur l'open source, déjà complet. 841 images intégrées : 498 reprises des notes de `Cours/` sans copie, 343 créées depuis les PDF et PPTX dans 17 dossiers `Matières/<Matière>/images/` (47 Mo). Les PDF scannés (Contrôles, AnalyseID1, Chap1-reels, exercices de logique, Chp9) sont lus sur l'image ; `Contrôles.pdf` donne enfin les définitions de [[Nombre d'Armstrong]] et [[Nombre parfait]], complétées. Les schémas de formes PowerPoint, non extractibles faute de LibreOffice, sont décrits en texte.
+Les 216 résumés des notes de `Cours/` et des documents de `.raw/` deviennent des fiches complètes (`complet: true`), pour réviser sans ouvrir la source : définitions, théorèmes, formules, méthodes, code, exemples et exercices corrigés quand le document le permet. Ils passent d'environ 100 000 à 376 000 mots. Sont écartés : les résumés des trois notes supprimées par l'utilisatrice, les deux résumés d'entretiens SHS de Year 3 dont la note n'existe plus, et l'entretien sur l'open source, déjà complet. 841 images intégrées : 498 reprises des notes de `Cours/` sans copie, 343 créées depuis les PDF et PPTX dans 17 dossiers `Matières/<Matière>/images/` (47 Mo). Les PDF scannés (Contrôles, AnalyseID1, Chap1-reels, exercices de logique, Chp9) sont lus sur l'image ; `Co complétées. Les schémas de formes PowerPoint, non extractibles faute de LibreOffice, sont décrits en texte.
 
 Nouvelles erreurs de cours relevées et notées, sans correction, dont : majoration de $\sum 1/k^2$ (AnalyseID1), terme d'ordre 4 du corrigé du TD5 (ex. 18c), formules trigonométriques de td0slides, calcul d'âge et date d'Al-Khowarizmi (AlgoID1), réseau de l'ACL (Computer Network), conjugué des complexes (Outil Maths). Textes signalés comme générés ou traduits par un outil : Synthese SHS GPT, Recherches SHS, encadrés de la séance 13 d'ACP, fiche ressources Santé au travail, text1 (DeepL), recherches femmes et foot. Restent à trancher avec l'utilisatrice : les images de ses rendus dont le chemin porte son nom (écartées pour TP3, intégrées pour Douze innovations), trois images d'IA portant le logo nominatif d'une intervenante, et trois faux liens automatiques (gamma distribution, sample median, matrice composée).
 
@@ -128,7 +128,7 @@ Chaque transcription non vide dont l'image existe encore est comparée à son im
 
 ## [2026-11-07] schema | Plus de notes converties : les fiches lient le miroir Raw/
 
-Le miroir de Drive redevient visible sous `Raw/`, et Obsidian affiche ses docx et pptx (`showUnsupportedFiles`). Les liens du wiki vers les notes de `Cours/` mènent désormais à leur fiche, avec le même texte affiché (2 000 liens) ; dans une fiche, le lien vers sa propre note devient le lien de son document dans `Raw/` (308), et `sources` des six fiches sans lien reçoit celui de son document. Les 778 mentions `.raw/…` d'un fichier sont devenues des liens `[[Raw/…]]` ; les mentions d'un dossier, et le PDF dont le nom contient des crochets, restent en texte. Mesure après migration : aucun lien vers `Cours/`, aucun cassé ni ambigu, 1 092 liens vers `Raw/`. Ce journal garde ses mentions `.raw/` d'origine.
+Le miroir de Drive redevient visible sous `Raw/`, et Obsidian affiche ses docx et pptx (`showUnsupportedFiles`). Les liens du wiki vers les notes de `Cours/` mènent désormais à leur fiche, avec le même texte affiché (2 000 liens) ; dans une fiche, le lien vers sa propre note devient le lien de son document dans `Raw/` (308), et `sources` des six fiches sans lien reçoit celui de son document. Les 778 mentions `.raw/…` d'un fichier sont devenues des liens aw/ ; les mentions d'un dossier, et le PDF dont le nom contient des crochets, restent en texte. Mesure après migration : aucun lien vers `Cours/`, aucun cassé ni ambigu, 1 092 liens vers `Raw/`. Ce journal garde ses mentions `.raw/` d'origine.
 
 Décision de l'utilisatrice : `Prise parole Rendu final`, `Projet BLR` et `UNIX Commands - Semester report` sont exclus du miroir (`exclusions.local`) ; les 21 liens vers ces notes mènent à leur fiche. Les deux fiches d'entretiens SHS de Year 3 citent leur document comme exclu du miroir.
 
@@ -136,8 +136,43 @@ Nouvelle chaîne de mise à jour : `maj.sh` synchronise `Raw/` en gardant les an
 
 ## [2026-11-07] import | Mise à jour depuis Drive
 
-Premier essai de la nouvelle chaîne, sur un document modifié par l'utilisatrice : `Year 4/data mining/Chp1 - intro to data mining`. Seul changement : « mais d'extraire » devient « mais aussi d'extraire » dans la définition du data mining ; la fiche [[Chp1 - intro to data mining (résumé)]] reprend la nuance, et [[Fouille de données]] reste exacte. Google avait renuméroté les 55 images du document sans en changer le contenu : le lot désigne désormais les images par l'empreinte de leur contenu dans les changements, pour ne montrer que les vraies modifications.
+Premier essai de la nouvelle chaîne, sur un document modifié par l'utilisatrice : `Year 4/data mining/Chp1 - intro to data mining`. Seul changement : « maiste exacte. Google avait renuméroté les 55 images du document sans en changer le contenu : le lot désigne désormais les images par l'empreinte de leur contenu dans les changements, pour ne montrer que les vraies modifications.
 
 ## [2026-11-07] schema | Suppression de Cours/
 
-Après vérification qu'aucun lien ni aucune image du wiki n'y menait, l'utilisatrice a retiré `Cours/` du coffre (173 Mo, 2 046 fichiers). Mesure sans lui : aucun lien cassé ni ambigu, les 857 images intégrées sont toutes dans `Matières/`. Une phrase périmée de [[Chp 4 - Discrete random variables (résumé)]], qui disait intégrer une image depuis `Cours/`, est corrigée.
+Après vérification qu'aucun lien ni aucune image du wiki n'y menait, l'utilisatrice a retiré `Cours/` du coffre (173 Mo, 2 046 fichiers). Mesure sans lui : aucun lien cassé ni ambigu, les 857 images intégrées sont toutes daui disait intégrer une image depuis `Cours/`, est corrigée.
+
+## [2026-11-07] schema | Fusion de deux domaines de concepts
+
+À la demande de l'utilisatrice, `Concepts/SHS et philosophie` (115 concepts) et `Concepts/Écologie et société` (73) fusionnent en `Concepts/Sciences humaines` (188), sans doublon de nom. Les liens visant les concepts par leur nom, aucun n'est touché. `CLAUDE.md` passe à cinq domaines ; les deux groupes de couleur du graphe sont à réunir en un seul dans Obsidian.
+
+## [2026-11-07] schema | Concepts rangés par discipline
+
+La frontière entre `Données et IA` et `Informatique` n'était pas claire, et la règle « matière de première apparition » séparait les probabilités de Year 2 (dans `Mathématiques`) des statistiques de Year 3 (dans `Données et IA`). Sur décision de l'utilisatrice, les concepts sont désormais rangés par discipline, et `Données et IA` disparaît :
+
+- `Probabilités et statistiques` (nouveau, 107) : les 77 concepts de statistique de `Données et IA`, plus 30 de `Mathématiques` (probabilités et dénombrement) ;
+- `Informatique` (461) : 66 concepts de technique de l'IA, d'apprentissage automatique et d'outils R ;
+- `Sciences humaines` (196) : 8 concepts sur les enjeux de l'IA (deepfake, droit d'auteur, consommation énergétique…) ; `Hallucination (IA)` et `IA générative` y restent ;
+- `Mathématiques` (270) : `Trace d'une matrice`, `Fonction Gamma`, `Extremum local d'une fonction de deux variables`.
+
+Aucun lien touché : ils visent les concepts par leur nom. La règle de `CLAUDE.md` est réécrite. Les groupes de couleur du graphe sont à refaire dans Obsidian.
+
+## [2026-11-07] schema | Fin du tag nomme : définitions des concepts nommés
+
+Sur demande de l'utilisatrice, le tag `nomme` disparaît. Chacun des 162 concepts qui le portaient commence désormais par une définition, suivie de `## Dans le cours`, qui garde le texte d'avant intact. Pour 161 d'entre eux, aucune fiche ne définit la notion : la définition est marquée « complément, hors du cours ». Pour [[Problème indécidable]], le cours (AlgoID1) donne bien la définition : elle est reprise d'après la fiche, et la phrase « nommé sans définition » est corrigée. Format validé sur quatre pages ([[IPv6]], [[Réseau de neurones]], [[Santé au travail]], [[Cahier des charges]]), puis appliqué en trois lots. `CLAUDE.md` décrit la nouvelle règle.
+
+Compléments à relire, faute de définition établie ou de vérification sur un texte officiel : [[Gestelligence]] (interprétation du mot), [[Capital d'attractivité]], [[IA sémantique]], [[Tournant relationnel]], [[Boussole des possibles]], [[CSRD]] (calendrier), [[Qualité de vie au travail]] et [[Harcèlement moral]] (références juridiques), [[Ethos de classe]], [[Système nerveux sympathique et parasympathique]].
+
+Manques repérés, non traités : [[Effet de bord]] (aussi en Year 1, AlgoID1), [[Suite arithmétique]] (aussi en Year 4, Graph theory), [[Diagramme de Gantt]] (fiche de Management de l'innovation), [[Savoirs situés]] et [[Interaction homme-machine]] (fiche Ethnographie visuelle), [[Design des politiques publiques]], [[Fordisme]], [[Stigmatisation]] : des fiches y renvoient sans que la page les cite en retour.
+
+## [2026-11-07] lint | Relecture des 162 définitions et liens retour
+
+Manques corrigés : les neuf pages ci-dessus citent désormais les fiches qui renvoient vers elles (« Dans le cours », `Résumés`, `sources`), avec les années manquantes ; `matieres` élargi pour [[Diagramme de Gantt]], [[Fordisme]], [[Stigmatisation]] et [[Conception centrée utilisateur]], qui sinon ne seraient pas repérés dans les documents de ces matières.
+
+Relecture critique des 162 définitions, avec vérification sur le web pour les points douteux. Quatorze définitions corrigées :
+- Informatique : [[NFS]], [[Lien symbolique]] et [[Secteur défectueux]] signalent désormais l'écart avec le sens que leur donne le cours ; [[Erreur de segmentation]] ne laisse plus croire que tout débordement de tableau la déclenche.
+- Design : [[Bullshit jobs]] (traduction française « jobs à la con »), [[Fauvisme]] (le mot de Vauxcelles, « Donatello chez les fauves »), [[Santé au travail]] (« travailleurs », comme l'article L. 4121-1), [[Responsabilité sociétale des entreprises]] (définitions de 2001 et de 2011 distinguées), [[Système nerveux sympathique et parasympathique]] (anatomie du nerf vague distinguée de la lecture polyvagale), [[Capital d'attractivité]] (mis au conditionnel).
+- Sciences humaines : [[CSRD]] (report en 2025, puis périmètre réduit en 2026 par la directive Omnibus I), [[Pont aux ânes]], [[Boussole des possibles]] (les huit vents nommés), [[Masculinité hégémonique]] (formulée dans les années 1980).
+
+Restent incertains : [[Gestelligence]] (aucune occurrence hors du cours), [[ReFS]] (rapport à NTFS selon les versions de Windows), les seuils de [[Devoir de vigilance]] (simplifiés), le numéro de la directive Omnibus I (non vérifié sur EUR-Lex, et non cité dans la page).
+
