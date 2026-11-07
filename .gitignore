@@ -5,6 +5,7 @@ Raw/
 # État local d'Obsidian
 .obsidian/workspace*
 .obsidian/cache
+.obsidian/plugins/
 .trash/
 
 __pycache__/
