@@ -1,4 +1,5 @@
 import contextlib
+import hashlib
 import io
 import json
 import shutil
@@ -235,8 +236,31 @@ class TestCas(Base):
                        cwd=autre, check=True)
         self.assertEqual(self.lancer(), 0, self.erreurs)
         texte = self.lot("01 - Chp 1")
-        self.assertIn("Texte identique après conversion.", texte)
-        self.assertIn("Images nouvelles ou remplacées", texte)
+        # Les images étant comparées par leur contenu, le remplacement apparaît dans les
+        # changements, à sa place dans le texte, et dans la liste des images à recopier.
+        ancienne = hashlib.sha256(PNG).hexdigest()[:maj.EMPREINTE_COURTE]
+        nouvelle = hashlib.sha256(PNG + b"\x00autre").hexdigest()[:maj.EMPREINTE_COURTE]
+        self.assertIn(f"-![[image {ancienne}]]", texte)
+        self.assertIn(f"+![[image {nouvelle}]]", texte)
+        self.assertRegex(texte, rf"Images nouvelles ou remplacées .*\(image {nouvelle}\)")
+        # Sans copie dans la fiche, le lot le dit.
+        self.assertIn(f"image {ancienne} → aucune copie", texte)
+
+    def test_image_remplacee_retrouve_sa_copie_dans_la_fiche(self):
+        # La fiche a copié l'image sous un ancien numéro ; seul le contenu l'y relie.
+        images = self.coffre / chemins.MATIERES / "Algebre" / "images"
+        images.mkdir()
+        (images / "Chp 1 - image7.png").write_bytes(PNG)
+        (images / "Autre fiche - image7.png").write_bytes(PNG)
+        autre = self.racine / "autre"
+        autre.mkdir()
+        (autre / "pixel.png").write_bytes(PNG + b"\x00autre")
+        (autre / "s.md").write_text("Une matrice simple.\n\n![](pixel.png)\n", encoding="utf-8")
+        subprocess.run(["pandoc", "s.md", "-o", str(self.drive / "Year 2/Algebre/Chp 1.docx")],
+                       cwd=autre, check=True)
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        ancienne = hashlib.sha256(PNG).hexdigest()[:maj.EMPREINTE_COURTE]
+        self.assertIn(f"image {ancienne} → `Chp 1 - image7.png`", self.lot("01 - Chp 1"))
 
     def test_supprime_sans_fiche_signale_les_pages_qui_le_citent(self):
         self.ecrire(f"{chemins.MATIERES}/Algebre/Algebre (matière).md",
@@ -260,6 +284,32 @@ class TestCas(Base):
         self.assertEqual(self.lancer(), 0, self.erreurs)
         self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Contrôles (résumé).md`",
                       unicodedata.normalize("NFC", self.lot("01 - Contro")))
+
+    def test_images_renumerotees_par_google_ne_sont_pas_des_changements(self):
+        # Cas réel (Chp1 - intro to data mining) : un mot ajouté, et Google a renuméroté
+        # toutes les images du document, sans en changer le contenu.
+        self.docx("Year 2/Algebre/Chp 1.docx", "Version modifiée.\n")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        conversions = self.travail / maj.CONVERSIONS / "01"
+        for version, texte, noms in (
+                ("ancien", "Texte de départ.", {"image1.png": b"X", "image2.png": b"Y"}),
+                ("nouveau", "Texte de départ, complété.", {"image2.png": b"X", "image1.png": b"Y"})):
+            dossier = conversions / version
+            for f in dossier.iterdir():
+                f.unlink()
+            base = f"{maj.CONVERSIONS}/01/{version}"
+            ordre = "\n\n".join(f"![[{base}/{n}]]" for n in noms)
+            (dossier / maj.TEXTE).write_text(f"{texte}\n\n{ordre}\n", encoding="utf-8")
+            for nom, octets in noms.items():
+                (dossier / nom).write_bytes(octets)
+        maj.ecrire_lot(self.coffre, self.travail)
+        texte = self.lot("01 - Chp 1")
+        diff = texte.split("```diff")[1].split("```")[0]
+        self.assertIn("-Texte de départ.", diff)
+        self.assertIn("+Texte de départ, complété.", diff)
+        changees = [l for l in diff.splitlines()[2:] if l[:1] in "+-" and "image" in l]
+        self.assertEqual(changees, [])
+        self.assertNotIn("Images nouvelles ou remplacées", texte)
 
     def test_fiche_qui_cite_seulement_le_dossier_signalee(self):
         # Cas réel : les PDF de « Projet courts » portent le nom de tiers, la fiche ne

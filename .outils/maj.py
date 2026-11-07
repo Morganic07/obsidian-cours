@@ -287,6 +287,32 @@ def pages_citant(pages, fiche, document):
             if (lien.search(texte) or nfc(document) in texte) and not p.endswith(f"/{fiche.name}")]
 
 
+EMPREINTE_COURTE = 10
+
+
+def copies_dans_les_fiches(fiches):
+    """{empreinte: [noms]} des images copiées pour ces fiches dans images/ de leur matière
+    (« <fiche sans (résumé)> - … »). Les numéros d'image changent d'un export à l'autre :
+    seul le contenu relie une copie à l'image du document."""
+    copies = {}
+    for fiche in fiches:
+        prefixe = fiche.stem.removesuffix(" (résumé)") + " - "
+        dossier = fiche.parent / "images"
+        if not dossier.is_dir():
+            continue
+        for f in sorted(dossier.iterdir()):
+            if f.is_file() and f.name.startswith(prefixe):
+                copies.setdefault(empreinte(f), []).append(f.name)
+    return copies
+
+
+def par_empreinte(texte, images):
+    """Remplace chaque image ![[<chemin>]] par ![[image <début de son empreinte>]]."""
+    for reference, e in images.items():
+        texte = texte.replace(f"![[{reference}]]", f"![[image {e[:EMPREINTE_COURTE]}]]")
+    return texte
+
+
 def bloc(texte, langue=""):
     """Bloc de code dont la clôture ne peut pas apparaître dans le texte."""
     plus_longue = max((len(m) for m in re.findall(r"`+", texte)), default=0)
@@ -371,18 +397,34 @@ def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes):
             lignes.append("Comparaison impossible (ancienne version introuvable ou non convertie) : "
                           "relire le document entier.")
         else:
+            # Google renumérote les images à chaque export : comparées par leur nom, des
+            # images identiques passeraient pour changées. On les désigne par leur contenu.
             diff = list(difflib.unified_diff(
-                brut_a.replace(f"{base_a}/", "").splitlines(),
-                brut_n.replace(f"{base_n}/", "").splitlines(),
+                par_empreinte(brut_a, images_a).splitlines(),
+                par_empreinte(brut_n, images_n).splitlines(),
                 "ancienne version", "nouvelle version", n=2, lineterm=""))
-            lignes.append(bloc("\n".join(diff), "diff") if diff else
-                          "Texte identique après conversion.")
+            if diff:
+                lignes += ["Les images y sont désignées par l'empreinte de leur contenu "
+                           "(`![[image <empreinte>]]`), car leur numéro change à chaque export.", "",
+                           bloc("\n".join(diff), "diff")]
+            else:
+                lignes.append("Texte identique après conversion.")
             # Une capture remplacée garde souvent son nom : seul son contenu la trahit.
             connues = set(images_a.values())
-            changees = [i.rsplit("/", 1)[-1] for i, e in images_n.items() if e not in connues]
+            changees = [f"{i.rsplit('/', 1)[-1]} (image {e[:EMPREINTE_COURTE]})"
+                        for i, e in images_n.items() if e not in connues]
             if changees:
                 lignes += ["", "Images nouvelles ou remplacées (contenu absent de l'ancienne "
                            "version) : " + ", ".join(changees)]
+            presentes = set(images_n.values())
+            parties = sorted({e for e in images_a.values() if e not in presentes})
+            if parties:
+                copies = copies_dans_les_fiches(trouvees)
+                lignes += ["", "Images retirées ou remplacées (contenu absent de la nouvelle "
+                           "version), et leur copie dans la fiche : " + ", ".join(
+                               f"image {e[:EMPREINTE_COURTE]} → "
+                               + (", ".join(f"`{c}`" for c in copies.get(e, [])) or "aucune copie")
+                               for e in parties)]
             elif not diff:
                 lignes.append("Images identiques : seuls la mise en forme ou les métadonnées "
                               "ont pu changer.")

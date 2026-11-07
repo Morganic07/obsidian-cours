@@ -2,7 +2,7 @@
 type: source
 tags: [year4]
 sources: ["[[Raw/Year 4/data mining/Chp1 - intro to data mining.docx|Chp1 - intro to data mining]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 complet: true
 ---
 
@@ -10,7 +10,7 @@ Résumé de [[Raw/Year 4/data mining/Chp1 - intro to data mining.docx|Chp1 - int
 
 ## Idée générale
 
-Le [[Fouille de données|data mining]] ne se contente pas de collecter et d'ordonner des chiffres : il extrait des structures cachées, des corrélations non évidentes et des tendances exploitables de grandes masses de données, en combinant algorithmes, statistiques et [[Intelligence artificielle|intelligence artificielle]]. Le chapitre couvre la classification (k plus proches voisins, validation), le regroupement (k-means, hiérarchique), les arbres de décision (ID3, C4.5, CART) et les combinaisons de modèles (bagging, boosting, forêts aléatoires). Les diapositives sont en anglais, les exemples ajoutés (spam, validation croisée) et la partie « combinaison de modèles » en français.
+Le [[Fouille de données|data mining]] ne consiste pas seulement à collecter et ordonner des chiffres, mais aussi à extraire des structures cachées, des corrélations non évidentes et des tendances exploitables de grandes masses de données, en combinant algorithmes, statistiques et [[Intelligence artificielle|intelligence artificielle]]. Le chapitre couvre la classification (k plus proches voisins, validation), le regroupement (k-means, hiérarchique), les arbres de décision (ID3, C4.5, CART) et les combinaisons de modèles (bagging, boosting, forêts aléatoires). Les diapositives sont en anglais, les exemples ajoutés (spam, validation croisée) et la partie « combinaison de modèles » en français.
 
 ## 1. Introduction
 
