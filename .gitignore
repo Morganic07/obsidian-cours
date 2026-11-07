@@ -1,8 +1,6 @@
 # Miroir de Drive, régénéré par .outils/maj.sh
 Raw/
 .outils/exclusions.local
-# Anciennes notes converties, à supprimer
-Cours/
 
 # État local d'Obsidian
 .obsidian/workspace*

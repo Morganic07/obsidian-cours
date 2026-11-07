@@ -137,3 +137,7 @@ Nouvelle chaîne de mise à jour : `maj.sh` synchronise `Raw/` en gardant les an
 ## [2026-11-07] import | Mise à jour depuis Drive
 
 Premier essai de la nouvelle chaîne, sur un document modifié par l'utilisatrice : `Year 4/data mining/Chp1 - intro to data mining`. Seul changement : « mais d'extraire » devient « mais aussi d'extraire » dans la définition du data mining ; la fiche [[Chp1 - intro to data mining (résumé)]] reprend la nuance, et [[Fouille de données]] reste exacte. Google avait renuméroté les 55 images du document sans en changer le contenu : le lot désigne désormais les images par l'empreinte de leur contenu dans les changements, pour ne montrer que les vraies modifications.
+
+## [2026-11-07] schema | Suppression de Cours/
+
+Après vérification qu'aucun lien ni aucune image du wiki n'y menait, l'utilisatrice a retiré `Cours/` du coffre (173 Mo, 2 046 fichiers). Mesure sans lui : aucun lien cassé ni ambigu, les 857 images intégrées sont toutes dans `Matières/`. Une phrase périmée de [[Chp 4 - Discrete random variables (résumé)]], qui disait intégrer une image depuis `Cours/`, est corrigée.

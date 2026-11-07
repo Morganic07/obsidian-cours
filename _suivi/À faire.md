@@ -9,7 +9,7 @@ Liste de suivi du coffre. Se coche directement dans Obsidian.
 3. [x] Donner une page à chaque notion nommée dans les cours, pour la voir dans le graphe : repasser sur les 223 résumés (docx, PDF et PPTX), créer les concepts manquants et les relier entre eux
 4. [x] Transformer les résumés en fiches complètes, avec figures et captures (216 fiches, 2026-11-06)
 5. [x] Vérifier les 1 839 transcriptions d'images sur l'image, puis corriger les fiches qui ont recopié une erreur de lecture (reste l'image « Critical Evaluation » de Statistics Chp1, à vérifier à la main)
-6. [ ] Supprimer `Cours/` : liens migrés vers les fiches et `Raw/` (2026-11-07) ; reste une mise à jour d'essai sur un document, puis la suppression
+6. [x] Supprimer `Cours/` : liens migrés vers les fiches et `Raw/`, mise à jour d'essai réussie, dossier supprimé (2026-11-07)
 7. [ ] Contrôler le wiki (lint)
 8. [ ] Tester le wiki en conditions réelles, avec de vraies questions de révision
 9. [ ] Envoyer sur GitHub
