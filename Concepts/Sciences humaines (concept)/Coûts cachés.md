@@ -1,0 +1,16 @@
+---
+type: concept
+tags:
+  - year3
+aliases:
+  - coût caché
+sources:
+  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+maj: 2026-11-06
+---
+
+Selon [[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]], les achats du quotidien ont un coût caché, à la fois économique et social (déforestation, travail des enfants) : chaque achat a une conséquence à l'autre bout du globe. Le cours en tire la nécessité de reconfigurer le système économique.
+
+Voir aussi : [[Valeur socio-écologique]].
+
+Résumés : [[chp 3 - Culture du vivant (résumé)]]

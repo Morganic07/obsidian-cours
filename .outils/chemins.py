@@ -12,7 +12,7 @@ from pathlib import Path
 
 MIROIR = "Raw"  # copie brute de Drive, suit son arborescence ; visible dans Obsidian
 CONCEPTS = "Concepts"  # pages de concepts ; aliases et matieres servent à les repérer dans un document
-MATIERES = "Matières"  # cartes de matière et fiches (résumés)
+MATIERES = "Cours"  # cartes de matière et fiches (résumés), par domaine puis par matière
 SYNTHESES = "Synthèses"
 SUIVI = "_suivi"
 ACCUEIL = "Accueil.md"

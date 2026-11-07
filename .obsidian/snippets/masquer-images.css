@@ -1,0 +1,5 @@
+/* Masque les dossiers images/ de Cours/ dans l'explorateur de fichiers.
+   Les images restent dans le coffre et s'affichent dans les fiches. */
+.nav-folder:has(> .nav-folder-title[data-path^="Cours/"][data-path$="/images"]) {
+  display: none;
+}

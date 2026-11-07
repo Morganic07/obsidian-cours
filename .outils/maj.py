@@ -252,7 +252,7 @@ def fiches_citant_le_dossier(fiches, chemin):
 
 
 def dossiers_probables(fiches, coffre, chemin):
-    """Dossiers de Matières/ des fiches tirées du même dossier de Drive, ou d'un parent
+    """Dossiers de matière (sous chemins.MATIERES) des fiches tirées du même dossier de Drive, ou d'un parent
     jusqu'au dossier de la matière (Year N/<matière>)."""
     parties = Path(chemin).parent.parts
     for k in range(len(parties), 1, -1):
