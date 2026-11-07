@@ -14,17 +14,16 @@ MIROIR = "Raw"  # copie brute de Drive, suit son arborescence ; visible dans Obs
 CONCEPTS = "Concepts"  # pages de concepts ; aliases et matieres servent à les repérer dans un document
 MATIERES = "Cours"  # cartes de matière et fiches (résumés), par domaine puis par matière
 SYNTHESES = "Synthèses"
-SUIVI = "_suivi"
 ACCUEIL = "Accueil.md"
 TRANSCRIPTIONS = ".transcriptions"  # texte lu dans les images, une page par empreinte
 A_FAIRE = "A_FAIRE.tsv"  # images restant à transcrire, dans le dossier de travail
 EXCLUSIONS = "exclusions.local"  # filtres rclone, dans .outils
 
-NOMS = ("MIROIR", "CONCEPTS", "MATIERES", "SYNTHESES", "SUIVI", "ACCUEIL",
+NOMS = ("MIROIR", "CONCEPTS", "MATIERES", "SYNTHESES", "ACCUEIL",
         "TRANSCRIPTIONS", "A_FAIRE", "EXCLUSIONS")
 
 # Pages du wiki, celles dont on cherche les liens.
-WIKI = (CONCEPTS, MATIERES, SYNTHESES, SUIVI, ACCUEIL)
+WIKI = (CONCEPTS, MATIERES, SYNTHESES, ACCUEIL)
 
 
 def travail():

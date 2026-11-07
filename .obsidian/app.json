@@ -1,6 +1,11 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "userIgnoreFilters": null,
-  "promptDelete": false
+  "userIgnoreFilters": [
+    "Accueil.md",
+    "log.md",
+    "CLAUDE.md"
+  ],
+  "promptDelete": false,
+  "deleteUnlinkedAttachments": "always"
 }

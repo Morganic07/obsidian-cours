@@ -1,0 +1,15 @@
+---
+type: concept
+tags: [year1]
+aliases: []
+sources: ["[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]", "[[Raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf|Exo-Chapitre 2.pdf]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"]
+maj: 2026-11-07
+---
+
+$A \Delta B = (A \cup B) \setminus (A \cap B) = (A \setminus B) \cup (B \setminus A)$.
+
+Le TD Ensembles montre qu'elle est commutative et associative, que $\cap$ est distributive sur $\Delta$, et que $A \Delta \emptyset = A$, $A \Delta A = \emptyset$, $A \Delta B = B \setminus A$ si $A \subset B$. Avec les indicatrices : $1_{A \Delta B} = 1_A + 1_B - 2 \cdot 1_A 1_B$.
+
+Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Différence d'ensembles]], [[Fonction indicatrice]].
+
+Résumés (rapprochement, complément hors du cours) : [[2 - ensembles]], [[2 - pdf]]

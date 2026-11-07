@@ -1,0 +1,30 @@
+---
+type: concept
+tags:
+  - year3
+aliases:
+  - recyclage
+  - upcycling
+  - upcyclé
+  - objet reconditionné
+  - remise à neuf
+  - réemploi
+  - reconditionnement
+matieres:
+  - workshop
+  - Culture du vivant
+sources:
+  - "[[Reyou|Reyou]]"
+  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+maj: 2026-11-07
+---
+
+Trois façons de prolonger la vie des objets, que le dossier ReYOU distingue :
+
+- **Réemploi** : réutilisation directe d'un objet.
+- **Recyclage** : transformer radicalement un produit pour en extraire les matériaux ; énergivore, et parfois avec perte de qualité.
+- **Reconditionnement** : réparer, restaurer et redonner vie à un produit ; plus économique, écologique et respectueux de sa valeur. Selon le site du gouvernement, un objet reconditionné est un bien d'occasion testé et réparé si nécessaire avant revente, définition encadrée par la loi.
+
+Notion parente : [[Économie circulaire]]. Voir aussi : [[Éco-organisme]].
+
+Résumés : [[Reyou]], [[3 - Culture du vivant]]

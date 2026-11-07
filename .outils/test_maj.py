@@ -61,12 +61,12 @@ class Base(unittest.TestCase):
         self.drive = self.racine / "drive"
         self.fabrique = self.racine / "fabrique"
         self.ecrire(f"{chemins.CONCEPTS}/Matrice.md",
-                    "---\naliases: [matrices]\n---\nVoir [[Chp 1 (résumé)]].\n")
-        self.ecrire(f"{chemins.MATIERES}/Algebre/Chp 1 (résumé).md",
+                    "---\naliases: [matrices]\n---\nVoir [[Chp 1]].\n")
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Chp 1.md",
                     f'---\ntype: source\nsources: ["[[{M}/Year 2/Algebre/Chp 1.docx|Chp 1.docx]]"]\n---\nFiche.\n')
-        self.ecrire(f"{chemins.MATIERES}/Vieux/old (résumé).md",
+        self.ecrire(f"{chemins.MATIERES}/Vieux/old.md",
                     f'---\nsources:\n  - "[[{M}/Year 1/Vieux/old.docx|old.docx]]"\n---\nFiche.\n')
-        self.ecrire(f"{chemins.MATIERES}/Vieux/Vieux (matière).md", "- [[old (résumé)|old]]\n")
+        self.ecrire(f"{chemins.MATIERES}/Vieux/_index.md", "- [[old|old]]\n")
         self.docx("Year 2/Algebre/Chp 1.docx", "Une matrice simple.\n\n![](pixel.png)\n")
         self.docx("Year 2/Algebre/Chp 2.docx", "Deuxième chapitre.\n")
         self.docx("Year 1/Vieux/old.docx", "Ancien cours.\n")
@@ -121,7 +121,7 @@ class TestLot(Base):
         self.assertIn("- État : modifié", texte)
         self.assertIn("-Une matrice simple.", texte)
         self.assertIn("+Une matrice modifiée.", texte)
-        self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Chp 1 (résumé).md`", texte)
+        self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Chp 1.md`", texte)
         self.assertIn("Année : year2", texte)
         self.assertIn("Concepts existants repérés : Matrice", texte)
         self.assertIn("> texte de l'image", texte)
@@ -130,8 +130,8 @@ class TestLot(Base):
     def test_supprime_signale_sans_rien_supprimer(self):
         texte = self.lot("01 - old")
         self.assertIn("- État : supprimé", texte)
-        self.assertIn(f"`{chemins.MATIERES}/Vieux/old (résumé).md`", texte)
-        self.assertIn(f"`{chemins.MATIERES}/Vieux/Vieux (matière).md`", texte)
+        self.assertIn(f"`{chemins.MATIERES}/Vieux/old.md`", texte)
+        self.assertIn(f"`{chemins.MATIERES}/Vieux/_index.md`", texte)
         self.assertIn("## Texte de la version supprimée", texte)
         self.assertIn("Ancien cours.", texte)
         self.assertEqual(self.etat_du_wiki(), self.wiki_avant)
@@ -263,14 +263,24 @@ class TestCas(Base):
         self.assertIn(f"image {ancienne} → `Chp 1 - image7.png`", self.lot("01 - Chp 1"))
 
     def test_supprime_sans_fiche_signale_les_pages_qui_le_citent(self):
-        self.ecrire(f"{chemins.MATIERES}/Algebre/Algebre (matière).md",
+        self.ecrire(f"{chemins.MATIERES}/Algebre/_index.md",
                     f"Voir `{M}/Year 2/Algebre/Chp 2.docx`.\n")
         (self.drive / "Year 2/Algebre/Chp 2.docx").unlink()
         self.assertEqual(self.lancer(), 0, self.erreurs)
         texte = self.lot("01 - Chp 2")
         self.assertIn("Fiche existante : aucune", texte)
-        self.assertIn(f"Pages qui citent l'ancien chemin : `{chemins.MATIERES}/Algebre/Algebre (matière).md`",
+        self.assertIn(f"Pages qui citent l'ancien chemin : `{chemins.MATIERES}/Algebre/_index.md`",
                       texte)
+
+    def test_carte_qui_cite_le_document_n_est_pas_une_fiche(self):
+        # Les fiches n'ont plus de suffixe : seules les cartes sont écartées, par leur nom
+        # « _index » ou leur type matiere.
+        source = f'sources: ["[[{M}/Year 2/Algebre/Chp 2.docx|Chp 2.docx]]"]'
+        self.ecrire(f"{chemins.MATIERES}/Algebre/_index.md", f"---\n{source}\n---\n")
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Carte.md", f"---\ntype: matiere\n{source}\n---\n")
+        self.docx("Year 2/Algebre/Chp 2.docx", "Deuxième chapitre modifié.\n")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        self.assertIn("Fiche existante : aucune", self.lot("01 - Chp 2"))
 
     def test_nom_decompose_sur_drive_retrouve_sa_fiche(self):
         # Cas réel : « Contrôles.pdf » arrive de Drive en Unicode décomposé (NFD).
@@ -278,11 +288,11 @@ class TestCas(Base):
         self.docx(f"Year 2/Algebre/{nfd}", "Version 1.\n")
         faux_rclone(self.drive)(["rclone", "sync", maj.DRIVE, str(self.coffre / M),
                                  "--backup-dir", str(self.racine / "jeter")], None)
-        self.ecrire(f"{chemins.MATIERES}/Algebre/Contrôles (résumé).md",
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Contrôles.md",
                     f'---\nsources: ["[[{M}/Year 2/Algebre/Contrôles.docx|Contrôles.docx]]"]\n---\n')
         self.docx(f"Year 2/Algebre/{nfd}", "Version 2.\n")
         self.assertEqual(self.lancer(), 0, self.erreurs)
-        self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Contrôles (résumé).md`",
+        self.assertIn(f"Fiche existante : `{chemins.MATIERES}/Algebre/Contrôles.md`",
                       unicodedata.normalize("NFC", self.lot("01 - Contro")))
 
     def test_images_renumerotees_par_google_ne_sont_pas_des_changements(self):
@@ -314,15 +324,15 @@ class TestCas(Base):
     def test_fiche_qui_cite_seulement_le_dossier_signalee(self):
         # Cas réel : les PDF de « Projet courts » portent le nom de tiers, la fiche ne
         # cite que leur dossier.
-        self.ecrire(f"{chemins.MATIERES}/Algebre/Brief (résumé).md",
+        self.ecrire(f"{chemins.MATIERES}/Algebre/Brief.md",
                     f'---\nsources: ["PDF du brief, dans {M}/Year 2/Algebre"]\n---\n')
         self.docx("Year 2/Algebre/Brief - Prénom Nom.docx", "Brief.\n")
         self.assertEqual(self.lancer(), 0, self.erreurs)
         texte = self.lot("01 - Brief")
         self.assertIn("Fiche existante : aucune", texte)
         self.assertIn(f"citent son dossier sans le lier (peut-être la sienne) : "
-                      f"`{chemins.MATIERES}/Algebre/Brief (résumé).md`", texte)
-        self.assertNotIn("Chp 1 (résumé)", texte.split("Fiches qui citent")[1].split("\n")[0])
+                      f"`{chemins.MATIERES}/Algebre/Brief.md`", texte)
+        self.assertNotIn("Algebre/Chp 1.md", texte.split("Fiches qui citent")[1].split("\n")[0])
 
     def test_tableau_reste_en_html_signale(self):
         # Cas réel (« Cours 1 et 2 : Database ») : plusieurs lignes d'en-tête, que pandoc

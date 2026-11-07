@@ -1,0 +1,21 @@
+---
+type: concept
+tags:
+  - year3
+aliases:
+  - table d'association
+  - table de jonction
+  - junction table
+  - table de liaison
+sources:
+  - "[[1 - Database|Cours 1 et 2 - Database]]"
+maj: 2026-11-07
+---
+
+Table créée pour traduire une association N-N, par exemple `est_inscrit(#code, #numéro)`, dont le couple d'attributs forme la clé primaire. Si l'association porte des attributs (redoublement, bourse), ils entrent dans la table : `est_inscrit(#code, #numéro, année universitaire, boursier)`, avec trois attributs en clé primaire ([[1 - Database|Cours 1 et 2 - Database]]).
+
+Le rapport du projet étudiant Ligue Football a aussi une association N-N, les statistiques par joueur et par match ([[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Rapport du projet Ligue Football]]).
+
+Notion parente : [[Type d'association]]. Voir aussi : [[Clé primaire et clé étrangère]].
+
+Résumés : [[1 - Database]]

@@ -1,0 +1,15 @@
+---
+type: concept
+tags: [year1]
+aliases: [disjonction des cas, preuve par disjonction des cas, disjonction de cas]
+sources: ["[[1 - logique|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
+maj: 2026-11-06
+---
+
+$[(p_1 \vee \ldots \vee p_n) \Rightarrow q] \equiv [(p_1 \Rightarrow q) \wedge \ldots \wedge (p_n \Rightarrow q)]$ : on traite chaque cas séparément.
+
+Le TD Ensembles l'emploie (exercice 2.3), et le DS1 dans une hérédité à deux cas.
+
+Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Récurrence]].
+
+Résumés : [[1 - logique]]

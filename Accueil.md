@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-07 : 1 246 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`, sauf un PDF de Projet courts dont le nom porte celui de tiers (la fiche cite son dossier). [[Bel-air (résumé)]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
+État au 2026-11-07 : 1 274 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
 
-## Concepts (1246)
+## Concepts (1274)
 
 ### Systèmes et vecteurs
 
@@ -642,7 +642,6 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Prototype]] : première version d'un projet, ou version d'un produit avant sa production
 - [[Raccourci (perspective)]] : foreshortening, technique de perspective qui place les choses dans l'espace
 - [[Retouche et étalonnage]] : ajustement des niveaux, correction des couleurs et remplacement d'image
-- [[Roman graphique]] : graphic novel, roman dessiné en bandes dessinées
 - [[Scénario (cinéma)]] : screenplay, œuvre écrite décrivant histoire, décors, paroles et actions des personnages
 - [[Service blueprint]] : cartographie des utilisateurs et des tâches qui leur sont liées, avec le back office
 - [[Structure narrative]] : ordre et manière de raconter les événements, avec plot et setting
@@ -1189,20 +1188,50 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 **Year 3 - Projet courts**
 
-- [[Bienveillance organisationnelle]] : nommé dans le cours, sans définition
+- [[Aménagement de poste]] : adapter le poste à l'état de santé du salarié, sur proposition du médecin du travail
+- [[Anact]] : agence publique des conditions de travail, citée pour les RPS, la QVT et la prévention des suicides
+- [[Art-thérapie]] : la création artistique comme médiation de soin, approche « en frontière » selon la fiche
+- [[Bienveillance organisationnelle]] : management attentif aux personnes, dans la famille organisation du champ lexical
 - [[Bullshit jobs]] : nommé dans le cours, sans définition
-- [[Burn-out]] : terme central de la fiche ressources « santé au travail », ou épuisement professionnel
+- [[Burn-out]] : épuisement professionnel ; ressources, programmes et ouvrages de la fiche ressources
+- [[Catégories d'entreprises]] : TPE, PME, ETI, grandes entreprises, première question de recherche du brief
+- [[Cellule d'écoute]] : dispositif d'écoute des salariés, interne ou externalisé, débat du module suggéré
+- [[Comité social et économique]] : CSE, instance du personnel qui a absorbé le CHSCT
 - [[Conception centrée utilisateur]] : nommé dans le cours, sans définition
+- [[Conflit de valeurs]] : agir contre ses valeurs au travail, un des facteurs de risque cités
 - [[Design des politiques publiques]] : nommé dans le cours, sans définition
+- [[Facteurs de risques psychosociaux]] : intensité, exigences émotionnelles, autonomie, conflits de valeurs…
 - [[Fordisme]] : nommé dans le cours, sans définition
+- [[Gouvernance partagée]] : participation et co-construction des décisions, parole des salariés
+- [[Grande cause nationale santé mentale]] : Grande cause 2025, « Parlons santé mentale ! », SISM
 - [[Harcèlement moral]] : nommé dans le cours, sans définition
+- [[INRS]] : institut de prévention des risques professionnels, notices sur le stress et le burn-out
+- [[Innovation sociale]] : réponse nouvelle à un besoin social, famille innovation du champ lexical
 - [[Jury citoyen]] : démarche de démocratie participative au Taillan-Médoc, citée en exemple par le brief
+- [[Keynésianisme]] : Keynes, nommé par le brief avec le fordisme et les bullshit jobs
+- [[Méditation]] : méthode alternative citée, composante du protocole Bathysmed
+- [[Obligation de sécurité de l'employeur]] : articles L. 4121-1 et L. 4121-2 du code du travail
 - [[Postvention]] : nommé dans le cours, sans définition
 - [[Preuve de concept]] : nommé dans le cours, sans définition
-- [[Prévention primaire, secondaire et tertiaire]] : nommé dans le cours, sans définition
-- [[Qualité de vie au travail]] : nommé dans le cours, sans définition
-- [[Risques psychosociaux]] : nommé dans le cours, sans définition
-- [[Santé au travail]] : nommé dans le cours, sans définition
+- [[Prévention du suicide]] : article de l'Anact, SOS Amitié, UNPS, tabous
+- [[Prévention primaire, secondaire et tertiaire]] : les trois niveaux, d'après le guide de Souffrance & Travail
+- [[Projet pilote]] : Fedris, IRSST, entreprises pilotes, mini-projets à tester
+- [[Psychologue du travail]] : acteur du diagnostic et de l'accompagnement, avec ergonomes et psychosociologues
+- [[Qualité de vie au travail]] : QVT, guide ministériel de démarche participative
+- [[Retour au travail et maintien en emploi]] : programmes pilotes belge (Fedris) et québécois (IRSST)
+- [[Risques psychosociaux]] : RPS, acteurs, droit et ouvrages cités par la fiche
+- [[Santé au travail]] : sujet du projet, avec la carte des sept thèmes de la fiche ressources
+- [[Santé mentale]] : santé mentale au travail, ressources de Psycom et du gouvernement
+- [[Secteurs d'activité]] : primaire, secondaire, tertiaire, selon la question « tertiaire, industriel, agricole »
+- [[Sens au travail]] : utilité, cohérence éthique, développement ; cité dans le champ lexical
+- [[Service de prévention et de santé au travail]] : médecine du travail, repérage et aménagements
+- [[Soins énergétiques]] : magnétisme, approche non conventionnelle que la fiche dit « à manier avec transparence »
+- [[Sophrologie]] : méthode psychocorporelle, citée parmi les méthodes alternatives
+- [[Souffrance psychique]] : détresse psychologique, mal-être, premier thème de la fiche ressources
+- [[Stress au travail]] : stress aigu et chronique, famille risques du champ lexical
+- [[Syndicat]] : acteur de la prévention des RPS et des accords QVT
+- [[Tabous au travail]] : mort, suicide, alcoolisme, omerta, thème 6 de la fiche
+- [[Temps partiel thérapeutique]] : reprise à temps réduit sur prescription médicale
 
 **Year 3 - SHS**
 
@@ -1439,7 +1468,6 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Entreprise sans usine]] : « fabless », innovation d'organisation où la production est sous-traitée
 - [[Innovation de rupture]] : nommé dans le cours, sans définition
 - [[Partie prenante]] : acteurs avec qui travaille la méthode, utilisateurs, distributeurs, société, fournisseurs
-- [[Tuile vectorielle]] : innovation de procédé, charger seulement les petites tuiles vectorielles de la zone affichée
 
 **Year 4 - projet court**
 
@@ -1462,151 +1490,145 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 ### Documents PDF et PPTX (31)
 
-- **Year 1, Algo Maths** : [[0 - diapo prof (résumé)]]
-- **Year 1, Analyse Maths** : [[0 - rappels pdf (résumé)]], [[0 - Rappels-etc (résumé)]], [[1 - Ensemble des Reels (résumé)]]
-- **Year 1, Outil Maths** : [[2 - pdf (résumé)]], [[3 - pdf (résumé)]], [[4 - pdf (résumé)]]
-- **Year 2, Algo** : [[6 - AVL (résumé)]], [[3 - Arbres (résumé)]], [[4 - Arbres binaires (résumé)]], [[5 - ABR (résumé)]]
-- **Year 2, Analyse** : [[2 - intégrales multiples (résumé)]]
-- **Year 2, Operating System** : [[4 - OS (résumé)]]
-- **Year 2, Projet Design** : [[EDOSSAH (résumé)]]
-- **Year 2, SHS** : [[1 - Ethnographie visuelle (résumé)]]
-- **Year 3, Affordance** : [[1 - UX (résumé)]], [[2 - UX (résumé)]]
-- **Year 3, Computer Network** : [[2 - IP Addressing (résumé)]]
-- **Year 3, Culture du vivant** : [[4 - Culture du vivant (résumé)]]
-- **Year 3, Projet courts** : [[Santé au travail (résumé)]]
-- **Year 3, SHS** : [[2 - imaginaires du futur (résumé)]], [[4 - imaginaires automobile (résumé)]], [[5 - imaginaires de l'automobile (résumé)]], [[6 - usages sociaux de l'automobile (résumé)]]
-- **Year 3, Sémiotique** : [[1 - sémiotique (résumé)]], [[2 - sémiotique (résumé)]], [[3 - sémiotique (résumé)]], [[4 - sémiotique (résumé)]]
-- **Year 4, culture du soin** : [[1 - culture du soin (résumé)]]
-- **Year 4, data mining** : [[1 - pdf du prof (résumé)]]
-- **Year 4, management de l'innovation** : [[1 - innovation (résumé)]]
+- **Year 1, Algo Maths** : [[0 - diapo prof]]
+- **Year 1, Analyse Maths** : [[0 - rappels pdf]], [[0 - Rappels-etc]], [[1 - Ensemble des Reels]]
+- **Year 1, Outil Maths** : [[2 - pdf]], [[3 - pdf]], [[4 - pdf]]
+- **Year 2, Algo** : [[6 - AVL]], [[3 - Arbres]], [[4 - Arbres binaires]], [[5 - ABR]]
+- **Year 2, Analyse** : [[2 - intégrales multiples]]
+- **Year 2, Operating System** : [[4 - OS]]
+- **Year 2, Projet Design** : [[EDOSSAH]]
+- **Year 2, SHS** : [[1 - Ethnographie visuelle]]
+- **Year 3, Affordance** : [[1 - UX]], [[2 - UX]]
+- **Year 3, Computer Network** : [[2 - IP Addressing]]
+- **Year 3, Culture du vivant** : [[4 - Culture du vivant]]
+- **Year 3, Projet courts** : [[Santé au travail (Projet year 3)]]
+- **Year 3, SHS** : [[2 - imaginaires du futur]], [[4 - imaginaires automobile]], [[5 - imaginaires de l'automobile]], [[6 - usages sociaux de l'automobile]]
+- **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
+- **Year 4, culture du soin** : [[1 - culture du soin]]
+- **Year 4, data mining** : [[1 - pdf du prof]]
+- **Year 4, management de l'innovation** : [[1 - innovation]]
 
-Classés par matière. Le nombre entre parenthèses est celui des points à vérifier, pour les premières matières intégrées. Pour les autres, chaque résumé les liste, et la page de matière donne les priorités.
+Classés par matière. Les erreurs confirmées d'un cours sont notées en fin de résumé ou de concept, sous « Erreurs du cours ».
 
 ### Autres matières de Year 1
 
-- **Algo Maths** : [[0 - Algo Maths (résumé)|Cours 1]]
-- **Communication orale** : [[1 - discours (résumé)]]
-- **Corps à l'oeuvre** : [[1 - corps à l'oeuvre (résumé)]]
-- **Dessein au cube** : [[3 - Compte rendu (résumé)]], [[1 - inégalités alimentaires (résumé)]], [[2 - pistes entrevues (résumé)]]
-- **HDA** : [[1 - HDA (résumé)]]
-- **Outil Maths** : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[3 - Relation binaire (résumé)]], [[5 - Complexes (résumé)]]
-- **Peinture** : [[1 - Peinture (résumé)|Cours 1]], [[2 - Peinture (résumé)]], [[3 - Peinture (résumé)]]
-- **Philosophie** : [[1 - philo (résumé)]], [[2 - philo (résumé)]]
-- **Projet design** : [[Villeneuve (résumé)]], [[Bel-air (résumé)]], [[ELBA (résumé)]], [[Melvita (résumé)]]
+- **Algo Maths** : [[0 - Algo Maths|Cours 1]]
+- **Communication orale** : [[1 - discours]]
+- **Corps à l'oeuvre** : [[1 - corps à l'oeuvre]]
+- **HDA** : [[1 - HDA]]
+- **Outil Maths** : [[1 - logique]], [[2 - ensembles]], [[3 - Relation binaire]], [[5 - Complexes]]
+- **Peinture** : [[1 - Peinture|Cours 1]], [[2 - Peinture]], [[3 - Peinture]]
+- **Philosophie** : [[1 - philo]], [[2 - philo]]
+- **Projet design** : [[Villeneuve]], [[Bel-air]], [[ELBA]], [[Melvita]]
 
 ### Autres matières de Year 2
 
-- **Algo** : [[1 - récursivité et complexité (résumé)]], [[2 - piles listes file (résumé)]]
-- **Corps à l'oeuvre** : [[2 - corps à l'oeuvre (résumé)]]
-- **Operating System** : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[3 - TP3 (résumé)]], [[4 - TP4 (résumé)]], [[5 - TP5 (résumé)]], [[1 - OS (résumé)]], [[2 - OS (résumé)]], [[3 - OS (résumé)]], [[5 - OS (résumé)]], [[7 - OS (résumé)]]
-- **Philosophie** : [[3 - philo (résumé)]], [[4 - philo (résumé)]], [[5 - philo (résumé)]], [[6 - philo (résumé)]], [[7 - philo (résumé)]]
-- **Probability** : [[1 - Sample space,events, proba (résumé)]], [[2 - Conditional proba and independence (résumé)]], [[3 - Combinatorics (résumé)]], [[3 - Important discrete distributions (résumé)]], [[4 - Discrete random variables (résumé)]], [[5 - Continuous random variable (résumé)]], [[6 - Joint probability distributions (résumé)]]
-- **Projet Design** : [[EDOSSAH (résumé)]], [[Helloartup (résumé)]]
-- **écriture narrative** : [[1 - écriture narrative (résumé)]]
+- **Algo** : [[1 - récursivité et complexité]], [[2 - piles listes file]]
+- **Corps à l'oeuvre** : [[2 - corps à l'oeuvre]]
+- **Operating System** : [[8 - OS commandes sh]], [[2 - TP2]], [[3 - TP3]], [[4 - TP4]], [[5 - TP5]], [[1 - OS]], [[2 - OS]], [[3 - OS]], [[5 - OS]], [[7 - OS]]
+- **Philosophie** : [[3 - philo]], [[4 - philo]], [[5 - philo]], [[6 - philo]], [[7 - philo]]
+- **Probability** : [[1 - Sample space,events, proba]], [[2 - Conditional proba and independence]], [[3 - Combinatorics]], [[3 - Important discrete distributions]], [[4 - Discrete random variables]], [[5 - Continuous random variable]], [[6 - Joint probability distributions]]
+- **Projet Design** : [[EDOSSAH]], [[Helloartup]]
 
 ### Year 3
 
-- **Hors matière** : [[1 - Savoir rechercher sur Google (résumé)]]
-- **Computer Network** : [[2 - Static Routing (résumé)]], [[3 - Dynamic Routing (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]], [[5 - NAT ／ PAT (résumé)]], [[7 - Cisco (résumé)]], [[1 - Computer Networks (résumé)]], [[6 - Access Control List (résumé)]]
-- **Culture du vivant** : [[2 - Culture du vivant (résumé)]], [[3 - Culture du vivant (résumé)]]
-- **Data analysis** : [[1 - Data analysis (résumé)|Cours 1]], [[2 - Introduction statistics (résumé)]], [[3 - Paradoxe de Simpson (résumé)]], [[4 - Estimation (résumé)]], [[5 - Hypothesis Testing (résumé)]], [[6 - T-Test (résumé)]], [[7 - Z-Test (résumé)]], [[8 - Chi²-Test (résumé)]], [[9 - Covariance and Correlation (résumé)]], [[10 - linear regression (résumé)]], [[11 - Multiple Linear Regression and F-statistic (résumé)]], [[12 - ANOVA and F-statistic (résumé)]], [[13 - Principal Components Analysis (résumé)]], [[13 - PCA in R (résumé)]], [[14 - functions in RStudio (résumé)]]
-- **Data base** : [[1 - Database (résumé)]], [[2 - opérateurs et SQL (résumé)]]
-- **IA** : [[1 - IA (résumé)|Cours 1]]
-- **Java** : [[1 - Intro Java (résumé)]]
-- **Statistics** : [[1 - Intro to statistics (résumé)]], [[2 - Descriptive statistics (résumé)]], [[3 - More on probability (résumé)]], [[4 - Inferential statistics 1 (résumé)]], [[4 - Inferential statistics 2 (résumé)]], [[4 - Inferential statistics 3(résumé)]], [[0 - proba&stats utilitaire (résumé)]]
-- **Séries** : [[0 - Revision chapter (résumé)]], [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]], [[3 - Sequence of function (résumé)]], [[4 - Series of functions (résumé)]], [[5 - power series (résumé)]], [[6 - Fourier Series (résumé)]]
-- **workshop** : [[Reyou (résumé)]]
+- **Hors matière** : [[1 - Savoir rechercher sur Google]]
+- **Computer Network** : [[2 - Static Routing]], [[3 - Dynamic Routing]], [[4 - VLAN ／ IVR Commands]], [[5 - NAT ／ PAT]], [[7 - Cisco]], [[1 - Computer Networks]], [[6 - Access Control List]]
+- **Culture du vivant** : [[2 - Culture du vivant]], [[3 - Culture du vivant]]
+- **Data analysis** : [[1 - Data analysis|Cours 1]], [[2 - Introduction statistics]], [[3 - Paradoxe de Simpson]], [[4 - Estimation]], [[5 - Hypothesis Testing]], [[6 - T-Test]], [[7 - Z-Test]], [[8 - Chi²-Test]], [[9 - Covariance and Correlation]], [[10 - linear regression]], [[11 - Multiple Linear Regression and F-statistic]], [[12 - ANOVA and F-statistic]], [[13 - Principal Components Analysis]], [[13 - PCA in R]], [[14 - functions in RStudio]]
+- **Data base** : [[1 - Database]], [[2 - opérateurs et SQL]]
+- **IA** : [[1 - IA|Cours 1]]
+- **Java** : [[1 - Intro Java]]
+- **Statistics** : [[1 - Intro to statistics]], [[2 - Descriptive statistics]], [[3 - More on probability]], [[4 - Inferential statistics 1]], [[4 - Inferential statistics 2]], [[4 - Inferential statistics 3]], [[0 - proba&stats utilitaire]]
+- **Séries** : [[0 - Revision chapter]], [[1 - Convergent, divergent and positive terms SERIES]], [[2 - Alternating and absolutly convergent series]], [[3 - Sequence of function]], [[4 - Series of functions]], [[5 - power series]], [[6 - Fourier Series]]
+- **workshop** : [[Reyou]]
 
 ### Year 4
 
-- **Gestion financière** : [[1 - gestion financière (résumé)]]
-- **C++** : [[1 - basiques (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[2 - structures code (résumé)]]
-- **Culture du vivant** : [[1 - Culture du vivant (résumé)]]
-- **SHS** : [[3 - Prise de note (résumé)]]
-- **data mining** : [[1 - intro to data mining (résumé)]]
-- **graph theory** : [[1 - Undirected graph (résumé)]], [[2 - tree (résumé)]], [[0 - Graph - Python (résumé)]], [[3 - complexité (résumé)]], [[4 - oriented graphs (résumé)]]
-- **projet court** : [[Fondaction Football (résumé)]]
+- **Gestion financière** : [[1 - gestion financière]]
+- **C++** : [[1 - basiques]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[2 - structures code]]
+- **Culture du vivant** : [[1 - Culture du vivant]]
+- **SHS** : [[3 - Prise de note]]
+- **data mining** : [[1 - intro to data mining]]
+- **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]]
+- **projet court** : [[Fondaction Football]]
 
 ### Year 1 - Analyse Maths
 
-- [[4 - dérivabilité (résumé)]] : dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis (4)
-- [[5 - Analyse Maths (résumé)|chp5 (résumé, Analyse)]] : équivalents et développements limités (4)
+- [[4 - dérivabilité]] : dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis
+- [[5 - Analyse Maths|chp5 (Analyse)]] : équivalents et développements limités
 
 ### Year 2 - Analyse
 
-- [[1 - Integration (résumé)]] : le cours d'intégration (2)
-- [[1 - démonstrations (résumé)]] : les preuves du cours (5)
-- [[0 - Intégration UTILITAIRE (résumé)]] : fiche pratique (0)
+- [[1 - Integration]] : le cours d'intégration
+- [[1 - démonstrations]] : les preuves du cours
+- [[0 - Intégration UTILITAIRE]] : fiche pratique
 
 ### Year 1 - Algèbre Linéaire
 
-- [[1 - Algèbre linéaire (résumé)]] : espaces vectoriels, familles, bases (2)
-- [[2 - Algèbre linéaire (résumé)]] : applications linéaires, morphismes, rang (4)
-- [[3 - Algèbre linéaire (résumé)]] : pivot de Gauss, systèmes (3)
-- [[4 - Algèbre linéaire (résumé)]] : matrices, matrice d'une application (2)
-- [[5 - Algèbre linéaire (résumé)]] : changement de base, déterminant (2)
-- [[6 - Algèbre linéaire (résumé)]] : déterminant, caractérisation des bases (3)
-- [[7 - Algèbre linéaire (résumé)]] : éléments propres, somme directe (2)
+- [[1 - Algèbre linéaire]] : espaces vectoriels, familles, bases
+- [[2 - Algèbre linéaire]] : applications linéaires, morphismes, rang
+- [[3 - Algèbre linéaire]] : pivot de Gauss, systèmes
+- [[4 - Algèbre linéaire]] : matrices, matrice d'une application
+- [[5 - Algèbre linéaire]] : changement de base, déterminant
+- [[6 - Algèbre linéaire]] : déterminant, caractérisation des bases
+- [[7 - Algèbre linéaire]] : éléments propres, somme directe
 
 ### Year 2 - Analyse dans Rn
 
-- [[2 - éléments de topologie dans Rn (résumé)]] : normes, boules, ouverts, intérieur et adhérence (5)
-- [[3 - Limite et continuité d’applications (résumé)]] : limites, continuité, applications lipschitziennes (5)
-- [[4 - Calcul différentiel du premier ordre (résumé)]] : différentielle, gradient, EDP d'ordre 1, difféomorphismes (6)
-- [[5 - Calcul différentiel d'ordre supérieur (résumé)]] : classe $\mathcal{C}^k$, Schwarz, systèmes et EDP d'ordre 2 (3)
+- [[2 - éléments de topologie dans Rn]] : normes, boules, ouverts, intérieur et adhérence
+- [[3 - Limite et continuité d’applications]] : limites, continuité, applications lipschitziennes
+- [[4 - Calcul différentiel du premier ordre]] : différentielle, gradient, EDP d'ordre 1, difféomorphismes
+- [[5 - Calcul différentiel d'ordre supérieur]] : classe $\mathcal{C}^k$, Schwarz, systèmes et EDP d'ordre 2
 
 ### Year 2 - Bilinear Algebra
 
-- [[0 - Linear combination (résumé)]] : systèmes, Span, indépendance, transformations (4)
-- [[0 - Matrix algebra (résumé)]] : produit, transposée, inverse (1)
-- [[0 - Determinants (résumé)]] : déterminant, Cramer, formule de l'inverse (1)
-- [[0 - Vector Space (résumé)]] : sous-espaces, base, dimension, rang (1)
-- [[0 - Eigenvalues and eigenvectors (résumé)]] : valeurs propres, diagonalisation (3)
-- [[1 - Orthogonality (résumé)]] : projection orthogonale, Gram-Schmidt, QR et moindres carrés (5)
-- [[2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
-- [[3 -Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
+- [[0 - Linear combination]] : systèmes, Span, indépendance, transformations
+- [[0 - Matrix algebra]] : produit, transposée, inverse
+- [[0 - Determinants]] : déterminant, Cramer, formule de l'inverse
+- [[0 - Vector Space]] : sous-espaces, base, dimension, rang
+- [[0 - Eigenvalues and eigenvectors]] : valeurs propres, diagonalisation
+- [[1 - Orthogonality]] : projection orthogonale, Gram-Schmidt, QR et moindres carrés
+- [[2 - Symmetric matrices and quadratic forms]] : théorème spectral, formes quadratiques, SVD
+- [[3 -Invertible matrix theorem]] : les 20 énoncés équivalents
 
 ## Matières (38)
 
-Chaque matière a son dossier `Cours/<Domaine> (cours)/<Matière> (cours)/`, qui contient sa carte `<Matière> (index)` et ses résumés. Les domaines sont ceux de `Concepts/`, dont les dossiers s'appellent `<Domaine> (concept)`. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
+Chaque matière a son dossier `Cours/<Domaine>/<Matière>/`, qui contient sa carte `_index` et ses résumés. Les domaines sont ceux de `Concepts/`, dont les dossiers portent le nom du domaine. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
 
 Par domaine :
 
-- **Mathématiques** (7) : [[Algèbre linéaire (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Analyse Maths (index)]], [[Bilinear Algebra (index)]], [[Outil Maths (index)]], [[Séries (index)]]
-- **Probabilités et statistiques** (3) : [[Data analysis (index)]], [[Probability (index)]], [[Statistics (index)]]
-- **Informatique** (9) : [[Algo (index)]], [[C++ (index)]], [[Computer Network (index)]], [[Data base (index)]], [[Data mining (index)]], [[Graph theory (index)]], [[IA (index)]], [[Java (index)]], [[Operating System (index)]]
-- **Design** (12) : [[Affordance (index)]], [[Corps à l'oeuvre (index)]], [[Culture du soin (index)]], [[Dessein au cube (index)]], [[HDA (index)]], [[Peinture (index)]], [[Projet design (Year 1) (index)]], [[Projet design (Year 2) (index)]], [[Projet design (Year 3) (index)]], [[Projet design (Year 4) (index)]], [[Sémiotique (index)]], [[Workshop (index)]]
-- **Sciences humaines** (7) : [[Communication orale (index)]], [[Culture du vivant (index)]], [[Écriture narrative (index)]], [[Gestion financière (index)]], [[Management de l'innovation (index)]], [[Philosophie (index)]], [[SHS (index)]], et [[1 - Savoir rechercher sur Google (résumé)]] (Séance BU, sans carte)
+- **Mathématiques** (7) : [[Cours/Mathématiques/Algèbre linéaire/_index|Algèbre linéaire]], [[Cours/Mathématiques/Analyse/_index|Analyse]], [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]], [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]], [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]], [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]], [[Cours/Mathématiques/Séries/_index|Séries]]
+- **Probabilités et statistiques** (3) : [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]], [[Cours/Probabilités et statistiques/Probability/_index|Probability]], [[Cours/Probabilités et statistiques/Statistics/_index|Statistics]]
+- **Informatique** (9) : [[Cours/Informatique/Algo/_index|Algo]], [[Cours/Informatique/C++/_index|C++]], [[Cours/Informatique/Computer Network/_index|Computer Network]], [[Cours/Informatique/Data base/_index|Data base]], [[Cours/Informatique/Data mining/_index|Data mining]], [[Cours/Informatique/Graph theory/_index|Graph theory]], [[Cours/Informatique/IA/_index|IA]], [[Cours/Informatique/Java/_index|Java]], [[Cours/Informatique/OS/_index|Operating System]]
+- **Design** (12) : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Design/Dessein au cube/_index|Dessein au cube]], [[Cours/Design/HDA/_index|HDA]], [[Cours/Design/Peinture/_index|Peinture]], [[Cours/Design/Projet year 1/_index|Projet design (Year 1)]], [[Cours/Design/Projet year 2/_index|Projet design (Year 2)]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Design/Projet year 3/_index#Workshop|Workshop]]
+- **Sciences humaines** (6) : [[Cours/Sciences humaines/Communication orale/_index|Communication orale]], [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]], [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]], [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]], [[Cours/Sciences humaines/Philosophie/_index|Philosophie]], [[Cours/Sciences humaines/SHS/_index|SHS]], et [[1 - Savoir rechercher sur Google]] (Séance BU, sans carte)
 
 Par année :
 
-- **Year 1** : [[Algèbre linéaire (index)]], [[Algo (index)]] (aussi Year 2), [[Analyse Maths (index)]], [[Communication orale (index)]], [[Corps à l'oeuvre (index)]] (aussi Year 2), [[Dessein au cube (index)]], [[HDA (index)]], [[Outil Maths (index)]], [[Peinture (index)]], [[Philosophie (index)]] (aussi Year 2), [[Projet design (Year 1) (index)]]
-- **Year 2** : [[Algo (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Bilinear Algebra (index)]], [[Écriture narrative (index)]], [[Operating System (index)]], [[Probability (index)]], [[Projet design (Year 2) (index)]], [[SHS (index)]] (aussi Year 3 et 4)
-- **Year 3** : [[Affordance (index)]], [[Computer Network (index)]], [[Culture du vivant (index)]] (aussi Year 4), [[Data analysis (index)]], [[Data base (index)]], [[IA (index)]], [[Java (index)]], [[Projet design (Year 3) (index)]], [[Sémiotique (index)]], [[Séries (index)]], [[Statistics (index)]], [[Workshop (index)]], [[1 - Savoir rechercher sur Google (résumé)]] (sans carte)
-- **Year 4** : [[C++ (index)]], [[Culture du soin (index)]], [[Data mining (index)]], [[Gestion financière (index)]], [[Graph theory (index)]], [[Management de l'innovation (index)]], [[Projet design (Year 4) (index)]]
+- **Year 1** : [[Cours/Mathématiques/Algèbre linéaire/_index|Algèbre linéaire]], [[Cours/Informatique/Algo/_index|Algo]] (aussi Year 2), [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]], [[Cours/Sciences humaines/Communication orale/_index|Communication orale]], [[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]] (aussi Year 2), [[Cours/Design/Dessein au cube/_index|Dessein au cube]], [[Cours/Design/HDA/_index|HDA]], [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]], [[Cours/Design/Peinture/_index|Peinture]], [[Cours/Sciences humaines/Philosophie/_index|Philosophie]] (aussi Year 2), [[Cours/Design/Projet year 1/_index|Projet design (Year 1)]]
+- **Year 2** : [[Cours/Informatique/Algo/_index|Algo]], [[Cours/Mathématiques/Analyse/_index|Analyse]], [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]], [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]], [[Cours/Informatique/OS/_index|Operating System]], [[Cours/Probabilités et statistiques/Probability/_index|Probability]], [[Cours/Design/Projet year 2/_index|Projet design (Year 2)]], [[Cours/Sciences humaines/SHS/_index|SHS]] (aussi Year 3 et 4)
+- **Year 3** : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Informatique/Computer Network/_index|Computer Network]], [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]] (aussi Year 4), [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]], [[Cours/Informatique/Data base/_index|Data base]], [[Cours/Informatique/IA/_index|IA]], [[Cours/Informatique/Java/_index|Java]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Mathématiques/Séries/_index|Séries]], [[Cours/Probabilités et statistiques/Statistics/_index|Statistics]], [[Cours/Design/Projet year 3/_index#Workshop|Workshop]], [[1 - Savoir rechercher sur Google]] (sans carte)
+- **Year 4** : [[Cours/Informatique/C++/_index|C++]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Informatique/Data mining/_index|Data mining]], [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]], [[Cours/Informatique/Graph theory/_index|Graph theory]], [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]]
 
-Matières connues par leurs seuls documents PDF ou PPTX : [[Affordance (index)]], [[Projet design (Year 3) (index)]], [[Sémiotique (index)]], [[Culture du soin (index)]], et la partie Year 2 de [[SHS (index)]].
-
-## Synthèses (0)
-
-Aucune pour l'instant.
+Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Design/Culture du soin/_index|Culture du soin]], et la partie Year 2 de [[Cours/Sciences humaines/SHS/_index|SHS]].
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (219 : 160 docx, 53 pdf, 6 pptx), par dossier de Drive, au 2026-11-07.
+Documents du miroir de Drive dans `Raw/` (205 : 147 docx, 52 pdf, 6 pptx), par dossier de Drive, au 2026-11-07. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
-Algo Maths (3 docx, 1 pdf), Algèbre Linéaire (7 docx), Analyse Maths (2 docx, 12 pdf), Communication orale (2 docx), Corps à l'oeuvre (1 docx), Dessein au cube (7 docx), HDA (1 docx), Outil Maths (4 docx, 10 pdf), Peinture (3 docx), Philosophie (2 docx), Projet design (4 docx), plus 1 pdf à la racine de `Year 1`
+Algo Maths (3 docx, 1 pdf), Algèbre Linéaire (7 docx), Analyse Maths (2 docx, 12 pdf), Communication orale (1 docx), Corps à l'oeuvre (1 docx), Dessein au cube (2 docx), HDA (1 docx), Outil Maths (4 docx, 10 pdf), Peinture (3 docx), Philosophie (2 docx), Projet design (4 docx), plus 1 pdf à la racine de `Year 1`
 
 ### Year 2
 
-Algo (5 docx, 5 pdf), Analyse (3 docx, 2 pdf), Analyse dans Rn (4 docx), Anglais (3 docx), Bilinear Algebra (8 docx), Corps à l'oeuvre (1 docx), Operating System (19 docx, 6 pdf), Philosophie (5 docx), Probability (7 docx), Projet Design (4 docx, 1 pdf), SHS (1 pdf), écriture narrative (1 docx)
+Algo (5 docx, 5 pdf), Analyse (3 docx, 2 pdf), Analyse dans Rn (4 docx), Bilinear Algebra (8 docx), Corps à l'oeuvre (1 docx), Operating System (19 docx, 6 pdf), Philosophie (5 docx), Probability (7 docx), Projet Design (4 docx, 1 pdf), SHS (1 pdf)
 
 ### Year 3
 
-Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx, 1 pdf), Data analysis (Thanos) (15 docx), Data base (2 docx), IA (1 docx), Java (1 docx), ligue football (1 docx, 2 pdf), Projet courts (2 pdf), SHS (1 docx, 5 pdf), Statistics (7 docx), Sémiotique (4 pptx), Séries (7 docx), workshop (1 docx), plus 1 docx à la racine de `Year 3`
+Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx, 1 pdf), Data analysis (Thanos) (15 docx), Data base (2 docx), IA (1 docx), Java (1 docx), ligue football (1 pdf), Projet courts (2 pdf), SHS (5 pdf), Statistics (7 docx), Sémiotique (4 pptx), Séries (7 docx), workshop (1 docx), plus 1 docx à la racine de `Year 3`
 
 ### Year 4
 
-C++ (3 docx), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (3 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)
+C++ (3 docx), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)

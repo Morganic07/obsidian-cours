@@ -1,0 +1,58 @@
+---
+type: concept
+tags:
+  - year1
+  - year3
+  - year4
+aliases:
+  - entretien utilisateur
+  - guide d'entretien
+  - entretien semi-structuré
+  - semi-structured interview
+  - journal de bord d'entretien
+  - topo de présentation
+  - questions de relance
+  - retranscription d'entretien
+  - entretien exploratoire
+matieres:
+  - Dessein au cube
+  - Projet design
+  - Projet Design
+  - SHS
+  - Affordance
+sources:
+  - "Pistes entrevue, Compte rendu et Inégalités alimentaires, dans Raw/Year 1/Dessein au cube/inégalités alimentaires (exclus du miroir)"
+  - "[[Bel-air|Projet BLR]]"
+  - "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"
+  - "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"
+  - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
+  - "[[3 - Prise de note|Prise de note SHS]]"
+maj: 2026-11-07
+---
+
+Méthode d'enquête de terrain où l'on interroge une personne à partir d'un guide de thèmes, en laissant la conversation s'écarter si elle apporte du sens. Elle sert à comprendre vocabulaire, pratiques, contraintes et attentes d'un public avant de concevoir une solution.
+
+**Préparer**
+- Un topo de présentation : qui je suis, sujet général, contexte sans jugement de valeur.
+- Un guide d'entretien : questions ouvertes, du plus général au plus sensible, sans jugement ; en carte mentale par grands thèmes (définitions, habitudes, contraintes, évolution).
+- Des critères de recrutement, avec des profils différents si possible.
+- Une fiche de consentement signée : participation volontaire, retrait possible, anonymisation ([[Consentement éclairé]]).
+
+**Mener**
+- Faire définir chaque notion évoquée, relancer, ne pas aborder l'argent d'emblée.
+- Compléter par des activités (dessiner, classer des photos).
+- Tenir un journal de bord : date, lieu, contexte, ressentis avant, pendant, après.
+
+**Critiquer** : biais de rétrospective, de confirmation et de disponibilité ([[Biais cognitif]]), questions sensibles, durée trop courte, échantillon non représentatif.
+
+Les notes de 1re année ne disent pas « semi-directif » : c'est le nom retenu pour cette page.
+
+**En SHS (3e année)** : méthode venue de l'anthropologie, où l'on dirige en partie le discours par une question très large et un guide d'entretien (au moins trois questions ouvertes, du général au spécifique, avec des relances). L'entretien est enregistré, 10 à 15 minutes, avec l'accord des participants, complété de questions socio-démographiques, puis retranscrit : une minute d'audio demande environ quatre minutes de transcription. Le TD donne la démarche complète, jusqu'à la grille d'analyse ([[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25]], [[2 - imaginaires du futur]]). Voir aussi [[Imaginaire]], [[Questionnaire]].
+
+**En Affordance** : l'entretien recueille objectifs et ressenti, avec souplesse, mais reste déclaratif, sans contexte d'usage direct, peu adapté aux grands échantillons et soumis à des biais (halo, confirmation, rapport interviewer-interviewé). Le cours le compare à l'observation ([[2 - UX]]).
+
+**En SHS (4e année)** : l'enquête repose sur des entretiens transcrits, dont un entretien entre deux étudiants sur la pratique de l'open source ; le plan prévoit une méthodologie d'enquête (nombre et profils des interviewés, limites). La note ne dit pas que l'entretien est semi-directif (Entretien sur l'open source, [[3 - Prise de note]]).
+
+Notion parente : [[Enquête qualitative et quantitative]]. Suite logique : [[Analyse thématique d'entretien]], puis [[Persona]]. Utilisé aussi pour le quartier Bel-Air : [[Bel-air|Projet BLR]].
+
+Résumés : [[2 - UX]], [[3 - Prise de note]]

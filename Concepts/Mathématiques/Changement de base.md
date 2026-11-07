@@ -1,0 +1,37 @@
+---
+type: concept
+tags:
+  - year1
+  - year2
+aliases:
+  - matrice de passage
+  - matrices de passage
+  - changements de base
+  - change of basis
+sources:
+  - "[[5 - Algèbre linéaire|chp5 (Algèbre)]]"
+  - "[[2 - Symmetric matrices and quadratic forms|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
+maj: 2026-11-07
+---
+
+La matrice de passage $P$ de la base $B$ à la base $B'$ a pour colonnes les coefficients des vecteurs de $B'$ exprimés dans $B$.
+
+- **Composition** : $P_{B \to B'} \cdot P_{B' \to B''} = P_{B \to B''}$, et $P^{-1} = P_{B' \to B}$.
+- **Application linéaire** : si $A$ est sa matrice dans $B$ et $A'$ sa matrice dans $B'$, alors $A' = P^{-1}AP$.
+- **Coordonnées d'un vecteur** : $X' = P^{-1}X$, où $X$ et $X'$ sont les coordonnées du même vecteur dans $B$ et dans $B'$ (voir « Erreurs du cours »).
+
+Le cours résume la règle des colonnes par « nouveaux en fonction des anciens ».
+
+C'est la même idée que le changement de variable $\mathbf{x} = P\mathbf{y}$ des [[Forme quadratique|formes quadratiques]] et que la [[Diagonalisation]] $A = PDP^{-1}$.
+
+L'évaluation 3 de première année porte sur les [[Coordonnées dans une base|coordonnées dans une base]] de $\mathbb{R}^3$ et la [[Matrice d'une application linéaire|matrice d'une application]] dans cette base.
+
+Notion parente : [[Base (algèbre linéaire)]]. Voir aussi : [[Matrice d'une application linéaire]], [[Coordonnées dans une base]], [[Transformation linéaire]], [[Matrice inversible]], [[Diagonalisation]]
+
+## Erreurs du cours
+
+- [[5 - Algèbre linéaire|chp5 (Algèbre)]] écrit « $X^{-1} = P^{-1} \cdot X$ » ; il faut $X' = P^{-1}X$. L'hypothèse du théorème est vide dans le document lui-même (« Si X = X = »).
+- Le même chapitre écrit « A est la matrice de F dans la base B, A' est la matrice de E dans la base B' » ; il faut « $A$ et $A'$ sont les matrices de la même application linéaire $f$ dans $B$ et dans $B'$ ».
+
+Résumés : [[5 - Algèbre linéaire|chp5]]

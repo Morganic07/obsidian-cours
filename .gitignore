@@ -6,6 +6,8 @@ Raw/
 .obsidian/workspace*
 .obsidian/cache
 .obsidian/plugins/
+.obsidian/community-plugins.json
+.obsidian/*.bak
 .trash/
 
 __pycache__/

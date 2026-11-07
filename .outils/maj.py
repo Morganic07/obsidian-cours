@@ -230,10 +230,13 @@ def cible(valeur):
 
 
 def index_fiches(coffre):
-    """[(fiche, cibles de son champ sources)] pour toutes les fiches du wiki."""
+    """[(fiche, cibles de son champ sources)] pour toutes les fiches du wiki : les pages des
+    dossiers de matière, hors cartes (« _index », type matiere)."""
     fiches = []
-    for fiche in sorted((coffre / chemins.MATIERES).rglob("*(résumé).md")):
+    for fiche in sorted((coffre / chemins.MATIERES).rglob("*.md")):
         champs = convertir.lire_frontmatter(fiche.read_text(encoding="utf-8"))
+        if fiche.name == "_index.md" or "matiere" in champs.get("type", []):
+            continue
         fiches.append((fiche, [nfc(cible(v)) for v in champs.get("sources", [])]))
     return fiches
 
@@ -292,11 +295,11 @@ EMPREINTE_COURTE = 10
 
 def copies_dans_les_fiches(fiches):
     """{empreinte: [noms]} des images copiées pour ces fiches dans images/ de leur matière
-    (« <fiche sans (résumé)> - … »). Les numéros d'image changent d'un export à l'autre :
+    (« <fiche> - … »). Les numéros d'image changent d'un export à l'autre :
     seul le contenu relie une copie à l'image du document."""
     copies = {}
     for fiche in fiches:
-        prefixe = fiche.stem.removesuffix(" (résumé)") + " - "
+        prefixe = fiche.stem + " - "
         dossier = fiche.parent / "images"
         if not dossier.is_dir():
             continue

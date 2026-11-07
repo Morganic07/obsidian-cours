@@ -1,0 +1,25 @@
+---
+type: concept
+tags:
+  - year2
+aliases:
+  - application native
+  - web app
+  - SaaS
+  - software as a service
+matieres:
+  - Anglais
+sources:
+  - "Global Exam Vocab, dans Raw/Year 2/Anglais (exclu du miroir)"
+maj: 2026-11-07
+---
+
+Définitions du glossaire d'anglais :
+
+- **Native** : application faite pour un système d'exploitation dédié.
+- **Web app** : site web qui donne l'expérience d'une application.
+- **SaaS** : acronyme de « Software as a service ».
+
+Voir aussi : [[Front end et back end]], [[Système d'exploitation]].
+
+Résumés (rapprochement, complément hors du cours) : [[1 - UX]]

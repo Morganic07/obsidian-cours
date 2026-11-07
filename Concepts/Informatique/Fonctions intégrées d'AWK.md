@@ -1,0 +1,23 @@
+---
+type: concept
+tags:
+  - year2
+aliases:
+  - tolower
+  - tolower()
+  - gsub
+  - gsub()
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
+  - "[[5 - TP5|Cours TP5]]"
+maj: 2026-11-07
+---
+
+- `tolower()` convertit une chaîne en minuscules : `tolower($0) ~ /paris/` donne une recherche insensible à la casse.
+- `gsub(/paris/, "", line)` remplace les occurrences et renvoie leur nombre, ce qui sert à compter les occurrences d'un mot.
+
+Notion parente : [[AWK]]. Voir aussi : [[Expression régulière]].
+
+Résumés : [[5 - TP5]]
