@@ -12,8 +12,8 @@ aliases:
 sources:
   - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
   - "[[2 - TP2|Cours TP2]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
-maj: 2026-11-06
+  - "[[1 - TP1|cours TP1]]"
+maj: 2026-11-07
 ---
 
 Dans un chemin, `/` sépare les répertoires (`cd /home/user`), `~` représente le [[Répertoire personnel]], `.` le répertoire courant (`./script.sh`) et `..` le répertoire parent (`cd ..`).

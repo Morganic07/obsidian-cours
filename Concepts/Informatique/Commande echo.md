@@ -7,8 +7,8 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
-maj: 2026-11-06
+  - "[[1 - TP1|cours TP1]]"
+maj: 2026-11-07
 ---
 
 « C'est comme un print » : `echo` affiche un texte ou une variable. Avec une redirection, il écrit dans un fichier : `echo "first" | cat > fichier`, `echo "Hello" > file.txt`.

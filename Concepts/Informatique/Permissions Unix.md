@@ -14,7 +14,7 @@ matieres:
   - Operating System
 sources:
   - "[[5 - OS|OS - chp 5]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
 maj: 2026-11-07
 ---
 

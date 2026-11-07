@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[3 -Invertible matrix theorem|Invertible matrix theorem]]"
+  - "[[3 - Invertible matrix theorem|Invertible matrix theorem]]"
   - "[[0 - Matrix algebra|Chp 0b - Matrix algebra]]"
 maj: 2026-11-07
 ---
@@ -21,4 +21,4 @@ Pour une matrice carrée $A$ de taille $n\times n$, vingt énoncés (a à t) son
 
 Notion parente : [[Matrice inversible]]. Voir aussi : [[Rang d'une matrice]], [[Valeur propre]], [[Déterminant]].
 
-Résumés : [[3 -Invertible matrix theorem]], [[0 - Matrix algebra]], [[0 - Vector Space]], [[0 - Eigenvalues and eigenvectors]]
+Résumés : [[3 - Invertible matrix theorem]], [[0 - Matrix algebra]], [[0 - Vector Space]], [[0 - Eigenvalues and eigenvectors]]

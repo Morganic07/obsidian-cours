@@ -149,7 +149,7 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > **Théorème du rang** ([[Théorème du rang|rank theorem]]) : si $A$ a $n$ colonnes,
 > $$\text{rank}\,A + \dim \text{Nul}\,A = n.$$
 
-> **Théorème de la matrice inversible (suite)** : $A$ de taille $n \times n$. Chacun des énoncés suivants équivaut à « $A$ est inversible » (voir [[3 -Invertible matrix theorem|Invertible matrix theorem]]) :
+> **Théorème de la matrice inversible (suite)** : $A$ de taille $n \times n$. Chacun des énoncés suivants équivaut à « $A$ est inversible » (voir [[3 - Invertible matrix theorem|Invertible matrix theorem]]) :
 > m. les colonnes de $A$ forment une base de $\mathbb R^n$ ;
 > n. $\text{Col}\,A = \mathbb R^n$ ;
 > o. $\dim \text{Col}\,A = n$ ;

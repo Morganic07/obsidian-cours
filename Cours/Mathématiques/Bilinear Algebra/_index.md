@@ -10,7 +10,7 @@ sources:
   - "[[0 - Eigenvalues and eigenvectors|Chp 0e - Eigenvalues and eigenvectors]]"
   - "[[1 - Orthogonality|chp 1 - Orthogonality]]"
   - "[[2 - Symmetric matrices and quadratic forms|Chp2 - Symmetric matrices and quadratic forms]]"
-  - "[[3 -Invertible matrix theorem|Invertible matrix theorem]]"
+  - "[[3 - Invertible matrix theorem|Invertible matrix theorem]]"
 maj: 2026-11-06
 ---
 
@@ -29,7 +29,7 @@ Les chapitres 0a à 0e posent les bases et chacun réutilise le précédent. Le 
 | [[0 - Eigenvalues and eigenvectors\|Chp 0e - Eigenvalues and eigenvectors]] | Valeurs propres, diagonalisation | [[0 - Eigenvalues and eigenvectors\|Résumé]] |
 | [[1 - Orthogonality\|chp 1 - Orthogonality]] | Projection, Gram-Schmidt, QR, moindres carrés | [[1 - Orthogonality\|Résumé]] |
 | [[2 - Symmetric matrices and quadratic forms\|Chp2 - Symmetric matrices and quadratic forms]] | Théorème spectral, formes quadratiques, SVD | [[2 - Symmetric matrices and quadratic forms\|Résumé]] |
-| [[3 -Invertible matrix theorem\|Invertible matrix theorem]] | Les 20 énoncés équivalents | [[3 -Invertible matrix theorem\|Résumé]] |
+| [[3 - Invertible matrix theorem\|Invertible matrix theorem]] | Les 20 énoncés équivalents | [[3 - Invertible matrix theorem\|Résumé]] |
 
 ## Concepts
 

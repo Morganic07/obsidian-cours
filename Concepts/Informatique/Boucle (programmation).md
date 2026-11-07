@@ -29,7 +29,7 @@ matieres:
   - C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[Raw/Year 1/Algo Maths/Python.docx|Python]]"
+  - "[[0 - Python|Python (Algo Maths)]]"
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
   - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[3 - TP3|Cours TP3]]"

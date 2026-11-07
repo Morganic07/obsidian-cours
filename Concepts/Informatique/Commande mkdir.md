@@ -9,8 +9,8 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
-maj: 2026-11-06
+  - "[[1 - TP1|cours TP1]]"
+maj: 2026-11-07
 ---
 
 `mkdir` (make directory) crée un répertoire. Avec `-p` et des accolades, elle crée une arborescence entière : `mkdir -p semester/{first/{os,uc},...}`.

@@ -9,15 +9,15 @@ sources:
   - "[[5 - OS|OS - chp 5]]"
   - "[[7 - OS|OS - chp7]]"
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
   - "[[2 - TP2|Cours TP2]]"
   - "[[3 - TP3|Cours TP3]]"
   - "[[4 - TP4|Cours TP4]]"
   - "[[5 - TP5|Cours TP5]]"
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
-Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 10 notes sont des notes de cours : chapitres 1, 2, 3, 5, 7, fiche de commandes, TP2 à TP5. Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
+Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 11 notes sont des notes de cours : chapitres 1, 2, 3, 5, 7, fiche de commandes, TP1 à TP5. Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
 
 ## Parcours
 
@@ -29,6 +29,7 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 | [[5 - OS\|OS - chp 5]] | Shell, `cat`, `chmod`, APT, scripts | [[5 - OS\|Résumé]] |
 | [[7 - OS\|OS - chp7]] | Processus, ordonnancement, `fork` | [[7 - OS\|Résumé]] |
 | [[8 - OS commandes sh\|Commandes Shell + explications]] | Fiche de commandes et de Bash | [[8 - OS commandes sh\|Résumé]] |
+| [[1 - TP1\|cours TP1]] | `sudo`, sudoers, clavier, nom d'hôte, `mkdir -p`, `chmod -R` | [[1 - TP1\|Résumé]] |
 | [[2 - TP2\|Cours TP2]] | Jokers, redirections, tâches de fond | [[2 - TP2\|Résumé]] |
 | [[3 - TP3\|Cours TP3]] | Réseau, `/etc/hosts`, scripts de sauvegarde | [[3 - TP3\|Résumé]] |
 | [[4 - TP4\|Cours TP4]] | Programme C `fork`, cron | [[4 - TP4\|Résumé]] |

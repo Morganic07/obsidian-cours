@@ -7,8 +7,8 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
-maj: 2026-11-06
+  - "[[1 - TP1|cours TP1]]"
+maj: 2026-11-07
 ---
 
 `touch` crée un fichier vide ; si le fichier existe, elle met à jour son horodatage. Avec des accolades, elle crée plusieurs fichiers : `touch test{1..3}.txt`.

@@ -6,12 +6,13 @@ tags:
 sources:
   - "[[0 - Algo Maths|Cours 1 (Algo Maths)]]"
   - "[[0 - diapo prof|AlgoID1]]"
+  - "[[0 - Python|Python (Algo Maths)]]"
   - "[[1 - récursivité et complexité|Chp1 - récursivité et complexité]]"
   - "[[2 - piles listes file|chp2 - piles listes file]]"
   - "[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]"
   - "[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]"
   - "[[Raw/Year 2/Algo/DM/TD_Algo.docx|TD_Algo]]"
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Algorithmique et programmation en Python : récursivité, complexité, structures de données linéaires, puis arbres AVL. En Year 2, deux notes de cours (chapitres 1 et 2) et quatre PDF ; la partie Year 1 (ancienne matière Algo Maths) est en fin de page.
@@ -55,11 +56,12 @@ Quatre PDF complètent les notes : trois chapitres de cours sur les arbres (ils 
 
 ## Year 1
 
-Ancienne matière Algo Maths, rattachée à Algo. Premiers pas en algorithmique : récurrence, récursivité, pseudo-code, Python. Deux notes sont intégrées.
+Ancienne matière Algo Maths, rattachée à Algo. Premiers pas en algorithmique : récurrence, récursivité, pseudo-code, Python. Trois documents sont intégrés.
 
 | Note | Sujet | Résumé |
 |---|---|---|
 | [[0 - Algo Maths\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[0 - Algo Maths\|Résumé]] |
+| [[0 - Python\|Python (Algo Maths)]] | `range`, boucle sans variable, `print(..., end="")` | [[0 - Python\|Résumé]] |
 | AlgoID1 (PDF, 163 pages) | Introduction, pseudo-code, fonctions et procédures, Python, enregistrements, récursivité, avec TD | [[0 - diapo prof\|Résumé]] |
 
 ### Concepts
@@ -74,6 +76,7 @@ Ancienne matière Algo Maths, rattachée à Algo. Premiers pas en algorithmique 
 ### À revoir en priorité avant un examen
 
 - [[0 - Algo Maths|Cours 1]] : le problème des crayons échoue dès $n = 2$ ; l'exemple `0.1 + 0.3` est faux en Python.
+- [[0 - Python|Python]] : `range(2, 10, 5)` donne 2, 7 et non « 2, 4, 8 ».
 
 ### Liens avec les autres matières
 

@@ -58,7 +58,7 @@ $$A^n\mathbf x = \lambda^n\mathbf x \Rightarrow AA^n\mathbf x = A\lambda^n\mathb
 > s. le nombre $0$ n'est **pas** valeur propre de $A$ ;
 > t. le déterminant de $A$ n'est **pas** nul.
 >
-> Voir [[3 -Invertible matrix theorem|Invertible matrix theorem]], [[Matrice inversible]].
+> Voir [[3 - Invertible matrix theorem|Invertible matrix theorem]], [[Matrice inversible]].
 
 ## 3. Diagonalisation (*diagonalization*)
 

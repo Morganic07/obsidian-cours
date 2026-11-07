@@ -1512,7 +1512,7 @@ Classés par matière. Les erreurs confirmées d'un cours sont notées en fin de
 
 ### Autres matières de Year 1
 
-- **Algo Maths** : [[0 - Algo Maths|Cours 1]]
+- **Algo Maths** : [[0 - Algo Maths|Cours 1]], [[0 - Python|Python]]
 - **Communication orale** : [[1 - discours]]
 - **Corps à l'oeuvre** : [[1 - corps à l'oeuvre]]
 - **HDA** : [[1 - HDA]]
@@ -1525,7 +1525,7 @@ Classés par matière. Les erreurs confirmées d'un cours sont notées en fin de
 
 - **Algo** : [[1 - récursivité et complexité]], [[2 - piles listes file]]
 - **Corps à l'oeuvre** : [[2 - corps à l'oeuvre]]
-- **Operating System** : [[8 - OS commandes sh]], [[2 - TP2]], [[3 - TP3]], [[4 - TP4]], [[5 - TP5]], [[1 - OS]], [[2 - OS]], [[3 - OS]], [[5 - OS]], [[7 - OS]]
+- **Operating System** : [[8 - OS commandes sh]], [[1 - TP1]], [[2 - TP2]], [[3 - TP3]], [[4 - TP4]], [[5 - TP5]], [[1 - OS]], [[2 - OS]], [[3 - OS]], [[5 - OS]], [[7 - OS]]
 - **Philosophie** : [[3 - philo]], [[4 - philo]], [[5 - philo]], [[6 - philo]], [[7 - philo]]
 - **Probability** : [[1 - Sample space,events, proba]], [[2 - Conditional proba and independence]], [[3 - Combinatorics]], [[3 - Important discrete distributions]], [[4 - Discrete random variables]], [[5 - Continuous random variable]], [[6 - Joint probability distributions]]
 - **Projet Design** : [[EDOSSAH]], [[Helloartup]]
@@ -1590,7 +1590,7 @@ Classés par matière. Les erreurs confirmées d'un cours sont notées en fin de
 - [[0 - Eigenvalues and eigenvectors]] : valeurs propres, diagonalisation
 - [[1 - Orthogonality]] : projection orthogonale, Gram-Schmidt, QR et moindres carrés
 - [[2 - Symmetric matrices and quadratic forms]] : théorème spectral, formes quadratiques, SVD
-- [[3 -Invertible matrix theorem]] : les 20 énoncés équivalents
+- [[3 - Invertible matrix theorem]] : les 20 énoncés équivalents
 
 ## Matières (38)
 

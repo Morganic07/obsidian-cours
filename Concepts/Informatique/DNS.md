@@ -13,7 +13,7 @@ matieres:
 sources:
   - "[[3 - TP3|Cours TP3]]"
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
 maj: 2026-11-07
 ---
 

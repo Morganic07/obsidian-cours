@@ -11,7 +11,7 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
   - "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"
 maj: 2026-11-07
 ---

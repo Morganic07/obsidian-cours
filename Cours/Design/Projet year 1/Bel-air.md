@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year1]
-sources: ["Projet BLR"]
+sources: ["Projet BLR, dans Raw/Year 1/Projet design/Bel-Air (exclu du miroir)"]
 maj: 2026-11-05
 ---
 

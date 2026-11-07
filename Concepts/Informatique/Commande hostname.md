@@ -7,7 +7,7 @@ aliases:
   - hostname -f
   - hostname -I
 sources:
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
   - "[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3 - PINA Morgane.docx|TP3]]"
 maj: 2026-11-07

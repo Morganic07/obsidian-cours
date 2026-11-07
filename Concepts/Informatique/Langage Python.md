@@ -5,7 +5,7 @@ tags:
 aliases: []
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[Raw/Year 1/Algo Maths/Python.docx|Python]]"
+  - "[[0 - Python|Python (Algo Maths)]]"
 maj: 2026-11-07
 ---
 

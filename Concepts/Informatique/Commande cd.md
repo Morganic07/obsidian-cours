@@ -8,9 +8,9 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[1 - TP1|cours TP1]]"
   - "[[5 - OS|OS - chp 5]]"
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 `cd` (change directory) change de répertoire. `cd ..` remonte au répertoire parent, `cd ~` (comme `cd` seul) va au répertoire personnel, `cd -` revient au répertoire précédent.

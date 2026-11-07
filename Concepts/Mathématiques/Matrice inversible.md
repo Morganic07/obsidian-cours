@@ -14,7 +14,7 @@ aliases:
   - algorithm for finding A^-1
 sources:
   - "[[0 - Matrix algebra|Chp 0b - Matrix algebra]]"
-  - "[[3 -Invertible matrix theorem|Invertible matrix theorem]]"
+  - "[[3 - Invertible matrix theorem|Invertible matrix theorem]]"
   - "[[4 - Algèbre linéaire|chp4 (Algèbre)]]"
   - "[[5 - Algèbre linéaire|chp5 (Algèbre)]]"
 maj: 2026-11-07
@@ -47,4 +47,4 @@ Notion parente : [[Matrice]].
 
 Liens : [[Déterminant]], [[Rang d'une matrice]], [[Valeur propre]], [[Forme échelonnée]], [[Injectivité et surjectivité]]
 
-Résumés : [[0 - Matrix algebra]], [[3 -Invertible matrix theorem]], [[4 - Algèbre linéaire|chp4]], [[5 - Algèbre linéaire|chp5]]
+Résumés : [[0 - Matrix algebra]], [[3 - Invertible matrix theorem]], [[4 - Algèbre linéaire|chp4]], [[5 - Algèbre linéaire|chp5]]

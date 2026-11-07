@@ -77,7 +77,7 @@ Vocabulaire : une matrice non inversible est **singulière** (*singular*) ; une 
 
 ### Théorème de la matrice inversible (*The Invertible Matrix Theorem*)
 
-Soit $A$ carrée $n \times n$. Les énoncés suivants sont équivalents (tous vrais ou tous faux) ; voir [[3 -Invertible matrix theorem|Invertible matrix theorem]] et [[Théorème de la matrice inversible]] :
+Soit $A$ carrée $n \times n$. Les énoncés suivants sont équivalents (tous vrais ou tous faux) ; voir [[3 - Invertible matrix theorem|Invertible matrix theorem]] et [[Théorème de la matrice inversible]] :
 - a. $A$ est inversible ;
 - b. $A$ est équivalente par lignes à $I_n$ ;
 - c. $A$ a $n$ positions pivots ;

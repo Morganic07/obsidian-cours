@@ -13,8 +13,8 @@ sources:
   - "[[1 - OS|OS - chp 1]]"
   - "[[3 - OS|OS - chp 3]]"
   - "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"
-  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
-maj: 2026-11-06
+  - "[[1 - TP1|cours TP1]]"
+maj: 2026-11-07
 ---
 
 Cœur du [[Système d'exploitation]] (« le cœur de l'OS »). Les processus s'exécutent au-dessus du noyau, qui lui-même repose sur le matériel. En environnement virtuel, chaque machine virtuelle a son propre noyau (voir [[Machine virtuelle]]).
