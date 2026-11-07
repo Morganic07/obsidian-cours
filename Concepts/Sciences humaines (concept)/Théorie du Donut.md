@@ -11,4 +11,4 @@ Nommée dans le premier cours de culture du vivant sans développement : Kate Ra
 
 Notion parente : [[Limites planétaires]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

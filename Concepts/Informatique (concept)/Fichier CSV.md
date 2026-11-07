@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [CSV, Comma-Separated Values, .csv]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[Séance TP5 (résumé)|Cours TP5]]"]
+tags:
+  - year2
+aliases:
+  - CSV
+  - Comma-Separated Values
+  - .csv
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
+  - "[[5 - TP5 (résumé)|Cours TP5]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +18,4 @@ Fichier texte structuré dont les champs sont séparés par des virgules, couran
 
 Notion parente : [[Séparateur de champs]]. Voir aussi : [[Fichier TSV]].
 
-Résumés : [[TP5-AWK Command (résumé)]], [[Séance TP5 (résumé)]]
+Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]]

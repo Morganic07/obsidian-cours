@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year3]
-aliases: [convergence in probability, convergence en moyenne quadratique, mean square convergence, convergence in mean square]
-sources: ["[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
+tags:
+  - year3
+aliases:
+  - convergence in probability
+  - convergence en moyenne quadratique
+  - mean square convergence
+  - convergence in mean square
+sources:
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Le premier sens entraîne le second ; la réciproque tombe en défaut quand la v
 
 Notion parente : [[Loi des grands nombres]]. Voir aussi : [[Estimateur]].
 
-Résumés : [[chp 4 - Part 1 - Inferential statistics (résumé)]]
+Résumés : [[4 - Inferential statistics 1 (résumé)]]

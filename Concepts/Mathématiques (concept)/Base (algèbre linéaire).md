@@ -14,10 +14,10 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
-  - "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[chp 6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
   - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
@@ -42,4 +42,4 @@ Notion parente : [[Espace vectoriel]] (base d'un [[Sous-espace vectoriel]]). Lie
 
 « Base canonique » n'est pas dans le cours (alias facultatif).
 
-Résumés : [[chp 0d - Vector Space (résumé)]], [[chp 1 - Orthogonality (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[chp 6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[1 - Orthogonality (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[Contrôles (résumé)]]

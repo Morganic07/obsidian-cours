@@ -14,4 +14,4 @@ La limite est unique. Toute suite convergente est bornée ; la réciproque est f
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Forme indéterminée]], [[Théorème des gendarmes]], [[Quantificateur]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]]

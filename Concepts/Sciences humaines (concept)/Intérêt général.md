@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - SHS
 sources:
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Nommé dans le plan SHS d'un groupe d'étudiants sans définition : « La vocati
 
 Notion parente : [[Communs numériques]].
 
-Résumés : [[chp 3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

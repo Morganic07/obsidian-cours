@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [default gateway, gateway of last resort]
-sources: ["[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]", "[[chp 2 - Static Routing (résumé)|Chp2 - Static Routing]]"]
+sources: ["[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]", "[[2 - Static Routing (résumé)|Chp2 - Static Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -17,4 +17,4 @@ Nommée dans le cours sans définition propre :
 
 Voir aussi : [[Routage statique]].
 
-Résumés : [[chp 4 - VLAN ／ IVR Commands (résumé)]], [[chp 2 - Static Routing (résumé)]]
+Résumés : [[4 - VLAN ／ IVR Commands (résumé)]], [[2 - Static Routing (résumé)]]

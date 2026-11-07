@@ -14,4 +14,4 @@ Notion parente : [[Coordonnées polaires]]. Voir aussi : [[Intégrale multiple]]
 
 - Les notes ne centrent pas ces coordonnées en $(c,d)$ alors qu'elles rappellent l'équation de l'ellipse décentrée.
 
-Résumés : [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[2 - intégrales multiples (résumé)]]

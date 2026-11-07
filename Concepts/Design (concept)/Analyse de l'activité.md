@@ -14,4 +14,4 @@ Nommée dans le panorama des méthodes UX de UX Research - Observation - 2026 ([
 
 Notion parente : [[Observation de terrain]]. Voir aussi : [[Ergonomie]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

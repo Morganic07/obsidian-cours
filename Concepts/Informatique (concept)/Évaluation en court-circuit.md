@@ -13,8 +13,8 @@ matieres:
   - Java
   - C++
 sources:
-  - "[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]"
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -31,4 +31,4 @@ Les opérateurs `&&` et `||` n'évaluent pas toujours leurs deux opérandes : l'
 
 Voir aussi : [[Structure conditionnelle]].
 
-Résumés : [[chp 1 - Intro Java (résumé)]], [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - Intro Java (résumé)]], [[1 - basiques (résumé)]]

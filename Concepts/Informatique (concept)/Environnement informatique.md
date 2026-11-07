@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [computing environments, computing environment, environnements informatiques]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Le chp 1 distingue plusieurs environnements informatiques :
 - **cloud** ([[Cloud computing]]) ;
 - **systèmes distribués** ([[Système distribué]]).
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

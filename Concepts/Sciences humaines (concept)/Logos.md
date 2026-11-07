@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état]]"
+  - "[[1 - philo (résumé)|L'état]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Animal politique]]. Voir aussi : [[Finalisme]].
 
 - La note écrit « Phodè » pour « phonè ».
 
-Résumés : [[chp 1 - philo (résumé)]]
+Résumés : [[1 - philo (résumé)]]

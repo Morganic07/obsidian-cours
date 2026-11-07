@@ -13,4 +13,4 @@ $$SplitInfo(T) = -\sum_{i=1}^{k} \frac{|T_i|}{|T|}\log_2\frac{|T_i|}{|T|}, \qqua
 
 Notion parente : [[Algorithme C4.5]]. Voir aussi : [[Arbre de décision]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

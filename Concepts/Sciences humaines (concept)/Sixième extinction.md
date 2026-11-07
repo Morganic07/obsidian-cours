@@ -14,4 +14,4 @@ Nommée dans le cours sans définition : « 6e extinction » est un titre de dia
 
 Notion parente : [[Érosion de la biodiversité]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

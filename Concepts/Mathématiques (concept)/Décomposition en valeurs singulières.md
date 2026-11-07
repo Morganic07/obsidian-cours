@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [singular value decomposition, SVD, singular values, singular value, valeurs singulières, The Singular Value Decomposition, SVD Summary]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 
@@ -16,7 +16,7 @@ Toute matrice $A$ de taille $m \times n$ et de rang $r$ s'écrit $A = U\Sigma V^
 - **Application** : pour $A$ inversible, $\sigma_1/\sigma_n$ est le conditionnement ([[Conditionnement d'une matrice]]). Les instabilités numériques se repèrent dans $\Sigma$, car $U$ et $V$ ne changent ni les longueurs ni les angles.
 - **Sous-espaces** : la SVD fournit des bases des quatre [[Sous-espaces fondamentaux]].
 
-**En ACP** ([[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]) : on écrit $A = U\Sigma V^T = \sigma_1\mathbf{u}_1\mathbf{v}_1^T + \dots + \sigma_r\mathbf{u}_r\mathbf{v}_r^T$, et $V$ est la matrice des loadings ([[Loadings et scores (ACP)]]).
+**En ACP** ([[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]) : on écrit $A = U\Sigma V^T = \sigma_1\mathbf{u}_1\mathbf{v}_1^T + \dots + \sigma_r\mathbf{u}_r\mathbf{v}_r^T$, et $V$ est la matrice des loadings ([[Loadings et scores (ACP)]]).
 
 Notion parente : [[Matrice symétrique]].
 
@@ -24,6 +24,6 @@ Liens : [[Valeur propre]], [[Matrice orthogonale]], [[Rang d'une matrice]], [[An
 
 ## À vérifier
 
-- [[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] : coquille $V^r$ pour $V^T$, et une taille « $n \times m$ » contre $m \times n$ ailleurs.
+- [[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] : coquille $V^r$ pour $V^T$, et une taille « $n \times m$ » contre $m \times n$ ailleurs.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]], [[13 - Principal Components Analysis (résumé)]]

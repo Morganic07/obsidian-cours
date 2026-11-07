@@ -18,4 +18,4 @@ Voir aussi : [[Écrit d'écran]].
 
 - Le terme français « littératie numérique » n'est pas dans le cours ; le nom de page pourrait être « Digital literacy ».
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

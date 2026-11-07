@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [change mode, chmod]
 matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Permissions Unix]].
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

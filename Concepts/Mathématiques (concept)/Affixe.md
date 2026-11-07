@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [plan complexe, géométrie dans le plan complexe]
 matieres: [Outil Maths]
-sources: ["[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ $\overrightarrow{AB}$ a pour affixe $z_B - z_A$, $\vec u + \vec v$ a pour affixe
 
 Notion parente : [[Nombre complexe]]. Voir aussi : [[Forme trigonométrique et exponentielle]].
 
-Résumés : [[chp 5 - Complexes (résumé)]]
+Résumés : [[5 - Complexes (résumé)]]

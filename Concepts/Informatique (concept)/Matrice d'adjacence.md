@@ -1,8 +1,12 @@
 ---
 type: concept
-tags: [year4]
-aliases: [adjacency matrix]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - adjacency matrix
+sources:
+  - "[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +22,4 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Graphe pondéré]], [[D
 
 - Dans le TP, `if (mat[i] < mat[j])` compare deux lignes de la matrice et non des indices (relevé du résumé).
 
-Résumés : [[chp 1 - Undirected graph (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]], [[0 - Graph - Python (résumé)]]

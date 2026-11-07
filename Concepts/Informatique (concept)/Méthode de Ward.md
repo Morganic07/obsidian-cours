@@ -18,4 +18,4 @@ Notion parente : [[Classification hiérarchique ascendante]]. Voir aussi : [[Ine
 
 - Le cours écrit « minimal loose of Iw » : il faut lire perte (*loss*) minimale.
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

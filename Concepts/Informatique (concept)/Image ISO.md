@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [ISO image, fichier ISO]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Fichier contenant une copie complète et exacte d'un disque optique (CD, DVD, Bl
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Clé USB amorçable]], [[Machine virtuelle]], [[Disque optique]].
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

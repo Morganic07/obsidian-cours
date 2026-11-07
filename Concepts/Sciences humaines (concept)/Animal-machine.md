@@ -14,8 +14,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 5 - philo (résumé)|philo 3]]"
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[5 - philo (résumé)|philo 3]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -31,6 +31,6 @@ Au XVIIIe siècle, Kant (1790) distingue l'organisme de la machine : adaptabilit
 
 Le cours précise que la domination de la nature, souvent attribuée à Descartes, est nuancée : seul Dieu est maître de la nature, et la Genèse ne fait pas de l'homme un dominateur absolu (lettre à Chanut, 1647).
 
-Voir aussi : [[Quatre causes d'Aristote]], [[Progrès technique]], et [[chp 4 - imaginaires automobile (résumé)]] en SHS, où la voiture devient un double de l'humain. Notions voisines : [[Organisme et machine]], [[Révolution scientifique]], [[Finalisme]].
+Voir aussi : [[Quatre causes d'Aristote]], [[Progrès technique]], et [[4 - imaginaires automobile (résumé)]] en SHS, où la voiture devient un double de l'humain. Notions voisines : [[Organisme et machine]], [[Révolution scientifique]], [[Finalisme]].
 
-Résumés : [[chp 5 - philo (résumé)|philo 3 (résumé)]], [[chp 7 - philo (résumé)|philo 5 (résumé)]]
+Résumés : [[5 - philo (résumé)|philo 3 (résumé)]], [[7 - philo (résumé)|philo 5 (résumé)]]

@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
+  - "[[3 - philo (résumé)|philo 1]]"
 maj: 2026-11-07
 ---
 
@@ -20,4 +20,4 @@ Voir aussi : [[Progrès technique]].
 
 La phrase de la note est trop brève pour être exploitable ; le sens usuel de l'expression (une difficulté qui n'arrête que les ignorants) diffère de celui que donne la note.
 
-Résumés : [[chp 3 - philo (résumé)]]
+Résumés : [[3 - philo (résumé)]]

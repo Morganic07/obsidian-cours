@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [sampling, random sampling, échantillon aléatoire, simple random sample, stratified sampling, cluster sampling, systematic sampling, biais d'échantillonnage, sampling bias, iid, independent and identically distributed, variables iid, convenience sampling, échantillon de convenance, échantillonnage de convenance]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[chp 1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Un échantillon est une partie de la population, tirée pour estimer un paramèt
 
 Liens : [[Population et échantillon]], [[Erreur d'échantillonnage]], [[Tirage avec et sans remise]], [[Distribution d'échantillonnage]], [[Estimateur]]
 
-Résumés : [[chp 1 - Intro to statistics (résumé)]], [[chp 3 - More on probability (résumé)]], [[Séance 4 - Estimation (résumé)]]
+Résumés : [[1 - Intro to statistics (résumé)]], [[3 - More on probability (résumé)]], [[4 - Estimation (résumé)]]

@@ -17,4 +17,4 @@ Algorithme de construction d'[[Arbre de décision]], descendant de l'[[Algorithm
 
 Notion parente : [[Arbre de décision]]. Voir aussi : [[Algorithme ID3]], [[Prétraitement des données]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

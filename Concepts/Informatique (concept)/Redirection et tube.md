@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year2]
-aliases: [redirection, redirections, pipe, tube, pattern matching shell]
-matieres: [Operating System]
-sources: ["[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"]
+tags:
+  - year2
+aliases:
+  - redirection
+  - redirections
+  - pipe
+  - tube
+  - pattern matching shell
+matieres:
+  - Operating System
+sources:
+  - "[[2 - TP2 (résumé)|Cours TP2]]"
+  - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +27,4 @@ Mécanismes du shell vus au TP2, qui reposent sur des [[Méta-caractère|méta-c
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Shell et Bash]], [[Script Bash]], [[AWK]], [[Joker (wildcard)]], [[Tâche en arrière-plan]], [[Commande grep]], [[Commande wc]], [[Commande sort]]
 
-Résumés : [[Séance TP2 (résumé)]], [[TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[2 - TP2 (résumé)]], [[TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]

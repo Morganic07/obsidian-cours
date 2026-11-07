@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [matrice carrée, matrices carrées, matrice nulle]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp 4 - Algèbre linéaire (résumé)|chp4]]"]
+sources: ["[[4 - Algèbre linéaire (résumé)|chp4]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Matrices particulières : carrée d'ordre $n$, diagonale (coefficients nuls hors
 
 Voir aussi : [[Produit matriciel]], [[Transposée]], [[Matrice d'une application linéaire]], [[Déterminant]].
 
-Résumés : [[chp 4 - Algèbre linéaire (résumé)]]
+Résumés : [[4 - Algèbre linéaire (résumé)]]

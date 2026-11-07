@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year3]
-aliases: [central limit theorem, CLT, TCL, asymptotiquement normale, asymptotically normal]
-matieres: [Statistics, Probability]
-sources: ["[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]", "[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
+tags:
+  - year3
+aliases:
+  - central limit theorem
+  - CLT
+  - TCL
+  - asymptotiquement normale
+  - asymptotically normal
+matieres:
+  - Statistics
+  - Probability
+sources:
+  - "[[3 - More on probability (résumé)|Chp3 - More on probability]]"
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +26,4 @@ $E(\bar{X}) = \mu$, $\mathrm{SD}(\bar{X}) = \sigma/\sqrt{n}$, $E(T) = n\mu$, $\m
 
 Liens : [[Approximation normale]], [[Loi des grands nombres]], [[Échantillonnage]], [[Distribution d'échantillonnage]]
 
-Résumés : [[chp 3 - More on probability (résumé)]], [[chp 4 - Part 1 - Inferential statistics (résumé)]], [[chp 4 - Part 3 - Inferential statistics (résumé)]]
+Résumés : [[3 - More on probability (résumé)]], [[4 - Inferential statistics 1 (résumé)]], [[4 - Inferential statistics 3(résumé)]]

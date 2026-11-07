@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [correlation circle, PCA graph of variables, cercle de corrélation]
-sources: ["[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
+sources: ["[[13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Analyse en composantes principales]]. Voir aussi : [[Covarian
 
 La règle des angles ne vaut que pour des variables bien représentées dans le plan (ici 50 % de la variance) : complément apporté par le résumé, absent du cours.
 
-Résumés : [[Séance 13 - PCA in R (résumé)]]
+Résumés : [[13 - PCA in R (résumé)]]

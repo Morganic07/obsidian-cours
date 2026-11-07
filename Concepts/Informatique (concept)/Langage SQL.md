@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year3]
-aliases: [SQL, DDL, DML, requête SQL, requêtes SQL, Structured Query Language]
-matieres: [Data base, ligue football]
-sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]", "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"]
+tags:
+  - year3
+aliases:
+  - SQL
+  - DDL
+  - DML
+  - requête SQL
+  - requêtes SQL
+  - Structured Query Language
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[2 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"
+  - "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +37,4 @@ Liens : [[Algèbre relationnelle]], [[Clé primaire et clé étrangère]]
 
 - Le DDL du rapport du projet n'est pas exécutable tel quel (guillemets doubles, virgules).
 
-Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[readme (résumé)|readme (résumé)]], [[sujet database (résumé)|sujet database (résumé)]]
+Résumés : [[2 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[readme (résumé)|readme (résumé)]], [[sujet database (résumé)|sujet database (résumé)]]

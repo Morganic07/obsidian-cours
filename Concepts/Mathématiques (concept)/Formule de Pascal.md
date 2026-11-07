@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [relation de Pascal, triangle de Pascal]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Dénombrement]]. Voir aussi : [[Coefficient binomial]], [[Ré
 
 - Chapitre 5 - Complexes : la ligne « 1 1 » manque dans l'image (alerte de transcription).
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[chp 5 - Complexes (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[5 - Complexes (résumé)]]

@@ -14,4 +14,4 @@ Nommé dans AlgoID1 sans définition, comme caractéristique de Python (« Inter
 
 Notion parente : [[Langage Python]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

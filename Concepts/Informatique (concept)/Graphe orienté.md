@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [graphes orientés, oriented graph, directed graph, graphe dirigé, degré entrant, degré sortant, arc, arcs, degré rentrant]
 matieres: [graph theory, Algo]
-sources: ["[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]", "[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
+sources: ["[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]", "[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -21,6 +21,6 @@ Voir aussi : [[Graphe non orienté]], [[Complexité algorithmique]], [[Chemin (g
 
 ## À vérifier
 
-- L'exemple de DFS du cours de graph theory contient $0 \to 4$ et $4 \to 0$ : graphe orienté au sens large, pas « oriented graph » au sens strict (relevé du résumé [[chp 4 - oriented graphs (résumé)]]).
+- L'exemple de DFS du cours de graph theory contient $0 \to 4$ et $4 \to 0$ : graphe orienté au sens large, pas « oriented graph » au sens strict (relevé du résumé [[4 - oriented graphs (résumé)]]).
 
-Résumés : [[chp 4 - oriented graphs (résumé)]], [[chp 3 - Arbres (résumé)]]
+Résumés : [[4 - oriented graphs (résumé)]], [[3 - Arbres (résumé)]]

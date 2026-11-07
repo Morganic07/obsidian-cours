@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Cramer's rule, Cramer’s Rule, formules de Cramer, Cramer]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
+tags:
+  - year2
+aliases:
+  - Cramer's rule
+  - Cramer’s Rule
+  - formules de Cramer
+  - Cramer
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Determinants (résumé)|Chp 0c - Determinants]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +24,4 @@ Notion parente : [[Déterminant]]. Voir aussi : [[Système linéaire]].
 
 L'hypothèse « $A$ inversible » n'a pas été relue dans l'image du théorème.
 
-Résumés : [[chp 0c - Determinants (résumé)]]
+Résumés : [[0 - Determinants (résumé)]]

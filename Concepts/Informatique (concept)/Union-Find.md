@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year4]
-aliases: [union par rang, find_parent]
-matieres: [graph theory]
-sources: ["[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - union par rang
+  - find_parent
+matieres:
+  - graph theory
+sources:
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +20,4 @@ Notion parente : [[Algorithme de Kruskal]]. Voir aussi : [[Récursivité]].
 
 - Le nom « Union-Find » n'est pas dans le cours, qui ne nomme que `find_parent`, `union` et l'union par rang.
 
-Résumés : [[Graph - Python (résumé)]]
+Résumés : [[0 - Graph - Python (résumé)]]

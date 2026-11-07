@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [partition de E]
 matieres: [Outil Maths]
-sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Opérations sur les ensembles]].
 
 - Le PDF du chapitre 3 (diapositive 19) omet la condition « parties non vides ».
 
-Résumés : [[Chapitre2-Ensemble (4) (résumé)]], [[chp 2 - ensembles (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[3 - pdf (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]

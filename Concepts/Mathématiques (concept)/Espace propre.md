@@ -9,9 +9,9 @@ aliases:
   - espaces propres
   - sous-espace propre
 sources:
-  - "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -24,4 +24,4 @@ L'espace propre de $A$ associé à $\lambda$ est l'ensemble des solutions de $(A
 
 Notion parente : [[Valeur propre]]. Voir aussi : [[Vecteur propre]], [[Multiplicité d'une valeur propre]], [[Espace nul]], [[Diagonalisation]], [[Matrice symétrique]], [[Somme directe]]
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]]

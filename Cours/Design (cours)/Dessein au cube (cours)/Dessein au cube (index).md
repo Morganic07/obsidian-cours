@@ -15,10 +15,10 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 | Note | Rôle | Résumé |
 |---|---|---|
 | [[Untitled document (résumé)\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
-| [[chp 1 - inégalités alimentaires (résumé)\|Inégalités alimentaires]] | Problématique et questions | [[chp 1 - inégalités alimentaires (résumé)\|Résumé]] |
-| [[chp 2 - pistes entrevues (résumé)\|Pistes entrevue]] | Méthode d'entretien | [[chp 2 - pistes entrevues (résumé)\|Résumé]] |
+| [[1 - inégalités alimentaires (résumé)\|Inégalités alimentaires]] | Problématique et questions | [[1 - inégalités alimentaires (résumé)\|Résumé]] |
+| [[2 - pistes entrevues (résumé)\|Pistes entrevue]] | Méthode d'entretien | [[2 - pistes entrevues (résumé)\|Résumé]] |
 | [[retranscription (résumé)\|retranscription]] et [[retranscription (résumé)\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
-| [[chp 3 - Compte rendu (résumé)\|Compte rendu]] | Rapport de l'enquête | [[chp 3 - Compte rendu (résumé)\|Résumé]] |
+| [[3 - Compte rendu (résumé)\|Compte rendu]] | Rapport de l'enquête | [[3 - Compte rendu (résumé)\|Résumé]] |
 | [[Synthèse (résumé)\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
 
 ## Concepts

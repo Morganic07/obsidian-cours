@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [sequential search]
-sources: ["[[chp 3 - complexité (résumé)|chp3 - complexité]]"]
+sources: ["[[3 - complexité (résumé)|chp3 - complexité]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Notion parente : [[Complexité algorithmique]]. Voir aussi : [[Recherche dichoto
 
 - Le terme « sequential search » n'est pas dans le cours, rédigé en français.
 
-Résumés : [[chp 3 - complexité (résumé)]]
+Résumés : [[3 - complexité (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [réciproque d'une implication]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Sa négation est « $P$ et non $Q$ » (exercice 8). L'exercice 5 de la feuille t
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Condition nécessaire et suffisante]], [[Preuve par contraposition]].
 
-Résumés : [[chp 1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]

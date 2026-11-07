@@ -20,4 +20,4 @@ Désaccord de convention entre les sources :
 - le code de [[AVL momo (résumé)|AVL momo]] et de [[qui dit quoi AVL (résumé)|qui dit quoi AVL]] renvoie 0 pour l'arbre vide ;
 - [[qui dit quoi AVL (résumé)|qui dit quoi AVL]] définit la hauteur comme la distance à la racine, ce qui correspond à la profondeur.
 
-Résumés : [[chp 3 - Arbres (résumé)]], [[chp 4 - Arbres binaires (résumé)]], [[chp 6 - AVL (résumé)]], [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]]
+Résumés : [[3 - Arbres (résumé)]], [[4 - Arbres binaires (résumé)]], [[6 - AVL (résumé)]], [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]]

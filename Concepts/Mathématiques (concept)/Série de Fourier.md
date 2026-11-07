@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [séries de Fourier, Fourier series, coefficients de Fourier, phénomène de Gibbs, Gibbs phenomenon, égalité de Parseval, Parseval's identity, square wave, fonction créneau]
 matieres: [Séries]
-sources: ["[[chp 6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"]
+sources: ["[[6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Convention du cours : la série commence par $a_0$ (la moyenne), non par $a_0/2$
 
 Liens : [[Intégrale]], [[Convergence uniforme]], [[Fonction continue par morceaux]], [[Fonction périodique]], [[Fonction paire et impaire]]
 
-Résumé : [[chp 6 - Fourier Series (résumé)]]
+Résumé : [[6 - Fourier Series (résumé)]]

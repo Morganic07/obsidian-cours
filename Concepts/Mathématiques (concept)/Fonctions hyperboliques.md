@@ -14,9 +14,9 @@ matieres:
   - Analyse Maths
   - Séries
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
-  - "[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
-  - "[[chp 5 - power series (résumé)|Chp5 - power series]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
+  - "[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
+  - "[[5 - power series (résumé)|Chp5 - power series]]"
 maj: 2026-11-06
 ---
 
@@ -28,4 +28,4 @@ Nommées dans les cours sans définition ni propriétés.
 
 Voir aussi : [[Comparaison asymptotique]], [[Développement limité]], [[Série entière]].
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[chp 0 - Revision chapter (résumé)]], [[chp 5 - power series (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[0 - Revision chapter (résumé)]], [[5 - power series (résumé)]]

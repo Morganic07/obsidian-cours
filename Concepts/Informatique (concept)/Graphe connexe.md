@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [connected graph, composante connexe, connected component]
 matieres: [graph theory]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
+sources: ["[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Chaîne (graphe)]], [[P
 
 - Le cours définit la connexité par un « path », alors que le chapitre définit des chaînes.
 
-Résumés : [[chp 1 - Undirected graph (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]]

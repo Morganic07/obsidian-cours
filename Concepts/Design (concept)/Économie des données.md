@@ -13,4 +13,4 @@ Exemple du cours : pour une application de nature, identifier une plante, c'est 
 
 Voir aussi : [[Travail invisible des utilisateurs]], [[Traces numériques]], [[Impératif de productivité]], [[Logique du marché]].
 
-Résumés : [[chp 4 - sémiotique (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]]

@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [shell, Bash, bash, Bourne-Again Shell, interpréteur de commandes]
-matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+tags:
+  - year2
+aliases:
+  - shell
+  - Bash
+  - bash
+  - Bourne-Again Shell
+  - interpréteur de commandes
+matieres:
+  - Operating System
+sources:
+  - "[[5 - OS (résumé)|OS - chp 5]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +27,4 @@ Commandes de base vues : `ls`, `cd` (`..`, `~`, `-`), `pwd`, `mkdir -p`, `touch`
 
 Voir aussi : [[Interface en ligne de commande]], [[Bourne Shell (sh)]], [[Shell dash]], [[Shell rbash]], [[Fichier shells]], [[Méta-caractère]], [[Permissions Unix]], [[Redirection et tube]], [[Script Bash]], [[Tâche planifiée cron]], [[AWK]]
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]]

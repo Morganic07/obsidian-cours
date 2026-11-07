@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [probability plot, normal probability plot, diagramme de probabilité normal, Weibull probability plot, diagramme de Weibull, Q-Q plot, qqnorm, QQ plot]
 matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ On trace les $n$ points $(x_{(i)}, y_i)$ : $x_{(i)}$ est la $i$-ème plus petite
 
 Liens : [[Loi normale]], [[Quartiles et valeurs aberrantes]], [[Forme d'une distribution]]
 
-Résumés : [[chp 3 - More on probability (résumé)]], [[Séance 10 - linear regression (résumé)]], [[Summary functions in RStudio (résumé)]]
+Résumés : [[3 - More on probability (résumé)]], [[10 - linear regression (résumé)]], [[14 - functions in RStudio (résumé)]]

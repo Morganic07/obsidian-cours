@@ -29,4 +29,4 @@ maj: 2026-11-06
 
 Notion parente : [[Atelier de co-conception]]. Voir aussi : [[Brise-glace]], [[Moodboard]], [[Intelligence collective]].
 
-Résumés : [[englis (résumé)]], [[EDOSSAH (résumé)]], [[chp 2 - UX (résumé)]], [[Santé au travail (résumé)]]
+Résumés : [[englis (résumé)]], [[EDOSSAH (résumé)]], [[2 - UX (résumé)]], [[Santé au travail (résumé)]]

@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Le cours oppose aussi [[IA sémantique]] et IA générative, sans développer.
 
 Notion parente : [[World Wide Web]]. Voir aussi : [[IA sémantique]]
 
-Résumé : [[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note (résumé)]]
+Résumé : [[1 - Culture du vivant (résumé)|Culture du vivant - prise de note (résumé)]]

@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ La technique est la mise à disposition des moyens en vue des fins ; elle libèr
 
 Voir aussi : [[Progrès technique]], [[Technè, praxis et épistémè]], [[Désir]], [[Homo faber]].
 
-Résumés : [[chp 2 - philo (résumé)]]
+Résumés : [[2 - philo (résumé)]]

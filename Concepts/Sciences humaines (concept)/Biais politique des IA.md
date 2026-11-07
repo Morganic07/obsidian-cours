@@ -7,7 +7,7 @@ aliases:
   - political compass
   - positionnement politique des IA
 sources:
-  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
+  - "[[1 - IA (résumé)|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Voir aussi : [[Intelligence artificielle]].
 - Le tableau Californiens / Européens / Asiatiques présente des opinions sans méthode ni source.
 - Les placements ont été lus sur la transcription.
 
-Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[1 - IA (résumé)|Cours 1 (IA, résumé)]]

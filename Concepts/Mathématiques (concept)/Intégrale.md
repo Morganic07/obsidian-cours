@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year2]
-aliases: [intégrales, fonction en escalier, fonctions en escalier, méthode des rectangles, intégrale d'une fonction en escalier, intégrale d'une fonction continue, fonction en escalier adaptée]
-matieres: [Analyse, Analyse Maths, Analyse dans Rn, Probability, Séries]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
+tags:
+  - year2
+aliases:
+  - intégrales
+  - fonction en escalier
+  - fonctions en escalier
+  - méthode des rectangles
+  - intégrale d'une fonction en escalier
+  - intégrale d'une fonction continue
+  - fonction en escalier adaptée
+matieres:
+  - Analyse
+  - Analyse Maths
+  - Analyse dans Rn
+  - Probability
+  - Séries
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[1 - démonstrations (résumé)|démonstrations - integration]]"
+  - "[[0 - Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"
 maj: 2026-11-06
 ---
 
@@ -30,6 +46,6 @@ Liens : [[Primitive]], [[Limite et continuité]], [[Application lipschitzienne]]
 
 ## À vérifier
 
-- Dans les preuves de [[démonstrations - integration (résumé)|démonstrations - integration]], plusieurs « = » sont à lire « ≤ », et $f(x) \le f(c)/2$ à lire $f(x) \ge f(c)/2$ (relevé du résumé, points 1 à 3).
+- Dans les preuves de [[1 - démonstrations (résumé)|démonstrations - integration]], plusieurs « = » sont à lire « ≤ », et $f(x) \le f(c)/2$ à lire $f(x) \ge f(c)/2$ (relevé du résumé, points 1 à 3).
 
-Résumés : [[TD7-integration (1) (résumé)]] (exercices, dont Wallis et sommes de Riemann), [[chp 7 - Integration (résumé)]], [[démonstrations - integration (résumé)]], [[Intégration UTILITAIRE (résumé)]], [[chp 5 - Continuous random variable (résumé)]]
+Résumés : [[TD7-integration (1) (résumé)]] (exercices, dont Wallis et sommes de Riemann), [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[5 - Continuous random variable (résumé)]]

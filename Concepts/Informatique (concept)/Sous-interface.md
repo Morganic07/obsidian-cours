@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [subinterface, sub-interface, sous-interfaces, config-subif]
 matieres: [Computer Network]
-sources: ["[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[VLAN]]. Voir aussi : [[Encapsulation 802.1Q]].
 
 - Le cours écrit `ip 192.168.10.254 255.255.255.0` au lieu de `ip address ...`.
 
-Résumés : [[chp 4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[4 - VLAN ／ IVR Commands (résumé)]]

@@ -10,4 +10,4 @@ Dans le cours de data mining, les variables indépendantes (prédictives ou expl
 
 Notion parente : [[Apprentissage supervisé]].
 
-Résumés : [[séance data mining du prof (résumé)]]
+Résumés : [[1 - pdf du prof (résumé)]]

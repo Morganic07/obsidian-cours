@@ -14,4 +14,4 @@ Voir aussi : [[Freemium]], [[Typologie des innovations]].
 
 - Notion proche, mais distincte, de l'« appât et hameçon » de [[Typologie des innovations]] : ne pas fusionner sans source.
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

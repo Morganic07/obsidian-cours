@@ -12,4 +12,4 @@ Proposition : une application strictement monotone dont l'ensemble de départ es
 
 Notion parente : [[Relation d'ordre]]. Voir aussi : [[Injectivité et surjectivité]].
 
-Résumés : [[Chapitre3-Relation binaire (résumé)]]
+Résumés : [[3 - pdf (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [integral test, critère de l'intégrale, comparaison série intégrale]
-sources: ["[[chp 1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
+sources: ["[[1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Elle sert aussi à encadrer le reste de la série.
 
 Notion parente : [[Série numérique]]. Voir aussi : [[Intégrale]], [[Reste d'une série]].
 
-Résumés : [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)]], [[chp 2 - Alternating and absolutly convergent series (résumé)]]
+Résumés : [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]]

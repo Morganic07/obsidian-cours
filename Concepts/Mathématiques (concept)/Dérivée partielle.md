@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [dérivées partielles, partial derivative, partial derivatives, Schwarz, dérivées croisées, dérivée seconde partielle, "dérivées d'ordre 2"]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Différentielle]]. Voir aussi : [[Théorème de Schwarz]], [[
 
 - Définition 1 du Chp 4 : $a \in \mathbb{R}^p$ au lieu de $a \in U$ (résumé Chp 4, point 5).
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]], [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]], [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[5 - Calcul différentiel d'ordre supérieur (résumé)]], [[2 - intégrales multiples (résumé)]]

@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [sudo, superuser do]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]", "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"]
+tags:
+  - year2
+aliases:
+  - sudo
+  - superuser do
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[TP1 (résumé)|TP1]]"
+  - "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +18,4 @@ maj: 2026-11-06
 
 Notion parente : [[Super-utilisateur root]]. Voir aussi : [[Fichier sudoers]], [[Commande su]], [[APT]].
 
-Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP6-Assignment (résumé)]]

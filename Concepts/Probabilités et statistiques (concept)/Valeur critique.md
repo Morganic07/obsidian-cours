@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [critical value, valeurs critiques, région de rejet, rejection region, zone de rejet, region of rejection]
-sources: ["[[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]", "[[Séance 6 - T-Test (résumé)|Cours 6 - T-Test]]"]
+sources: ["[[5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]", "[[6 - T-Test (résumé)|Cours 6 - T-Test]]"]
 maj: 2026-11-06
 ---
 
@@ -15,6 +15,6 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Seuil de signification]],
 ## À vérifier
 
 - La règle de rejet est énoncée à l'envers dans Cours 11 et 12 (Data analysis).
-- La colonne 0,005 de la table du $\chi^2$ de [[Séance 8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]] est fausse.
+- La colonne 0,005 de la table du $\chi^2$ de [[8 - Chi²-Test (résumé)|Cours 8 - Chi²-Test]] est fausse.
 
-Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 8 - Chi²-Test (résumé)]], [[Séance 10 - linear regression (résumé)]], [[Séance 12 - ANOVA and F-statistic (résumé)]], [[chp 4 - Part 3 - Inferential statistics (résumé)]]
+Résumés : [[5 - Hypothesis Testing (résumé)]], [[6 - T-Test (résumé)]], [[8 - Chi²-Test (résumé)]], [[10 - linear regression (résumé)]], [[12 - ANOVA and F-statistic (résumé)]], [[4 - Inferential statistics 3(résumé)]]

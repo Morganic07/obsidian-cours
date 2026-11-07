@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [inégalité triangulaire généralisée, triangle inequality]
-matieres: [Analyse Maths, Outil Maths, Analyse, Analyse dans Rn]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]", "[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]", "[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - inégalité triangulaire généralisée
+  - triangle inequality
+matieres:
+  - Analyse Maths
+  - Outil Maths
+  - Analyse
+  - Analyse dans Rn
+sources:
+  - "[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]"
+  - "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]"
+  - "[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +36,4 @@ Notion parente : [[Valeur absolue]]. Voir aussi : [[Norme]], [[Nombre complexe]]
 - Le texte extrait du TD Relations ne contient pas l'expression « inégalité triangulaire » (accents ou mise en page) : l'usage vient du résumé.
 - Cas d'égalité (Chp 2) : le cours écrit $x=\lambda y$ avec $\lambda\in\mathbb{R}$, il faut $\lambda \ge 0$ (résumé Chp 2, point 1).
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[chp 5 - Complexes (résumé)]], [[TDRelations (résumé)]], [[chp 7 - Integration (résumé)]], [[chp 2 - éléments de topologie dans Rn (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[5 - Complexes (résumé)]], [[TDRelations (résumé)]], [[1 - Integration (résumé)]], [[2 - éléments de topologie dans Rn (résumé)]]

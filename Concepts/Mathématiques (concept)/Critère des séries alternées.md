@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [alternating series test, critère spécial des séries alternées]
-sources: ["[[chp 2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
+sources: ["[[2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ La p-série alternée $\sum \frac{(-1)^n}{n^p}$ converge si et seulement si $p >
 
 Notion parente : [[Série numérique]]. Voir aussi : [[Reste d'une série]], [[Convergence conditionnelle]].
 
-Résumés : [[chp 2 - Alternating and absolutly convergent series (résumé)]]
+Résumés : [[2 - Alternating and absolutly convergent series (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Principal Axes Theorem, principal axes, axes principaux]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Forme quadratique]]. Voir aussi : [[Matrice orthogonale]], [[
 
 La forme exacte « $\mathbf{y}^TD\mathbf{y}$ » est dans l'image du théorème, à relire.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

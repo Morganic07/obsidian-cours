@@ -8,8 +8,8 @@ aliases:
   - standard matrix
   - matrice standard
 sources:
-  - "[[chp 4 - Algèbre linéaire (résumé)|chp4]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre Linéaire)]]"
+  - "[[4 - Algèbre linéaire (résumé)|chp4]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre Linéaire)]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Matrice]]. Voir aussi : [[Transformation linéaire]], [[Chang
 
 - chp4 écrit « les coordonnées dans B' des vecteurs de B » au lieu des images par $f$ ; les sections « Matrice d'une application », « Calcul de l'image d'un vecteur » et « Application » sont vides dans l'export.
 
-Résumés : [[chp 4 - Algèbre linéaire (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé) (Algèbre Linéaire)]]
+Résumés : [[4 - Algèbre linéaire (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé) (Algèbre Linéaire)]]

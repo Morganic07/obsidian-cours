@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [covariance, correlation coefficient, coefficient de corrélation, variables non corrélées, uncorrelated, combinaison linéaire de variables aléatoires, linear combination of rvs, Covariance shortcut formula, distributive property of covariance, correlation versus causation, corrélation de Pearson, coefficient de corrélation de Pearson, Pearson correlation, "coefficient d'échantillon r"]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
+sources: ["[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]", "[[9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Loi conjointe]]. Voir aussi : [[Espérance et variance]], [[C
 - Cours 9 (Data analysis) : $\rho$ « compris strictement entre −1 et 1 », alors que $\pm 1$ sont atteints (relations parfaites).
 - Cours 9 (Data analysis) : Pearson, test paramétrique, « ne s'emploie que » si $x$ et $y$ viennent de lois normales.
 
-Résumés : [[chp 6 - Joint probability distributions (résumé)]], [[chp 3 - More on probability (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[6 - Joint probability distributions (résumé)]], [[3 - More on probability (résumé)]], [[9 - Covariance and Correlation (résumé)]], [[0 - proba&stats utilitaire (résumé)]]

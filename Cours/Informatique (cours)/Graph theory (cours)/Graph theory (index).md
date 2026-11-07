@@ -1,7 +1,13 @@
 ---
 type: matiere
-tags: [year4]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[chp 2 - tree (résumé)|Chp2 - tree]]", "[[chp 3 - complexité (résumé)|chp3 - complexité]]", "[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+sources:
+  - "[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"
+  - "[[2 - tree (résumé)|Chp2 - tree]]"
+  - "[[3 - complexité (résumé)|chp3 - complexité]]"
+  - "[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -11,11 +17,11 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - Undirected graph (résumé)\|Chp 1 - Undirected graph]] | Définitions, graphes particuliers | [[chp 1 - Undirected graph (résumé)\|Résumé]] |
-| [[chp 2 - tree (résumé)\|Chp2 - tree]] | Arbres, arbre couvrant minimal, Kruskal | [[chp 2 - tree (résumé)\|Résumé]] |
-| [[chp 3 - complexité (résumé)\|chp3 - complexité]] | Complexité, $O$, $\Omega$, $\Theta$ | [[chp 3 - complexité (résumé)\|Résumé]] |
-| [[chp 4 - oriented graphs (résumé)\|chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[chp 4 - oriented graphs (résumé)\|Résumé]] |
-| [[Graph - Python (résumé)\|Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[Graph - Python (résumé)\|Résumé]] |
+| [[1 - Undirected graph (résumé)\|Chp 1 - Undirected graph]] | Définitions, graphes particuliers | [[1 - Undirected graph (résumé)\|Résumé]] |
+| [[2 - tree (résumé)\|Chp2 - tree]] | Arbres, arbre couvrant minimal, Kruskal | [[2 - tree (résumé)\|Résumé]] |
+| [[3 - complexité (résumé)\|chp3 - complexité]] | Complexité, $O$, $\Omega$, $\Theta$ | [[3 - complexité (résumé)\|Résumé]] |
+| [[4 - oriented graphs (résumé)\|chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[4 - oriented graphs (résumé)\|Résumé]] |
+| [[0 - Graph - Python (résumé)\|Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[0 - Graph - Python (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -27,11 +33,11 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 
 ## À revoir en priorité avant un examen
 
-- [[chp 3 - complexité (résumé)]] : l'algorithme D en $O(m \cdot n)$ est noté « linéaire » ; `somme_1` et `somme_2` ne calculent pas la même somme.
-- [[chp 1 - Undirected graph (résumé)]] : la note « 2 noeuds minimum » pour un graphe biparti contredit la définition.
+- [[3 - complexité (résumé)]] : l'algorithme D en $O(m \cdot n)$ est noté « linéaire » ; `somme_1` et `somme_2` ne calculent pas la même somme.
+- [[1 - Undirected graph (résumé)]] : la note « 2 noeuds minimum » pour un graphe biparti contredit la définition.
 
 ## Liens avec les autres matières
 
-- **[[Algo Maths (index)]]** : les [[Tours de Hanoï]] et l'[[Algorithme glouton]] y sont introduits.
-- **Algo (Year 2)** : [[Récursivité]], [[Recherche dichotomique]] et la complexité y sont traitées avec [[Complexité algorithmique]]. Son chapitre 3 rappelle aussi [[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Sous-graphe]] et [[Arbre (théorie des graphes)]] : [[Algo (index)]].
+- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : les [[Tours de Hanoï]] et l'[[Algorithme glouton]] y sont introduits.
+- **Algo (Year 2)** : [[Récursivité]], [[Recherche dichotomique]] et la complexité y sont traitées avec [[Complexité algorithmique]]. Son chapitre 3 rappelle aussi [[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Sous-graphe]] et [[Arbre (théorie des graphes)]] : [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]].
 - **[[Algèbre linéaire (index)]]** : le [[Produit matriciel]], dont le chapitre 3 calcule la complexité.

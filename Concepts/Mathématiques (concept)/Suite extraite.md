@@ -12,4 +12,4 @@ Si $u_n \to \ell$, toute suite extraite tend vers $\ell$. Si $u_{2n}$ et $u_{2n+
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Caractérisation séquentielle de la limite]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]

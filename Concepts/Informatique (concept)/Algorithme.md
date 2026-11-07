@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Algo Maths
 sources:
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
 maj: 2026-11-06
 ---
@@ -19,4 +19,4 @@ AlgoID1 reprend la définition de Cormen et al. (source principale du cours) : �
 
 Voir aussi : [[Correction d'un algorithme]], [[Pseudo-code]], [[Programmation modulaire]], [[Récursivité]].
 
-Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[AlgoID1 (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[0 - diapo prof (résumé)]]

@@ -17,9 +17,9 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -34,4 +34,4 @@ Il est défini implicitement, par une condition : trouver ses vecteurs demande d
 
 Notion parente : [[Sous-espaces fondamentaux]] (Bilinear Algebra), [[Transformation linéaire]] (Algèbre linéaire). Voir aussi : [[Système linéaire homogène]], [[Variable libre]], [[Théorème du rang]], [[Valeur propre]], [[Espace des colonnes]], [[Rang d'une matrice]], [[Transformation linéaire]], [[Sous-espaces fondamentaux]], [[Espace propre]], [[Injectivité et surjectivité]]
 
-Résumés : [[chp 0d - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[chp 7 - Algèbre linéaire (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[7 - Algèbre linéaire (résumé)]]

@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 6 - philo (résumé)|philo 4]]"
+  - "[[6 - philo (résumé)|philo 4]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Le cours distingue trois courants :
 
 Voir aussi : [[Progrès technique]], [[Progrès moral]].
 
-Résumés : [[chp 6 - philo (résumé)]]
+Résumés : [[6 - philo (résumé)]]

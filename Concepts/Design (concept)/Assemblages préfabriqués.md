@@ -13,4 +13,4 @@ Exemple du cours : dans une application de nature, le feed, le profil, les métr
 
 Notion parente : [[Architexte]].
 
-Résumés : [[chp 4 - sémiotique (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]]

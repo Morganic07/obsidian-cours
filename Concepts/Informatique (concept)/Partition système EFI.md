@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [EFI system partition, partition EFI, Reserved BIOS boot area]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommée dans le chapitre 3 sans définition : la partition système EFI figure p
 
 Notion parente : [[Partitions Linux]]. Voir aussi : [[BIOS et UEFI]].
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

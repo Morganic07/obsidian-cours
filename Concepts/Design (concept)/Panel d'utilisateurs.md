@@ -12,4 +12,4 @@ Taille : cinq utilisateurs détectent environ 80 % des problèmes d'utilisabilit
 
 Notion parente : [[Test utilisateur]]. Voir aussi : [[Questionnaire]].
 
-Résumés : [[chp 1 - UX (résumé)]]
+Résumés : [[1 - UX (résumé)]]

@@ -12,4 +12,4 @@ Avec plusieurs groupes : inertie **intra-classe** $I_W = \sum_k I_k$, inertie **
 
 Notion parente : [[Clustering]]. Voir aussi : [[Centroïde]], [[K-moyennes]], [[Méthode de Ward]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

@@ -18,4 +18,4 @@ Voir aussi : [[Voiture autonome]].
 
 - Le texte anglais dit « the weird and the wonderful » ; la traduction « étrange et merveilleux » est celle du résumé.
 
-Résumés : [[chp 5 - imaginaires de l'automobile (résumé)]]
+Résumés : [[5 - imaginaires de l'automobile (résumé)]]

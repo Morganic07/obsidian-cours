@@ -14,4 +14,4 @@ Notion parente : [[Partie entière]]. Voir aussi : [[Densité de ℚ dans ℝ]].
 
 - Chap1 est scanné : contenu relevé d'après le résumé.
 
-Résumés : [[chp 1 - reels (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]]

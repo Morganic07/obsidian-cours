@@ -18,4 +18,4 @@ Notion parente : [[Typologie des innovations]]. Voir aussi : [[Value(s) Design]]
 
 - Chiffres du diaporama, sans source.
 
-Résumés : [[chp 1 - innovation (résumé)]]
+Résumés : [[1 - innovation (résumé)]]

@@ -14,4 +14,4 @@ Notion parente : [[Règles de calcul sur les inégalités]]. Voir aussi : [[Iné
 
 - Chap0 est scanné : contenu relevé d'après le résumé.
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]]

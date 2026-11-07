@@ -5,7 +5,7 @@ tags:
 aliases:
   - two's complement
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-07
 ---
 
@@ -17,4 +17,4 @@ Nommé dans le premier chapitre de C++ sans explication : le cours dit seulement
 
 Notion parente : [[Type primitif]]. Voir aussi : [[Norme IEEE 754]].
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

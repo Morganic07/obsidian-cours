@@ -14,4 +14,4 @@ Nommé dans UX Research - Observation - 2026 ([[Raw/Year 3/Affordance/UX Researc
 
 Voir aussi : [[Observation de terrain]], [[Effet de halo]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

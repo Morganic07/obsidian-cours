@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 4 - philo (résumé)|philo 2]]"
+  - "[[4 - philo (résumé)|philo 2]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Hans Jonas, *Le Principe responsabilité* : si nous avons acquis la capacité de
 
 Voir aussi : [[Maîtrise de la nature]].
 
-Résumés : [[chp 4 - philo (résumé)]]
+Résumés : [[4 - philo (résumé)]]

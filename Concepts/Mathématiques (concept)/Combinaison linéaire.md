@@ -11,10 +11,10 @@ aliases:
   - équation vectorielle
   - poids d'une combinaison linéaire
 sources:
-  - "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ En probabilités, une combinaison linéaire de variables aléatoires est une nou
 
 Notion parente : [[Espace vectoriel]]. Voir aussi : [[Espace engendré]], [[Transformation linéaire]], [[Déterminant]], [[Système linéaire]], [[Indépendance linéaire]], [[Espace des colonnes]], [[Produit matriciel]]
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]], [[chp 3 - Algèbre linéaire (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[3 - Algèbre linéaire (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]]

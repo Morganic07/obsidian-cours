@@ -5,7 +5,7 @@ tags:
 aliases:
   - base incomplète
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Théorème voisin du cours : de toute famille génératrice, on peut extraire un
 
 Notion parente : [[Base (algèbre linéaire)]]. Voir aussi : [[Indépendance linéaire]], [[Espace engendré]].
 
-Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)]]
+Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)]]

@@ -4,7 +4,7 @@ tags:
   - year4
 aliases: []
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Voir aussi : [[Balance commerciale]].
 
 Formule de prise de notes : la balance des paiements recense toutes les opérations avec le reste du monde, la balance commerciale n'en est qu'une partie (complément du résumé, pas du cours).
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

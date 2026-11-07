@@ -16,4 +16,4 @@ $$\text{gain(OUTLOOK)} = I(9,5) - \left(\tfrac{5}{14}I(2,3) + \tfrac{4}{14}I(4,0
 
 Notion parente : [[Algorithme ID3]]. Voir aussi : [[Entropie (théorie de l'information)]], [[Rapport de gain]], [[Arbre de décision]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

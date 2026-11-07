@@ -16,7 +16,7 @@ matieres:
   - workshop
 sources:
   - "[[englis (résumé)|Global Exam Vocab]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Reyou (résumé)|Reyou]]"
 maj: 2026-11-06
 ---
@@ -29,4 +29,4 @@ maj: 2026-11-06
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Design industriel]], [[Cycle de vie d'un produit]].
 
-Résumés : [[englis (résumé)]], [[chp 3 - Culture du vivant (résumé)]], [[Reyou (résumé)]]
+Résumés : [[englis (résumé)]], [[3 - Culture du vivant (résumé)]], [[Reyou (résumé)]]

@@ -16,8 +16,8 @@ matieres:
   - Algèbre Linéaire
   - Bilinear Algebra
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -38,7 +38,7 @@ Liens : [[Injectivité et surjectivité]], [[Matrice inversible]]
 
 ## À vérifier
 
-- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]] : coquille « Homomoprhisme » dans le tableau.
+- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]] : coquille « Homomoprhisme » dans le tableau.
 - Le même chapitre parle d'« endomorphisme nul » pour l'application nulle, qui n'est un endomorphisme que si $E = F$.
 
-Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]]
+Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]]

@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Algo Maths
 sources:
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Motif autosimilaire défini par récurrence ($u_0, u_1, u_2, \dots, u_n$). Selon
 
 Notion parente : [[Récurrence]]. Voir aussi : [[Récursivité]].
 
-Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

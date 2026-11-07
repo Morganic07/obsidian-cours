@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [points intérieurs, adhérence, adhérent, adhérents, frontière, intérieur d'un ensemble, Fr(A)]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 
@@ -21,6 +21,6 @@ Notion parente : [[Ouvert et fermé]]. Liens : [[Boule et voisinage]]
 
 ## À vérifier
 
-- [[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]], définition 11 : coquille « Fr(a) » pour $\mathrm{Fr}(A)$.
+- [[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]], définition 11 : coquille « Fr(a) » pour $\mathrm{Fr}(A)$.
 
-Résumé : [[chp 2 - éléments de topologie dans Rn (résumé)]]
+Résumé : [[2 - éléments de topologie dans Rn (résumé)]]

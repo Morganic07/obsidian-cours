@@ -12,8 +12,8 @@ aliases:
   - odd function
 sources:
   - "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
-  - "[[chp 6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse Maths)]]"
+  - "[[6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Sur un intervalle symétrique, $f$ est paire si $f(-x) = f(x)$, impaire si $f(-x
 
 Voir aussi : [[Fonctions trigonométriques]], [[Série de Fourier]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[chp 5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[chp 6 - Fourier Series (résumé)]]
+Résumés : [[0 - rappels pdf]], [[5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[6 - Fourier Series (résumé)]]

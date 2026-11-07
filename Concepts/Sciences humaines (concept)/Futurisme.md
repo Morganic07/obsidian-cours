@@ -11,4 +11,4 @@ Meyer-Drawe, dans text1 ([[Raw/Year 3/SHS/Cours/text1.pdf|text1.pdf]]), cite le 
 
 Voir aussi : [[Moi blindé]], [[Progrès technique]].
 
-Résumés : [[chp 4 - imaginaires automobile (résumé)]]
+Résumés : [[4 - imaginaires automobile (résumé)]]

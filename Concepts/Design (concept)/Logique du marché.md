@@ -12,4 +12,4 @@ Exemples du cours : les messageries (WhatsApp, Signal, Telegram, iMessage) et le
 
 Notion parente : [[Économie des données]].
 
-Résumés : [[chp 4 - sémiotique (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]]

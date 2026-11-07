@@ -11,4 +11,4 @@ Nommé dans le chapitre 3 avec sa seule définition : un arbre B d'ordre $n$ est
 
 Notion parente : [[Arbre m-aire]].
 
-Résumés : [[chp 3 - Arbres (résumé)]]
+Résumés : [[3 - Arbres (résumé)]]

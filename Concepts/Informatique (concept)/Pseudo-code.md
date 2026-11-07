@@ -15,4 +15,4 @@ Notion parente : [[Algorithme]]. Voir aussi : [[Affectation]], [[Structure condi
 
 - Incohérences du support : `INTEGER` au lieu d'`ENTIER`, `FINTANQUE` / `FINTANTQUE`, `calculeCarre` / `calculCarre`.
 
-Résumés : [[AlgoID1 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]]

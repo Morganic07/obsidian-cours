@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: []
 matieres: [Operating System]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Système de fichiers]]. Voir aussi : [[FAT32]], [[Système de
 
 - Le texte du cours écrit « NFTS » (coquille) ; le tableau écrit NTFS.
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

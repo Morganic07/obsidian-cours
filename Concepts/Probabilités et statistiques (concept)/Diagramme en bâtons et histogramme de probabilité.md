@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [line graph, probability histogram, histogramme de probabilité, diagramme en bâtons]
 matieres: [Probability]
-sources: ["[[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]"]
+sources: ["[[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Deux représentations de la loi (pmf) d'une variable aléatoire discrète :
 
 Notion parente : [[Variable aléatoire]].
 
-Résumés : [[chp 4 - Discrete random variables (résumé)]]
+Résumés : [[4 - Discrete random variables (résumé)]]

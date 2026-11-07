@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [multiprocess architecture, browser process, renderer process, plug-in process, processus de rendu]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Beaucoup de navigateurs tournent en un seul processus : un site qui pose problè
 
 Notion parente : [[Processus]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

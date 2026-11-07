@@ -12,7 +12,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Villeneuve (recherches)|idées solutions]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Voir aussi : [[Tiers-lieu]], [[Responsabilité sociétale des entreprises]], [[V
 
 La mention de Culture du vivant est une note de l'étudiant, pas du cours. « écoblanchiment » n'est pas dans le cours.
 
-Résumés : [[Villeneuve (recherches)]], [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[Villeneuve (recherches)]], [[3 - Culture du vivant (résumé)]]

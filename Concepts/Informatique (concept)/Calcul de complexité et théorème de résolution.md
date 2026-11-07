@@ -16,10 +16,10 @@ matieres:
   - Algo
   - graph theory
 sources:
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
   - "[[AVL momo (résumé)|AVL momo]]"
   - "[[qui dit quoi AVL (résumé)|qui dit quoi AVL]]"
-  - "[[chp 3 - complexité (résumé)|chp3 - complexité]]"
+  - "[[3 - complexité (résumé)|chp3 - complexité]]"
 maj: 2026-11-06
 ---
 
@@ -48,4 +48,4 @@ Notion parente : [[Complexité algorithmique]]. Voir aussi : [[Récursivité]], 
 - Le Master Theorem est donné sans preuve, et seulement pour $f(n) = c\,n^k$.
 - Substitution : le cas de base est $T(0) = c$, mais la dernière ligne s'arrête sur $T(1)$ (résumé, point 1).
 
-Résumés : [[chp 1 - récursivité et complexité (résumé)]], [[AVL momo (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]], [[chp 3 - complexité (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[AVL momo (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]], [[3 - complexité (résumé)]]

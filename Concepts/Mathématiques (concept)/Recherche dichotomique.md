@@ -16,10 +16,10 @@ matieres:
   - Algo Maths
   - graph theory
 sources:
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
   - "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[chp 3 - complexité (résumé)|chp3 - complexité]]"
+  - "[[3 - complexité (résumé)|chp3 - complexité]]"
 maj: 2026-11-06
 ---
 
@@ -37,6 +37,6 @@ Notions parentes : [[Diviser pour régner]], [[Complexité algorithmique]]. Lien
 
 ## À vérifier
 
-- Dans [[chp 3 - complexité (résumé)|chp3 - complexité]], la fonction `recherche_dic` renverrait 0 si la valeur est trouvée, et non sa position (relevé du résumé).
+- Dans [[3 - complexité (résumé)|chp3 - complexité]], la fonction `recherche_dic` renverrait 0 si la valeur est trouvée, et non sa position (relevé du résumé).
 
-Résumés : [[chp 1 - récursivité et complexité (résumé)]], [[chp 3 - complexité (résumé)]], [[AnalyseID1 (résumé)]], [[AlgoID1 (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[3 - complexité (résumé)]], [[0 - rappels pdf]], [[0 - diapo prof (résumé)]]

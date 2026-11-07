@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [waitpid, wait(&status), WIFEXITED, WEXITSTATUS]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Proce
 
 TP4 : `waitpid` est placé après une boucle infinie, donc jamais atteint ; dans le rendu, `status` n'est pas déclaré (signalé par les résumés).
 
-Résumés : [[OS - chp 7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]], [[Séance TP4 (résumé)]]
+Résumés : [[7 - OS (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]], [[4 - TP4 (résumé)]]

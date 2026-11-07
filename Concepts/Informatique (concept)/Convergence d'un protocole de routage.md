@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [convergence lente, slow convergence]
 matieres: [Computer Network]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -11,8 +11,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans [[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]] sans définition : le cours dit que les IGP sont optimisés pour la vitesse et la convergence au sein d'une organisation, et cite la convergence lente parmi les limites de RIP, avec les [[Boucle de routage|boucles de routage]].
+Nommée dans [[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]] sans définition : le cours dit que les IGP sont optimisés pour la vitesse et la convergence au sein d'une organisation, et cite la convergence lente parmi les limites de RIP, avec les [[Boucle de routage|boucles de routage]].
 
 Notion parente : [[Routage dynamique]].
 
-Résumés : [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[3 - Dynamic Routing (résumé)]]

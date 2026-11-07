@@ -11,4 +11,4 @@ Grille de ce qu'on observe sur le terrain, d'après les initiales de ses cinq ru
 
 Notion parente : [[Observation de terrain]]. Voir aussi : [[Neuf dimensions de Spradley]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

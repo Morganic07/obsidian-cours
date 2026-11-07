@@ -9,8 +9,8 @@ matieres:
   - Philosophie
   - Culture du vivant
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Voir aussi : [[Technique (philosophie)]], [[Aliénation]], [[Main invisible]], [
 - La dernière phrase du cours de philosophie est une position de la note, non un acquis du cours.
 - Les propos de Culture du vivant sont des notes d'étudiante, non sourcées. « capitaliste » apparaît aussi dans les notes SHS (plateformes « propriétaires et capitalistes »).
 
-Résumés : [[chp 2 - philo (résumé)]], [[chp 1 - Culture du vivant (résumé)]]
+Résumés : [[2 - philo (résumé)]], [[1 - Culture du vivant (résumé)]]

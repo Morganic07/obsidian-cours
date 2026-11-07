@@ -10,7 +10,7 @@ matieres:
   - Philosophie
   - Culture du vivant
 sources:
-  - "[[chp 1 - philo (résumé)|L'état (Philosophie)]]"
+  - "[[1 - philo (résumé)|L'état (Philosophie)]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
 maj: 2026-11-06
 ---
@@ -21,7 +21,7 @@ Il s'oppose à la thèse d'Aristote, pour qui l'état est naturel (voir [[Animal
 
 Le cours juge notre monde « hobbesien » : l'état y a pour but le travail, la sécurité et la consommation, ce qui conduit à se demander quelle place y ont la culture et l'art.
 
-Le cours de Culture du vivant cite Rousseau (*Le contrat social*) parmi les lanceurs d'alerte : « la Nature comme origine, soutien et destin de toute vie ». Face aux dégâts climatiques, le contrat social est à repenser : décider des solidarités, des responsabilités et des préventions ([[chp 4 - Culture du vivant (résumé)]]).
+Le cours de Culture du vivant cite Rousseau (*Le contrat social*) parmi les lanceurs d'alerte : « la Nature comme origine, soutien et destin de toute vie ». Face aux dégâts climatiques, le contrat social est à repenser : décider des solidarités, des responsabilités et des préventions ([[4 - Culture du vivant (résumé)]]).
 
 Voir aussi : [[État de nature]], [[Animal politique]], [[Boussole des possibles]]
 
@@ -29,4 +29,4 @@ Voir aussi : [[État de nature]], [[Animal politique]], [[Boussole des possibles
 
 - VIVANT1 : la citation attribuée à Rousseau n'est pas sourcée dans la diapositive.
 
-Résumés : [[chp 1 - philo (résumé)|L'état (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[1 - philo (résumé)|L'état (résumé)]], [[4 - Culture du vivant (résumé)]]

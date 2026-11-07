@@ -7,8 +7,8 @@ aliases:
   - application identique
 sources:
   - "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ L'identité de $X$ est $\mathrm{Id}_X : x \mapsto x$. Pour $f : X \to Y$, $f \ci
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Composition de fonctions]], [[Bijection]].
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]], [[chp 7 - Algèbre linéaire (résumé)]]
+Résumés : [[4 - pdf (résumé)]], [[7 - Algèbre linéaire (résumé)]]

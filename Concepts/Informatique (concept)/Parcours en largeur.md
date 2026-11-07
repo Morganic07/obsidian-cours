@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [BFS, breadth first search]
 matieres: [graph theory]
-sources: ["[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
+sources: ["[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Parcours d'un graphe qui utilise une file : on enfile le sommet de départ et on
 
 Notion parente : [[Graphe orienté]]. Voir aussi : [[Parcours en profondeur]], [[Pile et file]].
 
-Résumés : [[chp 4 - oriented graphs (résumé)]]
+Résumés : [[4 - oriented graphs (résumé)]]

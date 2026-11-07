@@ -15,4 +15,4 @@ Nommé dans 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf
 
 Voir aussi : [[Adressage IPv4 et CIDR]], [[IANA]].
 
-Résumés : [[IP Addressing (résumé)]]
+Résumés : [[2 - IP Addressing (résumé)]]

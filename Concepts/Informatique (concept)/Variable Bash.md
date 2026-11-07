@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year2]
-aliases: [variable système, variables système, system variables, user defined variable, variable utilisateur, "$HOME", "$USER", "$PWD", "$BASH"]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+tags:
+  - year2
+aliases:
+  - variable système
+  - variables système
+  - system variables
+  - user defined variable
+  - variable utilisateur
+  - $HOME
+  - $USER
+  - $PWD
+  - $BASH
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +31,4 @@ Notion parente : [[Script Bash]]. Voir aussi : [[Substitution de commande]], [[G
 
 - La fiche contient un contre-exemple au guillemet non fermé et des guillemets typographiques, qui ne marchent pas dans un vrai script.
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[Copy of TP2-Commands (résumé)]]

@@ -17,7 +17,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Reyou (résumé)|Reyou]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Melvita (résumé)|exposé melvita]]"
   - "[[ELBA (résumé)|Topo ELBA]]"
 maj: 2026-11-06
@@ -40,6 +40,6 @@ Voir aussi : [[Retail régénératif]], [[Servitisation]], [[Limites planétaire
 
 ## À vérifier
 
-- La transcription de [[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
+- La transcription de [[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] attribue le schéma à la « Fondation Ellen McArthur » (orthographe de l'image).
 
-Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours (résumé)]], [[Melvita (résumé)|exposé melvita (résumé)]], [[ELBA (résumé)|Topo ELBA (résumé)]]
+Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours (résumé)]], [[Melvita (résumé)|exposé melvita (résumé)]], [[ELBA (résumé)|Topo ELBA (résumé)]]

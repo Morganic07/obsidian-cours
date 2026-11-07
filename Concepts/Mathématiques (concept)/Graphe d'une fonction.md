@@ -13,4 +13,4 @@ Une fonction est une relation binaire sur $X \times Y$ où chaque $x$ figure dan
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Relation fonctionnelle]], [[Produit cartésien]].
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]], [[Chapitre3-Relation binaire (résumé)]]
+Résumés : [[4 - pdf (résumé)]], [[3 - pdf (résumé)]]

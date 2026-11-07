@@ -10,7 +10,7 @@ matieres:
   - SHS
   - management de l'innovationb
 sources:
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
   - "[[Analyse d'innovations (résumé)]]"
 maj: 2026-11-06
 ---
@@ -23,4 +23,4 @@ Voir aussi : [[Freemium]], [[Communs numériques]], [[Copyleft]].
 
 - Le mot « crowdfunding » n'apparaît pas dans les notes.
 
-Résumés : [[chp 3 - Prise de note (résumé)]], [[Analyse d'innovations (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]], [[Analyse d'innovations (résumé)]]

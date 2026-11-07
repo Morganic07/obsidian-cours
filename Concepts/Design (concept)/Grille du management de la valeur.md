@@ -13,10 +13,10 @@ Grille d'analyse d'une innovation, telle qu'elle apparaît dans le devoir (la no
 
 **Version 2, tableau d'acteurs** : avec qui (partenaires), par qui (ceux qui portent le changement en interne), pour qui (bénéficiaires). Appliquée à Michelin Fleet Solutions.
 
-Le diaporama du 30 septembre 2026 pose ces mêmes questions pour la séance suivante : comment l'innovation est-elle managée, par qui, pour qui, avec qui ? ([[chp 1 - innovation (résumé)]]).
+Le diaporama du 30 septembre 2026 pose ces mêmes questions pour la séance suivante : comment l'innovation est-elle managée, par qui, pour qui, avec qui ? ([[1 - innovation (résumé)]]).
 
 Notion parente : [[Value(s) Design]], où se trouve la définition du cours.
 
 Voir [[Servitisation]], [[Typologie des innovations]].
 
-Résumés : [[Analyse d'innovations (résumé)]], [[chp 1 - innovation (résumé)]]
+Résumés : [[Analyse d'innovations (résumé)]], [[1 - innovation (résumé)]]

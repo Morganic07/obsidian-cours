@@ -1,8 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [background job, background task, tâche de fond, tâches de fond, background and job control, job control, commandes en arrière-plan]
-sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
+tags:
+  - year2
+aliases:
+  - background job
+  - background task
+  - tâche de fond
+  - tâches de fond
+  - background and job control
+  - job control
+  - commandes en arrière-plan
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
+  - "[[2 - TP2 (résumé)|Cours TP2]]"
+  - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -10,4 +21,4 @@ maj: 2026-11-06
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Commande jobs]], [[Commandes fg et bg]], [[Commande kill]], [[Processus]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[Séance TP2 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP3-Commands (2) (résumé)]]

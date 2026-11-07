@@ -13,7 +13,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[chp 2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
+  - "[[2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Voir aussi : [[Collapsologie]], [[Limites planétaires]].
 
 - La source du graphique World3 est tronquée sur l'image.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]], [[chp 2 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]], [[2 - Culture du vivant (résumé)]]

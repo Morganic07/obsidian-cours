@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [root directory, racine du système de fichiers]
-sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Répertoire le plus haut de la hiérarchie, noté `/`, point de départ de tous 
 
 Notion parente : [[Arborescence des répertoires Linux]]. Voir aussi : [[Partitions Linux]], [[Point de montage]].
 
-Résumés : [[OS - chp 4 (résumé)]], [[OS - chp 3 (résumé)]]
+Résumés : [[4 - OS (résumé)]], [[3 - OS (résumé)]]

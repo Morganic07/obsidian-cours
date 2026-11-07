@@ -16,4 +16,4 @@ Dans la synthèse de la séance, la question devient « comment faut-il s'y comp
 
 Voir aussi : [[Ouverture d'un monde (Heidegger)]], [[Structuration de l'expérience (Merleau-Ponty)]].
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

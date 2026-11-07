@@ -8,7 +8,7 @@ aliases:
 matieres:
   - HDA
 sources:
-  - "[[chp 1 - HDA (résumé)|Cours HDA]]"
+  - "[[1 - HDA (résumé)|Cours HDA]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Le mot « mola » vient des transcriptions des images (textile à appliqués sup
 
 - Le mot « mola » n'est que dans les transcriptions, pas dans le texte de la note.
 
-Résumés : [[chp 1 - HDA (résumé)]]
+Résumés : [[1 - HDA (résumé)]]

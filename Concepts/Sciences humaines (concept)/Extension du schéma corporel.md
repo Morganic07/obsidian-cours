@@ -10,4 +10,4 @@ Selon Boltanski, cité dans le cours de SHS, l'automobile prolonge le corps « a
 
 Notion parente : [[Caractérologie des véhicules]]. Voir aussi : [[Moi blindé]].
 
-Résumés : [[chp 2 - imaginaires du futur (résumé)]], [[chp 6 - usages sociaux de l'automobile (résumé)]]
+Résumés : [[2 - imaginaires du futur (résumé)]], [[6 - usages sociaux de l'automobile (résumé)]]

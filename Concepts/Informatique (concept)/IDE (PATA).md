@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [PATA, Integrated Drive Electronics, Parallel ATA]
 matieres: [Operating System]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ IDE (Integrated Drive Electronics), aussi appelé PATA : ancienne interface pour
 
 Notion parente : [[Interface de stockage]]. Voir aussi : [[SATA]], plus rapide.
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

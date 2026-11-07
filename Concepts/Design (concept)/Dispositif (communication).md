@@ -13,4 +13,4 @@ Les écrans sont des dispositifs de communication : ils modélisent le processus
 
 Voir aussi : [[Médiation]], [[Genre communicationnel]], [[Non-neutralité des objets techniques]], [[Efficacité symbolique]], [[Impératif de productivité]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]], [[chp 1 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]], [[1 - sémiotique (résumé)]]

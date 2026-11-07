@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Algo Maths
 sources:
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Bit]].
 
 - Absent du résumé de Cours 1 (relevé directement dans la note) : à ajouter au résumé.
 
-Résumés : aucun ; source directe [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]].
+Résumés : aucun ; source directe [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]].

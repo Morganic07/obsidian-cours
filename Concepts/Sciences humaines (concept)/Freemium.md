@@ -7,7 +7,7 @@ aliases:
 matieres:
   - SHS
 sources:
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Mode de financement cité dans les notes SHS d'un groupe d'étudiants, avec Vaul
 
 Voir aussi : [[Produit d'appel]], [[Financement participatif]].
 
-Résumés : [[chp 3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[chp 1 - HDA (résumé)|Cours HDA]]"
+  - "[[1 - HDA (résumé)|Cours HDA]]"
 maj: 2026-11-06
 ---
 
@@ -13,7 +13,7 @@ HDA (histoire du design et des arts) de 1re année. Une seule note présente, tr
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - HDA (résumé)\|Cours HDA]] | Les molas kuna | [[chp 1 - HDA (résumé)\|Résumé]] |
+| [[1 - HDA (résumé)\|Cours HDA]] | Les molas kuna | [[1 - HDA (résumé)\|Résumé]] |
 
 ## Concepts
 

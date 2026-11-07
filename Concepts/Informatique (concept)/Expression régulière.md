@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year2]
-aliases: [regular expression, expressions régulières, regex, pattern-based search]
-matieres: [Operating System]
-sources: ["[[Séance TP5 (résumé)|Cours TP5]]", "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[TP5 (résumé)|TP5]]"]
+tags:
+  - year2
+aliases:
+  - regular expression
+  - expressions régulières
+  - regex
+  - pattern-based search
+matieres:
+  - Operating System
+sources:
+  - "[[5 - TP5 (résumé)|Cours TP5]]"
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
+  - "[[TP5 (résumé)|TP5]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +29,4 @@ Notion parente : [[AWK]]. Voir aussi : [[Fonctions intégrées d'AWK]], [[Comman
 - Le cours ne nomme pas « regex » ni « expression régulière » comme notion, seulement « pattern » et « regular expression » dans le tableau du manuel : la définition ici est minimale.
 - Fichier `log.txt` : les domaines diffèrent (.com / .org) entre les deux versions.
 
-Résumés : [[Séance TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[5 - TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]

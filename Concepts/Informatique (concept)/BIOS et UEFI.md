@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [BIOS, UEFI, Basic Input Output System, Unified Extensible Firmware Interface, POST, power-on self-test, bootstrap program, firmware]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Liens : [[MBR]], [[Mémoire morte]], [[Démarrage sécurisé]], [[Partition syst
 
 - Le chp 1 appelle le BIOS « le premier OS à se lancer » : le BIOS est un firmware, pas un OS.
 
-Résumé : [[OS - chp 2 (résumé)]], [[OS - chp 1 (résumé)]]
+Résumé : [[2 - OS (résumé)]], [[1 - OS (résumé)]]

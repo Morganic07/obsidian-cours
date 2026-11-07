@@ -8,7 +8,7 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Une adresse mémoire s'affiche souvent en hexadécimal, avec le préfixe `0x`. U
 
 Voir aussi : [[Pointeur et adresse mémoire]], [[Fonctions printf et scanf]].
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[chp 1 - basiques (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[1 - basiques (résumé)]]

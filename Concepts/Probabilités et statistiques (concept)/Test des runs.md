@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [runs test]
-sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
+sources: ["[[7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-07
 ---
 
@@ -10,8 +10,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]] sans définition : l'organigramme des tests le cite (« Runs ») parmi les tests non paramétriques à un échantillon.
+Nommé dans [[7 - Z-Test (résumé)|Cours 7 - Z-Test]] sans définition : l'organigramme des tests le cite (« Runs ») parmi les tests non paramétriques à un échantillon.
 
 Notion parente : [[Test paramétrique et non paramétrique]].
 
-Résumés : [[Séance 7 - Z-Test (résumé)]]
+Résumés : [[7 - Z-Test (résumé)]]

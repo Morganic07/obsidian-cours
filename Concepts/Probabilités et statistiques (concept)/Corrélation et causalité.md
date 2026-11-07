@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [correlation is not causation, association is not causation, corrélation n'est pas causalité, correlation does not imply causation, corrélation n'implique pas causalité]
 matieres: [Probability, Data analysis (Thanos), Statistics]
-sources: ["[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[chp 1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"]
+sources: ["[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Paradoxe de Simp
 
 Le cours ne parle pas de « facteur de confusion » : le rapprochement avec le [[Paradoxe de Simpson]] reste à valider.
 
-Résumés : [[chp 6 - Joint probability distributions (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[chp 1 - Intro to statistics (résumé)]]
+Résumés : [[6 - Joint probability distributions (résumé)]], [[9 - Covariance and Correlation (résumé)]], [[1 - Intro to statistics (résumé)]]

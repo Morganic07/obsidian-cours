@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [firewall]
 matieres: [Computer Network]
-sources: ["[[chp 5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
+sources: ["[[5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[NAT et PAT]], [[Liste de contrôle d'accès]].
 
 - Affirmation discutable, signalée dans le résumé : NAT masque les adresses par effet de bord, mais ne remplace ni un pare-feu ni des ACL.
 
-Résumés : [[chp 5 - NAT ／ PAT (résumé)]]
+Résumés : [[5 - NAT ／ PAT (résumé)]]

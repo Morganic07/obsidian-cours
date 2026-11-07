@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [prediction interval, prediction interval estimate, intervalle de prédiction d'une valeur individuelle]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Régression linéaire]]. Voir aussi : [[Intervalle de confian
 
 - La diapositive écrit « 4,897 ≤ y4 ≤ 0,503 » : bornes inversées (à corriger avant un examen).
 
-Résumé : [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumé : [[11 - Multiple Linear Regression and F-statistic (résumé)]]

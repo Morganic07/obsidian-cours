@@ -6,7 +6,7 @@ aliases:
   - opérateurs booléens
   - recherche booléenne
 sources:
-  - "[[chp 1 - Savoir rechercher sur Google (résumé)|Cours BU - Savoir rechercher sur Google]]"
+  - "[[1 - Savoir rechercher sur Google (résumé)|Cours BU - Savoir rechercher sur Google]]"
 maj: 2026-11-06
 ---
 
@@ -24,4 +24,4 @@ Voir aussi : [[Logique propositionnelle]].
 
 - Le résumé signale, en complément hors cours, que l'exclusion usuelle sur Google s'écrit `-mot`.
 
-Résumés : [[chp 1 - Savoir rechercher sur Google (résumé)]]
+Résumés : [[1 - Savoir rechercher sur Google (résumé)]]

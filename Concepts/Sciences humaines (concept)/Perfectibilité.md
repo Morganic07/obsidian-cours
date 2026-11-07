@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Elle sert l'[[Autoconstruction de soi|autoconstruction de soi]] : l'homme est ca
 
 Voir aussi : [[Autonomie morale]], [[Autoconstruction de soi]], [[Liberté relative et liberté absolue]]
 
-Résumé : [[chp 2 - philo (résumé)|liberté et moralité (résumé)]]
+Résumé : [[2 - philo (résumé)|liberté et moralité (résumé)]]

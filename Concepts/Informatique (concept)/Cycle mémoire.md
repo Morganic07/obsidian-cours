@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [cycle de mémoire, memory cycle]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Processus complet d'interaction entre le CPU et la RAM pour accéder à une donn
 
 Notion parente : [[Mémoire vive]]. Voir aussi : [[Processeur]], [[Mémoire cache]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

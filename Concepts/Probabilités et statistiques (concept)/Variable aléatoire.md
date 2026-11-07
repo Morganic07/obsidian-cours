@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [random variable, variable aléatoire discrète, variable aléatoire continue, discrete random variable, continuous random variable, fonction de masse, probability mass function, pmf, densité de probabilité, probability density function, pdf, loi de probabilité, distribution of probability]
 matieres: [Probability, Statistics]
-sources: ["[[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]"]
+sources: ["[[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]"]
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Liens : [[Fonction de répartition]], [[Espérance et variance]], [[Diagramme en
 
 ## À vérifier
 
-- [[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]] écrit $p(x) > 0$ ; il faut $p(x) \ge 0$.
+- [[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]] écrit $p(x) > 0$ ; il faut $p(x) \ge 0$.
 - La définition de variable continue donnée au chapitre 4 n'est qu'une propriété.
 
-Résumés : [[chp 4 - Discrete random variables (résumé)]], [[chp 5 - Continuous random variable (résumé)]]
+Résumés : [[4 - Discrete random variables (résumé)]], [[5 - Continuous random variable (résumé)]]

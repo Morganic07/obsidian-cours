@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: ["/etc/netplan", "/etc/network/interfaces", static IP configuration, adresse IP statique]
-matieres: [Operating System]
-sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
+tags:
+  - year2
+aliases:
+  - /etc/netplan
+  - /etc/network/interfaces
+  - static IP configuration
+  - adresse IP statique
+matieres:
+  - Operating System
+sources:
+  - "[[3 - TP3 (résumé)|Cours TP3]]"
+  - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +23,4 @@ Notion parente : [[Interface réseau]].
 
 - Les figures d'exemple de configuration statique et DHCP du sujet sont des images non lues.
 
-Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]

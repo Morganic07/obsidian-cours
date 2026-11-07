@@ -12,4 +12,4 @@ Exemple du cours : le diagnostic des plantes fait de la plante un « patient » 
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Affordance]], [[Imaginaire]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]]

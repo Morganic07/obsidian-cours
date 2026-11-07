@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [loi de De Morgan, règle de Morgan, De Morgan]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Propriétés 
 
 - Erreur des deux supports de cours (propriété 6) : $\overline{A \cup B} = \overline{A} \cup \overline{B}$ est écrit au lieu de $\overline{A} \cap \overline{B}$ (image lue dans la note ; même texte dans le PDF).
 
-Résumés : [[chp 1 - logique (résumé)]], [[chp 2 - ensembles (résumé)]], [[Chapitre2-Ensemble (4) (résumé)]], [[TDEnsembles (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[TDEnsembles (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]

@@ -6,8 +6,8 @@ aliases:
   - réserve de ressources
   - ressource exploitable
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[4 - philo (résumé)|philo 2]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Heidegger (*La question de la technique*, 1954) : la technique moderne transform
 
 Notion parente : [[Maîtrise de la nature]].
 
-Résumés : [[chp 3 - philo (résumé)]], [[chp 4 - philo (résumé)]]
+Résumés : [[3 - philo (résumé)]], [[4 - philo (résumé)]]

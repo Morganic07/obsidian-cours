@@ -26,4 +26,4 @@ Voir aussi : [[Retail régénératif]], [[Bioéconomie]], [[Permaculture]].
 
 Chercher si la Culture du vivant de 2e année, si elle est importée, le définit.
 
-Résumés : [[Melvita (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[Melvita (résumé)]], [[4 - Culture du vivant (résumé)]]

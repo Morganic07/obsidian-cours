@@ -16,9 +16,9 @@ matieres:
   - Analyse dans Rn
   - Séries
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
   - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
-  - "[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
+  - "[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
 maj: 2026-11-06
 ---
 
@@ -48,7 +48,7 @@ Le chapitre 0 de Séries reprend la liste des DL usuels : $e^x$, $\cos$, $\sin$,
 Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Asymptote oblique]], [[Tangente à une courbe]], [[Fonction de classe Ck]], [[Fonctions trigonométriques réciproques]], [[Série entière]], [[Reste de Taylor]], [[Dérivabilité]], [[Différentielle]]
 
 > [!warning] Écart dans le cours
-> [[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
+> [[0 - Revision chapter (résumé)|Chp0 - Revision chapter]] écrit $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ : voir son résumé.
 
 **Piège** : un DL d'ordre $n$ n'implique pas $n$ dérivées. $x^3\sin(1/x)$ a un DL d'ordre 2 en 0 sans être deux fois dérivable en 0 (corrigé du TD5) : $\mathcal{C}^n \Rightarrow$ DL$_n$, sans réciproque.
 
@@ -57,4 +57,4 @@ Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Asymptote oblique]
 - chp5 (Analyse) : les formes normalisées du quotient sont écrites avec $x^{n_1}$, $x^{n_2}$ au lieu de $x^{p_1}$, $x^{p_2}$ ; « même signe strict » ne vaut qu'au voisinage de $a$.
 - Chp0 de Séries : $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ (à corriger avant un examen) ; le terme général de $\sqrt{1+x}$ et celui de $\ln(1+x)$ sont faux.
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[chp 0 - Revision chapter (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[0 - Revision chapter (résumé)]]

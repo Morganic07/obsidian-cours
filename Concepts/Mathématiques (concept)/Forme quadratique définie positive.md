@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [positive definite, negative definite, indefinite, positive semidefinite, définie positive, définie négative, indéfinie, semi-définie positive, positive definite matrix]
 matieres: [Bilinear Algebra]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Forme quadratique]]. Voir aussi : [[Valeur propre]].
 
 Erreur apparente du cours : « negative definite » y est défini avec $Q(\mathbf{x})>0$ ; « indefinite » est utilisé sans figurer dans la liste des définitions.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

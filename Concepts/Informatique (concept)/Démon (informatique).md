@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Démon, daemon, cron daemon, service système]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]", "[[Séance TP4 (résumé)|Cours TP4]]"]
+tags:
+  - year2
+aliases:
+  - Démon
+  - daemon
+  - cron daemon
+  - service système
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"
+  - "[[4 - TP4 (résumé)|Cours TP4]]"
 maj: 2026-11-06
 ---
 
@@ -13,6 +21,6 @@ Voir aussi : [[Tâche planifiée cron]], [[Commande systemctl]].
 
 ## À vérifier
 
-- Le crontab lu dans [[Séance TP4 (résumé)|Cours TP4]] mentionne aussi « the cron's system daemon ».
+- Le crontab lu dans [[4 - TP4 (résumé)|Cours TP4]] mentionne aussi « the cron's system daemon ».
 
 Résumés : [[TP4-Unix Commands (résumé)]]

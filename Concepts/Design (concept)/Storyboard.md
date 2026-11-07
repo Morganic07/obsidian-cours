@@ -15,4 +15,4 @@ Nommé dans le cours sans définition : le storyboard est cité parmi les usages
 
 Voir aussi : [[Carte d'expérience]], [[Scénario d'usage]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

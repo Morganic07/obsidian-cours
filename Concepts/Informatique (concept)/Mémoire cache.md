@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cache du CPU, CPU cache]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Mémoire très rapide située dans le CPU, qui stocke les données et instructio
 
 Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Processeur]], [[Mémoire vive]], [[Registre du processeur]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

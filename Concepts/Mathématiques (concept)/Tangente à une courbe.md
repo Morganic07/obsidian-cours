@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [tangente à la courbe, équation de la tangente, tangente verticale]
 matieres: [Analyse Maths]
-sources: ["[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"]
+sources: ["[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Avec un développement limité en $a$, la tangente est la partie d'ordre $\le 1$
 
 Notion parente : [[Dérivabilité]]. Voir aussi : [[Développement limité]].
 
-Résumés : [[chp 4 - dérivabilité (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]

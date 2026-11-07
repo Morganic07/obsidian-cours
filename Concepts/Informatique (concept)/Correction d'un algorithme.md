@@ -12,4 +12,4 @@ Exemple du coût d'une erreur : le premier vol d'Ariane 5 (1996), avec un progra
 
 Notion parente : [[Algorithme]]. Voir aussi : [[Terminaison d'un algorithme]], [[Algorithme d'approximation]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

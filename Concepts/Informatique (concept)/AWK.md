@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[Séance TP5 (résumé)|Cours TP5]]"
+  - "[[5 - TP5 (résumé)|Cours TP5]]"
   - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
   - "[[TP5 (résumé)|TP5]]"
   - "[[log (résumé)|log (TP6)]]"
@@ -35,4 +35,4 @@ Liens : [[Variables intégrées d'AWK]], [[Blocs BEGIN et END d'AWK]], [[Fonctio
 
 - Le sujet [[TP5 (résumé)|TP5]] contient une phrase égarée du TP4 et des tirets demi-cadratins dans `–F` (signalés par le résumé).
 
-Résumés : [[Séance TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[5 - TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[TP5 (résumé)]], [[log (résumé)]], [[TP6-Assignment (résumé)]]

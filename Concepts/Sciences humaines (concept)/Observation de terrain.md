@@ -18,4 +18,4 @@ maj: 2026-11-06
 
 Notion parente : [[Ethnographie]]. Voir aussi : [[Observation participante]], [[AEIOU]], [[Neuf dimensions de Spradley]], [[Types de suivi en observation]], [[Infra-ordinaire]], [[Utilisateur extrême]], [[Grille d'observation]], [[Entretien semi-directif]], [[Questionnaire]], [[Effet Hawthorne]], [[Effet de halo]], [[Biais de confirmation]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]], [[chp 2 - UX (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]], [[2 - UX (résumé)]]

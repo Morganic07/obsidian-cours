@@ -12,4 +12,4 @@ La procédure `permuter(x, y)`, sans mode `ES`, ne change rien chez l'appelant ;
 
 Notion parente : [[Affectation]]. Voir aussi : [[Passage de paramètres]].
 
-Résumés : [[AlgoID1 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]]

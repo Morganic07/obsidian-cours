@@ -5,7 +5,7 @@ tags:
 aliases:
   - différence entre prix et coût
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Selon la note de gestion financière :
 - le **coût** est la somme nécessaire pour obtenir ou réaliser quelque chose ;
 - le **prix** est la somme à payer ou à recevoir lors d'une transaction.
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

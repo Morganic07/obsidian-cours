@@ -8,8 +8,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 7 - philo (résumé)|philo 5]]"
-  - "[[chp 3 - philo (résumé)|philo 1]]"
+  - "[[7 - philo (résumé)|philo 5]]"
+  - "[[3 - philo (résumé)|philo 1]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ En 1958, Simondon note aussi que nous avons perdu le lien direct avec la techniq
 
 Notion parente : [[Organisme et machine]]. Voir aussi : [[Transduction]], [[Aliénation]].
 
-Résumés : [[chp 7 - philo (résumé)]], [[chp 3 - philo (résumé)]]
+Résumés : [[7 - philo (résumé)]], [[3 - philo (résumé)]]

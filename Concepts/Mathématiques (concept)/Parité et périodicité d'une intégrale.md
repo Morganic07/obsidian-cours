@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [intégrale d'une fonction paire, intégrale d'une fonction impaire, intégrale d'une fonction périodique]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
+tags:
+  - year2
+aliases:
+  - intégrale d'une fonction paire
+  - intégrale d'une fonction impaire
+  - intégrale d'une fonction périodique
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[0 - Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +22,4 @@ Notion parente : [[Intégrale]].
 
 Les énoncés exacts sur la parité n'ont pas été relus mot à mot dans le cours.
 
-Résumés : [[chp 7 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]

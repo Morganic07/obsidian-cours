@@ -15,4 +15,4 @@ Nommée dans UX Research - Observation - 2026 ([[Raw/Year 3/Affordance/UX Resear
 
 Voir aussi : [[Tri de cartes]], [[Maquette (design)]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

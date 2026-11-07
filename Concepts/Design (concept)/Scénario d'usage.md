@@ -12,4 +12,4 @@ Ils figurent aussi parmi les étapes du projet fil rouge et parmi les usages des
 
 Notion parente : [[Test utilisateur]]. Voir aussi : [[Parcours utilisateur]].
 
-Résumés : [[chp 1 - UX (résumé)]], [[chp 2 - UX (résumé)]]
+Résumés : [[1 - UX (résumé)]], [[2 - UX (résumé)]]

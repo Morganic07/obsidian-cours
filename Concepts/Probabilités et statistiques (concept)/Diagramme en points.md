@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [dotplot, dot plot]
 matieres: [Statistics]
-sources: ["[[chp 2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]"]
+sources: ["[[2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]"]
 maj: 2026-11-07
 ---
 
@@ -11,8 +11,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]] sans définition, parmi les graphiques des données quantitatives.
+Nommé dans [[2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]] sans définition, parmi les graphiques des données quantitatives.
 
 Notion parente : [[Statistique descriptive]]. Voir aussi : [[Histogramme]].
 
-Résumés : [[chp 2 - Descriptive statistics (résumé)]]
+Résumés : [[2 - Descriptive statistics (résumé)]]

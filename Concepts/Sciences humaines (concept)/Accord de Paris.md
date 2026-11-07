@@ -19,4 +19,4 @@ Voir aussi : [[Protocole de Kyoto]], [[GIEC]].
 
 - La diapositive présente la COP 30 de Belém comme portant « sur la biodiversité ». Complément, hors cours : c'est une COP climat.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

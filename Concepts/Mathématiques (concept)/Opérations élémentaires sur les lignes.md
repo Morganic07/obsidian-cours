@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year1, year2]
-aliases: [opérations élémentaires, row operations, elementary row operations, row equivalent, lignes équivalentes, row reduction]
-matieres: [Algèbre Linéaire, Bilinear Algebra]
-sources: ["[[chp 3 - Algèbre linéaire (résumé)|chp3]]", "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]", "[[chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
+tags:
+  - year1
+  - year2
+aliases:
+  - opérations élémentaires
+  - row operations
+  - elementary row operations
+  - row equivalent
+  - lignes équivalentes
+  - row reduction
+matieres:
+  - Algèbre Linéaire
+  - Bilinear Algebra
+sources:
+  - "[[3 - Algèbre linéaire (résumé)|chp3]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[0 - Determinants (résumé)|Chp 0c - Determinants]]"
 maj: 2026-11-06
 ---
 
@@ -19,7 +32,7 @@ Notion parente : [[Forme échelonnée]]. Voir aussi : [[Système linéaire]], [[
 
 ## À vérifier
 
-- Pour $L_i \leftarrow \alpha L_i + \beta L_j$, il faut $\alpha \neq 0$, ce que [[chp 3 - Algèbre linéaire (résumé)|chp3]] ne précise pas.
-- La réduction par lignes ne donne pas les valeurs propres : c'est l'avertissement de Chp 0e, contredit par une note personnelle du même chapitre (voir [[chp 0e - Eigenvalues and eigenvectors (résumé)]]).
+- Pour $L_i \leftarrow \alpha L_i + \beta L_j$, il faut $\alpha \neq 0$, ce que [[3 - Algèbre linéaire (résumé)|chp3]] ne précise pas.
+- La réduction par lignes ne donne pas les valeurs propres : c'est l'avertissement de Chp 0e, contredit par une note personnelle du même chapitre (voir [[0 - Eigenvalues and eigenvectors (résumé)]]).
 
-Résumés : [[chp 3 - Algèbre linéaire (résumé)]], [[chp 0a - Linear combination (résumé)]], [[chp 0b - Matrix algebra (résumé)]], [[chp 0c - Determinants (résumé)]]
+Résumés : [[3 - Algèbre linéaire (résumé)]], [[0 - Linear combination (résumé)]], [[0 - Matrix algebra (résumé)]], [[0 - Determinants (résumé)]]

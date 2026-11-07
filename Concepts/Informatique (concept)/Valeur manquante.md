@@ -12,4 +12,4 @@ L'[[Algorithme C4.5]] les traite ainsi : si la valeur de l'attribut $a_i$ manque
 
 Notion parente : [[Prétraitement des données]].
 
-Résumés : [[séance data mining du prof (résumé)]], [[chp 1 - intro to data mining (résumé)]]
+Résumés : [[1 - pdf du prof (résumé)]], [[1 - intro to data mining (résumé)]]

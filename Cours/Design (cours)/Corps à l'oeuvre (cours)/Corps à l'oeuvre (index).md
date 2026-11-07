@@ -4,8 +4,8 @@ tags:
   - year1
   - year2
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours (Corps à l'oeuvre)]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours (Corps à l'oeuvre)]]"
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Corps à l'oeuvre de 1re année : design, corps, gestes et expérience. Une seul
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - corps à l'oeuvre (résumé)\|corps à l'oeuvre - cours]] | Gestelligence, UX, sens, client-designer | [[chp 1 - corps à l'oeuvre (résumé)\|Résumé]] |
+| [[1 - corps à l'oeuvre (résumé)\|corps à l'oeuvre - cours]] | Gestelligence, UX, sens, client-designer | [[1 - corps à l'oeuvre (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -47,7 +47,7 @@ Corps à l'oeuvre de 2e année. Une seule note, le dernier cours.
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 2 - corps à l'oeuvre (résumé)\|Dernier cours (Corps à l'oeuvre)]] | Gestes, émotions, stress, posture | [[chp 2 - corps à l'oeuvre (résumé)\|Résumé]] |
+| [[2 - corps à l'oeuvre (résumé)\|Dernier cours (Corps à l'oeuvre)]] | Gestes, émotions, stress, posture | [[2 - corps à l'oeuvre (résumé)\|Résumé]] |
 
 ### Concepts
 

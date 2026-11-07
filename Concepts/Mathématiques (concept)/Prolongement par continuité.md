@@ -12,4 +12,4 @@ Les DS3 et DS4 demandent l'énoncé du théorème et des prolongements ($\sin x 
 
 Notion parente : [[Limite et continuité]]. Voir aussi : [[Développement limité]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[Contrôles (résumé)]], [[TD5-AnalAsympt (résumé)]]
+Résumés : [[0 - rappels pdf]], [[Contrôles (résumé)]], [[TD5-AnalAsympt (résumé)]]

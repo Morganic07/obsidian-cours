@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [PCIe, port PCI express]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommé dans les chapitres 1 et 2 sans définition détaillée : le port PCI Expr
 
 Notion parente : [[Carte mère]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 2 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[2 - OS (résumé)]]

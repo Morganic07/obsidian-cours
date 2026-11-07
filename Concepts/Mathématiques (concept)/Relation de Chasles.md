@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Chasles]
-matieres: [Analyse]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]"]
+tags:
+  - year2
+aliases:
+  - Chasles
+matieres:
+  - Analyse
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[1 - démonstrations (résumé)|démonstrations - integration]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +21,4 @@ Preuve : une inégalité s'obtient par restriction aux deux morceaux, l'autre en
 
 Notion parente : [[Intégrale]].
 
-Résumés : [[chp 7 - Integration (résumé)]], [[démonstrations - integration (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]]

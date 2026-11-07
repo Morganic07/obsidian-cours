@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [arbre (graphe), propriétés des arbres, acyclic connected graph]
 matieres: [Algo, graph theory]
-sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[chp 2 - tree (résumé)|Chp2 - tree]]"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Comme structure de données, l'arbre est non linéaire, naturellement récursif 
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Cycle (graphe)]], [[Arborescence (graphe)]], [[Arbre binaire]], [[Arbre couvrant minimal]], [[Forêt (graphe)]], [[Vocabulaire des arbres]].
 
-Résumés : [[chp 3 - Arbres (résumé)]], [[chp 2 - tree (résumé)]]
+Résumés : [[3 - Arbres (résumé)]], [[2 - tree (résumé)]]

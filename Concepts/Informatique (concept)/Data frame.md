@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Data analysis (Thanos)
 sources:
-  - "[[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)]]"
+  - "[[1 - Data analysis (résumé)|Cours 1 (Data analysis)]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Accès : `myframe$age` (une colonne), `y[1,]` (une ligne), `y[,1]` (une colonne)
 
 Notion parente : [[Langage R]].
 
-Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis, résumé)]]
+Résumés : [[1 - Data analysis (résumé)|Cours 1 (Data analysis, résumé)]]

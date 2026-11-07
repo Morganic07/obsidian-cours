@@ -7,9 +7,9 @@ aliases:
   - imitation de la nature
   - la nature imite l'art
 sources:
-  - "[[chp 1 - philo (résumé)|L'état]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[1 - philo (résumé)|L'état]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Oscar Wilde le renverse : « La nature imite presque l'art », l'art influençan
 
 Voir aussi : [[Quatre causes d'Aristote]], [[Technè, praxis et épistémè]], [[Paysage dans l'art]].
 
-Résumés : [[chp 1 - philo (résumé)]], [[chp 4 - philo (résumé)]], [[chp 5 - philo (résumé)]]
+Résumés : [[1 - philo (résumé)]], [[4 - philo (résumé)]], [[5 - philo (résumé)]]

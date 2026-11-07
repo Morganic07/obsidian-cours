@@ -15,4 +15,4 @@ Nommé dans le chp 4 sans définition : ses fichiers de configuration se trouven
 
 Notion parente : [[Partition de démarrage]]. Voir aussi : [[BIOS et UEFI]], [[MBR]].
 
-Résumés : [[OS - chp 4 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

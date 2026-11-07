@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year3]
-aliases: [Student distribution, t distribution, loi t, loi de Student à n degrés de liberté, théorème de Gosset, Gosset's theorem]
-matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[chp 4 - Part 3 - Inferential statistics (résumé)|Chp4 Part3 - Inferential statistics]]", "[[Séance 6 - T-Test (résumé)|Cours 6 - T-Test]]"]
+tags:
+  - year3
+aliases:
+  - Student distribution
+  - t distribution
+  - loi t
+  - loi de Student à n degrés de liberté
+  - théorème de Gosset
+  - Gosset's theorem
+matieres:
+  - Statistics
+  - Data analysis (Thanos)
+sources:
+  - "[[4 - Inferential statistics 3(résumé)|Chp4 Part3 - Inferential statistics]]"
+  - "[[6 - T-Test (résumé)|Cours 6 - T-Test]]"
 maj: 2026-11-06
 ---
 
@@ -13,8 +24,8 @@ Si $Z$ est normale centrée réduite et $Y \sim \chi^2_v$ lui est indépendante,
 
 Elle donne l'[[Intervalle de confiance]] de la moyenne quand $\sigma$ est inconnu : $\bar{x} \pm t_{\alpha/2,n-1}\,s/\sqrt{n}$.
 
-En Data analysis, c'est une famille de lois, une par nombre de degrés de liberté : symétrique, de la forme de la normale mais plus étalée, et qui tend vers elle. Elle sert au [[Test t]] ([[Séance 6 - T-Test (résumé)]]).
+En Data analysis, c'est une famille de lois, une par nombre de degrés de liberté : symétrique, de la forme de la normale mais plus étalée, et qui tend vers elle. Elle sert au [[Test t]] ([[6 - T-Test (résumé)]]).
 
 Liens : [[Loi normale]], [[Distribution d'échantillonnage]], [[Loi du khi-deux]]
 
-Résumés : [[chp 4 - Part 3 - Inferential statistics (résumé)]], [[Séance 6 - T-Test (résumé)]]
+Résumés : [[4 - Inferential statistics 3(résumé)]], [[6 - T-Test (résumé)]]

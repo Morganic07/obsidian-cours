@@ -11,9 +11,9 @@ matieres:
   - Operating System
   - C++
 sources:
-  - "[[OS - chp 1 (résumé)|OS - chp 1]]"
-  - "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - OS (résumé)|OS - chp 1]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Correspondance entre nombres et caractères (American Standard Code for Informat
 
 Notion parente : [[Type primitif]]. Voir aussi : [[Contrôleur de périphérique]], [[Opérateur de comparaison]], [[Fonctions printf et scanf]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[Commandes Shell + explications (résumé)]], [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[1 - basiques (résumé)]]

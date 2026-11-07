@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Corps à l'oeuvre
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ F.F.S = fonction, forme, structure : triade qui s'applique dans le design pour c
 
 Voir aussi : [[Gestelligence]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]]

@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Philosophie
 sources:
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Nommé dans le cours sans définition : avec l'infinité de l'univers (Descartes
 
 Notion parente : [[Révolution scientifique]].
 
-Résumés : [[chp 5 - philo (résumé)]]
+Résumés : [[5 - philo (résumé)]]

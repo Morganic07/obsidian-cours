@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year4]
-aliases: [bipartite graph, biparti complet]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - bipartite graph
+  - biparti complet
+sources:
+  - "[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +23,4 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Cycle (graphe)]].
 
 - La note de l'étudiante (« minimum 2 nœuds » par partie) contredit la définition, qui demande seulement des parties non vides.
 
-Résumés : [[chp 1 - Undirected graph (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]], [[0 - Graph - Python (résumé)]]

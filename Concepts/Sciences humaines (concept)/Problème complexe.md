@@ -11,4 +11,4 @@ Un problème **complexe** fait entrer en jeu beaucoup de facteurs ; un problème
 
 Voir aussi : [[Observation de terrain]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

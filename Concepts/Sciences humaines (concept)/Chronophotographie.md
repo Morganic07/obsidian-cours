@@ -15,4 +15,4 @@ Voir aussi : [[Sites et modalités d'analyse d'une image]].
 
 - (complément) Le résultat connu est qu'à un moment du galop aucune patte ne touche le sol ; la note dit « toujours une ou plus pâte en l'air ».
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

@@ -18,4 +18,4 @@ Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Arborescence d'une ap
 
 Le terme anglais « card sorting » n'est pas dans le cours.
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

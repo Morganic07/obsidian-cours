@@ -15,4 +15,4 @@ Nommé dans text1 ([[Raw/Year 3/SHS/Cours/text1.pdf|text1.pdf]]) sans définitio
 
 Voir aussi : [[Moi blindé]], [[Transhumanisme]], [[Cybernétique]].
 
-Résumés : [[chp 4 - imaginaires automobile (résumé)]]
+Résumés : [[4 - imaginaires automobile (résumé)]]

@@ -17,4 +17,4 @@ Ces trois temps s'opposent au temps long du vivant (croissance, décomposition, 
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Genre communicationnel]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]]

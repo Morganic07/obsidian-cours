@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [desktop environment, desktop environments, windowing system, système de fenêtrage]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommé dans le chp 3 sans définition : l'environnement de bureau fait partie de
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Wayland et X11]].
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

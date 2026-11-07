@@ -1,8 +1,11 @@
 ---
 type: concept
-tags: [year2]
+tags:
+  - year2
 aliases: []
-sources: ["[[Invertible matrix theorem (résumé)|Invertible matrix theorem]]", "[[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"]
+sources:
+  - "[[3 -Invertible matrix theorem (résumé)|Invertible matrix theorem]]"
+  - "[[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +25,4 @@ Notion parente : [[Matrice inversible]]. Voir aussi : [[Rang d'une matrice]], [[
 
 Les énoncés s et t exacts sont à relire dans Chp 0e.
 
-Résumés : [[Invertible matrix theorem (résumé)]], [[chp 0b - Matrix algebra (résumé)]], [[chp 0d - Vector Space (résumé)]], [[chp 0e - Eigenvalues and eigenvectors (résumé)]]
+Résumés : [[3 -Invertible matrix theorem (résumé)]], [[0 - Matrix algebra (résumé)]], [[0 - Vector Space (résumé)]], [[0 - Eigenvalues and eigenvectors (résumé)]]

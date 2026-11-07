@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year2]
-aliases: [intégrale fonction de ses bornes, dérivée de x ↦ ∫ f]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
+tags:
+  - year2
+aliases:
+  - intégrale fonction de ses bornes
+  - dérivée de x ↦ ∫ f
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +25,4 @@ Notion parente : [[Primitive]]. Voir aussi : [[Intégrale]].
 
 La formule $f(v(x))v'(x)-f(u(x))u'(x)$ est dans une image du cours qui n'a pas été ouverte : à vérifier sur l'image.
 
-Résumés : [[chp 7 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]

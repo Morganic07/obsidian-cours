@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [uniformément continue, uniformly continuous]
-sources: ["[[chp 3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]"]
+sources: ["[[3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Une [[Application lipschitzienne|application lipschitzienne]] est uniformément 
 
 Notion parente : [[Limite et continuité]].
 
-Résumés : [[chp 3 - Limite et continuité d’applications (résumé)]]
+Résumés : [[3 - Limite et continuité d’applications (résumé)]]

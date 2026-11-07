@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [complémentaire de A dans E]
 matieres: [Outil Maths]
-sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Propriétés : $\overline{\overline{A}} = A$, $A \cap \overline{A} = \emptyset$,
 
 Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Lois de De Morgan]], [[Différence d'ensembles]], [[Image et image réciproque]].
 
-Résumés : [[Chapitre2-Ensemble (4) (résumé)]], [[chp 2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]]

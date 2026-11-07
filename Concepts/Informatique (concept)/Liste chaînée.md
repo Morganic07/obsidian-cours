@@ -18,8 +18,8 @@ matieres:
   - Algo
   - C++
 sources:
-  - "[[chp 2 - piles listes file (résumé)|chp2 - piles listes file]]"
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[2 - piles listes file (résumé)|chp2 - piles listes file]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -38,6 +38,6 @@ Liens : [[Pile et file]], [[Pointeur et adresse mémoire]], [[Structure (struct)
 
 ## À vérifier
 
-- [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]] : une annotation `[cite: 1]` est restée dans un commentaire du code (relevé du résumé).
+- [[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]] : une annotation `[cite: 1]` est restée dans un commentaire du code (relevé du résumé).
 
-Résumés : [[chp 2 - piles listes file (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[2 - piles listes file (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

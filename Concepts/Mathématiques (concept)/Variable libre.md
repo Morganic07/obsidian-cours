@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [free variable, free variables, variables libres]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]", "[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"]
+tags:
+  - year2
+aliases:
+  - free variable
+  - free variables
+  - variables libres
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +20,4 @@ Un système compatible a une solution unique s'il n'a pas de variable libre, et 
 
 Notion parente : [[Forme échelonnée]]. Voir aussi : [[Espace nul]], [[Système linéaire]].
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[chp 0d - Vector Space (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]]

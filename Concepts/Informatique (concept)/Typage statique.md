@@ -5,7 +5,7 @@ tags:
 aliases:
   - static typing
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Langage C]]. Voir aussi : [[Type primitif]], [[Erreur de comp
 
 - Le cours dit que l'addition d'un entier et d'une adresse « n'a pas de sens » ; en C, c'est de l'arithmétique de pointeurs valide, seule l'affectation du résultat à un `int` pose problème (complément du résumé).
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

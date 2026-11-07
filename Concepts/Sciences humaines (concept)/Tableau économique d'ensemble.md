@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Gestion financière
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-07
 ---
 
@@ -15,8 +15,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans la note de [[chp 1 - gestion financière (résumé)|Gestion financière]] sans définition : « TEE tableau économique d'ensemble ».
+Nommé dans la note de [[1 - gestion financière (résumé)|Gestion financière]] sans définition : « TEE tableau économique d'ensemble ».
 
 Voir aussi : [[Produit intérieur brut]].
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

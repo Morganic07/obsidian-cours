@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [motherboard, carte-mère]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Voir aussi : [[Bus système]], [[BIOS et UEFI]].
 
 - La photo annotée cite aussi North Bridge, South Bridge et la pile CMOS (lu dans la transcription seulement).
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 2 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[2 - OS (résumé)]]

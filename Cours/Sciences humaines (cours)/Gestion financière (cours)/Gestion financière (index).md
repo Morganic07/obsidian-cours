@@ -3,15 +3,15 @@ type: matiere
 tags:
   - year4
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-06
 ---
 
-Gestion financière de 4e année : une seule note, rangée à la racine de `Year 4` et non dans un dossier de matière. Résumé : [[chp 1 - gestion financière (résumé)|Gestion financière (résumé)]].
+Gestion financière de 4e année : une seule note, rangée à la racine de `Year 4` et non dans un dossier de matière. Résumé : [[1 - gestion financière (résumé)|Gestion financière (résumé)]].
 
 | Note | Contenu | Résumé |
 |---|---|---|
-| [[chp 1 - gestion financière (résumé)\|Gestion financière]] | Types de banque, marchés financiers, balances, TEE, PIB et PNB, coût et prix | [[chp 1 - gestion financière (résumé)\|Résumé]] |
+| [[1 - gestion financière (résumé)\|Gestion financière]] | Types de banque, marchés financiers, balances, TEE, PIB et PNB, coût et prix | [[1 - gestion financière (résumé)\|Résumé]] |
 
 La note n'est qu'une liste de définitions brèves : les pages de concepts ci-dessous n'en disent pas plus qu'elle.
 

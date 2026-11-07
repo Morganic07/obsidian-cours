@@ -10,4 +10,4 @@ Méthode de calcul des sommes citée au chapitre 0. Exemple du DS1 2022 : $\sum 
 
 Notion parente : [[Symboles somme et produit]]. Voir aussi : [[Somme télescopique]].
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]]

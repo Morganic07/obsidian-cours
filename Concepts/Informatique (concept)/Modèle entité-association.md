@@ -1,9 +1,23 @@
 ---
 type: concept
-tags: [year3]
-aliases: [MCD, schéma E/A, schéma entité-association, diagramme entité-association, ER diagram, modèle conceptuel de données, MERISE, cardinalités, entité faible, association réflexive]
-matieres: [Data base, ligue football]
-sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]"]
+tags:
+  - year3
+aliases:
+  - MCD
+  - schéma E/A
+  - schéma entité-association
+  - diagramme entité-association
+  - ER diagram
+  - modèle conceptuel de données
+  - MERISE
+  - cardinalités
+  - entité faible
+  - association réflexive
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[1 - Database (résumé)|Cours 1 et 2 - Database]]"
 maj: 2026-11-06
 ---
 
@@ -24,4 +38,4 @@ Le projet de la ligue de football applique l'[[Héritage en base de données]] e
 
 Liens : [[Schéma relationnel]], [[Clé primaire et clé étrangère]], [[Héritage en base de données]]
 
-Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[1 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]

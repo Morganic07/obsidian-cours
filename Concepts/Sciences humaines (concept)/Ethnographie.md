@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Anthropologie]], [[Ethnographie visuelle]], [[Netnographie]], [[Observation de terrain]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

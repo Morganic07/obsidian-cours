@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [diagonal matrix, matrices diagonales, matrice identité, identity matrix, I_n]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"]
+tags:
+  - year2
+aliases:
+  - diagonal matrix
+  - matrices diagonales
+  - matrice identité
+  - identity matrix
+  - I_n
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +27,4 @@ Voir aussi : [[Diagonalisation]], [[Matrice inversible]], [[Base (algèbre liné
 
 Les définitions exactes sont dans des images qui n'ont pas été relues.
 
-Résumés : [[chp 0b - Matrix algebra (résumé)]], [[chp 0e - Eigenvalues and eigenvectors (résumé)]]
+Résumés : [[0 - Matrix algebra (résumé)]], [[0 - Eigenvalues and eigenvectors (résumé)]]

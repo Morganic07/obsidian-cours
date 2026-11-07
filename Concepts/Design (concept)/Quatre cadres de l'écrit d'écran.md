@@ -21,4 +21,4 @@ Notion parente : [[Écrit d'écran]]. Voir aussi : [[Architexte]].
 
 - La diapositive 18 range le système d'exploitation sous « Infrastructure matérielle » pour le cadre 2.
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

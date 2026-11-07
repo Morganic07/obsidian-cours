@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [distance associée à une norme, distance euclidienne, distance between vectors, distance de Manhattan, distance de Hamming, Euclidean distance, Manhattan distance, Hamming distance]
 matieres: [Analyse dans Rn, Bilinear Algebra, data mining]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ maj: 2026-11-06
 
 Notion parente : [[Norme]]. Voir aussi : [[Boule et voisinage]], [[Inégalité triangulaire]], [[Inertie (clustering)]], [[K plus proches voisins]].
 
-Résumés : [[chp 2 - éléments de topologie dans Rn (résumé)]], [[chp 1 - Orthogonality (résumé)]], [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[2 - éléments de topologie dans Rn (résumé)]], [[1 - Orthogonality (résumé)]], [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

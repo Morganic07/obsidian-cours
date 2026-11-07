@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [graphe acyclique, acyclique, cycle élémentaire, cycle de longueur paire]
 matieres: [Algo, graph theory]
-sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ maj: 2026-11-06
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Arbre (théorie des graphes)]], [[Circuit (graphe)]], [[Chaîne (graphe)]], [[Graphe biparti]], [[Algorithme de Kruskal]].
 
-Résumés : [[chp 3 - Arbres (résumé)]], [[chp 1 - Undirected graph (résumé)]], [[chp 2 - tree (résumé)]]
+Résumés : [[3 - Arbres (résumé)]], [[1 - Undirected graph (résumé)]], [[2 - tree (résumé)]]

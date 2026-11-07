@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état]]"
+  - "[[1 - philo (résumé)|L'état]]"
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Nommés dans le cours sur l'état, sans définition : les sophistes sont cités 
 
 Voir aussi : [[Animal politique]].
 
-Résumés : [[chp 1 - philo (résumé)]]
+Résumés : [[1 - philo (résumé)]]

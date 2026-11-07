@@ -12,7 +12,7 @@ aliases:
 matieres:
   - Peinture
 sources:
-  - "[[chp 2 (résumé)|Cours 2]]"
+  - "[[2 - Peinture (résumé)|Cours 2]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Une couleur n'existe pas sans contexte : son aspect dépend des couleurs voisine
 
 Voir [[Cercle chromatique]].
 
-Résumé : [[chp 2 (résumé)|Cours 2 (résumé)]]
+Résumé : [[2 - Peinture (résumé)|Cours 2 (résumé)]]

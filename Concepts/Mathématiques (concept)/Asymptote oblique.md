@@ -5,7 +5,7 @@ tags:
 aliases:
   - asymptotes obliques
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
   - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
 maj: 2026-11-06
 ---
@@ -16,4 +16,4 @@ $f$ admet une asymptote oblique en $\pm\infty$ s'il existe $(a, b) \in \mathbb{R
 
 Notion parente : [[Développement limité]]. Voir aussi : [[Développement asymptotique]].
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]

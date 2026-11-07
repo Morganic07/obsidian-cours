@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [bootable USB, clé USB bootable, Rufus]
 matieres: [Operating System]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Arbre de décision de l'installation sur PC selon le chp 3 : obtenir l'[[Image I
 
 Voir aussi : [[Image ISO]], [[Machine virtuelle]].
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

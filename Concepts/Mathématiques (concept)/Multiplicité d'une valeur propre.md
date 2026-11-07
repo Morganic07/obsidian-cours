@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [multiplicity, multiplicité, multiplicité algébrique, algebraic multiplicity]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]", "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+tags:
+  - year2
+aliases:
+  - multiplicity
+  - multiplicité
+  - multiplicité algébrique
+  - algebraic multiplicity
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +27,4 @@ Notion parente : [[Équation caractéristique]]. Voir aussi : [[Espace propre]],
 
 Une note du cours définit la multiplicité comme « la valeur de la puissance de chaque λ », formulation imprécise.
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]]

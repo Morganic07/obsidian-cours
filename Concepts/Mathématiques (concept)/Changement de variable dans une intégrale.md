@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: ["changement de variables x = φ(t)", intégration par changement de variable]
-matieres: [Analyse]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"]
+tags:
+  - year2
+aliases:
+  - changement de variables x = φ(t)
+  - intégration par changement de variable
+matieres:
+  - Analyse
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +23,4 @@ Le chapitre 9 étend le changement de variables aux intégrales doubles, avec la
 
 Notion parente : [[Primitive]]. Voir aussi : [[Règles de Bioche]], [[Intégrale multiple]], [[Matrice jacobienne]].
 
-Résumés : [[chp 7 - Integration (résumé)]], [[démonstrations - integration (résumé)]], [[TD7-integration (1) (résumé)]], [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[TD7-integration (1) (résumé)]], [[2 - intégrales multiples (résumé)]]

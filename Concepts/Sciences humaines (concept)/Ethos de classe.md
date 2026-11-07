@@ -18,4 +18,4 @@ Voir aussi : [[Concurrence pour l'espace]], [[Caractérologie des véhicules]].
 
 - Lecture partielle de text3 : à confirmer sur l'article (Persée).
 
-Résumés : [[chp 6 - usages sociaux de l'automobile (résumé)]]
+Résumés : [[6 - usages sociaux de l'automobile (résumé)]]

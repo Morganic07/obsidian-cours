@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [rbash, restricted bash]
 matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Shell et Bash]].
 
 - Le développé « restricted bash » n'est pas dans le cours.
 
-Résumés : [[OS - chp 5 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[DM Shell Scripting (résumé)]]

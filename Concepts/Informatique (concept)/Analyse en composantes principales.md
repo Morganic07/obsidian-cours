@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [PCA, principal component analysis, principal components analysis, composantes principales, composante principale, principal component, ACP, scree plot, biplot, Dim 1, PC1, PC2]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]", "[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
+sources: ["[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]", "[[13 - PCA in R (résumé)|Cours 13 - PCA in R]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Voir aussi : [[Matrice de covariance]], [[Loadings et scores (ACP)]], [[Cercle d
 
 Deux conventions de « valeur propre » (de $X^TX$ ou de la covariance) ; nombre de composantes $\min(d, n-1)$ plutôt que min(variables, échantillons) ; c'est le vecteur propre et non la valeur propre qui donne la composante.
 
-Résumés : [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]
+Résumés : [[13 - Principal Components Analysis (résumé)]], [[13 - PCA in R (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [context switch, context switching, commutation de contexte]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Le contexte est représenté dans le PCB. Le [[Dispatcher]] est le composant qui
 
 Liens : [[Processus]], [[Ordonnancement des processus]], [[Bloc de contrôle de processus]]
 
-Résumé : [[OS - chp 7 (résumé)]]
+Résumé : [[7 - OS (résumé)]]

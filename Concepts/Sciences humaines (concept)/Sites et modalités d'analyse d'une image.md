@@ -16,4 +16,4 @@ Notion parente : [[Ethnographie visuelle]]. Voir aussi : [[Types d'analyse d'une
 
 La note écrit « Rose de Rose (2007) ».
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

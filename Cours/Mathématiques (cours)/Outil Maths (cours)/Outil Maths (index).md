@@ -1,29 +1,29 @@
 ---
 type: matiere
 tags: [year1]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
-Outils de base du raisonnement mathématique : logique, ensembles, relations, fonctions, nombres complexes. Les 4 notes sont intégrées. Le chapitre 4 (fonctions et applications) n'existe qu'en PDF : voir [[Chapitre4-Fonctions (1) (résumé)]]. Les PDF du professeur, les feuilles d'exercices et un contrôle sont résumés dans la section « Documents PDF ».
+Outils de base du raisonnement mathématique : logique, ensembles, relations, fonctions, nombres complexes. Les 4 notes sont intégrées. Le chapitre 4 (fonctions et applications) n'existe qu'en PDF : voir [[4 - pdf (résumé)]]. Les PDF du professeur, les feuilles d'exercices et un contrôle sont résumés dans la section « Documents PDF ».
 
 ## Parcours
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - logique (résumé)\|Chapitre 1 logique]] | Connecteurs, quantificateurs, types de preuve | [[chp 1 - logique (résumé)\|Résumé]] |
-| [[chp 2 - ensembles (résumé)\|Chapitre 2 ensembles]] | Opérations, partitions, cardinal | [[chp 2 - ensembles (résumé)\|Résumé]] |
-| [[chp 3 - Relation binaire (résumé)\|Chapitre 3 - Relation binaire]] | Équivalence, ordre | [[chp 3 - Relation binaire (résumé)\|Résumé]] |
-| Chapitre 4 (PDF seul) | Applications, injective, surjective, bijective, image réciproque | [[Chapitre4-Fonctions (1) (résumé)\|Résumé]] |
-| [[chp 5 - Complexes (résumé)\|Chapitre 5 - Complexes]] | Formes d'un complexe, Moivre, Euler | [[chp 5 - Complexes (résumé)\|Résumé]] |
+| [[1 - logique (résumé)\|Chapitre 1 logique]] | Connecteurs, quantificateurs, types de preuve | [[1 - logique (résumé)\|Résumé]] |
+| [[2 - ensembles (résumé)\|Chapitre 2 ensembles]] | Opérations, partitions, cardinal | [[2 - ensembles (résumé)\|Résumé]] |
+| [[3 - Relation binaire (résumé)\|Chapitre 3 - Relation binaire]] | Équivalence, ordre | [[3 - Relation binaire (résumé)\|Résumé]] |
+| Chapitre 4 (PDF seul) | Applications, injective, surjective, bijective, image réciproque | [[4 - pdf (résumé)\|Résumé]] |
+| [[5 - Complexes (résumé)\|Chapitre 5 - Complexes]] | Formes d'un complexe, Moivre, Euler | [[5 - Complexes (résumé)\|Résumé]] |
 
 ## Documents PDF
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Chapitre 2 - Ensembles (PDF du professeur) | Version diapositives du chapitre 2 | [[Chapitre2-Ensemble (4) (résumé)\|Résumé]] |
-| Chapitre 3 - Relation binaire (PDF du professeur) | Équivalence, ordre, bornes | [[Chapitre3-Relation binaire (résumé)\|Résumé]] |
-| Chapitre 4 - Fonctions (PDF du professeur) | Applications, bijections, images | [[Chapitre4-Fonctions (1) (résumé)\|Résumé]] |
+| Chapitre 2 - Ensembles (PDF du professeur) | Version diapositives du chapitre 2 | [[2 - pdf (résumé)\|Résumé]] |
+| Chapitre 3 - Relation binaire (PDF du professeur) | Équivalence, ordre, bornes | [[3 - pdf (résumé)\|Résumé]] |
+| Chapitre 4 - Fonctions (PDF du professeur) | Applications, bijections, images | [[4 - pdf (résumé)\|Résumé]] |
 | Exo Chapitre 1 Logique | 19 exercices de logique et de preuves (scan) | [[Exo_Chapitre1_Logique (résumé)\|Résumé]] |
 | Exo Chapitre 2 | 11 exercices d'ensembles, sans corrigé | [[Exo-Chapitre 2 (résumé)\|Résumé]] |
 | TD Ensembles | Corrigé de 13 exercices d'ensembles | [[TDEnsembles (1) (résumé)\|Résumé]] |
@@ -43,16 +43,16 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 
 ## À revoir en priorité avant un examen
 
-- [[chp 2 - ensembles (résumé)]] : De Morgan écrit avec $\cup$ des deux côtés pour $\overline{A \cup B}$ (il faut $\cap$) ; « $N \in Z \in Q \in R$ » au lieu de l'inclusion.
-- [[chp 3 - Relation binaire (résumé)]] : antisymétrie écrite avec $yRz$ au lieu de $yRx$.
-- [[Chapitre2-Ensemble (4) (résumé)]] : même erreur de De Morgan (propriété 6) dans le PDF du professeur, vérifiée sur l'image.
+- [[2 - ensembles (résumé)]] : De Morgan écrit avec $\cup$ des deux côtés pour $\overline{A \cup B}$ (il faut $\cap$) ; « $N \in Z \in Q \in R$ » au lieu de l'inclusion.
+- [[3 - Relation binaire (résumé)]] : antisymétrie écrite avec $yRz$ au lieu de $yRx$.
+- [[2 - pdf (résumé)]] : même erreur de De Morgan (propriété 6) dans le PDF du professeur, vérifiée sur l'image.
 - [[TD4Applications-Solutions (résumé)]] : $f_2^{-1}(]-1,1[)$ faux pour le sinus, bornes ouvertes à tort à l'exercice 9.
 - [[TDRelations (résumé)]] : l'argument d'incomparabilité de 2 et 3 (exercice 4.1) ne prouve pas ce qu'il annonce.
-- [[chp 5 - Complexes (résumé)]] : $|\cos\theta + \sin\theta| = 1$ et $\cos 2x = 1 - \sin^2 x$ sont faux tels qu'écrits.
+- [[5 - Complexes (résumé)]] : $|\cos\theta + \sin\theta| = 1$ et $\cos 2x = 1 - \sin^2 x$ sont faux tels qu'écrits.
 
 ## Liens avec les autres matières
 
-- **[[Algo Maths (index)]]** : la [[Récurrence]] sert à prouver le nombre de coups des [[Tours de Hanoï]].
+- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : la [[Récurrence]] sert à prouver le nombre de coups des [[Tours de Hanoï]].
 - **[[Analyse Maths (index)]]** : la [[Logique propositionnelle]] (quantificateurs) sert aux définitions de limite ; les [[Nombre complexe|complexes]] reviennent dans les formules d'Euler. [[Borne supérieure]], [[Inégalité triangulaire]], [[Composition de fonctions]] et [[Équation du second degré]] y sont repris.
 - **[[Algèbre linéaire (index)]]**, **[[Bilinear Algebra (index)]]** : [[Injectivité et surjectivité]] et [[Bijection]] s'y appliquent aux applications linéaires ; le corrigé du TD4 résout des [[Système linéaire|systèmes linéaires]].
 - **[[Probability (index)]]** : [[Opérations sur les ensembles]] et [[Cardinal d'un ensemble]] fondent le calcul des événements.

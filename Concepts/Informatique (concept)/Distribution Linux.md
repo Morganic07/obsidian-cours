@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Linux distribution, distro, distribution Linux, Debian, Ubuntu LTS, Fedora, Arch Linux, CentOS, openSUSE]
 matieres: [Operating System]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Une distribution (« distro ») est un ensemble de paquets logiciels regroupés 
 
 Notion parente : [[Linux]]. Voir aussi : [[Noyau]], [[Ubuntu]], [[Image ISO]], [[Environnement de bureau]], [[APT]], [[Système de fichiers]], [[Shell et Bash]]
 
-Résumés : [[OS - chp 3 (résumé)]], [[OS - chp 5 (résumé)]]
+Résumés : [[3 - OS (résumé)]], [[5 - OS (résumé)]]

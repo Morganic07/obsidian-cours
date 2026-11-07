@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 4 - philo (résumé)|philo 2]]"
+  - "[[4 - philo (résumé)|philo 2]]"
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Avant la Renaissance, la nature est le cosmos, un ordre fini et harmonieux. Le m
 
 Notion parente : [[Révolution scientifique]]. Voir aussi : [[Finalisme]].
 
-Résumés : [[chp 4 - philo (résumé)]]
+Résumés : [[4 - philo (résumé)]]

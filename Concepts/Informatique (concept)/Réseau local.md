@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [LAN, local area network]
 matieres: [Computer Network]
-sources: ["[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Commutateur]].
 
 - Le développement « local area network » n'est pas dans le cours.
 
-Résumés : [[chp 4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[4 - VLAN ／ IVR Commands (résumé)]]

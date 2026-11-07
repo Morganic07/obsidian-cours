@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Domain Name System, Domain Name Server, résolution de noms, address resolution, résolution DNS]
-matieres: [Operating System]
-sources: ["[[Séance TP3 (résumé)|Cours TP3]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]", "[[séance TP1 (résumé)|cours TP1]]"]
+tags:
+  - year2
+aliases:
+  - Domain Name System
+  - Domain Name Server
+  - résolution de noms
+  - address resolution
+  - résolution DNS
+matieres:
+  - Operating System
+sources:
+  - "[[3 - TP3 (résumé)|Cours TP3]]"
+  - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -13,6 +23,6 @@ Voir aussi : [[Nom d'hôte]], [[Fichier hosts]].
 
 ## À vérifier
 
-- Écart entre sources : le sujet du TP3 (TP3-Commands  (2) ([[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]])) développe DNS en « Domain Name Server », le [[séance TP1 (résumé)|cours TP1]] en « Domain Name System » (forme usuelle).
+- Écart entre sources : le sujet du TP3 (TP3-Commands  (2) ([[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]])) développe DNS en « Domain Name Server », le [[chp 1 - séance TP1 (résumé)|cours TP1]] en « Domain Name System » (forme usuelle).
 
-Résumés : [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[séance TP1 (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[chp 1 - séance TP1 (résumé)]]

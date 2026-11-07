@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [device controller, contrôleurs de périphériques, disk controller, USB controller]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemple du cours : le clavier contient un petit processeur local qui convertit l
 
 Voir aussi : [[Pilote de périphérique]], [[Tampon (buffer)]], [[Interruption]], [[Accès direct à la mémoire]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

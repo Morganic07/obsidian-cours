@@ -14,4 +14,4 @@ Nommée dans le cours de data mining sans définition : les règles d'associatio
 
 Notion parente : [[Apprentissage non supervisé]]. Voir aussi : [[Apprentissage supervisé]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

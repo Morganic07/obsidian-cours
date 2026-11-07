@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Voir aussi : [[Autonomie morale]].
 
 - La disposition du dessin est perdue : le rattachement exact de « sans exception » et « avec exception » est incertain.
 
-Résumés : [[chp 2 - philo (résumé)]]
+Résumés : [[2 - philo (résumé)]]

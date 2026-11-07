@@ -11,8 +11,8 @@ Cours « Affordance » de 3e année (janvier à mars 2026) : ergonomie, user res
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Présentation Tests Utilisateurs ID3 (8 janvier 2026) | Ergonomie, organisation du cours, protocole d'un test utilisateur | [[chp 1 - UX (résumé)\|Résumé]] |
-| UX Research - Observation - 2026 (janvier 2026) | Entretien, questionnaire, observation, grille d'observation | [[chp 2 - UX (résumé)\|Résumé]] |
+| Présentation Tests Utilisateurs ID3 (8 janvier 2026) | Ergonomie, organisation du cours, protocole d'un test utilisateur | [[1 - UX (résumé)\|Résumé]] |
+| UX Research - Observation - 2026 (janvier 2026) | Entretien, questionnaire, observation, grille d'observation | [[2 - UX (résumé)\|Résumé]] |
 
 ## Concepts
 

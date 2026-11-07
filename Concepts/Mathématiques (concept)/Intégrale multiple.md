@@ -7,7 +7,7 @@ sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales 
 maj: 2026-11-06
 ---
 
-Une intégrale multiple étend l'[[Intégrale]] d'une variable à une fonction de plusieurs variables, sur un domaine de $\mathbb{R}^2$ ou $\mathbb{R}^n$. Source : [[chp 9 - intégrales multiples (résumé)]].
+Une intégrale multiple étend l'[[Intégrale]] d'une variable à une fonction de plusieurs variables, sur un domaine de $\mathbb{R}^2$ ou $\mathbb{R}^n$. Source : [[2 - intégrales multiples (résumé)]].
 
 ## Domaines
 
@@ -33,4 +33,4 @@ Notion parente : [[Intégrale]]. Voir aussi : [[Pavé]], [[Compact élémentaire
 
 - Seules les intégrales doubles figurent dans ces notes manuscrites, et le jacobien polaire ($r$) n'y est pas écrit.
 
-Résumé : [[chp 9 - intégrales multiples (résumé)]]
+Résumé : [[2 - intégrales multiples (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [cardinal, ensemble fini, cardinality, Cardinal of a set]
 matieres: [Outil Maths, Probability]
-sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Un ensemble $E$ est **fini** s'il est vide ou contient un nombre fini d'élémen
 
 Notion parente : [[Ensemble (mathématiques)]]. Voir aussi : [[Équiprobabilité]], [[Dénombrement]], [[Opérations sur les ensembles]], [[Ensemble dénombrable]].
 
-Résumés : [[Chapitre2-Ensemble (4) (résumé)]], [[chp 2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[chp 1 - Sample space,events, proba (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[1 - Sample space,events, proba (résumé)]]

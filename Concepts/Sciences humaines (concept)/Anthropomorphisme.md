@@ -14,4 +14,4 @@ Notion rencontrée dans deux textes de lecture de SHS sur l'automobile :
 
 Voir aussi : [[Paréidolie]], [[Voiture autonome]], [[Moi blindé]].
 
-Résumés : [[chp 5 - imaginaires de l'automobile (résumé)]], [[chp 4 - imaginaires automobile (résumé)]]
+Résumés : [[5 - imaginaires de l'automobile (résumé)]], [[4 - imaginaires automobile (résumé)]]

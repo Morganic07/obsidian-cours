@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [system(), fonction system]
-matieres: [Operating System]
-sources: ["[[Séance TP4 (résumé)|Cours TP4]]", "[[TP4 (résumé)|TP4]]"]
+tags:
+  - year2
+aliases:
+  - system()
+  - fonction system
+matieres:
+  - Operating System
+sources:
+  - "[[4 - TP4 (résumé)|Cours TP4]]"
+  - "[[TP4 (résumé)|TP4]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ Employée au TP4 sans définition : le processus fils copie le fichier par `syst
 
 Voir aussi : [[Commande cp]], [[Sauvegarde de fichier]].
 
-Résumés : [[Séance TP4 (résumé)]], [[TP4 (résumé)]]
+Résumés : [[4 - TP4 (résumé)]], [[TP4 (résumé)]]

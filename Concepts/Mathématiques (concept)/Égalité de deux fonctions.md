@@ -12,4 +12,4 @@ Exemple du cours : $\sin : \mathbb{R} \to \mathbb{R}$ et $\sin : \mathbb{R} \to 
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Ensemble de définition]].
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

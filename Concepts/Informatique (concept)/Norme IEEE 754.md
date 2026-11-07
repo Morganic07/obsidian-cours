@@ -5,7 +5,7 @@ tags:
 aliases:
   - IEEE 754
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Nommée dans le cours de C sans plus de détail : c'est la norme appliquée pour
 
 Notion parente : [[Type primitif]]. Voir aussi : [[Complément à deux]].
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [règles d'inférence, syllogisme disjonctif, syllogisme hypothétique, introduction de la disjonction, introduction de la conjonction, élimination de la conjonction]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Les règles d'inférence sont des arguments valides, briques de base des argumen
 
 Notion parente : [[Argument valide]].
 
-Résumés : [[chp 1 - logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

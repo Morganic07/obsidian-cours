@@ -6,7 +6,7 @@ aliases:
   - informations froides
   - informations chaudes
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Les informations froides sont celles qu'on nous donne ; les informations chaudes
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Neuf sens]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]]

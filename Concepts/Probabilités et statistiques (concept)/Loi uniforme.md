@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [uniform distribution, loi uniforme continue, distribution uniforme]
-sources: ["[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ maj: 2026-11-06
 
 Notion parente : [[Variable aléatoire]]. Voir aussi : [[Loi normale]].
 
-Résumés : [[chp 5 - Continuous random variable (résumé)]], [[chp 3 - More on probability (résumé)]]
+Résumés : [[5 - Continuous random variable (résumé)]], [[3 - More on probability (résumé)]]

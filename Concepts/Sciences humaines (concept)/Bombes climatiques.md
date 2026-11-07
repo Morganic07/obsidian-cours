@@ -14,4 +14,4 @@ Notion parente : [[Effet de serre]].
 
 - La diapositive écrit « Kjell Khüne ».
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

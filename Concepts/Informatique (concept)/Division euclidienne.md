@@ -13,4 +13,4 @@ Exemples d'AlgoID1 : décomposition d'une somme en billets et pièces, conversio
 
 Voir aussi : [[Récursivité]], [[Polynôme]] (division euclidienne de polynômes en Outil Maths).
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

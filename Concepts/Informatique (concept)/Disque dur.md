@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [HDD, hard disk drive, hard-disk drive, hard drive, disques durs]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Partition (disque)]
 
 - L'affirmation sur la fiabilité comparée des HDD, SSD et bandes n'est pas vérifiée (signalée dans le résumé du chp 2).
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 2 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[2 - OS (résumé)]]

@@ -13,8 +13,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état (Philosophie)]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
+  - "[[1 - philo (résumé)|L'état (Philosophie)]]"
+  - "[[4 - philo (résumé)|philo 2]]"
 maj: 2026-11-06
 ---
 
@@ -33,4 +33,4 @@ Appliqué à la nature, le modèle donne l'idée que la Nature ne fait rien en v
 
 Notion parente : [[Finalisme]]. Voir aussi : [[L'art imite la nature]].
 
-Résumés : [[chp 4 - philo (résumé)|philo 2 (résumé)]], [[chp 1 - philo (résumé)|L'état (résumé)]]
+Résumés : [[4 - philo (résumé)|philo 2 (résumé)]], [[1 - philo (résumé)|L'état (résumé)]]

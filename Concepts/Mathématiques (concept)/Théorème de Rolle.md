@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: []
-sources: ["[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
+sources: ["[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Dérivabilité]]. Voir aussi : [[Extremum local]].
 
 - Le cours écrit $c \in [a, b]$ ; le théorème usuel donne $c \in\, ]a, b[$.
 
-Résumés : [[chp 4 - dérivabilité (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]], [[Contrôles (résumé)]]

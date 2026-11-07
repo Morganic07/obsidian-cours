@@ -10,4 +10,4 @@ Thème 2026 du cours de sémiotique : passer de l'analyse critique des applicati
 
 Voir aussi : [[Conception centrée utilisateur]], [[Manifeste pour le vivant]], [[Savoirs situés]].
 
-Résumés : [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]]

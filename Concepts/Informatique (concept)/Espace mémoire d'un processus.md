@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [process in memory, memory layout, text section, data section, section de texte, section de données]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Notion parente : [[Processus]]. Voir aussi : [[Pointeur et adresse mémoire]].
 
 - Le schéma écrit « agrv » pour `argv` (faute sans conséquence).
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

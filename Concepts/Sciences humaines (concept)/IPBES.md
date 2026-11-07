@@ -15,4 +15,4 @@ Nommé dans la chronologie de VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/
 
 Voir aussi : [[GIEC]], [[Accord de Kunming-Montréal]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

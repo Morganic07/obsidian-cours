@@ -19,4 +19,4 @@ Voir aussi : [[IPBES]], [[Accord de Paris]].
 
 - Le sigle anglais « IPCC » n'est pas dans le cours.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

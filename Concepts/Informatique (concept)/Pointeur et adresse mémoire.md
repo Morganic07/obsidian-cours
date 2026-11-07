@@ -12,8 +12,8 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-  - "[[chp 2 - structures code (résumé)|chp2 - structures code]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[2 - structures code (résumé)|chp2 - structures code]]"
 maj: 2026-11-06
 ---
 
@@ -32,4 +32,4 @@ Toute donnée en mémoire est rangée à une **adresse**, notée en hexadécimal
 
 Liens : [[Structure (struct)]], [[Liste chaînée]], [[Arithmétique des pointeurs]], [[Allocation dynamique]], [[Passage par valeur]], [[Pointeur NULL]]
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[chp 2 - structures code (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[2 - structures code (résumé)]]

@@ -11,4 +11,4 @@ L'image comme mode de participation : on donne sa caméra aux personnes que l'on
 
 Notion parente : [[Usages de l'image en ethnographie]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

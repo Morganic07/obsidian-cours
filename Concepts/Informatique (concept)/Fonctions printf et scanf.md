@@ -11,8 +11,8 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -39,4 +39,4 @@ Notion parente : [[Langage C]]. Voir aussi : [[Type primitif]], [[Pointeur et ad
 
 - Chapitre 3 : « soit on fait %d, soit %p » pour afficher une adresse ; seul `%p` est correct (complément du résumé).
 
-Résumés : [[chp 1 - basiques (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[1 - basiques (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

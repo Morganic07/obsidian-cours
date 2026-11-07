@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"
   - "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
 maj: 2026-11-06
 ---
 
@@ -30,4 +30,4 @@ Notion parente : [[Injectivité et surjectivité]]. Voir aussi : [[Fonction iden
 
 - chp2 écrit $(f \circ g)^{-1} = f^{-1}(g^{-1}(x))$, ce qui est faux : l'ordre s'inverse, $(f \circ g)^{-1} = g^{-1} \circ f^{-1}$.
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)]]
+Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)]]

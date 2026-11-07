@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [sample mean, X barre]
-sources: ["[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
+sources: ["[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ obtenue avec $a_1=\dots=a_n=1/n$ (et $b=0$).
 
 Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Théorème central limite]], [[Variance et écart-type d'échantillon]].
 
-Résumés : [[chp 6 - Joint probability distributions (résumé)]]
+Résumés : [[6 - Joint probability distributions (résumé)]]

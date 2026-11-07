@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [RAM, random access memory, DRAM, Dynamic Random Access Memory]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Espace où sont stockées et transférées les données que traite le CPU. Un pr
 
 Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Mémoire cache]], [[SSD]], [[Cycle mémoire]], [[Mémoire volatile et non volatile]], [[Commande free]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

@@ -7,8 +7,8 @@ aliases:
   - niveaux du stress
   - cerveau primitif
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Voir aussi : [[Système nerveux sympathique et parasympathique]], [[Émotion et 
 
 - Explication évolutionniste présentée sans source par l'intervenant.
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]], [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]], [[1 - corps à l'oeuvre (résumé)]]

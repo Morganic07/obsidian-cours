@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: []
 matieres: [Java]
-sources: ["[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
+sources: ["[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
 maj: 2026-11-07
 ---
 
@@ -11,8 +11,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]] sans définition : le cours indique seulement que le type `char` de Java est codé sur 16 bits en Unicode.
+Nommé dans [[1 - Intro Java (résumé)|Chp1 - Intro Java]] sans définition : le cours indique seulement que le type `char` de Java est codé sur 16 bits en Unicode.
 
 Notion parente : [[Type primitif]].
 
-Résumés : [[chp 1 - Intro Java (résumé)]]
+Résumés : [[1 - Intro Java (résumé)]]

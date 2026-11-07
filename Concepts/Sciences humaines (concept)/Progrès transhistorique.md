@@ -5,7 +5,7 @@ tags:
 aliases:
   - substance transhistorique
 sources:
-  - "[[chp 6 - philo (résumé)|philo 4]]"
+  - "[[6 - philo (résumé)|philo 4]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Pascal compare l'apprentissage de l'humanité à celui d'un individu : le progr�
 
 Notion parente : [[Progrès technique]]. Voir aussi : [[Espace qualitatif et espace quantitatif]], [[Philosophie de l'histoire]].
 
-Résumés : [[chp 6 - philo (résumé)]]
+Résumés : [[6 - philo (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [même parité, nombre pair, nombre impair, entier pair, entier impair]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Théorèmes à connaître du cours de logique : la somme de deux impairs ($2k+1$
 
 Voir aussi : [[Irrationalité de √2]].
 
-Résumés : [[chp 1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]

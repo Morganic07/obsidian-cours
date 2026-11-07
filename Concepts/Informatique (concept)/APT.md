@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Advanced Package Tool, apt update, apt upgrade, apt full-upgrade, apt install, apt-get]
-matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]"]
+tags:
+  - year2
+aliases:
+  - Advanced Package Tool
+  - apt update
+  - apt upgrade
+  - apt full-upgrade
+  - apt install
+  - apt-get
+matieres:
+  - Operating System
+sources:
+  - "[[5 - OS (résumé)|OS - chp 5]]"
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[TP1 (résumé)|TP1]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +28,4 @@ Outil pour installer, supprimer et mettre à jour les paquets d'une distribution
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Commande sudo]].
 
-Résumés : [[OS - chp 5 (résumé)]], [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[Commandes Shell + explications (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[8 - OS commandes sh (résumé)]]

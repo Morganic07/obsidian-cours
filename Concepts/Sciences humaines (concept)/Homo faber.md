@@ -4,8 +4,8 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ L'homme fabricateur.
 
 Voir aussi : [[Technique (philosophie)]], [[Aliénation]].
 
-Résumés : [[chp 3 - philo (résumé)]], [[chp 5 - philo (résumé)]]
+Résumés : [[3 - philo (résumé)]], [[5 - philo (résumé)]]

@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [ls -l]
-matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"]
+tags:
+  - year2
+aliases:
+  - ls -l
+matieres:
+  - Operating System
+sources:
+  - "[[5 - OS (résumé)|OS - chp 5]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +27,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Joker (wildcard)]], [[Lien sy
 
 - Le cours dit que la deuxième colonne compte les liens symboliques ; elle compte les liens physiques (signalé par le résumé).
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[TP1 (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP1 (résumé)]]

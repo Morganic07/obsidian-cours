@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [IPP, intégrations par parties]
-matieres: [Analyse]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
+tags:
+  - year2
+aliases:
+  - IPP
+  - intégrations par parties
+matieres:
+  - Analyse
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +19,4 @@ Le TD7 l'emploie pour calculer des primitives ($x\arctan x$, $e^x\cos x$, $\ln x
 
 Notion parente : [[Primitive]]. Voir aussi : [[Intégrales de Wallis]].
 
-Résumés : [[chp 7 - Integration (résumé)]], [[démonstrations - integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[TD7-integration (1) (résumé)]]

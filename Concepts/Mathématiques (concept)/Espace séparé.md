@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [EVN séparé, espace de Hausdorff]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Le nom « espace de Hausdorff » n'est pas employé dans le cours.
 
 Notion parente : [[Boule et voisinage]]. Voir aussi : [[Norme]].
 
-Résumés : [[chp 2 - éléments de topologie dans Rn (résumé)]]
+Résumés : [[2 - éléments de topologie dans Rn (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [DMA, Direct Memory Access]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Opération d'entrée-sortie]]. Voir aussi : [[Mémoire vive]]
 
 La section est marquée « A COMPRENDRE » par l'étudiante dans la note.
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

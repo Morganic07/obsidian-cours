@@ -12,4 +12,4 @@ Les usages numériques sont toujours corporels (scroller, swiper) : ces gestes s
 
 Voir aussi : [[Corps communicant]], [[Saillance et normalisation]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [systemctl, systemctl start, systemctl enable, systemctl status]
-matieres: [Operating System]
-sources: ["[[Séance TP4 (résumé)|Cours TP4]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
+tags:
+  - year2
+aliases:
+  - systemctl
+  - systemctl start
+  - systemctl enable
+  - systemctl status
+matieres:
+  - Operating System
+sources:
+  - "[[4 - TP4 (résumé)|Cours TP4]]"
+  - "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +19,4 @@ maj: 2026-11-06
 
 Notion parente : [[Démon (informatique)]]. Voir aussi : [[Tâche planifiée cron]].
 
-Résumés : [[Séance TP4 (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[4 - TP4 (résumé)]], [[TP4-Unix Commands (résumé)]]

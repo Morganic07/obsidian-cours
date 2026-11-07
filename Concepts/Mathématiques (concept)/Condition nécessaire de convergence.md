@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [divergence grossière, test for divergence, test de divergence, grossièrement divergente]
-sources: ["[[chp 1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[chp 2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
+sources: ["[[1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Contraposée : si $a_n \not\to 0$, la série diverge (test for divergence). Le t
 
 Notion parente : [[Série numérique]].
 
-Résumés : [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)]], [[chp 2 - Alternating and absolutly convergent series (résumé)]]
+Résumés : [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]]

@@ -7,7 +7,7 @@ aliases:
   - Creative Commons Attribution
 sources:
   - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Nommé dans les notes SHS sans définition. Les assets des courts-métrages de B
 
 Notion parente : [[Licences libres]]. Voir aussi : [[Licence anti-IA]].
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

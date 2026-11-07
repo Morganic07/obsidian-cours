@@ -17,4 +17,4 @@ Approche qui analyse les interfaces numériques comme des dispositifs à la fois
 
 **Trois grilles du cours** (une par séance de fond, cours 2 à 4) : grille 1, « Le numérique, c'est de l'humain » ([[Écrit d'écran]], imaginaires, corps, mémoire) ; grille 2, « Les écrans, ce sont des médias » (médiation, temps, productivité) ; grille 3, « Analyser les médias numériques », sur les enjeux de pouvoir du formatage ([[Architexte]], code, mots, marché). Méthode : [[Analyse de corpus|analyse de corpus]].
 
-Notion parente : [[Sémiotique]]. Voir aussi : [[Non-neutralité des objets techniques]]. Détail : [[chp 2 - sémiotique (résumé)|Cours 2]], [[chp 3 - sémiotique (résumé)|Cours 3]], [[chp 4 - sémiotique (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].
+Notion parente : [[Sémiotique]]. Voir aussi : [[Non-neutralité des objets techniques]]. Détail : [[2 - sémiotique (résumé)|Cours 2]], [[3 - sémiotique (résumé)|Cours 3]], [[4 - sémiotique (résumé)|Cours 4]]. Voir [[Sémiotique]] et [[Discours d'escorte]].

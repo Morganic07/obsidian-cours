@@ -1,9 +1,13 @@
 ---
 type: concept
-tags: [year2]
+tags:
+  - year2
 aliases: []
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Séance TP3 (résumé)|Cours TP3]]"]
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[3 - TP3 (résumé)|Cours TP3]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Substitution de commande]], [[Sauvegarde de fichier]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP3 (résumé)]], [[Séance TP2 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]], [[2 - TP2 (résumé)]]

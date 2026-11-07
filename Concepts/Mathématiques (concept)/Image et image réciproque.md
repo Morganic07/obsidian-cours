@@ -15,7 +15,7 @@ Pour une application $f : E \to F$ :
 
 ## Propriétés
 
-Pour $A, A' \subset E$ et $B, B' \subset F$ ([[Chapitre4-Fonctions (1) (résumé)]]) :
+Pour $A, A' \subset E$ et $B, B' \subset F$ ([[4 - pdf (résumé)]]) :
 
 - $f(A \cup A') = f(A) \cup f(A')$.
 - $f(A \cap A') \subset f(A) \cap f(A')$, avec égalité (pour tous $A$, $A'$) si et seulement si $f$ est injective.
@@ -40,4 +40,4 @@ Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Injectivité e
 
 - Erreurs du corrigé TD4 relevées par [[TD4Applications-Solutions (résumé)]] : ex. 5, $f_2^{-1}(]-1,1[)$ (réponse juste : $\mathbb{R} \setminus (\pi/2 + \pi\mathbb{Z})$) ; ex. 9, bornes de $f([0,2[)$ et $f(]2,4])$ ; ex. 19, $f^{-1}(i\mathbb{R}) = i\mathbb{R}^*$.
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]

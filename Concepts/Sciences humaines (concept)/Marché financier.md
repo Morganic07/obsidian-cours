@@ -7,7 +7,7 @@ aliases:
   - marché d'émission
   - marché d'échange
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-07
 ---
 
@@ -15,7 +15,7 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans la note de [[chp 1 - gestion financière (résumé)|Gestion financière]] sans définition : sur les marchés financiers, on distingue le marché d'émission et le marché d'échange.
+Nommé dans la note de [[1 - gestion financière (résumé)|Gestion financière]] sans définition : sur les marchés financiers, on distingue le marché d'émission et le marché d'échange.
 
 Voir aussi : [[Types de banque]].
 
@@ -23,4 +23,4 @@ Voir aussi : [[Types de banque]].
 
 - Le résumé ajoute qu'on les appelle aussi marché primaire et marché secondaire : ce complément est absent du cours.
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

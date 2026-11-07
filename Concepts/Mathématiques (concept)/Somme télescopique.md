@@ -15,4 +15,4 @@ Exemples du cours : $\sum \frac{1}{k(k+1)}$, $\prod \left(1 - \frac1k\right)$. E
 
 Notion parente : [[Symboles somme et produit]]. Voir aussi : [[Série numérique]].
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [comparison test, limit comparison test, critère des équivalents, règle des équivalents, séries à termes positifs, series with positive terms]
-sources: ["[[chp 1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
+sources: ["[[1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Notion parente : [[Série numérique]]. Voir aussi : [[Comparaison asymptotique]
 
 Le cours pose l'hypothèse « pour tout $n$ », alors que « à partir d'un certain rang » suffit.
 
-Résumés : [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)]], [[chp 2 - Alternating and absolutly convergent series (résumé)]]
+Résumés : [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]]

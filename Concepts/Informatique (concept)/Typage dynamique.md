@@ -14,4 +14,4 @@ Nommé dans AlgoID1 sans définition, comme caractéristique de Python (« Dynam
 
 Notion parente : [[Langage Python]]. Voir aussi : [[Type primitif]], [[Transtypage]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

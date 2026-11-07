@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: []
 matieres: [Operating System]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Système d'exploitation]]. Voir aussi : [[Noyau]], [[Distribu
 
 - Le cours affirme à tort que Mac OS repose sur le noyau Linux.
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

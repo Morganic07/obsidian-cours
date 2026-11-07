@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état (Philosophie)]]"
+  - "[[1 - philo (résumé)|L'état (Philosophie)]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Aristote nie qu'un tel état ait existé (voir [[Animal politique]]). Le cours p
 
 Notion parente : [[Contrat social]].
 
-Résumé : [[chp 1 - philo (résumé)|L'état (résumé)]]
+Résumé : [[1 - philo (résumé)|L'état (résumé)]]

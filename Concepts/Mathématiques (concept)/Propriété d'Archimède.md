@@ -15,4 +15,4 @@ Notion parente : [[Ensembles de nombres]]. Voir aussi : [[Partie entière]].
 
 - Chap1 est scanné : énoncé relevé d'après le résumé.
 
-Résumés : [[chp 1 - reels (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]]

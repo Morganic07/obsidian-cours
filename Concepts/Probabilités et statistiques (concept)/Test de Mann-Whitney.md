@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Mann-Whitney, Mann-Whitney test]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
+sources: ["[[7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-07
 ---
 
@@ -11,8 +11,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]] sans définition : l'organigramme des tests le cite parmi les tests non paramétriques pour deux échantillons indépendants.
+Nommé dans [[7 - Z-Test (résumé)|Cours 7 - Z-Test]] sans définition : l'organigramme des tests le cite parmi les tests non paramétriques pour deux échantillons indépendants.
 
 Notion parente : [[Test paramétrique et non paramétrique]].
 
-Résumés : [[Séance 7 - Z-Test (résumé)]]
+Résumés : [[7 - Z-Test (résumé)]]

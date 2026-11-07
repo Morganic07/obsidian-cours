@@ -17,8 +17,8 @@ aliases:
   - column picture
   - existence and uniqueness theorem
 sources:
-  - "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
-  - "[[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
   - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
@@ -40,6 +40,6 @@ Liens : [[Forme échelonnée]], [[Matrice augmentée]], [[Opérations élémenta
 
 ## À vérifier
 
-- [[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]] écrit la solution « en fonction d'une inconnue » : il peut y en avoir plusieurs, selon le nombre de variables libres.
+- [[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]] écrit la solution « en fonction d'une inconnue » : il peut y en avoir plusieurs, selon le nombre de variables libres.
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[chp 3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

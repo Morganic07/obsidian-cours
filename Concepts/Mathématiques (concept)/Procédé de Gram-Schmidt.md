@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Gram-Schmidt, Gram–Schmidt, Gram–Schmidt Process, Gram schmidt]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ $$\mathbf{v}_1 = \mathbf{x}_1, \qquad \mathbf{v}_k = \mathbf{x}_k - \frac{\mathb
 
 Notion parente : [[Projection orthogonale]]. Liens : [[Orthogonalité]], [[Base (algèbre linéaire)]], [[Famille orthogonale]], [[Factorisation QR]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumé : [[1 - Orthogonality (résumé)]]

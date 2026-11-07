@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Spearman, rho de Spearman, Spearman's rank correlation, corrélation de Spearman, corrélation de rang, rank correlation, rangs ex æquo]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
+sources: ["[[9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Covariance et corrélation]]. Voir aussi : [[Tau de Kendall]]
 
 Pour une relation décroissante, le cours écrit « Spearman is exactly 1 » au lieu de −1.
 
-Résumés : [[Séance 9 - Covariance and Correlation (résumé)]]
+Résumés : [[9 - Covariance and Correlation (résumé)]]

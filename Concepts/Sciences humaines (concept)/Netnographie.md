@@ -16,4 +16,4 @@ Branche de l'ethnographie, avec ses propres attentes. Le numérique est dialogiq
 
 Notion parente : [[Ethnographie]]. Voir aussi : [[Réflexivité]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

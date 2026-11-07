@@ -13,7 +13,7 @@ matieres:
   - Corps à l'oeuvre
   - Anglais
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
   - "[[englis (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
@@ -24,4 +24,4 @@ En Corps à l'oeuvre, le sigle UI = user interface est seulement mentionné.
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Design system]], [[Maquette (design)]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]], [[englis (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]], [[englis (résumé)]]

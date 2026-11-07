@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Variable Length Subnet Mask]
 matieres: [Computer Network]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[Routage classful et 
 
 Le développement du sigle (Variable Length Subnet Mask) n'est pas dans le cours.
 
-Résumés : [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[3 - Dynamic Routing (résumé)]]

@@ -14,4 +14,4 @@ Notion parente : [[Récursivité]]. Voir aussi : [[Recherche dichotomique]], [[R
 
 - Le cours dit « par dichotomie », pas « exponentiation rapide » : nom de page à valider.
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

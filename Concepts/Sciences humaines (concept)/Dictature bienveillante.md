@@ -14,4 +14,4 @@ Notion parente : [[Gouvernance par l'expertise]]. Voir aussi : [[Design contribu
 
 - Le terme anglais « benevolent dictator » n'apparaît pas dans les notes.
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

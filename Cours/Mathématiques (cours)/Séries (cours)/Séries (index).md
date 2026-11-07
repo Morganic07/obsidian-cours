@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year3]
-sources: ["[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]", "[[chp 1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[chp 2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[chp 3 - Sequence of function (résumé)|Chp3 - Sequence of function]]", "[[chp 4 - Series of functions (résumé)|Chp4 - Series of functions]]", "[[chp 5 - power series (résumé)|Chp5 - power series]]", "[[chp 6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"]
+sources: ["[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]", "[[1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[3 - Sequence of function (résumé)|Chp3 - Sequence of function]]", "[[4 - Series of functions (résumé)|Chp4 - Series of functions]]", "[[5 - power series (résumé)|Chp5 - power series]]", "[[6 - Fourier Series (résumé)|Chp6 - Fourier Series]]"]
 maj: 2026-11-06
 ---
 
@@ -11,13 +11,13 @@ Séries numériques, suites et séries de fonctions, séries entières et série
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 0 - Revision chapter (résumé)\|Chp0 - Revision chapter]] | Rappels sur les suites, $o$, $O$, équivalents | [[chp 0 - Revision chapter (résumé)\|Résumé]] |
-| [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)\|Chp1 - Convergent, divergent and positive terms SERIES]] | Séries de référence, termes positifs | [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)\|Résumé]] |
-| [[chp 2 - Alternating and absolutly convergent series (résumé)\|Chp2 - Alternating and absolutly convergent series]] | Alternées, absolue, d'Alembert, Cauchy | [[chp 2 - Alternating and absolutly convergent series (résumé)\|Résumé]] |
-| [[chp 3 - Sequence of function (résumé)\|Chp3 - Sequence of function]] | Convergence simple et uniforme | [[chp 3 - Sequence of function (résumé)\|Résumé]] |
-| [[chp 4 - Series of functions (résumé)\|Chp4 - Series of functions]] | Convergence normale, échanges | [[chp 4 - Series of functions (résumé)\|Résumé]] |
-| [[chp 5 - power series (résumé)\|Chp5 - power series]] | Rayon, Taylor, séries usuelles | [[chp 5 - power series (résumé)\|Résumé]] |
-| [[chp 6 - Fourier Series (résumé)\|Chp6 - Fourier Series]] | Coefficients, convergence, Parseval | [[chp 6 - Fourier Series (résumé)\|Résumé]] |
+| [[0 - Revision chapter (résumé)\|Chp0 - Revision chapter]] | Rappels sur les suites, $o$, $O$, équivalents | [[0 - Revision chapter (résumé)\|Résumé]] |
+| [[1 - Convergent, divergent and positive terms SERIES (résumé)\|Chp1 - Convergent, divergent and positive terms SERIES]] | Séries de référence, termes positifs | [[1 - Convergent, divergent and positive terms SERIES (résumé)\|Résumé]] |
+| [[2 - Alternating and absolutly convergent series (résumé)\|Chp2 - Alternating and absolutly convergent series]] | Alternées, absolue, d'Alembert, Cauchy | [[2 - Alternating and absolutly convergent series (résumé)\|Résumé]] |
+| [[3 - Sequence of function (résumé)\|Chp3 - Sequence of function]] | Convergence simple et uniforme | [[3 - Sequence of function (résumé)\|Résumé]] |
+| [[4 - Series of functions (résumé)\|Chp4 - Series of functions]] | Convergence normale, échanges | [[4 - Series of functions (résumé)\|Résumé]] |
+| [[5 - power series (résumé)\|Chp5 - power series]] | Rayon, Taylor, séries usuelles | [[5 - power series (résumé)\|Résumé]] |
+| [[6 - Fourier Series (résumé)\|Chp6 - Fourier Series]] | Coefficients, convergence, Parseval | [[6 - Fourier Series (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -29,8 +29,8 @@ Séries numériques, suites et séries de fonctions, séries entières et série
 
 ## À revoir en priorité avant un examen
 
-- [[chp 5 - power series (résumé)]] : l'approximation de $\pi$ à $10^{-2}$ demande $n \ge 199$, non $n \ge 49$ (la précision de $n \ge 49$ vaut pour $\pi/4$).
-- [[chp 0 - Revision chapter (résumé)]] : développements de $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ ; équivalent de $e^x - 1$ écrit 1 au lieu de $x$.
+- [[5 - power series (résumé)]] : l'approximation de $\pi$ à $10^{-2}$ demande $n \ge 199$, non $n \ge 49$ (la précision de $n \ge 49$ vaut pour $\pi/4$).
+- [[0 - Revision chapter (résumé)]] : développements de $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ ; équivalent de $e^x - 1$ écrit 1 au lieu de $x$.
 
 ## Liens avec les autres matières
 

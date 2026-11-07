@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [quadratic form, quadratic forms, formes quadratiques, change of variable in a quadratic form, Classifying quadratic forms]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -14,12 +14,12 @@ Fonction $Q(\mathbf{x}) = \mathbf{x}^TA\mathbf{x}$ avec $A$ symétrique, la matr
 - **Optimisation sous $\|\mathbf{x}\| = 1$** : le maximum de $\mathbf{x}^TA\mathbf{x}$ est la plus grande valeur propre, atteinte en un vecteur propre unitaire $\mathbf{u}_1$, et le minimum la plus petite. Si l'on impose en plus $\mathbf{x}^T\mathbf{u}_1 = \dots = \mathbf{x}^T\mathbf{u}_{k-1} = 0$, le maximum est $\lambda_k$, atteint en $\mathbf{u}_k$.
 
 > [!warning] Écart dans le cours
-> [[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] définit « negative definite » par $Q(\mathbf{x}) > 0$. La figure et le théorème sur les valeurs propres indiquent $Q(\mathbf{x}) < 0$ pour $\mathbf{x} \neq \mathbf{0}$. Cette page suit ces derniers.
+> [[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] définit « negative definite » par $Q(\mathbf{x}) > 0$. La figure et le théorème sur les valeurs propres indiquent $Q(\mathbf{x}) < 0$ pour $\mathbf{x} \neq \mathbf{0}$. Cette page suit ces derniers.
 
 Notion parente : [[Forme bilinéaire]]. Voir aussi : [[Matrice symétrique]], [[Valeur propre]], [[Diagonalisation]], [[Norme]], [[Théorème des axes principaux]], [[Forme quadratique définie positive]], [[Optimisation sous contrainte]].
 
 ## À vérifier
 
-- Dans [[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]], les coupes horizontales de $z = 3x_1^2$ sont deux droites, pas une parabole.
+- Dans [[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]], les coupes horizontales de $z = 3x_1^2$ sont deux droites, pas une parabole.
 
-Résumé : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumé : [[2 - Symmetric matrices and quadratic forms (résumé)]]

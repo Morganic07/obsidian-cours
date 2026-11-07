@@ -17,7 +17,7 @@ matieres:
   - Sémiotique
   - Projet courts
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
   - "[[englis (résumé)|Global Exam Vocab]]"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"
@@ -35,4 +35,4 @@ UX design = *user experience* = design de l'expérience utilisateur. Designer qu
 
 Voir aussi : [[Affordance]], [[Design d'interface]], [[Parcours utilisateur]], [[Accessibilité]], [[Ergonomie]], [[Recherche utilisateur]], [[Test utilisateur]], [[Analyse techno-sémiotique]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]], [[englis (résumé)]], [[chp 1 - UX (résumé)]], [[chp 2 - sémiotique (résumé)]], [[Santé au travail (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]], [[englis (résumé)]], [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[Santé au travail (résumé)]]

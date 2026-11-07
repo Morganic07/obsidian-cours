@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [expected value, expectation, espérance, espérance mathématique, standard deviation, écart-type, inégalité de Tchebychev, Chebyshev's inequality, linearity of expectation, "linéarité de l'espérance", variance shortcut formula, formule raccourcie de la variance, formule de König-Huygens]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Variable aléatoire]]. Voir aussi : [[Fonction génératrice 
 
 - Le nom « formule de König-Huygens » n'est pas dans le cours, qui dit « shortcut formula ».
 
-Résumés : [[chp 4 - Discrete random variables (résumé)]], [[chp 5 - Continuous random variable (résumé)]], [[chp 6 - Joint probability distributions (résumé)]], [[chp 3 - More on probability (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]]
+Résumés : [[4 - Discrete random variables (résumé)]], [[5 - Continuous random variable (résumé)]], [[6 - Joint probability distributions (résumé)]], [[3 - More on probability (résumé)]], [[9 - Covariance and Correlation (résumé)]]

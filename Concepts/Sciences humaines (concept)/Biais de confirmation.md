@@ -6,7 +6,7 @@ tags:
 aliases:
   - confirmation bias
 sources:
-  - "[[chp 3 - Compte rendu (résumé)|Compte rendu]]"
+  - "[[3 - Compte rendu (résumé)|Compte rendu]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
 maj: 2026-11-06
 ---
@@ -17,4 +17,4 @@ En Affordance, le cours d'observation le cite parmi les biais de l'entretien et 
 
 Notion parente : [[Biais cognitif]]. Voir aussi : [[Effet de halo]], [[Effet Hawthorne]].
 
-Résumés : [[chp 3 - Compte rendu (résumé)]], [[chp 2 - UX (résumé)]]
+Résumés : [[3 - Compte rendu (résumé)]], [[2 - UX (résumé)]]

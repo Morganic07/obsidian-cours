@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [difféomorphismes, C1-difféomorphisme, changement de variables direct, changement de variables indirect]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -28,4 +28,4 @@ Notion parente : [[Différentielle]]. Voir aussi : [[Matrice jacobienne]], [[Coo
 
 - Tableau du changement de variables : $\varphi : V \to U$ contre « de $U$ sur $V$ » (résumé Chp 4, point 6).
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]], [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[2 - intégrales multiples (résumé)]]

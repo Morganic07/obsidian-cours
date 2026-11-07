@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [device driver, pilotes de périphériques]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Chaque contrôleur fonctionne grâce à un driver (pilote) : programme propre à
 
 Notion parente : [[Contrôleur de périphérique]]. Voir aussi : [[Système d'exploitation]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

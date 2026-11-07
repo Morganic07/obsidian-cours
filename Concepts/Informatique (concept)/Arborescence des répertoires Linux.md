@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Linux directory structure, directory structure, arborescence Linux, hiérarchie des répertoires]
-sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[OS - chp 5 (résumé)|OS - chp 5]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[5 - OS (résumé)|OS - chp 5]]"]
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Notion parente : [[Système de fichiers]]. Voir aussi : [[Répertoire racine]], 
 
 Le cours décrit `/usr` comme « user-specific files » : description contestable (signalé par le résumé).
 
-Résumés : [[OS - chp 4 (résumé)]], [[OS - chp 5 (résumé)]]
+Résumés : [[4 - OS (résumé)]], [[5 - OS (résumé)]]

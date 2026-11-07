@@ -5,7 +5,7 @@ tags:
 aliases:
   - carrés magiques
 sources:
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Voir aussi : [[Somme des premiers entiers]].
 - La note dit « les 10 nombres », alors qu'il y en a 9.
 - Le raisonnement sur la case centrale renvoie à un dessin non reconstituable.
 
-Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

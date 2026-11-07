@@ -13,4 +13,4 @@ Rappel voisin pour le cercle : $(x-a)^2+(y-b)^2=r^2$ (le disque avec $\le$), d'a
 
 Voir aussi : [[Coordonnées elliptiques]].
 
-Résumés : [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[2 - intégrales multiples (résumé)]]

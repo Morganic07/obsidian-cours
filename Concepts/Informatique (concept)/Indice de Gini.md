@@ -22,4 +22,4 @@ Notion parente : [[Algorithme CART]]. Voir aussi : [[Entropie (théorie de l'inf
 
 - Le calcul du fils « false » écrit $(2/8)^2 + (6/8)^2$ dans l'ordre inverse de l'arbre, sans incidence sur le résultat (relevé du résumé).
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

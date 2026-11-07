@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [règle de la chaîne, chain rule, dérivée d'une composée, composition et changement de variables]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ et de même en $v$.
 
 Notion parente : [[Différentielle]]. Voir aussi : [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Difféomorphisme]].
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]]

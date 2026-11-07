@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Désirer, c'est choisir entre les futurs possibles : plus et mieux je choisis, m
 
 Notion parente : [[Perfectibilité]]. Voir aussi : [[Technique (philosophie)]], [[Liberté relative et liberté absolue]].
 
-Résumés : [[chp 2 - philo (résumé)]]
+Résumés : [[2 - philo (résumé)]]

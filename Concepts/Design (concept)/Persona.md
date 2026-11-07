@@ -25,7 +25,7 @@ Deux usages dans les projets :
 - **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas : une résidente peu mobile et malvoyante pour qui l'affichage est hors de portée, un résident hostile à la technologie, une résidente à qui l'on n'a montré que le résultat. Les obstacles deviennent la problématique. Voir [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]] et [[Triangle d'acteurs]].
 - **ReYOU** : trois visiteurs de salon, ou « [[Top of mind|top of mind]] » (le focus, le networker, l'explorateur), avec objectif, comportement et façon de les capter. L'espace doit satisfaire tous les profils. Voir [[Reyou (résumé)|Reyou (résumé)]].
 
-En Affordance, le persona est cité dans le panorama des méthodes de [[Recherche utilisateur]] et parmi les usages d'une [[Observation de terrain|observation]] ([[chp 2 - UX (résumé)]]).
+En Affordance, le persona est cité dans le panorama des méthodes de [[Recherche utilisateur]] et parmi les usages d'une [[Observation de terrain|observation]] ([[2 - UX (résumé)]]).
 
 Les personas s'appuient sur des données ([[Entretien semi-directif]], ou observation) et préparent l'[[Idéation|idéation]].
 
@@ -35,4 +35,4 @@ Voir aussi : [[Recherche utilisateur]], [[Observation de terrain]], [[Triangle d
 
 - Le dossier ReYOU emploie « top of mind » au sens d'un profil de visiteur ; ce n'est pas l'usage marketing courant (complément). Voir [[Top of mind]].
 
-Résumés : [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]], [[Reyou (résumé)|Reyou (résumé)]], [[chp 2 - UX (résumé)]]
+Résumés : [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]], [[Reyou (résumé)|Reyou (résumé)]], [[2 - UX (résumé)]]

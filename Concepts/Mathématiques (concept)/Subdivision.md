@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [subdivision d'un segment, subdivision adaptée, subdivisions]
-matieres: [Analyse]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]"]
+tags:
+  - year2
+aliases:
+  - subdivision d'un segment
+  - subdivision adaptée
+  - subdivisions
+matieres:
+  - Analyse
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +23,4 @@ Notion parente : [[Intégrale]]. Voir aussi : [[Somme de Riemann]].
 
 La forme exacte de la suite est dans une image d'équation (codecogs) qui n'a pas été ouverte : l'inégalité stricte est supposée.
 
-Résumés : [[chp 7 - Integration (résumé)]], [[démonstrations - integration (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]]

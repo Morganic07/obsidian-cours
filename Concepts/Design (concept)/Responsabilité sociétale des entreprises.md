@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[ELBA (résumé)|Topo ELBA]]"
   - "[[Villeneuve (recherches)|idées solutions]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Reyou (résumé)|Reyou]]"
 maj: 2026-11-07
 ---
@@ -35,4 +35,4 @@ Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Greenwashing]], [[
 
 Le développement du sigle RSE n'est pas dans le cours.
 
-Résumés : [[ELBA (résumé)]], [[Villeneuve (recherches)]], [[chp 3 - Culture du vivant (résumé)]], [[Reyou (résumé)]]
+Résumés : [[ELBA (résumé)]], [[Villeneuve (recherches)]], [[3 - Culture du vivant (résumé)]], [[Reyou (résumé)]]

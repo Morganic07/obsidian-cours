@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Constrained Optimization]
 matieres: [Bilinear Algebra]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Avec en plus $\mathbf{x}^T\mathbf{u}_1=\dots=\mathbf{x}^T\mathbf{u}_{k-1}=0$, le
 
 Notion parente : [[Forme quadratique]]. Voir aussi : [[Valeur propre]].
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

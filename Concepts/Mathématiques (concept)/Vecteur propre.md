@@ -9,9 +9,9 @@ aliases:
   - eigenvectors
   - vecteurs propres
 sources:
-  - "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
-  - "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
 maj: 2026-11-06
 ---
 
@@ -19,10 +19,10 @@ Vecteur **non nul** $\mathbf{x}$ tel que $A\mathbf{x} = \lambda\mathbf{x}$ pour 
 
 - Des vecteurs propres associés à des valeurs propres distinctes sont linéairement indépendants.
 - $A^n\mathbf{x} = \lambda^n\mathbf{x}$, par récurrence.
-- Une combinaison non nulle de vecteurs propres d'une **même** valeur propre reste un vecteur propre de celle-ci. [[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] l'énonce sans ces deux précisions.
+- Une combinaison non nulle de vecteurs propres d'une **même** valeur propre reste un vecteur propre de celle-ci. [[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] l'énonce sans ces deux précisions.
 
 > [!warning] Écart dans le cours
-> [[chp 7 - Algèbre linéaire (résumé)|chp7]] définit les éléments propres d'une matrice avec un vecteur « nul ». Il faut lire « non nul », comme le dit le même chapitre plus haut.
+> [[7 - Algèbre linéaire (résumé)|chp7]] définit les éléments propres d'une matrice avec un vecteur « nul ». Il faut lire « non nul », comme le dit le même chapitre plus haut.
 
 En 1re année, la définition porte sur une application linéaire : $v$ est vecteur propre de $f$ associé à $\lambda$ si $f(v) = \lambda v$ et $v \neq 0$.
 
@@ -30,8 +30,8 @@ En 1re année, la définition porte sur une application linéaire : $v$ est vect
 
 ## À vérifier
 
-- [[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] écrit « Any linear combination of basic eigenvectors is an eigenvector » : ce n'est vrai que pour une même valeur propre et une combinaison non nulle.
+- [[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] écrit « Any linear combination of basic eigenvectors is an eigenvector » : ce n'est vrai que pour une même valeur propre et une combinaison non nulle.
 
 Notion parente : [[Valeur propre]]. Liens : [[Espace propre]], [[Diagonalisation]], [[Indépendance linéaire]], [[Analyse en composantes principales]]
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]], [[13 - Principal Components Analysis (résumé)]], [[13 - PCA in R (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [joint distribution, joint pmf, joint pdf, loi marginale, marginal pmf, marginal pdf, convolution, joint probability distribution, lois marginales, densité conjointe, joint density]
 matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]", "[[9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -15,7 +15,7 @@ maj: 2026-11-06
 
 **Somme** : si $X$ et $Y$ sont indépendantes et continues, la densité de $W = X + Y$ est la convolution $f_W(w) = \int f_X(x)f_Y(w - x)\,dx$.
 
-En Data analysis et en Statistics (3e année), le cours reprend ces définitions et ajoute que la convolution de lois normales est normale ([[Séance 9 - Covariance and Correlation (résumé)]], [[chp 3 - More on probability (résumé)]]).
+En Data analysis et en Statistics (3e année), le cours reprend ces définitions et ajoute que la convolution de lois normales est normale ([[9 - Covariance and Correlation (résumé)]], [[3 - More on probability (résumé)]]).
 
 Notion parente : [[Variable aléatoire]].
 
@@ -23,6 +23,6 @@ Liens : [[Covariance et corrélation]], [[Probabilité conditionnelle]]
 
 ## À vérifier
 
-- [[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]] : la mention d'un événement « de $S \times S$ » est à vérifier sur l'image.
+- [[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]] : la mention d'un événement « de $S \times S$ » est à vérifier sur l'image.
 
-Résumés : [[chp 6 - Joint probability distributions (résumé)]], [[Séance 9 - Covariance and Correlation (résumé)]], [[chp 3 - More on probability (résumé)]]
+Résumés : [[6 - Joint probability distributions (résumé)]], [[9 - Covariance and Correlation (résumé)]], [[3 - More on probability (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [system bus, data bus, address bus, control bus, bus de données, bus d'adresses, bus de contrôle]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Le bus système régule les accès simultanés à la RAM.
 
 Notion parente : [[Carte mère]]. Voir aussi : [[Processeur]], [[Mémoire vive]], [[Interruption]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

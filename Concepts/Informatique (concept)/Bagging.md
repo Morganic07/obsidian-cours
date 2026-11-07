@@ -13,4 +13,4 @@ Le bagging sert à neutraliser l'instabilité des méthodes sensibles aux change
 
 Notion parente : [[Méthodes d'ensemble]]. Voir aussi : [[Forêt aléatoire]], [[Boosting]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

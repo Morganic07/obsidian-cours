@@ -17,4 +17,4 @@ Voir aussi : [[Ethnographie]], [[Ethnographie visuelle]].
 
 - La note manuscrite écrit « enthropologie ».
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

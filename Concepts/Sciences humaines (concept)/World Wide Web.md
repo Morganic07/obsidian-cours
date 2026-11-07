@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Voir aussi : [[Web sémantique]], [[Capitalisme]].
 - Le web est généralement daté de 1989-1991 ; la note donne 1993, peut-être la mise dans le domaine public (relevé du résumé).
 - Les termes « World Wide Web » et « WWW » ne figurent pas dans la note, qui dit « Web ».
 
-Résumés : [[chp 1 - Culture du vivant (résumé)]]
+Résumés : [[1 - Culture du vivant (résumé)]]

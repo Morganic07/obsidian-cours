@@ -3,11 +3,11 @@ type: concept
 tags: [year3]
 aliases: [overfitting, sur-apprentissage, surajustement]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
+sources: ["[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 
-Avec trop de variables par rapport au nombre d'observations, un modèle risque de « mémoriser » le bruit et les particularités du jeu de données au lieu d'apprendre la règle générale. Réduire les « degrés de liberté » le rend plus robuste ([[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]).
+Avec trop de variables par rapport au nombre d'observations, un modèle risque de « mémoriser » le bruit et les particularités du jeu de données au lieu d'apprendre la règle générale. Réduire les « degrés de liberté » le rend plus robuste ([[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]).
 
 Voir aussi : [[Réduction de dimension]], [[Analyse en composantes principales]].
 
@@ -15,4 +15,4 @@ Voir aussi : [[Réduction de dimension]], [[Analyse en composantes principales]]
 
 - Le cours décrit le phénomène sans le nommer : ni « surapprentissage » ni « overfitting » n'apparaissent dans la note. Le nom vient du résumé.
 
-Résumés : [[Séance 13 - Principal Components Analysis (résumé)]]
+Résumés : [[13 - Principal Components Analysis (résumé)]]

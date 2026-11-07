@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year1]
-aliases: [range(n), fonction range]
-matieres: [Algo Maths]
-sources: ["[[Python (résumé)|Python]]"]
+tags:
+  - year1
+aliases:
+  - range(n)
+  - fonction range
+matieres:
+  - Algo Maths
+sources:
+  - "[[chp 2 - Python (résumé)|Python]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +20,4 @@ Notion parente : [[Langage Python]]. Voir aussi : [[Boucle (programmation)]].
 
 - Erreur de la note : `range(2,10,+5)` donne [2, 7], pas « 2, 4, 8 ». À corriger avant un examen.
 
-Résumés : [[Python (résumé)]]
+Résumés : [[chp 2 - Python (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [file system, file systems, partitionnement]
 matieres: [Operating System]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]", "[[OS - chp 3 (résumé)|OS - chp 3]]", "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]", "[[3 - OS (résumé)|OS - chp 3]]", "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Linux reconnaît tous les systèmes, Windows seulement les siens. Partitions dem
 
 Voir aussi : [[Partition (disque)]], [[Formatage d'un disque]], [[NTFS]], [[FAT32]], [[Système de fichiers exFAT]], [[ReFS]], [[EXT4]], [[XFS]], [[NFS]], [[Partitions Linux]], [[Hiérarchie de stockage]], [[BIOS et UEFI]], [[Distribution Linux]]
 
-Résumés : [[OS - chp 2 (résumé)]], [[OS - chp 3 (résumé)]], [[OS - chp 4 (résumé)]]
+Résumés : [[2 - OS (résumé)]], [[3 - OS (résumé)]], [[4 - OS (résumé)]]

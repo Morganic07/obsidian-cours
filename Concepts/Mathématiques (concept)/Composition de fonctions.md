@@ -14,12 +14,12 @@ matieres:
   - Outil Maths
   - Algèbre Linéaire
 sources:
-  - "[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"
+  - "[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"
   - "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"
   - "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre4-Fonctions (1).pdf|Chapitre4-Fonctions (1).pdf]]"
   - "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
-  - "[[chp 4 - Algèbre linéaire (résumé)|chp4]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[4 - Algèbre linéaire (résumé)|chp4]]"
 maj: 2026-11-06
 ---
 
@@ -38,4 +38,4 @@ Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Dérivabilité
 - Chp4 (dérivabilité) : le tableau écrit « $u \circ v = u(v(x)) = v'(u' \circ v)$ » ; il faut lire $(u \circ v)'$.
 - chp2 (Algèbre Linéaire) : avec $f \in L(E,F)$ et $g \in L(F,G)$, le cours écrit « fog ∈ L(E,G) » au lieu de $g \circ f$.
 
-Résumés : [[AnalyseID1 (résumé)]], [[chp 4 - dérivabilité (résumé)]], [[Contrôles (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]], [[chp 4 - Algèbre linéaire (résumé)]]
+Résumés : [[0 - rappels pdf]], [[4 - dérivabilité (résumé)]], [[Contrôles (résumé)]], [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[4 - Algèbre linéaire (résumé)]]

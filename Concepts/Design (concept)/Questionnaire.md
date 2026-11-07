@@ -14,4 +14,4 @@ Méthode de collecte de données quantitatives et qualitatives sur des usages ex
 
 Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Entretien semi-directif]], [[Observation de terrain]], [[Enquête qualitative et quantitative]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

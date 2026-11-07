@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [system call, system calls, appels système, syscall]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Liens : [[Interruption]], [[Création et terminaison de processus]], [[Changemen
 
 Notion parente : [[Interruption]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 7 (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[7 - OS (résumé)]], [[TP6-Assignment (résumé)]]

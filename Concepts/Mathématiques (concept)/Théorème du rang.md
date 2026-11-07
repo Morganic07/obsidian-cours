@@ -6,7 +6,7 @@ aliases:
   - theoreme du rang
   - rank theorem
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
 maj: 2026-11-06
 ---
 
@@ -21,6 +21,6 @@ Notion parente : [[Rang d'une matrice]]. Voir aussi : [[Espace nul]], [[Image d'
 ## À vérifier
 
 - Le cours relie le théorème à la page du rang, mais [[Rang d'une matrice]] porte sur le rang matriciel, alors que le théorème parle du rang d'une application linéaire.
-- Le cours ajoute « dim E = dim F ⇒ f bijective, injective et surjective », faux tel quel : l'application nulle est un contre-exemple. Voir [[Injectivité et surjectivité]] et [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]].
+- Le cours ajoute « dim E = dim F ⇒ f bijective, injective et surjective », faux tel quel : l'application nulle est un contre-exemple. Voir [[Injectivité et surjectivité]] et [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]].
 
-Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]]
+Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]]

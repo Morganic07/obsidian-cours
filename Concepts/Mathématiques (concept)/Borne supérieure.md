@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [borne supérieure, borne inférieure, bornes supérieure et inférieure, propriété de la borne supérieure, supremum, infimum, least upper bound]
 matieres: [Analyse Maths, Outil Maths]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]", "[[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]", "[[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -45,4 +45,4 @@ Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[
 
 DS1 2022 ex. 6 : coquilles de l'énoncé ($x \in A$ au lieu de $a \in A$, $\sup(A+B)$ au lieu de $\sup(A+x)$).
 
-Résumés : [[chp 1 - reels (résumé)]], [[AnalyseID1 (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]], [[chp 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]].
+Résumés : [[1 - Ensemble des Reels (résumé)]], [[0 - rappels pdf]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]], [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]].

@@ -15,4 +15,4 @@ Nommé dans la chronologie du cours sans autre détail : 1997, Protocole de Kyot
 
 Voir aussi : [[Sommet de la Terre de Rio]] (1992), [[Accord de Paris]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

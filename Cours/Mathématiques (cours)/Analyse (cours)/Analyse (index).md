@@ -1,7 +1,11 @@
 ---
 type: matiere
-tags: [year2]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[démonstrations - integration (résumé)|démonstrations - integration]]", "[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"]
+tags:
+  - year2
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[1 - démonstrations (résumé)|démonstrations - integration]]"
+  - "[[0 - Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"
 maj: 2026-11-06
 ---
 
@@ -11,15 +15,15 @@ Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intég
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[chp 7 - Integration (résumé)\|Chap7-Integration]] | Le cours | [[chp 7 - Integration (résumé)\|Résumé]] |
-| [[démonstrations - integration (résumé)\|démonstrations - integration]] | Les preuves du cours | [[démonstrations - integration (résumé)\|Résumé]] |
-| [[Intégration UTILITAIRE (résumé)\|Intégration UTILITAIRE]] | Fiche pratique | [[Intégration UTILITAIRE (résumé)\|Résumé]] |
+| [[1 - Integration (résumé)\|Chap7-Integration]] | Le cours | [[1 - Integration (résumé)\|Résumé]] |
+| [[1 - démonstrations (résumé)\|démonstrations - integration]] | Les preuves du cours | [[1 - démonstrations (résumé)\|Résumé]] |
+| [[0 - Intégration UTILITAIRE (résumé)\|Intégration UTILITAIRE]] | Fiche pratique | [[0 - Intégration UTILITAIRE (résumé)\|Résumé]] |
 
 ## Documents PDF
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Chp9-intégrales multiples | Notes manuscrites : domaines, Fubini, changement de variable (polaires, elliptiques) | [[chp 9 - intégrales multiples (résumé)]] |
+| Chp9-intégrales multiples | Notes manuscrites : domaines, Fubini, changement de variable (polaires, elliptiques) | [[2 - intégrales multiples (résumé)]] |
 | TD7-integration | 16 exercices d'intégration (énoncés, sans corrigé) | [[TD7-integration (1) (résumé)]] |
 
 ## Concepts
@@ -32,7 +36,7 @@ Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intég
 
 ## À revoir en priorité
 
-Le cours ne présente pas d'erreur de fond. Les points relevés sont surtout des coquilles de preuve, à connaître si l'on doit les refaire : voir [[démonstrations - integration (résumé)]].
+Le cours ne présente pas d'erreur de fond. Les points relevés sont surtout des coquilles de preuve, à connaître si l'on doit les refaire : voir [[1 - démonstrations (résumé)]].
 
 ## Liens avec les autres matières
 

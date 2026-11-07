@@ -19,4 +19,4 @@ Le brief du projet « Santé au travail » (Projet courts) y fait aussi appel.
 
 Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Utilisabilité]], [[Scénario d'usage]], [[Panel d'utilisateurs]], [[Persona]].
 
-Résumés : [[chp 1 - UX (résumé)]], [[Santé au travail (résumé)]]
+Résumés : [[1 - UX (résumé)]], [[Santé au travail (résumé)]]

@@ -6,8 +6,8 @@ aliases:
   - feuille de consentement
   - fiche de consentement
 sources:
-  - "[[chp 3 - Compte rendu (résumé)|Compte rendu]]"
-  - "[[chp 2 - pistes entrevues (résumé)|Pistes entrevue]]"
+  - "[[3 - Compte rendu (résumé)|Compte rendu]]"
+  - "[[2 - pistes entrevues (résumé)|Pistes entrevue]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Avant l'entretien, on fait signer la feuille de consentement. Le participant est
 
 Notion parente : [[Entretien semi-directif]].
 
-Résumés : [[chp 3 - Compte rendu (résumé)]], [[chp 2 - pistes entrevues (résumé)]]
+Résumés : [[3 - Compte rendu (résumé)]], [[2 - pistes entrevues (résumé)]]

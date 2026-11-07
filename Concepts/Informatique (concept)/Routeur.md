@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [router, routers, routeurs, Cisco 2911]
 matieres: [Computer Network]
-sources: ["[[chp 1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[chp 2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Le cours utilise des routeurs Cisco 2911. Tous les ports d'un routeur sont désa
 
 Voir aussi : [[Commutateur]], [[CLI Cisco IOS]].
 
-Résumés : [[chp 1 - Computer Networks (résumé)]], [[chp 2 - Static Routing (résumé)]], [[chp 4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[1 - Computer Networks (résumé)]], [[2 - Static Routing (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]]

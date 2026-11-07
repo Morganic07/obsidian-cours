@@ -17,8 +17,8 @@ sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[explications DM d'algo (résumé)|explications DM d'algo]]"
   - "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
-  - "[[chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"
 maj: 2026-11-06
 ---
 
@@ -38,4 +38,4 @@ Voir aussi : [[Dénombrement]], [[Récursivité]], [[Récursivité terminale]], 
 
 - AlgoID1 : le cas d'arrêt de la factorielle récursive est $n = 1$, donc `fact(0)` ne se termine pas (le cours suppose $n \ge 1$).
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[AlgoID1 (résumé)]], [[explications DM d'algo (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[chp 1 - récursivité et complexité (résumé)]], [[chp 3 - Combinatorics (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[0 - diapo prof (résumé)]], [[explications DM d'algo (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[1 - récursivité et complexité (résumé)]], [[3 - Combinatorics (résumé)]]

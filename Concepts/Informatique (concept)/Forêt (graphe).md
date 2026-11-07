@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [forêt, forest]
 matieres: [graph theory]
-sources: ["[[chp 2 - tree (résumé)|Chp2 - tree]]"]
+sources: ["[[2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Graphe non orienté sans cycle. Chaque [[Graphe connexe|composante connexe]] d'u
 
 Notion parente : [[Arbre (théorie des graphes)]]. Voir aussi : [[Graphe connexe]].
 
-Résumés : [[chp 2 - tree (résumé)]]
+Résumés : [[2 - tree (résumé)]]

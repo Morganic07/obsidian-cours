@@ -17,4 +17,4 @@ Notion parente : [[Limite et continuité]]. Voir aussi : [[Recherche dichotomiqu
 
 - Théorème 21 du polycopié : l'hypothèse est $f(a)f(b) \le 0$, mais la preuve utilise l'invariant $f(a_n)f(b_n) < 0$ ; le cas $f(a)f(b) = 0$ est à traiter à part.
 
-Résumés : [[AnalyseID1 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf]], [[Contrôles (résumé)]]

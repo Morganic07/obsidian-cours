@@ -12,4 +12,4 @@ Si $f$ est croissante sur $I$, $(u_n)$ est monotone, de sens donné par le signe
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Point fixe]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]]

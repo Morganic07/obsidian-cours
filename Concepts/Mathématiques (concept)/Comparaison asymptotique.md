@@ -20,9 +20,9 @@ matieres:
   - Séries
   - Analyse
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
   - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
-  - "[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
+  - "[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"
   - "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"
 maj: 2026-11-06
 ---
@@ -60,4 +60,4 @@ Voir aussi : [[Équivalent (comparaison asymptotique)]], [[Croissances comparée
 - chp5 (Analyse) : le cours note « o(x) = o(y) ≠ o(y) = o(x) » sans explication (non-symétrie de la notation).
 - Chp0 de Séries : « e^x − 1 = 1 » et « ln(1+x) = x », où le signe $\sim$ est rendu par $=$ ; il faut lire $e^x - 1 \sim x$ et $\ln(1+x) \sim x$. À corriger avant un examen.
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[chp 0 - Revision chapter (résumé)]], [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[0 - Revision chapter (résumé)]], [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[TD7-integration (1) (résumé)]]

@@ -6,8 +6,8 @@ aliases:
   - polysémie des couleurs
   - couleurs polysémiques
 sources:
-  - "[[chp 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
-  - "[[chp 2 (résumé)|Cours 2]]"
+  - "[[1 - Peinture (résumé)|Cours 1 (Peinture)]]"
+  - "[[2 - Peinture (résumé)|Cours 2]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Une couleur a un sens commun et un sens personnel (souvenir, sentiment). Pour ce
 
 Voir aussi : [[Cercle chromatique]].
 
-Résumés : [[chp 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[chp 2 (résumé)]]
+Résumés : [[1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[2 - Peinture (résumé)]]

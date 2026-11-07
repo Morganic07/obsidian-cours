@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -15,7 +15,7 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans [[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] sans définition, parmi les réglementations du Green Deal qui rendent visibles les impacts.
+Nommée dans [[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] sans définition, parmi les réglementations du Green Deal qui rendent visibles les impacts.
 
 Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Taxonomie européenne]], [[Devoir de vigilance]].
 
@@ -23,4 +23,4 @@ Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Taxonomie europée
 
 - Le développement du sigle (Corporate Sustainability Reporting Directive) n'est pas dans le cours.
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

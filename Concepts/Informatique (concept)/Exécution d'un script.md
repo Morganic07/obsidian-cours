@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [./script.sh, exécuter un script]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
+tags:
+  - year2
+aliases:
+  - ./script.sh
+  - exécuter un script
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Notion parente : [[Script Bash]]. Voir aussi : [[Bourne Shell (sh)]], [[Tâche e
 
 - Même erreur sh/bash que sur [[Bourne Shell (sh)]] : la fiche dit que `sh` utilise Bash, alors que sous Debian et Ubuntu `sh` pointe en général vers dash.
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[TP3-Commands (2) (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[TP3-Commands (2) (résumé)]], [[DM Shell Scripting (résumé)]]

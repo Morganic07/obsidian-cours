@@ -10,4 +10,4 @@ maj: 2026-11-06
 
 Notion parente : [[Ethnographie visuelle]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

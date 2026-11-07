@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [registres du processeur, CPU registers, registres CPU]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Les registres (registers) sont au sommet de la hiérarchie de stockage : situés
 
 Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Processeur]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 7 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[7 - OS (résumé)]]

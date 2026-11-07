@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [ordre d'évaluation, précédence des opérateurs, associativity, operator precedence]
 matieres: [Java]
-sources: ["[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
+sources: ["[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Les opérandes sont évalués de gauche à droite, ce qui compte en présence d'
 
 Notion parente : [[Langage Java]]. Voir aussi : [[Effet de bord]], [[Opérateur d'incrémentation]].
 
-Résumés : [[chp 1 - Intro Java (résumé)]]
+Résumés : [[1 - Intro Java (résumé)]]

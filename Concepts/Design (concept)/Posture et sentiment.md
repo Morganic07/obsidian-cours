@@ -5,7 +5,7 @@ tags:
 aliases:
   - posture corporelle
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Émotion et sentiment]], [[Geste]].
 
 L'exemple du métro est une idée, non un résultat établi.
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

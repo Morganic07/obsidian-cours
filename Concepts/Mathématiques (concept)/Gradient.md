@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [gradients, nabla, vecteur gradient]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ C'est la version à plusieurs variables de l'inégalité des accroissements fini
 
 Notion parente : [[Différentielle]]. Voir aussi : [[Dérivée partielle]], [[Matrice jacobienne]], [[Produit scalaire]], [[Application lipschitzienne]], [[Dérivabilité]], [[Inégalité des accroissements finis]].
 
-Résumé : [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumé : [[4 - Calcul différentiel du premier ordre (résumé)]]

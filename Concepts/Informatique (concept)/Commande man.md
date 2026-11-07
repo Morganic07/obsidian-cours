@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [page de manuel, man page]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[TP1 (résumé)|TP1]]"]
+tags:
+  - year2
+aliases:
+  - page de manuel
+  - man page
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[TP1 (résumé)|TP1]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande info]], [[Option --help]].
 
-Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP5 (résumé)]]

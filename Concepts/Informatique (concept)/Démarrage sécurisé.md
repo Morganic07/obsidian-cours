@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [secure boot]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommé dans le chp 2 sans définition : le tableau BIOS contre UEFI indique des 
 
 Notion parente : [[BIOS et UEFI]].
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

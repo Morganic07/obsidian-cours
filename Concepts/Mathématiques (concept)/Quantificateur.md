@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [quantificateurs, quantificateur universel, quantificateur existentiel, négation des quantificateurs, distributivité des quantificateurs]
 matieres: [Analyse Maths, Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Le cours de logique note $\exists a \in A,\ p(a)$ (quantificateur existentiel) e
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Relation d'ordre]], [[Suite numérique]], [[Limite et continuité]], [[Lois de De Morgan]], [[Injectivité et surjectivité]].
 
-Résumés : [[chp 1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]

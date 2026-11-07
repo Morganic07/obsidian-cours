@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [gendarmes, théorème d'encadrement, squeeze theorem]
 matieres: [Analyse Maths, Séries]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]", "[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]", "[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Théorème d'existence de limite par encadrement : une suite (ou une fonction) c
 
 Notion parente : [[Convergence d'une suite]]. Voir aussi : [[Suite numérique]], [[Limite et continuité]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[chp 0 - Revision chapter (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[0 - Revision chapter (résumé)]]

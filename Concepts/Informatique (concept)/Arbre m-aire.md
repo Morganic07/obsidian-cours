@@ -14,4 +14,4 @@ Notion parente : [[Arbre (théorie des graphes)]]. Voir aussi : [[B-arbre]].
 
 - L'expression « arbre n-aire » n'est pas employée par le cours.
 
-Résumés : [[chp 3 - Arbres (résumé)]]
+Résumés : [[3 - Arbres (résumé)]]

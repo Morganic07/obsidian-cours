@@ -5,7 +5,7 @@ tags:
 aliases:
   - pointer arithmetic
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Pointeur et adresse mémoire]]. Voir aussi : [[Tableau (progr
 - Le nom « arithmétique des pointeurs » n'est pas dans le cours.
 - Le cours donne la taille d'un entier comme « 8 octets sur système 64 bits » : à corriger avant un examen (relevé du résumé, image 13 ouverte).
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

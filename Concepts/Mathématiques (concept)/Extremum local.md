@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [extremums locaux, extrema locaux, maximum local, minimum local]
-sources: ["[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
+sources: ["[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Si $f$ dérivable a un extremum local en $a$, et que $a$ n'est pas une extrémit
 
 Notion parente : [[Dérivabilité]]. Voir aussi : [[Monotonie et signe de la dérivée]].
 
-Résumés : [[chp 4 - dérivabilité (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]]

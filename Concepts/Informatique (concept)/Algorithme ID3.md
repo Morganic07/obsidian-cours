@@ -13,4 +13,4 @@ Sur l'exemple PlayTennis : gain(OUTLOOK) $= 0{,}246$, gain(HUMI.) $= 0{,}151$, g
 
 Notion parente : [[Arbre de décision]]. Voir aussi : [[Entropie (théorie de l'information)]], [[Gain d'information]], [[Algorithme C4.5]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

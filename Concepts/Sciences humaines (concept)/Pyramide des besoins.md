@@ -5,7 +5,7 @@ tags:
 aliases:
   - pyramide de la création des besoins
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -21,4 +21,4 @@ Voir aussi : [[Coûts cachés]], [[Valeur socio-écologique]].
 
 - La pyramide elle-même n'est pas dans la note (« voir la pyramide ») ; le cours ne dit pas s'il s'agit de la pyramide de Maslow.
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

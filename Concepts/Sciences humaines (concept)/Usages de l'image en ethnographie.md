@@ -16,4 +16,4 @@ Le cours distingue plusieurs usages de l'image en ethnographie :
 
 Notion parente : [[Ethnographie visuelle]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

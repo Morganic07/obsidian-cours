@@ -1,9 +1,23 @@
 ---
 type: concept
-tags: [year3]
-aliases: [projection, restriction, jointure naturelle, jointure, division relationnelle, opérateurs relationnels, renommage d'attributs, opérateurs ensemblistes, union relationnelle, différence relationnelle]
-matieres: [Data base, ligue football]
-sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
+tags:
+  - year3
+aliases:
+  - projection
+  - restriction
+  - jointure naturelle
+  - jointure
+  - division relationnelle
+  - opérateurs relationnels
+  - renommage d'attributs
+  - opérateurs ensemblistes
+  - union relationnelle
+  - différence relationnelle
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[2 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"
 maj: 2026-11-06
 ---
 
@@ -27,4 +41,4 @@ Le résumé du sujet du projet Ligue Football y renvoie comme fondement des requ
 
 Liens : [[Langage SQL]], [[Schéma relationnel]], [[Sous-requête]], [[Clé primaire et clé étrangère]], [[Produit cartésien]]
 
-Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]
+Résumés : [[2 - opérateurs et SQL (résumé)]], [[sujet database (résumé)]]

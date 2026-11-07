@@ -14,4 +14,4 @@ Nommé dans la chronologie du cours sans autre détail : 1992, Déclaration de R
 
 Voir aussi : [[Protocole de Kyoto]] (1997), [[Accord de Paris]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

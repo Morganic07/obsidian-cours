@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [dynamic routing, protocole de routage, protocoles de routage, RIP, RIPv2, Routing Information Protocol, IGP, EGP, vecteur de distance, hop count, nombre de sauts, RIPv1, router rip, default-information originate]
 matieres: [Computer Network]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 ---
 
@@ -19,7 +19,7 @@ Notion parente : [[Routage IP]]. Voir aussi : [[Routage statique]], [[CLI Cisco 
 
 ## À vérifier
 
-- Dans l'exemple de [[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]], la ligne `network` n'a pas d'adresse.
+- Dans l'exemple de [[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]], la ligne `network` n'a pas d'adresse.
 - Le tableau écrit `default information-originate` au lieu de `default-information originate`.
 
-Résumé : [[chp 3 - Dynamic Routing (résumé)]]
+Résumé : [[3 - Dynamic Routing (résumé)]]

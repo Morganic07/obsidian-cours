@@ -16,12 +16,12 @@ aliases:
   - linear dependence relation
   - relation de dépendance linéaire
 sources:
-  - "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
-  - "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
-  - "[[chp 6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -34,8 +34,8 @@ Un ensemble est **dépendant** si et seulement si l'un de ses vecteurs est une c
 
 Dans une famille libre, la décomposition d'un vecteur est unique. Toute sous-famille d'une famille libre est libre. Ajouter à une famille libre un vecteur qui n'est pas combinaison de ses vecteurs la garde libre. Une application injective envoie une famille libre sur une famille libre.
 
-En dimension $n$, une famille libre a au plus $n$ vecteurs. On teste la liberté par le [[Déterminant]]. Des vecteurs propres associés à des valeurs propres distinctes forment une famille libre, de même que des vecteurs non nuls deux à deux orthogonaux. Chaque *linear dependence relation* (relation de dépendance linéaire) entre les colonnes de $A$ correspond à une solution non triviale de $A\mathbf{x} = \mathbf{0}$ ([[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]).
+En dimension $n$, une famille libre a au plus $n$ vecteurs. On teste la liberté par le [[Déterminant]]. Des vecteurs propres associés à des valeurs propres distinctes forment une famille libre, de même que des vecteurs non nuls deux à deux orthogonaux. Chaque *linear dependence relation* (relation de dépendance linéaire) entre les colonnes de $A$ correspond à une solution non triviale de $A\mathbf{x} = \mathbf{0}$ ([[0 - Linear combination (résumé)|Chp 0a - Linear combination]]).
 
 Notion parente : [[Espace vectoriel]]. Voir aussi : [[Combinaison linéaire]], [[Base (algèbre linéaire)]], [[Espace engendré]], [[Matrice inversible]], [[Famille orthogonale]], [[Vecteur propre]], [[Déterminant]], [[Système linéaire homogène]].
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[chp 6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]]

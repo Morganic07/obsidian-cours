@@ -1,9 +1,18 @@
 ---
 type: concept
-tags: [year2]
-aliases: [superuser, super-utilisateur, utilisateur root, root user, root privileges]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
+tags:
+  - year2
+aliases:
+  - superuser
+  - super-utilisateur
+  - utilisateur root
+  - root user
+  - root privileges
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +20,4 @@ Utilisateur aux privilèges complets. `sudo` donne ses privilèges sans se conne
 
 Voir aussi : [[Commande sudo]], [[Fichiers de mots de passe]], [[Tâche planifiée cron]].
 
-Résumés : [[séance TP1 (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP4-Unix Commands (résumé)]]

@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Analyse Maths
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
   - "[[Raw/Year 1/Analyse Maths/Exos/TD5-AnalyseAsymptotiqueCorrection (1).pdf|TD5-AnalyseAsymptotiqueCorrection (1).pdf]]"
 maj: 2026-11-06
 ---
@@ -26,4 +26,4 @@ Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Développement lim
 
 - chp5 écrit « lim g (+∞) ≠ 1 » : la condition porte sur la limite au point étudié, pas seulement en $+\infty$.
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]

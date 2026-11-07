@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year3]
-aliases: [architecture 2 tiers, architecture 3 tiers, architecture web 3 tiers, 3-tier, n-tier, serveur d'application]
-matieres: [Data base, ligue football]
-sources: ["[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
+tags:
+  - year3
+aliases:
+  - architecture 2 tiers
+  - architecture 3 tiers
+  - architecture web 3 tiers
+  - 3-tier
+  - n-tier
+  - serveur d'application
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[2 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +27,4 @@ Ces architectures peuvent tourner en local. Le projet de ligue de football deman
 
 Voir aussi : [[Système de gestion de base de données]].
 
-Résumés : [[Séance 3 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[2 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]

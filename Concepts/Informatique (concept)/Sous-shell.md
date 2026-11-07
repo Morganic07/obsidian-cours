@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [subshell]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[Séance TP2 (résumé)|Cours TP2]]"]
+tags:
+  - year2
+aliases:
+  - subshell
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
+  - "[[2 - TP2 (résumé)|Cours TP2]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Groupement de commandes]], [[Shell et Bash]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[Séance TP2 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP2 (résumé)]]

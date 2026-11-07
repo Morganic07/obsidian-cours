@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [mutually exclusive, mutually exclusive events, événements disjoints, disjoint events, exhaustive events, événements exhaustifs, système complet d'événements]
-sources: ["[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
+sources: ["[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Événement (probabilités)]]. Voir aussi : [[Probabilité co
 
 Le cours ne dit pas que deux événements disjoints de probabilité non nulle ne sont jamais indépendants.
 
-Résumés : [[chp 1 - Sample space,events, proba (résumé)]], [[chp 2 - Conditional proba and independence (résumé)]]
+Résumés : [[1 - Sample space,events, proba (résumé)]], [[2 - Conditional proba and independence (résumé)]]

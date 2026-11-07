@@ -10,4 +10,4 @@ D'après Galinon-Mélénec et Martin-Juchat (2007), citées en Sémiotique : tou
 
 Notion parente : [[Techniques du corps]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

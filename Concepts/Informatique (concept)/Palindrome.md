@@ -11,4 +11,4 @@ Chaîne de caractères qui se lit de la même façon de gauche à droite et de d
 
 Notion parente : [[Chaîne de caractères]]. Voir aussi : [[Récursivité]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

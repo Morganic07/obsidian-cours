@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: ["formules d'addition", formules de duplication, formules de produit, formules de trigonométrie, formulaire de trigonométrie, formules de trigo, formule de duplication]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]", "[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]", "[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Fonctions trigonométriques]]. Voir aussi : [[Équation trigo
 - Erreur du cours d'Outil Maths (image transcrite, alerte « À vérifier ») : $\cos 2x = 1 - \sin^2 x$ au lieu de $1 - 2\sin^2 x$.
 - « formules d'addition » et « formule de duplication » ne sont pas écrits dans le cours d'Outil Maths.
 
-Résumés : [[AnalyseID1 (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[Contrôles (résumé)]], [[chp 5 - Complexes (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[Contrôles (résumé)]], [[5 - Complexes (résumé)]]

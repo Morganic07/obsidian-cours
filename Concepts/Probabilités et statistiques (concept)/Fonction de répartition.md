@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [cumulative distribution function, cdf, fonction de répartition cumulée]
 matieres: [Probability, Statistics]
-sources: ["[[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -15,12 +15,12 @@ $F(x) = P(X \le x)$.
 
 **Percentile** : $\eta_p$ vérifie $F(\eta_p) = p$, soit $\eta_p = F^{-1}(p)$ si l'inverse existe. La médiane est $\eta_{0{,}5}$. Voir aussi [[Méthode de la fonction de répartition inverse]].
 
-**En Statistics** ([[chp 3 - More on probability (résumé)|Chp3 - More on probability]]) : la fonction de répartition sert à la simulation par inversion, $X = F^{-1}(U)$, et à définir la loi de Weibull, $F(x) = 1 - e^{-(x/\beta)^\alpha}$, et la loi log-normale, $F(x) = \Phi\left(\frac{\ln x - \mu}{\sigma}\right)$. Voir [[Loi exponentielle]], [[Loi normale]].
+**En Statistics** ([[3 - More on probability (résumé)|Chp3 - More on probability]]) : la fonction de répartition sert à la simulation par inversion, $X = F^{-1}(U)$, et à définir la loi de Weibull, $F(x) = 1 - e^{-(x/\beta)^\alpha}$, et la loi log-normale, $F(x) = \Phi\left(\frac{\ln x - \mu}{\sigma}\right)$. Voir [[Loi exponentielle]], [[Loi normale]].
 
 Notion parente : [[Variable aléatoire]].
 
 ## À vérifier
 
-- [[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]] : la formule apparaît sous la forme « F(b) _ F(a_) », le signe moins ayant été perdu à la conversion ; il faut lire $F(b) - F(a^-)$.
+- [[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]] : la formule apparaît sous la forme « F(b) _ F(a_) », le signe moins ayant été perdu à la conversion ; il faut lire $F(b) - F(a^-)$.
 
-Résumés : [[chp 4 - Discrete random variables (résumé)]], [[chp 5 - Continuous random variable (résumé)]], [[chp 3 - More on probability (résumé)]]
+Résumés : [[4 - Discrete random variables (résumé)]], [[5 - Continuous random variable (résumé)]], [[3 - More on probability (résumé)]]

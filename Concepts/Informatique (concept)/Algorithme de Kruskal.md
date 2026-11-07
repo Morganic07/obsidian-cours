@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year4]
-aliases: [Kruskal]
-matieres: [graph theory]
-sources: ["[[chp 2 - tree (résumé)|Chp2 - tree]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - Kruskal
+matieres:
+  - graph theory
+sources:
+  - "[[2 - tree (résumé)|Chp2 - tree]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +27,4 @@ Notion parente : [[Arbre couvrant minimal]]. Voir aussi : [[Algorithme glouton]]
 - La note finale du cours parle de « poids des nœuds » au lieu des arêtes.
 - Dans le TP, `graph[i]` peut sortir de la liste sur un graphe non connexe.
 
-Résumés : [[chp 2 - tree (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[2 - tree (résumé)]], [[0 - Graph - Python (résumé)]]

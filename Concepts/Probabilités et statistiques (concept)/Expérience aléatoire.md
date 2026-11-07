@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: []
 matieres: [Probability]
-sources: ["[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
+sources: ["[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Une expérience (experiment) est une action dont l'issue est incertaine et qui p
 
 Notion parente : [[Espace probabilisé]]. Voir aussi : [[Événement (probabilités)]].
 
-Résumés : [[chp 1 - Sample space,events, proba (résumé)]]
+Résumés : [[1 - Sample space,events, proba (résumé)]]

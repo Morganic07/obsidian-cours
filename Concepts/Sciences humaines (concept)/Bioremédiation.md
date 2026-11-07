@@ -15,4 +15,4 @@ Nommée dans VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys
 
 Voir aussi : [[Sixième extinction]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [command substitution, backticks, apostrophes inversées]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"]
+tags:
+  - year2
+aliases:
+  - command substitution
+  - backticks
+  - apostrophes inversées
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[2 - TP2 (résumé)|Cours TP2]]"
+  - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +23,4 @@ Notion parente : [[Script Bash]]. Voir aussi : [[Variable Bash]], [[Commande dat
 
 - Une ligne « 0 » isolée apparaît dans l'explication de `$(...)` de la fiche (reste de mise en page).
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]]

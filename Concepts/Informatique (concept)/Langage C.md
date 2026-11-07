@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - C++
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Voir aussi : [[Mot réservé]], [[Type primitif]], [[Typage statique]], [[Pointe
 
 - Le nom de la matière (C++) ne correspond pas à son contenu (C).
 
-Résumés : [[chp 1 - basiques (résumé)]], [[chp 2 - structures code (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[1 - basiques (résumé)]], [[2 - structures code (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

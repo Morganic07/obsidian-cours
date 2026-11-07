@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [accroissements finis dans Rn, accroissements finis, acroissements finis]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Gradient]]. Voir aussi : [[Partie convexe]], [[Application li
 
 La propriété 11 se termine par un reste de la propriété 10.
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]]

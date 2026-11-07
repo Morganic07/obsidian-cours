@@ -11,7 +11,7 @@ Un arbre AVL est un arbre binaire de recherche équilibré : AVL = arbre binaire
 
 **Facteur d'équilibrage** : hauteur du sous-arbre droit moins hauteur du gauche dans le cours (l'usage est gauche moins droite). L'arbre est équilibré si le facteur vaut $-1$, $0$ ou $1$ en chaque nœud. À $\pm 2$, il y a déséquilibre.
 
-**Hauteur** ([[Hauteur d'un arbre]]) : $h = 1 + \max(h_{gauche}, h_{droite})$, avec $h = -1$ pour un sous-arbre vide. Si l'arbre est équilibré, $h$ est en $O(\log n)$. Propriété de l'amphi : $\log_2(1+n) \le 1 + h \le 1{,}44 \log_2(2+n)$ (plus précisément $\le \alpha\log_2(2+n)$ avec $\alpha \le 1{,}44$, d'après [[chp 6 - AVL (résumé)]]).
+**Hauteur** ([[Hauteur d'un arbre]]) : $h = 1 + \max(h_{gauche}, h_{droite})$, avec $h = -1$ pour un sous-arbre vide. Si l'arbre est équilibré, $h$ est en $O(\log n)$. Propriété de l'amphi : $\log_2(1+n) \le 1 + h \le 1{,}44 \log_2(2+n)$ (plus précisément $\le \alpha\log_2(2+n)$ avec $\alpha \le 1{,}44$, d'après [[6 - AVL (résumé)]]).
 
 **Rotations** : la rotation droite autour de $y$ fait descendre $y$ et remonter son fils gauche $x$, sans changer l'ordre des éléments. La rotation gauche est l'inverse.
 - Facteur $-2$ en $y$, $x$ son fils gauche : si $eq(x)$ vaut $-1$ ou $0$, rotation droite. Si $eq(x)$ vaut 1, rotation gauche autour de $x$ puis rotation droite autour de $y$. Le cas $+2$ est symétrique.
@@ -32,4 +32,4 @@ Attention aux conventions : la fiche AVL pose la hauteur d'un arbre vide à 0, a
 
 Notion parente : [[Arbre binaire de recherche]]. Liens : [[Hauteur d'un arbre]], [[Complexité algorithmique]], [[Calcul de complexité et théorème de résolution]], [[Récursivité]]
 
-Résumés : [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]], [[chp 6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]], [[6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]

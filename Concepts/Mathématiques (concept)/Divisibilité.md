@@ -17,4 +17,4 @@ Notion parente : [[Relation d'ordre]]. Voir aussi : [[Congruence modulo n]].
 
 - Diapositive 28 : « 0 est le maximum (...) » vaut sur $\mathbb{N}$ entier alors que l'ordre a été défini sur $\mathbb{N}^*$, et la phrase est tronquée (« ni maximum ni minimum 3 »).
 
-Résumés : [[Chapitre3-Relation binaire (résumé)]]
+Résumés : [[3 - pdf (résumé)]]

@@ -14,4 +14,4 @@ Nommé dans AlgoID1 sans définition, à propos du [[Problème du voyageur de co
 
 Notion parente : [[Algorithme]]. Voir aussi : [[Problème du voyageur de commerce]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

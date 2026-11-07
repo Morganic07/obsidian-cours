@@ -14,4 +14,4 @@ Nommé dans le cours d'ethnographie visuelle, sans autre explication : « extrem
 
 Notion parente : [[Observation de terrain]]. Voir aussi : [[Persona]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

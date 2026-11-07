@@ -11,10 +11,10 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état]]"
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[1 - philo (résumé)|L'état]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -24,4 +24,4 @@ Dès le XVIIe siècle, on remet en cause la finalité dans la Nature : Descartes
 
 Voir aussi : [[Quatre causes d'Aristote]], [[Animal-machine]], [[Révolution scientifique]], [[Darwinisme]].
 
-Résumés : [[chp 1 - philo (résumé)]], [[chp 3 - philo (résumé)]], [[chp 4 - philo (résumé)]], [[chp 7 - philo (résumé)]]
+Résumés : [[1 - philo (résumé)]], [[3 - philo (résumé)]], [[4 - philo (résumé)]], [[7 - philo (résumé)]]

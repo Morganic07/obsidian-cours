@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year2]
-aliases: [reflection, reflections, shear, shears, cisaillement, contraction and expansion, contraction et dilatation, projection onto the x1-axis]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"]
+tags:
+  - year2
+aliases:
+  - reflection
+  - reflections
+  - shear
+  - shears
+  - cisaillement
+  - contraction and expansion
+  - contraction et dilatation
+  - projection onto the x1-axis
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +31,4 @@ Notion parente : [[Transformation linéaire]]. Voir aussi : [[Projection orthogo
 
 Deux libellés rouges du tableau des réflexions ne correspondent pas à leur ligne.
 
-Résumés : [[chp 0a - Linear combination (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]]

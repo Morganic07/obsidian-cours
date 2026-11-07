@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [sommets adjacents, sommet isolé, arêtes multiples, arêtes parallèles, vertex, vertices, arête, arêtes]
 matieres: [graph theory]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
+sources: ["[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Vocabulaire de base du chapitre 1 de théorie des graphes :
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Graphe simple]], [[Matrice d'adjacence]].
 
-Résumés : [[chp 1 - Undirected graph (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]]

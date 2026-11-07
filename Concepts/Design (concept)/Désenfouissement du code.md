@@ -12,4 +12,4 @@ Désenfouir le code, c'est faire apparaître cette écriture cachée : le fil n'
 
 Notion parente : [[Architexte]]. Voir aussi : [[Économie des données]].
 
-Résumés : [[chp 4 - sémiotique (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]]

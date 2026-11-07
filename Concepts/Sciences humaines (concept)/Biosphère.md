@@ -13,4 +13,4 @@ VIVANT1 cite Vernadski, *La Biosphère* (1920), qui alerte sur l'effet planétai
 
 Notion parente : [[Anthropocène]]. Voir aussi : [[Zone critique]].
 
-Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[4 - Culture du vivant (résumé)]]

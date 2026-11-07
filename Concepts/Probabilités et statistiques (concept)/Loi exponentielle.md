@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [exponential distribution, exponential random variable, loi gamma, gamma distribution, loi de Weibull, Weibull distribution]
-matieres: [Probability, Statistics]
-sources: ["[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - exponential distribution
+  - exponential random variable
+  - loi gamma
+  - gamma distribution
+  - loi de Weibull
+  - Weibull distribution
+matieres:
+  - Probability
+  - Statistics
+sources:
+  - "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]"
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
+  - "[[3 - More on probability (résumé)|Chp3 - More on probability]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +28,4 @@ maj: 2026-11-06
 
 Notion parente : [[Variable aléatoire]]. Voir aussi : [[Fonction de répartition]], [[Stabilité des lois par somme]], [[Diagramme de probabilité]], [[Fonction Gamma]].
 
-Résumés : [[chp 5 - Continuous random variable (résumé)]], [[chp 4 - Part 1 - Inferential statistics (résumé)]], [[chp 3 - More on probability (résumé)]]
+Résumés : [[5 - Continuous random variable (résumé)]], [[4 - Inferential statistics 1 (résumé)]], [[3 - More on probability (résumé)]]

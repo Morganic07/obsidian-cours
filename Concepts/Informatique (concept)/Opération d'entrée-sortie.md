@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [I/O operation, "opération d'E/S", "opérations d'E/S", I/O request, "requête d'E/S", entrées-sorties]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Voir aussi : [[Accès direct à la mémoire]], [[Contrôleur de périphérique]]
 
 - Section « Working of an I/O operation - A COMPRENDRE » des notes : l'étudiante n'avait pas fini de la comprendre.
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

@@ -14,4 +14,4 @@ Repères : Albert Kahn, Margaret Mead (l'image comme illustration), puis la thé
 
 Notion parente : [[Ethnographie]]. Voir aussi : [[Tournant iconique]], [[Usages de l'image en ethnographie]], [[Photovoice]], [[Sites et modalités d'analyse d'une image]], [[Anthropologie]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

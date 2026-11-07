@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [majorant, minorant, majorants, minorants, majoré, minoré, partie majorée, partie minorée, partie bornée]
 matieres: [Outil Maths]
-sources: ["[[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
+sources: ["[[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Exemple : dans $(\mathbb{R}, \leq)$, $[0;1]$ est majoré par 3, 2, 1 et minoré 
 
 Notion parente : [[Relation d'ordre]]. Voir aussi : [[Plus grand élément]], [[Borne supérieure]], [[Élément maximal]].
 
-Résumés : [[chp 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]

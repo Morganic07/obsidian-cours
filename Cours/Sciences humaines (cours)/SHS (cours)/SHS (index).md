@@ -7,7 +7,7 @@ tags:
 sources:
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
   - "[[Synthese SHS GPT (résumé)|Synthese SHS GPT]]"
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -21,7 +21,7 @@ SHS de 2e année : un seul document, des notes manuscrites d'un cours d'ethnogra
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| dessein au cube Semestre 2 (10 pages manuscrites) | Observation de terrain, photo ethnographique, analyse d'image, netnographie | [[chp 1 - Ethnographie visuelle (résumé)\|Résumé]] |
+| dessein au cube Semestre 2 (10 pages manuscrites) | Observation de terrain, photo ethnographique, analyse d'image, netnographie | [[1 - Ethnographie visuelle (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -62,11 +62,11 @@ Cours magistral, TD et trois textes de lecture de l'enseignant et de ses référ
 
 | Document | Rôle | Résumé |
 |---|---|---|
-| imaginaire_automobile_futur_smaller (cours, 22 septembre 2025) | Objectifs, notion d'imaginaire, histoire, anthropologie, sociologie, livrables | [[chp 2 - imaginaires du futur (résumé)\|Résumé]] |
+| imaginaire_automobile_futur_smaller (cours, 22 septembre 2025) | Objectifs, notion d'imaginaire, histoire, anthropologie, sociologie, livrables | [[2 - imaginaires du futur (résumé)\|Résumé]] |
 | TD_preparation_entretiens25.9.25 | Méthode d'entretien semi-directif, de la préparation à l'analyse | [[TD_preparation_entretiens25.9.25 (résumé)\|Résumé]] |
-| text1 (Meyer-Drawe, « L'automobile, un moi blindé ») | Approche anthropologique | [[chp 4 - imaginaires automobile (résumé)\|Résumé]] |
-| text2 (Kröger, histoire de la conduite automatisée) | Approche historique | [[chp 5 - imaginaires de l'automobile (résumé)\|Résumé]] |
-| text3 (Boltanski, « Les usages sociaux de l'automobile ») | Approche sociologique (lecture partielle) | [[chp 6 - usages sociaux de l'automobile (résumé)\|Résumé]] |
+| text1 (Meyer-Drawe, « L'automobile, un moi blindé ») | Approche anthropologique | [[4 - imaginaires automobile (résumé)\|Résumé]] |
+| text2 (Kröger, histoire de la conduite automatisée) | Approche historique | [[5 - imaginaires de l'automobile (résumé)\|Résumé]] |
+| text3 (Boltanski, « Les usages sociaux de l'automobile ») | Approche sociologique (lecture partielle) | [[6 - usages sociaux de l'automobile (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -99,7 +99,7 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[chp 3 - Prise de note (résumé)\|Prise de note SHS]] | Problématique, plan, ouvertures | [[chp 3 - Prise de note (résumé)\|Résumé]] |
+| [[3 - Prise de note (résumé)\|Prise de note SHS]] | Problématique, plan, ouvertures | [[3 - Prise de note (résumé)\|Résumé]] |
 | Recherches SHS | Recherches (Blender, OpenFisca, IA) | [[Recherches SHS (résumé)\|Résumé]] |
 | Entretien sur l'open source | Entretien retranscrit | [[Entretien sur l'open source (résumé)\|Résumé]] |
 

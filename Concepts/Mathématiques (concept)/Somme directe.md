@@ -8,7 +8,7 @@ aliases:
   - sous-espaces supplémentaires
   - en somme directe
 sources:
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Plusieurs sev sont en somme directe si $x_1 + \dots + x_p = 0$ entraîne $x_1 = 
 
 Notion parente : [[Sous-espace vectoriel]]. Liens : [[Dimension (algèbre linéaire)]], [[Espace propre]], [[Complément orthogonal]]
 
-Résumé : [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]]
+Résumé : [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]]

@@ -13,4 +13,4 @@ Ce sens de « rang » n'a rien à voir avec le rang d'une matrice en algèbre li
 
 Notion parente : [[Relation binaire]].
 
-Résumés : [[Chapitre3-Relation binaire (résumé)]]
+Résumés : [[3 - pdf (résumé)]]

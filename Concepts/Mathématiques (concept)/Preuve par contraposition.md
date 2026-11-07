@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [contraposée, raisonnement par contraposition, démonstration par contraposition]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Implication logiqu
 
 - Dans la preuve de parité, la transcription porte « $q(x,x)$ » avec un « À vérifier » ; on attend $q(x,y)$.
 
-Résumés : [[chp 1 - logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[4 - pdf (résumé)]]

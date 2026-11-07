@@ -11,4 +11,4 @@ $P\subset\mathbb{R}^n$ est un pavé s'il existe $a=(a_1,\dots,a_n)$ et $b=(b_1,\
 
 Notion parente : [[Intégrale multiple]]. Voir aussi : [[Compact élémentaire]].
 
-Résumés : [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[2 - intégrales multiples (résumé)]]

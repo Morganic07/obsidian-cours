@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [degree of a vertex]
 matieres: [graph theory]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
+sources: ["[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Graphe régulier]], [[G
 
 - Le degré d'un sommet non orienté n'est pas défini au chapitre 1 ; la relation $k\,\text{card}(V) = 2\,\text{card}(E)$ suppose qu'une boucle compte deux fois (relevé du résumé).
 
-Résumés : [[chp 1 - Undirected graph (résumé)]], [[chp 4 - oriented graphs (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]], [[4 - oriented graphs (résumé)]], [[0 - Graph - Python (résumé)]]

@@ -10,11 +10,11 @@ aliases:
 matieres:
   - Data analysis (Thanos)
 sources:
-  - "[[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1]]"
+  - "[[1 - Data analysis (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-D'après [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)]] :
+D'après [[1 - Data analysis (résumé)|Cours 1 (Data analysis)]] :
 
 - un **module** est le plus petit morceau de logiciel : des méthodes ou fonctions réutilisables ;
 - un **paquet** regroupe des modules qui ont le même but ;
@@ -23,4 +23,4 @@ D'après [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)
 
 Voir aussi : [[Langage R]].
 
-Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]
+Résumés : [[1 - Data analysis (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]

@@ -15,4 +15,4 @@ Nommé dans le cours de data mining sans définition : le F-score est cité parm
 
 Notion parente : [[Validation d'un classifieur]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

@@ -5,8 +5,8 @@ tags:
 aliases:
   - progrès civilisationnel
 sources:
-  - "[[chp 6 - philo (résumé)|philo 4]]"
-  - "[[chp 3 - philo (résumé)|philo 1]]"
+  - "[[6 - philo (résumé)|philo 4]]"
+  - "[[3 - philo (résumé)|philo 1]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Rousseau : le progrès technique n'entraîne pas forcément le progrès moral.
 
 Notion parente : [[Progrès technique]]. Voir aussi : [[Philosophie de l'histoire]].
 
-Résumés : [[chp 6 - philo (résumé)]], [[chp 3 - philo (résumé)]]
+Résumés : [[6 - philo (résumé)]], [[3 - philo (résumé)]]

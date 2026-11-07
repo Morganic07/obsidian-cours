@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [zombie, zombie process, processus zombie, orphan process, processus orphelin, orphelin]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Proce
 
 - « Le zombie occupe la mémoire » : il occupe plutôt une entrée de la table des processus (complément du résumé).
 
-Résumé : [[OS - chp 7 (résumé)]]
+Résumé : [[7 - OS (résumé)]]

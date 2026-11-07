@@ -4,7 +4,7 @@ tags:
   - year1
 aliases: []
 sources:
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Équivalent (compa
 - Le cours écrit $(\alpha, \beta) \in \mathbb{R}$, à lire $\mathbb{R}^2$ (avec $\alpha, \beta > 0$).
 - Les deux mentions « À vérifier » de la transcription, sur $1/n^\alpha = o(\ln^\beta n)$ et sur la troncature, sont de fausses alertes.
 
-Résumés : [[chp 5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[TDSuites (résumé)]]

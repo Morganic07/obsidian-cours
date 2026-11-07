@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year3]
-aliases: [law of large numbers, LLN, loi faible des grands nombres]
-matieres: [Statistics]
-sources: ["[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
+tags:
+  - year3
+aliases:
+  - law of large numbers
+  - LLN
+  - loi faible des grands nombres
+matieres:
+  - Statistics
+sources:
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Pour des variables de Bernoulli de paramètre $p$, la proportion $\hat{P}$ conve
 
 Voir aussi : [[Théorème central limite]], [[Distribution d'échantillonnage]], [[Convergence en probabilité]].
 
-Résumé : [[chp 4 - Part 1 - Inferential statistics (résumé)]]
+Résumé : [[4 - Inferential statistics 1 (résumé)]]

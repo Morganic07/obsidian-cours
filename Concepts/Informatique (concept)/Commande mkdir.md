@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [mkdir, mkdir -p]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[séance TP1 (résumé)|cours TP1]]"]
+tags:
+  - year2
+aliases:
+  - mkdir
+  - mkdir -p
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Expansion d'accolades]], [[Commande rmdir]], [[Commande tree]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]]

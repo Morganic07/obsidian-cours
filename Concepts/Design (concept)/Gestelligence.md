@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Corps à l'oeuvre
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Mot donné comme notion centrale du cours (titre de la séance du 09/01/24), san
 
 Voir aussi : [[Geste]], [[Affordance]], [[Fonction, forme, structure]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]]

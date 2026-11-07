@@ -19,8 +19,8 @@ aliases:
 matieres:
   - Computer Network
 sources:
-  - "[[chp 1 - Computer Networks (résumé)|chp1 - Computer Networks]]"
-  - "[[CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]]"
+  - "[[1 - Computer Networks (résumé)|chp1 - Computer Networks]]"
+  - "[[7 - Cisco (résumé)|Formation CISCO Packet Tracer]]"
 maj: 2026-11-06
 ---
 
@@ -43,4 +43,4 @@ Liens : [[Routage statique]], [[VLAN]], [[Interface réseau]], [[Commande ping]]
 
 L'étudiant écrit « internetwork Operating System je crois » ; le cours dit aussi que la configuration globale permet toutes les commandes « sauf les show ».
 
-Résumés : [[chp 1 - Computer Networks (résumé)]], [[CISCO Packet Tracer (résumé)]]
+Résumés : [[1 - Computer Networks (résumé)]], [[7 - Cisco (résumé)]]

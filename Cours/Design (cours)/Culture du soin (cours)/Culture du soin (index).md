@@ -11,7 +11,7 @@ Culture du soin de 4e année : le soin comme geste culturel, et le design comme 
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Culture du soin Seance 1 (9 pages) | Du fonctionnalisme au Human Centered Design, ses limites, Heidegger, Merleau-Ponty, Foucault, soutenabilité | [[chp 1 - culture du soin (résumé)\|Résumé]] |
+| Culture du soin Seance 1 (9 pages) | Du fonctionnalisme au Human Centered Design, ses limites, Heidegger, Merleau-Ponty, Foucault, soutenabilité | [[1 - culture du soin (résumé)\|Résumé]] |
 
 ## Concepts
 

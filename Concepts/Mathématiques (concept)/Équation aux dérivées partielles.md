@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [équations aux dérivées partielles, EDP, EDPs, partial differential equation, système d'EDP, EDP d'ordre 1, EDP d'ordre 2]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ maj: 2026-11-06
 
 Notion parente : [[Dérivée partielle]]. Voir aussi : [[Difféomorphisme]], [[Fonction de classe Ck]]
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]], [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[5 - Calcul différentiel d'ordre supérieur (résumé)]]

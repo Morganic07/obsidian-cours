@@ -6,7 +6,7 @@ aliases:
   - distinction entre machine et organisme
   - homologie organisme-machine
 sources:
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Avec la cybernétique, il n'y a plus d'opposition stricte mais une homologie (un
 
 Voir aussi : [[Animal-machine]], [[Cybernétique]], [[Force plastique]], [[Technicité]], [[Sentience]].
 
-Résumés : [[chp 7 - philo (résumé)]]
+Résumés : [[7 - philo (résumé)]]

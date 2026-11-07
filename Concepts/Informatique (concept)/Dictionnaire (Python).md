@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year4]
-aliases: [dictionnaire Python, dictionnaires Python, dict]
-matieres: [graph theory]
-sources: ["[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - dictionnaire Python
+  - dictionnaires Python
+  - dict
+matieres:
+  - graph theory
+sources:
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +19,4 @@ En TP de théorie des graphes, un graphe est représenté par un dictionnaire : 
 
 Voir aussi : [[Matrice d'adjacence]], [[Graphe non orienté]].
 
-Résumés : [[Graph - Python (résumé)]]
+Résumés : [[0 - Graph - Python (résumé)]]

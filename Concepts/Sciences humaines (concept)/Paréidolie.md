@@ -13,4 +13,4 @@ Les visages des voitures sont souvent agressifs (exemple du cours : la Maserati 
 
 Voir aussi : [[Anthropomorphisme]], [[Imaginaire]].
 
-Résumés : [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[2 - imaginaires du futur (résumé)]]

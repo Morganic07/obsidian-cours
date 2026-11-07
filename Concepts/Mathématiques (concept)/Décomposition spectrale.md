@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [spectral decomposition]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Chaque $\mathbf{u}_j\mathbf{u}_j^T$ est une matrice de projection : chaque colon
 
 Notion parente : [[Théorème spectral]]. Voir aussi : [[Développement colonnes-lignes]], [[Projection orthogonale]].
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

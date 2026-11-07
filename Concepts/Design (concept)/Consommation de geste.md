@@ -4,7 +4,7 @@ tags:
   - year1
 aliases: []
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Ce qui consomme dépend des mouvements mis à l'œuvre : d'où l'idée de « con
 
 Notion parente : [[Geste]]. Voir aussi : [[Gestelligence]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]]

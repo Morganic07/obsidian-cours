@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Corps à l'oeuvre
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ On ne maîtrise pas les mouvements autour de nous, mais on choisit le sien ; un 
 
 Voir aussi : [[Gestelligence]], [[Consommation de geste]], [[Posture et sentiment]].
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

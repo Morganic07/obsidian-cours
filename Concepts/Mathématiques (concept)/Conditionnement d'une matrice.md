@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [condition number, conditionnement, nombre de conditionnement]
 matieres: [Bilinear Algebra]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Décomposition en valeurs singulières]].
 
 - L'hypothèse « inversible » précède la citation dans le cours (« ... then the ratio ») : passage à relire en entier.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

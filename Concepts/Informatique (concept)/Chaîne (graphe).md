@@ -1,8 +1,15 @@
 ---
 type: concept
-tags: [year4]
-aliases: [chaîne élémentaire, chaîne simple, simple chain, longueur d'une chaîne]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - chaîne élémentaire
+  - chaîne simple
+  - simple chain
+  - longueur d'une chaîne
+sources:
+  - "[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +26,4 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Cycle (graphe)]], [[Gra
 
 La chaîne $C_2$ de l'exemple du cours n'en est pas une ($e_1$ relie $v_1$ et $v_2$) : probablement un contre-exemple (en rouge), image non ouverte.
 
-Résumés : [[chp 1 - Undirected graph (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]], [[0 - Graph - Python (résumé)]]

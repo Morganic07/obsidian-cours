@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [pont d'un graphe]
 matieres: [graph theory]
-sources: ["[[chp 2 - tree (résumé)|Chp2 - tree]]"]
+sources: ["[[2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Graphe connexe]]. Voir aussi : [[Arbre couvrant minimal]].
 
 - La preuve de la proposition 6 n'établit pas l'acyclicité du graphe obtenu (relevé du résumé).
 
-Résumés : [[chp 2 - tree (résumé)]]
+Résumés : [[2 - tree (résumé)]]

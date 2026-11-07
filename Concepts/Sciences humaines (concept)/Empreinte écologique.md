@@ -6,7 +6,7 @@ aliases:
   - ecological footprint
 sources:
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[chp 2 - Culture du vivant (résumé)|Culture du vivant]]"
+  - "[[2 - Culture du vivant (résumé)|Culture du vivant]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Voir aussi : [[Biocapacité]], [[Jour du dépassement]].
 
 - Le cours ne définit pas l'empreinte écologique : il en nomme l'auteur et en montre l'évolution.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]], [[chp 2 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]], [[2 - Culture du vivant (résumé)]]

@@ -7,9 +7,9 @@ aliases:
   - domination de la nature
   - savoir c'est pouvoir
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Notion parente : [[Progrès technique]]. Voir aussi : [[Nature comme réserve de
 
 - La note écrit « Lettre à Chanat » ; le destinataire est Chanut.
 
-Résumés : [[chp 3 - philo (résumé)]], [[chp 4 - philo (résumé)]], [[chp 5 - philo (résumé)]]
+Résumés : [[3 - philo (résumé)]], [[4 - philo (résumé)]], [[5 - philo (résumé)]]

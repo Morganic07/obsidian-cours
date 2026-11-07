@@ -12,7 +12,7 @@ aliases:
 matieres:
   - Corps à l'oeuvre
 sources:
-  - "[[chp 1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
+  - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Il existe une hiérarchie des sens : le goût et l'odorat sont intimes.
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Informations froides et chaudes]].
 
-Résumés : [[chp 1 - corps à l'oeuvre (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]]

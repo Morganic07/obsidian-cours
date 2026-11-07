@@ -14,4 +14,4 @@ Notion parente : [[Limite et continuité]]. Voir aussi : [[Intervalle réel]], [
 
 - Le nom « théorème des bornes atteintes » n'est pas attesté dans les sources relevées : le résumé donne seulement l'énoncé.
 
-Résumés : [[AnalyseID1 (résumé)]]
+Résumés : [[0 - rappels pdf]]

@@ -10,4 +10,4 @@ Mentionnée dans le chapitre 4 d'Outil Maths sans développement : pour $A \subs
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Restriction d'une fonction]], [[Injectivité et surjectivité]].
 
-Résumés : [[Chapitre4-Fonctions (1) (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

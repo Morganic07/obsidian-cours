@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [ensemble convexe, ouvert convexe]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Sur un ouvert convexe, l'[[Inégalité des accroissements finis]] rend une fonct
 
 Voir aussi : [[Inégalité des accroissements finis]].
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]]

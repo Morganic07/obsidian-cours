@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year3]
-aliases: [Simpson's paradox, Simpson paradox, facteur de confusion, confounding factor, variable cachée, stratifier, stratification par groupe]
-matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 3 - Paradoxe de Simpson (résumé)|Cours 3 - Paradoxe de Simpson]]"]
+tags:
+  - year3
+aliases:
+  - Simpson's paradox
+  - Simpson paradox
+  - facteur de confusion
+  - confounding factor
+  - variable cachée
+  - stratifier
+  - stratification par groupe
+matieres:
+  - Data analysis (Thanos)
+sources:
+  - "[[3 - Paradoxe de Simpson (résumé)|Cours 3 - Paradoxe de Simpson]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +23,4 @@ Une tendance observée sur les données globales s'inverse quand on sépare les 
 
 **Conduite à tenir** : ne pas se fier à une moyenne globale sans regarder les sous-groupes, stratifier (séparer les données par groupe) et visualiser en colorant par groupe, ce qui fait apparaître le facteur de confusion, et utiliser une régression multivariée qui ajuste sur les variables cachées (voir [[Régression linéaire]]).
 
-Résumé : [[Séance 3 - Paradoxe de Simpson (résumé)]]
+Résumé : [[3 - Paradoxe de Simpson (résumé)]]

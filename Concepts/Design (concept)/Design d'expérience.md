@@ -18,4 +18,4 @@ maj: 2026-11-06
 
 Notion parente : [[Retail régénératif]]. Voir aussi : [[Design de services]], [[Design produit]], [[Expérience utilisateur]], [[Observation de terrain]].
 
-Résumés : [[ELBA (résumé)]], [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[ELBA (résumé)]], [[1 - Ethnographie visuelle (résumé)]]

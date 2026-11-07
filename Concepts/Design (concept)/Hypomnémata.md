@@ -11,4 +11,4 @@ Selon Stiegler (2008), les technologies numériques fonctionnent comme des hypom
 
 Voir aussi : [[Externalisation des facultés]], [[Traces numériques]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

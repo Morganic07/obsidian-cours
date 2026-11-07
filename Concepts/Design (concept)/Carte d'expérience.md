@@ -14,4 +14,4 @@ Nommée dans UX Research - Observation - 2026 ([[Raw/Year 3/Affordance/UX Resear
 
 Notion parente : [[Parcours utilisateur]]. Voir aussi : [[Storyboard]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

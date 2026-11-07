@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [likelihood]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]"]
+sources: ["[[5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Dans un test, la [[P-value]] sert à juger la vraisemblance de $H_0$.
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[P-value]].
 
-Résumés : [[Séance 5 - Hypothesis Testing (résumé)]]
+Résumés : [[5 - Hypothesis Testing (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [exec(), execlp]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Appel système utilisé après `fork()` pour remplacer l'espace mémoire du proc
 
 Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Appel fork()]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

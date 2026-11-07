@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [orthogonal, orthogonality, orthogonaux, orthogonales]
 matieres: [Bilinear Algebra, Algèbre Linéaire]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Notion parente : [[Produit scalaire]].
 
 Liens : [[Norme]], [[Complément orthogonal]], [[Famille orthogonale]], [[Projection orthogonale]], [[Procédé de Gram-Schmidt]], [[Moindres carrés]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumé : [[1 - Orthogonality (résumé)]]

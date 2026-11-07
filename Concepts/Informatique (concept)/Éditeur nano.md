@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Nano, GNU nano, commande nano]
 matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]", "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Éditeur de texte]]. Voir aussi : [[Commande sudo]].
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP4-Unix Commands (résumé)]]

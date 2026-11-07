@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [moment generating function, mgf, MGF]
 matieres: [Probability, Statistics]
-sources: ["[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]"]
+sources: ["[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]"]
 maj: 2026-11-06
 ---
 
@@ -17,7 +17,7 @@ Notion parente : [[Espérance et variance]]. Voir aussi : [[Variable aléatoire]
 
 ## À vérifier
 
-- [[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]] : « as in the discrete case » renvoie à un cas absent des notes.
-- [[chp 3 - More on probability (résumé)|Chp3 - More on probability]] écrit $\frac{d^n}{dt^n}M_X(t) = E(X^n)$ sans évaluer en 0, et $M_{aX+bY+x}$ pour $+c$.
+- [[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]] : « as in the discrete case » renvoie à un cas absent des notes.
+- [[3 - More on probability (résumé)|Chp3 - More on probability]] écrit $\frac{d^n}{dt^n}M_X(t) = E(X^n)$ sans évaluer en 0, et $M_{aX+bY+x}$ pour $+c$.
 
-Résumés : [[chp 5 - Continuous random variable (résumé)]], [[chp 3 - More on probability (résumé)]]
+Résumés : [[5 - Continuous random variable (résumé)]], [[3 - More on probability (résumé)]]

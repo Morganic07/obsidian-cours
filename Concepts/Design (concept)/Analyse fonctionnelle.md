@@ -15,4 +15,4 @@ Seulement nommée dans le schéma de la méthode [[Value(s) Design]] : c'est la 
 
 Notion parente : [[Value(s) Design]]. Voir aussi : [[Cycle de vie d'un produit]].
 
-Résumés : [[chp 1 - innovation (résumé)]]
+Résumés : [[1 - innovation (résumé)]]

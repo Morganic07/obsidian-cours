@@ -15,4 +15,4 @@ Pour Jeanneret, la médiation est une « activité productive et créative qui c
 
 Voir aussi : [[Dispositif (communication)]], [[Analyse techno-sémiotique]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]], [[chp 1 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]], [[1 - sémiotique (résumé)]]

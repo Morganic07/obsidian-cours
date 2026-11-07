@@ -14,4 +14,4 @@ Notion parente : [[Analyse techno-sémiotique]].
 
 - Notion présente dans le diaporama (diapositive 18) mais absente du résumé.
 
-Résumés : [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]]

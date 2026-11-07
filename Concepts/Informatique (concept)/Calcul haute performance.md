@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [HPC, high-performance computing]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Certains clusters servent au calcul haute performance (HPC), pour des calculs co
 
 Notion parente : [[Système en grappe (cluster)]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

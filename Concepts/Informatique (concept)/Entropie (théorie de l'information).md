@@ -23,4 +23,4 @@ Notion parente : [[Algorithme ID3]]. Voir aussi : [[Gain d'information]], [[Indi
 
 - L'indice de la somme passe de $m$ à $k$ pour le nombre de sous-ensembles (coquille relevée par le résumé).
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

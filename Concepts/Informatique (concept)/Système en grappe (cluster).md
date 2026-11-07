@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [clustered systems, clustered system, système en grappe, asymmetric clustering, symmetric clustering, hot-standby, high availability, haute disponibilité]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Plusieurs ordinateurs (nœuds) qui travaillent ensemble et partagent un stockage
 
 Notion parente : [[Système multiprocesseur]]. Voir aussi : [[Calcul haute performance]], [[Gestionnaire de verrous distribué]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

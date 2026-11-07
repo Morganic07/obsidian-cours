@@ -9,7 +9,7 @@ aliases:
   - prime numbers
   - test de primalité
 sources:
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
   - "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"
@@ -26,4 +26,4 @@ Voir aussi : [[Arithmétique en Bash]], [[Boucle (programmation)]].
 
 - Version Python du DM : `range(2, int(n**0.5))` exclut la racine, si bien que 4 et 9 seraient jugés premiers (signalé par le résumé).
 
-Résumés : [[Séance 1 - Algo Maths (résumé)|Cours 1 (résumé) (Algo Maths)]], [[AlgoID1 (résumé)]], [[DM Shell Scripting (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (résumé) (Algo Maths)]], [[0 - diapo prof (résumé)]], [[DM Shell Scripting (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]]

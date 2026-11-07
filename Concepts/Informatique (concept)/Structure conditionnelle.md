@@ -27,10 +27,10 @@ matieres:
   - C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
   - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
-  - "[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]"
-  - "[[chp 2 - structures code (résumé)|chp2 - structures code]]"
+  - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
+  - "[[2 - structures code (résumé)|chp2 - structures code]]"
 maj: 2026-11-06
 ---
 
@@ -50,4 +50,4 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Boucle (programmation)]], [[Év
 
 - Le cours de Java affirme « ELSE IF N'EXISTE PAS EN JAVA », ce qui est faux (à corriger avant un examen). Sans `break`, l'exécution continue au cas suivant ; `switch` accepte aussi `String` et `enum`.
 
-Résumés : [[AlgoID1 (résumé)]], [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[chp 1 - Intro Java (résumé)]], [[chp 2 - structures code (résumé)]], [[chp 1 - basiques (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[1 - basiques (résumé)]]

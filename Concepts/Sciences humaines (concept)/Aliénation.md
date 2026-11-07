@@ -8,9 +8,9 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Homo faber]], [[Technicité]], [[Capitalisme]].
 
-Résumés : [[chp 3 - philo (résumé)]], [[chp 4 - philo (résumé)]], [[chp 7 - philo (résumé)]]
+Résumés : [[3 - philo (résumé)]], [[4 - philo (résumé)]], [[7 - philo (résumé)]]

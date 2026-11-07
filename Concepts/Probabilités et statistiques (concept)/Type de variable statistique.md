@@ -1,8 +1,27 @@
 ---
 type: concept
-tags: [year3]
-aliases: [variable qualitative, variable quantitative, variable catégorielle, categorical variable, variables catégorielles, variable nominale, variable ordinale, niveau de mesure, levels of measurement, échelle nominale, échelle ordinale, échelle d'intervalle, échelle de ratio, données univariées, données bivariées, données multivariées]
-sources: ["[[Séance 2 - Introduction statistics (résumé)|Cours 2 - Introduction statistics]]", "[[chp 1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"]
+tags:
+  - year3
+aliases:
+  - variable qualitative
+  - variable quantitative
+  - variable catégorielle
+  - categorical variable
+  - variables catégorielles
+  - variable nominale
+  - variable ordinale
+  - niveau de mesure
+  - levels of measurement
+  - échelle nominale
+  - échelle ordinale
+  - échelle d'intervalle
+  - échelle de ratio
+  - données univariées
+  - données bivariées
+  - données multivariées
+sources:
+  - "[[2 - Introduction statistics (résumé)|Cours 2 - Introduction statistics]]"
+  - "[[1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +36,4 @@ Selon le nombre de variables étudiées, les données sont univariées, bivarié
 
 Voir aussi : [[Mesures de tendance centrale]], [[Facteur (variable catégorielle)]], [[Coefficient de variation]].
 
-Résumés : [[Séance 2 - Introduction statistics (résumé)]], [[chp 1 - Intro to statistics (résumé)]], [[chp 2 - Descriptive statistics (résumé)]]
+Résumés : [[2 - Introduction statistics (résumé)]], [[1 - Intro to statistics (résumé)]], [[2 - Descriptive statistics (résumé)]]

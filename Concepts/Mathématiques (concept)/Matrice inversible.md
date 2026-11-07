@@ -13,10 +13,10 @@ aliases:
   - transformation inversible
   - algorithm for finding A^-1
 sources:
-  - "[[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
-  - "[[Invertible matrix theorem (résumé)|Invertible matrix theorem]]"
-  - "[[chp 4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
+  - "[[3 -Invertible matrix theorem (résumé)|Invertible matrix theorem]]"
+  - "[[4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -49,7 +49,7 @@ Liens : [[Déterminant]], [[Rang d'une matrice]], [[Valeur propre]], [[Forme éc
 
 ## À vérifier
 
-- [[chp 4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]] : la formule « $M_f \times M_{f^{-1}} =$ » est tronquée dans l'export Google.
-- [[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]] : l'exemple $e^x$ / $\ln$ est une analogie hors des transformations linéaires.
+- [[4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]] : la formule « $M_f \times M_{f^{-1}} =$ » est tronquée dans l'export Google.
+- [[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]] : l'exemple $e^x$ / $\ln$ est une analogie hors des transformations linéaires.
 
-Résumés : [[chp 0b - Matrix algebra (résumé)]], [[Invertible matrix theorem (résumé)]], [[chp 4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]]
+Résumés : [[0 - Matrix algebra (résumé)]], [[3 -Invertible matrix theorem (résumé)]], [[4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]]

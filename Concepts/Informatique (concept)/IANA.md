@@ -15,4 +15,4 @@ Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[IETF]].
 
 - Le cours n'écrit pas le développement du sigle : l'alias « Internet Assigned Numbers Authority » est un complément.
 
-Résumés : [[IP Addressing (résumé)]]
+Résumés : [[2 - IP Addressing (résumé)]]

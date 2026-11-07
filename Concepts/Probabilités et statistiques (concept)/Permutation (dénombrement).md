@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Permutation, permutations, nPk, arrangement, arrangements, permutation de taille k]
 matieres: [Probability]
-sources: ["[[chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
+sources: ["[[3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Le schéma du cours appelle « arrangement » l'échantillon ordonné.
 
 Notion parente : [[Dénombrement]]. Voir aussi : [[Factorielle]], [[Combinaison (dénombrement)]].
 
-Résumés : [[chp 3 - Combinatorics (résumé)]]
+Résumés : [[3 - Combinatorics (résumé)]]

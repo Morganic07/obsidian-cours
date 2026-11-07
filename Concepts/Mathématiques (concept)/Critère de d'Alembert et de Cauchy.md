@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year3]
 aliases: [critère de d'Alembert, règle de d'Alembert, ratio test, critère de la racine, critère de Cauchy, root test, test du rapport]
 matieres: [Séries, Analyse Maths]
-sources: ["[[chp 2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[chp 5 - power series (résumé)|Chp5 - power series]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
+sources: ["[[2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[5 - power series (résumé)|Chp5 - power series]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Liens : [[Série numérique]], [[Suite numérique]], [[Suite géométrique]]
 
 Réciproque « L = 1 pour la racine implique L = 1 pour le rapport » non garantie.
 
-Résumés : [[chp 2 - Alternating and absolutly convergent series (résumé)]], [[chp 5 - power series (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[2 - Alternating and absolutly convergent series (résumé)]], [[5 - power series (résumé)]], [[TDSuites (résumé)]]

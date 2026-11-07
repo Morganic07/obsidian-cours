@@ -18,4 +18,4 @@ Voir aussi : [[Somme télescopique]], [[Changement d'indice]], [[Formule du bin�
 
 - Chap0 est scanné : contenu relevé d'après le résumé.
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]]

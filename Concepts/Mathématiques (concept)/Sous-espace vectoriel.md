@@ -10,10 +10,10 @@ aliases:
   - sous-espaces
   - sous-espaces vectoriels
 sources:
-  - "[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
-  - "[[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
+  - "[[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
   - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
@@ -26,7 +26,7 @@ Partie $H$ d'un espace vectoriel qui contient le vecteur nul et qui est stable p
 - Span$\{\mathbf{v}_1, \dots, \mathbf{v}_p\}$ est toujours un sous-espace ([[Espace engendré]]).
 - Pour deux sous-espaces $F$ et $G$ (abrégés sev) : $F \cap G$ en est un, $F \cup G$ pas forcément.
 - **Dimension** : si $\dim E = n$ et $\dim F = p$, alors $p \leq n$, et $p = n$ donne $E = F$ (voir [[Dimension (algèbre linéaire)]]).
-- $\mathrm{Im}(f)$, $\mathrm{Ker}(f)$ et l'ensemble des solutions d'un [[Système linéaire homogène]] sont des sev ([[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]], [[chp 3 - Algèbre linéaire (résumé)|chp3]]).
+- $\mathrm{Im}(f)$, $\mathrm{Ker}(f)$ et l'ensemble des solutions d'un [[Système linéaire homogène]] sont des sev ([[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]], [[3 - Algèbre linéaire (résumé)|chp3]]).
 
 Les évaluations 2 et 3 d'algèbre linéaire ([[Contrôles (résumé)|Contrôles]]) demandent bases et dimensions de sous-espaces de $\mathbb{R}^3$ et $\mathbb{R}^4$, une [[Base (algèbre linéaire)|base]] de $F + G$ et de $E \cap F$, et le sous-espace des polynômes de degré $\le 3$ annulés en $-1$ et $1$.
 
@@ -34,7 +34,7 @@ Notion parente : [[Espace vectoriel]]. Voir aussi : [[Espace engendré]], [[Sous
 
 ## À vérifier
 
-- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]] écrit « $p < n$ » au lieu de $p \leq n$ (le cas $p = n$ est traité juste après).
+- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]] écrit « $p < n$ » au lieu de $p \leq n$ (le cas $p = n$ est traité juste après).
 - Il écrit aussi « F\E jamais sev », sans doute pour $E \setminus F$.
 
-Résumés : [[chp 0d - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[chp 3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

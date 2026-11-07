@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [multidiffusion, adresse multicast, 224.0.0.9]
 matieres: [Computer Network]
-sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]", "[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]", "[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommé dans le cours sans définition propre. La classe D (224 à 239) est rése
 
 Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[Routage dynamique]].
 
-Résumés : [[IP Addressing (résumé)]], [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[2 - IP Addressing (résumé)]], [[3 - Dynamic Routing (résumé)]]

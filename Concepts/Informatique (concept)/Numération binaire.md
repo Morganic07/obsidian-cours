@@ -15,7 +15,7 @@ aliases:
 sources:
   - "[[explications DM d'algo (résumé)|explications DM d'algo]]"
   - "[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -31,4 +31,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Bit]], [[Recherche exhaustive]], [[Code de Gray]], [[Adressage IPv4 et CIDR]], [[Notation hexadécimale]].
 
-Résumés : [[explications DM d'algo (résumé)]], [[IP Addressing (résumé)]], [[chp 1 - Culture du vivant (résumé)]], [[chp 1 - basiques (résumé)]]
+Résumés : [[explications DM d'algo (résumé)]], [[2 - IP Addressing (résumé)]], [[1 - Culture du vivant (résumé)]], [[1 - basiques (résumé)]]

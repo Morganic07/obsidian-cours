@@ -14,4 +14,4 @@ Notion parente : [[Open design]]. Voir aussi : [[Système expert]], [[Gouvernanc
 
 - Thèse du groupe, non sourcée.
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

@@ -11,10 +11,10 @@ Sémiotique de 3e année : « Analyser les dispositifs numériques », analyse t
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| Cours 1 | Introduction, sémiotique, techno-sémiotique, moodboard | [[chp 1 - sémiotique (résumé)\|Résumé]] |
-| Cours 2 | La technologie, c'est de l'humain : écrits d'écran, imaginaires, corps, mémoire | [[chp 2 - sémiotique (résumé)\|Résumé]] |
-| Cours 3 | Les écrans, ce sont des médias : rôles, genres, temps, productivité | [[chp 3 - sémiotique (résumé)\|Résumé]] |
-| Cours 4 | Le formatage, c'est du pouvoir : architexte, code, mots, marché | [[chp 4 - sémiotique (résumé)\|Résumé]] |
+| Cours 1 | Introduction, sémiotique, techno-sémiotique, moodboard | [[1 - sémiotique (résumé)\|Résumé]] |
+| Cours 2 | La technologie, c'est de l'humain : écrits d'écran, imaginaires, corps, mémoire | [[2 - sémiotique (résumé)\|Résumé]] |
+| Cours 3 | Les écrans, ce sont des médias : rôles, genres, temps, productivité | [[3 - sémiotique (résumé)\|Résumé]] |
+| Cours 4 | Le formatage, c'est du pouvoir : architexte, code, mots, marché | [[4 - sémiotique (résumé)\|Résumé]] |
 
 ## Concepts
 

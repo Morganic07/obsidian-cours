@@ -12,4 +12,4 @@ Une technologie est ainsi une théorie du monde rendue opératoire : elle impose
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Progrès technique]], [[Dispositif (communication)]].
 
-Résumés : [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]]

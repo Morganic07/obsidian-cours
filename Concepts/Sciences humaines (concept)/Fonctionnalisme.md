@@ -11,4 +11,4 @@ Approche qui demande « que fait l'objet ? » : fonction, efficacité, robustess
 
 Voir aussi : [[Conception centrée sur l'humain]].
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

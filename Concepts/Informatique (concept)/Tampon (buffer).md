@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [buffer, buffers, tampon mémoire]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Contrôleur de périphérique]]. Voir aussi : [[Mémoire vive
 
 - Le cours écrit « le buffer se vide dès que la tâche est accomplie » : formulation approximative relevée par le résumé.
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

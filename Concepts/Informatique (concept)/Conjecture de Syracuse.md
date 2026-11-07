@@ -14,4 +14,4 @@ Notion parente : [[Terminaison d'un algorithme]]. Voir aussi : [[Récursivité]]
 
 - Le code de l'exemple est peut-être en image : la règle de la suite n'est pas rendue dans le texte extrait, et elle n'est donc pas donnée ici.
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

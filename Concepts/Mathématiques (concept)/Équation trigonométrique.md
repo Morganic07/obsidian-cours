@@ -18,4 +18,4 @@ Exemple du cours : $\sin x = \cos x \iff x \equiv \pi/4\ [\pi]$.
 
 Notion parente : [[Fonctions trigonométriques]]. Voir aussi : [[Formules trigonométriques]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)]]

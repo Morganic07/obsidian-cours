@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [GUI, graphical user interface]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 3 (résumé)|OS - chp 3]]", "[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[3 - OS (résumé)|OS - chp 3]]", "[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Autrefois les systèmes d'exploitation fonctionnaient en CLI ; aujourd'hui ils o
 
 Notion parente : [[Système d'exploitation]]. Voir aussi : [[Interface en ligne de commande]], [[BIOS et UEFI]], [[Ubuntu]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 3 (résumé)]], [[OS - chp 7 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[3 - OS (résumé)]], [[7 - OS (résumé)]]

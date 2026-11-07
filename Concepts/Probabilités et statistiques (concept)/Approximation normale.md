@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year3]
-aliases: [normal approximation, approximation normale de la binomiale, approximation de la binomiale par la loi normale]
-sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]", "[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]"]
+tags:
+  - year3
+aliases:
+  - normal approximation
+  - approximation normale de la binomiale
+  - approximation de la binomiale par la loi normale
+sources:
+  - "[[7 - Z-Test (résumé)|Cours 7 - Z-Test]]"
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
 maj: 2026-11-06
 ---
 
@@ -16,6 +22,6 @@ Notion parente : [[Théorème central limite]]. Voir aussi : [[Loi binomiale]], 
 
 ## À vérifier
 
-Désaccord entre matières sur le seuil : 10 dans [[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]] (Statistics), 5 dans [[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]] (Data analysis).
+Désaccord entre matières sur le seuil : 10 dans [[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]] (Statistics), 5 dans [[7 - Z-Test (résumé)|Cours 7 - Z-Test]] (Data analysis).
 
-Résumés : [[Séance 7 - Z-Test (résumé)]], [[chp 4 - Part 1 - Inferential statistics (résumé)]], [[chp 4 - Part 3 - Inferential statistics (résumé)]]
+Résumés : [[7 - Z-Test (résumé)]], [[4 - Inferential statistics 1 (résumé)]], [[4 - Inferential statistics 3(résumé)]]

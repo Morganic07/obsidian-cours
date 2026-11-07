@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [cat -n]
-matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"]
+tags:
+  - year2
+aliases:
+  - cat -n
+matieres:
+  - Operating System
+sources:
+  - "[[5 - OS (résumé)|OS - chp 5]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Commande touch]].
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

@@ -1,8 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [four fundamental subspaces, fundamental subspaces, row space, left null space, left nullspace, quatre sous-espaces fondamentaux, Row A]
-sources: ["[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]", "[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+tags:
+  - year2
+aliases:
+  - four fundamental subspaces
+  - fundamental subspaces
+  - row space
+  - left null space
+  - left nullspace
+  - quatre sous-espaces fondamentaux
+  - Row A
+sources:
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
 maj: 2026-11-06
 ---
 
@@ -21,4 +32,4 @@ Ils sont orthogonaux deux à deux dans chaque espace : $(\text{Row } A)^\perp = 
 
 Notion parente : [[Sous-espace vectoriel]]. Liens : [[Espace des colonnes]], [[Espace nul]], [[Rang d'une matrice]], [[Complément orthogonal]], [[Décomposition en valeurs singulières]]
 
-Résumés : [[chp 0d - Vector Space (résumé)]], [[chp 1 - Orthogonality (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[1 - Orthogonality (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]]

@@ -18,4 +18,4 @@ Notion parente : [[Classifieur]]. Voir aussi : [[Machine à vecteurs de support]
 
 - Vérifier si la matière IA en parle aussi (non lue pour cette page).
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

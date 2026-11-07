@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [virtual machine, virtual machines, VMM, virtual machine manager, hyperviseur, VirtualBox, KVM, bare metal, hosted hypervisor, Kernel Virtual Machine]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Le *cloud computing* (stockage, calcul, applications fournis par le réseau ; ex
 
 Notion parente : [[Environnement informatique]]. Voir aussi : [[Système d'exploitation]], [[Distribution Linux]], [[Noyau]].
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 3 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[3 - OS (résumé)]]

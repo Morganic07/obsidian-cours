@@ -14,4 +14,4 @@ Voir aussi : [[Caractérologie des véhicules]], [[Ethos de classe]].
 
 - Lecture partielle de text3, dont la police est mal encodée.
 
-Résumés : [[chp 6 - usages sociaux de l'automobile (résumé)]], [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[6 - usages sociaux de l'automobile (résumé)]], [[2 - imaginaires du futur (résumé)]]

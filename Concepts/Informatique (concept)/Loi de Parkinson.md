@@ -14,4 +14,4 @@ Seulement citée dans AlgoID1 : « Work expands so as to fill the time available
 
 Voir aussi : [[Algorithme]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

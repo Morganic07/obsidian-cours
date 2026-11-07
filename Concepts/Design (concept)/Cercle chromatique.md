@@ -27,8 +27,8 @@ matieres:
   - Peinture
   - Anglais
 sources:
-  - "[[chp 1 - Peinture (résumé)|Cours 1]]"
-  - "[[chp 2 (résumé)|Cours 2]]"
+  - "[[1 - Peinture (résumé)|Cours 1]]"
+  - "[[2 - Peinture (résumé)|Cours 2]]"
   - "[[englis (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
@@ -49,4 +49,4 @@ Voir [[Contraste des couleurs]], [[Teinte et valeur]], [[Fauvisme]].
 
 Le glossaire donne « bleu + vert = vert foncé » comme exemple de tertiaire : sur le cercle d'Itten, c'est le vert bleuté.
 
-Résumés : [[chp 1 - Peinture (résumé)|Cours 1 (résumé)]], [[chp 2 (résumé)|Cours 2 (résumé)]], [[englis (résumé)]]
+Résumés : [[1 - Peinture (résumé)|Cours 1 (résumé)]], [[2 - Peinture (résumé)|Cours 2 (résumé)]], [[englis (résumé)]]

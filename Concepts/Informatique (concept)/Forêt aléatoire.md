@@ -14,4 +14,4 @@ Notion parente : [[Bagging]]. Voir aussi : [[Arbre de décision]].
 
 - Les diapositives 67 à 73 n'ont été lues que par le résumé.
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

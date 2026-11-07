@@ -15,4 +15,4 @@ Effets : les architextes (Word, Facebook, WordPress, PowerPoint) standardisent e
 
 Voir [[Analyse techno-sémiotique]], [[Écrit d'écran]], [[Désenfouissement du code]], [[Assemblages préfabriqués]].
 
-Résumé : [[chp 4 - sémiotique (résumé)|Cours 4 (résumé)]]
+Résumé : [[4 - sémiotique (résumé)|Cours 4 (résumé)]]

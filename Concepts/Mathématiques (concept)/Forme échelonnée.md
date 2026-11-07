@@ -17,9 +17,9 @@ aliases:
   - pivot position
   - position pivot
 sources:
-  - "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
-  - "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
   - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
@@ -31,7 +31,7 @@ Matrice dont les lignes de zéros sont en bas, et où chaque ligne non nulle a p
 - **Pivot de Gauss** : la méthode qui amène un système à cette forme. On choisit une ligne pivot qu'on ne touche plus, on élimine les inconnues une par une par [[Combinaison linéaire|combinaisons linéaires]] pour obtenir un système en cascade, puis on remonte la cascade pour trouver leurs valeurs. Le cours de 1re année ne parle pas de forme échelonnée, seulement de pivot de Gauss ; la méthode et les opérations élémentaires sont demandées à l'évaluation 1 ([[Contrôles (résumé)]]).
 
 > [!warning] Attention
-> La forme échelonnée ne donne en général pas les [[Valeur propre|valeurs propres]]. Une note de [[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] affirme le contraire, mais l'avertissement du même chapitre l'exclut.
+> La forme échelonnée ne donne en général pas les [[Valeur propre|valeurs propres]]. Une note de [[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] affirme le contraire, mais l'avertissement du même chapitre l'exclut.
 
 Notion parente : [[Système linéaire]].
 
@@ -39,6 +39,6 @@ Liens : [[Rang d'une matrice]], [[Matrice inversible]]
 
 ## À vérifier
 
-- Le résumé de [[chp 0a - Linear combination (résumé)]] (point 3) dit qu'« une colonne pivot est linéairement indépendante », formulation imprécise.
+- Le résumé de [[0 - Linear combination (résumé)]] (point 3) dit qu'« une colonne pivot est linéairement indépendante », formulation imprécise.
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[chp 3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]

@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [df -h]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
+tags:
+  - year2
+aliases:
+  - df -h
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +16,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande free]], [[Système de fichiers]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[UNIX Commands - Semester report (résumé)]]

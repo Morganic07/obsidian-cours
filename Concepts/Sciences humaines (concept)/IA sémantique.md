@@ -5,8 +5,8 @@ tags:
 aliases:
   - IA sémantiques
 sources:
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -14,7 +14,7 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]] sans définition : l'IA sémantique y est opposée à l'[[IA générative]] (« IA sémantique VS IA générative »). Les notes SHS se demandent si les IA sémantiques pourraient servir à des projets comme OpenFisca.
+Nommé dans [[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]] sans définition : l'IA sémantique y est opposée à l'[[IA générative]] (« IA sémantique VS IA générative »). Les notes SHS se demandent si les IA sémantiques pourraient servir à des projets comme OpenFisca.
 
 Voir aussi : [[IA générative]], [[Web sémantique]], [[Approche symbolique et connexionniste]].
 
@@ -22,4 +22,4 @@ Voir aussi : [[IA générative]], [[Web sémantique]], [[Approche symbolique et 
 
 - Un rapport avec l'IA symbolique de [[Approche symbolique et connexionniste]] est possible, mais ces cours ne l'établissent pas.
 
-Résumés : [[chp 1 - Culture du vivant (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[1 - Culture du vivant (résumé)]], [[3 - Prise de note (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [équiprobable, equally likely, equally likely outcomes, issues équiprobables]
 matieres: [Probability]
-sources: ["[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
+sources: ["[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Plus généralement, on construit une probabilité sur $S=\{\omega_1,\omega_2,\d
 
 Notion parente : [[Espace probabilisé]]. Voir aussi : [[Dénombrement]], [[Cardinal d'un ensemble]], [[Probabilité conditionnelle]].
 
-Résumés : [[chp 1 - Sample space,events, proba (résumé)]], [[chp 3 - Combinatorics (résumé)]], [[chp 2 - Conditional proba and independence (résumé)]]
+Résumés : [[1 - Sample space,events, proba (résumé)]], [[3 - Combinatorics (résumé)]], [[2 - Conditional proba and independence (résumé)]]

@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year2]
-aliases: [characteristic equation, polynôme caractéristique, characteristic polynomial]
-sources: ["[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"]
+tags:
+  - year2
+aliases:
+  - characteristic equation
+  - polynôme caractéristique
+  - characteristic polynomial
+sources:
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +21,4 @@ Notion parente : [[Valeur propre]]. Voir aussi : [[Déterminant]], [[Multiplicit
 
 L'emploi du terme « polynôme caractéristique » par le cours n'a pas été vérifié.
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]]

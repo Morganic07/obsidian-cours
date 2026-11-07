@@ -4,7 +4,7 @@ tags:
   - year1
 aliases: []
 sources:
-  - "[[chp 2 (résumé)|Cours 2]]"
+  - "[[2 - Peinture (résumé)|Cours 2]]"
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ maj: 2026-11-07
 
 Nommé dans le deuxième cours de peinture, sans définition : les artistes du pop art se sont inspirés des couleurs des marques de consommation.
 
-Résumés : [[chp 2 (résumé)]]
+Résumés : [[2 - Peinture (résumé)]]

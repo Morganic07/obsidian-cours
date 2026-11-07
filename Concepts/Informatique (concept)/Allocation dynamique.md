@@ -10,7 +10,7 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Pointeur et adresse mémoire]]. Voir aussi : [[Pile d'exécut
 - Le cours dit que `free` « vide le contenu de la mémoire » ; en réalité `free` libère le bloc sans l'effacer (complément du résumé).
 - Le programme complet du cours ne compile pas (`bufferinheap` non déclaré).
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

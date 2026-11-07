@@ -11,4 +11,4 @@ Le répertoire `/var` contient les données variables, comme les journaux et les
 
 Notion parente : [[Arborescence des répertoires Linux]].
 
-Résumés : [[OS - chp 4 (résumé)]], [[TP1 (résumé)]]
+Résumés : [[4 - OS (résumé)]], [[TP1 (résumé)]]

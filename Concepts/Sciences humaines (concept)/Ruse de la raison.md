@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Homo faber]].
 
 La note rattache la citation au *Discours de la méthode*, 6e partie, qui est une œuvre de Descartes et non de Hegel : attribution à vérifier.
 
-Résumés : [[chp 5 - philo (résumé)]]
+Résumés : [[5 - philo (résumé)]]

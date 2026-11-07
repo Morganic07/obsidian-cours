@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [table de vérité, tables de vérité, connecteurs logiques]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Exos/Exo_Chapitre1_Logique.pdf|Exo_Chapitre1_Logique.pdf]]", "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Liens : [[Opérations sur les ensembles]] (inclusion, intersection, union et com
 
 Les exercices et le DS insistent sur la négation des propositions quantifiées ($\forall$ devient $\exists$ et inversement) et sur l'ordre des quantificateurs : $\forall x, \exists y$ ne dit pas la même chose que $\exists y, \forall x$.
 
-Résumés : [[chp 1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[chp 2 - ensembles (résumé)]], [[Chapitre2-Ensemble (4) (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[Contrôles (résumé)]]

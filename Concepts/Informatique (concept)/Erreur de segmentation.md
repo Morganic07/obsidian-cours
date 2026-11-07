@@ -8,7 +8,7 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-07
 ---
 
@@ -16,8 +16,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 1 - basiques (résumé)|Chp1 - basiques]] sans définition : le cours cite le *Segmentation fault* comme exemple de plantage brutal à l'exécution, que le [[Typage statique]] aide à éviter.
+Nommé dans [[1 - basiques (résumé)|Chp1 - basiques]] sans définition : le cours cite le *Segmentation fault* comme exemple de plantage brutal à l'exécution, que le [[Typage statique]] aide à éviter.
 
 Voir aussi : [[Typage statique]], [[Pointeur et adresse mémoire]].
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

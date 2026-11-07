@@ -34,4 +34,4 @@ Glossaire d'anglais :
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Service blueprint]], [[Persona]], [[Carte d'expérience]], [[Scénario d'usage]].
 
-Résumés : [[englis (résumé)]], [[chp 2 - UX (résumé)]], [[chp 1 - UX (résumé)]]
+Résumés : [[englis (résumé)]], [[2 - UX (résumé)]], [[1 - UX (résumé)]]

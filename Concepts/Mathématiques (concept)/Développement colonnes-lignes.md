@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [column-row expansion, column–row expansion]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Notion parente : [[Produit matriciel]]. Voir aussi : [[Décomposition spectrale]
 
 L'énoncé exact (« Column–Row Expansion of AB ») est dans une image qui n'a pas été ouverte.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

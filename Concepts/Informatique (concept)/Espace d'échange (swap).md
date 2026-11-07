@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [swap, swap area, swap partition, partition swap, swap space, espace d'échange]
 matieres: [Operating System]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]", "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]", "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Espace du disque que Linux utilise quand la RAM est pleine : une mémoire virtue
 
 Notion parente : [[Partitions Linux]]. Voir aussi : [[Commande free]].
 
-Résumés : [[OS - chp 3 (résumé)]], [[OS - chp 4 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[3 - OS (résumé)]], [[4 - OS (résumé)]], [[TP3-Commands (2) (résumé)]]

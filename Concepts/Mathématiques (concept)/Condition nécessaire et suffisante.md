@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [condition nécessaire, condition suffisante, conditions nécessaires, conditions suffisantes]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemple du cours : être un rectangle est nécessaire pour être un carré. Une 
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Implication logique]], [[Équivalence logique]].
 
-Résumés : [[chp 1 - logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

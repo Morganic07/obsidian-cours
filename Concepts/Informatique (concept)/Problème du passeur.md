@@ -14,4 +14,4 @@ Notion parente : [[Modélisation d'un problème]].
 
 - Les diapositives sont possiblement en image : elles n'ont pas été ouvertes.
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

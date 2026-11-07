@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Ubuntu Desktop, Ubuntu Server]
 matieres: [Operating System]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Système libre fondé sur le noyau Linux, présenté par le cours comme la distr
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Version LTS et version intermédiaire]], [[Image ISO]], [[Netplan]].
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

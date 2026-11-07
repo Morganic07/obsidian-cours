@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [Open Shortest Path First]
 matieres: [Computer Network]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Routage dynamique]]. Voir aussi : [[EIGRP]].
 
 - Le développement du sigle (Open Shortest Path First) n'est pas dans le cours.
 
-Résumés : [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[3 - Dynamic Routing (résumé)]]

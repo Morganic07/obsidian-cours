@@ -14,4 +14,4 @@ Voir aussi : [[Extension du schéma corporel]], [[Concurrence pour l'espace]], [
 
 - text3 est mal encodé : le résumé repose sur l'abstract, des passages décodés et les citations du cours magistral.
 
-Résumés : [[chp 6 - usages sociaux de l'automobile (résumé)]], [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[6 - usages sociaux de l'automobile (résumé)]], [[2 - imaginaires du futur (résumé)]]

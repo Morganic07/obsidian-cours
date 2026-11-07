@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [master boot record]
 matieres: [Operating System]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Master Boot Record, situé sur le disque : il indique au firmware sur quelle par
 
 Notion parente : [[BIOS et UEFI]]. Voir aussi : [[Partition (disque)]].
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

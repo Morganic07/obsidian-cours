@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Une émotion est brève ; si elle dure dans le temps, c'est un sentiment. Nier l
 
 Voir aussi : [[Posture et sentiment]], [[Mécanique du stress]].
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

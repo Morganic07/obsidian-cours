@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -32,4 +32,4 @@ Voir aussi : [[Perfectibilité]], [[Droit et morale]], [[Liberté relative et li
 
 La note mêle au second principe la règle d'or (« traite les gens comme tu veux qu'on te traite »), qui n'est pas la formule de Kant.
 
-Résumé : [[chp 2 - philo (résumé)|liberté et moralité (résumé)]]
+Résumé : [[2 - philo (résumé)|liberté et moralité (résumé)]]

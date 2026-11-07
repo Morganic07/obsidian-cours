@@ -32,4 +32,4 @@ Voir aussi : [[Idéation]], [[Analyse techno-sémiotique]], [[Design fiction]].
 
 « planche de tendances » n'est pas dans le glossaire d'anglais : nom français proposé.
 
-Résumés : [[englis (résumé)]], [[chp 1 - sémiotique (résumé)]], [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[englis (résumé)]], [[1 - sémiotique (résumé)]], [[2 - imaginaires du futur (résumé)]]

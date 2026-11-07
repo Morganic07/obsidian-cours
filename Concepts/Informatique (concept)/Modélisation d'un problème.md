@@ -10,4 +10,4 @@ Formaliser les objets et les opérations d'un problème réel avant de chercher 
 
 Notion parente : [[Algorithme]]. Voir aussi : [[Problème du passeur]], [[Problème du voyageur de commerce]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

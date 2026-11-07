@@ -1,8 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [diagonalizable, diagonalization, orthogonally diagonalizable, diagonalisable, étapes pour diagonaliser]
-sources: ["[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]", "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+tags:
+  - year2
+aliases:
+  - diagonalizable
+  - diagonalization
+  - orthogonally diagonalizable
+  - diagonalisable
+  - étapes pour diagonaliser
+sources:
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +25,4 @@ Méthode en six étapes : trouver les valeurs propres, puis les vecteurs propres
 
 Notion parente : [[Valeur propre]]. Voir aussi : [[Vecteur propre]], [[Espace propre]], [[Matrice diagonale]], [[Multiplicité d'une valeur propre]], [[Théorème spectral]], [[Matrice symétrique]], [[Décomposition en valeurs singulières]]
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]]

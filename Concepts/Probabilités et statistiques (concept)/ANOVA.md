@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [analysis of variance, analyse de la variance, one-way ANOVA, two-way ANOVA, ANOVA à un facteur, ANOVA à deux facteurs, tableau d'ANOVA, ANOVA table]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]", "[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]", "[[11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Voir aussi : [[Carré moyen]], [[Somme des carrés (SST, SSR, SSE)]], [[Test t]]
 
 Dernière diapositive coupée (« in ANOVA no assumption is made about the manner in which Price and Sales Volume are related »).
 
-Résumés : [[Séance 12 - ANOVA and F-statistic (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[12 - ANOVA and F-statistic (résumé)]], [[11 - Multiple Linear Regression and F-statistic (résumé)]]

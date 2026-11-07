@@ -15,4 +15,4 @@ Notion parente : [[Récursivité]]. Voir aussi : [[Division euclidienne]].
 
 - Le cours écrit seulement « PGCD » ; le nom « Euclide » vient du résumé.
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

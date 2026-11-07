@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [bad sector, bad sectors]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Disque dur]]. Voir aussi : [[Partition (disque)]].
 
 - Le cours assimile une partition abîmée à un bad sector ; un secteur défectueux est une zone physique abîmée du disque, pas une partition (signalé par le résumé).
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

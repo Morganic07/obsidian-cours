@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [disjonction des cas, preuve par disjonction des cas, disjonction de cas]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]", "[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Le TD Ensembles l'emploie (exercice 2.3), et le DS1 dans une hérédité à deux
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Récurrence]].
 
-Résumés : [[chp 1 - logique (résumé)]], [[TDEnsembles (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[TDEnsembles (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]

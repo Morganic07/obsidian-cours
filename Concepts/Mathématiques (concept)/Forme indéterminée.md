@@ -14,4 +14,4 @@ Notion parente : [[Convergence d'une suite]]. Voir aussi : [[Quantité conjugué
 
 - La liste exacte des formes indéterminées du polycopié (scanné) n'a pas été vérifiée sur l'image.
 
-Résumés : [[AnalyseID1 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]

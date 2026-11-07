@@ -21,10 +21,10 @@ matieres:
   - Algo
   - Algo Maths
 sources:
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
   - "[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[Séance 1 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
 maj: 2026-11-06
 ---
 
@@ -46,4 +46,4 @@ Le polycopié de 1re année distingue la récursivité terminale, où l'appel r�
 
 Liens : [[Calcul de complexité et théorème de résolution]], [[Pile et file]], [[Pile d'exécution]], [[Recherche dichotomique]], [[Tours de Hanoï]], [[Récurrence]], [[Récursivité terminale]], [[Terminaison d'un algorithme]], [[Factorielle]], [[Arbre binaire]]
 
-Résumés : [[chp 1 - récursivité et complexité (résumé)]], [[AlgoID1 (résumé)]], [[chp 4 - Arbres binaires (résumé)]], [[Séance 1 - Algo Maths (résumé)|Cours 1 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[0 - diapo prof (résumé)]], [[4 - Arbres binaires (résumé)]], [[0 - Algo Maths (résumé)|Cours 1 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]

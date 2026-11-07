@@ -12,4 +12,4 @@ Les big data sont une accumulation d'écritures, dont la captation fait la valeu
 
 Notion parente : [[Écrit d'écran]]. Voir aussi : [[Architexte]], [[Économie des données]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

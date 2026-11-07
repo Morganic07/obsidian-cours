@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [QR factorization, QR decomposition, The QR Factorization]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ La figure du cours donne les coefficients de $R$ pour trois colonnes : ligne $i$
 
 Notion parente : [[Procédé de Gram-Schmidt]]. Voir aussi : [[Matrice triangulaire]], [[Orthogonalité]], [[Famille orthogonale]], [[Espace des colonnes]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumé : [[1 - Orthogonality (résumé)]]

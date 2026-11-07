@@ -10,10 +10,10 @@ aliases:
   - valeurs propres
   - éléments propres
 sources:
-  - "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
-  - "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
-  - "[[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"
+  - "[[13 - PCA in R (résumé)|Cours 13 - PCA in R]]"
 maj: 2026-11-06
 ---
 
@@ -26,18 +26,18 @@ Scalaire $\lambda$ tel que $A\mathbf{x} = \lambda\mathbf{x}$ a une solution non 
 
 **En 1re année (endomorphismes)** : pour $f \in L(E)$ ([[Morphisme]]), $\lambda$ est valeur propre s'il existe $v$ non nul avec $f(v) = \lambda v$. Une valeur propre peut être nulle si $\mathrm{Ker} f \neq \{0\}$. $\lambda \in \mathrm{Sp}(f)$ ([[Spectre (algèbre linéaire)|spectre]]) $\iff E_\lambda \neq \{0\} \iff f - \lambda \mathrm{Id}$ non injective. Pour une matrice : $\lambda$ valeur propre de $A \iff \mathrm{Ker}(A - \lambda \mathrm{Id}) \neq \{0\}$ ([[Espace nul]]) $\iff \det(A - \lambda \mathrm{Id}) = 0$.
 
-**En Data analysis (Thanos), ACP** : une valeur propre indique la variance dans la direction de son vecteur propre ; la somme des carrés des distances projetées sur PC1 est la valeur propre de PC1, et sa racine est la valeur singulière ([[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]). En R : `eigen(m)` ([[Séance 13 - PCA in R (résumé)|Cours 13 - PCA in R]]). Voir [[Analyse en composantes principales]] et [[Matrice de covariance]].
+**En Data analysis (Thanos), ACP** : une valeur propre indique la variance dans la direction de son vecteur propre ; la somme des carrés des distances projetées sur PC1 est la valeur propre de PC1, et sa racine est la valeur singulière ([[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]). En R : `eigen(m)` ([[13 - PCA in R (résumé)|Cours 13 - PCA in R]]). Voir [[Analyse en composantes principales]] et [[Matrice de covariance]].
 
 > [!warning] Écart dans le cours
-> La réduction par lignes ne donne pas les valeurs propres : une forme échelonnée ne les montre généralement pas. Une note de [[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] dit le contraire, mais l'avertissement du même chapitre l'exclut.
+> La réduction par lignes ne donne pas les valeurs propres : une forme échelonnée ne les montre généralement pas. Une note de [[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]] dit le contraire, mais l'avertissement du même chapitre l'exclut.
 
 Notion parente : [[Morphisme]]. Voir aussi : [[Vecteur propre]], [[Espace propre]], [[Spectre (algèbre linéaire)]], [[Équation caractéristique]], [[Matrice triangulaire]], [[Diagonalisation]], [[Déterminant]], [[Espace nul]], [[Matrice inversible]], [[Forme quadratique]], [[Analyse en composantes principales]], [[Matrice de covariance]]
 
 ## À vérifier
 
-- [[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]] écrit « Ǝ un vecteur nul X tq A·X = λ·X » : il faut « non nul ».
+- [[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]] écrit « Ǝ un vecteur nul X tq A·X = λ·X » : il faut « non nul ».
 - Même chapitre, coquilles : « non-injonctive », et « une valeur propre peut si Ker f ≠ {0} » (il manque « être nulle »).
-- Dans [[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]], une note personnelle dit que la forme échelonnée permet de « repérer direct les eigenvalues », ce que contredit l'avertissement du cours.
+- Dans [[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]], une note personnelle dit que la forme échelonnée permet de « repérer direct les eigenvalues », ce que contredit l'avertissement du cours.
 - Le cours d'ACP nomme « eigenvalue » deux grandeurs aux normalisations différentes.
 
-Résumés : [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]], [[Séance 13 - PCA in R (résumé)]]
+Résumés : [[0 - Eigenvalues and eigenvectors (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]], [[13 - Principal Components Analysis (résumé)]], [[13 - PCA in R (résumé)]]

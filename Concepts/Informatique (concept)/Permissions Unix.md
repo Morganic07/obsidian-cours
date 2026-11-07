@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year2]
-aliases: [permissions Unix, permissions d'un fichier, file permissions, droits d'accès, chmod -R, octal permissions, valeurs octales]
-matieres: [Operating System]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]", "[[séance TP1 (résumé)|cours TP1]]"]
+tags:
+  - year2
+aliases:
+  - permissions Unix
+  - permissions d'un fichier
+  - file permissions
+  - droits d'accès
+  - chmod -R
+  - octal permissions
+  - valeurs octales
+matieres:
+  - Operating System
+sources:
+  - "[[5 - OS (résumé)|OS - chp 5]]"
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +34,4 @@ Liens : [[Shell et Bash]], [[Script Bash]]
 
 - `chmod -R 444` sur un dossier retire aussi le droit `x` des sous-dossiers, ce qui empêche ensuite de les traverser (relevé du résumé).
 
-Résumés : [[OS - chp 5 (résumé)]], [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[TP1 (résumé)|TP1 (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)|TP1 (résumé)]]

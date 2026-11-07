@@ -8,7 +8,7 @@ aliases:
   - énergie de l'inférence
   - consommation d'énergie pour l'inférence
 sources:
-  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
+  - "[[1 - IA (résumé)|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 
@@ -32,4 +32,4 @@ Voir aussi : [[Entraînement et inférence]], [[Petit réacteur modulaire]], [[T
 
 Estimations sans source : aucun éditeur ne publie ces chiffres pour GPT-4, GPT-5 ou Claude 3.5. Les chiffres datent de 2025.
 
-Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[1 - IA (résumé)|Cours 1 (IA, résumé)]]

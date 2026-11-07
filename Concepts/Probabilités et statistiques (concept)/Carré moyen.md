@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [mean square, mean squares, carrés moyens, MS between, MS within, MSB, MSW]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]"]
+sources: ["[[12 - ANOVA and F-statistic (résumé)|Cours 12 - ANOVA and F-statistic]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ La [[Statistique F]] est le rapport des deux. Le cours note aussi MSE le carré 
 
 Notion parente : [[ANOVA]]. Voir aussi : [[Somme des carrés (SST, SSR, SSE)]].
 
-Résumés : [[Séance 12 - ANOVA and F-statistic (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[12 - ANOVA and F-statistic (résumé)]], [[11 - Multiple Linear Regression and F-statistic (résumé)]]

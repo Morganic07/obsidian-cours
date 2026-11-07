@@ -4,7 +4,7 @@ tags:
   - year4
 aliases: []
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Notion parente : [[Langage C]]. Voir aussi : [[Structure conditionnelle]], [[Bou
 - Le cours écrit que « le if ne s'exécute pas » : formulation ambiguë, mais le résultat « AB » est juste (relevé du résumé).
 - Le nom « instruction vide » vient du résumé ; le cours dit que la condition « est vide ».
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year4]
 aliases: [chemin élémentaire, sous-chemin, longueur d'un chemin, chemin simple, elementary path, simple path]
 matieres: [Algo, graph theory]
-sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
+sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 
@@ -15,6 +15,6 @@ Notion parente : [[Graphe orienté]]. Voir aussi : [[Circuit (graphe)]], [[Cycle
 
 ## À vérifier
 
-[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]] ne précise pas le sens de l'arc (il faut $v_i \to v_{i+1}$).
+[[4 - oriented graphs (résumé)|chp4 - oriented graphs]] ne précise pas le sens de l'arc (il faut $v_i \to v_{i+1}$).
 
-Résumés : [[chp 3 - Arbres (résumé)]], [[chp 4 - oriented graphs (résumé)]]
+Résumés : [[3 - Arbres (résumé)]], [[4 - oriented graphs (résumé)]]

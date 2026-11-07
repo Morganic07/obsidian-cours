@@ -11,4 +11,4 @@ Une arborescence, ou arbre enraciné, est un arbre dont un sommet, la racine, se
 
 Notion parente : [[Arbre (théorie des graphes)]].
 
-Résumés : [[chp 3 - Arbres (résumé)]]
+Résumés : [[3 - Arbres (résumé)]]

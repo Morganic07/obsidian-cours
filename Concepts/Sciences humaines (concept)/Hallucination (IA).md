@@ -15,4 +15,4 @@ Notion parente : [[IA générative]]. Voir aussi : [[Système expert]].
 
 - Le cours ne définit pas le terme.
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

@@ -15,4 +15,4 @@ Idée du cours : « le numérique, c'est de l'écriture ». Tout dispositif à �
 
 Voir [[Architexte]], [[Analyse techno-sémiotique]], [[Quatre cadres de l'écrit d'écran]], [[Numérique comme écriture]].
 
-Résumé : [[chp 2 - sémiotique (résumé)|Cours 2 (PPTX) (résumé)]]
+Résumé : [[2 - sémiotique (résumé)|Cours 2 (PPTX) (résumé)]]

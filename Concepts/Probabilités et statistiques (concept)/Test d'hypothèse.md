@@ -2,11 +2,11 @@
 type: concept
 tags: [year3]
 aliases: [hypothesis test, hypothesis testing, tests d'hypothèse, test d'hypothèses, hypothèse nulle, hypothèse alternative, null hypothesis, alternative hypothesis]
-sources: ["[[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]", "[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
+sources: ["[[5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]", "[[7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-06
 ---
 
-Démarche pour décider sur une population à partir d'un échantillon, quand une affirmation porte sur un paramètre ; sinon, on construit un [[Intervalle de confiance]] ([[Séance 5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]).
+Démarche pour décider sur une population à partir d'un échantillon, quand une affirmation porte sur un paramètre ; sinon, on construit un [[Intervalle de confiance]] ([[5 - Hypothesis Testing (résumé)|Cours 5 - Hypothesis Testing]]).
 
 **Hypothèses** : $H_0$ contient la valeur testée. $H_1$ n'est « acceptée » que si l'on prouve que $H_0$ est fausse ; on n'accepte jamais $H_0$. Une entreprise qui veut prouver son affirmation la place dans $H_1$ ; un contrôleur qui la conteste la place dans $H_0$.
 
@@ -19,7 +19,7 @@ Démarche pour décider sur une population à partir d'un échantillon, quand un
 5. calculer la statistique ;
 6. décider.
 
-**Limites** : un test aide la décision sans la prendre, et il n'explique pas les différences observées ([[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]).
+**Limites** : un test aide la décision sans la prendre, et il n'explique pas les différences observées ([[7 - Z-Test (résumé)|Cours 7 - Z-Test]]).
 
 Notion parente : [[Statistique inférentielle]]. Voir aussi : [[Erreur de type I et de type II]], [[Seuil de signification]], [[P-value]], [[Valeur critique]], [[Test unilatéral et bilatéral]], [[Statistique de test]], [[Test t]], [[Test Z]], [[Test du χ²]], [[ANOVA]].
 
@@ -27,4 +27,4 @@ Notion parente : [[Statistique inférentielle]]. Voir aussi : [[Erreur de type I
 
 - Signes perdus dans Cours 5 : « H1 : μ = 12,7 » pour μ ≠ 12,7, et « μ = # ou μ ≠ # » pour μ > # ou μ < #.
 
-Résumés : [[Séance 5 - Hypothesis Testing (résumé)]], [[Séance 6 - T-Test (résumé)]], [[Séance 7 - Z-Test (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[5 - Hypothesis Testing (résumé)]], [[6 - T-Test (résumé)]], [[7 - Z-Test (résumé)]], [[0 - proba&stats utilitaire (résumé)]]

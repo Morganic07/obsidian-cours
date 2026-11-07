@@ -6,7 +6,7 @@ aliases:
   - effondrement de la biodiversité
   - espèces menacées
 sources:
-  - "[[chp 2 - Culture du vivant (résumé)|Culture du vivant]]"
+  - "[[2 - Culture du vivant (résumé)|Culture du vivant]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
 maj: 2026-11-06
 ---
@@ -27,4 +27,4 @@ Notion parente : [[Limites planétaires]]. Voir aussi : [[Sixième extinction]].
 
 Transcriptions à vérifier : « + 50 % » (image 4), chiffres des mammifères et oiseaux (image 5).
 
-Résumés : [[chp 2 - Culture du vivant (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[2 - Culture du vivant (résumé)]], [[4 - Culture du vivant (résumé)]]

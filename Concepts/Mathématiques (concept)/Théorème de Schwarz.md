@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 
@@ -12,6 +12,6 @@ Notion parente : [[Dérivée partielle]]. Voir aussi : [[Fonction de classe Ck]]
 
 ## À vérifier
 
-La formule de la limite donnant la dérivée croisée est erronée dans l'image du cours ([[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]], point 1).
+La formule de la limite donnant la dérivée croisée est erronée dans l'image du cours ([[5 - Calcul différentiel d'ordre supérieur (résumé)]], point 1).
 
-Résumés : [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]]
+Résumés : [[5 - Calcul différentiel d'ordre supérieur (résumé)]]

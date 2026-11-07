@@ -14,4 +14,4 @@ Nommées dans le panorama des méthodes UX du cours d'Affordance, sans définiti
 
 Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Test utilisateur]].
 
-Résumés : [[chp 2 - UX (résumé)]], [[chp 1 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]], [[1 - UX (résumé)]]

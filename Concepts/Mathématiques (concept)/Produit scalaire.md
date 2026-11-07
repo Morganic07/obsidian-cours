@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [dot product, inner product, produits scalaires]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Propriétés dans $\mathbb{R}^n$ : symétrie, linéarité par rapport à chaque 
 
 C'est l'exemple type de forme bilinéaire. Notion parente : [[Forme bilinéaire]]. Liens : [[Orthogonalité]], [[Norme]]
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[1 - Orthogonality (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]]

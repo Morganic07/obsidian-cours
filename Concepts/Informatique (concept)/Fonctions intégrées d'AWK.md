@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year2]
-aliases: [tolower, tolower(), gsub, gsub()]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[Séance TP5 (résumé)|Cours TP5]]"]
+tags:
+  - year2
+aliases:
+  - tolower
+  - tolower()
+  - gsub
+  - gsub()
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
+  - "[[5 - TP5 (résumé)|Cours TP5]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +24,4 @@ Notion parente : [[AWK]]. Voir aussi : [[Expression régulière]].
 
 - Le sujet ne dit pas explicitement que `gsub` renvoie le nombre de remplacements ; il ne l'utilise que pour compter.
 
-Résumés : [[TP5-AWK Command (résumé)]], [[Séance TP5 (résumé)]]
+Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]]

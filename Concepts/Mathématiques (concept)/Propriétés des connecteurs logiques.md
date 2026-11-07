@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [idempotence, involution]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Le cours de logique les donne en tableau :
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Équivalence logique]], [[Priorité des connecteurs logiques]].
 
-Résumés : [[chp 1 - logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

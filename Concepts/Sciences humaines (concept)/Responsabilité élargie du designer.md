@@ -21,4 +21,4 @@ Voir aussi : [[Limites planétaires]], [[Anthropocène]].
 
 - Les liens vers [[Limites planétaires]] et [[Anthropocène]] viennent du résumé, pas du diaporama.
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

@@ -1,9 +1,16 @@
 ---
 type: concept
-tags: [year2]
-aliases: [TSV, Tab-Separated Values, .tsv]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]", "[[Séance TP5 (résumé)|Cours TP5]]"]
+tags:
+  - year2
+aliases:
+  - TSV
+  - Tab-Separated Values
+  - .tsv
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
+  - "[[5 - TP5 (résumé)|Cours TP5]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +23,4 @@ Notion parente : [[Séparateur de champs]]. Voir aussi : [[Fichier CSV]].
 - L'exemple .tsv du sujet lit `file.csv` au lieu de `file.tsv`.
 - Sortie de `$4>150` dans le rendu : « 2 Ford Focus 160 » au lieu de 6 (image non rouverte).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[Séance TP5 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]], [[TP5 (résumé)]]

@@ -10,4 +10,4 @@ Fichiers du répertoire `/lib` utilisés par plusieurs programmes. Partagés au 
 
 Notion parente : [[Arborescence des répertoires Linux]].
 
-Résumés : [[OS - chp 4 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

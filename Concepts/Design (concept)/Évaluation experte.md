@@ -18,4 +18,4 @@ Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Test utilisateur]].
 
 « évaluation heuristique » n'est pas dans le cours.
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

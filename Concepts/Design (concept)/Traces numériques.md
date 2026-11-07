@@ -12,4 +12,4 @@ Selon le cours de Sémiotique, ce pouvoir est infrastructurel : « participer, c
 
 Notion parente : [[Économie des données]]. Voir aussi : [[Hypomnémata]], [[Impératif de productivité]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]], [[chp 3 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]], [[3 - sémiotique (résumé)]]

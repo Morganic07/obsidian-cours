@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [k-NN, kNN, k-nearest neighbours]
 matieres: [data mining]
-sources: ["[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Classifieur]]. Voir aussi : [[Distance]].
 
 - Les comptes de la figure viennent du résumé (image non ouverte).
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

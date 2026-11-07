@@ -6,8 +6,8 @@ aliases:
   - rupture moderne
   - du monde clos à l'univers infini
 sources:
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Avec la Renaissance et la révolution scientifique, la nature n'est plus expliqu
 
 Voir aussi : [[Monde sublunaire et supralunaire]], [[Héliocentrisme]], [[Animal-machine]], [[Espace qualitatif et espace quantitatif]].
 
-Résumés : [[chp 4 - philo (résumé)]], [[chp 5 - philo (résumé)]]
+Résumés : [[4 - philo (résumé)]], [[5 - philo (résumé)]]

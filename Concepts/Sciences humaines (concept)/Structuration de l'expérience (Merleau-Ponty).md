@@ -14,4 +14,4 @@ Elle complète la lecture de Heidegger ([[Ouverture d'un monde (Heidegger)]]). V
 
 - Le nom de la page est une proposition, tirée du titre du diaporama (« Merleau-Ponty · structurer l'expérience »).
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

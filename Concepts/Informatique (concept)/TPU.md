@@ -7,11 +7,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Séance 1 - IA (résumé)|Cours 1]]"
+  - "[[1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Nommé dans [[Séance 1 - IA (résumé)|Cours 1 (IA)]] sans définition : le cours affirme que les IA reposent sur des TPU, et non sur des CPU ou des GPU.
+Nommé dans [[1 - IA (résumé)|Cours 1 (IA)]] sans définition : le cours affirme que les IA reposent sur des TPU, et non sur des CPU ou des GPU.
 
 Voir aussi : [[Consommation énergétique de l'IA]].
 
@@ -19,4 +19,4 @@ Voir aussi : [[Consommation énergétique de l'IA]].
 
 - Affirmation fausse en général : les modèles tournent sur des GPU, des TPU et d'autres accélérateurs, le TPU étant le matériel de Google (à corriger avant un examen).
 
-Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[1 - IA (résumé)|Cours 1 (IA, résumé)]]

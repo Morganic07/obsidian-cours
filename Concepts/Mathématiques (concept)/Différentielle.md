@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [différentiable, différentiables, différentiabilité, application différentiable, différentiabilité sur R2]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -18,8 +18,8 @@ C'est le développement limité à l'ordre 1. $l$ est unique : c'est la différe
 - Dans $\mathbb{R}^2$ (théorème 2), $f$ est différentiable en $(x, y)$ si et seulement si $\frac{1}{\|h\|}\left(f(x + h_1, y + h_2) - f(x, y) - h_1\frac{\partial f}{\partial x} - h_2\frac{\partial f}{\partial y}\right)$ tend vers 0, quelle que soit la norme choisie.
 
 > [!warning] Écart dans le cours
-> [[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]] dit qu'une fonction seulement différentiable a des dérivées « définies mais pas continues ». Il faut lire « pas forcément continues » (complément).
+> [[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]] dit qu'une fonction seulement différentiable a des dérivées « définies mais pas continues ». Il faut lire « pas forcément continues » (complément).
 
 Liens : [[Dérivée partielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]], [[Limite et continuité]], [[Développement limité]], [[Dérivabilité]]
 
-Résumé : [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumé : [[4 - Calcul différentiel du premier ordre (résumé)]]

@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Notion de Nietzsche : principe d'individuation propre aux êtres vivants, qui re
 
 Notion parente : [[Organisme et machine]].
 
-Résumés : [[chp 7 - philo (résumé)]]
+Résumés : [[7 - philo (résumé)]]

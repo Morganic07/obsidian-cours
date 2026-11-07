@@ -3,13 +3,13 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
-  - "[[chp 3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
-  - "[[chp 4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
-  - "[[chp 6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
+  - "[[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]]"
+  - "[[4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -19,13 +19,13 @@ Algèbre linéaire de 1re année, en français et centrée sur les applications 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)\|chp1]] | Espaces vectoriels, familles, bases | [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)\|chp2]] | Applications linéaires, morphismes, rang | [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[chp 3 - Algèbre linéaire (résumé)\|chp3]] | Pivot de Gauss, systèmes | [[chp 3 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[chp 4 - Algèbre linéaire (résumé)\|chp4]] | Matrices, matrice d'une application | [[chp 4 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[chp 5 - Algèbre linéaire (résumé)\|chp5]] | Changement de base, déterminant | [[chp 5 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[chp 6 - Algèbre linéaire (résumé)\|chp6]] | Déterminant, caractérisation des bases | [[chp 6 - Algèbre linéaire (résumé)\|Résumé]] |
-| [[chp 7 - Algèbre linéaire (résumé)\|chp7]] | Éléments propres, somme directe | [[chp 7 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)\|chp1]] | Espaces vectoriels, familles, bases | [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)\|chp2]] | Applications linéaires, morphismes, rang | [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[3 - Algèbre linéaire (résumé)\|chp3]] | Pivot de Gauss, systèmes | [[3 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[4 - Algèbre linéaire (résumé)\|chp4]] | Matrices, matrice d'une application | [[4 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[5 - Algèbre linéaire (résumé)\|chp5]] | Changement de base, déterminant | [[5 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[6 - Algèbre linéaire (résumé)\|chp6]] | Déterminant, caractérisation des bases | [[6 - Algèbre linéaire (résumé)\|Résumé]] |
+| [[7 - Algèbre linéaire (résumé)\|chp7]] | Éléments propres, somme directe | [[7 - Algèbre linéaire (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -57,9 +57,9 @@ Attention aux tailles : ce cours note une matrice $n \times p$, avec $n$ lignes,
 
 ## À revoir en priorité avant un examen
 
-- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]] : « dim E = dim F ⇒ f bijective » est faux tel quel, et l'ordre de $(f \circ g)^{-1}$ est inversé.
-- [[chp 7 - Algèbre linéaire (résumé)|chp7]] : la définition parle d'un vecteur « nul », il faut lire « non nul ».
+- [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]] : « dim E = dim F ⇒ f bijective » est faux tel quel, et l'ordre de $(f \circ g)^{-1}$ est inversé.
+- [[7 - Algèbre linéaire (résumé)|chp7]] : la définition parle d'un vecteur « nul », il faut lire « non nul ».
 
 ## Contenu manquant
 
-Des formules semblent absentes de [[chp 4 - Algèbre linéaire (résumé)|chp4]], [[chp 5 - Algèbre linéaire (résumé)|chp5]] et [[chp 6 - Algèbre linéaire (résumé)|chp6]] : l'export de Google est vide à ces endroits. Il faut vérifier dans les Google Docs.
+Des formules semblent absentes de [[4 - Algèbre linéaire (résumé)|chp4]], [[5 - Algèbre linéaire (résumé)|chp5]] et [[6 - Algèbre linéaire (résumé)|chp6]] : l'export de Google est vide à ces endroits. Il faut vérifier dans les Google Docs.

@@ -6,7 +6,7 @@ aliases: []
 matieres:
   - Peinture
 sources:
-  - "[[chp 3 (résumé)|Cours 3]]"
+  - "[[3 - Peinture (résumé)|Cours 3]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Liant et diluant]]. Voir aussi : [[Pigment]].
 
 - Le cours doute lui-même du diluant (point d'interrogation).
 
-Résumés : [[chp 3 (résumé)]]
+Résumés : [[3 - Peinture (résumé)]]

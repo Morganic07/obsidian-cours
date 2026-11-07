@@ -1,9 +1,17 @@
 ---
 type: concept
-tags: [year4]
-aliases: [arbre couvrant, arbres couvrants, minimum spanning tree, spanning tree]
-matieres: [graph theory]
-sources: ["[[chp 2 - tree (résumé)|Chp2 - tree]]", "[[Graph - Python (résumé)|Graph - Python]]"]
+tags:
+  - year4
+aliases:
+  - arbre couvrant
+  - arbres couvrants
+  - minimum spanning tree
+  - spanning tree
+matieres:
+  - graph theory
+sources:
+  - "[[2 - tree (résumé)|Chp2 - tree]]"
+  - "[[0 - Graph - Python (résumé)|Graph - Python]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +23,4 @@ Exemple du cours : sept villes, arbre de 6 arêtes ; avec Kruskal on retrouve le
 
 Notion parente : [[Arbre (théorie des graphes)]]. Liens : [[Graphe non orienté]], [[Complexité algorithmique]], [[Pont (graphe)]]
 
-Résumés : [[chp 2 - tree (résumé)]], [[Graph - Python (résumé)]]
+Résumés : [[2 - tree (résumé)]], [[0 - Graph - Python (résumé)]]

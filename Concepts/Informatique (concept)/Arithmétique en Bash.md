@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year2]
-aliases: [arithmetic expansion, expression arithmétique Bash]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+tags:
+  - year2
+aliases:
+  - arithmetic expansion
+  - expression arithmétique Bash
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +17,4 @@ Le DM note qu'on ne peut pas utiliser `sqrt` dans le test : pour chercher les di
 
 Notion parente : [[Script Bash]]. Voir aussi : [[Opérateur de comparaison]], [[Nombre premier]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]]

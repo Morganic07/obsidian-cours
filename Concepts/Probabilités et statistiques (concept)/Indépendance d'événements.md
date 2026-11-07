@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [independent events, événements indépendants]
 matieres: [Probability]
-sources: ["[[chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
+sources: ["[[2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Dans ce cas, $(A^c,B)$, $(A,B^c)$ et $(A^c,B^c)$ sont aussi indépendants ; le c
 
 Notion parente : [[Probabilité conditionnelle]]. Voir aussi : [[Loi conjointe]], [[Indépendance de variables aléatoires]].
 
-Résumés : [[chp 2 - Conditional proba and independence (résumé)]]
+Résumés : [[2 - Conditional proba and independence (résumé)]]

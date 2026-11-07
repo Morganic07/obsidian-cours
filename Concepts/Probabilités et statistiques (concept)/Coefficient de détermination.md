@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [coefficient of determination, R², R carré, R-squared]
 matieres: [Data analysis (Thanos)]
-sources: ["[[Séance 9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[Séance 11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
+sources: ["[[9 - Covariance and Correlation (résumé)|Cours 9 - Covariance and Correlation]]", "[[11 - Multiple Linear Regression and F-statistic (résumé)|Cours 11 - Multiple Linear Regression and F-statistic]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Régression linéaire]]. Voir aussi : [[Covariance et corrél
 
 $R^2 = r^2$ ne vaut que pour la régression simple (complément du résumé).
 
-Résumés : [[Séance 9 - Covariance and Correlation (résumé)]], [[Séance 11 - Multiple Linear Regression and F-statistic (résumé)]]
+Résumés : [[9 - Covariance and Correlation (résumé)]], [[11 - Multiple Linear Regression and F-statistic (résumé)]]

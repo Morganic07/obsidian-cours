@@ -12,4 +12,4 @@ Lecture des propriétés : réflexive, diagonale pleine et boucle à chaque somm
 
 Notion parente : [[Relation binaire]]. Voir aussi : [[Relation réflexive]], [[Relation symétrique]], [[Relation transitive]], [[Graphe orienté]].
 
-Résumés : [[Chapitre3-Relation binaire (résumé)]]
+Résumés : [[3 - pdf (résumé)]]

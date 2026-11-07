@@ -15,9 +15,9 @@ matieres:
   - Algo
   - C++
 sources:
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -31,4 +31,4 @@ Notion parente : [[Pile et file]]. Voir aussi : [[Récursivité]], [[Passage par
 
 Dans le schéma du second `echange`, `temp` a la même adresse que `var1` (0xabdafa0) : l'une des deux est fausse (relevé du résumé).
 
-Résumés : [[chp 1 - récursivité et complexité (résumé)]], [[chp 1 - basiques (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[1 - basiques (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

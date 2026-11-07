@@ -20,4 +20,4 @@ Termes de base sur les arbres, d'après les chapitres 3 et 4 :
 
 Notion parente : [[Arbre (théorie des graphes)]]. Voir aussi : [[Hauteur d'un arbre]], [[Arbre binaire]].
 
-Résumés : [[chp 3 - Arbres (résumé)]], [[chp 4 - Arbres binaires (résumé)]]
+Résumés : [[3 - Arbres (résumé)]], [[4 - Arbres binaires (résumé)]]

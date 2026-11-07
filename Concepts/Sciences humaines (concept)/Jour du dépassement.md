@@ -19,4 +19,4 @@ Voir aussi : [[Biocapacité]], [[Empreinte écologique]].
 - La date du 1er juillet 2025 pour la France vient de la diapositive, sans source plus précise.
 - « Earth Overshoot Day » n'est pas dans le cours.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

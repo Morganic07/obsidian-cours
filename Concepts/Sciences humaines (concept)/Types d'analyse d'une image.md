@@ -21,4 +21,4 @@ Le cours distingue huit types d'analyse d'une image : anthropologique, de discou
 
 Notion parente : [[Sites et modalités d'analyse d'une image]]. Voir aussi : [[Sémiotique]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

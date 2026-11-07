@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Peinture
 sources:
-  - "[[chp 3 (résumé)|Cours 3]]"
+  - "[[3 - Peinture (résumé)|Cours 3]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Voir aussi : [[Pigment]], [[Peinture acrylique]].
 
 - Diluant de l'encaustique noté « Eau ? » dans le cours.
 
-Résumés : [[chp 3 (résumé)]]
+Résumés : [[3 - Peinture (résumé)]]

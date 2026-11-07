@@ -16,7 +16,7 @@ Management de l'innovation en 4e année. Les deux notes sont des devoirs rendus,
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| CY école de design 4e - Management de l'innovation - 2026 09 30 (séance 3 sur 4, pages 28 à 47) | Value(s) Design, cas de l'embouteillage d'eau | [[chp 1 - innovation (résumé)\|Résumé]] |
+| CY école de design 4e - Management de l'innovation - 2026 09 30 (séance 3 sur 4, pages 28 à 47) | Value(s) Design, cas de l'embouteillage d'eau | [[1 - innovation (résumé)\|Résumé]] |
 
 ## Concepts
 

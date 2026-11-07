@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [forme multilinéaire, multilinéaire]
 matieres: [Algèbre Linéaire]
-sources: ["[[chp 6 - Algèbre linéaire (résumé)|chp6]]"]
+sources: ["[[6 - Algèbre linéaire (résumé)|chp6]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Déterminant]]. Voir aussi : [[Forme bilinéaire]].
 
 - Coquille du cours : « altérée » pour « alternée ».
 
-Résumés : [[chp 6 - Algèbre linéaire (résumé)]]
+Résumés : [[6 - Algèbre linéaire (résumé)]]

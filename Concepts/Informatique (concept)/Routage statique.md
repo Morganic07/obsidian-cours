@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [route statique, routes statiques, static route, static routing, route par défaut, default route, table de routage, next hop, directly connected network, réseau directement connecté, réseaux directement connectés, remote network, réseau distant, show ip route]
 matieres: [Computer Network]
-sources: ["[[chp 2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]", "[[chp 1 - Computer Networks (résumé)|chp1 - Computer Networks]]"]
+sources: ["[[2 - Static Routing (résumé)|Chp2 - Static Routing]]", "[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]", "[[1 - Computer Networks (résumé)|chp1 - Computer Networks]]"]
 maj: 2026-11-06
 ---
 
@@ -17,10 +17,10 @@ Un routeur décide du chemin d'un paquet avec sa **table de routage**. Il appren
 **Route par défaut** : utilisée quand aucune route précise n'existe, fréquente en bordure vers Internet. Réseau `0.0.0.0/0` : `ip route 0.0.0.0 0.0.0.0 <next hop>`.
 
 > [!warning] Écart dans le cours
-> Le tableau des réseaux connectés de [[chp 2 - Static Routing (résumé)|Chp2 - Static Routing]] écrit « R3 » pour une ligne qui concerne R2.
+> Le tableau des réseaux connectés de [[2 - Static Routing (résumé)|Chp2 - Static Routing]] écrit « R3 » pour une ligne qui concerne R2.
 
 Dans `show ip route`, `L` (local) désigne l'adresse de l'interface elle-même, en /32.
 
 Notion parente : [[Routage IP]]. Liens : [[Routage dynamique]], [[Routeur]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 
-Résumés : [[chp 2 - Static Routing (résumé)]], [[chp 3 - Dynamic Routing (résumé)]], [[chp 1 - Computer Networks (résumé)]]
+Résumés : [[2 - Static Routing (résumé)]], [[3 - Dynamic Routing (résumé)]], [[1 - Computer Networks (résumé)]]

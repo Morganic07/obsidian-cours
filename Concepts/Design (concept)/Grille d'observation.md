@@ -15,4 +15,4 @@ Mise en pratique des hypothèses et des objectifs de l'étude, préparée à l'a
 
 Notion parente : [[Observation de terrain]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

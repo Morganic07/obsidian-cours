@@ -12,4 +12,4 @@ L'utilisateur devient ainsi producteur de données, « travailleur involontaire 
 
 Notion parente : [[Économie des données]]. Voir aussi : [[Impératif de productivité]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]], [[chp 4 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]], [[4 - sémiotique (résumé)]]

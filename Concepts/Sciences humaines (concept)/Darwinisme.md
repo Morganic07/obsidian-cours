@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état]]"
+  - "[[1 - philo (résumé)|L'état]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Voir aussi : [[Finalisme]].
 
 - Le cours place cette remise en cause « dès le XVIIe », alors que Darwin publie en 1859.
 
-Résumés : [[chp 1 - philo (résumé)]]
+Résumés : [[1 - philo (résumé)]]

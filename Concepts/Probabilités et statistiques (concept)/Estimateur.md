@@ -1,9 +1,29 @@
 ---
 type: concept
-tags: [year3]
-aliases: [estimator, point estimate, estimation ponctuelle, biais d'un estimateur, unbiased estimator, estimateur sans biais, erreur quadratique moyenne, mean squared error, MSE, standard error, erreur type, estimateur consistant, consistent estimator, exactitude, précision d'un estimateur]
-matieres: [Statistics, Data analysis (Thanos)]
-sources: ["[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[Séance 4 - Estimation (résumé)|Cours 4 - Estimation]]"]
+tags:
+  - year3
+aliases:
+  - estimator
+  - point estimate
+  - estimation ponctuelle
+  - biais d'un estimateur
+  - unbiased estimator
+  - estimateur sans biais
+  - erreur quadratique moyenne
+  - mean squared error
+  - MSE
+  - standard error
+  - erreur type
+  - estimateur consistant
+  - consistent estimator
+  - exactitude
+  - précision d'un estimateur
+matieres:
+  - Statistics
+  - Data analysis (Thanos)
+sources:
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
+  - "[[4 - Estimation (résumé)|Cours 4 - Estimation]]"
 maj: 2026-11-06
 ---
 
@@ -16,8 +36,8 @@ Une statistique est une fonction des observations d'un échantillon. Un **estima
 
 **Erreur type** : $\sigma_{\hat{\theta}} = \sqrt{V(\hat{\theta})}$. **MSE** : $E[(\hat{\theta} - \theta)^2] = V(\hat{\theta}) + (\text{biais})^2$, égale à la variance pour un estimateur sans biais. La moyenne empirique est sans biais et consistante, et $s^2$ est sans biais pour $\sigma^2$.
 
-Le cours de Data analysis reprend les mêmes critères (exactitude, précision, convergence), avec l'erreur type et la MSE ([[Séance 4 - Estimation (résumé)]]).
+Le cours de Data analysis reprend les mêmes critères (exactitude, précision, convergence), avec l'erreur type et la MSE ([[4 - Estimation (résumé)]]).
 
 Liens : [[Distribution d'échantillonnage]], [[Loi des grands nombres]], [[Convergence en probabilité]], [[Intervalle de confiance]], [[Variance et écart-type d'échantillon]]
 
-Résumés : [[chp 4 - Part 1 - Inferential statistics (résumé)]], [[Séance 4 - Estimation (résumé)]], [[Séance 6 - T-Test (résumé)]]
+Résumés : [[4 - Inferential statistics 1 (résumé)]], [[4 - Estimation (résumé)]], [[6 - T-Test (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [théorie des ensembles, appartenance, élément d'un ensemble, ensemble vide]
 matieres: [Outil Maths]
-sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Voir aussi : [[Définition par compréhension]], [[Inclusion (ensembles)]], [[Op
 
 - La note de cours écrit « N ∈ Z ∈ Q ∈ R » au lieu de l'inclusion $\subset$.
 
-Résumés : [[Chapitre2-Ensemble (4) (résumé)]], [[chp 2 - ensembles (résumé)]], [[Exo-Chapitre 2 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[Exo-Chapitre 2 (résumé)]]

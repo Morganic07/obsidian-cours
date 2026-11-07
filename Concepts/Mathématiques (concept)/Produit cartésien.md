@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [produits cartésiens, n-uplet, n-uplets]
 matieres: [Outil Maths]
-sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[chp 2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
+sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]", "[[2 - ensembles (résumé)|Chapitre 2 ensembles]]", "[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Les TD montrent $(A \times C) \cup (B \times C) = (A \cup B) \times C$, et que t
 
 Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Relation binaire]], [[Graphe d'une fonction]].
 
-Résumés : [[Chapitre2-Ensemble (4) (résumé)]], [[chp 2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]

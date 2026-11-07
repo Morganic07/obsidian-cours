@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [règle de l’Hôpital]
-sources: ["[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
+sources: ["[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Soient $f, g$ dérivables sur $I$, $x_0 \in I$, avec $f(x_0) = g(x_0) = 0$ et $g
 
 Notion parente : [[Dérivabilité]]. Voir aussi : [[Forme indéterminée]].
 
-Résumés : [[chp 4 - dérivabilité (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]]

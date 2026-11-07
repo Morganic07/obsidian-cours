@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [plus petit élément]
-sources: ["[[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
+sources: ["[[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[
 
 - Le cours écrit « A admet au plus un seul majorant dans A » : formulation elliptique, il s'agit des majorants qui appartiennent à $A$.
 
-Résumés : [[chp 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]

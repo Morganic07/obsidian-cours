@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [init process]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Processus système spécial auquel l'OS rattache généralement un processus orp
 
 Notion parente : [[Processus zombie et orphelin]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

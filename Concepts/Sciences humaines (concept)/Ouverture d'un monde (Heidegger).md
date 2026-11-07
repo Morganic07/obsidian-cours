@@ -23,4 +23,4 @@ Voir aussi : [[Dispositif de normalisation]], [[Affordance]].
 - Le rapprochement avec [[Affordance]] est une suggestion du résumé, pas du diaporama.
 - Le nom de la page est une proposition : le cours titre « Heidegger · ouvrir un monde ».
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

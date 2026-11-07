@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [graph isomorphism]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
+sources: ["[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Couple de bijections $(\varphi, \psi)$, l'une sur les sommets, l'autre sur les a
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Graphe planaire]].
 
-Résumés : [[chp 1 - Undirected graph (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]]

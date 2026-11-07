@@ -12,7 +12,7 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Séance 1 - IA (résumé)|Cours 1 (IA)]]"
+  - "[[1 - IA (résumé)|Cours 1 (IA)]]"
 maj: 2026-11-06
 ---
 
@@ -30,4 +30,4 @@ Le cours est une présentation de 2023 à 2025 : le droit évolue.
 
 Voir aussi : [[Domaine public]], [[Prompt (IA)]]
 
-Résumé : [[Séance 1 - IA (résumé)|Cours 1 (IA)]]
+Résumé : [[1 - IA (résumé)|Cours 1 (IA)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [independent random variables, variables aléatoires indépendantes, independent rvs]
-sources: ["[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
+sources: ["[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Conséquences : $E[g_1(X)g_2(Y)]=E[g_1(X)]\,E[g_2(Y)]$, le coefficient de corré
 
 Notion parente : [[Loi conjointe]]. Voir aussi : [[Covariance et corrélation]], [[Indépendance d'événements]].
 
-Résumés : [[chp 6 - Joint probability distributions (résumé)]]
+Résumés : [[6 - Joint probability distributions (résumé)]]

@@ -20,4 +20,4 @@ Notion parente : [[Arbre de décision]]. Voir aussi : [[Indice de Gini]], [[Éla
 - Le cours écrit « maximising Gini index » dans la construction, alors qu'on maximise le gain de pureté (un Gini petit correspond à un nœud pur).
 - Exemple windy, fils vrai P(3) N(3) : la classe affectée est notée « P ?? » dans le cours, l'égalité n'est pas tranchée.
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

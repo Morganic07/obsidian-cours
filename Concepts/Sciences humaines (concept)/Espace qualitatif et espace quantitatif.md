@@ -7,7 +7,7 @@ aliases:
   - espace quantitatif
   - existence du vide
 sources:
-  - "[[chp 6 - philo (résumé)|philo 4]]"
+  - "[[6 - philo (résumé)|philo 4]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Pascal (*Traité sur le vide*, 1647) défend contre Aristote l'existence du vide
 
 Notion parente : [[Révolution scientifique]]. Voir aussi : [[Progrès transhistorique]].
 
-Résumés : [[chp 6 - philo (résumé)]]
+Résumés : [[6 - philo (résumé)]]

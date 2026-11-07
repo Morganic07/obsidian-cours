@@ -5,7 +5,7 @@ tags:
 aliases:
   - tout design est politique
 sources:
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Capitalisme]], [[Dispositif de normalisation]].
 
-Résumés : [[chp 1 - Culture du vivant (résumé)]]
+Résumés : [[1 - Culture du vivant (résumé)]]

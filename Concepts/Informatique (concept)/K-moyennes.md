@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [k-means, K-means, kmeans, k-moyennes]
 matieres: [data mining]
-sources: ["[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -21,6 +21,6 @@ Notion parente : [[Clustering]]. Voir aussi : [[Centroïde]], [[Inertie (cluster
 
 ## À vérifier
 
-- Dans l'algorithme du cours, « $I \leftarrow I_W$ » précède « Compute $I_W$ » ; l'indice de boucle s'écrit $k$ ou $K$ (relevé du résumé [[séance data mining du prof (résumé)]]).
+- Dans l'algorithme du cours, « $I \leftarrow I_W$ » précède « Compute $I_W$ » ; l'indice de boucle s'écrit $k$ ou $K$ (relevé du résumé [[1 - pdf du prof (résumé)]]).
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

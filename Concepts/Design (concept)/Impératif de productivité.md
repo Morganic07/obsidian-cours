@@ -12,4 +12,4 @@ Exemple du cours : photographier une plante, c'est alimenter une base de donnée
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Traces numériques]], [[Travail invisible des utilisateurs]], [[Économie des données]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]]

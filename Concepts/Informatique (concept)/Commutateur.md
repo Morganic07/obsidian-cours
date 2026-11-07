@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [switchs, switches, commutateurs, Cisco 2960]
 matieres: [Computer Network]
-sources: ["[[chp 1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[1 - Computer Networks (résumé)|chp1 - Computer Networks]]", "[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Par défaut, un switch Cisco forme un seul [[Domaine de diffusion|domaine de dif
 
 Voir aussi : [[Routeur]], [[VLAN]], [[Domaine de diffusion]], [[Réseau local]].
 
-Résumés : [[chp 1 - Computer Networks (résumé)]], [[chp 4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[1 - Computer Networks (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]]

@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 1 - philo (résumé)|L'état (Philosophie)]]"
+  - "[[1 - philo (résumé)|L'état (Philosophie)]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Les sophistes soutiennent au contraire que l'état est artificiel. Le cours note
 
 Voir aussi : [[Logos]], [[Contrat social]], [[Finalisme]], [[Quatre causes d'Aristote]]
 
-Résumé : [[chp 1 - philo (résumé)|L'état (résumé)]]
+Résumé : [[1 - philo (résumé)|L'état (résumé)]]

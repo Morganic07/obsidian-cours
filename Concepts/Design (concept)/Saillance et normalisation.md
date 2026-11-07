@@ -14,4 +14,4 @@ Le rapport au corps se lit comme un continuum entre deux pôles :
 
 Notion parente : [[Techniques du corps]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

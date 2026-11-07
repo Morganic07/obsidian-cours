@@ -1,9 +1,21 @@
 ---
 type: concept
-tags: [year3]
-aliases: [héritage en base de données, héritage exclusif total, spécialisation et généralisation, table fille et table mère, is-a, liaison is-a]
-matieres: [ligue football, Data base]
-sources: ["[[sujet database (résumé)|sujet database (résumé)]]", "[[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]", "[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]"]
+tags:
+  - year3
+aliases:
+  - héritage en base de données
+  - héritage exclusif total
+  - spécialisation et généralisation
+  - table fille et table mère
+  - is-a
+  - liaison is-a
+matieres:
+  - ligue football
+  - Data base
+sources:
+  - "[[sujet database (résumé)|sujet database (résumé)]]"
+  - "[[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]"
+  - "[[1 - Database (résumé)|Cours 1 et 2 - Database]]"
 maj: 2026-11-06
 ---
 
@@ -11,7 +23,7 @@ L'héritage, dans un [[Modèle entité-association]], regroupe les attributs com
 
 ## Dans le cours de Data base
 
-Le cours parle de liaison **« is-a »** ([[UML]]) : `Client` est spécialisé en `PersonnePhysique` et `PersonneMorale`, traduit en `Client(numero)`, `PersonnePhysique(#numeroPP, nom, prenom)` et `PersonneMorale(#numeroPM)` ([[Séances 1 et 2 - Database (résumé)]]).
+Le cours parle de liaison **« is-a »** ([[UML]]) : `Client` est spécialisé en `PersonnePhysique` et `PersonneMorale`, traduit en `Client(numero)`, `PersonnePhysique(#numeroPP, nom, prenom)` et `PersonneMorale(#numeroPM)` ([[1 - Database (résumé)]]).
 
 ## Vocabulaire du projet
 
@@ -31,4 +43,4 @@ Voir [[Clé primaire et clé étrangère]], [[Schéma relationnel]] et [[Langage
 
 Complément : les contraintes `CHECK` du rapport n'empêchent pas une même personne d'être à la fois dans `JOUEUR` et `ARBITRE` ; l'exclusion reste à la charge de l'application ou d'un déclencheur.
 
-Résumés : [[sujet database (résumé)|sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[Séances 1 et 2 - Database (résumé)]]
+Résumés : [[sujet database (résumé)|sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[1 - Database (résumé)]]

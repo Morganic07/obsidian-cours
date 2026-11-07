@@ -16,4 +16,4 @@ Notion parente : [[Suite numérique]]. Voir aussi : [[Intervalle stable]], [[Lim
 
 - Attractif et répulsif sont seulement nommés dans le plan du TD4 relevé, sans définition.
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]]

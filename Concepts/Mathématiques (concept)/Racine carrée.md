@@ -12,4 +12,4 @@ Pour une inéquation : $\sqrt u \le v \iff u \ge 0,\ v \ge 0,\ u \le v^2$. On n'
 
 Voir aussi : [[Valeur absolue]], [[Équation du second degré]].
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[TD0-Rappel (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[TD0-Rappel (résumé)]]

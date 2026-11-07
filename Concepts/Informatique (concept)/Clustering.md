@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [clusters, partitionnement de données, segmentation (clustering)]
 matieres: [data mining]
-sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]", "[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
+sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]", "[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Exemple d'application : détection de profils d'utilisateurs d'un site de commer
 
 Notion parente : [[Apprentissage non supervisé]]. Voir aussi : [[Inertie (clustering)]], [[Distance]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

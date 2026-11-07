@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [ROM, Read-Only Memory]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ La ROM (Read-Only Memory) est une mémoire non modifiable qui conserve les donn�
 
 Voir aussi : [[BIOS et UEFI]], [[Mémoire volatile et non volatile]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

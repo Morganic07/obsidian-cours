@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [intégrale de Wallis, Wallis]
-matieres: [Analyse]
-sources: ["[[Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
+tags:
+  - year2
+aliases:
+  - intégrale de Wallis
+  - Wallis
+matieres:
+  - Analyse
+sources:
+  - "[[0 - Intégration UTILITAIRE (résumé)|Intégration UTILITAIRE]]"
+  - "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +20,4 @@ Le TD7 (ex. 9-10) établit par [[Intégration par parties]] une relation de réc
 
 Notion parente : [[Intégrale]]. Voir aussi : [[Intégration par parties]], [[Comparaison asymptotique]], [[Changement de variable dans une intégrale]].
 
-Résumés : [[Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[0 - Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]]

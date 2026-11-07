@@ -18,7 +18,7 @@ matieres:
   - C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[chp 2 - structures code (résumé)|chp2 - structures code]]"
+  - "[[2 - structures code (résumé)|chp2 - structures code]]"
 maj: 2026-11-06
 ---
 
@@ -34,4 +34,4 @@ Notion parente : [[Programmation modulaire]]. Voir aussi : [[Passage de paramèt
 
 - C : dans la fonction `affiche_points` de l'image, `i` et `j` ne sont pas déclarés (relevé du résumé).
 
-Résumés : [[AlgoID1 (résumé)]], [[Contrôles (résumé)]], [[chp 2 - structures code (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]], [[2 - structures code (résumé)]]

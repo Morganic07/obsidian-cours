@@ -18,4 +18,4 @@ Voir aussi : [[Nombre rationnel]], [[Borne supérieure]], [[Densité de ℚ dans
 
 - Chap1 est scanné : contenu relevé d'après le résumé (seul le plan est extractible).
 
-Résumés : [[chp 1 - reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]

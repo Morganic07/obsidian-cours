@@ -10,4 +10,4 @@ L'histoire visuelle aide à identifier des sources visuelles et narratives : com
 
 Notion parente : [[Imaginaire]]. Voir aussi : [[Voiture autonome]].
 
-Résumés : [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[2 - imaginaires du futur (résumé)]]

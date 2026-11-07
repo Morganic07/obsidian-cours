@@ -13,4 +13,4 @@ La présentation modulaire demande des modules courts et testables, le moins pos
 
 Notion parente : [[Algorithme]]. Voir aussi : [[Fonction et procédure]], [[Portée d'une variable]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

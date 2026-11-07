@@ -15,4 +15,4 @@ Quatre manières de suivre ce que l'on observe :
 
 Notion parente : [[Observation de terrain]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

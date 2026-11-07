@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [process scheduling, scheduler, ordonnanceur, ordonnancement, long term scheduler, short term scheduler, mid term scheduler, ready queue, wait queue, wait queues, scheduling queues, swapper]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Le cours ne présente pas d'algorithme d'ordonnancement (FCFS, Round Robin…), 
 
 Liens : [[Processus]], [[États d'un processus]], [[Changement de contexte]], [[Interruption]], [[Quantum de temps]], [[Espace d'échange (swap)]]
 
-Résumé : [[OS - chp 7 (résumé)]]
+Résumé : [[7 - OS (résumé)]]

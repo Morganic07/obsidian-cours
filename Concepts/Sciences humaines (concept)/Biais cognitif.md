@@ -5,7 +5,7 @@ tags:
 aliases:
   - biais cognitifs
 sources:
-  - "[[chp 3 - Compte rendu (résumé)|Compte rendu]]"
+  - "[[3 - Compte rendu (résumé)|Compte rendu]]"
 maj: 2026-11-07
 ---
 
@@ -17,4 +17,4 @@ Nommé sans définition générale dans le compte rendu d'enquête rédigé par 
 
 Voir aussi : [[Entretien semi-directif]].
 
-Résumés : [[chp 3 - Compte rendu (résumé)]]
+Résumés : [[3 - Compte rendu (résumé)]]

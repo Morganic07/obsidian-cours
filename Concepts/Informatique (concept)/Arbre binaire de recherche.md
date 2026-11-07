@@ -7,7 +7,7 @@ sources: ["[[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR.pdf]]", "[[Ra
 maj: 2026-11-06
 ---
 
-Un arbre binaire de recherche (ABR) est un [[Arbre binaire]] dont les clés sont ordonnées : pour chaque nœud, les clés du sous-arbre gauche sont inférieures à la sienne et celles du sous-arbre droit supérieures. Tout sous-arbre d'un ABR est lui-même un ABR (`fils-gauche < parent < fils-droit`). Cours d'[[Algo (index)]].
+Un arbre binaire de recherche (ABR) est un [[Arbre binaire]] dont les clés sont ordonnées : pour chaque nœud, les clés du sous-arbre gauche sont inférieures à la sienne et celles du sous-arbre droit supérieures. Tout sous-arbre d'un ABR est lui-même un ABR (`fils-gauche < parent < fils-droit`). Cours d'[[Cours/Informatique (cours)/Algo (cours)/Algo (index)]].
 
 ## Propriété clé
 
@@ -31,4 +31,4 @@ Notion parente : [[Arbre binaire]]. Voir aussi : [[Arbre AVL]].
 
 - Doublons : la première diapositive admet « inférieure (ou égale) », la deuxième des inégalités strictes, et `insert` ignore les égaux (résumé Chapitre5, point 1).
 
-Résumés : [[chp 5 - ABR (résumé)]], [[chp 3 - Arbres (résumé)]], [[chp 6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[5 - ABR (résumé)]], [[3 - Arbres (résumé)]], [[6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]

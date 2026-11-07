@@ -5,7 +5,7 @@ tags:
 aliases:
   - invisible hand
 sources:
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Capitalisme]].
 
 - Le jugement « il s'est trompé » est celui de la prise de notes, pas une conclusion établie par le cours.
 
-Résumés : [[chp 1 - Culture du vivant (résumé)]]
+Résumés : [[1 - Culture du vivant (résumé)]]

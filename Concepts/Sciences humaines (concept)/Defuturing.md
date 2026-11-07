@@ -15,4 +15,4 @@ Nommé dans Culture du soin Seance 1 ([[Raw/Year 4/culture du soin /Culture du s
 
 Notion parente : [[Responsabilité élargie du designer]].
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

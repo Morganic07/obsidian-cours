@@ -16,7 +16,7 @@ matieres:
   - C++
   - Algo Maths
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
 maj: 2026-11-06
 ---
@@ -33,4 +33,4 @@ Une structure peut contenir un pointeur vers une structure du même type : c'est
 
 Notion parente : [[Langage C]]. Liens : [[Liste chaînée]], [[Pointeur et adresse mémoire]], [[Opérateur flèche]]
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[AlgoID1 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[0 - diapo prof (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

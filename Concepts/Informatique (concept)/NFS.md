@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Network File System]
 matieres: [Operating System]
-sources: ["[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-07
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Système de fichiers]]. Voir aussi : [[EXT4]].
 - NFS est un système de fichiers réseau, pas un système de fichiers local (signalé par le résumé).
 - Le développé « Network File System » n'est pas dans le cours.
 
-Résumés : [[OS - chp 2 (résumé)]]
+Résumés : [[2 - OS (résumé)]]

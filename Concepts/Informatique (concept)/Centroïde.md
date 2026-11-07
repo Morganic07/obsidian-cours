@@ -11,4 +11,4 @@ Le centroïde $g$ d'un ensemble d'exemples à $P$ attributs est un exemple synth
 
 Notion parente : [[Clustering]]. Voir aussi : [[K-moyennes]], [[Inertie (clustering)]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

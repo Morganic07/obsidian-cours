@@ -5,7 +5,7 @@ tags:
 aliases:
   - variable non définie
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Langage C]]. Voir aussi : [[Tableau (programmation)]].
 
 - En toute rigueur, la valeur est indéterminée plutôt qu'aléatoire (complément du résumé).
 
-Résumés : [[chp 1 - basiques (résumé)]], [[chp 2 - structures code (résumé)]]
+Résumés : [[1 - basiques (résumé)]], [[2 - structures code (résumé)]]

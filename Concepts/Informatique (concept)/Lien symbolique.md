@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [symbolic link, liens symboliques]
-sources: ["[[OS - chp 5 (résumé)|OS - chp 5]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]"]
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Système de fichiers]]. Voir aussi : [[Commande ls]].
 
 - Erreur du cours relevée par le résumé : la 2e colonne de `ls -l` compte les liens physiques (hard links), pas les liens symboliques.
 
-Résumés : [[OS - chp 5 (résumé)]]
+Résumés : [[5 - OS (résumé)]]

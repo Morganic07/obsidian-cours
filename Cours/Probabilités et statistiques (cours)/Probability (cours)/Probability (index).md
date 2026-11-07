@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[chp 2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]", "[[chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]", "[[chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[chp 4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
+sources: ["[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]", "[[2 - Conditional proba and independence (résumé)|Chp 2 - Conditional proba and independence]]", "[[3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]", "[[3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]", "[[4 - Discrete random variables (résumé)|Chp 4 - Discrete random variables]]", "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[6 - Joint probability distributions (résumé)|Chp 6 - Joint probability distributions]]"]
 maj: 2026-11-06
 ---
 
@@ -11,13 +11,13 @@ Probabilités : événements, probabilité conditionnelle, dénombrement, variab
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - Sample space,events, proba (résumé)\|Chp 1 - Sample space,events, proba]] | Événements, axiomes de probabilité | [[chp 1 - Sample space,events, proba (résumé)\|Résumé]] |
-| [[chp 2 - Conditional proba and independence (résumé)\|Chp 2 - Conditional proba and independence]] | Conditionnelle, Bayes, indépendance | [[chp 2 - Conditional proba and independence (résumé)\|Résumé]] |
-| [[chp 3 - Combinatorics (résumé)\|Chp 3 - Combinatorics]] | Permutations, combinaisons | [[chp 3 - Combinatorics (résumé)\|Résumé]] |
-| [[chp 3 - Important discrete distributions (résumé)\|Chp 3 - Important discrete distributions]] | Bernoulli, binomiale, Poisson, hypergéométrique | [[chp 3 - Important discrete distributions (résumé)\|Résumé]] |
-| [[chp 4 - Discrete random variables (résumé)\|Chp 4 - Discrete random variables]] | pmf, cdf, espérance, variance | [[chp 4 - Discrete random variables (résumé)\|Résumé]] |
-| [[chp 5 - Continuous random variable (résumé)\|Chp 5 - Continuous random variable]] | Densité, normale, exponentielle, fonction génératrice | [[chp 5 - Continuous random variable (résumé)\|Résumé]] |
-| [[chp 6 - Joint probability distributions (résumé)\|Chp 6 - Joint probability distributions]] | Loi conjointe, covariance, sommes | [[chp 6 - Joint probability distributions (résumé)\|Résumé]] |
+| [[1 - Sample space,events, proba (résumé)\|Chp 1 - Sample space,events, proba]] | Événements, axiomes de probabilité | [[1 - Sample space,events, proba (résumé)\|Résumé]] |
+| [[2 - Conditional proba and independence (résumé)\|Chp 2 - Conditional proba and independence]] | Conditionnelle, Bayes, indépendance | [[2 - Conditional proba and independence (résumé)\|Résumé]] |
+| [[3 - Combinatorics (résumé)\|Chp 3 - Combinatorics]] | Permutations, combinaisons | [[3 - Combinatorics (résumé)\|Résumé]] |
+| [[3 - Important discrete distributions (résumé)\|Chp 3 - Important discrete distributions]] | Bernoulli, binomiale, Poisson, hypergéométrique | [[3 - Important discrete distributions (résumé)\|Résumé]] |
+| [[4 - Discrete random variables (résumé)\|Chp 4 - Discrete random variables]] | pmf, cdf, espérance, variance | [[4 - Discrete random variables (résumé)\|Résumé]] |
+| [[5 - Continuous random variable (résumé)\|Chp 5 - Continuous random variable]] | Densité, normale, exponentielle, fonction génératrice | [[5 - Continuous random variable (résumé)\|Résumé]] |
+| [[6 - Joint probability distributions (résumé)\|Chp 6 - Joint probability distributions]] | Loi conjointe, covariance, sommes | [[6 - Joint probability distributions (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -32,13 +32,13 @@ Probabilités : événements, probabilité conditionnelle, dénombrement, variab
 
 Aucune erreur de fond susceptible de coûter des points n'a été trouvée. Coquilles à connaître :
 
-- [[chp 3 - Important discrete distributions (résumé)]] : la binomiale négative compte les essais jusqu'au $r$-ième succès inclus, malgré « avant d'obtenir ».
-- [[chp 4 - Discrete random variables (résumé)]] : $p(x) \ge 0$, pas $> 0$.
-- [[chp 1 - Sample space,events, proba (résumé)]] : « impossible » veut dire $A = \emptyset$.
+- [[3 - Important discrete distributions (résumé)]] : la binomiale négative compte les essais jusqu'au $r$-ième succès inclus, malgré « avant d'obtenir ».
+- [[4 - Discrete random variables (résumé)]] : $p(x) \ge 0$, pas $> 0$.
+- [[1 - Sample space,events, proba (résumé)]] : « impossible » veut dire $A = \emptyset$.
 
 ## Liens avec les autres matières
 
 - **[[Statistics (index)]]** : reprend les lois, la combinaison linéaire de variables et la fonction génératrice, puis les applique à l'inférence.
 - **[[Analyse (index)]]** et **[[Analyse Maths (index)]]** : la densité et l'espérance continue utilisent l'[[Intégrale]] et la [[Primitive]].
 - **[[Outil Maths (index)]]** : [[Opérations sur les ensembles]] et [[Cardinal d'un ensemble]], base de l'espace d'échantillonnage.
-- **[[Data analysis (Thanos) (index)]]** : [[Covariance et corrélation]] et [[Corrélation et causalité]] y sont appliquées à des données.
+- **[[Data analysis (index)]]** : [[Covariance et corrélation]] et [[Corrélation et causalité]] y sont appliquées à des données.

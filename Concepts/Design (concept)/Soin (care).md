@@ -34,4 +34,4 @@ Voir aussi : [[Retail régénératif]], [[Manifeste pour le vivant]], [[Transhum
 
 - La matière culture du soin (Year 4) traitera sans doute davantage la notion.
 
-Résumés : [[chp 1 - culture du soin (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[chp 4 - Culture du vivant (résumé)]], [[ELBA (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[4 - Culture du vivant (résumé)]], [[ELBA (résumé)]]

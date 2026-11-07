@@ -15,4 +15,4 @@ Nommée dans le chapitre 4 sans définition détaillée : l'initrd (initial RAM 
 
 Notion parente : [[Partition de démarrage]]. Voir aussi : [[Noyau]].
 
-Résumés : [[OS - chp 4 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

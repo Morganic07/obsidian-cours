@@ -14,10 +14,10 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"
-  - "[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (Algèbre)]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -35,6 +35,6 @@ Liens : [[Espace des colonnes]], [[Base (algèbre linéaire)]]
 
 ## À vérifier
 
-- [[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]] : le théorème « Let A be a nxm matrix » mélange $\mathbb{R}^n$ et $\mathbb{R}^m$.
+- [[0 - Linear combination (résumé)|Chp 0a - Linear combination]] : le théorème « Let A be a nxm matrix » mélange $\mathbb{R}^n$ et $\mathbb{R}^m$.
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[chp 0d - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[Contrôles (résumé)]]

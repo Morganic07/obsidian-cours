@@ -11,4 +11,4 @@ Dans l'[[Algorithme CART]] : on construit l'arbre entier, on l'élague successiv
 
 Notion parente : [[Arbre de décision]].
 
-Résumés : [[séance data mining du prof (résumé)]], [[chp 1 - intro to data mining (résumé)]]
+Résumés : [[1 - pdf du prof (résumé)]], [[1 - intro to data mining (résumé)]]

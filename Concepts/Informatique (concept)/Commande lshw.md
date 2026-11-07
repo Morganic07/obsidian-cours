@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [lshw, lshw -short]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+tags:
+  - year2
+aliases:
+  - lshw
+  - lshw -short
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande lscpu]], [[APT]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[UNIX Commands - Semester report (résumé)]]

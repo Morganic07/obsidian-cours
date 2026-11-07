@@ -10,4 +10,4 @@ L'erreur $Er$ d'un classifieur est la probabilité qu'il prédise mal la cible ;
 
 Notion parente : [[Validation d'un classifieur]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

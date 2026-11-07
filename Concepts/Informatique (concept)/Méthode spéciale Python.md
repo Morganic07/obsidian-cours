@@ -15,4 +15,4 @@ Nommé dans Chapitre5-ABR ([[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-A
 
 Voir aussi : [[Arbre binaire de recherche]].
 
-Résumés : [[chp 5 - ABR (résumé)]]
+Résumés : [[5 - ABR (résumé)]]

@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Fouille de données]]. Voir aussi : [[Quartiles et valeurs aberrantes]].
 
-Résumés : [[séance data mining du prof (résumé)]]
+Résumés : [[1 - pdf du prof (résumé)]]

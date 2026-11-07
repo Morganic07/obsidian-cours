@@ -1,9 +1,22 @@
 ---
 type: concept
-tags: [year2]
-aliases: [cofactor, cofactors, cofacteur, cofacteurs, matrice des cofacteurs, adjugate, adjugate matrix, adj A, développement par cofacteurs, cofactor expansion]
-matieres: [Bilinear Algebra]
-sources: ["[[chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"]
+tags:
+  - year2
+aliases:
+  - cofactor
+  - cofactors
+  - cofacteur
+  - cofacteurs
+  - matrice des cofacteurs
+  - adjugate
+  - adjugate matrix
+  - adj A
+  - développement par cofacteurs
+  - cofactor expansion
+matieres:
+  - Bilinear Algebra
+sources:
+  - "[[0 - Determinants (résumé)|Chp 0c - Determinants]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +31,4 @@ Notion parente : [[Déterminant]].
 - Le cours écrit $\det A=(\text{adj}\,A)A$, un nombre égal à une matrice : on attend $(\det A)I$.
 - Traduction de « adjugate » : comatrice transposée, ou « matrice adjointe » ; le titre de la page est à valider.
 
-Résumés : [[chp 0c - Determinants (résumé)]]
+Résumés : [[0 - Determinants (résumé)]]

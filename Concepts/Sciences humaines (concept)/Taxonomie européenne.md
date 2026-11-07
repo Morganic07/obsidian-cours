@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -20,4 +20,4 @@ Nommée dans le dernier cours sans définition : la taxonomie est citée parmi l
 
 Notion parente : [[Valeur socio-écologique]].
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

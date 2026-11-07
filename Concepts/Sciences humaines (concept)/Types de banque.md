@@ -7,7 +7,7 @@ aliases:
   - banque d'investissement
   - banque centrale
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-07
 ---
 
@@ -15,8 +15,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommés dans la note de [[chp 1 - gestion financière (résumé)|Gestion financière]] sans définition : la note distingue trois types de banque, la banque commerciale, la banque d'investissement, chargée des [[Opérations de haut de bilan]], et la banque centrale.
+Nommés dans la note de [[1 - gestion financière (résumé)|Gestion financière]] sans définition : la note distingue trois types de banque, la banque commerciale, la banque d'investissement, chargée des [[Opérations de haut de bilan]], et la banque centrale.
 
 Voir aussi : [[Marché financier]].
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

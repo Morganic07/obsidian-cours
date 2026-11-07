@@ -8,7 +8,7 @@ aliases:
 matieres:
   - C++
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ Dans une [[Liste chaînée]], le pointeur du dernier élément contient `NULL`, 
 
 Notion parente : [[Pointeur et adresse mémoire]]. Voir aussi : [[Allocation dynamique]].
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

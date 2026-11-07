@@ -12,4 +12,4 @@ Pour éviter le coût de la pile, on place les opérations qui suivent l'appel �
 
 Notion parente : [[Récursivité]]. Voir aussi : [[Factorielle]], [[Suite de Fibonacci]], [[Pile et file]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

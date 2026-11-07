@@ -15,4 +15,4 @@ Le polycopié donne aussi les transformations affines ($\sin(\pi - x) = \sin x$,
 
 Voir aussi : [[Formules trigonométriques]], [[Équation trigonométrique]], [[Fonction paire et impaire]], [[Fonctions trigonométriques réciproques]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]]
+Résumés : [[0 - rappels pdf]], [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]]

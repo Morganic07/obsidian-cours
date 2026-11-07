@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [classifier, classification supervisée]
 matieres: [data mining]
-sources: ["[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Fonction ou algorithme qui prend des caractéristiques en entrée et attribue un
 
 Notion parente : [[Apprentissage supervisé]]. Voir aussi : [[Validation d'un classifieur]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

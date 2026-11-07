@@ -15,4 +15,4 @@ Notion parente : [[Observation de terrain]]. Voir aussi : [[AEIOU]].
 
 - Liste des neuf dimensions absente de la note.
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

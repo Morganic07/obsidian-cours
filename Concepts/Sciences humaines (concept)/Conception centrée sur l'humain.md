@@ -20,4 +20,4 @@ Voir aussi : [[Fonctionnalisme]], [[Vulnérabilité]], [[Accessibilité]], [[Cha
 - Le lien avec [[Persona]] vient du résumé, pas du diaporama.
 - Vérifier si d'autres matières de design (Projet design, Dessein au cube) emploient déjà « design centré utilisateur ».
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

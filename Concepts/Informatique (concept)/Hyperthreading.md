@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [hyper-threading]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Cœur de processeur]]. Voir aussi : [[Thread]], [[Processeur]
 
 - Le cours assimile multithreading et hyperthreading, qui ne sont pas la même chose.
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

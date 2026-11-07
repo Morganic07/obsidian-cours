@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [year2]
-aliases: [column space, column spaces, Col A]
-sources: ["[[chp 0d - Vector Space (résumé)|Chp 0d - Vector Space]]"]
+tags:
+  - year2
+aliases:
+  - column space
+  - column spaces
+  - Col A
+sources:
+  - "[[0 - Vector Space (résumé)|Chp 0d - Vector Space]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +21,4 @@ Le même chapitre définit l'image d'une [[Transformation linéaire]] $T$ : $\te
 
 Notion parente : [[Sous-espaces fondamentaux]]. Voir aussi : [[Espace nul]], [[Rang d'une matrice]], [[Combinaison linéaire]], [[Espace engendré]], [[Transformation linéaire]], [[Injectivité et surjectivité]]
 
-Résumé : [[chp 0d - Vector Space (résumé)]]
+Résumé : [[0 - Vector Space (résumé)]]

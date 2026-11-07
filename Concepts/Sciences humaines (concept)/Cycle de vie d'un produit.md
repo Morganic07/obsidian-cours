@@ -12,7 +12,7 @@ matieres:
   - workshop
   - management de l'innovationb
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Reyou (résumé)|Reyou]]"
   - "[[Raw/Year 4/management de l'innovationb/CY école de design 4e - Management de l'innovation - 2026 09 30.pdf|CY école de design 4e - Management de l'innovation - 2026 09 30.pdf]]"
 maj: 2026-11-06
@@ -32,4 +32,4 @@ L'[[Économie circulaire]] étend le cycle de vie pour réduire l'usage de mati�
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Écoconception]], [[Cradle to cradle]], [[Éco-organisme]], [[Analyse fonctionnelle]].
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]], [[Reyou (résumé)]], [[chp 1 - innovation (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]], [[Reyou (résumé)]], [[1 - innovation (résumé)]]

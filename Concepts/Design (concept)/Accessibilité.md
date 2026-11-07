@@ -24,4 +24,4 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Ergonomie]], [[Conc
 
 Mot courant, sans doute présent dans d'autres cours de design : vérifier les liens créés après reconversion.
 
-Résumés : [[englis (résumé)]], [[chp 1 - culture du soin (résumé)]]
+Résumés : [[englis (résumé)]], [[1 - culture du soin (résumé)]]

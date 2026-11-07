@@ -12,4 +12,4 @@ Le choix d'une méthode dépend du besoin, et les méthodes ne s'excluent pas.
 
 Notion parente : [[Expérience utilisateur]]. Méthodes : [[Entretien semi-directif]], [[Questionnaire]], [[Observation de terrain]], [[Persona]], [[Focus group]], [[Tri de cartes]], [[Test utilisateur]].
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

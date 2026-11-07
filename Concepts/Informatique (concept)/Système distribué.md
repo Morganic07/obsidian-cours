@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [distributed systems, distributed system, systèmes distribués, Network Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Notion parente : [[Environnement informatique]]. Voir aussi : [[Modèle client-s
 
 - L'étudiante note dans ses notes qu'elle doit encore comprendre l'explication et le schéma.
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

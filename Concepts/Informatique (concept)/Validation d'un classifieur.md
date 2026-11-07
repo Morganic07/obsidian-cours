@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [classifier validation, matrice de confusion, confusion matrix, validation croisée, cross validation, cross-validation, précision et rappel, precision and recall]
 matieres: [data mining]
-sources: ["[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Exemple du cours (filtre anti-spam, 100 e-mails) : 15 VP, 5 FN, 2 FP, 78 VN, soi
 
 Notion parente : [[Classifieur]]. Liens : [[Ensemble d'entraînement et de test]], [[F-mesure]], [[Arbre de décision]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

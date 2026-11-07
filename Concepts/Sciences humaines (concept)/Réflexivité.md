@@ -11,4 +11,4 @@ Plus récemment, l'ethnographie cherche un regard plus objectif par la réflexiv
 
 Voir aussi : [[Observation participante]], [[Netnographie]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

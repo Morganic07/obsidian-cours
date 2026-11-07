@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [storage hierarchy, storage structure, primary storage, secondary storage, tertiary storage, mémoire principale, main memory, stockage secondaire]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Vitesse : SSD très inférieure à RAM, très inférieure au cache. La mémoire 
 
 Voir aussi : [[Système de fichiers]], [[Interruption]], [[Registre du processeur]], [[Mémoire cache]], [[Mémoire vive]], [[SSD]], [[Disque dur]], [[Disque optique]], [[Bande magnétique]], [[Mémoire volatile et non volatile]], [[Interface de stockage]].
 
-Résumé : [[OS - chp 1 (résumé)]], [[OS - chp 2 (résumé)]]
+Résumé : [[1 - OS (résumé)]], [[2 - OS (résumé)]]

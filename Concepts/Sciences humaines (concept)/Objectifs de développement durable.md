@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Responsabilité sociétale des entreprises]].
 
 - Le développement du sigle (objectifs de développement durable) n'est pas dans le cours.
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [séries temporelles, time series]
-sources: ["[[chp 1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
+sources: ["[[1 - intro to data mining (résumé)|Chp1 - intro to data mining]]"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommée dans l'introduction au data mining sans définition : les séries tempor
 
 Notion parente : [[Apprentissage automatique]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]]

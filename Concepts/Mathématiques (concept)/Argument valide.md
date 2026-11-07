@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [arguments valides, argument fallacieux, prémisses, prémisse]
 matieres: [Outil Maths]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Théorème : il est valide si et seulement si $p_1 \wedge \ldots \wedge p_k \Rig
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Règle d'inférence]].
 
-Résumés : [[chp 1 - logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

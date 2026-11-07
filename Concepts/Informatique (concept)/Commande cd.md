@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [cd .., cd -]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[OS - chp 5 (résumé)|OS - chp 5]]"]
+tags:
+  - year2
+aliases:
+  - cd ..
+  - cd -
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[5 - OS (résumé)|OS - chp 5]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Chemin de fichier]], [[Répertoire personnel]], [[Commande pwd]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[séance TP1 (résumé)]], [[OS - chp 5 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[5 - OS (résumé)]]

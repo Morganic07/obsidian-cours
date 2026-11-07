@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [strongly connected component, SCC]
 matieres: [graph theory]
-sources: ["[[chp 4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
+sources: ["[[4 - oriented graphs (résumé)|chp4 - oriented graphs]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Exemple à huit sommets : $\{B, C, E, F, G\}$, $\{A\}$, $\{D\}$, $\{H\}$.
 
 Notion parente : [[Graphe orienté]]. Voir aussi : [[Algorithme de Tarjan]], [[Graphe connexe]], [[Chemin (graphe)]].
 
-Résumés : [[chp 4 - oriented graphs (résumé)]]
+Résumés : [[4 - oriented graphs (résumé)]]

@@ -1,7 +1,15 @@
 ---
 type: matiere
-tags: [year3]
-sources: ["[[chp 1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]", "[[chp 2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]", "[[chp 4 - Part 1 - Inferential statistics (résumé)|Chp4 Part 1 - Inferential statistics]]", "[[chp 4 - Part 2 - Inferential statistics (résumé)|Chp4 Part2 - Inferential statistics]]", "[[chp 4 - Part 3 - Inferential statistics (résumé)|Chp4 Part3 - Inferential statistics]]", "[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]"]
+tags:
+  - year3
+sources:
+  - "[[1 - Intro to statistics (résumé)|Chp1 - Intro to statistics]]"
+  - "[[2 - Descriptive statistics (résumé)|Chp2 - Descriptive statistics]]"
+  - "[[3 - More on probability (résumé)|Chp3 - More on probability]]"
+  - "[[4 - Inferential statistics 1 (résumé)|Chp4 Part 1 - Inferential statistics]]"
+  - "[[4 - Inferential statistics 2 (résumé)|Chp4 Part2 - Inferential statistics]]"
+  - "[[4 - Inferential statistics 3(résumé)|Chp4 Part3 - Inferential statistics]]"
+  - "[[0 - proba&stats utilitaire (résumé)|probabilité statistiques utilitaire]]"
 maj: 2026-11-06
 ---
 
@@ -11,13 +19,13 @@ Statistique : description de données, compléments de probabilité, estimation 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - Intro to statistics (résumé)\|Chp1 - Intro to statistics]] | Vocabulaire, échantillonnage | [[chp 1 - Intro to statistics (résumé)\|Résumé]] |
-| [[chp 2 - Descriptive statistics (résumé)\|Chp2 - Descriptive statistics]] | Graphiques, moyenne, variance, quartiles | [[chp 2 - Descriptive statistics (résumé)\|Résumé]] |
-| [[chp 3 - More on probability (résumé)\|Chp3 - More on probability]] | Combinaisons linéaires, TCL, diagrammes de probabilité | [[chp 3 - More on probability (résumé)\|Résumé]] |
-| [[chp 4 - Part 1 - Inferential statistics (résumé)\|Chp4 Part 1 - Inferential statistics]] | Estimateurs, distribution d'échantillonnage, loi des grands nombres | [[chp 4 - Part 1 - Inferential statistics (résumé)\|Résumé]] |
-| [[chp 4 - Part 2 - Inferential statistics (résumé)\|Chp4 Part2 - Inferential statistics]] | Intervalle de confiance, $\sigma$ connu | [[chp 4 - Part 2 - Inferential statistics (résumé)\|Résumé]] |
-| [[chp 4 - Part 3 - Inferential statistics (résumé)\|Chp4 Part3 - Inferential statistics]] | Student, khi-deux, variance, proportion | [[chp 4 - Part 3 - Inferential statistics (résumé)\|Résumé]] |
-| [[probabilité statistiques utilitaire (résumé)\|probabilité statistiques utilitaire]] | Aide-mémoire de formules | [[probabilité statistiques utilitaire (résumé)\|Résumé]] |
+| [[1 - Intro to statistics (résumé)\|Chp1 - Intro to statistics]] | Vocabulaire, échantillonnage | [[1 - Intro to statistics (résumé)\|Résumé]] |
+| [[2 - Descriptive statistics (résumé)\|Chp2 - Descriptive statistics]] | Graphiques, moyenne, variance, quartiles | [[2 - Descriptive statistics (résumé)\|Résumé]] |
+| [[3 - More on probability (résumé)\|Chp3 - More on probability]] | Combinaisons linéaires, TCL, diagrammes de probabilité | [[3 - More on probability (résumé)\|Résumé]] |
+| [[4 - Inferential statistics 1 (résumé)\|Chp4 Part 1 - Inferential statistics]] | Estimateurs, distribution d'échantillonnage, loi des grands nombres | [[4 - Inferential statistics 1 (résumé)\|Résumé]] |
+| [[4 - Inferential statistics 2 (résumé)\|Chp4 Part2 - Inferential statistics]] | Intervalle de confiance, $\sigma$ connu | [[4 - Inferential statistics 2 (résumé)\|Résumé]] |
+| [[4 - Inferential statistics 3(résumé)\|Chp4 Part3 - Inferential statistics]] | Student, khi-deux, variance, proportion | [[4 - Inferential statistics 3(résumé)\|Résumé]] |
+| [[0 - proba&stats utilitaire (résumé)\|probabilité statistiques utilitaire]] | Aide-mémoire de formules | [[0 - proba&stats utilitaire (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -30,12 +38,12 @@ Statistique : description de données, compléments de probabilité, estimation 
 
 ## À revoir en priorité avant un examen
 
-- [[chp 4 - Part 3 - Inferential statistics (résumé)]] : le tableau récapitulatif donne $+z_\alpha$ dans les deux colonnes unilatérales ($\sigma$ connu), et le titre « mean known » de la section sur la variance est faux (la moyenne est inconnue).
-- [[chp 4 - Part 1 - Inferential statistics (résumé)]] : la somme de binomiales est écrite $\mathrm{Bin}(n_j, q)$, il faut $\mathrm{Bin}(\sum n_i, p)$.
-- [[chp 2 - Descriptive statistics (résumé)]] : dans l'exemple de la boîte à moustaches, « $\bar{x} = 92{,}17$ » est en fait la médiane.
+- [[4 - Inferential statistics 3(résumé)]] : le tableau récapitulatif donne $+z_\alpha$ dans les deux colonnes unilatérales ($\sigma$ connu), et le titre « mean known » de la section sur la variance est faux (la moyenne est inconnue).
+- [[4 - Inferential statistics 1 (résumé)]] : la somme de binomiales est écrite $\mathrm{Bin}(n_j, q)$, il faut $\mathrm{Bin}(\sum n_i, p)$.
+- [[2 - Descriptive statistics (résumé)]] : dans l'exemple de la boîte à moustaches, « $\bar{x} = 92{,}17$ » est en fait la médiane.
 
 ## Liens avec les autres matières
 
 - **[[Probability (index)]]** : [[Loi normale]], [[Loi binomiale]], [[Espérance et variance]], [[Covariance et corrélation]], [[Fonction génératrice des moments]] y sont définis.
 - **[[Bilinear Algebra (index)]]** : la [[Régression linéaire]] et les [[Moindres carrés]] relient l'aide-mémoire (droite $\hat{Y} = a + bX$) à l'algèbre.
-- **[[Data analysis (Thanos) (index)]]** : les tests que l'aide-mémoire ne fait que résumer ([[Test Z]], [[Test t]], [[Test du χ²]]) y ont chacun leur cours, avec [[Centrage et réduction]] pour l'ACP.
+- **[[Data analysis (index)]]** : les tests que l'aide-mémoire ne fait que résumer ([[Test Z]], [[Test t]], [[Test du χ²]]) y ont chacun leur cours, avec [[Centrage et réduction]] pour l'ACP.

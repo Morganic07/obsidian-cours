@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [Bourne Shell, commande sh]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[OS - chp 5 (résumé)|OS - chp 5]]"]
+tags:
+  - year2
+aliases:
+  - Bourne Shell
+  - commande sh
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[5 - OS (résumé)|OS - chp 5]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Exécution d'un script]], [[S
 
 - Erreur relevée par le résumé : sous Debian et Ubuntu, `sh` pointe en général vers dash, pas vers Bash. À corriger avant un examen.
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[OS - chp 5 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[5 - OS (résumé)]], [[DM Shell Scripting (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [process states, process state, état d'un processus, états d'un processus]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Le passage de ready à running est choisi par l'ordonnanceur à court terme et r
 
 Notion parente : [[Processus]]. Voir aussi : [[Ordonnancement des processus]], [[Changement de contexte]], [[Processus limité par les entrées-sorties ou par le processeur]]
 
-Résumé : [[OS - chp 7 (résumé)]]
+Résumé : [[7 - OS (résumé)]]

@@ -1,8 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [triangular matrix, matrice triangulaire supérieure, upper triangular matrix, matrices triangulaires]
-sources: ["[[chp 0c - Determinants (résumé)|Chp 0c - Determinants]]", "[[chp 0e - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"]
+tags:
+  - year2
+aliases:
+  - triangular matrix
+  - matrice triangulaire supérieure
+  - upper triangular matrix
+  - matrices triangulaires
+sources:
+  - "[[0 - Determinants (résumé)|Chp 0c - Determinants]]"
+  - "[[0 - Eigenvalues and eigenvectors (résumé)|Chp 0e - Eigenvalues and eigenvectors]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +22,4 @@ Voir aussi : [[Déterminant]], [[Valeur propre]], [[Factorisation QR]].
 - Le cours ne donne pas de définition explicite.
 - La figure de la factorisation QR écrit « upper diagonal matrix » pour une matrice triangulaire supérieure.
 
-Résumés : [[chp 0c - Determinants (résumé)]], [[chp 0e - Eigenvalues and eigenvectors (résumé)]], [[chp 1 - Orthogonality (résumé)]]
+Résumés : [[0 - Determinants (résumé)]], [[0 - Eigenvalues and eigenvectors (résumé)]], [[1 - Orthogonality (résumé)]]

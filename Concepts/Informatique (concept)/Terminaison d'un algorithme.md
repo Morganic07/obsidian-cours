@@ -10,4 +10,4 @@ Un algorithme récursif doit s'arrêter : sa condition d'arrêt doit être attei
 
 Notion parente : [[Récursivité]]. Voir aussi : [[Conjecture de Syracuse]], [[Problème indécidable]], [[Correction d'un algorithme]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

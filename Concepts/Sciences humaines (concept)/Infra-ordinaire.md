@@ -15,4 +15,4 @@ Nommé sans définition, comme une raison d'apprendre l'observation : « on ne v
 
 Notion parente : [[Observation de terrain]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

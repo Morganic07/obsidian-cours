@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [PCB, process control block, Process Control Block, bloc de contrôle de processus]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Le contexte d'un processus est représenté dans son PCB : c'est lui que le [[Ch
 
 Notion parente : [[Processus]]. Liens : [[États d'un processus]], [[Changement de contexte]], [[Compteur de programme]], [[Registre du processeur]]
 
-Résumé : [[OS - chp 7 (résumé)]]
+Résumé : [[7 - OS (résumé)]]

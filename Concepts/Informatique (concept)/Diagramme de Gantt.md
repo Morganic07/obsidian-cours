@@ -11,7 +11,7 @@ matieres:
   - management de l'innovationb
 sources:
   - "[[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]"
-  - "[[chp 1 - innovation (résumé)]]"
+  - "[[1 - innovation (résumé)]]"
 maj: 2026-11-07
 ---
 
@@ -21,6 +21,6 @@ maj: 2026-11-07
 
 Nommé dans le sujet database ([[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]) sans définition : un planning prévisionnel sous forme de diagramme de Gantt est demandé à l'étape 1 du projet.
 
-En Management de l'innovation (Year 4), le diagramme de Gantt figure parmi les outils représentés dans le support du 30 septembre, avec le cycle de vie, la roue de créativité et la matrice de choix des idées, sans plus de détail ([[chp 1 - innovation (résumé)]]).
+En Management de l'innovation (Year 4), le diagramme de Gantt figure parmi les outils représentés dans le support du 30 septembre, avec le cycle de vie, la roue de créativité et la matrice de choix des idées, sans plus de détail ([[1 - innovation (résumé)]]).
 
-Résumés : [[sujet database (résumé)]], [[chp 1 - innovation (résumé)]]
+Résumés : [[sujet database (résumé)]], [[1 - innovation (résumé)]]

@@ -28,7 +28,7 @@ sources:
   - "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"
   - "[[Synthese SHS GPT (résumé)|Synthese SHS GPT]]"
   - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -50,4 +50,4 @@ Le TD de SHS de 3e année propose une grille d'analyse : thème ou mot-clé, ext
 
 L'alias existant « insight » relie aussi le glossaire d'anglais, dont la définition est plus générale.
 
-Résumés : [[Untitled document (résumé)|Untitled document (résumé)]], [[Synthèse (résumé)|Synthèse (résumé)]], [[Prise parole Rendu final (résumé)]], [[englis (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[chp 2 - imaginaires du futur (résumé)|imaginaire_automobile_futur_smaller (résumé)]], [[Synthese SHS GPT (résumé)]], [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)]]
+Résumés : [[Untitled document (résumé)|Untitled document (résumé)]], [[Synthèse (résumé)|Synthèse (résumé)]], [[Prise parole Rendu final (résumé)]], [[englis (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[2 - imaginaires du futur (résumé)|imaginaire_automobile_futur_smaller (résumé)]], [[Synthese SHS GPT (résumé)]], [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]

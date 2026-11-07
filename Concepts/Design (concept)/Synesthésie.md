@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Peinture
 sources:
-  - "[[chp 2 (résumé)|Cours 2]]"
+  - "[[2 - Peinture (résumé)|Cours 2]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Le cours relie aussi la couleur et la musique par un lexique commun : accord, nu
 
 Voir aussi : [[Symbolique des couleurs]].
 
-Résumés : [[chp 2 (résumé)]]
+Résumés : [[2 - Peinture (résumé)]]

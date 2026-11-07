@@ -21,11 +21,11 @@ matieres:
   - Java
   - C++
 sources:
-  - "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
   - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
-  - "[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]"
-  - "[[chp 2 - structures code (résumé)|chp2 - structures code]]"
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
+  - "[[2 - structures code (résumé)|chp2 - structures code]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -45,4 +45,4 @@ Notion parente : [[Variable Bash]]. Voir aussi : [[Commande read]], [[Boucle (pr
 - Java : le cours écrit que `valeurs.length` vaut 4 pour un tableau de 5 éléments (à corriger avant un examen).
 - C : le cours interdit `int n; int tab[n];` ; en C99, un tableau de taille variable est permis si `n` a une valeur (complément du résumé).
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[DM Shell Scripting (résumé)]], [[chp 1 - Intro Java (résumé)]], [[chp 2 - structures code (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

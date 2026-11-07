@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2]
 aliases: [classe Ck, classe C1, classe C2, classe Cn, classe C∞, classe C0, classe C infini, C∞, stabilité de Ck par composition]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
-sources: ["[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]", "[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
+sources: ["[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]", "[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Notion parente : [[Différentielle]] (plusieurs variables), [[Dérivabilité]] (
 - Chp 4 (Analyse dans Rn), théorème 5 : $f \times g$ dans un EVN quelconque, énoncé sans sens.
 - Chp 5, théorème 2 : une hypothèse le rend vide.
 
-Résumés : [[chp 4 - Calcul différentiel du premier ordre (résumé)]], [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]], [[chp 4 - dérivabilité (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[5 - Calcul différentiel d'ordre supérieur (résumé)]], [[4 - dérivabilité (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]

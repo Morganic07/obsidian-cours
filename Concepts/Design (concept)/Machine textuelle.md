@@ -10,4 +10,4 @@ Les dispositifs numériques sont des machines textuelles : ils transforment nos 
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Externalisation des facultés]], [[Numérique comme écriture]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

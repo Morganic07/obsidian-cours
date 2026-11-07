@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [hypergeometric distribution, hypergeometric rv]
-sources: ["[[chp 3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]"]
+sources: ["[[3 - Important discrete distributions (résumé)|Chp 3 - Important discrete distributions]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ $E(X)=n\frac MN$ et $\text{Var}(X)=\frac{N-n}{N-1}\,n\frac MN\left(1-\frac MN\ri
 
 Notion parente : [[Variable aléatoire]]. Voir aussi : [[Loi binomiale]], [[Combinaison (dénombrement)]].
 
-Résumés : [[chp 3 - Important discrete distributions (résumé)]]
+Résumés : [[3 - Important discrete distributions (résumé)]]

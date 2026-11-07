@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [hashed password, mot de passe haché, mots de passe hachés]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]"]
+tags:
+  - year2
+aliases:
+  - hashed password
+  - mot de passe haché
+  - mots de passe hachés
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Notion parente : [[Fichiers de mots de passe]]. Voir aussi : [[Commande passwd]]
 
 - Le cours écrit « hashed (encrypted) » : hachage et chiffrement sont deux opérations différentes.
 
-Résumés : [[séance TP1 (résumé)]]
+Résumés : [[chp 1 - séance TP1 (résumé)]]

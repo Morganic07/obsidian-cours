@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [éléments simples, fraction rationnelle, fractions rationnelles]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
+tags:
+  - year2
+aliases:
+  - éléments simples
+  - fraction rationnelle
+  - fractions rationnelles
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
+  - "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +20,4 @@ Le TD7 (ex. 12) en donne des exemples : $x^3/(x^2-4)$, $4x/(x-2)^2$, $1/(t^3+1)$
 
 Notion parente : [[Primitive]].
 
-Résumés : [[chp 7 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]

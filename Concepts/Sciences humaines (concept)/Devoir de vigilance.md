@@ -4,7 +4,7 @@ tags:
   - year3
 aliases: []
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -12,8 +12,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] sans définition, parmi les réglementations qui rendent visibles les impacts des entreprises.
+Nommé dans [[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]] sans définition, parmi les réglementations qui rendent visibles les impacts des entreprises.
 
 Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[CSRD]].
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

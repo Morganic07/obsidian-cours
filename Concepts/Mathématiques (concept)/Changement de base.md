@@ -9,8 +9,8 @@ aliases:
   - changements de base
   - change of basis
 sources:
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
-  - "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
   - "[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"
 maj: 2026-11-06
 ---
@@ -33,4 +33,4 @@ Notion parente : [[Base (algèbre linéaire)]]. Voir aussi : [[Matrice d'une app
 
 - chp5 : « $X^{-1} = P^{-1} \cdot X$ » (à lire $X' = P^{-1}X$), une ligne « Si X = X = » vide, et « matrice de F / de E » pour « matrice de $f$ ».
 
-Résumés : [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[Contrôles (résumé)]]

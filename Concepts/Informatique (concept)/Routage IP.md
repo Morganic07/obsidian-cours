@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [IP routing]
-sources: ["[[chp 2 - Static Routing (résumé)|Chp2 - Static Routing]]"]
+sources: ["[[2 - Static Routing (résumé)|Chp2 - Static Routing]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Il apprend seul les réseaux directement connectés ; les réseaux distants dema
 
 Voir aussi : [[Routage statique]], [[Routage dynamique]].
 
-Résumés : [[chp 2 - Static Routing (résumé)]]
+Résumés : [[2 - Static Routing (résumé)]]

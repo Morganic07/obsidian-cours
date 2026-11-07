@@ -15,7 +15,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Reyou (résumé)|Reyou]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -31,4 +31,4 @@ Notion parente : [[Économie circulaire]]. Voir aussi : [[Éco-organisme]].
 
 - Le dossier cite « upcycling » sans le définir.
 
-Résumés : [[Reyou (résumé)]], [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[Reyou (résumé)]], [[3 - Culture du vivant (résumé)]]

@@ -17,8 +17,8 @@ aliases:
 matieres:
   - Algo
 sources:
-  - "[[chp 2 - piles listes file (résumé)|chp2 - piles listes file]]"
-  - "[[chp 1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
+  - "[[2 - piles listes file (résumé)|chp2 - piles listes file]]"
+  - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
 maj: 2026-11-06
 ---
 
@@ -39,6 +39,6 @@ Liens : [[Liste chaînée]], [[Récursivité]]
 
 ## À vérifier
 
-- Le tableau de [[chp 2 - piles listes file (résumé)|chp2 - piles listes file]] dit la file « insérée et retirée aux 2 extrémités », formulation imprécise : on insère à l'arrière et on retire à l'avant.
+- Le tableau de [[2 - piles listes file (résumé)|chp2 - piles listes file]] dit la file « insérée et retirée aux 2 extrémités », formulation imprécise : on insère à l'arrière et on retire à l'avant.
 
-Résumés : [[chp 2 - piles listes file (résumé)]], [[chp 1 - récursivité et complexité (résumé)]]
+Résumés : [[2 - piles listes file (résumé)]], [[1 - récursivité et complexité (résumé)]]

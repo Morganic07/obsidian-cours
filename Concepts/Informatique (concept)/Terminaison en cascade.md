@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: []
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Certains systèmes d'exploitation ne laissent pas un processus enfant exister si
 
 Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Processus zombie et orphelin]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

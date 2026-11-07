@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 6 - philo (résumé)|philo 4]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[6 - philo (résumé)|philo 4]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Fil conducteur du cours de philosophie de deuxième année : le rapport de l'hom
 
 Voir aussi : [[Progrès moral]], [[Maîtrise de la nature]], [[Philosophie de l'histoire]], [[Progrès transhistorique]], [[Animal-machine]]
 
-Résumés : [[chp 3 - philo (résumé)|philo 1]], [[chp 6 - philo (résumé)|philo 4]]
+Résumés : [[3 - philo (résumé)|philo 1]], [[6 - philo (résumé)|philo 4]]

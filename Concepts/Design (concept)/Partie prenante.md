@@ -15,4 +15,4 @@ Notion parente : [[Value(s) Design]]. Voir aussi : [[Grille du management de la 
 
 - Le terme « stakeholders » n'est pas dans le diaporama.
 
-Résumés : [[chp 1 - innovation (résumé)]]
+Résumés : [[1 - innovation (résumé)]]

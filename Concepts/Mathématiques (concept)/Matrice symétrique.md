@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [symmetric matrix, symmetric matrices, matrices symétriques, diagonalization of symmetric matrices]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 
@@ -14,8 +14,8 @@ $A$ est orthogonalement diagonalisable si et seulement si elle est symétrique. 
 
 **Décomposition spectrale** : $A = \lambda_1\mathbf{u}_1\mathbf{u}_1^T + \dots + \lambda_n\mathbf{u}_n\mathbf{u}_n^T$, obtenue en développant $PDP^T$ colonnes-lignes. Chaque $\mathbf{u}_j\mathbf{u}_j^T$ est une matrice de [[Projection orthogonale|projection]] sur la droite engendrée par $\mathbf{u}_j$.
 
-En Data analysis, la [[Matrice de covariance]] est symétrique, donc ses vecteurs propres sont orthogonaux ([[Séance 13 - Principal Components Analysis (résumé)]]).
+En Data analysis, la [[Matrice de covariance]] est symétrique, donc ses vecteurs propres sont orthogonaux ([[13 - Principal Components Analysis (résumé)]]).
 
 Voir aussi : [[Théorème spectral]], [[Transposée]], [[Diagonalisation]], [[Espace propre]], [[Forme quadratique]], [[Matrice orthogonale]], [[Décomposition en valeurs singulières]], [[Matrice de covariance]].
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]], [[13 - Principal Components Analysis (résumé)]]

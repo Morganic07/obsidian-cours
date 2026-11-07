@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [dénombrable, countable, uncountable, indénombrable, countable set]
 matieres: [Probability]
-sources: ["[[chp 1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
+sources: ["[[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Cardinal d'un ensemble]]. Voir aussi : [[Espace probabilisé]
 
 La transcription indique « 5 éléments » pour $\{1,2,3\}$ ; l'image n'a pas été ouverte.
 
-Résumés : [[chp 1 - Sample space,events, proba (résumé)]], [[chp 4 - Discrete random variables (résumé)]]
+Résumés : [[1 - Sample space,events, proba (résumé)]], [[4 - Discrete random variables (résumé)]]

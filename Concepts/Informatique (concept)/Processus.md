@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [processes, processus en cours, parent process, child process, program in execution, programme en exécution]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Un processus exécute ses instructions l'une après l'autre : un seul flux (le t
 
 Liens : [[États d'un processus]], [[Bloc de contrôle de processus]], [[Ordonnancement des processus]], [[Changement de contexte]], [[Création et terminaison de processus]], [[Processus zombie et orphelin]], [[Espace mémoire d'un processus]], [[Thread]]
 
-Résumés : [[OS - chp 7 (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[7 - OS (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[TP4-Unix Commands (résumé)]]

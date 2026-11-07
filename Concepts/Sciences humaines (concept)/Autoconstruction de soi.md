@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Nietzsche : « Deviens ce que tu es », c'est-à-dire deviens en acte ce que tu 
 
 Notion parente : [[Perfectibilité]].
 
-Résumés : [[chp 2 - philo (résumé)]]
+Résumés : [[2 - philo (résumé)]]

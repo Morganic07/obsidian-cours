@@ -18,4 +18,4 @@ Notion parente : [[Recherche utilisateur]]. Voir aussi : [[Entretien semi-direct
 
 - La traduction « groupe de discussion » n'est pas dans le cours.
 
-Résumés : [[chp 2 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]]

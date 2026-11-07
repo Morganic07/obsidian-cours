@@ -12,4 +12,4 @@ Une **partition amorçable** est toute partition contenant de quoi démarrer (so
 
 Notion parente : [[Partitions Linux]]. Voir aussi : [[Chargeur de démarrage]].
 
-Résumés : [[OS - chp 4 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

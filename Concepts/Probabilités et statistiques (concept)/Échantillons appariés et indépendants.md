@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [paired samples, independent samples, données appariées, échantillons appariés, échantillons indépendants]
-sources: ["[[Séance 7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
+sources: ["[[7 - Z-Test (résumé)|Cours 7 - Z-Test]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Test t]].
 
 - Le cours conseille à tort un « two-sample t-test » pour le cas apparié.
 
-Résumés : [[Séance 7 - Z-Test (résumé)]]
+Résumés : [[7 - Z-Test (résumé)]]

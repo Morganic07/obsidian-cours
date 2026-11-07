@@ -10,4 +10,4 @@ Exemple d'AlgoID1 d'un problème difficile : aucun algorithme exact efficace n'e
 
 Notion parente : [[Algorithme]]. Voir aussi : [[Algorithme d'approximation]], [[Modélisation d'un problème]].
 
-Résumés : [[AlgoID1 (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

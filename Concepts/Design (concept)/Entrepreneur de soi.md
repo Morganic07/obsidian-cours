@@ -18,4 +18,4 @@ Voir aussi : [[Analyse techno-sémiotique]].
 
 - La diapositive 25 écrit « entrepreneur de soir », coquille apparente pour « de soi ».
 
-Résumés : [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]]

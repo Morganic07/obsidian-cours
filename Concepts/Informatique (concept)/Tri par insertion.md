@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [tri d'insertion, insertion sort]
-sources: ["[[chp 3 - complexité (résumé)|chp3 - complexité]]"]
+sources: ["[[3 - complexité (résumé)|chp3 - complexité]]"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommé dans le chapitre de complexité sans définition : le calcul de sa comple
 
 Notion parente : [[Complexité algorithmique]]. Voir aussi : [[Tri par sélection]].
 
-Résumés : [[chp 3 - complexité (résumé)]]
+Résumés : [[3 - complexité (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [routing loop, routing loops, boucles de routage]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-07
 ---
 
@@ -10,8 +10,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans [[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]] sans définition, parmi les limites de RIP (« susceptible to routing loops »), avec la [[Convergence d'un protocole de routage|convergence lente]] et le maximum de 15 sauts.
+Nommée dans [[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]] sans définition, parmi les limites de RIP (« susceptible to routing loops »), avec la [[Convergence d'un protocole de routage|convergence lente]] et le maximum de 15 sauts.
 
 Notion parente : [[Routage dynamique]].
 
-Résumés : [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[3 - Dynamic Routing (résumé)]]

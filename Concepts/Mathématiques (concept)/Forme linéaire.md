@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [linear form, linear forms, formes linéaires]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-07
 ---
 
@@ -10,7 +10,7 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommé dans [[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] sans définition : le cours cite « $f(\mathbf{x},\mathbf{y})=\mathbf{x}+\mathbf{y}$ (linear form) » pour l'opposer à la [[Forme bilinéaire]].
+Nommé dans [[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] sans définition : le cours cite « $f(\mathbf{x},\mathbf{y})=\mathbf{x}+\mathbf{y}$ (linear form) » pour l'opposer à la [[Forme bilinéaire]].
 
 Notion parente : [[Transformation linéaire]]. Voir aussi : [[Forme bilinéaire]].
 
@@ -18,4 +18,4 @@ Notion parente : [[Transformation linéaire]]. Voir aussi : [[Forme bilinéaire]
 
 Exemple apparemment erroné : $\mathbf{x}+\mathbf{y}$ est un vecteur, pas un scalaire ; le cours ne donne pas de définition correcte.
 
-Résumés : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumés : [[2 - Symmetric matrices and quadratic forms (résumé)]]

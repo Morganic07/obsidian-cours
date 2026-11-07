@@ -13,4 +13,4 @@ Dans l'explication du COURS 2, la citation de Descartes est le pivot idéologiqu
 
 Voir aussi : [[Animal-machine]], [[Anthropocène]], [[Manifeste pour le vivant]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]]

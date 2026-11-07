@@ -1,7 +1,10 @@
 ---
 type: matiere
-tags: [year3]
-sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
+tags:
+  - year3
+sources:
+  - "[[1 - Database (résumé)|Cours 1 et 2 - Database]]"
+  - "[[2 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"
 maj: 2026-11-06
 ---
 
@@ -11,8 +14,8 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[Séances 1 et 2 - Database (résumé)\|Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[Séances 1 et 2 - Database (résumé)\|Résumé]] |
-| [[Séance 3 - opérateurs et SQL (résumé)\|Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[Séance 3 - opérateurs et SQL (résumé)\|Résumé]] |
+| [[1 - Database (résumé)\|Cours 1 et 2 - Database]] | Types, clés, MCD, MLD, cardinalités, héritage | [[1 - Database (résumé)\|Résumé]] |
+| [[2 - opérateurs et SQL (résumé)\|Cours 3 - opérateurs et SQL]] | Algèbre relationnelle, SQL, architecture | [[2 - opérateurs et SQL (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -23,8 +26,8 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 
 ## À revoir en priorité avant un examen
 
-- [[Séance 3 - opérateurs et SQL (résumé)]] : `REVOKE ... TO user` devrait être `REVOKE ... FROM user`.
-- [[Séances 1 et 2 - Database (résumé)]] : le cas « one to one » est en réalité un many-to-one.
+- [[2 - opérateurs et SQL (résumé)]] : `REVOKE ... TO user` devrait être `REVOKE ... FROM user`.
+- [[1 - Database (résumé)]] : le cas « one to one » est en réalité un many-to-one.
 
 ## Liens avec les autres matières
 

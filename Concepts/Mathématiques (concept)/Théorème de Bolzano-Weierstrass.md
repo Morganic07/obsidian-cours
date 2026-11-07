@@ -15,4 +15,4 @@ Nommé au chapitre 1 sans énoncé : seulement cité parmi les conséquences de 
 
 Notion parente : [[Borne supérieure]]. Voir aussi : [[Suite numérique]].
 
-Résumés : [[chp 1 - reels (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]]

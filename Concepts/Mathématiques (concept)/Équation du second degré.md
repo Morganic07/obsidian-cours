@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [équations du second degré, trinôme du second degré, signe du trinôme, discriminant, trinôme, polynôme complexe, racine double]
 matieres: [Analyse Maths, Algo Maths, Outil Maths]
-sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td0slides.pdf|td0slides.pdf]]", "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Voir aussi : [[Polynôme]], [[Nombre complexe]].
 
 - Chapitre 5 (Outil Maths) : la barre de conjugaison de $z_2 = \overline{z_1}$ est coupée sur l'image (alerte de transcription, lecture cohérente).
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[AlgoID1 (résumé)]], [[Contrôles (résumé)]], [[chp 5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]], [[5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]

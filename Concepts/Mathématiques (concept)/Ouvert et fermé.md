@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [ouvert, ouverts, fermé, fermés]
 matieres: [Analyse dans Rn]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]"]
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ $\emptyset$ et $E$ sont à la fois ouverts et fermés. Dans $\mathbb{R}$, $]a, b
 
 Notion parente : [[Boule et voisinage]]. Voir aussi : [[Intérieur et adhérence]], [[Norme]]
 
-Résumé : [[chp 2 - éléments de topologie dans Rn (résumé)]]
+Résumé : [[2 - éléments de topologie dans Rn (résumé)]]

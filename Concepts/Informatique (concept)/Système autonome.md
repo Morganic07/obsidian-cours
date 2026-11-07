@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [autonomous system, systèmes autonomes]
 matieres: [Computer Network]
-sources: ["[[chp 3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
+sources: ["[[3 - Dynamic Routing (résumé)|Chp3 - Dynamic Routing]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Analogie du cours : l'IGP route entre les rues d'une ville, l'EGP entre les vill
 
 Notion parente : [[Routage dynamique]]. Voir aussi : [[BGP]], [[OSPF]], [[EIGRP]].
 
-Résumés : [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[3 - Dynamic Routing (résumé)]]

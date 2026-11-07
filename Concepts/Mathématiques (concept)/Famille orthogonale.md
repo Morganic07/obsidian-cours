@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [orthogonal set, orthogonal sets, orthogonal basis, base orthogonale, orthonormal set, orthonormal sets, orthonormal basis, orthonormal columns, base orthonormale, famille orthonormale, Orthonormal Decomposition Theorem]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Orthogonalité]].
 
 Liens : [[Indépendance linéaire]], [[Base (algèbre linéaire)]], [[Norme]], [[Matrice orthogonale]], [[Procédé de Gram-Schmidt]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumé : [[1 - Orthogonality (résumé)]]

@@ -11,4 +11,4 @@ Selon Alain Findeli, cité dans VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivan
 
 Voir aussi : [[Zone critique]], [[Radical design]].
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year3]
 aliases: [orthogonal projection, orthogonal projections, projections orthogonales, projeté orthogonal, projeté orthogonalement, Orthogonal Decomposition Theorem, théorème de décomposition orthogonale, best approximation, meilleure approximation]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]", "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Tout $\mathbf{y}$ de $\mathbb{R}^n$ s'écrit de façon unique $\mathbf{y} = \hat
 
 Notion parente : [[Complément orthogonal]]. Liens : [[Orthogonalité]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Moindres carrés]], [[Matrice symétrique]], [[Décomposition spectrale]], [[Analyse en composantes principales]] (projection des données sur les composantes)
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]
+Résumés : [[1 - Orthogonality (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[13 - Principal Components Analysis (résumé)]]

@@ -4,7 +4,7 @@ tags:
   - year2
 aliases: []
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Avoir conscience qu'on est biaisé en tant que designer. Le cours l'illustre par
 
 Notion parente : [[Biais cognitif]].
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

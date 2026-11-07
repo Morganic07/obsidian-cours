@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [forme trigonométrique, forme exponentielle, formule de Moivre, formules d'Euler]
-sources: ["[[chp 5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
+sources: ["[[5 - Complexes (résumé)|Chapitre 5 - Complexes]]"]
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Nombre complexe]]. Voir aussi : [[Formules trigonométriques]
 
 - Erreur du cours, signalée par la transcription : $|\cos\theta + \sin\theta| = 1$ au lieu de $|\cos\theta + i\sin\theta| = 1$.
 
-Résumés : [[chp 5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]

@@ -13,12 +13,12 @@ matieres:
   - Bilinear Algebra
   - Algèbre Linéaire
 sources:
-  - "[[chp 0c - Determinants (résumé)|Chp 0c - Determinants]]"
-  - "[[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
-  - "[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
-  - "[[chp 5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
-  - "[[chp 6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
-  - "[[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
+  - "[[0 - Determinants (résumé)|Chp 0c - Determinants]]"
+  - "[[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
+  - "[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"
+  - "[[5 - Algèbre linéaire (résumé)|chp5 (Algèbre)]]"
+  - "[[6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]]"
+  - "[[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]"
 maj: 2026-11-06
 ---
 
@@ -32,17 +32,17 @@ Nombre associé à une [[Matrice|matrice]] carrée, défini par récurrence sur 
 - **Inverse** : $A^{-1} = \frac{1}{\det A} \text{adj } A$, où adj $A$ est la transposée de la matrice des cofacteurs ([[Comatrice]]).
 - **Linéarité** : à colonnes fixées sauf une, le déterminant est linéaire par rapport à cette colonne ([[Forme multilinéaire alternée]]).
 - **Bases** (théorème fondamental) : $n$ vecteurs forment une base si et seulement si le déterminant de leurs composantes est non nul ; il est nul si et seulement si la famille est liée. Il suffit donc de le calculer pour montrer qu'une famille est libre.
-- **Valeurs propres** : ce sont les $\lambda$ tels que $\det(A - \lambda\,\mathrm{Id}) = 0$ ([[chp 7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]).
+- **Valeurs propres** : ce sont les $\lambda$ tels que $\det(A - \lambda\,\mathrm{Id}) = 0$ ([[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]]).
 - **Cas nuls** : deux lignes ou deux colonnes égales donnent 0.
 
 > [!warning] À vérifier
-> [[chp 0c - Determinants (résumé)|Chp 0c - Determinants]] écrit $\det A = (\text{adj } A)A$, qui égale un nombre à une matrice. On attendrait $(\det A)\,I = (\text{adj } A)A$.
+> [[0 - Determinants (résumé)|Chp 0c - Determinants]] écrit $\det A = (\text{adj } A)A$, qui égale un nombre à une matrice. On attendrait $(\det A)\,I = (\text{adj } A)A$.
 
 > [!warning] À vérifier
-> Dans [[chp 6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]], la formule de définition (« On définit par récurrence l'application », « Par : », « On a : ») est vide dans l'export. Le cours écrit aussi « combinaison linéaire des deux autres », à lire « des autres ».
+> Dans [[6 - Algèbre linéaire (résumé)|chp6 (Algèbre)]], la formule de définition (« On définit par récurrence l'application », « Par : », « On a : ») est vide dans l'export. Le cours écrit aussi « combinaison linéaire des deux autres », à lire « des autres ».
 
 Notion parente : [[Matrice]].
 
 Liens : [[Matrice inversible]], [[Valeur propre]], [[Transposée]], [[Produit matriciel]], [[Base (algèbre linéaire)]], [[Indépendance linéaire]]
 
-Résumés : [[chp 0c - Determinants (résumé)]], [[chp 2 - Symmetric matrices and quadratic forms (résumé)]], [[chp 5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[chp 6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[chp 7 - Algèbre linéaire (résumé)|chp7 (résumé)]]
+Résumés : [[0 - Determinants (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[7 - Algèbre linéaire (résumé)|chp7 (résumé)]]

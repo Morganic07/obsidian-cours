@@ -12,7 +12,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
+  - "[[2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
 maj: 2026-11-06
 ---
@@ -31,13 +31,13 @@ Neuf processus dont le dépassement menace les équilibres de la Terre. Le cours
 
 Un second diagramme (« Les limites planétaires en 2025 », Reporterre) donne l'échelle vert à violet. Le cours y ajoute la biodiversité : cinq causes d'érosion (destruction des habitats, surexploitation, climat, pollution, espèces envahissantes), les deux premières pesant plus de 50 % ; 28 % des espèces suivies sont menacées.
 
-Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[chp 4 - Culture du vivant (résumé)]]). Il dit les neuf limites dépassées, hors des capacités prédictives des actuaires.
+Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[4 - Culture du vivant (résumé)]]). Il dit les neuf limites dépassées, hors des capacités prédictives des actuaires.
 
 Voir aussi : [[Anthropocène]], [[Économie circulaire]], [[Théorie du Donut]], [[Érosion de la biodiversité]]
 
 ## À vérifier
 
 - Les chiffres des images sont petits, les transcriptions peuvent contenir des erreurs de lecture.
-- Désaccord entre sources : VIVANT1 ([[chp 4 - Culture du vivant (résumé)]]) parle de « 9 limites planétaires dépassées », alors que l'infographie CGDD/SDES 2023 du cours Y3 ([[chp 2 - Culture du vivant (résumé)|Culture du vivant (résumé)]]) en donne certaines non dépassées (phosphore) ou non quantifiées (aérosols).
+- Désaccord entre sources : VIVANT1 ([[4 - Culture du vivant (résumé)]]) parle de « 9 limites planétaires dépassées », alors que l'infographie CGDD/SDES 2023 du cours Y3 ([[2 - Culture du vivant (résumé)|Culture du vivant (résumé)]]) en donne certaines non dépassées (phosphore) ou non quantifiées (aérosols).
 
-Résumés : [[chp 2 - Culture du vivant (résumé)|Culture du vivant (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[2 - Culture du vivant (résumé)|Culture du vivant (résumé)]], [[4 - Culture du vivant (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year2, year3]
 aliases: [séries numériques, numerical series, série convergente, série divergente, série géométrique, série harmonique, série de Riemann, séries de Riemann, p-series, série alternée, convergence absolue, absolutely convergent, série télescopique, somme partielle, telescoping series, harmonic series]
 matieres: [Séries, Analyse Maths, Analyse]
-sources: ["[[chp 1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[chp 2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
+sources: ["[[1 - Convergent, divergent and positive terms SERIES (résumé)|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[2 - Alternating and absolutly convergent series (résumé)|Chp2 - Alternating and absolutly convergent series]]", "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites.pdf]]", "[[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7-integration (1).pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -25,4 +25,4 @@ Une **série** $\sum a_n$ est la suite de ses sommes partielles $S_n = \sum_{k=0
 
 Liens : [[Critère de d'Alembert et de Cauchy]], [[Reste d'une série]], [[Condition nécessaire de convergence]], [[Critère de comparaison]], [[Comparaison série-intégrale]], [[Critère des séries alternées]], [[Convergence conditionnelle]], [[Série entière]], [[Convergence uniforme]], [[Suite numérique]], [[Intégrale]], [[Constante d'Euler]]
 
-Résumés : [[chp 1 - Convergent, divergent and positive terms SERIES (résumé)]], [[chp 2 - Alternating and absolutly convergent series (résumé)]], [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]], [[0 - rappels pdf]], [[TDSuites (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[TD7-integration (1) (résumé)]]

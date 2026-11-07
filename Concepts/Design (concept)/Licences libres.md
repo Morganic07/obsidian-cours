@@ -15,7 +15,7 @@ matieres:
   - SHS
   - Anglais
 sources:
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
   - "[[Entretien sur l'open source (résumé)]]"
   - "[[englis (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
@@ -33,4 +33,4 @@ Le glossaire d'anglais ([[englis (résumé)|Global Exam Vocab]]) définit *open 
 
 Voir aussi : [[Open design]], [[Communs numériques]], [[Copyleft]], [[Creative Commons]], [[Licence anti-IA]], [[Propriété intellectuelle]]
 
-Résumés : [[chp 3 - Prise de note (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]], [[Recherches SHS (résumé)]], [[englis (résumé)]]
+Résumés : [[3 - Prise de note (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]], [[Recherches SHS (résumé)]], [[englis (résumé)]]

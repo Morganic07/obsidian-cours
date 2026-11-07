@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [grep]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Séance TP2 (résumé)|Cours TP2]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+tags:
+  - year2
+aliases:
+  - grep
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[2 - TP2 (résumé)|Cours TP2]]"
+  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Commande wc]], [[Commande lscpu]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP2 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[DM Shell Scripting (résumé)]]

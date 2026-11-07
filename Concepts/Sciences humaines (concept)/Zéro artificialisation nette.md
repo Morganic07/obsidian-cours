@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
 maj: 2026-11-06
 ---
@@ -22,4 +22,4 @@ Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Érosion de la bio
 
 Le développement « zéro artificialisation nette » n'est pas dans le cours.
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]], [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]], [[4 - Culture du vivant (résumé)]]

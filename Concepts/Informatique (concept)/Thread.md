@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [threads, thread principal, thread of execution, "fil d'exécution"]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]", "[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Dans un processus, il n'y a en général qu'un seul flux d'exécution, le thread
 
 Notion parente : [[Processus]]. Voir aussi : [[Hyperthreading]].
 
-Résumés : [[OS - chp 7 (résumé)]], [[OS - chp 1 (résumé)]]
+Résumés : [[7 - OS (résumé)]], [[1 - OS (résumé)]]

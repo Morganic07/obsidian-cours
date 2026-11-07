@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [ordre total, ordre partiel, ensemble ordonné, ensemble partiellement ordonné, ensemble totalement ordonné]
 matieres: [Outil Maths, Analyse Maths]
-sources: ["[[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]", "[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]"]
+sources: ["[[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]", "[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -19,6 +19,6 @@ Notion parente : [[Relation binaire]]. Liens : [[Relation réflexive]], [[Relati
 
 ## À vérifier
 
-- Le tableau de [[chp 3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]] écrit l'antisymétrie « $(xRy$ et $yRz) \Rightarrow x = y$ » : il faut $yRx$ à la place de $yRz$.
+- Le tableau de [[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]] écrit l'antisymétrie « $(xRy$ et $yRz) \Rightarrow x = y$ » : il faut $yRx$ à la place de $yRz$.
 
-Résumés : [[chp 3 - Relation binaire (résumé)]], [[Chapitre3-Relation binaire (résumé)]], [[TDRelations (résumé)]], [[chp 1 - reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]], [[1 - Ensemble des Reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]

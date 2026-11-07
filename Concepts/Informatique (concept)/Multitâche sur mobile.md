@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [multitasking in mobile systems, service Android, Android service]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Certains systèmes mobiles (premières versions d'iOS) ne laissent tourner qu'un
 
 Notion parente : [[Processus]]. Voir aussi : [[Environnement informatique]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

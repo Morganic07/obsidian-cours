@@ -12,4 +12,4 @@ Elle s'inscrit dans l'histoire des armures (cuirasse, char), mais y ajoute l'ind
 
 Voir aussi : [[Corps projectile]], [[Cyborg]], [[Anthropomorphisme]], [[Futurisme]].
 
-Résumés : [[chp 4 - imaginaires automobile (résumé)]], [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[4 - imaginaires automobile (résumé)]], [[2 - imaginaires du futur (résumé)]]

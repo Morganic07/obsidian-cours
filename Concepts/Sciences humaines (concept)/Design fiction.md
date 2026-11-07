@@ -10,4 +10,4 @@ Forme possible du livrable de création du cours de SHS sur l'imaginaire automob
 
 Voir aussi : [[Imaginaire]], [[Moodboard]], [[Maquette (design)]].
 
-Résumés : [[chp 2 - imaginaires du futur (résumé)]]
+Résumés : [[2 - imaginaires du futur (résumé)]]

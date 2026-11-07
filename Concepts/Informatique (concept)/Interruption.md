@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [interrupt, interrupts, interruption matérielle, ISR, interrupt service routine, vecteur d'interruption, interrupt request]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Un [[Appel système]] est aussi un moyen de déclencher une interruption, côté
 
 Voir aussi : [[Appel système]], [[Contrôleur de périphérique]], [[Bus système]], [[Changement de contexte]], [[Hiérarchie de stockage]].
 
-Résumé : [[OS - chp 1 (résumé)]]
+Résumé : [[1 - OS (résumé)]]

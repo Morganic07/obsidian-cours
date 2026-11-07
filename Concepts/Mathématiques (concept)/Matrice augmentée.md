@@ -1,8 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [augmented matrix, matrice des coefficients, coefficient matrix, matrices augmentées]
-sources: ["[[chp 0a - Linear combination (résumé)|Chp 0a - Linear combination]]"]
+tags:
+  - year2
+aliases:
+  - augmented matrix
+  - matrice des coefficients
+  - coefficient matrix
+  - matrices augmentées
+sources:
+  - "[[0 - Linear combination (résumé)|Chp 0a - Linear combination]]"
 maj: 2026-11-06
 ---
 
@@ -12,4 +18,4 @@ $\mathbf{b}\in\text{Span}\{\mathbf{v}_1,\dots,\mathbf{v}_n\}$ si et seulement si
 
 Notion parente : [[Système linéaire]]. Voir aussi : [[Opérations élémentaires sur les lignes]], [[Forme échelonnée]].
 
-Résumés : [[chp 0a - Linear combination (résumé)]], [[chp 0b - Matrix algebra (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Matrix algebra (résumé)]]

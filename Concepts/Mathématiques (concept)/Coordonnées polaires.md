@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [coords polaires, passage en polaires, polar coordinates]
-sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]", "[[chp 3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]", "[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
+sources: ["[[Raw/Year 2/Analyse/Chp9-intégrales multiples.pdf|Chp9-intégrales multiples.pdf]]", "[[3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]", "[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]"]
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Intégrale multiple]], [[Limite et continuité]], [[Difféomorphi
 - Le test « si le résultat ne dépend pas de $\theta$, la limite existe » est insuffisant (contre-exemple $x^2y/(x^4+y^2)$).
 - Le jacobien $r$ n'est pas écrit dans Chp9 (complément).
 
-Résumés : [[chp 9 - intégrales multiples (résumé)]], [[chp 3 - Limite et continuité d’applications (résumé)]], [[chp 4 - Calcul différentiel du premier ordre (résumé)]]
+Résumés : [[2 - intégrales multiples (résumé)]], [[3 - Limite et continuité d’applications (résumé)]], [[4 - Calcul différentiel du premier ordre (résumé)]]

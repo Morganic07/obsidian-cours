@@ -1,9 +1,20 @@
 ---
 type: concept
-tags: [year3]
-aliases: [MLD, modèle logique de données, schéma relationnel, relational diagram, relation (base de données), attribut (base de données)]
-matieres: [Data base, ligue football]
-sources: ["[[Séances 1 et 2 - Database (résumé)|Cours 1 et 2 - Database]]", "[[Séance 3 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"]
+tags:
+  - year3
+aliases:
+  - MLD
+  - modèle logique de données
+  - schéma relationnel
+  - relational diagram
+  - relation (base de données)
+  - attribut (base de données)
+matieres:
+  - Data base
+  - ligue football
+sources:
+  - "[[1 - Database (résumé)|Cours 1 et 2 - Database]]"
+  - "[[2 - opérateurs et SQL (résumé)|Cours 3 - opérateurs et SQL]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +31,4 @@ Le rapport du projet Ligue Football donne un MLD de 11 tables, clés étrangère
 
 Liens : [[Clé primaire et clé étrangère]], [[Table de correspondance]], [[Algèbre relationnelle]], [[Héritage en base de données]]
 
-Résumés : [[Séances 1 et 2 - Database (résumé)]], [[Séance 3 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+Résumés : [[1 - Database (résumé)]], [[2 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]]

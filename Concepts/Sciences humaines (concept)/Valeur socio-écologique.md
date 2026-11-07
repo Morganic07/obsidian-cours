@@ -5,7 +5,7 @@ tags:
 aliases:
   - intégrer le vivant dans les décisions économiques
 sources:
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Voir aussi : [[CSRD]], [[Taxonomie européenne]], [[Finance durable]], [[Respons
 
 Le schéma vient de la transcription d'une photo d'écran prise en biais : le texte du volet latéral est illisible.
 
-Résumés : [[chp 3 - Culture du vivant (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

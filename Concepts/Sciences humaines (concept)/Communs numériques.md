@@ -10,7 +10,7 @@ matieres:
   - SHS
 sources:
   - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
-  - "[[chp 3 - Prise de note (résumé)|Prise de note SHS]]"
+  - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
 
@@ -22,4 +22,4 @@ Trois « murs » menacent les communs numériques d'après le groupe : l'argent 
 
 Voir aussi : [[Open design]], [[Produit d'appel]], [[Gouvernance par l'expertise]]
 
-Résumés : [[Recherches SHS (résumé)]], [[chp 3 - Prise de note (résumé)|Prise de note SHS]]
+Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)|Prise de note SHS]]

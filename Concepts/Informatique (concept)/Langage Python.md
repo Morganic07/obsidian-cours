@@ -1,8 +1,11 @@
 ---
 type: concept
-tags: [year1]
+tags:
+  - year1
 aliases: []
-sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Python (résumé)|Python]]"]
+sources:
+  - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
+  - "[[chp 2 - Python (résumé)|Python]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +21,4 @@ Voir aussi : [[Typage dynamique]], [[Langage interprété]], [[Fonction range (P
 
 - AlgoID1 écrit `print i`, qui est la syntaxe de Python 2.
 
-Résumés : [[AlgoID1 (résumé)]], [[Python (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[chp 2 - Python (résumé)]]

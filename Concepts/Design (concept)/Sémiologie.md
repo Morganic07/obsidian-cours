@@ -11,4 +11,4 @@ Le cours oppose la sémiologie à la sémiotique : la sémiologie explique comme
 
 Notion parente : [[Sémiotique]].
 
-Résumés : [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]]

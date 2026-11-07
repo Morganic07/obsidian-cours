@@ -15,4 +15,4 @@ Nommée dans le cours de data mining sans définition : les SVM (*support Vector
 
 Notion parente : [[Classifieur]]. Voir aussi : [[Réseau de neurones]].
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

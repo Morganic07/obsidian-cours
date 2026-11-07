@@ -4,10 +4,10 @@ tags:
   - year3
   - year4
 sources:
-  - "[[chp 2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
-  - "[[chp 3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
+  - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
   - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
-  - "[[chp 1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
+  - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
 
@@ -21,15 +21,15 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 2 - Culture du vivant (résumé)\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[chp 2 - Culture du vivant (résumé)\|Résumé]] |
+| [[2 - Culture du vivant (résumé)\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[2 - Culture du vivant (résumé)\|Résumé]] |
 | [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Résumé]] |
-| [[chp 3 - Culture du vivant (résumé)\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[chp 3 - Culture du vivant (résumé)\|Résumé]] |
+| [[3 - Culture du vivant (résumé)\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[3 - Culture du vivant (résumé)\|Résumé]] |
 
 ### Documents PDF
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| VIVANT1 DBrowaeys (43 pages) | Premier cours : Anthropocène, limites planétaires, design et vivant | [[chp 4 - Culture du vivant (résumé)\|Résumé]] |
+| VIVANT1 DBrowaeys (43 pages) | Premier cours : Anthropocène, limites planétaires, design et vivant | [[4 - Culture du vivant (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -63,7 +63,7 @@ Culture du vivant de 4e année : technique, capitalisme et numérique. Une seule
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - Culture du vivant (résumé)\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[chp 1 - Culture du vivant (résumé)\|Résumé]] |
+| [[1 - Culture du vivant (résumé)\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[1 - Culture du vivant (résumé)\|Résumé]] |
 
 ### Concepts
 

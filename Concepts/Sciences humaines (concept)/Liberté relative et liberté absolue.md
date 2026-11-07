@@ -6,7 +6,7 @@ aliases:
   - liberté relative
   - liberté absolue
 sources:
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Comprendre les causes qui nous déterminent du dehors permet de supprimer les d�
 
 Voir aussi : [[Perfectibilité]], [[Autonomie morale]], [[Désir]].
 
-Résumés : [[chp 2 - philo (résumé)]]
+Résumés : [[2 - philo (résumé)]]

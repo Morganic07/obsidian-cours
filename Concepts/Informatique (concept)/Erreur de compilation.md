@@ -7,7 +7,7 @@ aliases:
   - erreurs du compilateur
   - undefined reference
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Messages types du compilateur relevés par le cours :
 
 Notion parente : [[Langage C]]. Voir aussi : [[Typage statique]], [[Fonction et procédure]].
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

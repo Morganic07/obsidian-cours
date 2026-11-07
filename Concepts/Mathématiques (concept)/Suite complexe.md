@@ -14,4 +14,4 @@ En TD : $a^n$ converge vers 0 si $|a| < 1$, et diverge si $|a| > 1$.
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Nombre complexe]].
 
-Résumés : [[AnalyseID1 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]

@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [year2]
-aliases: [brace expansion, accolades]
-matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[séance TP1 (résumé)|cours TP1]]"]
+tags:
+  - year2
+aliases:
+  - brace expansion
+  - accolades
+matieres:
+  - Operating System
+sources:
+  - "[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +21,4 @@ Notion parente : [[Méta-caractère]]. Voir aussi : [[Commande touch]], [[Comman
 
 - Au TP1, `{files, docs, src}` écrit avec des espaces empêche l'expansion (signalé par le résumé).
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[séance TP1 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[Copy of TP2-Commands (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[TP2 (résumé)]]

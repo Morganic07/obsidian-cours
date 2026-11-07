@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Ergonomie]]. Voir aussi : [[Test utilisateur]].
 
-Résumés : [[chp 1 - UX (résumé)]], [[chp 2 - sémiotique (résumé)]]
+Résumés : [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]]

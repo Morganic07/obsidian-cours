@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [port number, numéros de port, ports de couche 4, Layer 4 ports]
-sources: ["[[chp 5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]", "[[chp 6 - Access Control List (résumé)|chp6 - Access Control List]]"]
+sources: ["[[5 - NAT ／ PAT (résumé)|Chp5 - NAT ／ PAT]]", "[[6 - Access Control List (résumé)|chp6 - Access Control List]]"]
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Identifiant de couche 4 utilisé dans deux chapitres du cours :
 
 Voir aussi : [[NAT et PAT]], [[Liste de contrôle d'accès]].
 
-Résumés : [[chp 5 - NAT ／ PAT (résumé)]], [[chp 6 - Access Control List (résumé)]]
+Résumés : [[5 - NAT ／ PAT (résumé)]], [[6 - Access Control List (résumé)]]

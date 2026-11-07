@@ -1,9 +1,13 @@
 ---
 type: concept
-tags: [year2]
-aliases: [trapèzes]
-matieres: [Analyse]
-sources: ["[[chp 7 - Integration (résumé)|Chap7-Integration]]"]
+tags:
+  - year2
+aliases:
+  - trapèzes
+matieres:
+  - Analyse
+sources:
+  - "[[1 - Integration (résumé)|Chap7-Integration]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +15,4 @@ Approximation d'une intégrale par des trapèzes. Si $f$ est de classe $\mathcal
 
 Notion parente : [[Somme de Riemann]]. Voir aussi : [[Fonction de classe Ck]], [[Intégrale]].
 
-Résumés : [[chp 7 - Integration (résumé)]]
+Résumés : [[1 - Integration (résumé)]]

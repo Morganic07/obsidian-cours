@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [modus ponens, modus tollens]
-sources: ["[[chp 1 - logique (résumé)|Chapitre 1 logique]]"]
+sources: ["[[1 - logique (résumé)|Chapitre 1 logique]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Le cours prouve le modus ponens en montrant par table de vérité que $(p \wedge
 
 Notion parente : [[Règle d'inférence]].
 
-Résumés : [[chp 1 - logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [bilinear form, bilinear forms, formes bilinéaires]
-sources: ["[[chp 2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
+sources: ["[[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Sur un espace vectoriel réel $V$, fonction $f : V \times V \to \mathbb{R}$ lin�
 
 Liens : [[Produit scalaire]], [[Forme quadratique]], [[Forme linéaire]]
 
-Résumé : [[chp 2 - Symmetric matrices and quadratic forms (résumé)]]
+Résumé : [[2 - Symmetric matrices and quadratic forms (résumé)]]

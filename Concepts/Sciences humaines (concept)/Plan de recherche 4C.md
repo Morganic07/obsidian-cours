@@ -11,4 +11,4 @@ Plan de recherche « 4 C » : **compagnie**, **consommateur**, **catégorie**, *
 
 Voir aussi : [[Observation de terrain]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

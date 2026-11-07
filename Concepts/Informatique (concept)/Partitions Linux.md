@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [Linux partitions, root partition, home partition, "partition /home", "partition /usr", "partition /var"]
-sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Système de fichiers]]. Voir aussi : [[Partition (disque)]].
 
 - La description de `/usr` « pour logiciels tiers » est contestée par le résumé.
 
-Résumés : [[OS - chp 4 (résumé)]], [[OS - chp 3 (résumé)]]
+Résumés : [[4 - OS (résumé)]], [[3 - OS (résumé)]]

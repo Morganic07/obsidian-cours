@@ -19,4 +19,4 @@ Un **corpus** est un ensemble de documents (textuels, visuels, audiovisuels) col
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Discours d'escorte]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]], [[chp 3 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]], [[3 - sémiotique (résumé)]]

@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Philosophie
 sources:
-  - "[[chp 5 - philo (résumé)|philo 3]]"
+  - "[[5 - philo (résumé)|philo 3]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Au XIXe siècle, le paysage devient un genre majeur.
 
 Notion parente : [[L'art imite la nature]].
 
-Résumés : [[chp 5 - philo (résumé)]]
+Résumés : [[5 - philo (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [orthogonal complement, orthogonal complements, compléments orthogonaux, W perp]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]"]
 maj: 2026-11-06
 ---
 
@@ -12,4 +12,4 @@ Exemple du cours : dans $\mathbb{R}^3$, un plan $W$ et la droite $L$ qui lui est
 
 Notion parente : [[Orthogonalité]]. Voir aussi : [[Sous-espaces fondamentaux]], [[Sous-espace vectoriel]], [[Espace nul]], [[Espace des colonnes]], [[Projection orthogonale]]
 
-Résumé : [[chp 1 - Orthogonality (résumé)]]
+Résumé : [[1 - Orthogonality (résumé)]]

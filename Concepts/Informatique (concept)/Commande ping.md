@@ -9,10 +9,10 @@ matieres:
   - Operating System
   - Computer Network
 sources:
-  - "[[Séance TP3 (résumé)|Cours TP3]]"
-  - "[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]"
+  - "[[3 - TP3 (résumé)|Cours TP3]]"
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
-  - "[[CISCO Packet Tracer (résumé)|Formation CISCO Packet Tracer]]"
+  - "[[7 - Cisco (résumé)|Formation CISCO Packet Tracer]]"
 maj: 2026-11-06
 ---
 
@@ -24,4 +24,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Adresse de bouclage]], [[ICMP]], [[CLI Cisco IOS]].
 
-Résumés : [[Séance TP3 (résumé)]], [[Commandes Shell + explications (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[CISCO Packet Tracer (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[7 - Cisco (résumé)]]

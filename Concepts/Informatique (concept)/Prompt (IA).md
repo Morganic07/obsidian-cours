@@ -12,11 +12,11 @@ aliases:
 matieres:
   - IA
 sources:
-  - "[[Séance 1 - IA (résumé)|Cours 1]]"
+  - "[[1 - IA (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-[[Séance 1 - IA (résumé)|Cours 1 (IA)]] distingue trois types de prompts pour la génération d'images :
+[[1 - IA (résumé)|Cours 1 (IA)]] distingue trois types de prompts pour la génération d'images :
 
 - le prompt de texte détaillé : style, éclairage, objectif, résolution ;
 - le prompt avec image de référence, par exemple une planche de style dans Gemini ;
@@ -28,4 +28,4 @@ Voir aussi : [[Modèle de diffusion]], [[Droit d'auteur et IA]], [[Token (IA)]].
 
 - Le JSON d'exemple du cours n'est pas valide.
 
-Résumés : [[Séance 1 - IA (résumé)|Cours 1 (IA, résumé)]]
+Résumés : [[1 - IA (résumé)|Cours 1 (IA, résumé)]]

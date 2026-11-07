@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [underlying graph]
-sources: ["[[chp 1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
+sources: ["[[1 - Undirected graph (résumé)|Chp 1 - Undirected graph]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Notion parente : [[Graphe simple]].
 
 - La condition « $\forall (v, v') \in E' \Leftrightarrow v \ne v'$ » est mal formulée dans le cours (relevé du résumé).
 
-Résumés : [[chp 1 - Undirected graph (résumé)]]
+Résumés : [[1 - Undirected graph (résumé)]]

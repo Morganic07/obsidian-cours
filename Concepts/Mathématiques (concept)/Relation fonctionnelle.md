@@ -12,4 +12,4 @@ Réciproquement, une fonction définit la relation de graphe $G_f = \{(x, f(x))\
 
 Notion parente : [[Relation binaire]]. Voir aussi : [[Graphe d'une fonction]], [[Application (mathématiques)]].
 
-Résumés : [[Chapitre3-Relation binaire (résumé)]], [[Chapitre4-Fonctions (1) (résumé)]]
+Résumés : [[3 - pdf (résumé)]], [[4 - pdf (résumé)]]

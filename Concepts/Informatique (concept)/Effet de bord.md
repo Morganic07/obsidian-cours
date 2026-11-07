@@ -1,8 +1,15 @@
 ---
 type: concept
-tags: [year1, year3]
-aliases: [side effect, side effects, effets de bord]
-sources: ["[[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]]", "[[AlgoID1 (résumé)]]"]
+tags:
+  - year1
+  - year3
+aliases:
+  - side effect
+  - side effects
+  - effets de bord
+sources:
+  - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
+  - "[[0 - diapo prof (résumé)]]"
 maj: 2026-11-07
 ---
 
@@ -12,9 +19,9 @@ maj: 2026-11-07
 
 Nommé sans définition dans deux cours :
 
-- **Algo Maths** (Year 1) : en Python, un argument est transmis par valeur, mais pour une valeur mutable c'est la référence qui est transmise ; l'appel peut alors créer des « effets secondaires (*side effects*) hors de la fonction » ([[AlgoID1 (résumé)]]).
-- **Java** (Year 3) : [[chp 1 - Intro Java (résumé)|Chp1 - Intro Java]] mentionne les effets de bord (side effects) pour expliquer pourquoi l'ordre d'évaluation des opérandes compte.
+- **Algo Maths** (Year 1) : en Python, un argument est transmis par valeur, mais pour une valeur mutable c'est la référence qui est transmise ; l'appel peut alors créer des « effets secondaires (*side effects*) hors de la fonction » ([[0 - diapo prof (résumé)]]).
+- **Java** (Year 3) : [[1 - Intro Java (résumé)|Chp1 - Intro Java]] mentionne les effets de bord (side effects) pour expliquer pourquoi l'ordre d'évaluation des opérandes compte.
 
 Notion parente : [[Langage Java]]. Voir aussi : [[Associativité et ordre d'évaluation]], [[Opérateur d'incrémentation]].
 
-Résumés : [[AlgoID1 (résumé)]], [[chp 1 - Intro Java (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[1 - Intro Java (résumé)]]

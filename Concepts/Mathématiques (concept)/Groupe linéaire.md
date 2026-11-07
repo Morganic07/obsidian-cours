@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Algèbre Linéaire
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Mentionné dans le chp2 sans développement : $GL(E)$ (pour « Groupe Linéaire 
 
 Notion parente : [[Morphisme]]. Voir aussi : [[Matrice inversible]].
 
-Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]]
+Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]]

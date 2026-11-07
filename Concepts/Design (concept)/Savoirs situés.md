@@ -7,7 +7,7 @@ aliases:
   - savoir situé
 sources:
   - "[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"
-  - "[[chp 1 - Ethnographie visuelle (résumé)]]"
+  - "[[1 - Ethnographie visuelle (résumé)]]"
 maj: 2026-11-07
 ---
 
@@ -17,9 +17,9 @@ maj: 2026-11-07
 
 Nommés sans définition dans deux cours :
 
-- **SHS** (Year 2) : à propos de l'observation ethnographique, le cours cite Donna Haraway : « quand on observe, on ne peut pas être 100 % objectif », en lien avec la [[Réflexivité|réflexivité]] ([[chp 1 - Ethnographie visuelle (résumé)]]).
-- **Sémiotique** (Year 3) : le cours demande seulement où sont, dans les applications de reconnaissance de la nature, « les milieux, les relations, les savoirs situés » ([[chp 1 - sémiotique (résumé)]]).
+- **SHS** (Year 2) : à propos de l'observation ethnographique, le cours cite Donna Haraway : « quand on observe, on ne peut pas être 100 % objectif », en lien avec la [[Réflexivité|réflexivité]] ([[1 - Ethnographie visuelle (résumé)]]).
+- **Sémiotique** (Year 3) : le cours demande seulement où sont, dans les applications de reconnaissance de la nature, « les milieux, les relations, les savoirs situés » ([[1 - sémiotique (résumé)]]).
 
 Voir aussi : [[Design centré vivant]], [[Réflexivité]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]], [[chp 1 - sémiotique (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]], [[1 - sémiotique (résumé)]]

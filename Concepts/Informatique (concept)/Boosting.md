@@ -20,4 +20,4 @@ Notion parente : [[Méthodes d'ensemble]]. Voir aussi : [[Bagging]].
 
 Le poids initial est $1/N$, mais la normalisation est faite « pour que la somme soit $N$ », alors qu'une autre diapositive dit « pour que la somme reste la même » : le cours ne tranche pas.
 
-Résumés : [[chp 1 - intro to data mining (résumé)]], [[séance data mining du prof (résumé)]]
+Résumés : [[1 - intro to data mining (résumé)]], [[1 - pdf du prof (résumé)]]

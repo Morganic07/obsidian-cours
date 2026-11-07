@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [long term support, LTS release, interim release, version intermédiaire]
-sources: ["[[OS - chp 3 (résumé)|OS - chp 3]]"]
+sources: ["[[3 - OS (résumé)|OS - chp 3]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Ubuntu]].
 
 - La durée de support LTS « 3-4 ans » est discutée par le résumé (5 ans en général).
 
-Résumés : [[OS - chp 3 (résumé)]]
+Résumés : [[3 - OS (résumé)]]

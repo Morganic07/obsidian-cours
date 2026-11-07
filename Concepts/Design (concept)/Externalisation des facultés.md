@@ -12,4 +12,4 @@ Exemples du cours : une application de cartographie externalise le sens de l'ori
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Machine textuelle]], [[Hypomnémata]].
 
-Résumés : [[chp 2 - sémiotique (résumé)]]
+Résumés : [[2 - sémiotique (résumé)]]

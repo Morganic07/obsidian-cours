@@ -8,7 +8,7 @@ aliases:
   - nerf vague dorsal
   - nerfs vagues dorsaux
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -20,4 +20,4 @@ Nommés dans le dernier cours de Corps à l'oeuvre, sans explication : le systè
 
 Notion parente : [[Mécanique du stress]].
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

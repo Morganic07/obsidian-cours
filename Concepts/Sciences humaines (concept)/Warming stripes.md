@@ -14,4 +14,4 @@ Notion parente : [[Effet de serre]].
 
 « bandes de réchauffement » n'est pas dans le cours.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

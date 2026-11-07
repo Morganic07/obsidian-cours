@@ -18,4 +18,4 @@ Voir aussi : [[Communs numériques]], [[Manifeste pour le vivant]].
 
 Le cours parle des « Communs » en général, pas des communs numériques : la page [[Communs numériques]] ne correspond pas exactement.
 
-Résumés : [[chp 4 - Culture du vivant (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]]

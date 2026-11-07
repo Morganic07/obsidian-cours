@@ -11,4 +11,4 @@ Un bit est un chiffre, 0 ou 1. Un octet (byte) est fait de 8 bits ; le cours tie
 
 Notion parente : [[Adressage IPv4 et CIDR]]. Voir aussi : [[Numération binaire]].
 
-Résumés : [[IP Addressing (résumé)]]
+Résumés : [[2 - IP Addressing (résumé)]]

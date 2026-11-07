@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [Percentile d'une loi continue, (100p)th percentile, percentile of a distribution, median of a continuous distribution, médiane d'une loi continue, quantiles, z_α, percentile, percentiles]
-matieres: [Probability, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]", "[[chp 4 - Part 2 - Inferential statistics (résumé)|Chp4 Part2 - Inferential statistics]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - Percentile d'une loi continue
+  - (100p)th percentile
+  - percentile of a distribution
+  - median of a continuous distribution
+  - médiane d'une loi continue
+  - quantiles
+  - z_α
+  - percentile
+  - percentiles
+matieres:
+  - Probability
+  - Statistics
+  - Data analysis (Thanos)
+sources:
+  - "[[5 - Continuous random variable (résumé)|Chp 5 - Continuous random variable]]"
+  - "[[4 - Inferential statistics 2 (résumé)|Chp4 Part2 - Inferential statistics]]"
 maj: 2026-11-06
 ---
 
@@ -25,4 +41,4 @@ Pour un échantillon, voir [[Quartiles et valeurs aberrantes]].
 
 Notion parente : [[Fonction de répartition]]. Voir aussi : [[Méthode de la fonction de répartition inverse]], [[Valeur critique]], [[Intervalle de confiance]], [[Loi normale]].
 
-Résumés : [[chp 5 - Continuous random variable (résumé)]], [[chp 4 - Part 2 - Inferential statistics (résumé)]], [[Summary functions in RStudio (résumé)]]
+Résumés : [[5 - Continuous random variable (résumé)]], [[4 - Inferential statistics 2 (résumé)]], [[14 - functions in RStudio (résumé)]]

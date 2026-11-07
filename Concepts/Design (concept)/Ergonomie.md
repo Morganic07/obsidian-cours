@@ -35,4 +35,4 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Accessibilité]], [
 
 - Le terme anglais usuel est « ergonomics », non « ergonomy ».
 
-Résumés : [[englis (résumé)]], [[chp 1 - UX (résumé)]], [[chp 2 - sémiotique (résumé)]], [[chp 1 - culture du soin (résumé)]]
+Résumés : [[englis (résumé)]], [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[1 - culture du soin (résumé)]]

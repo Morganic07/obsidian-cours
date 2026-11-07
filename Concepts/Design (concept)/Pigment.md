@@ -7,7 +7,7 @@ aliases:
 matieres:
   - Peinture
 sources:
-  - "[[chp 3 (résumé)|Cours 3]]"
+  - "[[3 - Peinture (résumé)|Cours 3]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Exemples du cours : le **blanc de Meudon** (un blanc qui part à l'eau) ; le **r
 
 Voir aussi : [[Liant et diluant]], [[Gouache]], [[Tempera]], [[Encaustique]].
 
-Résumés : [[chp 3 (résumé)]]
+Résumés : [[3 - Peinture (résumé)]]

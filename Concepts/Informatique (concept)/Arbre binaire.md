@@ -7,7 +7,7 @@ sources: ["[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.p
 maj: 2026-11-06
 ---
 
-Un arbre binaire est une structure de données hiérarchique où chaque nœud a au plus deux fils. Cours d'[[Algo (index)]].
+Un arbre binaire est une structure de données hiérarchique où chaque nœud a au plus deux fils. Cours d'[[Cours/Informatique (cours)/Algo (cours)/Algo (index)]].
 
 ## Définition récursive
 
@@ -60,4 +60,4 @@ Sur l'arbre parfait de hauteur 2 de racine 1 (fils 2 et 5, petits-fils 3, 4, 6, 
 
 Notion parente : [[Arbre m-aire]].
 
-Résumés : [[chp 4 - Arbres binaires (résumé)|Chapitre 4 (résumé)]], [[chp 3 - Arbres (résumé)|Chapitre 3 (résumé)]], [[chp 5 - ABR (résumé)]]
+Résumés : [[4 - Arbres binaires (résumé)|Chapitre 4 (résumé)]], [[3 - Arbres (résumé)|Chapitre 3 (résumé)]], [[5 - ABR (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Combinaison, combination, combinations, combinaisons, nCk, combinaison avec répétition]
 matieres: [Probability]
-sources: ["[[chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
+sources: ["[[3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Exemple : choisir 3 éléments parmi $\{a,b,c,d,e\}$ donne $60/6=10$ combinaison
 
 Notion parente : [[Dénombrement]]. Voir aussi : [[Loi binomiale]], [[Loi hypergéométrique]].
 
-Résumés : [[chp 3 - Combinatorics (résumé)]]
+Résumés : [[3 - Combinatorics (résumé)]]

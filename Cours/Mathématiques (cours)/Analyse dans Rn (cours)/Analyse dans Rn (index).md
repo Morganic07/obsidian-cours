@@ -1,7 +1,7 @@
 ---
 type: matiere
 tags: [year2]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[chp 3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]", "[[chp 4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[chp 5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[3 - Limite et continuité d’applications (résumé)|Chp 3 - Limite et continuité d’applications]]", "[[4 - Calcul différentiel du premier ordre (résumé)|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur (résumé)|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
 maj: 2026-11-06
 ---
 
@@ -11,10 +11,10 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 2 - éléments de topologie dans Rn (résumé)\|Chp 2 - éléments de topologie dans Rn]] | Normes, boules, ouverts, adhérence | [[chp 2 - éléments de topologie dans Rn (résumé)\|Résumé]] |
-| [[chp 3 - Limite et continuité d’applications (résumé)\|Chp 3 - Limite et continuité d’applications]] | Limites, continuité, lipschitz | [[chp 3 - Limite et continuité d’applications (résumé)\|Résumé]] |
-| [[chp 4 - Calcul différentiel du premier ordre (résumé)\|Chp 4 - Calcul différentiel du premier ordre]] | Différentielle, gradient, EDP d'ordre 1 | [[chp 4 - Calcul différentiel du premier ordre (résumé)\|Résumé]] |
-| [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)\|Chp 5 - Calcul différentiel d'ordre supérieur]] | Classe $\mathcal{C}^k$, Schwarz, EDP d'ordre 2 | [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)\|Résumé]] |
+| [[2 - éléments de topologie dans Rn (résumé)\|Chp 2 - éléments de topologie dans Rn]] | Normes, boules, ouverts, adhérence | [[2 - éléments de topologie dans Rn (résumé)\|Résumé]] |
+| [[3 - Limite et continuité d’applications (résumé)\|Chp 3 - Limite et continuité d’applications]] | Limites, continuité, lipschitz | [[3 - Limite et continuité d’applications (résumé)\|Résumé]] |
+| [[4 - Calcul différentiel du premier ordre (résumé)\|Chp 4 - Calcul différentiel du premier ordre]] | Différentielle, gradient, EDP d'ordre 1 | [[4 - Calcul différentiel du premier ordre (résumé)\|Résumé]] |
+| [[5 - Calcul différentiel d'ordre supérieur (résumé)\|Chp 5 - Calcul différentiel d'ordre supérieur]] | Classe $\mathcal{C}^k$, Schwarz, EDP d'ordre 2 | [[5 - Calcul différentiel d'ordre supérieur (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -25,10 +25,10 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 
 ## À revoir en priorité avant un examen
 
-- [[chp 3 - Limite et continuité d’applications (résumé)]] : « lipschitzien ⇔ uniformément continue » est faux, seule l'implication ⇒ est vraie. De plus, un résultat en polaires indépendant de $\theta$ ne suffit pas à prouver une limite.
-- [[chp 2 - éléments de topologie dans Rn (résumé)]] : le cas d'égalité de l'inégalité triangulaire demande $\lambda \ge 0$.
-- [[chp 4 - Calcul différentiel du premier ordre (résumé)]] : les dérivées d'une fonction différentiable ne sont « pas forcément » continues.
-- [[chp 5 - Calcul différentiel d'ordre supérieur (résumé)]] : la limite qui définit la dérivée croisée a un terme faux.
+- [[3 - Limite et continuité d’applications (résumé)]] : « lipschitzien ⇔ uniformément continue » est faux, seule l'implication ⇒ est vraie. De plus, un résultat en polaires indépendant de $\theta$ ne suffit pas à prouver une limite.
+- [[2 - éléments de topologie dans Rn (résumé)]] : le cas d'égalité de l'inégalité triangulaire demande $\lambda \ge 0$.
+- [[4 - Calcul différentiel du premier ordre (résumé)]] : les dérivées d'une fonction différentiable ne sont « pas forcément » continues.
+- [[5 - Calcul différentiel d'ordre supérieur (résumé)]] : la limite qui définit la dérivée croisée a un terme faux.
 
 ## Liens avec les autres matières
 

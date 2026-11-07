@@ -14,9 +14,9 @@ matieres:
   - Algèbre Linéaire
   - Data analysis (Thanos)
 sources:
-  - "[[chp 0b - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
-  - "[[chp 4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
-  - "[[Summary functions in RStudio (résumé)|Summary functions in RStudio]]"
+  - "[[0 - Matrix algebra (résumé)|Chp 0b - Matrix algebra]]"
+  - "[[4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]]"
+  - "[[14 - functions in RStudio (résumé)|Summary functions in RStudio]]"
 maj: 2026-11-06
 ---
 
@@ -32,6 +32,6 @@ Notion parente : [[Matrice]]. Liens : [[Matrice symétrique]], [[Déterminant]],
 
 ## À vérifier
 
-- [[chp 4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]] ne donne que le format de la transposée, pas la règle $a'_{ij} = a_{ji}$.
+- [[4 - Algèbre linéaire (résumé)|chp4 (Algèbre)]] ne donne que le format de la transposée, pas la règle $a'_{ij} = a_{ji}$.
 
-Résumés : [[chp 0b - Matrix algebra (résumé)]], [[chp 0c - Determinants (résumé)]], [[chp 4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[Summary functions in RStudio (résumé)]]
+Résumés : [[0 - Matrix algebra (résumé)]], [[0 - Determinants (résumé)]], [[4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[14 - functions in RStudio (résumé)]]

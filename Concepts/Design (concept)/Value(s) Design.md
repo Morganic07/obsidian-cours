@@ -23,4 +23,4 @@ Voir aussi : [[Grille du management de la valeur]], [[Analyse fonctionnelle]], [
 
 - Le diaporama écrit aussi « Value(ds) Design » (coquille).
 
-Résumé : [[chp 1 - innovation (résumé)]]
+Résumé : [[1 - innovation (résumé)]]

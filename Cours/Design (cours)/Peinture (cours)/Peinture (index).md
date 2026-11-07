@@ -3,9 +3,9 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[chp 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
-  - "[[chp 2 (résumé)|Cours 2 (Peinture)]]"
-  - "[[chp 3 (résumé)|Cours 3 (Peinture)]]"
+  - "[[1 - Peinture (résumé)|Cours 1 (Peinture)]]"
+  - "[[2 - Peinture (résumé)|Cours 2 (Peinture)]]"
+  - "[[3 - Peinture (résumé)|Cours 3 (Peinture)]]"
 maj: 2026-11-06
 ---
 
@@ -15,9 +15,9 @@ Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
 
 | Note | Résumé |
 |---|---|
-| [[chp 1 - Peinture (résumé)\|Cours 1]] (symbolique, cercle chromatique) | [[chp 1 - Peinture (résumé)\|Résumé]] |
-| [[chp 2 (résumé)\|Cours 2]] (couleur et contexte, complémentaires) | [[chp 2 (résumé)\|Résumé]] |
-| [[chp 3 (résumé)\|Cours 3]] (fabriquer ses couleurs) | [[chp 3 (résumé)\|Résumé]] |
+| [[1 - Peinture (résumé)\|Cours 1]] (symbolique, cercle chromatique) | [[1 - Peinture (résumé)\|Résumé]] |
+| [[2 - Peinture (résumé)\|Cours 2]] (couleur et contexte, complémentaires) | [[2 - Peinture (résumé)\|Résumé]] |
+| [[3 - Peinture (résumé)\|Cours 3]] (fabriquer ses couleurs) | [[3 - Peinture (résumé)\|Résumé]] |
 
 ## Concepts
 

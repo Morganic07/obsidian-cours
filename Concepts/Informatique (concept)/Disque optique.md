@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [optical disk, Blu-ray]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommé dans le chp 1 sans définition : stockage tertiaire, surtout pour l'archi
 
 Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Bande magnétique]], [[Image ISO]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

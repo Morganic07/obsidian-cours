@@ -13,4 +13,4 @@ Exercice proposé : quelle vulnérabilité l'objet prétend-il prendre en charge
 
 Notion parente : [[Soin (care)]].
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

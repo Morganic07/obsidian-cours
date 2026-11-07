@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Solid-State Drive, Solid State Drive, mémoire flash]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]", "[[OS - chp 2 (résumé)|OS - chp 2]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[2 - OS (résumé)|OS - chp 2]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Disque dur]], [[NVM
 
 - Le cours écrit « SSD (disque dur) » : le SSD n'est pas un disque dur au sens du HDD.
 
-Résumés : [[OS - chp 1 (résumé)]], [[OS - chp 2 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[2 - OS (résumé)]]

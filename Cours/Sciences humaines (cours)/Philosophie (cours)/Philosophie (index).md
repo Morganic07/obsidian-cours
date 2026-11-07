@@ -4,13 +4,13 @@ tags:
   - year1
   - year2
 sources:
-  - "[[chp 1 - philo (résumé)|L'état (Philosophie)]]"
-  - "[[chp 2 - philo (résumé)|liberté et moralité]]"
-  - "[[chp 3 - philo (résumé)|philo 1]]"
-  - "[[chp 4 - philo (résumé)|philo 2]]"
-  - "[[chp 5 - philo (résumé)|philo 3]]"
-  - "[[chp 6 - philo (résumé)|philo 4]]"
-  - "[[chp 7 - philo (résumé)|philo 5]]"
+  - "[[1 - philo (résumé)|L'état (Philosophie)]]"
+  - "[[2 - philo (résumé)|liberté et moralité]]"
+  - "[[3 - philo (résumé)|philo 1]]"
+  - "[[4 - philo (résumé)|philo 2]]"
+  - "[[5 - philo (résumé)|philo 3]]"
+  - "[[6 - philo (résumé)|philo 4]]"
+  - "[[7 - philo (résumé)|philo 5]]"
 maj: 2026-11-06
 ---
 
@@ -24,8 +24,8 @@ Philosophie de 1re année, deux cours : l'état (septembre 2023) et la liberté 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 1 - philo (résumé)\|L'état (Philosophie)]] | Aristote contre Hobbes sur l'origine de l'état | [[chp 1 - philo (résumé)\|Résumé]] |
-| [[chp 2 - philo (résumé)\|liberté et moralité]] | Perfectibilité, technique, désir, Kant | [[chp 2 - philo (résumé)\|Résumé]] |
+| [[1 - philo (résumé)\|L'état (Philosophie)]] | Aristote contre Hobbes sur l'origine de l'état | [[1 - philo (résumé)\|Résumé]] |
+| [[2 - philo (résumé)\|liberté et moralité]] | Perfectibilité, technique, désir, Kant | [[2 - philo (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -53,11 +53,11 @@ Philosophie de 2e année, centrée sur la technique, la nature et le progrès. C
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 3 - philo (résumé)\|philo 1]] | Technique et nature, de l'Antiquité aux critiques modernes | [[chp 3 - philo (résumé)\|Résumé]] |
-| [[chp 4 - philo (résumé)\|philo 2]] | Maîtrise de la nature, de la cause à la loi | [[chp 4 - philo (résumé)\|Résumé]] |
-| [[chp 5 - philo (résumé)\|philo 3]] | Paysage, machine comme modèle, technique propre de l'homme | [[chp 5 - philo (résumé)\|Résumé]] |
-| [[chp 6 - philo (résumé)\|philo 4]] | Progrès, philosophie de l'histoire | [[chp 6 - philo (résumé)\|Résumé]] |
-| [[chp 7 - philo (résumé)\|philo 5]] | Machine et organisme, cybernétique, Simondon | [[chp 7 - philo (résumé)\|Résumé]] |
+| [[3 - philo (résumé)\|philo 1]] | Technique et nature, de l'Antiquité aux critiques modernes | [[3 - philo (résumé)\|Résumé]] |
+| [[4 - philo (résumé)\|philo 2]] | Maîtrise de la nature, de la cause à la loi | [[4 - philo (résumé)\|Résumé]] |
+| [[5 - philo (résumé)\|philo 3]] | Paysage, machine comme modèle, technique propre de l'homme | [[5 - philo (résumé)\|Résumé]] |
+| [[6 - philo (résumé)\|philo 4]] | Progrès, philosophie de l'histoire | [[6 - philo (résumé)\|Résumé]] |
+| [[7 - philo (résumé)\|philo 5]] | Machine et organisme, cybernétique, Simondon | [[7 - philo (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -69,7 +69,7 @@ Philosophie de 2e année, centrée sur la technique, la nature et le progrès. C
 
 ### À revoir en priorité
 
-Attribution à vérifier dans philo 3 : la citation de Hegel est rattachée au *Discours de la méthode* (voir [[chp 5 - philo (résumé)|philo 3 (résumé)]]).
+Attribution à vérifier dans philo 3 : la citation de Hegel est rattachée au *Discours de la méthode* (voir [[5 - philo (résumé)|philo 3 (résumé)]]).
 
 ### Liens avec les autres matières
 

@@ -19,4 +19,4 @@ Notion parente : [[Ensembles de nombres]]. Voir aussi : [[Densité de ℚ dans �
 
 - td1slides, exercice 3 : la contradiction $2^p = 3^q$ n'est pas justifiée dans le corrigé (argument de parité, avec $p, q > 0$).
 
-Résumés : [[chp 1 - reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]

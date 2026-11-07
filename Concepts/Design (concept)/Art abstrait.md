@@ -6,7 +6,7 @@ tags:
 aliases:
   - abstract art
 sources:
-  - "[[chp 1 - Peinture (résumé)|Cours 1 (Peinture)]]"
+  - "[[1 - Peinture (résumé)|Cours 1 (Peinture)]]"
   - "[[englis (résumé)|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
@@ -17,4 +17,4 @@ Art qui ne représente pas la réalité et ne reproduit pas le monde réel (déf
 
 Voir aussi : [[Expressionnisme abstrait]].
 
-Résumés : [[chp 1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[englis (résumé)]]
+Résumés : [[1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[englis (résumé)]]

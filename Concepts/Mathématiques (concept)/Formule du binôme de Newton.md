@@ -19,4 +19,4 @@ Notion parente : [[Dénombrement]]. Voir aussi : [[Coefficient binomial]], [[Ré
 - Le nom « formule du binôme » n'apparaît pas dans la feuille d'exercices d'Outil Maths (vérifié sur l'image) ; il vient du résumé.
 - Exercice 18 : « $n \geq p \geq q$ » doit se lire $n \geq p \geq k$.
 
-Résumés : [[chp 0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]

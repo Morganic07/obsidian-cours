@@ -5,7 +5,7 @@ tags:
 aliases:
   - opérateur ->
 sources:
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -13,4 +13,4 @@ Accès au champ d'une structure à travers un pointeur : `nouveau->valeur` équi
 
 Notion parente : [[Structure (struct)]]. Voir aussi : [[Pointeur et adresse mémoire]], [[Liste chaînée]].
 
-Résumés : [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

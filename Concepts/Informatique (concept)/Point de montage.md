@@ -11,4 +11,4 @@ Répertoires spéciaux qui indiquent où les partitions sont montées, pour acc�
 
 Notion parente : [[Répertoire racine]]. Voir aussi : [[Partition (disque)]].
 
-Résumés : [[OS - chp 4 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

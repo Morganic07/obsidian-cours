@@ -19,4 +19,4 @@ Notion parente : [[Intégrale multiple]]. Voir aussi : [[Partie compacte]].
 
 - Image lue : les notes écrivent « Élément compact de 1e type », pas « compact élémentaire » comme le résumé ; le terme usuel est « compact élémentaire ». Titre de la page à valider.
 
-Résumés : [[chp 9 - intégrales multiples (résumé)]]
+Résumés : [[2 - intégrales multiples (résumé)]]

@@ -5,7 +5,7 @@ tags:
 aliases:
   - haut de bilan
 sources:
-  - "[[chp 1 - gestion financière (résumé)|Gestion financière]]"
+  - "[[1 - gestion financière (résumé)|Gestion financière]]"
 maj: 2026-11-07
 ---
 
@@ -13,7 +13,7 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommées dans la note de [[chp 1 - gestion financière (résumé)|Gestion financière]] sans définition : ce sont la mission de la banque d'investissement.
+Nommées dans la note de [[1 - gestion financière (résumé)|Gestion financière]] sans définition : ce sont la mission de la banque d'investissement.
 
 Notion parente : [[Types de banque]].
 
@@ -21,4 +21,4 @@ Notion parente : [[Types de banque]].
 
 - La note écrit « haut bilan ».
 
-Résumés : [[chp 1 - gestion financière (résumé)]]
+Résumés : [[1 - gestion financière (résumé)]]

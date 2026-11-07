@@ -1,9 +1,25 @@
 ---
 type: concept
-tags: [year2, year3]
-aliases: [combinatorics, combinatoire, binomial coefficient, principe fondamental du dénombrement, permutations et combinaisons, Fundamental counting principle, product rule, k-tuple, k-uplet, arbre de décision du dénombrement]
-matieres: [Probability, Statistics]
-sources: ["[[chp 3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]", "[[probabilité statistiques utilitaire (résumé)|probabilité statistiques utilitaire]]"]
+tags:
+  - year2
+  - year3
+aliases:
+  - combinatorics
+  - combinatoire
+  - binomial coefficient
+  - principe fondamental du dénombrement
+  - permutations et combinaisons
+  - Fundamental counting principle
+  - product rule
+  - k-tuple
+  - k-uplet
+  - arbre de décision du dénombrement
+matieres:
+  - Probability
+  - Statistics
+sources:
+  - "[[3 - Combinatorics (résumé)|Chp 3 - Combinatorics]]"
+  - "[[0 - proba&stats utilitaire (résumé)|probabilité statistiques utilitaire]]"
 maj: 2026-11-06
 ---
 
@@ -29,4 +45,4 @@ Voir aussi : [[Permutation (dénombrement)]], [[Combinaison (dénombrement)]], [
 - $\binom{n+k-1}{k}$ n'est pas démontré dans le cours.
 - Chp 3 : « 𝒏_𝒌 » est à lire $n^k$.
 
-Résumés : [[chp 3 - Combinatorics (résumé)]], [[probabilité statistiques utilitaire (résumé)]]
+Résumés : [[3 - Combinatorics (résumé)]], [[0 - proba&stats utilitaire (résumé)]]

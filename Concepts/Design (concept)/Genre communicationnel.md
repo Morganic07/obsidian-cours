@@ -17,4 +17,4 @@ Exemples du cours, sur les applications de reconnaissance du vivant :
 
 Notion parente : [[Dispositif (communication)]]. Voir aussi : [[Impératif de productivité]].
 
-Résumés : [[chp 3 - sémiotique (résumé)]]
+Résumés : [[3 - sémiotique (résumé)]]

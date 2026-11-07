@@ -3,8 +3,8 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[chp 4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"
-  - "[[chp 5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
+  - "[[4 - dérivabilité (résumé)|Chp4 - dérivabilité]]"
+  - "[[5 - Analyse Maths (résumé)|chp5 (Analyse)]]"
 maj: 2026-11-06
 ---
 
@@ -14,16 +14,16 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 
 | Note | Sujet | Résumé |
 |---|---|---|
-| [[chp 4 - dérivabilité (résumé)\|Chp4 - dérivabilité]] | Dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis | [[chp 4 - dérivabilité (résumé)\|Résumé]] |
-| [[chp 5 - Analyse Maths (résumé)\|chp5]] | Équivalents, développements limités | [[chp 5 - Analyse Maths (résumé)\|Résumé]] |
+| [[4 - dérivabilité (résumé)\|Chp4 - dérivabilité]] | Dérivation, classe $\mathcal{C}^n$, Rolle, accroissements finis | [[4 - dérivabilité (résumé)\|Résumé]] |
+| [[5 - Analyse Maths (résumé)\|chp5]] | Équivalents, développements limités | [[5 - Analyse Maths (résumé)\|Résumé]] |
 
 ## Documents PDF
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| AnalyseID1 | Polycopié complet (chapitres 0 à 5, avec TD) | [[AnalyseID1 (résumé)]] |
-| Chap0-Rappels-etc | Inégalités, valeur absolue, sigma et pi, binôme | [[chp 0 - Rappels-etc (résumé)]] |
-| Chap1-reels | $\mathbb{R}$, borne supérieure, partie entière, densité de $\mathbb{Q}$ | [[chp 1 - reels (résumé)]] |
+| AnalyseID1 | Polycopié complet (chapitres 0 à 5, avec TD) | [[0 - rappels pdf]] |
+| Chap0-Rappels-etc | Inégalités, valeur absolue, sigma et pi, binôme | [[0 - Rappels-etc (résumé)]] |
+| Chap1-reels | $\mathbb{R}$, borne supérieure, partie entière, densité de $\mathbb{Q}$ | [[1 - Ensemble des Reels (résumé)]] |
 | TD0-Rappel | Inégalités, sommes, trigonométrie (énoncés) | [[TD0-Rappel (résumé)]] |
 | td0slides | Corrigé du TD0 en diapositives | [[td0slides (résumé)]] |
 | TD1-numbres-reels | Réels, bornes, partie entière (énoncés) | [[TD1-numbres-reels (résumé)]] |
@@ -47,8 +47,8 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 
 ## À revoir en priorité avant un examen
 
-- [[chp 4 - dérivabilité (résumé)]] : une fonction strictement croissante peut avoir une dérivée qui s'annule, comme $x^3$.
-- [[chp 4 - dérivabilité (résumé)]] : la formule de la réciproque demande que $f'$ ne s'annule pas, et non $f$.
+- [[4 - dérivabilité (résumé)]] : une fonction strictement croissante peut avoir une dérivée qui s'annule, comme $x^3$.
+- [[4 - dérivabilité (résumé)]] : la formule de la réciproque demande que $f'$ ne s'annule pas, et non $f$.
 - [[td1slides (résumé)]] et [[DS1-correction-2021 (résumé)]] : les corrigés écrivent $]-1, 1[$ pour $(2E(x)+1)^2 < 4$, alors que la solution est $[-1, 1[$.
 - [[TDSuites (résumé)]] : une suite périodique n'est pas forcément divergente.
 - Pour une suite récurrente ou une limite par la définition, suivre les schémas de [[Suite numérique]] et de [[TDSuites (résumé)]].
@@ -60,4 +60,4 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 - **Year 3, Séries** : Taylor et DL y reviennent, à relier lors de son intégration.
 - **[[Séries (index)]]** : la [[Série numérique]], le [[Critère de d'Alembert et de Cauchy]] et le [[Théorème des gendarmes]], vus ici avec les suites, y sont repris.
 - **[[Outil Maths (index)]]** : [[Quantificateur]], [[Relation d'ordre]], [[Nombre complexe]] et [[Polynôme]] y sont traités en détail.
-- **[[Algo Maths (index)]]** : [[Récurrence]], [[Factorielle]], [[Suite de Fibonacci]] et [[Recherche dichotomique]].
+- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : [[Récurrence]], [[Factorielle]], [[Suite de Fibonacci]] et [[Recherche dichotomique]].

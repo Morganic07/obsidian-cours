@@ -5,7 +5,7 @@ tags:
 aliases:
   - mots réservés
 sources:
-  - "[[chp 1 - basiques (résumé)|Chp1 - basiques]]"
+  - "[[1 - basiques (résumé)|Chp1 - basiques]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Règles de nommage associées : pas d'espace ni de `-`, pas de chiffre en premi�
 
 Notion parente : [[Langage C]]. Voir aussi : [[Type primitif]].
 
-Résumés : [[chp 1 - basiques (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

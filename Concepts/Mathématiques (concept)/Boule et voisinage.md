@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [boule ouverte, boules ouvertes, boule fermée, boules fermées, voisinage, voisinages, sphère de centre a, boule unité, intersection de voisinages]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse, Séries]
-sources: ["[[chp 2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[chp 0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"]
+sources: ["[[2 - éléments de topologie dans Rn (résumé)|Chp 2 - éléments de topologie dans Rn]]", "[[0 - Revision chapter (résumé)|Chp0 - Revision chapter]]"]
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Notion parente : [[Norme]]. Voir aussi : [[Ouvert et fermé]], [[Espace séparé
 - Propriété 7 du Chp 2 : « $r < r' \iff B(a,r) \subset B(a,r')$ » est faux pour $r = r'$.
 - Figure de la boule pour $\|\cdot\|_1$ : étiquette $y = x - 1$, image non ouverte.
 
-Résumés : [[chp 2 - éléments de topologie dans Rn (résumé)]], [[chp 0 - Revision chapter (résumé)]]
+Résumés : [[2 - éléments de topologie dans Rn (résumé)]], [[0 - Revision chapter (résumé)]]

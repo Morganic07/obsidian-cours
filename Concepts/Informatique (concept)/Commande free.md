@@ -1,9 +1,14 @@
 ---
 type: concept
-tags: [year2]
-aliases: [free -h]
-matieres: [Operating System]
-sources: ["[[Commandes Shell + explications (résumé)|Commandes Shell + explications]]", "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"]
+tags:
+  - year2
+aliases:
+  - free -h
+matieres:
+  - Operating System
+sources:
+  - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
+  - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
 maj: 2026-11-06
 ---
 
@@ -11,4 +16,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Mémoire vive]], [[Espace d'échange (swap)]], [[Commande df]].
 
-Résumés : [[Commandes Shell + explications (résumé)]], [[Séance TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[UNIX Commands - Semester report (résumé)]]

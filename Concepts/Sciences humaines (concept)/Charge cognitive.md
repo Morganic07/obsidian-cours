@@ -14,4 +14,4 @@ Nommée dans la première séance de culture du soin sans définition : avec l'e
 
 Notion parente : [[Conception centrée sur l'humain]]. Voir aussi : [[Ergonomie]], [[Charge mentale]].
 
-Résumés : [[chp 1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

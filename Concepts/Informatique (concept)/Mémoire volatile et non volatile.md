@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [volatile storage, nonvolatile storage, nonvolatile memory, mémoire volatile, mémoire non volatile]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -10,4 +10,4 @@ Sur la pyramide du stockage, une ligne sépare le stockage **volatile** (registr
 
 Notion parente : [[Hiérarchie de stockage]]. Voir aussi : [[Mémoire vive]], [[SSD]], [[Mémoire morte]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

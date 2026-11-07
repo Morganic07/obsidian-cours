@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [VLAN, VLANs, V-LAN, Inter VLAN Routing, InterVLANRouting, routage inter-VLAN, lien trunk, trunk link, access link, switchport mode access, switchport mode trunk, VLAN 1, VLAN par défaut, IVR]
 matieres: [Computer Network]
-sources: ["[[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
+sources: ["[[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]]"]
 maj: 2026-11-06
 ---
 
@@ -22,6 +22,6 @@ Liens : [[Domaine de diffusion]], [[Sous-interface]], [[Encapsulation 802.1Q]], 
 
 ## À vérifier
 
-- Le document [[chp 4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]] s'intitule « Chp5 : VLANs and InterVLANRouting » alors que c'est le chapitre 4.
+- Le document [[4 - VLAN ／ IVR Commands (résumé)|Chp4 - VLAN ／ IVR Commands]] s'intitule « Chp5 : VLANs and InterVLANRouting » alors que c'est le chapitre 4.
 
-Résumés : [[chp 4 - VLAN ／ IVR Commands (résumé)]], [[chp 3 - Dynamic Routing (résumé)]]
+Résumés : [[4 - VLAN ／ IVR Commands (résumé)]], [[3 - Dynamic Routing (résumé)]]

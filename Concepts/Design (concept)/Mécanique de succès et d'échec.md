@@ -6,7 +6,7 @@ aliases:
   - mécanique de succès
   - mécanique d'échec
 sources:
-  - "[[chp 2 - corps à l'oeuvre (résumé)|Dernier cours]]"
+  - "[[2 - corps à l'oeuvre (résumé)|Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Chercher ce que l'on fait dans toutes ses histoires de succès ou d'échec : la 
 
 Voir aussi : [[Geste]].
 
-Résumés : [[chp 2 - corps à l'oeuvre (résumé)]]
+Résumés : [[2 - corps à l'oeuvre (résumé)]]

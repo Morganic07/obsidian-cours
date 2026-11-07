@@ -7,8 +7,8 @@ aliases:
   - pass by value
   - paramètres par référence
 sources:
-  - "[[chp 2 - structures code (résumé)|chp2 - structures code]]"
-  - "[[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+  - "[[2 - structures code (résumé)|chp2 - structures code]]"
+  - "[[3 - pointeurs , tableaux, listes chainées, structures (résumé)|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Notion parente : [[Fonction et procédure]]. Voir aussi : [[Pile d'exécution]],
 - Le texte de la version par valeur écrit `echange(&var1, &var2)` au lieu de `echange(var1, var2)` (relevé du résumé).
 - Le titre du cours parle de « paramètres par référence » alors qu'il s'agit de passage par adresse.
 
-Résumés : [[chp 2 - structures code (résumé)]], [[chp 3 - pointeurs , tableaux, listes chainées, structures (résumé)]]
+Résumés : [[2 - structures code (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]]

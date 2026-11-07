@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [DLM, Distributed Lock Manager]
 matieres: [Operating System]
-sources: ["[[OS - chp 1 (résumé)|OS - chp 1]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Le DLM (Distributed Lock Manager) gère des verrous distribués : il empêche pl
 
 Notion parente : [[Système en grappe (cluster)]].
 
-Résumés : [[OS - chp 1 (résumé)]]
+Résumés : [[1 - OS (résumé)]]

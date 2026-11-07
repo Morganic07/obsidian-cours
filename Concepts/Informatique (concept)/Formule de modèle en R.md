@@ -7,11 +7,11 @@ aliases:
   - model formula
   - opérateurs dans une formule
 sources:
-  - "[[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1]]"
+  - "[[1 - Data analysis (résumé)|Cours 1]]"
 maj: 2026-11-06
 ---
 
-Opérateurs d'une formule de modèle en R, d'après [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis)]] :
+Opérateurs d'une formule de modèle en R, d'après [[1 - Data analysis (résumé)|Cours 1 (Data analysis)]] :
 
 | Opérateur | Effet |
 |---|---|
@@ -24,4 +24,4 @@ Opérateurs d'une formule de modèle en R, d'après [[Séance 1 - Data analysis 
 
 Notion parente : [[Langage R]]. Voir aussi : [[Régression linéaire]], [[ANOVA]].
 
-Résumés : [[Séance 1 - Data analysis (Thanos) (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]
+Résumés : [[1 - Data analysis (résumé)|Cours 1 (Data analysis (Thanos), résumé)]]

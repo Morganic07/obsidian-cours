@@ -3,7 +3,7 @@ type: concept
 tags: [year2, year3]
 aliases: [Pythagorean Theorem, Pythagore]
 matieres: [Bilinear Algebra, Statistics, Data analysis (Thanos)]
-sources: ["[[chp 1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[chp 3 - More on probability (résumé)|Chp3 - More on probability]]", "[[Séance 13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
+sources: ["[[1 - Orthogonality (résumé)|chp 1 - Orthogonality]]", "[[3 - More on probability (résumé)|Chp3 - More on probability]]", "[[13 - Principal Components Analysis (résumé)|Cours 13 - Principal Components Analysis]]"]
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Orthogonalité]]. Voir aussi : [[Norme]], [[Covariance et corrélation]], [[Projection orthogonale]].
 
-Résumés : [[chp 1 - Orthogonality (résumé)]], [[chp 3 - More on probability (résumé)]], [[Séance 13 - Principal Components Analysis (résumé)]]
+Résumés : [[1 - Orthogonality (résumé)]], [[3 - More on probability (résumé)]], [[13 - Principal Components Analysis (résumé)]]

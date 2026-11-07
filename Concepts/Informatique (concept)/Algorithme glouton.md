@@ -3,7 +3,7 @@ type: concept
 tags: [year1, year4]
 aliases: [algorithmes gloutons, algo glouton, algos gloutons, greedy algorithm]
 matieres: [Algo Maths, graph theory]
-sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]", "[[chp 2 - tree (résumé)|Chp2 - tree]]"]
+sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]", "[[2 - tree (résumé)|Chp2 - tree]]"]
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ Exemples du cours :
 
 Le bloc encadré de `glouton_valeur` trie sans `reverse=True` (ordre croissant), contrairement au texte. La note de l'étudiant dit tenir son code de ChatGPT et met en garde : fiabilité faible.
 
-Résumés : [[explications DM d'algo (résumé)]], [[chp 2 - tree (résumé)]]
+Résumés : [[explications DM d'algo (résumé)]], [[2 - tree (résumé)]]

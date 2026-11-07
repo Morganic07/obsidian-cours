@@ -3,7 +3,7 @@ type: matiere
 tags:
   - year2
 sources:
-  - "[[chp 1 - écriture narrative (résumé)|écriture narrative]]"
+  - "[[1 - écriture narrative (résumé)|écriture narrative]]"
 maj: 2026-11-06
 ---
 
@@ -13,7 +13,7 @@ maj: 2026-11-06
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[chp 1 - écriture narrative (résumé)\|écriture narrative]] | Nouvelle à contraintes (ticket imposé) | [[chp 1 - écriture narrative (résumé)\|Résumé]] |
+| [[1 - écriture narrative (résumé)\|écriture narrative]] | Nouvelle à contraintes (ticket imposé) | [[1 - écriture narrative (résumé)\|Résumé]] |
 
 ## Concepts
 

@@ -1,9 +1,19 @@
 ---
 type: concept
-tags: [year2]
-aliases: [sudoers, visudo, NOPASSWD, timestamp_timeout, sudo sans mot de passe, sudo passwordless]
-matieres: [Operating System]
-sources: ["[[séance TP1 (résumé)|cours TP1]]", "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"]
+tags:
+  - year2
+aliases:
+  - sudoers
+  - visudo
+  - NOPASSWD
+  - timestamp_timeout
+  - sudo sans mot de passe
+  - sudo passwordless
+matieres:
+  - Operating System
+sources:
+  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +28,4 @@ Notion parente : [[Commande sudo]].
 
 - Incohérence dans l'image d'origine : 15 minutes dans le texte, 30 minutes dans la parenthèse (signalée par la transcription et le résumé).
 
-Résumés : [[séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP6-Assignment (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP6-Assignment (résumé)]], [[UNIX Commands - Semester report (résumé)]]

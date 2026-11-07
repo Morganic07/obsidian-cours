@@ -12,4 +12,4 @@ En Python, la transmission est toujours par valeur, mais la valeur transmise est
 
 Notion parente : [[Fonction et procédure]]. Voir aussi : [[Portée d'une variable]], [[Pointeur et adresse mémoire]], [[Échange de deux variables]].
 
-Résumés : [[AlgoID1 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]]

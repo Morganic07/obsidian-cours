@@ -10,4 +10,4 @@ Au XXe siècle, on commence les observations participatives, en s'immergeant com
 
 Notion parente : [[Observation de terrain]]. Voir aussi : [[Réflexivité]].
 
-Résumés : [[chp 1 - Ethnographie visuelle (résumé)]]
+Résumés : [[1 - Ethnographie visuelle (résumé)]]

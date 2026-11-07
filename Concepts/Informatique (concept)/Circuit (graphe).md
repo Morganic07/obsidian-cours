@@ -11,4 +11,4 @@ Dans un [[Graphe orienté|graphe orienté]], un chemin $(u_0,\dots,u_k)$ forme u
 
 Notion parente : [[Graphe orienté]]. Voir aussi : [[Chemin (graphe)]], [[Cycle (graphe)]], [[Arborescence (graphe)]].
 
-Résumés : [[chp 3 - Arbres (résumé)]]
+Résumés : [[3 - Arbres (résumé)]]

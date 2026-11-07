@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [scheduler dispatch]
 matieres: [Operating System]
-sources: ["[[OS - chp 7 (résumé)|OS - chp7]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Composant qui effectue la commutation de contexte : quand le scheduler choisit u
 
 Notion parente : [[Changement de contexte]]. Voir aussi : [[Ordonnancement des processus]], [[États d'un processus]].
 
-Résumés : [[OS - chp 7 (résumé)]]
+Résumés : [[7 - OS (résumé)]]

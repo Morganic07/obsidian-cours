@@ -12,4 +12,4 @@ Exemples du cours : « smartphone » (l'objet devient intelligent), « cloud » 
 
 Notion parente : [[Analyse techno-sémiotique]]. Voir aussi : [[Imaginaire]], [[Discours d'escorte]].
 
-Résumés : [[chp 4 - sémiotique (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]]

@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Algèbre Linéaire
 sources:
-  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)|chp2]]"
+  - "[[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Pour une base $(v_1, \ldots, v_n)$ de $E$, $\mathrm{Im}(f) = \mathrm{vect}(f(v_1
 
 Notion parente : [[Transformation linéaire]]. Voir aussi : [[Espace nul]], [[Théorème du rang]], [[Espace engendré]], [[Espace des colonnes]], [[Image et image réciproque]], [[Injectivité et surjectivité]].
 
-Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/chp 2 - Algèbre linéaire (résumé)]]
+Résumés : [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]]
