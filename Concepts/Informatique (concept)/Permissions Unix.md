@@ -14,7 +14,7 @@ matieres:
   - Operating System
 sources:
   - "[[5 - OS (résumé)|OS - chp 5]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -34,4 +34,4 @@ Liens : [[Shell et Bash]], [[Script Bash]]
 
 - `chmod -R 444` sur un dossier retire aussi le droit `x` des sous-dossiers, ce qui empêche ensuite de les traverser (relevé du résumé).
 
-Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)|TP1 (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

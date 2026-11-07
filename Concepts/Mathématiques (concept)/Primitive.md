@@ -42,7 +42,7 @@ Une primitive de $f$, continue sur l'intervalle $I$, est une fonction $F$ de cla
 
 **Fonctions trigonométriques, [[Règles de Bioche]]** : avec $\omega(x) = f(x)\,dx$, si $\omega(-x) = \omega(x)$, poser $u = \cos x$. Si $\omega(\pi - x) = \omega(x)$, poser $u = \sin x$. Si $\omega(\pi + x) = \omega(x)$, poser $u = \tan x$. Sinon, $t = \tan(x/2)$ fonctionne toujours, avec $\cos x = \frac{1 - t^2}{1 + t^2}$, $\sin x = \frac{2t}{1 + t^2}$ et $dx = \frac{2\,dt}{1 + t^2}$.
 
-Les exercices de [[TD7-integration (1) (résumé)|TD7]] appliquent ces techniques (changements de variable, intégrations par parties répétées, fractions rationnelles). En Probability, la [[Fonction de répartition]] $F(x) = \int_{-\infty}^x f(y)\,dy$ est une primitive de la densité $f$ ([[5 - Continuous random variable (résumé)]]).
+Les exercices de [[Raw/Year 2/Analyse/chp7/TD7-integration (1).pdf|TD7]] appliquent ces techniques (changements de variable, intégrations par parties répétées, fractions rationnelles). En Probability, la [[Fonction de répartition]] $F(x) = \int_{-\infty}^x f(y)\,dy$ est une primitive de la densité $f$ ([[5 - Continuous random variable (résumé)]]).
 
 Notion parente : [[Intégrale]]. Voir aussi : [[Intégration par parties]], [[Changement de variable dans une intégrale]], [[Règles de Bioche]], [[Décomposition en éléments simples]], [[Dérivabilité]], [[Fonction de classe Ck]], [[Équation aux dérivées partielles]]
 
@@ -50,4 +50,4 @@ Notion parente : [[Intégrale]]. Voir aussi : [[Intégration par parties]], [[Ch
 
 - [[1 - Integration (résumé)|Chap7-Integration]] (point 2 du résumé) écrit « La primitive de $f$ est toute fonction » : il faudrait « Une primitive ».
 
-Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]], [[5 - Continuous random variable (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[5 - Continuous random variable (résumé)]]

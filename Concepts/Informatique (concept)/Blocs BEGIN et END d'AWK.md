@@ -23,4 +23,4 @@ Notion parente : [[AWK]]. Voir aussi : [[Variables intégrées d'AWK]].
 
 - Question h : la commande du rendu affiche `$0` au lieu de l'ID, du constructeur et de la puissance (signalé par les résumés).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

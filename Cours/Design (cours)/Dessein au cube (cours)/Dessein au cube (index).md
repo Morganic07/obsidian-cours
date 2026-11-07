@@ -3,8 +3,9 @@ type: matiere
 tags:
   - year1
 sources:
-  - "[[Synthèse (résumé)|Synthèse]]"
-  - "[[Untitled document (résumé)|Untitled document]]"
+  - "[[1 - inégalités alimentaires (résumé)]]"
+  - "[[2 - pistes entrevues (résumé)]]"
+  - "[[3 - Compte rendu (résumé)]]"
 maj: 2026-11-06
 ---
 
@@ -14,12 +15,12 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[Untitled document (résumé)\|Untitled document]] | Consignes du rendu | [[Untitled document (résumé)\|Résumé]] |
 | [[1 - inégalités alimentaires (résumé)\|Inégalités alimentaires]] | Problématique et questions | [[1 - inégalités alimentaires (résumé)\|Résumé]] |
 | [[2 - pistes entrevues (résumé)\|Pistes entrevue]] | Méthode d'entretien | [[2 - pistes entrevues (résumé)\|Résumé]] |
-| [[retranscription (résumé)\|retranscription]] et [[retranscription (résumé)\|1.0 retranscription entrevue]] | Entretien retranscrit | [[retranscription (résumé)\|Résumé]] |
 | [[3 - Compte rendu (résumé)\|Compte rendu]] | Rapport de l'enquête | [[3 - Compte rendu (résumé)\|Résumé]] |
-| [[Synthèse (résumé)\|Synthèse]] | Texte de synthèse | [[Synthèse (résumé)\|Résumé]] |
+| [[Raw/Year 1/Dessein au cube/Untitled document.docx\|Untitled document]] | Consignes du rendu | Pas de résumé |
+| [[Raw/Year 1/Dessein au cube/inégalités alimentaires/retranscription.docx\|retranscription]] et [[Raw/Year 1/Dessein au cube/inégalités alimentaires/1.0 retranscription entrevue.docx\|1.0 retranscription entrevue]] | Entretien retranscrit | Pas de résumé |
+| [[Raw/Year 1/Dessein au cube/Synthèse.docx\|Synthèse]] | Texte de synthèse | Pas de résumé |
 
 ## Concepts
 
@@ -28,7 +29,6 @@ Matière de 1re année : apprendre l'enquête de terrain par entretien, à trave
 
 ## Points d'attention
 
-- Les notes de retranscription semblent en double.
 - Des notes personnelles de cette matière sont volontairement absentes du coffre.
 
 ## Liens avec les autres matières

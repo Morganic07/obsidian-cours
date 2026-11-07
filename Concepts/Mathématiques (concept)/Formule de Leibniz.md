@@ -19,4 +19,4 @@ Notion parente : [[Fonction de classe Ck]]. Voir aussi : [[Formule du binôme de
 - Le cours écrit « Forume de Liebniz » (coquilles).
 - La formule est aussi citée dans le texte de [[Fonction de classe Ck]].
 
-Résumés : [[4 - dérivabilité (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]]

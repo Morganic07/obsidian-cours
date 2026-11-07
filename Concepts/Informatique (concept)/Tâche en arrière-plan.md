@@ -21,4 +21,4 @@ maj: 2026-11-06
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Commande jobs]], [[Commandes fg et bg]], [[Commande kill]], [[Processus]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

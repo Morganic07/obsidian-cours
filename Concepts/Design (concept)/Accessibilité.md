@@ -9,7 +9,7 @@ matieres:
   - Anglais
   - culture du soin
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
 maj: 2026-11-06
 ---
@@ -24,4 +24,4 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Ergonomie]], [[Conc
 
 Mot courant, sans doute présent dans d'autres cours de design : vérifier les liens créés après reconversion.
 
-Résumés : [[englis (résumé)]], [[1 - culture du soin (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]]

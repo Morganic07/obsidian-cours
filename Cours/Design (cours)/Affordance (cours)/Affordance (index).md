@@ -31,5 +31,4 @@ Les chiffres sur le nombre d'utilisateurs d'un test (5, 8 à 12, plus de 30) vie
 - [[Sémiotique (index)]] : autre approche d'analyse des interfaces (critique, non ergonomique).
 - [[SHS (index)]] : mêmes méthodes de recueil (entretien, observation).
 - [[SHS (index)]] : observation de terrain en ethnographie.
-- [[Anglais (index)]] : le glossaire d'anglais donne les équivalents de [[Ergonomie]], [[Parcours utilisateur]], [[Maquette (design)]] et [[Idéation]].
 - [[Projet design (Year 3) (index)]] : [[Test utilisateur]] et [[Idéation]] y reviennent aussi.

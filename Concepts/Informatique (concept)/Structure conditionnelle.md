@@ -28,7 +28,7 @@ matieres:
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
   - "[[2 - structures code (résumé)|chp2 - structures code]]"
 maj: 2026-11-06
@@ -50,4 +50,4 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Boucle (programmation)]], [[Év
 
 - Le cours de Java affirme « ELSE IF N'EXISTE PAS EN JAVA », ce qui est faux (à corriger avant un examen). Sans `break`, l'exécution continue au cas suivant ; `switch` accepte aussi `String` et `enum`.
 
-Résumés : [[0 - diapo prof (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[1 - basiques (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[8 - OS commandes sh (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[1 - basiques (résumé)]]

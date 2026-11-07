@@ -14,7 +14,7 @@ matieres:
   - Sémiotique
   - culture du soin
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"
   - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
@@ -35,4 +35,4 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Accessibilité]], [
 
 - Le terme anglais usuel est « ergonomics », non « ergonomy ».
 
-Résumés : [[englis (résumé)]], [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[1 - culture du soin (résumé)]]
+Résumés : [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[1 - culture du soin (résumé)]]

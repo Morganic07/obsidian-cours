@@ -16,4 +16,4 @@ Notion parente : [[Inclusion (ensembles)]]. Voir aussi : [[Image et image récip
 
 - Coquille du PDF (diapositive 9) : « $E \subset F$ et $F \subset F$ » au lieu de $F \subset E$.
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

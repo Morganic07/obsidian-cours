@@ -12,8 +12,7 @@ matieres:
   - Projet design
   - Projet Design
 sources:
-  - "[[Villeneuve (recherches)|idées solutions]]"
-  - "[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"
+  - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
   - "[[Bel-air (résumé)|Projet BLR]]"
   - "[[Melvita (résumé)|exposé melvita]]"
 maj: 2026-11-06
@@ -26,12 +25,12 @@ Lieu ni domicile ni travail, où des personnes se rencontrent, partagent des com
 - **Pratiques déviantes** : le « projet ruban coupé », la collectivité qui impose son lieu.
 - **Vie du lieu** : leviers cités par les tiers-lieux, l'effet réseau et le bouche à oreille (60 %), la communication et l'animation (30 %). Les tiers-lieux créent des emplois pour décharger les bénévoles (1,3 équivalent temps plein en moyenne).
 
-Exemples des projets : Caravilleneuve, un tiers-lieu mobile, issu d'un [[Atelier de co-conception|atelier avec des habitantes]] sur le [[Sentiment d'appartenance|sentiment d'appartenance]] ([[Prise parole Rendu final (résumé)|Prise parole Rendu final (résumé)]]) ; les tiers-lieux du quartier Bel-Air ([[Bel-air (résumé)|Projet BLR (résumé)]]) ; le lieu proche d'un tiers-lieu à thème ruche et biomimétisme proposé à Melvita ([[Melvita (résumé)|exposé melvita (résumé)]]).
+Exemples des projets : Caravilleneuve, un tiers-lieu mobile, issu d'un [[Atelier de co-conception|atelier avec des habitantes]] sur le [[Sentiment d'appartenance|sentiment d'appartenance]] (Prise parole Rendu final) ; les tiers-lieux du quartier Bel-Air ([[Bel-air (résumé)|Projet BLR (résumé)]]) ; le lieu proche d'un tiers-lieu à thème ruche et biomimétisme proposé à Melvita ([[Melvita (résumé)|exposé melvita (résumé)]]).
 
 Voir aussi : [[Démarche ascendante]], [[Étude-action]], [[Atelier de co-conception]], [[Greenwashing]], [[Sentiment d'appartenance]]
 
 ## À vérifier
 
-- Les chiffres et pratiques viennent des transcriptions des images du rapport, dans [[Villeneuve (recherches)|idées solutions]] : apostrophes rétablies, signalées « À vérifier » dans la note.
+- Les chiffres et pratiques viennent des transcriptions des images du rapport, dans [[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]] : apostrophes rétablies, signalées « À vérifier » dans la note.
 
-Résumés : [[Villeneuve (recherches)|idées solutions (résumé)]], [[Prise parole Rendu final (résumé)|Prise parole Rendu final (résumé)]], [[Bel-air (résumé)|Projet BLR (résumé)]], [[Melvita (résumé)|exposé melvita (résumé)]]
+Résumés : [[Bel-air (résumé)|Projet BLR (résumé)]], [[Melvita (résumé)|exposé melvita (résumé)]]

@@ -13,7 +13,7 @@ matieres:
   - Culture du vivant
   - SHS
 sources:
-  - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[2 - Culture du vivant (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
 maj: 2026-11-06
@@ -36,4 +36,4 @@ Voir aussi : [[Limites planétaires]], [[Biosphère]], [[Cartésianisme]], [[Eff
 - La note SHS écrit « entropocène » et « l'aire de l'homme ».
 - La citation de Descartes n'est pas donnée dans la note du COURS 2.
 
-Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|COURS 2 EXPLICATION (résumé)]], [[4 - Culture du vivant (résumé)]], [[1 - Ethnographie visuelle (résumé)]]
+Résumés : [[4 - Culture du vivant (résumé)]], [[1 - Ethnographie visuelle (résumé)]], [[2 - Culture du vivant (résumé)]]

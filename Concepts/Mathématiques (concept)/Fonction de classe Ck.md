@@ -25,4 +25,4 @@ Notion parente : [[Différentielle]] (plusieurs variables), [[Dérivabilité]] (
 - Chp 4 (Analyse dans Rn), théorème 5 : $f \times g$ dans un EVN quelconque, énoncé sans sens.
 - Chp 5, théorème 2 : une hypothèse le rend vide.
 
-Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[5 - Calcul différentiel d'ordre supérieur (résumé)]], [[4 - dérivabilité (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[4 - Calcul différentiel du premier ordre (résumé)]], [[5 - Calcul différentiel d'ordre supérieur (résumé)]], [[4 - dérivabilité (résumé)]]

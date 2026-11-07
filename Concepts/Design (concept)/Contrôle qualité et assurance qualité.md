@@ -12,8 +12,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Définitions du glossaire d'anglais :
@@ -23,6 +23,5 @@ Définitions du glossaire d'anglais :
 - **Certification** : procédure par laquelle un tiers garantit par écrit qu'un produit, un processus ou un service est conforme aux exigences.
 - **Nonconformity** : élément non conforme aux normes, aux standards ou aux usages.
 
-Voir aussi : [[Nomenclature]].
 
-Résumés : [[englis (résumé)]]
+Résumés : [[Reyou (résumé)]]

@@ -23,6 +23,3 @@ maj: 2026-11-06
 
 La méthode d'écriture enseignée n'est pas dans le coffre : à compléter si d'autres supports existent.
 
-## Liens avec les autres matières
-
-- **[[Anglais (index)]]** : autre exercice de production de texte. [[Consigne d'écriture]] (writing prompt) et [[Structure narrative]] figurent aussi au vocabulaire d'anglais (Global Exam).

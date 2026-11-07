@@ -24,7 +24,7 @@ SQL (Structured Query Language) est le langage de requêtes des SGBDR ([[Systèm
 - **DML** (Data Manipulation Language) : `INSERT INTO ... VALUES ...`, `UPDATE ... SET ... WHERE ...`, `DELETE FROM ... WHERE ...`, `SELECT ... FROM ... [WHERE ...]`. Les plus courantes, surtout `SELECT`.
 - **Droits** ([[Gestion des droits SQL]]) : `GRANT` et `REVOKE`, en général réservés aux administrateurs.
 
-**Dans le projet de ligue de football** : un DDL PostgreSQL et neuf requêtes, avec jointures, `LEFT JOIN`, [[Fonction d'agrégation|fonctions d'agrégation]] (`SUM`, `AVG`), `GROUP BY`, `HAVING`, `CASE` et [[Sous-requête|sous-requêtes]] ([[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]). Voir aussi [[Types de données SQL]].
+**Dans le projet de ligue de football** : un DDL PostgreSQL et neuf requêtes, avec jointures, `LEFT JOIN`, [[Fonction d'agrégation|fonctions d'agrégation]] (`SUM`, `AVG`), `GROUP BY`, `HAVING`, `CASE` et [[Sous-requête|sous-requêtes]] ([[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Rapport du projet]]). Voir aussi [[Types de données SQL]].
 
 **Architecture** : client-serveur 2 tiers, web 3 tiers (navigateur, serveur web, SGBD).
 
@@ -37,4 +37,4 @@ Liens : [[Algèbre relationnelle]], [[Clé primaire et clé étrangère]]
 
 - Le DDL du rapport du projet n'est pas exécutable tel quel (guillemets doubles, virgules).
 
-Résumés : [[2 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[readme (résumé)|readme (résumé)]], [[sujet database (résumé)|sujet database (résumé)]]
+Résumés : [[2 - opérateurs et SQL (résumé)]]

@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [dynamic programming]
-sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
+sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Notion parente : [[Problème du sac à dos]]. Voir aussi : [[Récursivité]].
 
 - Peut-être traitée dans le cours d'algorithmique de 2e année (pas encore relevé) : y chercher une définition pour compléter la page.
 
-Résumés : [[explications DM d'algo (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - récursivité et complexité (résumé)]]

@@ -4,7 +4,6 @@ tags:
   - year1
 aliases: []
 sources:
-  - "[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"
   - "[[Villeneuve (résumé)|Informations villeneuve (Brief Intro)]]"
 maj: 2026-11-06
 ---
@@ -16,4 +15,4 @@ Définition donnée dans les notes d'oral de l'équipe pour le rendu final du pr
 
 Voir aussi : [[Stigmatisation]], [[Quartier prioritaire de la politique de la ville]], [[Tiers-lieu]], [[Ville dortoir]].
 
-Résumés : [[Prise parole Rendu final (résumé)]], [[Villeneuve (résumé)]]
+Résumés : [[Villeneuve (résumé)]]

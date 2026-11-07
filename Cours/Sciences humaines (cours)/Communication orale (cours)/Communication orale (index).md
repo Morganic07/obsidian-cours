@@ -4,7 +4,7 @@ tags:
   - year1
 sources:
   - "[[1 - discours (résumé)|Communication orale - discours]]"
-  - "[[Debats (résumé)|Debats]]"
+  - "[[Raw/Year 1/Communication orale /Debats.docx|Debats]]"
 maj: 2026-11-06
 ---
 
@@ -15,11 +15,9 @@ Communication orale de 1re année : exercices de discours et de débat.
 | Note | Rôle | Résumé |
 |---|---|---|
 | [[1 - discours (résumé)\|Communication orale - discours]] | Extrait d'un discours de Malcolm X | [[1 - discours (résumé)\|Résumé]] |
-| [[Debats (résumé)\|Debats]] | Arguments : cannabis, clonage animal | [[Debats (résumé)\|Résumé]] |
 
 ## Concepts
 
-- **Dossiers de débat** : [[Clonage animal]], [[Théorie de l'escalade]]
 
 ## À revoir en priorité
 

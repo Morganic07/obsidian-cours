@@ -7,8 +7,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -22,4 +22,4 @@ Notion parente : [[Cercle chromatique]].
 
 Complément, hors du cours : ajouter du noir ou du blanc change d'ordinaire la valeur (nuance, ton), pas la teinte ; la définition du glossaire est contestable.
 
-Résumés : [[englis (résumé)]]
+Résumés : [[1 - Peinture (résumé)]], [[2 - Peinture (résumé)]]

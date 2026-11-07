@@ -23,4 +23,3 @@ Voir aussi : [[Tâche planifiée cron]], [[Commande systemctl]].
 
 - Le crontab lu dans [[4 - TP4 (résumé)|Cours TP4]] mentionne aussi « the cron's system daemon ».
 
-Résumés : [[TP4-Unix Commands (résumé)]]

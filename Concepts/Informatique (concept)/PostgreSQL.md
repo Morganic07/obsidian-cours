@@ -15,4 +15,4 @@ Nommé sans définition : SGBDR imposé par le sujet database ([[Raw/Year 3/ligu
 
 Notion parente : [[Système de gestion de base de données]]. Voir aussi : [[ODBC et JDBC]].
 
-Résumés : [[sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[readme (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[2 - opérateurs et SQL (résumé)]]

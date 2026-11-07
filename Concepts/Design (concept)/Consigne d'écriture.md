@@ -5,7 +5,7 @@ tags:
 aliases:
   - writing prompt
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[1 - écriture narrative (résumé)|écriture narrative]]"
 maj: 2026-11-06
 ---
@@ -16,4 +16,4 @@ L'exercice d'écriture narrative part d'un « ticket » imposé (« Chaton ») e
 
 Notion parente : [[Structure narrative]].
 
-Résumés : [[englis (résumé)]], [[1 - écriture narrative (résumé)]]
+Résumés : [[1 - écriture narrative (résumé)]]

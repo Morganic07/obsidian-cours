@@ -25,4 +25,4 @@ Sur un intervalle symétrique, $f$ est paire si $f(-x) = f(x)$, impaire si $f(-x
 
 Voir aussi : [[Fonctions trigonométriques]], [[Série de Fourier]].
 
-Résumés : [[0 - rappels pdf]], [[5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[6 - Fourier Series (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[5 - Analyse Maths (résumé)|chp5 (résumé) (Analyse Maths)]], [[6 - Fourier Series (résumé)]]

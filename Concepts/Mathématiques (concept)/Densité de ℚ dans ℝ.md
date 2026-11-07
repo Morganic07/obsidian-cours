@@ -18,4 +18,4 @@ Notion parente : [[Ensembles de nombres]]. Voir aussi : [[Approximation décimal
 
 - Chap1 est scanné : la preuve est relevée d'après le résumé.
 
-Résumés : [[1 - Ensemble des Reels (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[1 - Ensemble des Reels (résumé)]]

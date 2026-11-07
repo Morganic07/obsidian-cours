@@ -25,4 +25,4 @@ Notion parente : [[Méta-caractère]]. Voir aussi : [[Variable Bash]], [[Caract�
 
 - Commentaire faux dans le sujet : `echo 'path $PWD'` est annoncé comme affichant « Hello $PWD », alors que la sortie réelle est `path $PWD`.
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

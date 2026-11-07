@@ -46,4 +46,4 @@ Le polycopié de 1re année distingue la récursivité terminale, où l'appel r�
 
 Liens : [[Calcul de complexité et théorème de résolution]], [[Pile et file]], [[Pile d'exécution]], [[Recherche dichotomique]], [[Tours de Hanoï]], [[Récurrence]], [[Récursivité terminale]], [[Terminaison d'un algorithme]], [[Factorielle]], [[Arbre binaire]]
 
-Résumés : [[1 - récursivité et complexité (résumé)]], [[0 - diapo prof (résumé)]], [[4 - Arbres binaires (résumé)]], [[0 - Algo Maths (résumé)|Cours 1 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[0 - diapo prof (résumé)]], [[4 - Arbres binaires (résumé)]], [[0 - Algo Maths (résumé)|Cours 1 (résumé)]]

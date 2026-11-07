@@ -14,4 +14,4 @@ Propriétés possibles : [[Relation réflexive|réflexive]], [[Relation symétri
 
 Voir aussi : [[Relation fonctionnelle]], [[Produit cartésien]].
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]], [[4 - pdf (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[4 - pdf (résumé)]]

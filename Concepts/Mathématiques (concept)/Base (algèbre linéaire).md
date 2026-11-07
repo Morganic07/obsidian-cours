@@ -34,7 +34,7 @@ Une base d'un sous-espace $H$ est un ensemble de vecteurs linéairement indépen
 - Une application bijective envoie une base sur une base.
 - En Algèbre Linéaire (1re année), une base est une famille libre et génératrice ; en dimension $n$, toute base a $n$ vecteurs, et une famille libre ou génératrice de $n$ vecteurs est une base.
 
-Les évaluations 2 et 3 de 1re année portent sur une base de $\mathbb{R}^3$, des bases de sous-espaces et les coordonnées dans une base de $\mathbb{R}^3$ ([[Contrôles (résumé)]]).
+Les évaluations 2 et 3 de 1re année portent sur une base de $\mathbb{R}^3$, des bases de sous-espaces et les coordonnées dans une base de $\mathbb{R}^3$ ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 Notion parente : [[Espace vectoriel]] (base d'un [[Sous-espace vectoriel]]). Liens : [[Indépendance linéaire]], [[Espace engendré]], [[Dimension (algèbre linéaire)]], [[Théorème de la base incomplète]], [[Coordonnées dans une base]], [[Famille orthogonale]], [[Procédé de Gram-Schmidt]], [[Changement de base]], [[Déterminant]]
 
@@ -42,4 +42,4 @@ Notion parente : [[Espace vectoriel]] (base d'un [[Sous-espace vectoriel]]). Lie
 
 « Base canonique » n'est pas dans le cours (alias facultatif).
 
-Résumés : [[0 - Vector Space (résumé)]], [[1 - Orthogonality (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[6 - Algèbre linéaire (résumé)|chp6 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[1 - Orthogonality (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[6 - Algèbre linéaire (résumé)|chp6 (résumé)]]

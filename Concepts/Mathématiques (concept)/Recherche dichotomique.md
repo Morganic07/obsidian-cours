@@ -39,4 +39,4 @@ Notions parentes : [[Diviser pour régner]], [[Complexité algorithmique]]. Lien
 
 - Dans [[3 - complexité (résumé)|chp3 - complexité]], la fonction `recherche_dic` renverrait 0 si la valeur est trouvée, et non sa position (relevé du résumé).
 
-Résumés : [[1 - récursivité et complexité (résumé)]], [[3 - complexité (résumé)]], [[0 - rappels pdf]], [[0 - diapo prof (résumé)]]
+Résumés : [[1 - récursivité et complexité (résumé)]], [[3 - complexité (résumé)]], [[0 - rappels pdf (résumé)]], [[0 - diapo prof (résumé)]]

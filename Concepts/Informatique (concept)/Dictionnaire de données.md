@@ -21,4 +21,4 @@ Notion parente : [[Modèle entité-association]]. Voir aussi : [[Schéma relatio
 
 - Dans le rapport, le dictionnaire et le DDL ne coïncident pas : `ENUM`, `YEAR`, `AUTO_INCREMENT` d'un côté, `VARCHAR` + `CHECK`, `SERIAL` de l'autre.
 
-Résumés : [[1 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[1 - Database (résumé)]]

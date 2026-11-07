@@ -18,4 +18,4 @@ Fichier texte structuré dont les champs sont séparés par des virgules, couran
 
 Notion parente : [[Séparateur de champs]]. Voir aussi : [[Fichier TSV]].
 
-Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

@@ -16,4 +16,4 @@ Notion parente : [[Dérivabilité]]. Voir aussi : [[Extremum local]].
 
 - Le cours écrit $c \in [a, b]$ ; le théorème usuel donne $c \in\, ]a, b[$.
 
-Résumés : [[4 - dérivabilité (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]]

@@ -101,7 +101,7 @@ Autres limites :
 - Mais la problématique reste **trop générale**. Pour mieux saisir les mécanismes, elle peut intégrer les facteurs relevés en entretien : culture, éducation, gestion du temps.
 - **Problématique améliorée** : « Comment les influences culturelles, l'éducation et la gestion du temps interagissent-elles pour façonner l'accès à une alimentation saine et équilibrée chez les individus confrontés à des disparités économiques ? »
 
-Méthode : [[Entretien semi-directif]], [[Analyse thématique d'entretien]]. Voir aussi [[Synthèse (résumé)|Synthèse (résumé)]].
+Méthode : [[Entretien semi-directif]], [[Analyse thématique d'entretien]]. Voir aussi le document [[Raw/Year 1/Dessein au cube/Synthèse.docx|Synthèse]].
 
 ## Points à signaler
 

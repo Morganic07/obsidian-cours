@@ -21,4 +21,4 @@ maj: 2026-11-06
 
 Notion parente : [[Tâche en arrière-plan]]. Voir aussi : [[Commande jobs]].
 
-Résumés : [[2 - TP2 (résumé)]], [[TP2 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

@@ -14,4 +14,4 @@ Nommée dans le champ lexical de la fiche ressources du projet court « santé a
 
 Notion parente : [[Santé au travail]]. Voir aussi : [[Qualité de vie au travail]].
 
-Résumés : [[Santé au travail - (résumé)]]
+Résumés : [[Santé au travail (résumé)]]

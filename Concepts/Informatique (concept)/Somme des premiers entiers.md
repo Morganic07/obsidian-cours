@@ -24,4 +24,4 @@ Notion parente : [[Symboles somme et produit]]. Voir aussi : [[Récurrence]], [[
 - Cours 1 : l'annotation finit par « S = n(n+1) », la division par 2 manque.
 - Le lien entre nombre triangulaire et cette somme est déduit, non établi par le contrôle (scan).
 
-Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[0 - diapo prof (résumé)]], [[TD0-Rappel (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[0 - diapo prof (résumé)]]

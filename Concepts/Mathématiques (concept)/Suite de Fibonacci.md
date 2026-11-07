@@ -13,4 +13,4 @@ maj: 2026-11-06
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Récursivité]], [[Récursivité terminale]].
 
-Résumés : [[0 - rappels pdf]], [[0 - diapo prof (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[0 - diapo prof (résumé)]]

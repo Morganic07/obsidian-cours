@@ -4,7 +4,7 @@ tags: [year1]
 aliases: [égalité modulo n, modulo n, Z/nZ]
 matieres: [Outil Maths]
 sources: ["[[Raw/Year 1/Outil Maths/Exos/TDRelations.pdf|TDRelations.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Sur $\mathbb{Z}$, $a \equiv_n b \iff n$ divise $a - b$, aussi noté $a \equiv b \bmod n$ ou $a \equiv b\ [n]$.
@@ -17,4 +17,4 @@ Notion parente : [[Relation d'équivalence]]. Voir aussi : [[Divisibilité]].
 
 - Le mot « congruence » n'apparaît pas dans le TD, qui dit « égalité modulo n » ; il vient du résumé. La notion est absente des supports de cours.
 
-Résumés : [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[0 - rappels pdf (résumé)]]

@@ -8,7 +8,7 @@ matieres:
   - Anglais
   - Projet design
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[ELBA (résumé)|Topo ELBA]]"
   - "[[Villeneuve (résumé)|Informations villeneuve (Brief Intro)]]"
 maj: 2026-11-06
@@ -20,4 +20,4 @@ En Projet design, le brief est présenté par le commanditaire (la ville de Vill
 
 Voir aussi : [[Triangle client-designer]], [[Pitch]].
 
-Résumés : [[englis (résumé)]], [[ELBA (résumé)]], [[Villeneuve (résumé)]], [[Melvita (résumé)]]
+Résumés : [[ELBA (résumé)]], [[Villeneuve (résumé)]], [[Melvita (résumé)]]

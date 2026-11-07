@@ -18,4 +18,4 @@ Notion parente : [[Nombre complexe]]. Voir aussi : [[Formules trigonométriques]
 
 - Erreur du cours, signalée par la transcription : $|\cos\theta + \sin\theta| = 1$ au lieu de $|\cos\theta + i\sin\theta| = 1$.
 
-Résumés : [[5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[5 - Complexes (résumé)]]

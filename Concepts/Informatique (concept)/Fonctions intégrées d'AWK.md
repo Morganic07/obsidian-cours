@@ -24,4 +24,4 @@ Notion parente : [[AWK]]. Voir aussi : [[Expression régulière]].
 
 - Le sujet ne dit pas explicitement que `gsub` renvoie le nombre de remplacements ; il ne l'utilise que pour compter.
 
-Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

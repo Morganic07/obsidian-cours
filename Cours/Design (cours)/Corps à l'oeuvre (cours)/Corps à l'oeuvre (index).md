@@ -37,7 +37,6 @@ La notion de « gestelligence », annoncée en tête, n'est pas définie dans la
 - **[[#Year 2|Corps à l'oeuvre, Year 2]]** : suite sur les gestes, les émotions et le stress.
 - **[[Philosophie (index)]]** : éthique et pouvoir du designer sur la société.
 - **[[Sémiotique (index)]]**, **[[Affordance (index)]]** : [[Affordance]] et [[Expérience utilisateur]] y sont reprises ; [[Mécanique du stress]] est approfondie en [[#Year 2|Year 2]].
-- **[[Anglais (index)]]** : le glossaire définit [[Design d'interface]] et [[Expérience utilisateur]].
 
 ## Year 2
 

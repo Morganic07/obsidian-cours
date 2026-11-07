@@ -8,7 +8,6 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +15,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Commande free]], [[Système de fichiers]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]]

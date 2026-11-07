@@ -15,4 +15,4 @@ Nommés sans définition propre dans la fiche ressources du projet « santé au 
 
 Notion parente : [[Santé au travail]]. Voir aussi : [[Burn-out]], [[Qualité de vie au travail]].
 
-Résumés : [[Santé au travail - (résumé)]]
+Résumés : [[Santé au travail (résumé)]]

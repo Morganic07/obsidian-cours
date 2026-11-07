@@ -6,7 +6,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé du PDF ARBRE AVL ([[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]) (5 pages, diapositives « 9 - Arbres AVL » datées du 26/11/2014, quatre par page, pseudo-code), dans [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]]. Le texte est en deux colonnes et l'extraction mélange parfois l'ordre : le fond a été recoupé avec le sujet [[Projet-Arbre-AVL-ID2 (résumé)]] et avec les pages rendues.
+Résumé du PDF ARBRE AVL ([[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]) (5 pages, diapositives « 9 - Arbres AVL » datées du 26/11/2014, quatre par page, pseudo-code), dans [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]]. Le texte est en deux colonnes et l'extraction mélange parfois l'ordre : le fond a été recoupé avec le sujet [[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2]] et avec les pages rendues.
 
 ## Idée générale
 
@@ -303,7 +303,7 @@ fonction equilibreAprèsSuppression(ref x: sommet): vide;
 
 ## Liens
 
-Même sujet que [[AVL momo (résumé)]] et [[qui dit quoi AVL (résumé)]], et que le sujet [[Projet-Arbre-AVL-ID2 (résumé)]]. Voir aussi [[Hauteur d'un arbre]] et [[5 - ABR (résumé)]] pour les opérations d'ABR.
+Même sujet que [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]] et [[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]], et que le sujet [[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2]]. Voir aussi [[Hauteur d'un arbre]] et [[5 - ABR (résumé)]] pour les opérations d'ABR.
 
 ## Points à vérifier
 
@@ -311,7 +311,7 @@ Même sujet que [[AVL momo (résumé)]] et [[qui dit quoi AVL (résumé)]], et q
 2. **Condition de boucle de `equilibreAprèsInsertion`** : le texte écrit `eq!=2 et eq!=2` ; la seconde condition devrait être `eq!=-2` pour que la boucle s'arrête dans les deux cas de déséquilibre (complément : lecture du pseudo-code).
 3. **`equilibreAprèsSuppression`** (complément) : la ligne `p=pere(s)` utilise `s` avant toute affectation ; sans doute une ligne en trop (ou `s=x`). La boucle s'arrête dès que `eq` vaut 0, alors qu'un facteur nul après mise à jour ne garantit pas, en général, que la hauteur n'a pas changé ; recopié tel quel.
 4. **`supprimer`** (complément) : `getHauteur(filsDroit(p)+1)` place le `+1` à l'intérieur de l'appel ; il faut lire `getHauteur(filsDroit(p))+1`. Le cas où `x` est la racine sans père n'est pas traité. Coquille `filGauche` pour `filsGauche` dans plusieurs fonctions.
-5. **Propriété de hauteur** : « sa hauteur est $\log_2(n)$ » n'est vrai qu'en ordre de grandeur ; la borne précise est $\log_2(1+n) \le 1+h \le 1{,}44\log_2(2+n)$ (voir [[AVL momo (résumé)|AVL momo]]).
+5. **Propriété de hauteur** : « sa hauteur est $\log_2(n)$ » n'est vrai qu'en ordre de grandeur ; la borne précise est $\log_2(1+n) \le 1+h \le 1{,}44\log_2(2+n)$ (voir [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]).
 6. **Date de l'article fondateur** : la diapositive dit 1982 ; l'article d'Adelson-Velsky et Landis est en réalité de 1962 (complément, à vérifier).
 7. **Facteurs lus sur les figures** : les valeurs données dans les légendes ont été lues sur des pages rendues à 110 dpi ; celles des doubles rotations (p2b, p3c) restent à confirmer.
-8. **Figure d'insertion, cas simple** (complément) : la diapositive illustre la rotation droite par le cas $eq(x) = 0$, qui ne peut pas se produire juste après une insertion (il ne survient qu'à la suppression). Même remarque que pour [[AVL momo (résumé)|AVL momo]], point 4.
+8. **Figure d'insertion, cas simple** (complément) : la diapositive illustre la rotation droite par le cas $eq(x) = 0$, qui ne peut pas se produire juste après une insertion (il ne survient qu'à la suppression). Même remarque que pour [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]], point 4.

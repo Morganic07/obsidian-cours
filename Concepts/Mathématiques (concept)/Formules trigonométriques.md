@@ -25,4 +25,4 @@ Notion parente : [[Fonctions trigonométriques]]. Voir aussi : [[Équation trigo
 - Erreur du cours d'Outil Maths (image transcrite, alerte « À vérifier ») : $\cos 2x = 1 - \sin^2 x$ au lieu de $1 - 2\sin^2 x$.
 - « formules d'addition » et « formule de duplication » ne sont pas écrits dans le cours d'Outil Maths.
 
-Résumés : [[0 - rappels pdf]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[Contrôles (résumé)]], [[5 - Complexes (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[5 - Complexes (résumé)]]

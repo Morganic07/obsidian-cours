@@ -17,4 +17,4 @@ Notion parente : [[Ensembles de nombres]]. Voir aussi : [[Théorème des valeurs
 
 - La définition de segment est déduite de l'usage du chapitre 3, elle n'est pas énoncée dans le résumé.
 
-Résumés : [[1 - Ensemble des Reels (résumé)]], [[0 - rappels pdf]]
+Résumés : [[1 - Ensemble des Reels (résumé)]], [[0 - rappels pdf (résumé)]]

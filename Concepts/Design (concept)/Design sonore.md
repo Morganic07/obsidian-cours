@@ -9,8 +9,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Sound design : art de créer le son pour le cinéma, la télévision ou le jeu vidéo.
@@ -19,4 +19,4 @@ Foley : du nom de Jack Foley, inventeur de l'art du bruitage, qui créa des mach
 
 Voir aussi : [[Voix off]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Melvita (résumé)]], [[1 - IA (résumé)]]

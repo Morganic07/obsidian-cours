@@ -21,4 +21,4 @@ Voir aussi : [[Valeur absolue]], [[Inégalité triangulaire]], [[Principe des su
 
 - Chap0 est un scan : contenu relevé d'après le résumé (lu en image) ; seul le plan est extractible en texte.
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]]

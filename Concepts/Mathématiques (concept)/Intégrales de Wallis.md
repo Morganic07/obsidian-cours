@@ -20,4 +20,4 @@ Le TD7 (ex. 9-10) établit par [[Intégration par parties]] une relation de réc
 
 Notion parente : [[Intégrale]]. Voir aussi : [[Intégration par parties]], [[Comparaison asymptotique]], [[Changement de variable dans une intégrale]].
 
-Résumés : [[0 - Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[0 - Intégration UTILITAIRE (résumé)]]

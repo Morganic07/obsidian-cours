@@ -16,4 +16,4 @@ Le cours magistral la cite dans l'histoire visuelle du futur (voiture autonome a
 
 Voir aussi : [[Imaginaire]], [[Histoire visuelle]], [[Anthropomorphisme]], [[Fantastique (Todorov)]].
 
-Résumés : [[5 - imaginaires de l'automobile (résumé)]], [[2 - imaginaires du futur (résumé)]], [[Synthèse des entretiens (résumé)]]
+Résumés : [[5 - imaginaires de l'automobile (résumé)]], [[2 - imaginaires du futur (résumé)]]

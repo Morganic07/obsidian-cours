@@ -39,4 +39,4 @@ Notion parente : [[Base (algèbre linéaire)]]. Voir aussi : [[Rang d'une matric
 - chp3 : « 1 inconnue = dim 0, 2 inconnues = dim 1, 3 inconnues = dim 2 » ne vaut que pour une seule équation non triviale.
 - chp4 emploie « dimension n x n » pour le format d'une matrice, un autre sens du mot.
 
-Résumés : [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[3 - Algèbre linéaire (résumé)]], [[4 - Algèbre linéaire (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[3 - Algèbre linéaire (résumé)]], [[4 - Algèbre linéaire (résumé)]]

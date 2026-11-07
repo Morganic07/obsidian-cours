@@ -11,8 +11,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Termes du glossaire d'anglais :
@@ -26,4 +26,4 @@ En typographie, la hierarchy utilise tailles et graisses pour guider l'ordre de 
 
 Notion parente : [[Composition (arts visuels)]]. Voir aussi : [[Équilibre visuel]], [[Typographie]].
 
-Résumés : [[englis (résumé)]]
+Résumés : [[4 - sémiotique (résumé)]], [[2 - sémiotique (résumé)]]

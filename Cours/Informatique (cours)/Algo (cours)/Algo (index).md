@@ -1,17 +1,20 @@
 ---
 type: matiere
 tags:
+  - year1
   - year2
 sources:
+  - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
+  - "[[0 - diapo prof (résumé)|AlgoID1]]"
   - "[[1 - récursivité et complexité (résumé)|Chp1 - récursivité et complexité]]"
   - "[[2 - piles listes file (résumé)|chp2 - piles listes file]]"
-  - "[[AVL momo (résumé)|AVL momo]]"
-  - "[[qui dit quoi AVL (résumé)|qui dit quoi AVL]]"
-  - "[[TD_Algo (résumé)|TD_Algo]]"
+  - "[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]"
+  - "[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]"
+  - "[[Raw/Year 2/Algo/DM/TD_Algo.docx|TD_Algo]]"
 maj: 2026-11-06
 ---
 
-Algorithmique et programmation en Python : récursivité, complexité, structures de données linéaires, puis arbres AVL. Les 5 notes sont intégrées. Il y a deux chapitres de cours et trois notes de DM ou de TD.
+Algorithmique et programmation en Python : récursivité, complexité, structures de données linéaires, puis arbres AVL. En Year 2, deux notes de cours (chapitres 1 et 2) et quatre PDF ; la partie Year 1 (ancienne matière Algo Maths) est en fin de page.
 
 ## Parcours
 
@@ -19,20 +22,16 @@ Algorithmique et programmation en Python : récursivité, complexité, structure
 |---|---|---|
 | [[1 - récursivité et complexité (résumé)\|Chp1 - récursivité et complexité]] | Récursivité, pile de récursion, complexité, dichotomie | [[1 - récursivité et complexité (résumé)\|Résumé]] |
 | [[2 - piles listes file (résumé)\|chp2 - piles listes file]] | Listes, piles, files | [[2 - piles listes file (résumé)\|Résumé]] |
-| [[AVL momo (résumé)\|AVL momo]] | Notes sur l'exposé AVL : hauteur, rotations, code, complexité | [[AVL momo (résumé)\|Résumé]] |
-| [[qui dit quoi AVL (résumé)\|qui dit quoi AVL]] | Scénario parlé de l'exposé AVL | [[qui dit quoi AVL (résumé)\|Résumé]] |
-| [[TD_Algo (résumé)\|TD_Algo]] | Motifs de `#` en Python | [[TD_Algo (résumé)\|Résumé]] |
 
 ## Documents PDF
 
-Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils font suite aux chapitres 1 et 2 ; les « chapitres 3 à 5 » de l'enseignante), un sujet de projet et une fiche de cours sur l'AVL.
+Quatre PDF complètent les notes : trois chapitres de cours sur les arbres (ils font suite aux chapitres 1 et 2 ; les « chapitres 3 à 5 » de l'enseignante) et une fiche de cours sur l'AVL.
 
 | Document | Contenu | Résumé |
 |---|---|---|
 | Chapitre3-Arbres ([[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf\|Chapitre3-Arbres.pdf]]) | Rappel sur les graphes, définition et vocabulaire des arbres | [[3 - Arbres (résumé)\|Résumé]] |
 | Chapitre4-Preing2ID ([[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf\|Chapitre4-Preing2ID.pdf]]) | Arbres binaires : propriétés, parcours, code Python | [[4 - Arbres binaires (résumé)\|Résumé]] |
 | Chapitre5-ABR ([[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf\|Chapitre5-ABR.pdf]]) | Arbres binaires de recherche : insertion, recherche, suppression | [[5 - ABR (résumé)\|Résumé]] |
-| Projet-Arbre-AVL-ID2 ([[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf\|Projet-Arbre-AVL-ID2.pdf]]) | Sujet du projet sur les arbres AVL | [[Projet-Arbre-AVL-ID2 (résumé)\|Résumé]] |
 | ARBRE AVL ([[Raw/Year 2/Algo/DM/ARBRE AVL.pdf\|ARBRE AVL.pdf]]) | Fiche AVL : rotations, insertion, suppression, pseudo-code | [[6 - AVL (résumé)\|Résumé]] |
 
 ## Concepts
@@ -45,9 +44,6 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 
 ## À revoir en priorité avant un examen
 
-- [[AVL momo (résumé)]] : la complexité de `rebalance` (annoncée $O(\log n)$) est en réalité $O(n)$ avec le code donné, car `hauteur` est recalculée à chaque appel ; elle contredit l'autre note ($O(1)$).
-- [[qui dit quoi AVL (résumé)]] : la « hauteur d'un nœud » est définie comme le nombre de branches jusqu'à la racine, ce qui est la profondeur.
-- [[AVL momo (résumé)]] et [[qui dit quoi AVL (résumé)]] : la convention de hauteur du vide ($-1$) ne correspond pas au code (0).
 - [[1 - récursivité et complexité (résumé)]] : la dernière ligne de la substitution oublie que la base est $T(0)$.
 
 ## Liens avec les autres matières
@@ -55,4 +51,33 @@ Cinq PDF complètent les notes : trois chapitres de cours sur les arbres (ils fo
 - **[[Analyse (index)]]** : la notation $O$ rejoint la [[Comparaison asymptotique]] des fonctions et des suites.
 - **C++** (Year 4) : la [[Liste chaînée]] est reprise avec des pointeurs dans [[3 - pointeurs , tableaux, listes chainées, structures (résumé)|le chapitre 3 de C++]]. La pile d'exécution est celle de la gestion mémoire en [[1 - basiques (résumé)|C++ chapitre 1]].
 - **Graph theory** (Year 4) : le cours de théorie des graphes a sa propre page de [[Complexité algorithmique]]. Les rappels du chapitre 3 ([[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Sous-graphe]], [[Arbre (théorie des graphes)]]) y sont repris en détail : [[Graph theory (index)]].
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : [[Récursivité]], [[Récurrence]] et [[Factorielle]] y sont introduites ; la [[Récurrence]] l'est aussi en [[Outil Maths (index)]].
+- **Year 1** (section ci-dessous) : [[Récursivité]], [[Récurrence]] et [[Factorielle]] y sont introduites ; la [[Récurrence]] l'est aussi en [[Outil Maths (index)]].
+
+## Year 1
+
+Ancienne matière Algo Maths, rattachée à Algo. Premiers pas en algorithmique : récurrence, récursivité, pseudo-code, Python. Deux notes sont intégrées.
+
+| Note | Sujet | Résumé |
+|---|---|---|
+| [[0 - Algo Maths (résumé)\|Cours 1 (Algo Maths)]] | Notions, Hanoï, crayons, carré magique | [[0 - Algo Maths (résumé)\|Résumé]] |
+| AlgoID1 (PDF, 163 pages) | Introduction, pseudo-code, fonctions et procédures, Python, enregistrements, récursivité, avec TD | [[0 - diapo prof (résumé)\|Résumé]] |
+
+### Concepts
+
+- **Notions de départ (Cours 1)** : [[Algorithme]], [[Modélisation d'un problème]], [[Problème du passeur]], [[Correction d'un algorithme]], [[Récurrence]], [[Problème des crayons]], [[Somme des premiers entiers]], [[Carré magique]], [[Fractale]], [[Nombre premier]], [[Bit]], [[Transistor]], [[Numération binaire]], [[Nombre à virgule flottante]], [[Loi de Parkinson]]
+- **Pseudo-code et types** : [[Pseudo-code]], [[Affectation]], [[Échange de deux variables]], [[Type primitif]], [[Chaîne de caractères]], [[Division euclidienne]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Équation du second degré]], [[Palindrome]]
+- **Fonctions et enregistrements** : [[Fonction et procédure]], [[Passage de paramètres]], [[Portée d'une variable]], [[Programmation modulaire]], [[Structure (struct)]], [[Pile et file]] (voir [[0 - diapo prof (résumé)]])
+- **Python** : [[Langage Python]], [[Langage interprété]], [[Typage dynamique]], [[Fonction range (Python)]], [[Dataclass (Python)]]
+- **Récursivité** : [[Récursivité]], [[Récursivité terminale]], [[Terminaison d'un algorithme]], [[Conjecture de Syracuse]], [[Problème indécidable]], [[Factorielle]], [[Suite de Fibonacci]], [[Algorithme d'Euclide]], [[Exponentiation rapide]], [[Recherche dichotomique]], [[Tours de Hanoï]]
+- **Problèmes difficiles et sac à dos** : [[Complexité algorithmique]] (cours de graphes), [[Problème du voyageur de commerce]], [[Algorithme d'approximation]], [[Problème du sac à dos]], [[Recherche exhaustive]], [[Code de Gray]], [[Algorithme glouton]], [[Algorithme stochastique]], [[Programmation dynamique]]
+
+### À revoir en priorité avant un examen
+
+- [[0 - Algo Maths (résumé)|Cours 1 (résumé)]] : le problème des crayons échoue dès $n = 2$ ; l'exemple `0.1 + 0.3` est faux en Python.
+
+### Liens avec les autres matières
+
+- **[[Outil Maths (index)]]** : [[Récurrence]] et [[Logique propositionnelle]].
+- **[[Graph theory (index)]]** : la complexité des [[Tours de Hanoï]] ; l'[[Algorithme glouton]] de Kruskal ([[Arbre couvrant minimal]]).
+- **[[Java (index)]]** et **[[C++ (index)]]** : [[Type primitif]], [[Structure conditionnelle]] et [[Boucle (programmation)]] dans d'autres langages.
+- **[[Analyse Maths (index)]]** : [[Factorielle]], [[Suite de Fibonacci]] et [[Équation du second degré]].

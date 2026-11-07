@@ -24,7 +24,6 @@ Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intég
 | Document | Contenu | Résumé |
 |---|---|---|
 | Chp9-intégrales multiples | Notes manuscrites : domaines, Fubini, changement de variable (polaires, elliptiques) | [[2 - intégrales multiples (résumé)]] |
-| TD7-integration | 16 exercices d'intégration (énoncés, sans corrigé) | [[TD7-integration (1) (résumé)]] |
 
 ## Concepts
 

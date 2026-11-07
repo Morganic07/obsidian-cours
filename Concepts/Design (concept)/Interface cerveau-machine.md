@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [interface neuronale, interfaces neuronales, brain-computer interface, brain interface]
-sources: ["[[world in 2075 (résumé)|world in 2075]]"]
+sources: ["[[Raw/Year 2/Anglais/world in 2075.docx|world in 2075]]"]
 maj: 2026-11-07
 ---
 
@@ -16,4 +16,4 @@ Nommée sans définition dans le scénario de l'exposé « world in 2075 » : l'
 
 - Texte de l'infographie déformé (« BRAIN-INTERFACE INTERCEPRAUY »), image probablement générée par IA. Scénario prospectif.
 
-Résumés : [[world in 2075 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[4 - imaginaires automobile (résumé)]], [[2 - imaginaires du futur (résumé)]]

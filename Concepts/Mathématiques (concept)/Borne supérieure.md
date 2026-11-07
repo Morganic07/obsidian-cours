@@ -45,4 +45,4 @@ Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[
 
 DS1 2022 ex. 6 : coquilles de l'énoncé ($x \in A$ au lieu de $a \in A$, $\sup(A+B)$ au lieu de $\sup(A+x)$).
 
-Résumés : [[1 - Ensemble des Reels (résumé)]], [[0 - rappels pdf]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]], [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]].
+Résumés : [[1 - Ensemble des Reels (résumé)]], [[0 - rappels pdf (résumé)]], [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]].

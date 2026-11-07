@@ -19,4 +19,4 @@ Caractère qui sépare les données d'un fichier : espace (`.txt`), tabulation (
 
 Notion parente : [[AWK]]. Voir aussi : [[Variables intégrées d'AWK]], [[Fichier CSV]], [[Fichier TSV]].
 
-Résumés : [[5 - TP5 (résumé)]], [[TP5-AWK Command (résumé)]], [[log (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

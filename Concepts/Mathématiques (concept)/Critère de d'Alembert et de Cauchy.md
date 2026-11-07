@@ -23,4 +23,4 @@ Liens : [[Série numérique]], [[Suite numérique]], [[Suite géométrique]]
 
 Réciproque « L = 1 pour la racine implique L = 1 pour le rapport » non garantie.
 
-Résumés : [[2 - Alternating and absolutly convergent series (résumé)]], [[5 - power series (résumé)]], [[TDSuites (résumé)]]
+Résumés : [[2 - Alternating and absolutly convergent series (résumé)]], [[5 - power series (résumé)]]

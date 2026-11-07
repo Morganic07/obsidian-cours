@@ -25,4 +25,4 @@ Voir aussi : [[Nombre complexe]], [[Équation du second degré]], [[Comparaison 
 - Contrôles.pdf est scanné : contenu relevé d'après le résumé.
 - Le cours d'Outil Maths sur les polynômes (pas encore relevé) est la vraie source à intégrer.
 
-Résumés : [[Contrôles (résumé)]], [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]

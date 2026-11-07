@@ -28,4 +28,4 @@ Symboles spéciaux qui contrôlent l'interprétation des commandes au lieu de va
 
 Notion parente : [[Shell et Bash]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

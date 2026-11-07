@@ -21,4 +21,4 @@ Notion parente : [[Relation binaire]]. Liens : [[Relation réflexive]], [[Relati
 
 - Le tableau de [[3 - Relation binaire (résumé)|Chapitre 3 - Relation binaire]] écrit l'antisymétrie « $(xRy$ et $yRz) \Rightarrow x = y$ » : il faut $yRx$ à la place de $yRz$.
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]], [[1 - Ensemble des Reels (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[1 - Ensemble des Reels (résumé)]]

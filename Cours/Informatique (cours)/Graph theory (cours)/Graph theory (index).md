@@ -38,6 +38,6 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 
 ## Liens avec les autres matières
 
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : les [[Tours de Hanoï]] et l'[[Algorithme glouton]] y sont introduits.
+- **[[Algo (index)]]** : les [[Tours de Hanoï]] et l'[[Algorithme glouton]] y sont introduits.
 - **Algo (Year 2)** : [[Récursivité]], [[Recherche dichotomique]] et la complexité y sont traitées avec [[Complexité algorithmique]]. Son chapitre 3 rappelle aussi [[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Sous-graphe]] et [[Arbre (théorie des graphes)]] : [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]].
 - **[[Algèbre linéaire (index)]]** : le [[Produit matriciel]], dont le chapitre 3 calcule la complexité.

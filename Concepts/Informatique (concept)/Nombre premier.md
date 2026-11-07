@@ -11,8 +11,8 @@ aliases:
 sources:
   - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
-  - "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"
 maj: 2026-11-06
 ---
 
@@ -26,4 +26,4 @@ Voir aussi : [[Arithmétique en Bash]], [[Boucle (programmation)]].
 
 - Version Python du DM : `range(2, int(n**0.5))` exclut la racine, si bien que 4 et 9 seraient jugés premiers (signalé par le résumé).
 
-Résumés : [[0 - Algo Maths (résumé)|Cours 1 (résumé) (Algo Maths)]], [[0 - diapo prof (résumé)]], [[DM Shell Scripting (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[Operating Systems - Semester report (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (résumé) (Algo Maths)]], [[0 - diapo prof (résumé)]]

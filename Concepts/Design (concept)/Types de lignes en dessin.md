@@ -11,8 +11,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -29,4 +29,4 @@ Voir aussi : [[Hachure]], [[Croquis]].
 
 Au chapitre 6 du glossaire, « outlines » a un autre sens (objectifs fixés au début du projet).
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - sémiotique (résumé)]], [[1 - HDA (résumé)]]

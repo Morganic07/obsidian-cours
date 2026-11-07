@@ -12,4 +12,4 @@ Le TD 4 demande les plus grands ensembles de définition de composées, par exem
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Égalité de deux fonctions]].
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

@@ -10,7 +10,7 @@ matieres:
   - Algo Maths
 sources:
   - "[[0 - Algo Maths (résumé)|Cours 1 (Algo Maths)]]"
-  - "[[explications DM d'algo (résumé)|explications DM d'algo]]"
+  - "[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ maj: 2026-11-06
 
 Notion parente : [[Numération binaire]]. Voir aussi : [[Code de Gray]].
 
-Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]], [[explications DM d'algo (résumé)]]
+Résumés : [[0 - Algo Maths (résumé)|Cours 1 (Algo Maths) (résumé)]]

@@ -39,4 +39,4 @@ Liens : [[Comparaison asymptotique]] (le $O$ des suites et des fonctions), [[Cla
 
 Cas moyen de `f` (3,5) dans le cours de graphes : suppose les deux branches équiprobables, non précisé.
 
-Résumés : [[3 - complexité (résumé)]], [[1 - récursivité et complexité (résumé)]], [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]]
+Résumés : [[3 - complexité (résumé)]], [[1 - récursivité et complexité (résumé)]]

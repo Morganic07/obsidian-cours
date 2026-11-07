@@ -14,4 +14,4 @@ Nommée sans définition dans le rapport du projet étudiant Ligue Football, qui
 
 Notion parente : [[Algèbre relationnelle]].
 
-Résumés : [[Rapport du projet Ligue Football (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - opérateurs et SQL (résumé)]]

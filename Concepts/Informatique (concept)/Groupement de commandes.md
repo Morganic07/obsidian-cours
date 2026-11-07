@@ -15,4 +15,4 @@ Les accolades `{ }` groupent des commandes exécutées dans le shell courant : `
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Sous-shell]], [[Expansion d'accolades]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

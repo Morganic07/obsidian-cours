@@ -12,4 +12,4 @@ Exemples : $\sum 1/k!$ et $u_n + \frac{1}{n\,n!}$ ; la série alternée $\sum (-
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Théorème des valeurs intermédiaires]], [[Série numérique]].
 
-Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]]

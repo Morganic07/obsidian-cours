@@ -35,4 +35,4 @@ Notion parente : [[Langage SQL]]. Voir aussi : [[Valeur NULL]], [[Dictionnaire d
 
 - `DATETIME` et `TIMESTAMP` sont présentés comme un seul type, alors qu'ils diffèrent selon le SGBD.
 
-Résumés : [[1 - Database (résumé)]], [[Rapport du projet Ligue Football (résumé)]], [[sujet database (résumé)]]
+Résumés : [[1 - Database (résumé)]]

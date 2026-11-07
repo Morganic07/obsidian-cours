@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-07 : 1 265 concepts, rangés en cinq domaines dans `Concepts/` ; 223 résumés et 41 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Tous les documents de `Raw/` (Word, PDF et PPTX) sont intégrés, et leur fiche les lie dans `sources`, sauf deux PDF de Projet courts dont le nom porte celui de tiers (la fiche cite leur dossier). Six fiches n'ont plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
+État au 2026-11-07 : 1 246 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`, sauf un PDF de Projet courts dont le nom porte celui de tiers (la fiche cite son dossier). [[Bel-air (résumé)]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
 
-## Concepts (1266)
+## Concepts (1246)
 
 ### Systèmes et vecteurs
 
@@ -406,8 +406,6 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 **Year 1 - Communication orale**
 
-- [[Clonage animal]] : sujet d'un dossier de débat, avec arguments pour et contre préparés pour l'exercice
-- [[Théorie de l'escalade]] : théorie tirée d'un argumentaire de débat sur le cannabis, et non d'un cours
 
 **Year 1 - Corps à l'oeuvre**
 
@@ -598,17 +596,13 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 **Year 2 - Anglais**
 
 - [[Accessibilité]] : capacité d'une entité à être utilisable par tous, quels que soient handicap ou connaissances
-- [[Animation en stop-motion]] : la chuckimation, stop-motion fondée sur des poupées articulées de super-héros
-- [[Animatique]] : animatic, timeline vidéo construite à partir du storyboard
 - [[Application native et web app]] : application faite pour un système d'exploitation dédié, ou site web donnant l'expérience d'une application
 - [[Architecture de l'information]] : fondation d'un projet, carte complète d'un produit numérique
-- [[Autonomatronics]] : marque déposée d'animation robotique de Walt Disney, robots qui détectent la présence de personnes
 - [[Brise-glace]] : ice breaker, court exercice qui aide les participants à prendre confiance et à partager
 - [[Calque (image numérique)]] : layers, feuilles numériques transparentes superposées qui facilitent la modification d'une image
 - [[Chevauchement]] : overlapping, un élément en recouvre partiellement un autre pour créer une illusion de volume
 - [[Clair-obscur]] : chiaroscuro, technique de dessin centrée sur lumières et ombres, qui donne du volume
 - [[Composition (arts visuels)]] : manière dont les éléments sont disposés dans l'espace de la page ou de la toile
-- [[Compression vidéo]] : méthodes logicielles pour réduire la taille des vidéos, et termes associés
 - [[Consigne d'écriture]] : writing prompt, idée, image ou texte initial qui inspire un texte de création
 - [[Contrôle qualité et assurance qualité]] : quality control, test qui cherche les défauts d'un produit avant son lancement
 - [[Croquis]] : mot venu du français, rapide dessin de la figure en dessin d'après modèle
@@ -618,38 +612,28 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Design sonore]] : sound design, art de créer le son pour le cinéma, la télévision ou le jeu vidéo
 - [[Design system]] : bibliothèque de composants graphiques à réutiliser pour concevoir une interface
 - [[Dessin technique]] : technical drawing, dessin incluant les aspects d'ingénierie pour montrer le fonctionnement d'un objet
-- [[Effets visuels]] : VFX, manipulation vidéo hors du contexte de la prise de vue réelle
 - [[Empâtement]] : impasto, superposition de couches de peinture épaisse pour créer de la texture
 - [[Ergonomie]] : connaissances scientifiques sur l'homme et méthodes pour concevoir des systèmes utilisables par le plus grand nombre
 - [[Espace positif et négatif]] : le sujet de l'image, et l'espace autour qui forme un autre sujet
 - [[Forme implicite]] : implied shape, forme non représentée que le cerveau voit en comblant les vides
 - [[Forme organique]] : forme irrégulière, asymétrique et courbe, associée aux objets de la nature
 - [[Front end et back end]] : code de l'interface visible par l'utilisateur, et technologie cachée qui porte l'intelligence du produit
-- [[Fusion nucléaire]] : réaction par laquelle une étoile produit de l'énergie en son cœur
 - [[Gamification]] : enrichir contenus éducatifs, marketing ou processus métier par des mécaniques de jeu
-- [[Gel du style]] : styling freeze, moment à partir duquel plus aucun changement n'est possible
-- [[Guide de style]] : modèle présentant les polices, images et mises en page d'une entreprise ou d'une personne
 - [[Hachure]] : hatching, fines lignes parallèles rapprochées pour représenter l'ombre
 - [[Hiérarchie visuelle]] : point focal, éléments qui ressortent et éléments subordonnés d'une composition
 - [[Identité visuelle]] : corporate identity, logos, couleurs, images, web design, slogan et ton d'une marque
 - [[Idéation]] : exercice créatif pour partager des idées
 - [[Image matricielle et vectorielle]] : image faite de pixels qui perd en qualité, ou graphique fait de points, courbes et lignes
-- [[Images clés]] : key frames, marques de la timeline qui définissent aspect, mouvements et actions de l'animation
-- [[Infographie animée]] : animation d'informations ou de données à l'aide d'éléments visuels
 - [[Interface cerveau-machine]] : nommé dans le cours, sans définition
 - [[Livrable]] : deliverables, ce qui peut être fourni dans le développement d'un produit
 - [[Maquette (design)]] : wireframe, modèle basique pour planifier, et mockup, visuel du produit final
-- [[Masse solaire]] : unité de masse des étoiles, un astre de 4 masses solaires pesant 4 Soleils
 - [[Meuble en kit]] : flat-pack, meuble livré à plat que le client assemble lui-même
 - [[Mise en page]] : layout, manière dont un design et ses éléments sont placés sur une page
 - [[Moodboard]] : planche de tendances composée d'images, de textes et d'objets
 - [[Motif décoratif]] : pattern, dessin à but décoratif fait d'éléments répétés
-- [[Must-have et should-have]] : éléments non négociables à inclure, et éléments à inclure dans un monde idéal
 - [[Méthode agile]] : capacité à modifier un plan et à réagir plus vite, par sprints et user stories
 - [[Nature morte]] : still-life drawing, dessin d'objets inanimés comme bouteilles, fruits ou fleurs
 - [[Nombre d'or]] : golden ratio, rapport mathématique pour une composition esthétique, la « divine proportion »
-- [[Nomenclature]] : bill of materials, tableau des matériaux, quantités et ordre d'assemblage
-- [[Parallaxe]] : animation à partir de photographies séparant personnages et arrière-plan pour un effet de mouvement
 - [[Parcours utilisateur]] : user journey, parcours de l'utilisateur tout au long du service, avec ses pain points
 - [[Peinture acrylique]] : peinture à base d'eau qui devient résistante à l'eau en séchant
 - [[Perspective linéaire]] : illusion de profondeur en 2D, toutes les lignes convergeant vers un point de fuite
@@ -657,23 +641,19 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Propriété intellectuelle]] : projet ou concept imaginé par une personne et qui lui appartient, avec le copyright
 - [[Prototype]] : première version d'un projet, ou version d'un produit avant sa production
 - [[Raccourci (perspective)]] : foreshortening, technique de perspective qui place les choses dans l'espace
-- [[Rendu (vidéo)]] : rendering, processus de calcul des effets dans un logiciel de montage vidéo
 - [[Retouche et étalonnage]] : ajustement des niveaux, correction des couleurs et remplacement d'image
 - [[Roman graphique]] : graphic novel, roman dessiné en bandes dessinées
 - [[Scénario (cinéma)]] : screenplay, œuvre écrite décrivant histoire, décors, paroles et actions des personnages
 - [[Service blueprint]] : cartographie des utilisateurs et des tâches qui leur sont liées, avec le back office
 - [[Structure narrative]] : ordre et manière de raconter les événements, avec plot et setting
-- [[Synchronisation labiale]] : lip sync, faire correspondre le mouvement des lèvres avec la voix de doublage
 - [[Teinte et valeur]] : hue, apparence de la couleur pure, et value, degré de clarté d'une couleur
 - [[Texture (arts visuels)]] : surfaces rough ou smooth, et texture visuelle recréée en image
-- [[Timeline]] : représentation graphique, visuelle ou sonore du temps, support de l'animation
 - [[Types de lignes en dessin]] : gesture lines, cross contour lines et autres lignes du dessin
 - [[Typographie]] : style, allure, taille et aspect des lettres, avec typeface et kerning
 - [[Voix off]] : voix utilisée sans faire partie de la narration d'origine
 - [[Échelle hiérarchique]] : sujet représenté plus grand en raison de son importance, non de sa taille réelle
 - [[Écoconception]] : eco-design, design utile ou bénéfique pour l'environnement, comme l'emballage biodégradable
 - [[Équilibre visuel]] : balance, formes, couleurs, lignes et espaces bien répartis pour une stabilité visuelle
-- [[Étoile]] : corps céleste massif d'hydrogène et d'hélium qui produit de l'énergie par fusion nucléaire
 
 **Year 2 - Bilinear Algebra**
 
@@ -1478,25 +1458,23 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (223)
+## Résumés de sources (159)
 
-### Documents PDF et PPTX (59)
+### Documents PDF et PPTX (31)
 
 - **Year 1, Algo Maths** : [[0 - diapo prof (résumé)]]
-- **Year 1, Analyse Maths** : [[0 - rappels pdf]], [[0 - Rappels-etc (résumé)]], [[1 - Ensemble des Reels (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[TDSuites (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]]
-- **Year 1, contrôles** : [[Contrôles (résumé)]]
-- **Year 1, Outil Maths** : [[2 - pdf (résumé)]], [[3 - pdf (résumé)]], [[4 - pdf (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TDEnsembles (1) (résumé)]], [[TDRelations (résumé)]]
-- **Year 2, Algo** : [[6 - AVL (résumé)]], [[3 - Arbres (résumé)]], [[4 - Arbres binaires (résumé)]], [[5 - ABR (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
-- **Year 2, Analyse** : [[2 - intégrales multiples (résumé)]], [[TD7-integration (1) (résumé)]]
-- **Year 2, Operating System** : [[4 - OS (résumé)]], [[Copy of TP2-Commands (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP5-AWK Command (résumé)]], [[TP6-Assignment (résumé)]]
+- **Year 1, Analyse Maths** : [[0 - rappels pdf (résumé)]], [[0 - Rappels-etc (résumé)]], [[1 - Ensemble des Reels (résumé)]]
+- **Year 1, Outil Maths** : [[2 - pdf (résumé)]], [[3 - pdf (résumé)]], [[4 - pdf (résumé)]]
+- **Year 2, Algo** : [[6 - AVL (résumé)]], [[3 - Arbres (résumé)]], [[4 - Arbres binaires (résumé)]], [[5 - ABR (résumé)]]
+- **Year 2, Analyse** : [[2 - intégrales multiples (résumé)]]
+- **Year 2, Operating System** : [[4 - OS (résumé)]]
 - **Year 2, Projet Design** : [[EDOSSAH (résumé)]]
 - **Year 2, SHS** : [[1 - Ethnographie visuelle (résumé)]]
 - **Year 3, Affordance** : [[1 - UX (résumé)]], [[2 - UX (résumé)]]
 - **Year 3, Computer Network** : [[2 - IP Addressing (résumé)]]
 - **Year 3, Culture du vivant** : [[4 - Culture du vivant (résumé)]]
-- **Year 3, ligue football** : [[sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
-- **Year 3, Projet courts** : [[Santé au travail (résumé)]], [[Santé au travail - (résumé)]]
-- **Year 3, SHS** : [[2 - imaginaires du futur (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[4 - imaginaires automobile (résumé)]], [[5 - imaginaires de l'automobile (résumé)]], [[6 - usages sociaux de l'automobile (résumé)]]
+- **Year 3, Projet courts** : [[Santé au travail (résumé)]]
+- **Year 3, SHS** : [[2 - imaginaires du futur (résumé)]], [[4 - imaginaires automobile (résumé)]], [[5 - imaginaires de l'automobile (résumé)]], [[6 - usages sociaux de l'automobile (résumé)]]
 - **Year 3, Sémiotique** : [[1 - sémiotique (résumé)]], [[2 - sémiotique (résumé)]], [[3 - sémiotique (résumé)]], [[4 - sémiotique (résumé)]]
 - **Year 4, culture du soin** : [[1 - culture du soin (résumé)]]
 - **Year 4, data mining** : [[1 - pdf du prof (résumé)]]
@@ -1506,40 +1484,37 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 
 ### Autres matières de Year 1
 
-- **Algo Maths** : [[0 - Algo Maths (résumé)|Cours 1]], [[chp 2 - Python (résumé)]], [[explications DM d'algo (résumé)]]
-- **Communication orale** : [[1 - discours (résumé)]], [[Debats (résumé)]]
+- **Algo Maths** : [[0 - Algo Maths (résumé)|Cours 1]]
+- **Communication orale** : [[1 - discours (résumé)]]
 - **Corps à l'oeuvre** : [[1 - corps à l'oeuvre (résumé)]]
-- **Dessein au cube** : [[3 - Compte rendu (résumé)]], [[1 - inégalités alimentaires (résumé)]], [[2 - pistes entrevues (résumé)]], [[Synthèse (résumé)]], [[Untitled document (résumé)]], [[retranscription (résumé)]]
+- **Dessein au cube** : [[3 - Compte rendu (résumé)]], [[1 - inégalités alimentaires (résumé)]], [[2 - pistes entrevues (résumé)]]
 - **HDA** : [[1 - HDA (résumé)]]
 - **Outil Maths** : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[3 - Relation binaire (résumé)]], [[5 - Complexes (résumé)]]
 - **Peinture** : [[1 - Peinture (résumé)|Cours 1]], [[2 - Peinture (résumé)]], [[3 - Peinture (résumé)]]
 - **Philosophie** : [[1 - philo (résumé)]], [[2 - philo (résumé)]]
-- **Projet design** : [[Villeneuve (résumé)]], [[Prise parole Rendu final (résumé)]], [[Bel-air (résumé)]], [[ELBA (résumé)]], [[Melvita (résumé)]], [[Villeneuve (recherches)]]
+- **Projet design** : [[Villeneuve (résumé)]], [[Bel-air (résumé)]], [[ELBA (résumé)]], [[Melvita (résumé)]]
 
 ### Autres matières de Year 2
 
-- **Algo** : [[AVL momo (résumé)]], [[1 - récursivité et complexité (résumé)]], [[TD_Algo (résumé)]], [[2 - piles listes file (résumé)]], [[qui dit quoi AVL (résumé)]]
-- **Anglais** : [[englis (résumé)]], [[stars.html (résumé)]], [[world in 2075 (résumé)]]
+- **Algo** : [[1 - récursivité et complexité (résumé)]], [[2 - piles listes file (résumé)]]
 - **Corps à l'oeuvre** : [[2 - corps à l'oeuvre (résumé)]]
-- **Operating System** : [[8 - OS commandes sh (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[2 - TP2 (résumé)]], [[3 - TP3 (résumé)]], [[4 - TP4 (résumé)]], [[5 - TP5 (résumé)]], [[DM Shell Scripting (résumé)]], [[1 - OS (résumé)]], [[2 - OS (résumé)]], [[3 - OS (résumé)]], [[5 - OS (résumé)]], [[7 - OS (résumé)]], [[Operating Systems - Semester report (résumé)]], [[TP1 (résumé)]], [[TP2 (résumé)]], [[TP3 (résumé)]], [[TP4 (résumé)]], [[TP5 (résumé)]], [[UNIX Commands - Semester report (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[log (résumé)]]
+- **Operating System** : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[3 - TP3 (résumé)]], [[4 - TP4 (résumé)]], [[5 - TP5 (résumé)]], [[1 - OS (résumé)]], [[2 - OS (résumé)]], [[3 - OS (résumé)]], [[5 - OS (résumé)]], [[7 - OS (résumé)]]
 - **Philosophie** : [[3 - philo (résumé)]], [[4 - philo (résumé)]], [[5 - philo (résumé)]], [[6 - philo (résumé)]], [[7 - philo (résumé)]]
 - **Probability** : [[1 - Sample space,events, proba (résumé)]], [[2 - Conditional proba and independence (résumé)]], [[3 - Combinatorics (résumé)]], [[3 - Important discrete distributions (résumé)]], [[4 - Discrete random variables (résumé)]], [[5 - Continuous random variable (résumé)]], [[6 - Joint probability distributions (résumé)]]
-- **Projet Design** : [[EDOSSAH (résumé)]], [[Helloartup (résumé)]], [[Qui dit quoi (résumé)]]
+- **Projet Design** : [[EDOSSAH (résumé)]], [[Helloartup (résumé)]]
 - **écriture narrative** : [[1 - écriture narrative (résumé)]]
 
 ### Year 3
 
 - **Hors matière** : [[1 - Savoir rechercher sur Google (résumé)]]
 - **Computer Network** : [[2 - Static Routing (résumé)]], [[3 - Dynamic Routing (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]], [[5 - NAT ／ PAT (résumé)]], [[7 - Cisco (résumé)]], [[1 - Computer Networks (résumé)]], [[6 - Access Control List (résumé)]]
-- **Culture du vivant** : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[2 - Culture du vivant (résumé)]], [[3 - Culture du vivant (résumé)]]
+- **Culture du vivant** : [[2 - Culture du vivant (résumé)]], [[3 - Culture du vivant (résumé)]]
 - **Data analysis** : [[1 - Data analysis (résumé)|Cours 1]], [[2 - Introduction statistics (résumé)]], [[3 - Paradoxe de Simpson (résumé)]], [[4 - Estimation (résumé)]], [[5 - Hypothesis Testing (résumé)]], [[6 - T-Test (résumé)]], [[7 - Z-Test (résumé)]], [[8 - Chi²-Test (résumé)]], [[9 - Covariance and Correlation (résumé)]], [[10 - linear regression (résumé)]], [[11 - Multiple Linear Regression and F-statistic (résumé)]], [[12 - ANOVA and F-statistic (résumé)]], [[13 - Principal Components Analysis (résumé)]], [[13 - PCA in R (résumé)]], [[14 - functions in RStudio (résumé)]]
 - **Data base** : [[1 - Database (résumé)]], [[2 - opérateurs et SQL (résumé)]]
 - **IA** : [[1 - IA (résumé)|Cours 1]]
 - **Java** : [[1 - Intro Java (résumé)]]
-- **SHS** : [[Synthese SHS GPT (résumé)]], [[Synthèse des entretiens (résumé)]], [[Transcriptions des entretiens (résumé)]]
 - **Statistics** : [[1 - Intro to statistics (résumé)]], [[2 - Descriptive statistics (résumé)]], [[3 - More on probability (résumé)]], [[4 - Inferential statistics 1 (résumé)]], [[4 - Inferential statistics 2 (résumé)]], [[4 - Inferential statistics 3(résumé)]], [[0 - proba&stats utilitaire (résumé)]]
 - **Séries** : [[0 - Revision chapter (résumé)]], [[1 - Convergent, divergent and positive terms SERIES (résumé)]], [[2 - Alternating and absolutly convergent series (résumé)]], [[3 - Sequence of function (résumé)]], [[4 - Series of functions (résumé)]], [[5 - power series (résumé)]], [[6 - Fourier Series (résumé)]]
-- **ligue football** : [[readme (résumé)]]
 - **workshop** : [[Reyou (résumé)]]
 
 ### Year 4
@@ -1547,10 +1522,9 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 - **Gestion financière** : [[1 - gestion financière (résumé)]]
 - **C++** : [[1 - basiques (résumé)]], [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[2 - structures code (résumé)]]
 - **Culture du vivant** : [[1 - Culture du vivant (résumé)]]
-- **SHS** : [[3 - Prise de note (résumé)]], [[Recherches SHS (résumé)]], [[Entretien sur l'open source (résumé)]]
+- **SHS** : [[3 - Prise de note (résumé)]]
 - **data mining** : [[1 - intro to data mining (résumé)]]
 - **graph theory** : [[1 - Undirected graph (résumé)]], [[2 - tree (résumé)]], [[0 - Graph - Python (résumé)]], [[3 - complexité (résumé)]], [[4 - oriented graphs (résumé)]]
-- **management de l'innovation** : [[Analyse d'innovations (résumé)]], [[Douze innovations (résumé)]]
 - **projet court** : [[Fondaction Football (résumé)]]
 
 ### Year 1 - Analyse Maths
@@ -1592,23 +1566,23 @@ Classés par matière. Le nombre entre parenthèses est celui des points à vér
 - [[2 - Symmetric matrices and quadratic forms (résumé)]] : théorème spectral, formes quadratiques, SVD (5)
 - [[3 -Invertible matrix theorem (résumé)]] : les 20 énoncés équivalents (0)
 
-## Matières (41)
+## Matières (38)
 
 Chaque matière a son dossier `Cours/<Domaine> (cours)/<Matière> (cours)/`, qui contient sa carte `<Matière> (index)` et ses résumés. Les domaines sont ceux de `Concepts/`, dont les dossiers s'appellent `<Domaine> (concept)`. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
 
 Par domaine :
 
-- **Mathématiques** (9) : [[Algèbre linéaire (index)]], [[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Analyse Maths (index)]], [[Bilinear Algebra (index)]], [[Outil Maths (index)]], [[Séries (index)]], [[Contrôles (résumé)]] (sans carte)
+- **Mathématiques** (7) : [[Algèbre linéaire (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Analyse Maths (index)]], [[Bilinear Algebra (index)]], [[Outil Maths (index)]], [[Séries (index)]]
 - **Probabilités et statistiques** (3) : [[Data analysis (index)]], [[Probability (index)]], [[Statistics (index)]]
-- **Informatique** (10) : [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]], [[C++ (index)]], [[Computer Network (index)]], [[Data base (index)]], [[Data mining (index)]], [[Graph theory (index)]], [[IA (index)]], [[Java (index)]], [[Ligue football (index)]], [[Operating System (index)]]
-- **Design** (11) : [[Affordance (index)]], [[Corps à l'oeuvre (index)]], [[Culture du soin (index)]], [[Dessein au cube (index)]], [[HDA (index)]], [[Peinture (index)]], [[Projet design (Year 3) (index)]], [[Projet design (Year 1) (index)]], [[Projet design (Year 2) (index)]], [[Sémiotique (index)]], [[Workshop (index)]]
-- **Sciences humaines** (10) : [[Anglais (index)]], [[Communication orale (index)]], [[Culture du vivant (index)]], [[Écriture narrative (index)]], [[Gestion financière (index)]], [[Management de l'innovation (index)]], [[Philosophie (index)]], [[Projet design (Year 4) (index)]], [[SHS (index)]], [[1 - Savoir rechercher sur Google (résumé)]] (sans carte)
+- **Informatique** (9) : [[Algo (index)]], [[C++ (index)]], [[Computer Network (index)]], [[Data base (index)]], [[Data mining (index)]], [[Graph theory (index)]], [[IA (index)]], [[Java (index)]], [[Operating System (index)]]
+- **Design** (12) : [[Affordance (index)]], [[Corps à l'oeuvre (index)]], [[Culture du soin (index)]], [[Dessein au cube (index)]], [[HDA (index)]], [[Peinture (index)]], [[Projet design (Year 1) (index)]], [[Projet design (Year 2) (index)]], [[Projet design (Year 3) (index)]], [[Projet design (Year 4) (index)]], [[Sémiotique (index)]], [[Workshop (index)]]
+- **Sciences humaines** (7) : [[Communication orale (index)]], [[Culture du vivant (index)]], [[Écriture narrative (index)]], [[Gestion financière (index)]], [[Management de l'innovation (index)]], [[Philosophie (index)]], [[SHS (index)]], et [[1 - Savoir rechercher sur Google (résumé)]] (Séance BU, sans carte)
 
 Par année :
 
-- **Year 1** : [[Algèbre linéaire (index)]], [[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]], [[Analyse Maths (index)]], [[Communication orale (index)]], [[Corps à l'oeuvre (index)]] (aussi Year 2), [[Dessein au cube (index)]], [[HDA (index)]], [[Outil Maths (index)]], [[Peinture (index)]], [[Philosophie (index)]] (aussi Year 2), [[Projet design (Year 1) (index)]], [[Contrôles (résumé)]] (sans carte)
-- **Year 2** : [[Cours/Informatique (cours)/Algo (cours)/Algo (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Anglais (index)]], [[Bilinear Algebra (index)]], [[Écriture narrative (index)]], [[Operating System (index)]], [[Probability (index)]], [[Projet design (Year 2) (index)]], [[SHS (index)]] (aussi Year 3 et 4)
-- **Year 3** : [[Affordance (index)]], [[Computer Network (index)]], [[Culture du vivant (index)]] (aussi Year 4), [[Data analysis (index)]], [[Data base (index)]], [[IA (index)]], [[Java (index)]], [[Ligue football (index)]], [[Projet design (Year 3) (index)]], [[Sémiotique (index)]], [[Séries (index)]], [[Statistics (index)]], [[Workshop (index)]], [[1 - Savoir rechercher sur Google (résumé)]] (sans carte)
+- **Year 1** : [[Algèbre linéaire (index)]], [[Algo (index)]] (aussi Year 2), [[Analyse Maths (index)]], [[Communication orale (index)]], [[Corps à l'oeuvre (index)]] (aussi Year 2), [[Dessein au cube (index)]], [[HDA (index)]], [[Outil Maths (index)]], [[Peinture (index)]], [[Philosophie (index)]] (aussi Year 2), [[Projet design (Year 1) (index)]]
+- **Year 2** : [[Algo (index)]], [[Analyse (index)]], [[Analyse dans Rn (index)]], [[Bilinear Algebra (index)]], [[Écriture narrative (index)]], [[Operating System (index)]], [[Probability (index)]], [[Projet design (Year 2) (index)]], [[SHS (index)]] (aussi Year 3 et 4)
+- **Year 3** : [[Affordance (index)]], [[Computer Network (index)]], [[Culture du vivant (index)]] (aussi Year 4), [[Data analysis (index)]], [[Data base (index)]], [[IA (index)]], [[Java (index)]], [[Projet design (Year 3) (index)]], [[Sémiotique (index)]], [[Séries (index)]], [[Statistics (index)]], [[Workshop (index)]], [[1 - Savoir rechercher sur Google (résumé)]] (sans carte)
 - **Year 4** : [[C++ (index)]], [[Culture du soin (index)]], [[Data mining (index)]], [[Gestion financière (index)]], [[Graph theory (index)]], [[Management de l'innovation (index)]], [[Projet design (Year 4) (index)]]
 
 Matières connues par leurs seuls documents PDF ou PPTX : [[Affordance (index)]], [[Projet design (Year 3) (index)]], [[Sémiotique (index)]], [[Culture du soin (index)]], et la partie Year 2 de [[SHS (index)]].

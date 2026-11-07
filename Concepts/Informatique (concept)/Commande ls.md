@@ -27,4 +27,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Joker (wildcard)]], [[Lien sy
 
 - Le cours dit que la deuxième colonne compte les liens symboliques ; elle compte les liens physiques (signalé par le résumé).
 
-Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP1 (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

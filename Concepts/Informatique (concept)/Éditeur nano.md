@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Éditeur de texte]]. Voir aussi : [[Commande sudo]].
 
-Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

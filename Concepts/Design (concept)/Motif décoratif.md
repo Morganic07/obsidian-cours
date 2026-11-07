@@ -6,12 +6,12 @@ aliases: []
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Pattern : dessin à but décoratif fait d'éléments répétés.
 
 Voir aussi : [[Texture (arts visuels)]], [[Mola]].
 
-Résumés : [[englis (résumé)]]
+Résumés : [[1 - HDA (résumé)]]

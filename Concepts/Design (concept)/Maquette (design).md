@@ -17,7 +17,7 @@ matieres:
   - Affordance
   - SHS
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"
@@ -35,4 +35,4 @@ Glossaire d'anglais :
 
 Voir aussi : [[Prototype]], [[Mise en page]], [[Design system]], [[Arborescence d'une application]], [[Test utilisateur]], [[Design fiction]].
 
-Résumés : [[englis (résumé)]], [[2 - UX (résumé)]], [[1 - UX (résumé)]], [[2 - imaginaires du futur (résumé)]]
+Résumés : [[2 - UX (résumé)]], [[1 - UX (résumé)]], [[2 - imaginaires du futur (résumé)]]

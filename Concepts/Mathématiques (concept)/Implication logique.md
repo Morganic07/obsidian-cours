@@ -13,4 +13,4 @@ Sa négation est « $P$ et non $Q$ » (exercice 8). L'exercice 5 de la feuille t
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Condition nécessaire et suffisante]], [[Preuve par contraposition]].
 
-Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

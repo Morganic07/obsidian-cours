@@ -18,7 +18,7 @@ matieres:
   - Projet courts
 sources:
   - "[[1 - corps à l'oeuvre (résumé)|corps à l'oeuvre - cours]]"
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"
   - PDF du brief du projet, dans Raw/Year 3/Projet courts
@@ -35,4 +35,4 @@ UX design = *user experience* = design de l'expérience utilisateur. Designer qu
 
 Voir aussi : [[Affordance]], [[Design d'interface]], [[Parcours utilisateur]], [[Accessibilité]], [[Ergonomie]], [[Recherche utilisateur]], [[Test utilisateur]], [[Analyse techno-sémiotique]].
 
-Résumés : [[1 - corps à l'oeuvre (résumé)]], [[englis (résumé)]], [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[Santé au travail (résumé)]]
+Résumés : [[1 - corps à l'oeuvre (résumé)]], [[1 - UX (résumé)]], [[2 - sémiotique (résumé)]], [[Santé au travail (résumé)]]

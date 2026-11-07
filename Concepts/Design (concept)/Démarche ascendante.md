@@ -8,12 +8,12 @@ aliases:
 matieres:
   - Projet design
 sources:
-  - "[[Villeneuve (recherches)|idées solutions]]"
-maj: 2026-11-06
+  - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
+maj: 2026-11-07
 ---
 
 Pratique fondamentale d'un tiers-lieu : un processus « bottom up » où l'expression du besoin est centrale.
 
 Notion parente : [[Tiers-lieu]]. Voir aussi : [[Atelier de co-conception]].
 
-Résumés : [[Villeneuve (recherches)]]
+Résumés : [[Villeneuve (résumé)]]

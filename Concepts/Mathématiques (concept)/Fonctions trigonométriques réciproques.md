@@ -21,4 +21,4 @@ Le corrigé du TD5 obtient ce DL en intégrant celui de $1/(1+x^2)$, et utilise 
 
 Notion parente : [[Fonctions trigonométriques]]. Voir aussi : [[Développement limité]], [[Comparaison asymptotique]].
 
-Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]

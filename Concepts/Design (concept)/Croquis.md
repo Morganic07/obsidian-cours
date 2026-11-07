@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Croquis : mot venu du français, « esquisse » ; en dessin d'après modèle, un rapide dessin de la figure.
@@ -25,4 +25,4 @@ Termes associés du glossaire :
 
 Voir aussi : [[Types de lignes en dessin]], [[Nature morte]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - Peinture (résumé)]]

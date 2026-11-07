@@ -8,7 +8,7 @@ aliases:
   - IA probabiliste
   - generative AI
 sources:
-  - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
+  - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
   - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
@@ -24,4 +24,4 @@ Voir aussi : [[IA sémantique]], [[Système expert]], [[Hallucination (IA)]], [[
 
 - Thèses d'un groupe d'étudiants, non sourcées.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]], [[1 - Culture du vivant (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]], [[1 - Culture du vivant (résumé)]]

@@ -15,4 +15,4 @@ Distributivité : $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$, $A \cup (B \
 
 Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Ensembles disjoints]], [[Propriétés des connecteurs logiques]].
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

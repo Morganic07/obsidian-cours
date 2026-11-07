@@ -21,7 +21,7 @@ Pour $A, A' \subset E$ et $B, B' \subset F$ ([[4 - pdf (résumé)]]) :
 - $f(A \cap A') \subset f(A) \cap f(A')$, avec égalité (pour tous $A$, $A'$) si et seulement si $f$ est injective.
 - $f^{-1}(B \cup B') = f^{-1}(B) \cup f^{-1}(B')$, $f^{-1}(B \cap B') = f^{-1}(B) \cap f^{-1}(B')$, et $f^{-1}$ du complémentaire est le complémentaire de $f^{-1}$.
 
-D'après le TD ([[TD4Applications-Solutions (résumé)]]) :
+D'après le TD ([[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]]) :
 
 - $A \subset f^{-1}(f(A))$, avec égalité pour tout $A$ si et seulement si $f$ est injective.
 - $f(f^{-1}(B)) = f(E) \cap B$, donc $f(f^{-1}(B)) = B$ pour tout $B$ si et seulement si $f$ est surjective.
@@ -32,12 +32,12 @@ Les propriétés d'injectivité et de surjectivité sont dans [[Injectivité et 
 
 Pour $f(x) = x^2$ sur $\mathbb{R}$ : $f([-2, 1]) = [0, 4]$ et $f^{-1}([0, 4]) = [-2, 2]$. Les deux ensembles ne sont pas égaux, ce qui illustre $A \subsetneq f^{-1}(f(A))$ quand $f$ n'est pas injective.
 
-Le DS2 d'Outils math (9 déc. 2022) porte sur l'image réciproque d'une intersection et sur $A \subset f^{-1}(f(A))$, avec égalité si et seulement si $f$ est injective ([[Contrôles (résumé)]]).
+Le DS2 d'Outils math (9 déc. 2022) porte sur l'image réciproque d'une intersection et sur $A \subset f^{-1}(f(A))$, avec égalité si et seulement si $f$ est injective ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Injectivité et surjectivité]], [[Double inclusion]].
 
 ## À vérifier
 
-- Erreurs du corrigé TD4 relevées par [[TD4Applications-Solutions (résumé)]] : ex. 5, $f_2^{-1}(]-1,1[)$ (réponse juste : $\mathbb{R} \setminus (\pi/2 + \pi\mathbb{Z})$) ; ex. 9, bornes de $f([0,2[)$ et $f(]2,4])$ ; ex. 19, $f^{-1}(i\mathbb{R}) = i\mathbb{R}^*$.
+- Erreurs du corrigé TD4 relevées par [[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions]] : ex. 5, $f_2^{-1}(]-1,1[)$ (réponse juste : $\mathbb{R} \setminus (\pi/2 + \pi\mathbb{Z})$) ; ex. 9, bornes de $f([0,2[)$ et $f(]2,4])$ ; ex. 19, $f^{-1}(i\mathbb{R}) = i\mathbb{R}^*$.
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

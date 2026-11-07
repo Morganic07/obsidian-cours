@@ -13,4 +13,4 @@ Le TD3 fait écrire le miroir d'une chaîne (`miroir("séminaire") = "erianimés
 
 Notion parente : [[Type primitif]]. Voir aussi : [[Palindrome]], [[Récursivité]].
 
-Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

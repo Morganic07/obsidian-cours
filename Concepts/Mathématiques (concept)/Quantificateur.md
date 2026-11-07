@@ -19,4 +19,4 @@ Le cours de logique note $\exists a \in A,\ p(a)$ (quantificateur existentiel) e
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Relation d'ordre]], [[Suite numérique]], [[Limite et continuité]], [[Lois de De Morgan]], [[Injectivité et surjectivité]].
 
-Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[1 - logique (résumé)]]

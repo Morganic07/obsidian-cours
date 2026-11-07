@@ -25,4 +25,4 @@ Notion parente : [[Primitive]]. Voir aussi : [[Intégrale]].
 
 La formule $f(v(x))v'(x)-f(u(x))u'(x)$ est dans une image du cours qui n'a pas été ouverte : à vérifier sur l'image.
 
-Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]]

@@ -13,4 +13,4 @@ Pour la montrer, on rédige « Soit $x \in E$. Montrons que $x \in F$ ». L'incl
 
 Notion parente : [[Ensemble (mathématiques)]]. Voir aussi : [[Double inclusion]], [[Opérations sur les ensembles]].
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[3 - pdf (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[3 - pdf (résumé)]]

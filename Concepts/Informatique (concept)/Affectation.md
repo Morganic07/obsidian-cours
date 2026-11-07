@@ -15,4 +15,4 @@ L'examen d'informatique de novembre 2022 demande la différence entre initialisa
 
 Notion parente : [[Pseudo-code]]. Voir aussi : [[Échange de deux variables]].
 
-Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [PID, process identifier, process ID, getpid]
 matieres: [Operating System]
-sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ PID = Process ID : chaque processus a un PID unique qui le distingue des autres,
 
 Notion parente : [[Processus]]. Voir aussi : [[Appel fork()]], [[Appels wait() et waitpid()]], [[Bloc de contrôle de processus]].
 
-Résumés : [[7 - OS (résumé)]], [[Copy of 08 Processes-TP (résumé)]]
+Résumés : [[7 - OS (résumé)]]

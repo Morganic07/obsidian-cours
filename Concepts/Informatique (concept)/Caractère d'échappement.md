@@ -24,4 +24,4 @@ Notion parente : [[Méta-caractère]]. Voir aussi : [[Guillemets en shell]], [[S
 
 - Commentaire faux du sujet : `rm file\ file2.txt` supprime « file file2.txt », pas « file2.txt ».
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

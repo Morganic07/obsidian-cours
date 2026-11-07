@@ -12,4 +12,4 @@ Le sujet database ([[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet d
 
 Voir aussi : [[Type primitif]], [[Méthode main]], [[Compilation et bytecode]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Tableau (programmation)]].
 
-Résumés : [[1 - Intro Java (résumé)]], [[sujet database (résumé)]]
+Résumés : [[1 - Intro Java (résumé)]]

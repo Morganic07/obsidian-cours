@@ -17,4 +17,4 @@ Voir aussi : [[Définition par compréhension]], [[Inclusion (ensembles)]], [[Op
 
 - La note de cours écrit « N ∈ Z ∈ Q ∈ R » au lieu de l'inclusion $\subset$.
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[Exo-Chapitre 2 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

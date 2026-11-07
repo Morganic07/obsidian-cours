@@ -1,22 +1,51 @@
 {
   "collapse-filter": true,
-  "search": "path:Concepts  ",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#year1  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#year2  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#year3  ",
+      "color": {
+        "a": 1,
+        "rgb": 3080055
+      }
+    },
+    {
+      "query": "tag:#year4",
+      "color": {
+        "a": 1,
+        "rgb": 5407200
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.122274243403771,
+  "centerStrength": 0.277637811145823,
+  "repelStrength": 13.3233979135618,
+  "linkStrength": 0.877456414390809,
+  "linkDistance": 500,
+  "scale": 0.040137054748704874,
   "close": true
 }

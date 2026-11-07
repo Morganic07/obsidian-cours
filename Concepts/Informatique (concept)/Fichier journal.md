@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [log files, log file, fichiers journaux, auth.log]
 matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[TP1 (résumé)|TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]", "[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Le répertoire `/var` contient les données variables, comme les journaux et les
 
 Notion parente : [[Arborescence des répertoires Linux]].
 
-Résumés : [[4 - OS (résumé)]], [[TP1 (résumé)]]
+Résumés : [[4 - OS (résumé)]]

@@ -14,4 +14,4 @@ Nommée dans la fiche ressources du projet « santé au travail » sans définit
 
 Notion parente : [[Santé au travail]]. Voir aussi : [[Risques psychosociaux]], [[Postvention]].
 
-Résumés : [[Santé au travail - (résumé)]]
+Résumés : [[Santé au travail (résumé)]]

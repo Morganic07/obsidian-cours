@@ -19,4 +19,4 @@ Notion parente : [[Netplan]]. Voir aussi : [[Adressage IPv4 et CIDR]].
 
 - La légende de la figure 3.2 (DHCP) dit « Example Static IP Configuration » : coquille du sujet.
 
-Résumés : [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[3 - TP3 (résumé)]]

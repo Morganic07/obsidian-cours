@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: []
 matieres: [Projet Design]
-sources: ["[[Qui dit quoi (résumé)|Qui dit quoi]]", "[[Helloartup (résumé)|Helloartup]]"]
+sources: ["[[Raw/Year 2/Projet Design /Hello Art Up/Qui dit quoi .docx|Qui dit quoi]]", "[[Helloartup (résumé)|Helloartup]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommé comme cadre du projet Hello Art Up, sans définition ; le sigle n'est pas
 
 Voir aussi : [[Grille AGGIR]], [[Apathie]], [[Persona]].
 
-Résumés : [[Qui dit quoi (résumé)]], [[Helloartup (résumé)]]
+Résumés : [[Helloartup (résumé)]]

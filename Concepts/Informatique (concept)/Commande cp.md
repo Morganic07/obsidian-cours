@@ -8,8 +8,7 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[TP1 (résumé)|TP1]]"
-  - "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"
+  - "[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"
   - "[[3 - TP3 (résumé)|Cours TP3]]"
 maj: 2026-11-06
 ---
@@ -24,4 +23,4 @@ Voir aussi : [[Sauvegarde de fichier]], [[Tâche planifiée cron]], [[Option --h
 
 - Exemple du TP4 `0 0 * * * cp /home/user/data /home/backup/` : il copie un dossier sans `-r`, donc échoue (signalé par le résumé).
 
-Résumés : [[TP1 (résumé)]], [[UNIX Commands - Semester report (résumé)]], [[3 - TP3 (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

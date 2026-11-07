@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Tâche en arrière-plan]]. Voir aussi : [[Commandes fg et bg]], [[Commande kill]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]]

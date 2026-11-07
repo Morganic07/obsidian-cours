@@ -10,4 +10,4 @@ Deux propositions $P(p_1, \ldots, p_k)$ et $Q(p_1, \ldots, p_k)$ sont **logiquem
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Tautologie]], [[Condition nécessaire et suffisante]], [[Propriétés des connecteurs logiques]].
 
-Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]]
+Résumés : [[1 - logique (résumé)]]

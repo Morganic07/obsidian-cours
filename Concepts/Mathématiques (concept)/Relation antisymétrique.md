@@ -17,4 +17,4 @@ Notion parente : [[Relation binaire]]. Voir aussi : [[Relation d'ordre]], [[Rela
 
 - Erreur de la note de cours (tableau, texte vérifié) : « $(xRy$ et $yRz) \Rightarrow x = y$ » ; la bonne définition est $(xRy$ et $yRx) \Rightarrow x = y$, comme dans le PDF du professeur.
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

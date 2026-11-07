@@ -37,7 +37,7 @@ Application $T$ telle que $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathb
 - **Rang** : $\text{rg}(f) = \dim \text{Im}(f)$, et Im$(f)$ est engendrée par les images d'une base. Voir [[Théorème du rang]].
 - **En Bilinear Algebra, chapitre 2** : $L(V, W)$ y est introduit, et le cours remarque que le déterminant est linéaire en une colonne quand les autres sont fixées (voir aussi [[Forme linéaire]]).
 
-L'évaluation 3 d'algèbre linéaire ([[Contrôles (résumé)|Contrôles]]) demande de reconnaître des applications linéaires ou non, et d'écrire la matrice d'une application dans une base de $\mathbb{R}^3$.
+L'évaluation 3 d'algèbre linéaire ([[Raw/Year 1/Contrôles.pdf|Contrôles]]) demande de reconnaître des applications linéaires ou non, et d'écrire la matrice d'une application dans une base de $\mathbb{R}^3$.
 
 Voir aussi : [[Espace nul]], [[Espace des colonnes]], [[Injectivité et surjectivité]], [[Matrice inversible]], [[Morphisme]], [[Rang d'une matrice]], [[Changement de base]], [[Image d'une application linéaire]], [[Théorème du rang]], [[Matrice d'une application linéaire]], [[Homothétie]], [[Composition de fonctions]], [[Transformations géométriques du plan]], [[Forme linéaire]]
 
@@ -46,4 +46,4 @@ Voir aussi : [[Espace nul]], [[Espace des colonnes]], [[Injectivité et surjecti
 - [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (Algèbre)]] écrit « L(E,F) est stable par application linéaire » pour dire stable par combinaison linéaire.
 - [[2 - Symmetric matrices and quadratic forms (résumé)|Chp2 - Symmetric matrices and quadratic forms]] : « $F = \mathbb{N}$ » est faux pour le corps ($\mathbb{N}$ n'est pas un corps), et « field (ensemble) » est trop vague.
 
-Résumés : [[0 - Linear combination (résumé)]], [[0 - Matrix algebra (résumé)]], [[0 - Vector Space (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Matrix algebra (résumé)]], [[0 - Vector Space (résumé)]], [[2 - Symmetric matrices and quadratic forms (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[4 - Algèbre linéaire (résumé)|chp4 (résumé)]], [[5 - Algèbre linéaire (résumé)|chp5 (résumé)]]

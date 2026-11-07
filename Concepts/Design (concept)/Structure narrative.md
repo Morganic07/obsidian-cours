@@ -10,7 +10,7 @@ matieres:
   - Anglais
   - écriture narrative
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[1 - écriture narrative (résumé)|écriture narrative]]"
 maj: 2026-11-06
 ---
@@ -32,4 +32,4 @@ Voir aussi : [[Scénario (cinéma)]], [[Consigne d'écriture]].
 
 La note d'écriture narrative ne contient aucune méthode : les procédés viennent du résumé.
 
-Résumés : [[englis (résumé)]], [[1 - écriture narrative (résumé)]]
+Résumés : [[1 - écriture narrative (résumé)]]

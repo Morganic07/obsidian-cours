@@ -13,4 +13,4 @@ Les TD s'en servent pour réfuter une inclusion réciproque ou une propriété d
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Quantificateur]].
 
-Résumés : [[1 - logique (résumé)]], [[TDEnsembles (1) (résumé)]], [[TDRelations (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[1 - logique (résumé)]]

@@ -13,4 +13,4 @@ Propriétés : $\overline{\overline{A}} = A$, $A \cap \overline{A} = \emptyset$,
 
 Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Lois de De Morgan]], [[Différence d'ensembles]], [[Image et image réciproque]].
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

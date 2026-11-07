@@ -18,4 +18,4 @@ Notion parente : [[Dénombrement]]. Voir aussi : [[Coefficient binomial]], [[Ré
 
 - Chapitre 5 - Complexes : la ligne « 1 1 » manque dans l'image (alerte de transcription).
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[5 - Complexes (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[5 - Complexes (résumé)]]

@@ -11,8 +11,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -23,4 +23,4 @@ Glossaire d'anglais :
 
 Voir aussi : [[Licences libres]], [[Droit d'auteur et IA]].
 
-Résumés : [[englis (résumé)]]
+Résumés : [[1 - IA (résumé)]]

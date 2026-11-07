@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Responsive : capacité d'un site à s'adapter au mobile comme aux grands écrans, avec le même code.
@@ -20,4 +20,4 @@ Break points : seuils où l'écran bascule vers une taille d'appareil plus grand
 
 Voir aussi : [[Front end et back end]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - sémiotique (résumé)]]

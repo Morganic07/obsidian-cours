@@ -35,4 +35,4 @@ Notion parente : [[CLI Cisco IOS]]. Voir aussi : [[Commande ip]], [[Netplan]], [
 
 - La note [[1 - Computer Networks (résumé)|chp1 - Computer Networks]] commente `interface gigabitEthernet 0/1` par « to enable the interface » : cette ligne sélectionne l'interface, c'est `no shutdown` qui l'active.
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[1 - Computer Networks (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[1 - Computer Networks (résumé)]], [[4 - VLAN ／ IVR Commands (résumé)]]

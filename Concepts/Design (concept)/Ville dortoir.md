@@ -2,7 +2,7 @@
 type: concept
 tags: [year1]
 aliases: [effet ville dortoir]
-sources: ["[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"]
+sources: ["Prise parole Rendu final, dans Raw/Year 1/Projet design/Villeneuve (exclu du miroir)"]
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Nommé dans les notes d'oral de l'équipe pour le rendu final du projet Villeneu
 
 Voir aussi : [[Sentiment d'appartenance]], [[Tiers-lieu]].
 
-Résumés : [[Prise parole Rendu final (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Villeneuve (résumé)]]

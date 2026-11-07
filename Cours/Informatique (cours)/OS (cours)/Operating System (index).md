@@ -9,7 +9,7 @@ sources:
   - "[[5 - OS (résumé)|OS - chp 5]]"
   - "[[7 - OS (résumé)|OS - chp7]]"
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
   - "[[2 - TP2 (résumé)|Cours TP2]]"
   - "[[3 - TP3 (résumé)|Cours TP3]]"
   - "[[4 - TP4 (résumé)|Cours TP4]]"
@@ -17,7 +17,7 @@ sources:
 maj: 2026-11-06
 ---
 
-Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 21 notes sont intégrées : 11 notes de cours (chapitres 1, 2, 3, 5, 7, fiche de commandes, TP1 à TP5) et 10 notes de rendus (TP, DM, rapports). Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
+Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 10 notes sont des notes de cours : chapitres 1, 2, 3, 5, 7, fiche de commandes, TP2 à TP5. Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
 
 ## Parcours
 
@@ -29,21 +29,10 @@ Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et
 | [[5 - OS (résumé)\|OS - chp 5]] | Shell, `cat`, `chmod`, APT, scripts | [[5 - OS (résumé)\|Résumé]] |
 | [[7 - OS (résumé)\|OS - chp7]] | Processus, ordonnancement, `fork` | [[7 - OS (résumé)\|Résumé]] |
 | [[8 - OS commandes sh (résumé)\|Commandes Shell + explications]] | Fiche de commandes et de Bash | [[8 - OS commandes sh (résumé)\|Résumé]] |
-| [[chp 1 - séance TP1 (résumé)\|cours TP1]] | `sudo`, nom de machine, clavier, droits | [[chp 1 - séance TP1 (résumé)\|Résumé]] |
 | [[2 - TP2 (résumé)\|Cours TP2]] | Jokers, redirections, tâches de fond | [[2 - TP2 (résumé)\|Résumé]] |
 | [[3 - TP3 (résumé)\|Cours TP3]] | Réseau, `/etc/hosts`, scripts de sauvegarde | [[3 - TP3 (résumé)\|Résumé]] |
 | [[4 - TP4 (résumé)\|Cours TP4]] | Programme C `fork`, cron | [[4 - TP4 (résumé)\|Résumé]] |
 | [[5 - TP5 (résumé)\|Cours TP5]] | AWK | [[5 - TP5 (résumé)\|Résumé]] |
-| [[DM Shell Scripting (résumé)\|DM Shell Scripting]] | Scripts Bash, cœurs, premiers | [[DM Shell Scripting (résumé)\|Résumé]] |
-| [[Copy of 08 Processes-TP (résumé)\|Copy of 08 Processes-TP]] | Programmes C avec `fork` | [[Copy of 08 Processes-TP (résumé)\|Résumé]] |
-| [[Operating Systems - Semester report (résumé)\|Operating Systems - Semester report]] | Rapport des labs 1 et 2 | [[Operating Systems - Semester report (résumé)\|Résumé]] |
-| [[UNIX Commands - Semester report (résumé)\|UNIX Commands - Semester report]] | Rapport des TP1 à TP6 | [[UNIX Commands - Semester report (résumé)\|Résumé]] |
-| [[TP1 (résumé)\|TP1]] | Rendu du TP1 | [[TP1 (résumé)\|Résumé]] |
-| Rendu TP2 (dossier DM/TP2) | Rendu du TP2 | [[TP2 (résumé)\|Résumé]] |
-| Rendu TP3 (dossier DM/TP3) | Rendu du TP3 | [[TP3 (résumé)\|Résumé]] |
-| Rendu TP4 (dossier DM/TP4) | Rendu du TP4 | [[TP4 (résumé)\|Résumé]] |
-| [[TP5 (résumé)\|TP5 (DM)]] | Rendu du TP5 | [[TP5 (résumé)\|Résumé]] |
-| [[log (résumé)\|log (TP6)]] | Données pour AWK | [[log (résumé)\|Résumé]] |
 
 ## Documents PDF
 
@@ -52,11 +41,6 @@ Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à 
 | Document | Contenu | Résumé |
 |---|---|---|
 | OS - chp 4 ([[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf\|OS - chp 4.pdf]]) | Arborescence Linux, répertoire racine, partitions | [[4 - OS (résumé)\|Résumé]] |
-| Copy of TP2-Commands ([[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf\|Copy of TP2-Commands.pdf]]) | Sujet du TP2 : jokers, redirections, tâches de fond, guillemets | [[Copy of TP2-Commands (résumé)\|Résumé]] |
-| TP3-Commands (2) ([[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf\|TP3-Commands  (2).pdf]]) | Sujet du TP3 : adresse IP, `/etc/hosts`, Netplan, sauvegarde | [[TP3-Commands (2) (résumé)\|Résumé]] |
-| TP4-Unix Commands ([[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf\|TP4-Unix Commands.pdf]]) | Sujet du TP4 : `fork` en C, cron | [[TP4-Unix Commands (résumé)\|Résumé]] |
-| TP5-AWK Command ([[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf\|TP5-AWK Command.pdf]]) | Sujet du TP5 : AWK | [[TP5-AWK Command (résumé)\|Résumé]] |
-| TP6-Assignment ([[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf\|TP6-Assignment.pdf]]) | Sujet du TP6 : informations système, sudo, cron, AWK, `fork` | [[TP6-Assignment (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -84,8 +68,6 @@ Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à 
 
 - [[3 - OS (résumé)]] : macOS n'est pas construit sur le noyau Linux.
 - [[8 - OS commandes sh (résumé)]] : `sh` n'est pas Bash sur Debian/Ubuntu (c'est `dash`).
-- [[DM Shell Scripting (résumé)]] : la version Python du test de primalité compte 4 comme premier.
-- [[chp 1 - séance TP1 (résumé)]] : `chmod -R 444` retire le droit de traverser les dossiers.
 - [[2 - OS (résumé)]] : tableau des vitesses d'interfaces aux unités mélangées.
 
 ## Contenu manquant ou à compléter
@@ -96,6 +78,5 @@ Le cours ne couvre pas les algorithmes d'ordonnancement (FCFS, Round Robin), les
 
 - **[[Computer Network (index)]]** : le TP3 anticipe ce cours avec l'[[Adressage IPv4 et CIDR]], l'[[IPv6]], l'[[Adresse de bouclage]], l'[[Interface réseau]] et la [[Commande ping]].
 - **[[C++ (index)]]** : la [[Structure conditionnelle]], la [[Boucle (programmation)]], le [[Tableau (programmation)]], l'[[Opérateur de comparaison]] et le [[Code ASCII]] y sont repris en C.
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** et **[[Java (index)]]** : les mêmes structures de contrôle, en pseudo-code et en Java.
+- **[[Algo (index)]]** et **[[Java (index)]]** : les mêmes structures de contrôle, en pseudo-code et en Java.
 - **[[Cours/Informatique (cours)/Algo (cours)/Algo (index)]]** : la [[Factorielle]], calculée ici par des processus en C, y sert d'exemple de récursivité.
-- **[[Anglais (index)]]** : « operating system » figure dans le vocabulaire Global Exam ([[Système d'exploitation]]).

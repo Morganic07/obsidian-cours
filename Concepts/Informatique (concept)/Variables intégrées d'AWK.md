@@ -9,7 +9,7 @@ aliases:
 sources:
   - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
   - "[[5 - TP5 (résumé)|Cours TP5]]"
-  - "[[TP5 (résumé)|TP5]]"
+  - "[[Raw/Year 2/Operating System/DM/TP5/TP5.docx|TP5]]"
 maj: 2026-11-06
 ---
 
@@ -32,4 +32,4 @@ Notion parente : [[AWK]].
 
 - Exemple `{OFS="/"}` placé hors d'un bloc `BEGIN` : il marche ici, mais `BEGIN` est plus sûr (complément du résumé).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

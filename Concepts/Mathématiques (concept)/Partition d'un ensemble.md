@@ -17,4 +17,4 @@ Notion parente : [[Opérations sur les ensembles]].
 
 - Le PDF du chapitre 3 (diapositive 19) omet la condition « parties non vides ».
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[3 - pdf (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[3 - pdf (résumé)]]

@@ -16,4 +16,4 @@ Format des fichiers de configuration de Netplan. Il est sensible à l'indentatio
 
 Notion parente : [[Netplan]].
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

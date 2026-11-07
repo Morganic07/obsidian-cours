@@ -36,4 +36,4 @@ Programmation bas niveau. Le contenu des trois notes est du langage C (`printf`,
 - **[[Cours/Informatique (cours)/Algo (cours)/Algo (index)]]** : la [[Liste chaînée]] y est vue sans pointeurs, avec la pile d'exécution et la récursivité.
 - **[[Java (index)]]** : les mêmes structures de contrôle, avec le [[Transtypage]] et l'[[Évaluation en court-circuit]].
 - **[[Operating System (index)]]** : en Bash, la [[Structure conditionnelle]], la [[Boucle (programmation)]], le [[Tableau (programmation)]], l'[[Opérateur de comparaison]] et le [[Code ASCII]] ont leur équivalent shell.
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : le [[Type primitif]], la [[Fonction et procédure]] et la [[Structure (struct)]] y sont introduits en pseudo-code.
+- **[[Algo (index)]]** : le [[Type primitif]], la [[Fonction et procédure]] et la [[Structure (struct)]] y sont introduits en pseudo-code.

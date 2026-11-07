@@ -12,8 +12,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Agile : capacité à modifier un plan et à réagir plus vite.
@@ -25,6 +25,6 @@ Termes associés du glossaire :
 - **Product owner** : personne chargée des priorités d'un produit numérique.
 - **Prioritization** : décider de la priorité de chaque tâche.
 
-Voir aussi : [[Prototype]], [[Must-have et should-have]].
+Voir aussi : [[Prototype]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Santé au travail (résumé)]]

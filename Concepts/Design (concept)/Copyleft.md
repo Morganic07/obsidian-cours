@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [licence copyleft, GPL]
 matieres: ["management de l'innovationb", SHS]
-sources: ["[[Analyse d'innovations (résumé)]]", "[[Recherches SHS (résumé)]]"]
+sources: ["[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]", "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|Recherches SHS]]"]
 maj: 2026-11-07
 ---
 
@@ -22,4 +22,4 @@ Notion parente : [[Licences libres]]. Voir aussi : [[Financement participatif]].
 
 Le copyleft n'est pas défini dans ces notes.
 
-Résumés : [[Analyse d'innovations (résumé)]], [[Recherches SHS (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note (résumé)]]

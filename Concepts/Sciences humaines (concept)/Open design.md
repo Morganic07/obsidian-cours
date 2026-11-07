@@ -10,7 +10,7 @@ aliases:
 matieres:
   - SHS
 sources:
-  - "[[Recherches SHS (résumé)]]"
+  - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|Recherches SHS]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
@@ -24,7 +24,7 @@ Exemples cités par le groupe :
 
 Deux constats : la gouvernance d'un commun peut être technocratique (Blender, OpenFisca), et la création reste verticale en amont (direction artistique) avant que le commun ne serve à la distribution.
 
-L'enquête s'appuie aussi sur un entretien entre deux étudiants, où l'enquêtée décrit sa pratique de l'open source ([[Entretien sur l'open source (résumé)]]) : il s'agit de propos d'étudiante, pas du contenu d'un cours.
+L'enquête s'appuie aussi sur un entretien entre deux étudiants, où l'enquêtée décrit sa pratique de l'open source (Entretien sur l'open source) : il s'agit de propos d'étudiante, pas du contenu d'un cours.
 
 Notion parente : [[Communs numériques]]. Voir aussi : [[Design contributif]], [[Design system]], [[Licences libres]]
 
@@ -32,4 +32,4 @@ Notion parente : [[Communs numériques]]. Voir aussi : [[Design contributif]], [
 
 - Le plan de [[3 - Prise de note (résumé)|Prise de note SHS]] note encore « Définir l'Open design » comme reste à faire : la définition de cette page est celle, provisoire, du groupe.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]]
+Résumés : [[3 - Prise de note (résumé)|Prise de note SHS]]

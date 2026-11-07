@@ -4,7 +4,7 @@ tags: [year1]
 aliases: [moyenne arithmétique, moyenne géométrique, moyenne harmonique]
 matieres: [Analyse Maths]
 sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Pour $0 < x \le y$, avec la moyenne arithmétique $A = \frac{x+y}{2}$, la moyenne géométrique $G = \sqrt{xy}$ et la moyenne harmonique $H$ définie par $\frac1H = \frac12\left(\frac1x + \frac1y\right)$ :
@@ -15,4 +15,4 @@ $$x \le H \le G \le A \le y.$$
 
 Voir aussi : [[Inégalité de Bernoulli]].
 
-Résumés : [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[0 - rappels pdf (résumé)]]

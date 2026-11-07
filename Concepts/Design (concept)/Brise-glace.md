@@ -10,7 +10,7 @@ matieres:
   - Anglais
 sources:
   - "[[EDOSSAH (résumé)|EDOSSAH]]"
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Dans le projet Edossah, l'atelier s'ouvre sur un brise-glace « nos idées reçu
 
 Notion parente : [[Atelier de co-conception]].
 
-Résumés : [[EDOSSAH (résumé)]], [[englis (résumé)]]
+Résumés : [[EDOSSAH (résumé)]]

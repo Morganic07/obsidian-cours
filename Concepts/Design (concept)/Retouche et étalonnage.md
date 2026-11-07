@@ -11,8 +11,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -20,6 +20,6 @@ Glossaire d'anglais :
 - **Photo retouching** : ajustement des niveaux, correction des couleurs et remplacement d'image ;
 - **Color correction** : édition visuelle de la couleur, de la balance, des courbes, du contraste et de l'intensité par canal de couleur.
 
-Voir aussi : [[Calque (image numérique)]], [[Effets visuels]].
+Voir aussi : [[Calque (image numérique)]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - IA (résumé)]]

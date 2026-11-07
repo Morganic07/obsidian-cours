@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[5 - OS (résumé)|OS - chp 5]]"
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[3 - TP3 (résumé)|Cours TP3]]"
 maj: 2026-11-06
 ---
@@ -33,4 +33,4 @@ Exemples faits en TP et en DM : boucle infinie qui ajoute la date toutes les 2 s
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Shebang]], [[Exécution d'un script]], [[Variable Bash]], [[Structure conditionnelle]], [[Boucle (programmation)]], [[Sauvegarde de fichier]], [[Permissions Unix]], [[Tâche planifiée cron]]
 
-Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]]

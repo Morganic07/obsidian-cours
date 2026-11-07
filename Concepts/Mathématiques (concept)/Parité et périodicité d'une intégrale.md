@@ -22,4 +22,4 @@ Notion parente : [[Intégrale]].
 
 Les énoncés exacts sur la parité n'ont pas été relus mot à mot dans le cours.
 
-Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]]

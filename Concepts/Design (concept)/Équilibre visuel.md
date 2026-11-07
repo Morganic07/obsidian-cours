@@ -13,8 +13,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -28,4 +28,4 @@ Glossaire d'anglais :
 
 Notion parente : [[Composition (arts visuels)]]. Voir aussi : [[Hiérarchie visuelle]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Ethnographie visuelle (résumé)]], [[1 - HDA (résumé)]]

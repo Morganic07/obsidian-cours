@@ -8,7 +8,7 @@ aliases:
 sources:
   - "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"
   - "[[2 - TP2 (résumé)|Cours TP2]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Arborescence des répertoires Linux]]. Voir aussi : [[Partitions Linux]], [[Chemin de fichier]], [[Commande cd]].
 
-Résumés : [[4 - OS (résumé)]], [[2 - TP2 (résumé)]], [[chp 1 - séance TP1 (résumé)]]
+Résumés : [[4 - OS (résumé)]], [[2 - TP2 (résumé)]]

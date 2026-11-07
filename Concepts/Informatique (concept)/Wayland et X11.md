@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Wayland, XWayland, X11]
 matieres: [Operating System]
-sources: ["[[TP1 (résumé)|TP1]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Notion seulement rencontrée dans le rendu de l'étudiante au TP1, sans explicat
 
 Notion parente : [[Environnement de bureau]]. Voir aussi : [[Disposition du clavier]].
 
-Résumés : [[TP1 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[3 - OS (résumé)]]

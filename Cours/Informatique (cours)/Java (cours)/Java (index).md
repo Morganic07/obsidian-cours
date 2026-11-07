@@ -29,5 +29,5 @@ Introduction au langage Java. Une seule note, intégrée.
 
 - **C++ (Year 4)** : les mêmes structures de contrôle, avec des différences de syntaxe ; voir [[C++ (index)]]. L'[[Évaluation en court-circuit]] et le [[Transtypage]] se retrouvent dans les deux cours.
 - **[[Cours/Informatique (cours)/Algo (cours)/Algo (index)]]** : les algorithmes y sont écrits en Python, pas en Java.
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : [[Type primitif]], [[Structure conditionnelle]], [[Boucle (programmation)]] et [[Portée d'une variable]] y sont introduits en pseudo-code.
+- **[[Algo (index)]]** : [[Type primitif]], [[Structure conditionnelle]], [[Boucle (programmation)]] et [[Portée d'une variable]] y sont introduits en pseudo-code.
 - **[[Operating System (index)]]** : [[Structure conditionnelle]], [[Boucle (programmation)]] et [[Tableau (programmation)]] en script shell.

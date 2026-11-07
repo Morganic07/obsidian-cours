@@ -24,4 +24,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Adresse de bouclage]], [[ICMP]], [[CLI Cisco IOS]].
 
-Résumés : [[3 - TP3 (résumé)]], [[8 - OS commandes sh (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[7 - Cisco (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[8 - OS commandes sh (résumé)]], [[7 - Cisco (résumé)]]

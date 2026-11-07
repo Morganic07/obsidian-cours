@@ -27,4 +27,4 @@ Mécanismes du shell vus au TP2, qui reposent sur des [[Méta-caractère|méta-c
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Shell et Bash]], [[Script Bash]], [[AWK]], [[Joker (wildcard)]], [[Tâche en arrière-plan]], [[Commande grep]], [[Commande wc]], [[Commande sort]]
 
-Résumés : [[2 - TP2 (résumé)]], [[TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

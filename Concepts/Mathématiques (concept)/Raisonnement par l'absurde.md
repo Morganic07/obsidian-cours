@@ -14,4 +14,4 @@ On montre que $p$ est vraie en démontrant que si $p$ est fausse, on aboutit à 
 
 Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Nombre rationnel]], [[Borne supérieure]], [[Irrationalité de √2]], [[Preuve par contraposition]].
 
-Résumés : [[1 - logique (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[0 - rappels pdf]], [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]], [[DS1-correction-2021 (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[0 - rappels pdf (résumé)]]

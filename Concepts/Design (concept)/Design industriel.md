@@ -9,8 +9,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Modern industrial design : usage contemporain du design industriel, celui des cent dernières années, et non les usages traditionnels de la première révolution industrielle.
@@ -23,4 +23,4 @@ Voir aussi : [[Bauhaus]], [[Dessin technique]], [[Écoconception]].
 
 - Définition d'« anti-ornate » incohérente dans le glossaire (« less austere, heavy ») : un style anti-orné est d'ordinaire plus sobre, pas moins austère.
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Peinture (résumé)]], [[1 - culture du soin (résumé)]]

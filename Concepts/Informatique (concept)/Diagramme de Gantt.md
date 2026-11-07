@@ -23,4 +23,4 @@ Nommé dans le sujet database ([[Raw/Year 3/ligue football/for me/sujet database
 
 En Management de l'innovation (Year 4), le diagramme de Gantt figure parmi les outils représentés dans le support du 30 septembre, avec le cycle de vie, la roue de créativité et la matrice de choix des idées, sans plus de détail ([[1 - innovation (résumé)]]).
 
-Résumés : [[sujet database (résumé)]], [[1 - innovation (résumé)]]
+Résumés : [[1 - innovation (résumé)]]

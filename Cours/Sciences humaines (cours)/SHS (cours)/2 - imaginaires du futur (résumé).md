@@ -6,7 +6,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé du cours magistral « Les imaginaires du futur de l'automobile. Enquête qualitative et création design » (55 diapositives, 22 septembre 2025, F. Kröger, ID3 A et ID3 B, pilier 4 « Observer, comprendre avec les sciences humaines et sociales », CY École de Design), dans [[SHS (index)]]. Il lance l'enquête décrite dans [[TD_preparation_entretiens25.9.25 (résumé)|le TD de préparation]] et s'appuie sur les trois textes de lecture ([[4 - imaginaires automobile (résumé)|text1]], [[5 - imaginaires de l'automobile (résumé)|text2]], [[6 - usages sociaux de l'automobile (résumé)|text3]]). Voir [[Imaginaire]] et [[Entretien semi-directif]].
+Résumé du cours magistral « Les imaginaires du futur de l'automobile. Enquête qualitative et création design » (55 diapositives, 22 septembre 2025, F. Kröger, ID3 A et ID3 B, pilier 4 « Observer, comprendre avec les sciences humaines et sociales », CY École de Design), dans [[SHS (index)]]. Il lance l'enquête décrite dans [[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|le TD de préparation]] et s'appuie sur les trois textes de lecture ([[4 - imaginaires automobile (résumé)|text1]], [[5 - imaginaires de l'automobile (résumé)|text2]], [[6 - usages sociaux de l'automobile (résumé)|text3]]). Voir [[Imaginaire]] et [[Entretien semi-directif]].
 
 ## Introduction : plan du cours
 

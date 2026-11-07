@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [Fichier /etc/shells, /etc/shells, valid login shells]
 matieres: [Operating System]
-sources: ["[[5 - OS (résumé)|OS - chp 5]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]", "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Commande cat]], [[Commande which]].
 
-Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

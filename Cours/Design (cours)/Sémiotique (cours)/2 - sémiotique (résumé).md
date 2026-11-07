@@ -304,7 +304,7 @@ Exemple des réseaux sociaux (diapositive 40) :
 | Axe | Exemple |
 |---|---|
 | Stockage | photos, vidéos, publications, commentaires sauvegardés sur les serveurs : conservation à long terme de souvenirs personnels et collectifs |
-| Historique | timeline, journal d'activité, souvenirs « On This Day » (voir [[Timeline]]) |
+| Historique | timeline, journal d'activité, souvenirs « On This Day » |
 | Traces numériques | likes, partages, recherches : des données qui construisent un profil « reflétant » centres d'intérêt et habitudes |
 | Impact sur la mémoire | les souvenirs ne résident plus seulement dans l'esprit mais dans la plateforme ; la mémoire sociale et individuelle est co-construite par l'outil |
 

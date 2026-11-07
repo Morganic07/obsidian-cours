@@ -15,4 +15,4 @@ Liens : [[Interruption]], [[Création et terminaison de processus]], [[Changemen
 
 Notion parente : [[Interruption]].
 
-Résumés : [[1 - OS (résumé)]], [[7 - OS (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[7 - OS (résumé)]]

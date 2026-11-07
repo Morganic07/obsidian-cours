@@ -26,4 +26,4 @@ Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Développement lim
 
 - chp5 écrit « lim g (+∞) ≠ 1 » : la condition porte sur la limite au point étudié, pas seulement en $+\infty$.
 
-Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]

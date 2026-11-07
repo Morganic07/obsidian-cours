@@ -9,7 +9,7 @@ matieres:
   - Projet courts
 sources:
   - "[[Villeneuve (résumé)|Informations villeneuve (Brief Intro)]]"
-  - "[[Santé au travail - (résumé)]]"
+  - "[[Santé au travail (résumé)]]"
 maj: 2026-11-07
 ---
 
@@ -19,8 +19,8 @@ maj: 2026-11-07
 
 Nommée dans le brief du projet Villeneuve, sans définition : la mission est d'empêcher la stigmatisation des habitants des QPV, en captant l'attention des stigmatiseurs par des moyens de communication.
 
-En Projet courts (Year 3), la fiche ressources du projet « santé au travail » range la stigmatisation parmi les tabous de la santé mentale au travail, et cite des campagnes destinées à briser ces tabous (« Parlons santé mentale ! », SISM) ([[Santé au travail - (résumé)]]).
+En Projet courts (Year 3), la fiche ressources du projet « santé au travail » range la stigmatisation parmi les tabous de la santé mentale au travail, et cite des campagnes destinées à briser ces tabous (« Parlons santé mentale ! », SISM) ([[Santé au travail (résumé)]]).
 
 Voir aussi : [[Sentiment d'appartenance]], [[Quartier prioritaire de la politique de la ville]].
 
-Résumés : [[Villeneuve (résumé)]], [[Santé au travail - (résumé)]]
+Résumés : [[Villeneuve (résumé)]], [[Santé au travail (résumé)]]

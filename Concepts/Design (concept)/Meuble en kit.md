@@ -9,8 +9,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Termes du glossaire d'anglais :
@@ -19,6 +19,5 @@ Termes du glossaire d'anglais :
 - **Self-assembly** : construction d'un objet, surtout un meuble, à partir d'un kit.
 - **Sub-assembly** : partie d'un assemblage plus grand (les haut-parleurs d'un portable).
 
-Voir aussi : [[Nomenclature]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Reyou (résumé)]]

@@ -24,13 +24,6 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 | Chapitre 2 - Ensembles (PDF du professeur) | Version diapositives du chapitre 2 | [[2 - pdf (résumé)\|Résumé]] |
 | Chapitre 3 - Relation binaire (PDF du professeur) | Équivalence, ordre, bornes | [[3 - pdf (résumé)\|Résumé]] |
 | Chapitre 4 - Fonctions (PDF du professeur) | Applications, bijections, images | [[4 - pdf (résumé)\|Résumé]] |
-| Exo Chapitre 1 Logique | 19 exercices de logique et de preuves (scan) | [[Exo_Chapitre1_Logique (résumé)\|Résumé]] |
-| Exo Chapitre 2 | 11 exercices d'ensembles, sans corrigé | [[Exo-Chapitre 2 (résumé)\|Résumé]] |
-| TD Ensembles | Corrigé de 13 exercices d'ensembles | [[TDEnsembles (1) (résumé)\|Résumé]] |
-| TD Relations | Corrigé de 10 exercices sur les relations | [[TDRelations (résumé)\|Résumé]] |
-| TD4 Applications | Énoncé de 19 exercices sur les applications | [[TD4Applications (résumé)\|Résumé]] |
-| TD4 Applications, corrigé | Corrigé du TD4 | [[TD4Applications-Solutions (résumé)\|Résumé]] |
-| Corrigé DS1, octobre 2022 | Devoir surveillé : ensembles, logique, récurrence | [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)\|Résumé]] |
 
 ## Concepts
 
@@ -46,13 +39,11 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 - [[2 - ensembles (résumé)]] : De Morgan écrit avec $\cup$ des deux côtés pour $\overline{A \cup B}$ (il faut $\cap$) ; « $N \in Z \in Q \in R$ » au lieu de l'inclusion.
 - [[3 - Relation binaire (résumé)]] : antisymétrie écrite avec $yRz$ au lieu de $yRx$.
 - [[2 - pdf (résumé)]] : même erreur de De Morgan (propriété 6) dans le PDF du professeur, vérifiée sur l'image.
-- [[TD4Applications-Solutions (résumé)]] : $f_2^{-1}(]-1,1[)$ faux pour le sinus, bornes ouvertes à tort à l'exercice 9.
-- [[TDRelations (résumé)]] : l'argument d'incomparabilité de 2 et 3 (exercice 4.1) ne prouve pas ce qu'il annonce.
 - [[5 - Complexes (résumé)]] : $|\cos\theta + \sin\theta| = 1$ et $\cos 2x = 1 - \sin^2 x$ sont faux tels qu'écrits.
 
 ## Liens avec les autres matières
 
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : la [[Récurrence]] sert à prouver le nombre de coups des [[Tours de Hanoï]].
+- **[[Algo (index)]]** : la [[Récurrence]] sert à prouver le nombre de coups des [[Tours de Hanoï]].
 - **[[Analyse Maths (index)]]** : la [[Logique propositionnelle]] (quantificateurs) sert aux définitions de limite ; les [[Nombre complexe|complexes]] reviennent dans les formules d'Euler. [[Borne supérieure]], [[Inégalité triangulaire]], [[Composition de fonctions]] et [[Équation du second degré]] y sont repris.
 - **[[Algèbre linéaire (index)]]**, **[[Bilinear Algebra (index)]]** : [[Injectivité et surjectivité]] et [[Bijection]] s'y appliquent aux applications linéaires ; le corrigé du TD4 résout des [[Système linéaire|systèmes linéaires]].
 - **[[Probability (index)]]** : [[Opérations sur les ensembles]] et [[Cardinal d'un ensemble]] fondent le calcul des événements.

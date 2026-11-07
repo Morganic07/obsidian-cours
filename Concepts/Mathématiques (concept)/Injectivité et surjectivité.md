@@ -45,7 +45,7 @@ Pour $f$ linéaire : $f$ est injective si et seulement si Ker $f = \{0\}$, et su
 
 **Pour une application quelconque** (Outil Maths, chapitre 4) : $f$ est injective si $f(x) = f(x') \Rightarrow x = x'$, surjective si $f(E) = F$, et bijective si elle est les deux, avec alors une bijection réciproque. Avec les images, $f$ est injective si et seulement si $A = f^{-1}(f(A))$ pour toute partie $A$, et surjective si et seulement si $f(f^{-1}(C)) = C$ pour toute partie $C$. Pour une [[Composition de fonctions|composée]], $g \circ f$ injective implique $f$ injective, et $g \circ f$ surjective implique $g$ surjective. Méthode du TD 4 : pour nier l'injectivité, exhiber deux antécédents distincts d'un même élément ; pour nier la surjectivité, un élément sans antécédent. Voir [[Bijection]].
 
-Le DS2 d'Outils math demande ces définitions, la propriété sur $g \circ f$ surjective, et une bijection pour $x^2 - 1$ sur $[1, +\infty[$ ([[Contrôles (résumé)]]). **En analyse** : une fonction continue sur un intervalle est injective si et seulement si elle est strictement monotone ([[0 - rappels pdf]], [[Théorème de la bijection]]).
+Le DS2 d'Outils math demande ces définitions, la propriété sur $g \circ f$ surjective, et une bijection pour $x^2 - 1$ sur $[1, +\infty[$ ([[Raw/Year 1/Contrôles.pdf|Contrôles]]). **En analyse** : une fonction continue sur un intervalle est injective si et seulement si elle est strictement monotone ([[0 - rappels pdf (résumé)]], [[Théorème de la bijection]]).
 
 Notion parente : [[Application (mathématiques)]].
 
@@ -53,7 +53,7 @@ Liens : [[Transformation linéaire]], [[Espace nul]], [[Espace des colonnes]], [
 
 ## À vérifier
 
-- [[Contrôles (résumé)]] : « bijection de $x^2 - 1$ sur $[1, +\infty[$ » est la formulation du résumé ; les ensembles de départ et d'arrivée sont à vérifier dans le scan.
+- [[Raw/Year 1/Contrôles.pdf|Contrôles]] : « bijection de $x^2 - 1$ sur $[1, +\infty[$ » est la formulation du résumé ; les ensembles de départ et d'arrivée sont à vérifier dans le scan.
 - [[7 - Algèbre linéaire (résumé)|chp7 (Algèbre)]] : coquille « non-injonctive ».
 
-Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[0 - rappels pdf]], [[Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[4 - pdf (résumé)]], [[0 - rappels pdf (résumé)]]

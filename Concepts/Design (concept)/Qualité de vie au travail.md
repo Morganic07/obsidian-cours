@@ -15,4 +15,4 @@ Nommée sans définition dans le champ lexical de la fiche ressources du projet 
 
 Notion parente : [[Santé au travail]]. Voir aussi : [[Risques psychosociaux]].
 
-Résumés : [[Santé au travail - (résumé)]]
+Résumés : [[Santé au travail (résumé)]]

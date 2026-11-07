@@ -4,6 +4,7 @@ tags:
   - year3
 sources:
   - "[[Raw/Year 3/Culture du vivant/Culture du vivant.docx|Culture du vivant (Y3)]]"
+  - "[[Raw/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION .docx|Culture Vivant COURS 2 EXPLICATION]]"
 maj: 2026-11-06
 complet: true
 ---

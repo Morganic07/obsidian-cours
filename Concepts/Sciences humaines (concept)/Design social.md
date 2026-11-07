@@ -21,4 +21,4 @@ Notion parente : [[Intelligence collective]]. Voir aussi : [[Design des politiqu
 
 - Design social et innovation sociale sont regroupés sur cette page sans que le cours les relie : une page séparée « Innovation sociale » reste possible.
 
-Résumés : [[Santé au travail (résumé)]], [[Santé au travail - (résumé)]], [[4 - Culture du vivant (résumé)]]
+Résumés : [[Santé au travail (résumé)]], [[4 - Culture du vivant (résumé)]]

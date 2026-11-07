@@ -14,7 +14,7 @@ matieres:
   - Affordance
   - Projet courts
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[EDOSSAH (résumé)|EDOSSAH]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
   - PDF du brief du projet, dans Raw/Year 3/Projet courts
@@ -29,4 +29,4 @@ maj: 2026-11-06
 
 Notion parente : [[Atelier de co-conception]]. Voir aussi : [[Brise-glace]], [[Moodboard]], [[Intelligence collective]].
 
-Résumés : [[englis (résumé)]], [[EDOSSAH (résumé)]], [[2 - UX (résumé)]], [[Santé au travail (résumé)]]
+Résumés : [[EDOSSAH (résumé)]], [[2 - UX (résumé)]], [[Santé au travail (résumé)]]

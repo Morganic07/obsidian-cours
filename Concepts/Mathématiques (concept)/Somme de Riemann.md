@@ -26,4 +26,4 @@ Notion parente : [[Intégrale]]. Voir aussi : [[Subdivision]], [[Application lip
 
 La formule du cours porte sur $k=1,\dots,n$ (rectangles à droite), mais la remarque qui suit décrit $f(a_k)$ pour $0\le k\le n-1$ (rectangles à gauche) ([[1 - Integration (résumé)]], point 1).
 
-Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]]

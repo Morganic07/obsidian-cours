@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Interface réseau]]. Voir aussi : [[Commande ifconfig]].
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

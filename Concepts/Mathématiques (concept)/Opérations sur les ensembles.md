@@ -19,7 +19,7 @@ Correspondance avec la logique, donnée dans un tableau du cours : implication e
 
 Le TD ajoute la [[Différence symétrique|différence symétrique]] $A \Delta B = (A \cup B) \setminus (A \cap B)$, commutative et associative, ainsi que $\mathcal{P}(E \cap F) = \mathcal{P}(E) \cap \mathcal{P}(F)$ et $|\mathcal{P}(E)| = 2^n$ si $E$ a $n$ éléments.
 
-Le DS1 d'Outils math demande de montrer $A \cap C = A \cup B \iff B \subset A \subset C$ et $\mathcal{P}(E) \cup \mathcal{P}(F) \subset \mathcal{P}(E \cup F)$, et porte sur des produits cartésiens ([[Contrôles (résumé)]]).
+Le DS1 d'Outils math demande de montrer $A \cap C = A \cup B \iff B \subset A \subset C$ et $\mathcal{P}(E) \cup \mathcal{P}(F) \subset \mathcal{P}(E \cup F)$, et porte sur des produits cartésiens ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 **En Probability** : le chapitre 1 donne les diagrammes de Venn pour $\cap$, $\cup$, $A^c$ et des ensembles disjoints, puis les lois de De Morgan $(A \cup B)^c = A^c \cap B^c$, $(A \cap B)^c = A^c \cup B^c$ et leur version pour une famille $(A_i)$. Les événements sont des parties de l'espace d'échantillonnage ([[Événement (probabilités)]], [[Espace probabilisé]]).
 
@@ -29,4 +29,4 @@ Liens : [[Logique propositionnelle]], [[Relation d'équivalence]] (les classes f
 
 - [[1 - Sample space,events, proba (résumé)|Chp 1 - Sample space,events, proba]] : les bornes des lois de De Morgan pour une famille ne sont pas visibles dans la transcription.
 
-Résumés : [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Contrôles (résumé)]], [[1 - Sample space,events, proba (résumé)]]
+Résumés : [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[1 - Sample space,events, proba (résumé)]]

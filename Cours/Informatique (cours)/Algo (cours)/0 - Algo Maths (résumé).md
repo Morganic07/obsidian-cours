@@ -8,7 +8,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé de [[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]] (séance du 21/09/23), dans [[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]. En cas d'écart, le cours fait foi. Pas d'image dans cette note : les dessins n'en restent que par leur texte.
+Résumé de [[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]] (séance du 21/09/23), dans [[Algo (index)]]. En cas d'écart, le cours fait foi. Pas d'image dans cette note : les dessins n'en restent que par leur texte.
 
 ## Idée générale
 

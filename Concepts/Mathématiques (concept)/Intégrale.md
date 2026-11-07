@@ -48,4 +48,4 @@ Liens : [[Primitive]], [[Limite et continuité]], [[Application lipschitzienne]]
 
 - Dans les preuves de [[1 - démonstrations (résumé)|démonstrations - integration]], plusieurs « = » sont à lire « ≤ », et $f(x) \le f(c)/2$ à lire $f(x) \ge f(c)/2$ (relevé du résumé, points 1 à 3).
 
-Résumés : [[TD7-integration (1) (résumé)]] (exercices, dont Wallis et sommes de Riemann), [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[5 - Continuous random variable (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[5 - Continuous random variable (résumé)]]

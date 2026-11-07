@@ -23,4 +23,4 @@ Le chapitre 9 étend le changement de variables aux intégrales doubles, avec la
 
 Notion parente : [[Primitive]]. Voir aussi : [[Règles de Bioche]], [[Intégrale multiple]], [[Matrice jacobienne]].
 
-Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[TD7-integration (1) (résumé)]], [[2 - intégrales multiples (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[2 - intégrales multiples (résumé)]]

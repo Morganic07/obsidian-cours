@@ -33,4 +33,4 @@ Liens : [[Limite et continuité]], [[Fonction de classe Ck]], [[Application lips
 - [[4 - dérivabilité (résumé)|Chp4 - dérivabilité]] écrit $c \in [a, b]$ pour Rolle et les accroissements finis, alors que le théorème usuel donne $c \in ]a, b[$.
 - Pour la dérivée de la réciproque, le cours écrit « si $f$ ne s'annule pas » au lieu de $f'$.
 
-Résumés : [[4 - dérivabilité (résumé)]], [[0 - rappels pdf]], [[Contrôles (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]], [[0 - rappels pdf (résumé)]]

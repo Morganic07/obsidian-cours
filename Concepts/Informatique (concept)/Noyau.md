@@ -13,7 +13,7 @@ sources:
   - "[[1 - OS (résumé)|OS - chp 1]]"
   - "[[3 - OS (résumé)|OS - chp 3]]"
   - "[[Raw/Year 2/Operating System/Cours OS/OS - chp 4.pdf|OS - chp 4.pdf]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -27,4 +27,4 @@ Notion parente : [[Système d'exploitation]].
 
 Liens : [[Distribution Linux]], [[Appel système]]
 
-Résumés : [[1 - OS (résumé)]], [[3 - OS (résumé)]], [[4 - OS (résumé)]], [[chp 1 - séance TP1 (résumé)]]
+Résumés : [[1 - OS (résumé)]], [[3 - OS (résumé)]], [[4 - OS (résumé)]]

@@ -19,4 +19,4 @@ Le TD7 (ex. 4) étudie le cas d'égalité $\int_a^b f=(b-a)\sup|f|$.
 
 Notion parente : [[Intégrale]].
 
-Résumés : [[1 - Integration (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[0 - Intégration UTILITAIRE (résumé)]]

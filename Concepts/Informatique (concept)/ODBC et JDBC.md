@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [ODBC, JDBC, psycopg]
 matieres: [ligue football]
-sources: ["[[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]", "[[readme (résumé)|readme]]"]
+sources: ["[[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]", "[[Raw/Year 3/ligue football/readme.docx|readme]]"]
 maj: 2026-11-07
 ---
 
@@ -11,8 +11,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommés sans définition : le sujet database ([[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]) demande une application en Java, Python ou C reliée à la base par ODBC ou JDBC. Le rendu du projet étudiant ([[readme (résumé)|readme]]) utilise Python avec psycopg.
+Nommés sans définition : le sujet database ([[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database.pdf]]) demande une application en Java, Python ou C reliée à la base par ODBC ou JDBC. Le rendu du projet étudiant ([[Raw/Year 3/ligue football/readme.docx|readme]]) utilise Python avec psycopg.
 
 Voir aussi : [[PostgreSQL]], [[Langage Java]].
 
-Résumés : [[sujet database (résumé)]], [[readme (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - opérateurs et SQL (résumé)]]

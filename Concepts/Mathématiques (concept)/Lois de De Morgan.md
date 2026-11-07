@@ -16,4 +16,4 @@ Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Propriétés 
 
 - Erreur des deux supports de cours (propriété 6) : $\overline{A \cup B} = \overline{A} \cup \overline{B}$ est écrit au lieu de $\overline{A} \cap \overline{B}$ (image lue dans la note ; même texte dans le PDF).
 
-Résumés : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[TDEnsembles (1) (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]]

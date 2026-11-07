@@ -2,8 +2,8 @@
 type: concept
 tags: [year1]
 aliases: [algorithmes stochastiques]
-sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
-maj: 2026-11-06
+sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
+maj: 2026-11-07
 ---
 
 Algorithme qui intègre du hasard ou des probabilités dans ses décisions, par opposition aux algorithmes déterministes.
@@ -16,4 +16,4 @@ Notion parente : [[Problème du sac à dos]]. Voir aussi : [[Algorithme glouton]
 
 - La probabilité peut être négative pour un objet trop lourd (il est alors exclu).
 
-Résumés : [[explications DM d'algo (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - tree (résumé)]]

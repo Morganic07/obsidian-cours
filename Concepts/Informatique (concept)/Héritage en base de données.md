@@ -13,13 +13,13 @@ matieres:
   - ligue football
   - Data base
 sources:
-  - "[[sujet database (résumé)|sujet database (résumé)]]"
-  - "[[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]]"
+  - "[[Raw/Year 3/ligue football/for me/sujet database.pdf|sujet database]]"
+  - "[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Rapport du projet]]"
   - "[[1 - Database (résumé)|Cours 1 et 2 - Database]]"
 maj: 2026-11-06
 ---
 
-L'héritage, dans un [[Modèle entité-association]], regroupe les attributs communs de plusieurs entités dans une entité parente. Les entités filles ne gardent que leurs attributs propres. Dans le projet de [[Ligue football (index)]], `Personne` est le parent de `Joueur` et `Arbitre` ; le sujet impose cet héritage.
+L'héritage, dans un [[Modèle entité-association]], regroupe les attributs communs de plusieurs entités dans une entité parente. Les entités filles ne gardent que leurs attributs propres. Dans le projet de Ligue football, `Personne` est le parent de `Joueur` et `Arbitre` ; le sujet impose cet héritage.
 
 ## Dans le cours de Data base
 
@@ -43,4 +43,4 @@ Voir [[Clé primaire et clé étrangère]], [[Schéma relationnel]] et [[Langage
 
 Complément : les contraintes `CHECK` du rapport n'empêchent pas une même personne d'être à la fois dans `JOUEUR` et `ARBITRE` ; l'exclusion reste à la charge de l'application ou d'un déclencheur.
 
-Résumés : [[sujet database (résumé)|sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)|Rapport du projet (résumé)]], [[1 - Database (résumé)]]
+Résumés : [[1 - Database (résumé)]]

@@ -20,4 +20,4 @@ Le TD7 (ex. 12) en donne des exemples : $x^3/(x^2-4)$, $4x/(x-2)^2$, $1/(t^3+1)$
 
 Notion parente : [[Primitive]].
 
-Résumés : [[1 - Integration (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]]

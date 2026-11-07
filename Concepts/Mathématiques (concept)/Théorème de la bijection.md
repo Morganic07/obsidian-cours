@@ -14,4 +14,4 @@ Notion parente : [[Limite et continuité]]. Voir aussi : [[Injectivité et surje
 
 - L'équivalence « injective ⇔ strictement monotone » suppose $f$ continue sur un intervalle : vérifier l'hypothèse exacte dans le scan.
 
-Résumés : [[0 - rappels pdf]], [[Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]]

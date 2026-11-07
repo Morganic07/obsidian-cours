@@ -16,4 +16,4 @@ Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[
 
 - Le cours écrit « A admet au plus un seul majorant dans A » : formulation elliptique, il s'agit des majorants qui appartiennent à $A$.
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

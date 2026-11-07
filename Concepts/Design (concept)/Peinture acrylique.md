@@ -8,8 +8,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 **Acrylic paint** (glossaire d'anglais) : peinture à base d'eau qui devient résistante à l'eau en séchant ; elle est très épaisse si on l'utilise sans eau.
@@ -18,4 +18,4 @@ Le glossaire cite aussi le matériel : *canvas* (toile tendue sur un châssis, e
 
 Notion parente : [[Liant et diluant]]. Voir aussi : [[Empâtement]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[3 - Peinture (résumé)]]

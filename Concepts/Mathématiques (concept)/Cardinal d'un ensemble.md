@@ -15,4 +15,4 @@ Un ensemble $E$ est **fini** s'il est vide ou contient un nombre fini d'élémen
 
 Notion parente : [[Ensemble (mathématiques)]]. Voir aussi : [[Équiprobabilité]], [[Dénombrement]], [[Opérations sur les ensembles]], [[Ensemble dénombrable]].
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[1 - Sample space,events, proba (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[1 - Sample space,events, proba (résumé)]]

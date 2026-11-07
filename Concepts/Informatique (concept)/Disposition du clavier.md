@@ -11,13 +11,13 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
-  - "[[TP1 (résumé)|TP1]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"
+maj: 2026-11-07
 ---
 
 Changement temporaire, perdu au redémarrage : `setxkbmap us`. Changement permanent : modifier la ligne `XKBLAYOUT="us"` ou `"fr"` dans `/etc/default/keyboard`. Au TP1, `setxkbmap` manque et s'installe avec le paquet `x11-xkb-utils`.
 
 Voir aussi : [[Wayland et X11]].
 
-Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - tree (résumé)]]

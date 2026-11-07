@@ -6,7 +6,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé du recueil AlgoID1 (PDF) ([[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]) (163 pages, CY Tech, pré-ING 1re année), dans [[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]. Plusieurs supports sont collés bout à bout : cours d'introduction, éléments de base en pseudo-code (avec TD), fonctions et procédures, fonctions en Python, introduction à Python (en anglais), types structurés, récursivité, puis les TD de récursivité et d'enregistrements. Notions déjà dans le wiki : [[Récursivité]], [[Tours de Hanoï]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]], [[Récurrence]], et le résumé [[chp 2 - Python (résumé)]].
+Résumé du recueil AlgoID1 (PDF) ([[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]) (163 pages, CY Tech, pré-ING 1re année), dans [[Algo (index)]]. Plusieurs supports sont collés bout à bout : cours d'introduction, éléments de base en pseudo-code (avec TD), fonctions et procédures, fonctions en Python, introduction à Python (en anglais), types structurés, récursivité, puis les TD de récursivité et d'enregistrements. Notions déjà dans le wiki : [[Récursivité]], [[Tours de Hanoï]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]], [[Récurrence]], et le document [[Raw/Year 1/Algo Maths/Python.docx|Python]].
 
 Limite de lecture : le texte est extrait en entier ; les diapositives où le code Python est une image ont été lues sur l'image et recopiées en blocs de code. Les schémas (organigrammes, appels, carte, tours de Hanoï) sont intégrés en pages entières. Les exercices ne sont **pas corrigés** dans le document, sauf ceux dont la solution suit sur la diapositive d'après (signalé à chaque fois).
 
@@ -593,7 +593,7 @@ Fin
 
 ## 4. Fonctions en Python
 
-Voir [[Langage Python]] et [[chp 2 - Python (résumé)]].
+Voir [[Langage Python]] et le document [[Raw/Year 1/Algo Maths/Python.docx|Python]].
 
 ### Rappels
 

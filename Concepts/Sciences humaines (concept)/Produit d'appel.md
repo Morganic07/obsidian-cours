@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [produits d'appel]
-sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"]
+sources: ["[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Voir aussi : [[Freemium]], [[Typologie des innovations]].
 
 - Notion proche, mais distincte, de l'« appât et hameçon » de [[Typologie des innovations]] : ne pas fusionner sans source.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

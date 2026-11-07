@@ -17,4 +17,4 @@ Voir aussi : [[Image et image réciproque]], [[Injectivité et surjectivité]], 
 
 - La seconde condition de la définition formelle du cours ($f(x_1) \neq f(x_2) \Rightarrow x_1 \neq x_2$) exprime l'unicité de l'image, pas l'injectivité : confusion possible.
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

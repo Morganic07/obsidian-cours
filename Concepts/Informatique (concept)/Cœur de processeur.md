@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [cœurs de processeur, processor core, multicœur]
 matieres: [Operating System]
-sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+sources: ["[[1 - OS (résumé)|OS - chp 1]]", "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"]
 maj: 2026-11-06
 ---
 
@@ -11,4 +11,4 @@ Un cœur (core) est une unité qui lit et exécute des instructions : un cœur f
 
 Notion parente : [[Processeur]]. Voir aussi : [[Hyperthreading]], [[Cœur en ligne et hors ligne]], [[Commande nproc]], [[Commande lscpu]].
 
-Résumés : [[1 - OS (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[1 - OS (résumé)]]

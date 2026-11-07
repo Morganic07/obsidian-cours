@@ -8,7 +8,7 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Processeur]], [[Cœur en ligne et hors ligne]], [[Commande lshw]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]]

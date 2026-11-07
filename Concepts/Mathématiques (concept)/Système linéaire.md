@@ -42,4 +42,4 @@ Liens : [[Forme échelonnée]], [[Matrice augmentée]], [[Opérations élémenta
 
 - [[3 - Algèbre linéaire (résumé)|chp3 (Algèbre)]] écrit la solution « en fonction d'une inconnue » : il peut y en avoir plusieurs, selon le nombre de variables libres.
 
-Résumés : [[0 - Linear combination (résumé)]], [[3 - Algèbre linéaire (résumé)|chp3 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[3 - Algèbre linéaire (résumé)|chp3 (résumé)]]

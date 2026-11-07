@@ -13,4 +13,4 @@ Avec un développement limité en $a$, la tangente est la partie d'ordre $\le 1$
 
 Notion parente : [[Dérivabilité]]. Voir aussi : [[Développement limité]].
 
-Résumés : [[4 - dérivabilité (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[4 - dérivabilité (résumé)]]

@@ -29,9 +29,9 @@ matieres:
   - C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[chp 2 - Python (résumé)|Python]]"
+  - "[[Raw/Year 1/Algo Maths/Python.docx|Python]]"
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[3 - TP3 (résumé)|Cours TP3]]"
   - "[[1 - Intro Java (résumé)|Chp1 - Intro Java]]"
   - "[[2 - structures code (résumé)|chp2 - structures code]]"
@@ -54,4 +54,4 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Fonction range (Python)]], [[St
 
 - Le cours de Java écrit « while-do » pour do-while.
 
-Résumés : [[0 - diapo prof (résumé)]], [[chp 2 - Python (résumé)]], [[Contrôles (résumé)]], [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[3 - TP3 (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[1 - basiques (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]], [[1 - Intro Java (résumé)]], [[2 - structures code (résumé)]], [[1 - basiques (résumé)]]

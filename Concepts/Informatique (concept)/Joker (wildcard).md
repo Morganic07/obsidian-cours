@@ -26,4 +26,4 @@ Méta-caractères du shell pour désigner plusieurs fichiers à la fois :
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Expansion d'accolades]], [[Commande ls]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

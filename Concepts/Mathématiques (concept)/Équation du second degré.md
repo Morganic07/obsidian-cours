@@ -21,4 +21,4 @@ Voir aussi : [[Polynôme]], [[Nombre complexe]].
 
 - Chapitre 5 (Outil Maths) : la barre de conjugaison de $z_2 = \overline{z_1}$ est coupée sur l'image (alerte de transcription, lecture cohérente).
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]], [[5 - Complexes (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[0 - diapo prof (résumé)]], [[5 - Complexes (résumé)]]

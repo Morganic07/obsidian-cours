@@ -154,7 +154,7 @@ L'expérience utilisateur révèle une temporalité subjective : le dispositif c
 
 ### Le temps médiatique de l'actualité (diapositive 20)
 
-Le temps n'est pas seulement mesuré ou vécu, il est aussi **éditorialisé**. Les interfaces produisent du « récent », du « nouveau », du « maintenant », du « à ne pas manquer » ([[Timeline]], feed, stories éphémères, notifications) : le temps devient un dispositif d'attention. Le présent est structuré : contenus récents en haut, anciens en bas ; alertes en rouge ; rappels en push. Ce qui apparaît comme naturel est en réalité ordonné. Le temps médiatique est construit, narrativisé et spectaculaire : il transforme l'expérience en flux continu à consulter. (Illustration : un fil d'actualité de réseau social, non intégré car il montre des noms de personnes.)
+Le temps n'est pas seulement mesuré ou vécu, il est aussi **éditorialisé**. Les interfaces produisent du « récent », du « nouveau », du « maintenant », du « à ne pas manquer » (Timeline, feed, stories éphémères, notifications) : le temps devient un dispositif d'attention. Le présent est structuré : contenus récents en haut, anciens en bas ; alertes en rouge ; rappels en push. Ce qui apparaît comme naturel est en réalité ordonné. Le temps médiatique est construit, narrativisé et spectaculaire : il transforme l'expérience en flux continu à consulter. (Illustration : un fil d'actualité de réseau social, non intégré car il montre des noms de personnes.)
 
 ### Le temps des applications contre le temps long du vivant (diapositive 21)
 

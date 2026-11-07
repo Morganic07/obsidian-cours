@@ -31,4 +31,4 @@ Notion parente : [[Arbre binaire]]. Voir aussi : [[Arbre AVL]].
 
 - Doublons : la première diapositive admet « inférieure (ou égale) », la deuxième des inégalités strictes, et `insert` ignore les égaux (résumé Chapitre5, point 1).
 
-Résumés : [[5 - ABR (résumé)]], [[3 - Arbres (résumé)]], [[6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[5 - ABR (résumé)]], [[3 - Arbres (résumé)]], [[6 - AVL (résumé)]]

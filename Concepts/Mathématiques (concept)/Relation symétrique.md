@@ -13,4 +13,4 @@ Le TD note qu'il ne faut pas confondre antisymétrique et « non symétrique ».
 
 Notion parente : [[Relation binaire]]. Voir aussi : [[Relation d'équivalence]], [[Relation antisymétrique]].
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

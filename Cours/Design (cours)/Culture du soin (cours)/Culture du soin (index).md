@@ -30,5 +30,4 @@ Les trois lectures (Heidegger, Merleau-Ponty, Foucault) sont données en une dia
 - [[Sémiotique (index)]] : même idée que les objets techniques ne sont pas neutres.
 - [[Projet design (Year 3) (index)]] : le projet sur la santé au travail touche au soin.
 - [[Affordance (index)]] : [[Ergonomie]] y est définie (SELF), dans le cadre des tests utilisateurs.
-- [[Anglais (index)]] : le glossaire définit [[Accessibilité]] et [[Ergonomie]].
 - [[Projet design (Year 1) (index)]] : [[Soin (care)]] apparaît déjà dans le projet ELBA.

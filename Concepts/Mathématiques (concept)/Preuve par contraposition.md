@@ -17,4 +17,4 @@ Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Implication logiqu
 
 - Dans la preuve de parité, la transcription porte « $q(x,x)$ » avec un « À vérifier » ; on attend $q(x,y)$.
 
-Résumés : [[1 - logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[4 - pdf (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[4 - pdf (résumé)]]

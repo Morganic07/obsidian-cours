@@ -16,4 +16,4 @@ Notion parente : [[Limite et continuité]]. Voir aussi : [[Suite extraite]].
 
 - Polycopié scanné : contenu relevé d'après le résumé.
 
-Résumés : [[0 - rappels pdf]]
+Résumés : [[0 - rappels pdf (résumé)]]

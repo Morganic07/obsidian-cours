@@ -19,4 +19,4 @@ Le TD7 l'emploie pour calculer des primitives ($x\arctan x$, $e^x\cos x$, $\ln x
 
 Notion parente : [[Primitive]]. Voir aussi : [[Intégrales de Wallis]].
 
-Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]], [[TD7-integration (1) (résumé)]]
+Résumés : [[1 - Integration (résumé)]], [[1 - démonstrations (résumé)]]

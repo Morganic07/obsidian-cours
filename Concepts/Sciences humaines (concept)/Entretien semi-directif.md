@@ -29,7 +29,6 @@ sources:
   - "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"
   - "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
-  - "[[Entretien sur l'open source (résumé)]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
@@ -51,16 +50,16 @@ Méthode d'enquête de terrain où l'on interroge une personne à partir d'un gu
 
 Les notes de 1re année ne disent pas « semi-directif » : c'est le nom retenu pour cette page.
 
-**En SHS (3e année)** : méthode venue de l'anthropologie, où l'on dirige en partie le discours par une question très large et un guide d'entretien (au moins trois questions ouvertes, du général au spécifique, avec des relances). L'entretien est enregistré, 10 à 15 minutes, avec l'accord des participants, complété de questions socio-démographiques, puis retranscrit : une minute d'audio demande environ quatre minutes de transcription. Le TD donne la démarche complète, jusqu'à la grille d'analyse ([[TD_preparation_entretiens25.9.25 (résumé)]], [[2 - imaginaires du futur (résumé)]]). Voir aussi [[Imaginaire]], [[Questionnaire]].
+**En SHS (3e année)** : méthode venue de l'anthropologie, où l'on dirige en partie le discours par une question très large et un guide d'entretien (au moins trois questions ouvertes, du général au spécifique, avec des relances). L'entretien est enregistré, 10 à 15 minutes, avec l'accord des participants, complété de questions socio-démographiques, puis retranscrit : une minute d'audio demande environ quatre minutes de transcription. Le TD donne la démarche complète, jusqu'à la grille d'analyse ([[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25]], [[2 - imaginaires du futur (résumé)]]). Voir aussi [[Imaginaire]], [[Questionnaire]].
 
 **En Affordance** : l'entretien recueille objectifs et ressenti, avec souplesse, mais reste déclaratif, sans contexte d'usage direct, peu adapté aux grands échantillons et soumis à des biais (halo, confirmation, rapport interviewer-interviewé). Le cours le compare à l'observation ([[2 - UX (résumé)]]).
 
-**En SHS (4e année)** : l'enquête repose sur des entretiens transcrits, dont un entretien entre deux étudiants sur la pratique de l'open source ; le plan prévoit une méthodologie d'enquête (nombre et profils des interviewés, limites). La note ne dit pas que l'entretien est semi-directif ([[Entretien sur l'open source (résumé)]], [[3 - Prise de note (résumé)]]).
+**En SHS (4e année)** : l'enquête repose sur des entretiens transcrits, dont un entretien entre deux étudiants sur la pratique de l'open source ; le plan prévoit une méthodologie d'enquête (nombre et profils des interviewés, limites). La note ne dit pas que l'entretien est semi-directif (Entretien sur l'open source, [[3 - Prise de note (résumé)]]).
 
 Notion parente : [[Enquête qualitative et quantitative]]. Suite logique : [[Analyse thématique d'entretien]], puis [[Persona]]. Utilisé aussi pour le quartier Bel-Air : [[Bel-air (résumé)|Projet BLR (résumé)]].
 
 ## À vérifier
 
-- Les notes « Synthèse des entretiens » et « Transcriptions des entretiens » (SHS, 3e année) sont exclues du miroir de Drive : seuls leurs résumés ont été lus ([[Synthèse des entretiens (résumé)]], [[Transcriptions des entretiens (résumé)]]).
+- Les notes « Synthèse des entretiens » et « Transcriptions des entretiens » (SHS, 3e année) sont exclues du miroir de Drive : seuls leurs résumés ont été lus (Synthèse des entretiens, Transcriptions des entretiens).
 
-Résumés : [[2 - pistes entrevues (résumé)|Pistes entrevue (résumé)]], [[1 - inégalités alimentaires (résumé)]], [[3 - Compte rendu (résumé)|Compte rendu (résumé)]], [[retranscription (résumé)]], [[TD_preparation_entretiens25.9.25 (résumé)]], [[2 - UX (résumé)]], [[Entretien sur l'open source (résumé)]], [[3 - Prise de note (résumé)]]
+Résumés : [[2 - pistes entrevues (résumé)|Pistes entrevue (résumé)]], [[1 - inégalités alimentaires (résumé)]], [[3 - Compte rendu (résumé)|Compte rendu (résumé)]], [[2 - UX (résumé)]], [[3 - Prise de note (résumé)]]

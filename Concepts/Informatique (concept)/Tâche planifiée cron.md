@@ -37,13 +37,13 @@ Syntaxe : `minute heure jour-du-mois mois jour-de-semaine commande` (minute 0-59
 
 L'intervalle minimal est 1 minute : cron ne sait pas lancer toutes les X secondes. `*/15` signifie « toutes les 15 unités » du champ.
 
-**Exercices** : au TP4, cron sauvegarde `temperature.txt` ([[TP4 (résumé)]], [[UNIX Commands - Semester report (résumé)]]) ; au TP6, une tâche cron copie trois fichiers de `/home/First`, `/home/Second` et `/home/Third` vers `/home/Backup` toutes les 2 minutes ([[TP6-Assignment (résumé)]]).
+**Exercices** : au TP4, cron sauvegarde `temperature.txt` ([[Raw/Year 2/Operating System/DM/TP4/TP4 - Pina Morgane.docx|TP4]], UNIX Commands - Semester report) ; au TP6, une tâche cron copie trois fichiers de `/home/First`, `/home/Second` et `/home/Third` vers `/home/Backup` toutes les 2 minutes ([[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment]]).
 
 Voir aussi : [[Démon (informatique)]], [[Commande systemctl]], [[Sauvegarde de fichier]], [[Super-utilisateur root]], [[Script Bash]], [[Shell et Bash]]
 
 ## À vérifier
 
-- Le sujet du TP4 ([[TP4-Unix Commands (résumé)]]) parle de « six fields » : cinq champs de temps plus la commande.
+- Le sujet du TP4 ([[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands]]) parle de « six fields » : cinq champs de temps plus la commande.
 - « Dimanche = 0 » : 7 désigne aussi le dimanche (complément du résumé).
 
-Résumés : [[4 - TP4 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP4 (résumé)]], [[TP6-Assignment (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[4 - TP4 (résumé)]]

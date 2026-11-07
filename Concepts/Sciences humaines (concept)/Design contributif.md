@@ -4,7 +4,7 @@ tags:
   - year4
 aliases: []
 sources:
-  - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
+  - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
@@ -17,4 +17,4 @@ Notion parente : [[Open design]]. Voir aussi : [[Dictature bienveillante]], [[Go
 
 - Les jugements sont des thèses du groupe.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

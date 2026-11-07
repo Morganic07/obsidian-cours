@@ -19,4 +19,4 @@ Notion parente : [[Logique propositionnelle]]. Voir aussi : [[Propriétés des c
 
 - Notion utilisée dans un exercice sans être définie dans le cours (vérifié sur l'image de la page 2 du PDF scanné).
 
-Résumés : [[Exo_Chapitre1_Logique (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - logique (résumé)]]

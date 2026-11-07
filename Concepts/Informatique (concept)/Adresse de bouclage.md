@@ -33,4 +33,4 @@ Notion parente : [[Interface réseau]]. Voir aussi : [[Commande ping]], [[Adress
 
 - Au rendu du TP3, 127.0.0.1 est présenté comme une adresse « interne » ; c'est l'adresse de bouclage (signalé par le résumé).
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[2 - IP Addressing (résumé)]]
+Résumés : [[3 - TP3 (résumé)]], [[2 - IP Addressing (résumé)]]

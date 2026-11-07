@@ -5,8 +5,8 @@ tags:
 aliases:
   - back office
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Glossaire d'anglais :
@@ -17,4 +17,4 @@ Glossaire d'anglais :
 
 Notion parente : [[Design de services]]. Voir aussi : [[Parcours utilisateur]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Reyou (résumé)]], [[1 - UX (résumé)]]

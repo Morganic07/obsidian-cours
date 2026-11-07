@@ -3,8 +3,8 @@ type: concept
 tags: [year1]
 aliases: [sac à dos, knapsack, knapsack problem]
 matieres: [Algo Maths]
-sources: ["[[explications DM d'algo (résumé)|explications DM d'algo]]"]
-maj: 2026-11-06
+sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
+maj: 2026-11-07
 ---
 
 Étant donné $n$ objets de valeur $v$ et de poids $w$, et un sac de capacité $P$, choisir des objets entiers (pris ou non, pas de fraction) de valeur totale maximale sans dépasser $P$. Il y a $2^n$ configurations.
@@ -17,6 +17,6 @@ Voir aussi : [[Recherche exhaustive]], [[Code de Gray]], [[Algorithme glouton]],
 
 ## À vérifier
 
-- Dans [[explications DM d'algo (résumé)|explications DM d'algo]], le commentaire du code dit que la première ligne donne « la valeur de chaque objet », alors que le code y lit la capacité $P$.
+- Dans [[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]], le commentaire du code dit que la première ligne donne « la valeur de chaque objet », alors que le code y lit la capacité $P$.
 
-Résumé : [[explications DM d'algo (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - tree (résumé)]], [[0 - diapo prof (résumé)]]

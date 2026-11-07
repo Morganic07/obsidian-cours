@@ -7,7 +7,7 @@ sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[
 maj: 2026-11-06
 ---
 
-Une **suite** est une application $u : \mathbb{N} \to \mathbb{R}$ (ou $\mathbb{C}$). Résumés : [[0 - rappels pdf]] (cours, chapitre 2) et [[TDSuites (résumé)]].
+Une **suite** est une application $u : \mathbb{N} \to \mathbb{R}$ (ou $\mathbb{C}$). Résumés : [[0 - rappels pdf (résumé)]] (cours, chapitre 2) et [[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]].
 
 ## Définitions
 
@@ -39,7 +39,7 @@ La convergence se lit sur la partie réelle et la partie imaginaire, ou sur le m
 
 Le chapitre de révision ([[0 - Revision chapter (résumé)]]) reprend ces bases : une suite est une fonction de $\mathbb{N}$ dans $\mathbb{R}$, définie par formule ou par récurrence, convergente vers $\ell$ si $\forall \epsilon > 0, \exists N, \forall n \ge N, |a_n - \ell| < \epsilon$ (inégalité stricte, là où le cours de 1re année écrit $\le$). Il cite la [[Suite géométrique]] $a, ar, ar^2, \dots$ ; toute suite convergente est bornée, une suite monotone bornée converge, et deux suites adjacentes ont la même limite.
 
-Le DS2 d'Analyse I ([[Contrôles (résumé)|Contrôles]]) demande les définitions de suite décroissante, bornée, de limite $-\infty$ avec quantificateurs, et de suites adjacentes, puis des calculs de limites.
+Le DS2 d'Analyse I ([[Raw/Year 1/Contrôles.pdf|Contrôles]]) demande les définitions de suite décroissante, bornée, de limite $-\infty$ avec quantificateurs, et de suites adjacentes, puis des calculs de limites.
 
 ## Liens
 
@@ -47,7 +47,7 @@ Voir aussi : [[Convergence d'une suite]], [[Théorème des gendarmes]], [[Théor
 
 ## À vérifier
 
-- Le chapitre 2 du polycopié scanné [[0 - rappels pdf|AnalyseID1]] : seul le plan est extractible, le reste vient du résumé (lu en image).
-- [[TDSuites (résumé)|TDSuites]], exercice 27 : « périodique donc divergente » est mal justifié (une suite périodique peut converger).
+- Le chapitre 2 du polycopié scanné [[0 - rappels pdf (résumé)|AnalyseID1]] : seul le plan est extractible, le reste vient du résumé (lu en image).
+- [[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]], exercice 27 : « périodique donc divergente » est mal justifié (une suite périodique peut converger).
 
-Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[0 - Revision chapter (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[0 - Revision chapter (résumé)]]

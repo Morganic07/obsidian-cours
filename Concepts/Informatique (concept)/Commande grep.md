@@ -9,7 +9,7 @@ matieres:
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
   - "[[2 - TP2 (résumé)|Cours TP2]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Commande wc]], [[Commande lscpu]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]]

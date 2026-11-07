@@ -7,12 +7,12 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 **Voice-over** (glossaire d'anglais) : technique de production où une voix est utilisée (radio, télévision, cinéma, théâtre) sans faire partie de la narration d'origine.
 
-Voir aussi : [[Synchronisation labiale]], [[Design sonore]].
+Voir aussi : [[Design sonore]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - IA (résumé)]]

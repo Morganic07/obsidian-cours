@@ -15,8 +15,8 @@ Un complexe s'écrit sous forme algébrique $z = a + ib$ avec $i^2 = -1$. Somme 
 - **Moivre** : $z^n = |z|^n(\cos n\theta + i\sin n\theta)$. **Euler** : $\cos\theta = \frac{e^{i\theta} + e^{-i\theta}}{2}$, $\sin\theta = \frac{e^{i\theta} - e^{-i\theta}}{2i}$.
 - **Géométrie** ([[Affixe]]) : $|z_B - z_A| = AB$, $\arg(z_B - z_A) = (\vec{u}; \overrightarrow{AB})$.
 
-**En analyse** : le module et les parties réelle et imaginaire servent aux [[Suite complexe|suites complexes]] ([[0 - rappels pdf]], [[TDSuites (résumé)]]). Le contrôle d'Outils math demande la forme exponentielle de $e^{i\pi/3}e^{-i\pi/4}$, les valeurs exactes de $\cos(\pi/12)$ et $\sin(\pi/12)$, la résolution de $z^2 + z + 1 = 0$ et une relation $|z| = |z'|$ ([[Contrôles (résumé)]]).
+**En analyse** : le module et les parties réelle et imaginaire servent aux [[Suite complexe|suites complexes]] ([[0 - rappels pdf (résumé)]], [[Raw/Year 1/Analyse Maths/Exos/TDSuites.pdf|TDSuites]]). Le contrôle d'Outils math demande la forme exponentielle de $e^{i\pi/3}e^{-i\pi/4}$, les valeurs exactes de $\cos(\pi/12)$ et $\sin(\pi/12)$, la résolution de $z^2 + z + 1 = 0$ et une relation $|z| = |z'|$ ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 Le cours écrit à tort $|\cos\theta + \sin\theta| = 1$ (il manque le $i$) et $\cos 2x = 1 - \sin^2 x$ (il faut $1 - 2\sin^2 x$).
 
-Résumés : [[5 - Complexes (résumé)]], [[4 - pdf (résumé)]], [[TD4Applications-Solutions (résumé)]], [[0 - rappels pdf]], [[TDSuites (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Complexes (résumé)]], [[4 - pdf (résumé)]], [[0 - rappels pdf (résumé)]]

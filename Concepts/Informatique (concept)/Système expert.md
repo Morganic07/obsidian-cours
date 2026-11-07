@@ -9,7 +9,7 @@ aliases:
   - expert systems
 sources:
   - "[[1 - IA (résumé)|Cours 1 (IA)]]"
-  - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
+  - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
 maj: 2026-11-06
 ---
 
@@ -19,4 +19,4 @@ Nommé dans [[1 - IA (résumé)|Cours 1 (IA)]] sans définition : les systèmes 
 
 Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Logic Theorist]], [[ELIZA]], [[Deep Blue]], [[IA générative]], [[Hallucination (IA)]], [[Design des règles]].
 
-Résumés : [[1 - IA (résumé)|Cours 1 (IA) (résumé)]], [[Recherches SHS (résumé)]]
+Résumés : [[1 - IA (résumé)|Cours 1 (IA) (résumé)]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [compilateur GCC, GCC compiler]
 matieres: [Operating System]
-sources: ["[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommé dans le TP Processes sans définition : les labs 1 à 3 demandent de comp
 
 Voir aussi : [[Création et terminaison de processus]].
 
-Résumés : [[Copy of 08 Processes-TP (résumé)]]
+Résumés : [[1 - basiques (résumé)]]

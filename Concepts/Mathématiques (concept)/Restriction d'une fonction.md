@@ -13,4 +13,4 @@ Le TD 4 cherche des restrictions bijectives : $\sin$ de $[-\pi/2, \pi/2]$ sur $[
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Bijection]], [[Injection canonique]].
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

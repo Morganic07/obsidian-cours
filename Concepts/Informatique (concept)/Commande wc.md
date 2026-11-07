@@ -22,4 +22,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Comm
 
 - L'étudiante écrit « Wc = write count » : `wc` signifie word count (signalé par le résumé).
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]]

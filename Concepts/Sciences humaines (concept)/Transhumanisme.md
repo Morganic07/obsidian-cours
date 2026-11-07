@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [transhumanité]
 matieres: [Culture du vivant, SHS]
-sources: ["[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"]
+sources: ["[[2 - Culture du vivant (résumé)|Culture Vivant COURS 2 EXPLICATION]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Voir aussi : [[Progrès technique]], [[Cyborg]].
 
 Le cours écrit « Transhumanité », pas « transhumanisme ».
 
-Résumés : [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]]
+Résumés : [[2 - Culture du vivant (résumé)]], [[4 - imaginaires automobile (résumé)]]

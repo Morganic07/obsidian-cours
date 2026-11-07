@@ -12,9 +12,9 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
   - "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Le fichier sudoers s'ouvre avec `sudo visudo` (tâche 2 du TP6).
@@ -28,4 +28,4 @@ Notion parente : [[Commande sudo]].
 
 - Incohérence dans l'image d'origine : 15 minutes dans le texte, 30 minutes dans la parenthèse (signalée par la transcription et le résumé).
 
-Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[TP6-Assignment (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[8 - OS commandes sh (résumé)]]

@@ -6,7 +6,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé du diaporama de la séance 3 sur 4 du cours « Innover » (12 h, septembre-octobre 2026, 20 pages numérotées 28 à 47, Olaf de Hemmer Gudme), dans [[Management de l'innovation (index)]]. Module « Comprendre les organisations humaines », CY École de Design, ingénieur designer 4e année 2026-2027. Il apporte le cadre théorique que les devoirs ([[Analyse d'innovations (résumé)]], [[Douze innovations (résumé)]]) ne font qu'appliquer : voir [[Value(s) Design]] et [[Grille du management de la valeur]].
+Résumé du diaporama de la séance 3 sur 4 du cours « Innover » (12 h, septembre-octobre 2026, 20 pages numérotées 28 à 47, Olaf de Hemmer Gudme), dans [[Management de l'innovation (index)]]. Module « Comprendre les organisations humaines », CY École de Design, ingénieur designer 4e année 2026-2027. Il apporte le cadre théorique que les devoirs ([[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]], [[Raw/Year 4/management de l'innovationb/innovations - Morgane Pina .docx|Douze innovations]]) ne font qu'appliquer : voir [[Value(s) Design]] et [[Grille du management de la valeur]].
 
 Les numéros de diapositive cités ci-dessous sont ceux imprimés sur le diaporama (28 à 47) ; les images portent le numéro de page du PDF (1 à 20).
 

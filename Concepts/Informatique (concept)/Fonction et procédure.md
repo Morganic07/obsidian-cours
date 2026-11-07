@@ -34,4 +34,4 @@ Notion parente : [[Programmation modulaire]]. Voir aussi : [[Passage de paramèt
 
 - C : dans la fonction `affiche_points` de l'image, `i` et `j` ne sont pas déclarés (relevé du résumé).
 
-Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]], [[2 - structures code (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[2 - structures code (résumé)]]

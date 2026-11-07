@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Technical drawing : comme un plan (blueprint), un dessin qui inclut les aspects d'ingénierie pour montrer le fonctionnement détaillé d'un objet.
@@ -20,4 +20,4 @@ Le CAD technician utilise un logiciel de conception assistée par ordinateur (CA
 
 Notion parente : [[Design industriel]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - Peinture (résumé)]]

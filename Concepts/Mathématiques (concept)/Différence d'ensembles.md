@@ -16,4 +16,4 @@ Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Différence s
 
 - La transcription du cours (Chapitre 2 ensembles) lit « x B » : le symbole $\notin$ est perdu (alerte « À vérifier »).
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

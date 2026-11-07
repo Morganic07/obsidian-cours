@@ -15,4 +15,4 @@ Nommé dans le rapport du projet de ligue de football (travail d'étudiants) san
 
 Notion parente : [[Clé primaire et clé étrangère]]. Voir aussi : [[Types de données SQL]].
 
-Résumés : [[Rapport du projet Ligue Football (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Database (résumé)]]

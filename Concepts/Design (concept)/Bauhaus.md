@@ -9,7 +9,7 @@ matieres:
   - Anglais
 sources:
   - "[[1 - Peinture (résumé)|Cours 1 (Peinture)]]"
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Voir aussi : [[Art abstrait]], [[Design industriel]].
 
 - (Complément, hors cours) Le Bauhaus est fondé à Weimar en 1919 et ne s'installe à Berlin qu'en 1932 : « Berlin 1919-1933 » paraît inexact.
 
-Résumés : [[1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]], [[englis (résumé)]]
+Résumés : [[1 - Peinture (résumé)|Cours 1 (résumé, Peinture)]]

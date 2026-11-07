@@ -11,7 +11,7 @@ matieres:
   - management de l'innovationb
 sources:
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
-  - "[[Analyse d'innovations (résumé)]]"
+  - "[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]"
 maj: 2026-11-06
 ---
 
@@ -23,4 +23,4 @@ Voir aussi : [[Freemium]], [[Communs numériques]], [[Copyleft]].
 
 - Le mot « crowdfunding » n'apparaît pas dans les notes.
 
-Résumés : [[3 - Prise de note (résumé)]], [[Analyse d'innovations (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

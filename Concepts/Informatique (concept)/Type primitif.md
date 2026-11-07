@@ -43,4 +43,4 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Chaîne de caractères]], [[Nom
 - C : le cours dit que `char` peut être signé (`char`) ou non (`unsigned char`) ; le signe d'un `char` seul dépend de l'implémentation (complément du résumé).
 - C : Chp3 écrit qu'un entier fait 8 octets sur système 64 bits, ce qui contredit Chp1 (« généralement 4 octets »).
 
-Résumés : [[0 - diapo prof (résumé)]], [[Contrôles (résumé)]], [[1 - Intro Java (résumé)]], [[1 - basiques (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]], [[1 - Intro Java (résumé)]], [[1 - basiques (résumé)]]

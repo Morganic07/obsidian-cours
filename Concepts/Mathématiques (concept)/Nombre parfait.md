@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [nombres parfaits]
 sources: ["[[Raw/Year 1/Contrôles.pdf|Contrôles.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Définition de l'examen d'informatique du 14 novembre 2022 (partie 2, pages 31-32 de `Contrôles.pdf`) : « Un nombre est dit parfait s'il est égal à la moitié de la somme de ses diviseurs. »
@@ -16,4 +16,4 @@ L'exercice fait d'abord écrire une fonction `divise(a, b)`, puis la fonction `p
 
 Voir aussi : [[Fonction et procédure]], [[Nombre d'Armstrong]].
 
-Résumés : [[Contrôles (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[0 - diapo prof (résumé)]]

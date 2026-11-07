@@ -4,7 +4,7 @@ tags: [year1]
 aliases: [Cauchy-Schwarz, Cauchy-Schwartz]
 matieres: [Analyse Maths]
 sources: ["[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Pour des réels $a_k, b_k$ :
@@ -19,4 +19,4 @@ Notion parente : [[Produit scalaire]]. Voir aussi : [[Équation du second degré
 
 - Le TD écrit « Cauchy-Schwartz » : orthographe fautive, gardée seulement comme variante.
 
-Résumés : [[TD1-numbres-reels (résumé)]], [[td1slides (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Orthogonality (résumé)]]

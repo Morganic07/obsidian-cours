@@ -15,7 +15,7 @@ matieres:
   - C++
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[1 - basiques (résumé)|Chp1 - basiques]]"
   - "[[2 - structures code (résumé)|chp2 - structures code]]"
 maj: 2026-11-06
@@ -40,4 +40,4 @@ Notion parente : [[Structure conditionnelle]]. Voir aussi : [[Évaluation en cou
 - `if (((a==b) == 1) == (b==c))` n'équivaut pas à `a == b && b == c` ;
 - `^` est un OU exclusif bit à bit : il n'y a pas de XOR logique en C.
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]], [[1 - basiques (résumé)]], [[2 - structures code (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[1 - basiques (résumé)]], [[2 - structures code (résumé)]]

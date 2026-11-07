@@ -11,13 +11,13 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
   - "[[Raw/Year 2/Operating System/DM/TP4/TP4-Unix Commands.pdf|TP4-Unix Commands.pdf]]"
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Utilisateur aux privilèges complets. `sudo` donne ses privilèges sans se connecter en root. Seul root peut lire `/etc/shadow`. `crontab -e` lancé avec `sudo` édite la table de root, pas celle de l'utilisateur.
 
 Voir aussi : [[Commande sudo]], [[Fichiers de mots de passe]], [[Tâche planifiée cron]].
 
-Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[4 - TP4 (résumé)]], [[8 - OS commandes sh (résumé)]]

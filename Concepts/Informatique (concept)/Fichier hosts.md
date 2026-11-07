@@ -20,4 +20,4 @@ Il se modifie avec n'importe quel éditeur (`sudo nano /etc/hosts`, une ligne `<
 
 Notion parente : [[DNS]]. Voir aussi : [[Nom d'hôte]].
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

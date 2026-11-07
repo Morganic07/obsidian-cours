@@ -2,7 +2,7 @@
 type: concept
 tags: [year2]
 aliases: [fork system call]
-sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[Copy of 08 Processes-TP (résumé)|Copy of 08 Processes-TP]]", "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"]
+sources: ["[[7 - OS (résumé)|OS - chp7]]", "[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]", "[[Raw/Year 2/Operating System/DM/TP6/TP6-Assignment.pdf|TP6-Assignment.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -20,4 +20,4 @@ Notion parente : [[Création et terminaison de processus]]. Voir aussi : [[Appel
 
 Après `fork()`, père et fils ont chacun leur copie des variables globales : une valeur tirée par le père après le fork ne parvient pas au fils (complément du résumé du TP6).
 
-Résumés : [[7 - OS (résumé)]], [[Copy of 08 Processes-TP (résumé)]], [[TP6-Assignment (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[7 - OS (résumé)]]

@@ -7,7 +7,7 @@ aliases:
   - bash comment
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"
+  - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Script Bash]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]]

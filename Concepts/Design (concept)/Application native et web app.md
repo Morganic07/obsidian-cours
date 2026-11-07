@@ -10,8 +10,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Définitions du glossaire d'anglais :
@@ -22,4 +22,4 @@ Définitions du glossaire d'anglais :
 
 Voir aussi : [[Front end et back end]], [[Système d'exploitation]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - UX (résumé)]]

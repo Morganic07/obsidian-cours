@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [AVL, arbres AVL, arbre binaire de recherche équilibré, rotation droite, rotation gauche, double rotation, facteur d'équilibrage, Adelson-Velsky et Landis, rotation simple, double rotation droite-gauche, double rotation gauche-droite, rééquilibrage, equilibrer, rebalance]
 matieres: [Algo]
-sources: ["[[AVL momo (résumé)|AVL momo]]", "[[qui dit quoi AVL (résumé)|qui dit quoi AVL]]", "[[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]", "[[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2.pdf]]"]
+sources: ["[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]", "[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]", "[[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]", "[[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2.pdf]]"]
 maj: 2026-11-06
 ---
 
@@ -20,7 +20,7 @@ Un arbre AVL est un arbre binaire de recherche équilibré : AVL = arbre binaire
 **Ajout et suppression** : comme dans un arbre binaire de recherche, puis calcul des facteurs et rotations. Suppression d'un nœud à deux fils : on le remplace par le plus petit du sous-arbre droit.
 
 > [!warning] Écart dans le cours
-> Le coût de `equilibrer` est donné en $O(1)$ dans [[qui dit quoi AVL (résumé)|qui dit quoi AVL]] et en $O(\log n)$ dans [[AVL momo (résumé)|AVL momo]]. Avec le code du cours, qui recalcule la hauteur à chaque appel, il est en $O(n)$ (complément). Voir [[Calcul de complexité et théorème de résolution]].
+> Le coût de `equilibrer` est donné en $O(1)$ dans [[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]] et en $O(\log n)$ dans [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]. Avec le code du cours, qui recalcule la hauteur à chaque appel, il est en $O(n)$ (complément). Voir [[Calcul de complexité et théorème de résolution]].
 
 Attention aux conventions : la fiche AVL pose la hauteur d'un arbre vide à 0, alors que le chapitre 3 la pose à $-1$.
 
@@ -32,4 +32,4 @@ Attention aux conventions : la fiche AVL pose la hauteur d'un arbre vide à 0, a
 
 Notion parente : [[Arbre binaire de recherche]]. Liens : [[Hauteur d'un arbre]], [[Complexité algorithmique]], [[Calcul de complexité et théorème de résolution]], [[Récursivité]]
 
-Résumés : [[AVL momo (résumé)]], [[qui dit quoi AVL (résumé)]], [[6 - AVL (résumé)]], [[Projet-Arbre-AVL-ID2 (résumé)]]
+Résumés : [[6 - AVL (résumé)]]

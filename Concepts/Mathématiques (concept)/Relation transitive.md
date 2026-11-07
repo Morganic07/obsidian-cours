@@ -11,4 +11,4 @@ $R$ est transitive si $(aRb \wedge bRc) \Rightarrow aRc$. Sur un diagramme sagit
 
 Notion parente : [[Relation binaire]]. Voir aussi : [[Relation d'équivalence]], [[Relation d'ordre]].
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

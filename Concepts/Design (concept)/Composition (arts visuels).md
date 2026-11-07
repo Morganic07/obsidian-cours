@@ -7,8 +7,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Manière dont les éléments sont disposés dans l'espace de la page ou de la toile. Elle s'applique à tout art : peinture, musique, danse, vidéo, photo, animation.
@@ -17,4 +17,4 @@ Termes associés du glossaire : placement (organisation des éléments), proximi
 
 Voir aussi : [[Équilibre visuel]], [[Hiérarchie visuelle]], [[Espace positif et négatif]], [[Nombre d'or]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Ethnographie visuelle (résumé)]], [[1 - IA (résumé)]]

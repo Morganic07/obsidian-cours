@@ -20,4 +20,4 @@ Notions liées : [[Risques psychosociaux]], [[Qualité de vie au travail]], [[Pr
 
 - La fiche est une compilation de liens : le contenu des articles cités n'a pas été vérifié.
 
-Résumés : [[Santé au travail (résumé)]], [[Santé au travail - (résumé)]]
+Résumés : [[Santé au travail (résumé)]]

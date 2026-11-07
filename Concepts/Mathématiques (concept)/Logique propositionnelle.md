@@ -17,10 +17,10 @@ La logique propositionnelle étudie des propositions vraies ou fausses, reliées
 
 **Preuves** : [[Preuve par contraposition|contraposition]], [[Raisonnement par l'absurde|absurde]], contre-exemple, disjonction des cas, [[Récurrence]].
 
-Le DS1 d'Outils math demande propositions et négations, quantificateurs, l'équivalence de $P \Rightarrow (Q \Rightarrow R)$ avec $(P \wedge Q) \Rightarrow R$, et la démonstration d'une implication ([[Contrôles (résumé)]]).
+Le DS1 d'Outils math demande propositions et négations, quantificateurs, l'équivalence de $P \Rightarrow (Q \Rightarrow R)$ avec $(P \wedge Q) \Rightarrow R$, et la démonstration d'une implication ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 Liens : [[Opérations sur les ensembles]] (inclusion, intersection, union et complémentaire correspondent à implication, conjonction, disjonction et négation).
 
 Les exercices et le DS insistent sur la négation des propositions quantifiées ($\forall$ devient $\exists$ et inversement) et sur l'ordre des quantificateurs : $\forall x, \exists y$ ne dit pas la même chose que $\exists y, \forall x$.
 
-Résumés : [[1 - logique (résumé)]], [[Exo_Chapitre1_Logique (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[1 - logique (résumé)]], [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]]

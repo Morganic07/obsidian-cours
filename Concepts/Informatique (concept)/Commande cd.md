@@ -8,7 +8,7 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
   - "[[5 - OS (résumé)|OS - chp 5]]"
 maj: 2026-11-06
 ---
@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Chemin de fichier]], [[Répertoire personnel]], [[Commande pwd]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[5 - OS (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[5 - OS (résumé)]]

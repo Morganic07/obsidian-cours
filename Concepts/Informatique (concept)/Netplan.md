@@ -23,4 +23,4 @@ Notion parente : [[Interface réseau]].
 
 - Les figures d'exemple de configuration statique et DHCP du sujet sont des images non lues.
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

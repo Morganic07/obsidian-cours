@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [dash, Debian Almquist shell]
 matieres: [Operating System]
-sources: ["[[5 - OS (résumé)|OS - chp 5]]", "[[DM Shell Scripting (résumé)|DM Shell Scripting]]"]
+sources: ["[[5 - OS (résumé)|OS - chp 5]]", "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"]
 maj: 2026-11-07
 ---
 
@@ -19,4 +19,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Bourne Shell (sh)]].
 
 - Le développé « Debian Almquist shell » n'est pas dans le cours.
 
-Résumés : [[5 - OS (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[5 - OS (résumé)]]

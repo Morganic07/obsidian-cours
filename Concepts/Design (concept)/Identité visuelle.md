@@ -11,8 +11,8 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Corporate identity : identité visuelle d'une entreprise ou d'une marque (logos, couleurs, images, web design, slogan, ton).
@@ -23,6 +23,6 @@ Termes associés du glossaire :
 - **Branding** : tous les éléments liés à une marque.
 - **Monogram** : lettres entrelacées formant un logo ou des initiales.
 
-Voir aussi : [[Guide de style]], [[Typographie]].
+Voir aussi : [[Typographie]].
 
-Résumés : [[englis (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[Melvita (résumé)]], [[Reyou (résumé)]]

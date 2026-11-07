@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: []
 sources: ["[[Raw/Year 1/Outil Maths/Exos/TDEnsembles (1).pdf|TDEnsembles (1).pdf]]", "[[Raw/Year 1/Outil Maths/Exos/Exo-Chapitre 2.pdf|Exo-Chapitre 2.pdf]]", "[[Raw/Year 1/Outil Maths/controles/CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf|CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022.pdf]]", "[[Raw/Year 1/Outil Maths/Exos/TD4Applications-Solutions.pdf|TD4Applications-Solutions.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 $A \Delta B = (A \cup B) \setminus (A \cap B) = (A \setminus B) \cup (B \setminus A)$.
@@ -16,4 +16,4 @@ Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Différence d
 
 - Absente des deux supports de cours : elle n'est définie que dans le corrigé du TD Ensembles.
 
-Résumés : [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]], [[TD4Applications-Solutions (résumé)]], [[TD4Applications (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[2 - ensembles (résumé)]], [[2 - pdf (résumé)]]

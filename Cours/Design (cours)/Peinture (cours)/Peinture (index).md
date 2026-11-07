@@ -27,6 +27,3 @@ Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
 
 Les devoirs de cette matière sont volontairement absents du coffre.
 
-## Liens avec les autres matières
-
-- **[[Anglais (index)]]** : [[Bauhaus]], [[Cercle chromatique]] et [[Art abstrait]] figurent au vocabulaire d'anglais (Global Exam).

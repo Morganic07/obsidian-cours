@@ -16,8 +16,7 @@ matieres:
   - Projet Design
   - workshop
 sources:
-  - "[[Prise parole Rendu final (résumé)|Prise parole Rendu final]]"
-  - "[[Villeneuve (recherches)|idées solutions]]"
+  - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
   - "[[EDOSSAH (résumé)|EDOSSAH]]"
   - "[[Helloartup (résumé)|Helloartup]]"
 maj: 2026-11-06
@@ -25,7 +24,7 @@ maj: 2026-11-06
 
 Faire concevoir ou vivre la solution par ses futurs usagers, à travers un atelier.
 
-- **Villeneuve** : atelier avec des habitantes, discussion sur l'appartenance puis groupes de quatre pour imaginer des solutions ([[Idéation]]) ; verbatims anonymes qui nourrissent la solution ([[Prise parole Rendu final (résumé)|Prise parole Rendu final (résumé)]]).
+- **Villeneuve** : atelier avec des habitantes, discussion sur l'appartenance puis groupes de quatre pour imaginer des solutions ([[Idéation]]) ; verbatims anonymes qui nourrissent la solution (Prise parole Rendu final).
 - **Hello Art Up** : co-construction entre résidents, salariés et famille vers J-45 ([[Helloartup (résumé)|Helloartup (résumé)]]).
 - **Edossah** : journée d'immersion avec [[Brise-glace|brise-glace]], témoignage, [[Jeu de rôle|jeu de rôle]], immersion en binômes sur le terrain, restitution et charte ; rôle d'un médiateur neutre, un animateur pour dix personnes, un cadre posé sans infantiliser ([[EDOSSAH (résumé)|EDOSSAH (résumé)]]). D'après la note, ce déroulé a été rédigé avec un outil de génération de texte : ce sont des propositions, non des résultats.
 - **ReYOU** : l'espace lui-même fait vivre les étapes du reconditionnement ([[Reyou (résumé)|Reyou (résumé)]]).
@@ -34,4 +33,4 @@ Le rapport sur les tiers-lieux recommande des méthodes participatives et inclus
 
 Voir aussi : [[Brise-glace]], [[Jeu de rôle]], [[Idéation]], [[Étude-action]].
 
-Résumés : [[Prise parole Rendu final (résumé)]], [[Villeneuve (recherches)]], [[EDOSSAH (résumé)]], [[Helloartup (résumé)]]
+Résumés : [[EDOSSAH (résumé)]], [[Helloartup (résumé)]]

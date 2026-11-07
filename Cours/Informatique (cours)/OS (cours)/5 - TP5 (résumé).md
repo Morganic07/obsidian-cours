@@ -240,7 +240,7 @@ Rien n'a été corrigé dans le cours.
 2. **Question h** demande ID, constructeur et puissance, mais la commande donnée imprime `$0` (toute la ligne, modèle compris) (complément).
 3. **Exemple `OFS`** : `{OFS="/"}` est exécuté après la lecture de la première ligne ; il marche ici parce que `$0` n'est pas reconstruit, mais `BEGIN {OFS="/"}` est la forme sûre (complément).
 4. **Tableau de connexions** : durées incohérentes avec les heures (charlie, diana, edward), déjà signalées par la transcription ; ce sont des données d'exemple et non une erreur de cours.
-5. **Version du tableau** : les sites diffèrent d'une version à l'autre de `log.txt` (voir [[log (résumé)|log (TP6)]]).
+5. **Version du tableau** : les sites diffèrent d'une version à l'autre de `log.txt` (voir [[Raw/Year 2/Operating System/DM/TP6/log.docx|log (TP6)]]).
 6. **Séparateur `-F"|"`** : le tableau affiché est une mise en forme ; dans le fichier, les champs sont séparés par `|`, éventuellement entourés d'espaces, ce qui laisserait des espaces dans `$2` (complément, à vérifier sur le fichier).
 7. **« youtube.com and facebook.com »** : la transcription lisait `facebook.org` (et `technews.org`) ; **vérifié sur l'image** : la capture affiche `facebook.com` et `technews.com`, comme la question.
 8. **Question h, apostrophe typographique** : la capture montrait `-F’\t’` selon la transcription ; le texte de la note a des apostrophes droites.

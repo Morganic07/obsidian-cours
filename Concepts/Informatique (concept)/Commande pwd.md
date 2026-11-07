@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Commande cd]], [[Chemin de fichier]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]]

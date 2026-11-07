@@ -19,4 +19,4 @@ Une étude de terrain collecte des données hors de l'établissement.
 
 Voir aussi : [[Entretien semi-directif]], [[Questionnaire]], [[Analyse thématique d'entretien]].
 
-Résumés : [[TD_preparation_entretiens25.9.25 (résumé)]], [[2 - imaginaires du futur (résumé)]], [[2 - UX (résumé)]]
+Résumés : [[2 - imaginaires du futur (résumé)]], [[2 - UX (résumé)]]

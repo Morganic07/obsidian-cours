@@ -6,7 +6,7 @@ tags:
 sources:
   - "[[2 - Culture du vivant (résumé)|Culture du vivant (Y3)]]"
   - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
-  - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[2 - Culture du vivant (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[1 - Culture du vivant (résumé)|Culture du vivant - prise de note]]"
 maj: 2026-11-06
 ---
@@ -22,7 +22,7 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 | Note | Sujet | Résumé |
 |---|---|---|
 | [[2 - Culture du vivant (résumé)\|Culture du vivant (Y3)]] | Collapsologie, limites planétaires, biodiversité (images) | [[2 - Culture du vivant (résumé)\|Résumé]] |
-| [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Culture Vivant COURS 2 EXPLICATION]] | Balance technosphère et biosphère | [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)\|Résumé]] |
+| Culture Vivant COURS 2 EXPLICATION | Balance technosphère et biosphère | [[2 - Culture du vivant (résumé)\|Résumé]] (même fiche, en fin de page) |
 | [[3 - Culture du vivant (résumé)\|Culture du vivant Dernier cours]] | Économie, circularité, solutions | [[3 - Culture du vivant (résumé)\|Résumé]] |
 
 ### Documents PDF

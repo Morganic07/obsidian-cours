@@ -8,7 +8,7 @@ sources:
 maj: 2026-11-06
 ---
 
-Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 documents Word (dérivabilité et chapitre 5) sont intégrés. Le reste de la matière (cours des chapitres 0 à 3, travaux dirigés, contrôles) est en PDF : il est résumé dans la section « Documents PDF » ci-dessous.
+Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 documents Word (dérivabilité et chapitre 5) sont intégrés. Le cours des chapitres 0 à 3 est en PDF : il est résumé dans la section « Documents PDF » ci-dessous. Les travaux dirigés et les contrôles, en PDF, n'ont plus de résumé.
 
 ## Chapitres
 
@@ -21,19 +21,9 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 
 | Document | Contenu | Résumé |
 |---|---|---|
-| AnalyseID1 | Polycopié complet (chapitres 0 à 5, avec TD) | [[0 - rappels pdf]] |
+| AnalyseID1 | Polycopié complet (chapitres 0 à 5, avec TD) | [[0 - rappels pdf (résumé)]] |
 | Chap0-Rappels-etc | Inégalités, valeur absolue, sigma et pi, binôme | [[0 - Rappels-etc (résumé)]] |
 | Chap1-reels | $\mathbb{R}$, borne supérieure, partie entière, densité de $\mathbb{Q}$ | [[1 - Ensemble des Reels (résumé)]] |
-| TD0-Rappel | Inégalités, sommes, trigonométrie (énoncés) | [[TD0-Rappel (résumé)]] |
-| td0slides | Corrigé du TD0 en diapositives | [[td0slides (résumé)]] |
-| TD1-numbres-reels | Réels, bornes, partie entière (énoncés) | [[TD1-numbres-reels (résumé)]] |
-| td1slides | Corrigé du TD1 en diapositives | [[td1slides (résumé)]] |
-| TDSuites | Corrigé du TD sur les suites | [[TDSuites (résumé)]] |
-| TD5-AnalAsympt | Analyse asymptotique (énoncés) | [[TD5-AnalAsympt (résumé)]] |
-| TD5-AnalyseAsymptotiqueCorrection | Corrigé détaillé du TD5 | [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]] |
-| DS1-Analyse-2022-corrigé | DS1 du 10 nov. 2022, corrigé | [[DS1-Analyse-2022-corrigé (résumé)]] |
-| correction-DS1-analyse-18-11-2021 | DS1 du 18 nov. 2021, corrigé | [[DS1-correction-2021 (résumé)]] |
-| Contrôles (`Year 1/Contrôles.pdf`) | 8 DS d'Analyse 2022-2023, puis algèbre et informatique | [[Contrôles (résumé)]] |
 
 ## Concepts
 
@@ -49,9 +39,7 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 
 - [[4 - dérivabilité (résumé)]] : une fonction strictement croissante peut avoir une dérivée qui s'annule, comme $x^3$.
 - [[4 - dérivabilité (résumé)]] : la formule de la réciproque demande que $f'$ ne s'annule pas, et non $f$.
-- [[td1slides (résumé)]] et [[DS1-correction-2021 (résumé)]] : les corrigés écrivent $]-1, 1[$ pour $(2E(x)+1)^2 < 4$, alors que la solution est $[-1, 1[$.
-- [[TDSuites (résumé)]] : une suite périodique n'est pas forcément divergente.
-- Pour une suite récurrente ou une limite par la définition, suivre les schémas de [[Suite numérique]] et de [[TDSuites (résumé)]].
+- Pour une suite récurrente ou une limite par la définition, suivre les schémas de [[Suite numérique]] et de .
 
 ## Liens avec les autres matières
 
@@ -60,4 +48,4 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 - **Year 3, Séries** : Taylor et DL y reviennent, à relier lors de son intégration.
 - **[[Séries (index)]]** : la [[Série numérique]], le [[Critère de d'Alembert et de Cauchy]] et le [[Théorème des gendarmes]], vus ici avec les suites, y sont repris.
 - **[[Outil Maths (index)]]** : [[Quantificateur]], [[Relation d'ordre]], [[Nombre complexe]] et [[Polynôme]] y sont traités en détail.
-- **[[Cours/Informatique (cours)/Algo (cours) 1/Algo (index)]]** : [[Récurrence]], [[Factorielle]], [[Suite de Fibonacci]] et [[Recherche dichotomique]].
+- **[[Algo (index)]]** : [[Récurrence]], [[Factorielle]], [[Suite de Fibonacci]] et [[Recherche dichotomique]].

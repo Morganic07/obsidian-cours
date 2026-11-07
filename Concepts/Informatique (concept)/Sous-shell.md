@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Groupement de commandes]], [[Shell et Bash]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[2 - TP2 (résumé)]], [[TP2 (résumé)]]
+Résumés : [[2 - TP2 (résumé)]]

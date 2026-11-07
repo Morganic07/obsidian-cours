@@ -17,7 +17,7 @@ matieres:
   - Anglais
   - Affordance
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
 maj: 2026-11-06
@@ -34,4 +34,4 @@ Glossaire d'anglais :
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Service blueprint]], [[Persona]], [[Carte d'expérience]], [[Scénario d'usage]].
 
-Résumés : [[englis (résumé)]], [[2 - UX (résumé)]], [[1 - UX (résumé)]]
+Résumés : [[2 - UX (résumé)]], [[1 - UX (résumé)]]

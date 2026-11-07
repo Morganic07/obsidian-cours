@@ -10,4 +10,4 @@ Le chapitre 0 définit $\binom{n}{p}$ et donne sa symétrie ; c'est un entier, c
 
 Notion parente : [[Dénombrement]]. Voir aussi : [[Formule de Pascal]], [[Formule du binôme de Newton]], [[Factorielle]], [[Récurrence]].
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[td0slides (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]]

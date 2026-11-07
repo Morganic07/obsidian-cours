@@ -9,7 +9,7 @@ maj: 2026-11-06
 complet: true
 ---
 
-Résumé du diaporama de lancement du projet court « santé au travail » (ID3 B, 24 pages, 16 octobre 2025), dans [[Projet design (Year 3) (index)]]. Le PDF porte le nom de la porteuse de projet et celui de l'enseignant encadrant ; ils ne sont pas repris ici. Il est complété par [[Santé au travail - (résumé)|la fiche ressources]]. Thème : [[Santé au travail]].
+Résumé du diaporama de lancement du projet court « santé au travail » (ID3 B, 24 pages, 16 octobre 2025), dans [[Projet design (Year 3) (index)]]. Le PDF porte le nom de la porteuse de projet et celui de l'enseignant encadrant ; ils ne sont pas repris ici. La fiche ressources qui le complète (PDF, dans Raw/Year 3/Projet courts) est résumée à la suite, à partir de la partie A. Thème : [[Santé au travail]].
 
 ## Sujet (page 1)
 

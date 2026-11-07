@@ -8,7 +8,6 @@ matieres:
   - SHS
 sources:
   - "[[3 - Culture du vivant (résumé)|Culture du vivant Dernier cours]]"
-  - "[[Synthèse des entretiens (résumé)]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +17,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Économie circulaire]].
 
-Résumés : [[3 - Culture du vivant (résumé)]], [[Synthèse des entretiens (résumé)]]
+Résumés : [[3 - Culture du vivant (résumé)]]

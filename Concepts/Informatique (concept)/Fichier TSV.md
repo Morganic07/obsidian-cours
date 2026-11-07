@@ -23,4 +23,4 @@ Notion parente : [[Séparateur de champs]]. Voir aussi : [[Fichier CSV]].
 - L'exemple .tsv du sujet lit `file.csv` au lieu de `file.tsv`.
 - Sortie de `$4>150` dans le rendu : « 2 Ford Focus 160 » au lieu de 6 (image non rouverte).
 
-Résumés : [[TP5-AWK Command (résumé)]], [[5 - TP5 (résumé)]], [[TP5 (résumé)]]
+Résumés : [[5 - TP5 (résumé)]]

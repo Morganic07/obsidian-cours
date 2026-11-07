@@ -5,7 +5,7 @@ tags:
 aliases: []
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
-  - "[[chp 2 - Python (résumé)|Python]]"
+  - "[[Raw/Year 1/Algo Maths/Python.docx|Python]]"
 maj: 2026-11-06
 ---
 
@@ -21,4 +21,4 @@ Voir aussi : [[Typage dynamique]], [[Langage interprété]], [[Fonction range (P
 
 - AlgoID1 écrit `print i`, qui est la syntaxe de Python 2.
 
-Résumés : [[0 - diapo prof (résumé)]], [[chp 2 - Python (résumé)]]
+Résumés : [[0 - diapo prof (résumé)]]

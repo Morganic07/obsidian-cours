@@ -34,4 +34,4 @@ Notion parente : [[Modèle entité-association]]. Voir aussi : [[Table de corres
 
 - Le cours range sous « one to one » un cas (1,1 / 0,N) qui est en fait many-to-one ; le titre manuscrit porte « me-to-one ».
 
-Résumés : [[1 - Database (résumé)]], [[sujet database (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+Résumés : [[1 - Database (résumé)]]

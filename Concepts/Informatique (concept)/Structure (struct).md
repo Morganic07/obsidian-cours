@@ -33,4 +33,4 @@ Une structure peut contenir un pointeur vers une structure du même type : c'est
 
 Notion parente : [[Langage C]]. Liens : [[Liste chaînée]], [[Pointeur et adresse mémoire]], [[Opérateur flèche]]
 
-Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[0 - diapo prof (résumé)]], [[Contrôles (résumé)|Contrôles (résumé)]]
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures (résumé)]], [[0 - diapo prof (résumé)]]

@@ -13,4 +13,4 @@ Exemple : dans $(\mathbb{R}, \leq)$, $[0;1]$ est majoré par 3, 2, 1 et minoré 
 
 Notion parente : [[Relation d'ordre]]. Voir aussi : [[Plus grand élément]], [[Borne supérieure]], [[Élément maximal]].
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

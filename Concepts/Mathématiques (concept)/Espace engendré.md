@@ -27,7 +27,7 @@ $\mathbf{b}$ est dans le Span si et seulement si $c_1\mathbf{v}_1 + \dots + c_n\
 
 Une **famille génératrice** de $E$ est une famille dont le Span est $E$ : tout vecteur de $E$ est combinaison linéaire de ses vecteurs. S'il en existe une finie, $E$ est de dimension finie. Toute sur-famille d'une famille génératrice reste génératrice, et on peut en extraire une base. En dimension $n$, une famille génératrice a au moins $n$ vecteurs ([[Dimension (algèbre linéaire)]]). Pour $f$ linéaire, $f(\text{vect}(e_1, \dots, e_n)) = \text{vect}(f(e_1), \dots, f(e_n))$, et $\mathrm{Im}(f) = \mathrm{vect}(f(v_1), \dots, f(v_n))$ pour une base $(v_i)$.
 
-L'évaluation 3 de 1re année demande la dimension et une base de $\mathrm{Span}(u_1, u_2, u_3)$ ([[Contrôles (résumé)]]).
+L'évaluation 3 de 1re année demande la dimension et une base de $\mathrm{Span}(u_1, u_2, u_3)$ ([[Raw/Year 1/Contrôles.pdf|Contrôles]]).
 
 Notions parentes : [[Sous-espace vectoriel]], [[Espace vectoriel]], [[Combinaison linéaire]].
 
@@ -37,4 +37,4 @@ Liens : [[Espace des colonnes]], [[Base (algèbre linéaire)]]
 
 - [[0 - Linear combination (résumé)|Chp 0a - Linear combination]] : le théorème « Let A be a nxm matrix » mélange $\mathbb{R}^n$ et $\mathbb{R}^m$.
 
-Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[0 - Linear combination (résumé)]], [[0 - Vector Space (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)|chp1 (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)|chp2 (résumé)]]

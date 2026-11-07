@@ -16,4 +16,4 @@ Notion parente : [[Suite numérique]]. Voir aussi : [[Borne supérieure]], [[Lim
 
 - Le relevé note le point intérieur $a$, comme la borne de l'intervalle ; il est renommé $x_0$ ici.
 
-Résumés : [[0 - rappels pdf]]
+Résumés : [[0 - rappels pdf (résumé)]]

@@ -8,12 +8,11 @@ aliases:
 matieres:
   - Anglais
 sources:
-  - "[[englis (résumé)|Global Exam Vocab]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
+maj: 2026-11-07
 ---
 
 Deliverables : dans le développement d'un produit, ce qui peut être fourni.
 
-Voir aussi : [[Must-have et should-have]], [[Gel du style]].
 
-Résumés : [[englis (résumé)]]
+Résumés : [[1 - sémiotique (résumé)]], [[2 - imaginaires du futur (résumé)]]

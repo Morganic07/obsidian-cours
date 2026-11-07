@@ -15,4 +15,4 @@ Théorème d'existence de limite par encadrement : une suite (ou une fonction) c
 
 Notion parente : [[Convergence d'une suite]]. Voir aussi : [[Suite numérique]], [[Limite et continuité]].
 
-Résumés : [[0 - rappels pdf]], [[TDSuites (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[0 - Revision chapter (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[0 - Revision chapter (résumé)]]

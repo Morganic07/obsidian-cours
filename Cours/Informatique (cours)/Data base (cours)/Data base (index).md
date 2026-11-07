@@ -32,4 +32,3 @@ Bases de données relationnelles : conception (MERISE), algèbre relationnelle, 
 ## Liens avec les autres matières
 
 - **[[Computer Network (index)]]** : le SGBD en architecture 3 tiers repose sur le réseau.
-- **[[Ligue football (index)]]** : le projet applique la méthode du cours ([[Dictionnaire de données]], [[Modèle entité-association]], [[Héritage en base de données]], [[Schéma relationnel]], [[Langage SQL]]).

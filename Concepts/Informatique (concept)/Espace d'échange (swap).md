@@ -11,4 +11,4 @@ Espace du disque que Linux utilise quand la RAM est pleine : une mémoire virtue
 
 Notion parente : [[Partitions Linux]]. Voir aussi : [[Commande free]].
 
-Résumés : [[3 - OS (résumé)]], [[4 - OS (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[3 - OS (résumé)]], [[4 - OS (résumé)]]

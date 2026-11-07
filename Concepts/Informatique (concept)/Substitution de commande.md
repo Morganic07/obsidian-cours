@@ -23,4 +23,4 @@ Notion parente : [[Script Bash]]. Voir aussi : [[Variable Bash]], [[Commande dat
 
 - Une ligne « 0 » isolée apparaît dans l'explication de `$(...)` de la fiche (reste de mise en page).
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]], [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]]

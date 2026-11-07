@@ -15,4 +15,4 @@ En probabilités, « fonction caractéristique » désigne une autre notion.
 
 Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Différence symétrique]], [[Opérations sur les ensembles]].
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]]
+Résumés : [[4 - pdf (résumé)]]

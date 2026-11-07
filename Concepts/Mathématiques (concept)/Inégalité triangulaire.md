@@ -36,4 +36,4 @@ Notion parente : [[Valeur absolue]]. Voir aussi : [[Norme]], [[Nombre complexe]]
 - Le texte extrait du TD Relations ne contient pas l'expression « inégalité triangulaire » (accents ou mise en page) : l'usage vient du résumé.
 - Cas d'égalité (Chp 2) : le cours écrit $x=\lambda y$ avec $\lambda\in\mathbb{R}$, il faut $\lambda \ge 0$ (résumé Chp 2, point 1).
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[5 - Complexes (résumé)]], [[TDRelations (résumé)]], [[1 - Integration (résumé)]], [[2 - éléments de topologie dans Rn (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]], [[5 - Complexes (résumé)]], [[1 - Integration (résumé)]], [[2 - éléments de topologie dans Rn (résumé)]]

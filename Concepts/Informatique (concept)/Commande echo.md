@@ -7,7 +7,7 @@ matieres:
   - Operating System
 sources:
   - "[[8 - OS commandes sh (résumé)|Commandes Shell + explications]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
 maj: 2026-11-06
 ---
 
@@ -15,4 +15,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Redirection et tube]], [[Guillemets en shell]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[2 - TP2 (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[2 - TP2 (résumé)]]

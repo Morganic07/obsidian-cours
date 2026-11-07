@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [contrainte CHECK, contrainte UNIQUE, contraintes CHECK, integrity constraint, contraintes d'intégrité]
 sources: ["[[Raw/Year 3/ligue football/Ligue Football - Projet DATABASE ID3-B.pdf|Ligue Football - Projet DATABASE ID3-B.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-07
 ---
 
 Règles que la base impose aux données. Dans le DDL du projet de ligue de football (rapport d'étudiants) :
@@ -19,4 +19,4 @@ Notion parente : [[Langage SQL]]. Voir aussi : [[Clé primaire et clé étrangè
 
 Le statut « En cours » est absent de la contrainte `CHECK` du rapport.
 
-Résumés : [[Rapport du projet Ligue Football (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[1 - Database (résumé)]]

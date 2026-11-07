@@ -30,4 +30,4 @@ Notion parente : [[Injectivité et surjectivité]]. Voir aussi : [[Fonction iden
 
 - chp2 écrit $(f \circ g)^{-1} = f^{-1}(g^{-1}(x))$, ce qui est faux : l'ordre s'inverse, $(f \circ g)^{-1} = g^{-1} \circ f^{-1}$.
 
-Résumés : [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)]]
+Résumés : [[4 - pdf (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/1 - Algèbre linéaire (résumé)]]

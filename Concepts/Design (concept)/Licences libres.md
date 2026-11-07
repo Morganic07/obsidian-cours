@@ -16,8 +16,7 @@ matieres:
   - Anglais
 sources:
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
-  - "[[Entretien sur l'open source (résumé)]]"
-  - "[[englis (résumé)|Global Exam Vocab]]"
+  - "[[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]"
 maj: 2026-11-06
 ---
 
@@ -27,10 +26,10 @@ Limite relevée par le groupe : ces licences ont été pensées pour le partage 
 
 Le « vrai libre » exige aussi les fichiers sources modifiables ; un projet freemium qui les garde payants n'en est pas un.
 
-Les recherches d'un étudiant pour la même enquête notent qu'avec l'IA, les licences libres deviennent des failles ([[Recherches SHS (résumé)]]).
+Les recherches d'un étudiant pour la même enquête notent qu'avec l'IA, les licences libres deviennent des failles ([[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|Recherches SHS]]).
 
-Le glossaire d'anglais ([[englis (résumé)|Global Exam Vocab]]) définit *open source* comme un code source original libre que les utilisateurs peuvent modifier.
+Le glossaire d'anglais ([[Raw/Year 2/Anglais/Global Exam Vocab.docx|Global Exam Vocab]]) définit *open source* comme un code source original libre que les utilisateurs peuvent modifier.
 
 Voir aussi : [[Open design]], [[Communs numériques]], [[Copyleft]], [[Creative Commons]], [[Licence anti-IA]], [[Propriété intellectuelle]]
 
-Résumés : [[3 - Prise de note (résumé)|Prise de note SHS]], [[Entretien sur l'open source (résumé)]], [[Recherches SHS (résumé)]], [[englis (résumé)]]
+Résumés : [[3 - Prise de note (résumé)|Prise de note SHS]]

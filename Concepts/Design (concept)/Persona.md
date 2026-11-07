@@ -12,7 +12,7 @@ matieres:
   - workshop
   - Affordance
 sources:
-  - "[[Qui dit quoi (résumé)|Qui dit quoi]]"
+  - "[[Raw/Year 2/Projet Design /Hello Art Up/Qui dit quoi .docx|Qui dit quoi]]"
   - "[[Reyou (résumé)|Reyou]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
 maj: 2026-11-06
@@ -22,7 +22,7 @@ Profil type inventé à partir de recherches et d'entretiens, qui représente un
 
 Deux usages dans les projets :
 
-- **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas : une résidente peu mobile et malvoyante pour qui l'affichage est hors de portée, un résident hostile à la technologie, une résidente à qui l'on n'a montré que le résultat. Les obstacles deviennent la problématique. Voir [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]] et [[Triangle d'acteurs]].
+- **Hello Art Up** : trois personas de résidents d'EHPAD montrent pourquoi on ne s'implique pas : une résidente peu mobile et malvoyante pour qui l'affichage est hors de portée, un résident hostile à la technologie, une résidente à qui l'on n'a montré que le résultat. Les obstacles deviennent la problématique. Voir [[Raw/Year 2/Projet Design /Hello Art Up/Qui dit quoi .docx|Qui dit quoi]] et [[Triangle d'acteurs]].
 - **ReYOU** : trois visiteurs de salon, ou « [[Top of mind|top of mind]] » (le focus, le networker, l'explorateur), avec objectif, comportement et façon de les capter. L'espace doit satisfaire tous les profils. Voir [[Reyou (résumé)|Reyou (résumé)]].
 
 En Affordance, le persona est cité dans le panorama des méthodes de [[Recherche utilisateur]] et parmi les usages d'une [[Observation de terrain|observation]] ([[2 - UX (résumé)]]).
@@ -35,4 +35,4 @@ Voir aussi : [[Recherche utilisateur]], [[Observation de terrain]], [[Triangle d
 
 - Le dossier ReYOU emploie « top of mind » au sens d'un profil de visiteur ; ce n'est pas l'usage marketing courant (complément). Voir [[Top of mind]].
 
-Résumés : [[Qui dit quoi (résumé)|Qui dit quoi (résumé)]], [[Reyou (résumé)|Reyou (résumé)]], [[2 - UX (résumé)]]
+Résumés : [[Reyou (résumé)|Reyou (résumé)]], [[2 - UX (résumé)]]

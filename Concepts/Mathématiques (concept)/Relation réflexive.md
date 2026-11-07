@@ -13,4 +13,4 @@ La réflexivité est imposée dans la définition d'une relation d'ordre : $\leq
 
 Notion parente : [[Relation binaire]]. Voir aussi : [[Relation d'équivalence]], [[Relation d'ordre]].
 
-Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]], [[TDRelations (résumé)]]
+Résumés : [[3 - Relation binaire (résumé)]], [[3 - pdf (résumé)]]

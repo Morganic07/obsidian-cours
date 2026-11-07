@@ -38,4 +38,4 @@ Notion parente : [[Application (mathématiques)]]. Voir aussi : [[Dérivabilité
 - Chp4 (dérivabilité) : le tableau écrit « $u \circ v = u(v(x)) = v'(u' \circ v)$ » ; il faut lire $(u \circ v)'$.
 - chp2 (Algèbre Linéaire) : avec $f \in L(E,F)$ et $g \in L(F,G)$, le cours écrit « fog ∈ L(E,G) » au lieu de $g \circ f$.
 
-Résumés : [[0 - rappels pdf]], [[4 - dérivabilité (résumé)]], [[Contrôles (résumé)]], [[4 - pdf (résumé)]], [[TD4Applications (résumé)]], [[TD4Applications-Solutions (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[4 - Algèbre linéaire (résumé)]]
+Résumés : [[0 - rappels pdf (résumé)]], [[4 - dérivabilité (résumé)]], [[4 - pdf (résumé)]], [[Cours/Mathématiques (cours)/Algèbre linéaire (cours)/2 - Algèbre linéaire (résumé)]], [[4 - Algèbre linéaire (résumé)]]

@@ -21,4 +21,4 @@ Notion parente : [[Shell et Bash]]. Voir aussi : [[Exécution d'un script]], [[S
 
 - Erreur relevée par le résumé : sous Debian et Ubuntu, `sh` pointe en général vers dash, pas vers Bash. À corriger avant un examen.
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[5 - OS (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[5 - OS (résumé)]]

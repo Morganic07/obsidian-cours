@@ -31,4 +31,4 @@ Le rapport du projet Ligue Football donne un MLD de 11 tables, clés étrangère
 
 Liens : [[Clé primaire et clé étrangère]], [[Table de correspondance]], [[Algèbre relationnelle]], [[Héritage en base de données]]
 
-Résumés : [[1 - Database (résumé)]], [[2 - opérateurs et SQL (résumé)]], [[Rapport du projet Ligue Football (résumé)]]
+Résumés : [[1 - Database (résumé)]], [[2 - opérateurs et SQL (résumé)]]

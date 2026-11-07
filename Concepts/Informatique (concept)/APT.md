@@ -13,8 +13,8 @@ matieres:
   - Operating System
 sources:
   - "[[5 - OS (résumé)|OS - chp 5]]"
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
-  - "[[TP1 (résumé)|TP1]]"
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+  - "[[Raw/Year 2/Operating System/DM/TP1/TP1.docx|TP1]]"
 maj: 2026-11-06
 ---
 
@@ -28,4 +28,4 @@ Outil pour installer, supprimer et mettre à jour les paquets d'une distribution
 
 Notion parente : [[Distribution Linux]]. Voir aussi : [[Commande sudo]].
 
-Résumés : [[5 - OS (résumé)]], [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]], [[8 - OS commandes sh (résumé)]]
+Résumés : [[5 - OS (résumé)]], [[8 - OS commandes sh (résumé)]]

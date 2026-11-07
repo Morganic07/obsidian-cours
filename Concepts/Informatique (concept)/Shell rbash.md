@@ -19,4 +19,4 @@ Notion parente : [[Shell et Bash]].
 
 - Le développé « restricted bash » n'est pas dans le cours.
 
-Résumés : [[5 - OS (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[5 - OS (résumé)]]

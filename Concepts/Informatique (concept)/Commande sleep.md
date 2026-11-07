@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Notion parente : [[Shell et Bash]]. Voir aussi : [[Tâche en arrière-plan]], [[Boucle (programmation)]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]], [[3 - TP3 (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

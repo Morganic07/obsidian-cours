@@ -8,12 +8,12 @@ aliases:
 matieres:
   - Operating System
 sources:
-  - "[[chp 1 - séance TP1 (résumé)|cours TP1]]"
-maj: 2026-11-06
+  - "[[Raw/Year 2/Operating System/Cours OS/cours TP1.docx|cours TP1]]"
+maj: 2026-11-07
 ---
 
 `uname` affiche des informations sur le système ; `uname -r` donne la version du [[Noyau]].
 
 Voir aussi : [[Noyau]].
 
-Résumés : [[chp 1 - séance TP1 (résumé)]], [[TP1 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[3 - OS (résumé)]]

@@ -4,7 +4,6 @@ tags:
   - year3
 sources:
   - "[[Santé au travail (résumé)]]"
-  - "[[Santé au travail - (résumé)]]"
 maj: 2026-11-06
 ---
 
@@ -15,7 +14,7 @@ Projet court de 3e année (ID3 B) : « santé au travail ». Il s'agit de concev
 | Document | Contenu | Résumé |
 |---|---|---|
 | Diaporama de lancement (24 pages) | Sujet, calendrier, quatre phases, équipes, intelligence collective | [[Santé au travail (résumé)\|Résumé]] |
-| Fiche ressources (10 pages) | Liste de pistes : institutions, associations, projets pilotes, champ lexical | [[Santé au travail - (résumé)\|Résumé]] |
+| Fiche ressources (10 pages) | Liste de pistes : institutions, associations, projets pilotes, champ lexical | [[Santé au travail (résumé)\|Résumé]] (même fiche que le diaporama) |
 
 ## Concepts
 

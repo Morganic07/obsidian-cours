@@ -13,4 +13,4 @@ Les TD montrent $(A \times C) \cup (B \times C) = (A \cup B) \times C$, et que t
 
 Notion parente : [[Opérations sur les ensembles]]. Voir aussi : [[Relation binaire]], [[Graphe d'une fonction]].
 
-Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]], [[TDEnsembles (1) (résumé)]], [[Exo-Chapitre 2 (résumé)]], [[CorrigéDS1-algèbre-ensav-GEM-supmeca-octobre2022 (résumé)]]
+Résumés : [[2 - pdf (résumé)]], [[2 - ensembles (résumé)]]

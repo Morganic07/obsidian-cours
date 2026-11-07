@@ -19,4 +19,4 @@ maj: 2026-11-06
 
 Notion parente : [[Démon (informatique)]]. Voir aussi : [[Tâche planifiée cron]].
 
-Résumés : [[4 - TP4 (résumé)]], [[TP4-Unix Commands (résumé)]]
+Résumés : [[4 - TP4 (résumé)]]

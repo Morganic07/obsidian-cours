@@ -16,4 +16,4 @@ Le TD5 demande le développement asymptotique d'$\arctan$ en $+\infty$, en utili
 
 Notion parente : [[Développement limité]]. Voir aussi : [[Asymptote oblique]], [[Fonctions trigonométriques réciproques]].
 
-Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]

@@ -6,7 +6,7 @@ aliases:
   - oligarchie de l'expertise
   - illusion de l'inclusion
 sources:
-  - "[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"
+  - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
@@ -19,4 +19,4 @@ Notion parente : [[Communs numériques]]. Voir aussi : [[Dictature bienveillante
 
 - Thèse du groupe, non sourcée.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

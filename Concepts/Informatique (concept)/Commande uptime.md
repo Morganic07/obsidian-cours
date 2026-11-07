@@ -3,7 +3,7 @@ type: concept
 tags: [year2]
 aliases: [uptime]
 matieres: [Operating System]
-sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]", "[[UNIX Commands - Semester report (résumé)|UNIX Commands - Semester report]]"]
+sources: ["[[Raw/Year 2/Operating System/DM/TP2/Copy of TP2-Commands.pdf|Copy of TP2-Commands.pdf]]"]
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Nommée au TP2 sans définition détaillée : `uptime` donne le temps de fonctio
 
 Voir aussi : [[Substitution de commande]].
 
-Résumés : [[Copy of TP2-Commands (résumé)]], [[TP2 (résumé)]]
+Résumés (rapprochement, complément hors du cours) : [[8 - OS commandes sh (résumé)]]

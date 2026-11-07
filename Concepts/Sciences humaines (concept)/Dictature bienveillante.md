@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [benevolent dictator]
-sources: ["[[Recherches SHS (résumé)|SHS Recherches-Morgane]]"]
+sources: ["[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"]
 maj: 2026-11-06
 ---
 
@@ -14,4 +14,4 @@ Notion parente : [[Gouvernance par l'expertise]]. Voir aussi : [[Design contribu
 
 - Le terme anglais « benevolent dictator » n'apparaît pas dans les notes.
 
-Résumés : [[Recherches SHS (résumé)]], [[3 - Prise de note (résumé)]]
+Résumés : [[3 - Prise de note (résumé)]]

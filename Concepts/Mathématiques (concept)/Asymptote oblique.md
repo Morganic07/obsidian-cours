@@ -16,4 +16,4 @@ $f$ admet une asymptote oblique en $\pm\infty$ s'il existe $(a, b) \in \mathbb{R
 
 Notion parente : [[Développement limité]]. Voir aussi : [[Développement asymptotique]].
 
-Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (Analyse) (résumé)]]

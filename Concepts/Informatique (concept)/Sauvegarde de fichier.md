@@ -26,4 +26,4 @@ Voir aussi : [[Script Bash]], [[Commande cp]], [[Boucle (programmation)]].
 
 - Script du sujet : destination `/home/backup/` au lieu de `/home/user/backup/`, et variable `$Backup` jamais définie (signalé par les résumés).
 
-Résumés : [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[TP3 (résumé)]], [[TP4-Unix Commands (résumé)]], [[TP6-Assignment (résumé)]]
+Résumés : [[3 - TP3 (résumé)]]

@@ -16,7 +16,7 @@ matieres:
   - culture du soin
 sources:
   - "[[ELBA (résumé)|Topo ELBA]]"
-  - "[[Culture Vivant SÉANCE 2 EXPLICATION (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[2 - Culture du vivant (résumé)|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
   - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
 maj: 2026-11-06
@@ -34,4 +34,4 @@ Voir aussi : [[Retail régénératif]], [[Manifeste pour le vivant]], [[Transhum
 
 - La matière culture du soin (Year 4) traitera sans doute davantage la notion.
 
-Résumés : [[1 - culture du soin (résumé)]], [[Culture Vivant SÉANCE 2 EXPLICATION (résumé)]], [[4 - Culture du vivant (résumé)]], [[ELBA (résumé)]]
+Résumés : [[1 - culture du soin (résumé)]], [[4 - Culture du vivant (résumé)]], [[ELBA (résumé)]], [[2 - Culture du vivant (résumé)]]

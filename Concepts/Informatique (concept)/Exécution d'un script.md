@@ -21,4 +21,4 @@ Notion parente : [[Script Bash]]. Voir aussi : [[Bourne Shell (sh)]], [[Tâche e
 
 - Même erreur sh/bash que sur [[Bourne Shell (sh)]] : la fiche dit que `sh` utilise Bash, alors que sous Debian et Ubuntu `sh` pointe en général vers dash.
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[TP3-Commands (2) (résumé)]], [[DM Shell Scripting (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]]

@@ -77,4 +77,4 @@ Voir aussi : [[Adresse de bouclage]], [[IANA]], [[VLSM]], [[Octet]], [[Numérati
 
 - Diapositive 15 : le tableau donne la classe A de 0 à 127, corrigée juste dessous en 0 à 126. Le quiz 224.192.64.32/24 utilise une adresse de classe D avec un /24.
 
-Résumés : [[2 - IP Addressing (résumé)]], [[5 - NAT ／ PAT (résumé)]], [[6 - Access Control List (résumé)]], [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]]
+Résumés : [[2 - IP Addressing (résumé)]], [[5 - NAT ／ PAT (résumé)]], [[6 - Access Control List (résumé)]], [[3 - TP3 (résumé)]]

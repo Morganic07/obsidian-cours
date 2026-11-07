@@ -12,4 +12,4 @@ Pour résoudre une équation ou une inéquation, on lève les valeurs absolues e
 
 Notion parente : [[Norme]]. Voir aussi : [[Inégalité triangulaire]], [[Racine carrée]], [[Règles de calcul sur les inégalités]].
 
-Résumés : [[0 - Rappels-etc (résumé)]], [[TD0-Rappel (résumé)]], [[td0slides (résumé)]], [[DS1-Analyse-2022-corrigé (résumé)]], [[DS1-correction-2021 (résumé)]]
+Résumés : [[0 - Rappels-etc (résumé)]]

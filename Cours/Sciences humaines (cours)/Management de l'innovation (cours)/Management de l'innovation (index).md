@@ -1,16 +1,11 @@
 ---
 type: matiere
 tags: [year4]
-sources: ["[[Douze innovations (résumé)]]", "[[Analyse d'innovations (résumé)]]"]
+sources: ["[[Raw/Year 4/management de l'innovationb/innovations - Morgane Pina .docx|Douze innovations]]", "[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]"]
 maj: 2026-11-06
 ---
 
-Management de l'innovation en 4e année. Les deux notes sont des devoirs rendus, non des cours : le cadre théorique (typologie des innovations, management de la valeur) n'apparaît qu'à travers leur application.
-
-| Note | Contenu | Résumé |
-|---|---|---|
-| Douze innovations | Douze innovations classées en six types | [[Douze innovations (résumé)\|Résumé]] |
-| Analyse d'innovations | ArtCraft, Blender, Michelin avec la grille de valeur | [[Analyse d'innovations (résumé)\|Résumé]] |
+Management de l'innovation en 4e année. Les deux devoirs rendus (douze innovations, analyse d'innovations) n'ont plus de résumé : ils restent liés dans `sources`, et les concepts qu'ils illustrent renvoient à leur document.
 
 ## Documents PDF
 

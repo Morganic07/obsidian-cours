@@ -57,4 +57,4 @@ Notion parente : [[Comparaison asymptotique]]. Voir aussi : [[Asymptote oblique]
 - chp5 (Analyse) : les formes normalisées du quotient sont écrites avec $x^{n_1}$, $x^{n_2}$ au lieu de $x^{p_1}$, $x^{p_2}$ ; « même signe strict » ne vaut qu'au voisinage de $a$.
 - Chp0 de Séries : $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ (à corriger avant un examen) ; le terme général de $\sqrt{1+x}$ et celui de $\ln(1+x)$ sont faux.
 
-Résumés : [[5 - Analyse Maths (résumé)|chp5 (résumé)]], [[TD5-AnalAsympt (résumé)]], [[TD5-AnalyseAsymptotiqueCorrection (1) (résumé)]], [[Contrôles (résumé)]], [[0 - Revision chapter (résumé)]]
+Résumés : [[5 - Analyse Maths (résumé)|chp5 (résumé)]], [[0 - Revision chapter (résumé)]]

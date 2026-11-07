@@ -6,7 +6,7 @@ tags:
   - year4
 sources:
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
-  - "[[Synthese SHS GPT (résumé)|Synthese SHS GPT]]"
+  - "[[Raw/Year 3/SHS/Entretiens/Synthese SHS GPT.docx|Synthese SHS GPT]]"
   - "[[3 - Prise de note (résumé)|Prise de note SHS]]"
 maj: 2026-11-06
 ---
@@ -46,24 +46,15 @@ Les notes sont manuscrites et parfois elliptiques ; les noms d'auteurs (Boas, Me
 
 ## Year 3
 
-SHS de 3e année : enquête par entretiens sur l'imaginaire de la mobilité du futur. Les trois notes sont le matériau (transcriptions) et deux synthèses des mêmes trois entretiens.
-
-### Notes
-
-| Note | Rôle | Résumé |
-|---|---|---|
-| Transcriptions des entretiens | Entretiens bruts | [[Transcriptions des entretiens (résumé)\|Résumé]] |
-| Synthèse des entretiens | Rapport rédigé | [[Synthèse des entretiens (résumé)\|Résumé]] |
-| [[Synthese SHS GPT (résumé)\|Synthese SHS GPT]] | Analyse comparative | [[Synthese SHS GPT (résumé)\|Résumé]] |
+SHS de 3e année : enquête par entretiens sur l'imaginaire de la mobilité du futur. Les notes d'enquête (transcriptions et synthèses des entretiens) et le TD n'ont plus de résumé : seuls le cours et les textes de lecture sont résumés.
 
 ### Documents PDF
 
-Cours magistral, TD et trois textes de lecture de l'enseignant et de ses références, qui cadrent l'enquête.
+Cours magistral et trois textes de lecture de l'enseignant et de ses références, qui cadrent l'enquête.
 
 | Document | Rôle | Résumé |
 |---|---|---|
 | imaginaire_automobile_futur_smaller (cours, 22 septembre 2025) | Objectifs, notion d'imaginaire, histoire, anthropologie, sociologie, livrables | [[2 - imaginaires du futur (résumé)\|Résumé]] |
-| TD_preparation_entretiens25.9.25 | Méthode d'entretien semi-directif, de la préparation à l'analyse | [[TD_preparation_entretiens25.9.25 (résumé)\|Résumé]] |
 | text1 (Meyer-Drawe, « L'automobile, un moi blindé ») | Approche anthropologique | [[4 - imaginaires automobile (résumé)\|Résumé]] |
 | text2 (Kröger, histoire de la conduite automatisée) | Approche historique | [[5 - imaginaires de l'automobile (résumé)\|Résumé]] |
 | text3 (Boltanski, « Les usages sociaux de l'automobile ») | Approche sociologique (lecture partielle) | [[6 - usages sociaux de l'automobile (résumé)\|Résumé]] |
@@ -78,10 +69,6 @@ Cours magistral, TD et trois textes de lecture de l'enseignant et de ses référ
 - **Écologie dans les entretiens** : [[Sobriété]], [[Manifeste pour le vivant]]
 
 La matière est avant tout une méthode d'enquête (entretiens semi-directifs, archétypes). Les thèmes de mobilité et d'écologie sont repris dans [[Culture du vivant (index)]].
-
-### À revoir en priorité
-
-Les deux synthèses se recoupent presque entièrement. Les verbatims sont des opinions d'interviewés, pas des faits.
 
 ### Liens avec les autres matières
 
@@ -100,8 +87,6 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 | Note | Rôle | Résumé |
 |---|---|---|
 | [[3 - Prise de note (résumé)\|Prise de note SHS]] | Problématique, plan, ouvertures | [[3 - Prise de note (résumé)\|Résumé]] |
-| Recherches SHS | Recherches (Blender, OpenFisca, IA) | [[Recherches SHS (résumé)\|Résumé]] |
-| Entretien sur l'open source | Entretien retranscrit | [[Entretien sur l'open source (résumé)\|Résumé]] |
 
 ### Concepts
 
@@ -122,4 +107,3 @@ Le plan est encore en cours de remaniement (retours de l'enseignant sur le freem
 - **[[Culture du vivant (index)]]** : capitalisme, monopoles, IA sémantique contre générative et design politique éclairent la gouvernance des communs.
 - **[[Management de l'innovation (index)]]** : [[Git]], [[Copyleft]] et [[Financement participatif]] apparaissent aussi dans les devoirs d'analyse d'innovations.
 - **[[IA (index)]]** : [[Système expert]], cité comme réalisation de l'approche symbolique.
-- **[[Anglais (index)]]** : le glossaire définit [[Design system]] et des [[Licences libres]].

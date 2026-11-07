@@ -16,4 +16,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Mémoire vive]], [[Espace d'échange (swap)]], [[Commande df]].
 
-Résumés : [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]], [[TP3-Commands (2) (résumé)]], [[UNIX Commands - Semester report (résumé)]]
+Résumés : [[8 - OS commandes sh (résumé)]], [[3 - TP3 (résumé)]]
