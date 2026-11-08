@@ -2,11 +2,12 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]] (séance du 07/10/23), dans [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des tables, des définitions et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
+Résumé de [[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]] (séance du 07/10/23), dans [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]. Les images de la note ne contiennent que des tables, des définitions et des formules : leur contenu est recopié ci-dessous, sans les intégrer. Les passages ajoutés finissent par ⓘ.
 
 ## Idée générale
 
@@ -25,11 +26,17 @@ Tables de vérité des connecteurs (V = vrai, F = faux) :
 | F | V | V | F | V | V | F |
 | F | F | V | F | F | V | V |
 
+Le « ou » logique est **inclusif** : $p \vee q$ est vrai aussi quand $p$ et $q$ sont vraies toutes les deux. Le « ou » du langage courant (« fromage ou dessert ») est souvent **exclusif** : c'est un autre connecteur, le [[Ou exclusif|ou exclusif]] (XOR), noté $p \oplus q$, vrai quand exactement une des deux propositions est vraie : $p \oplus q \equiv (p \vee q) \wedge \neg(p \wedge q) \equiv \neg(p \Leftrightarrow q)$. Dans l'ordre des lignes du tableau (VV, VF, FV, FF), sa colonne est F, V, V, F : l'inverse de celle de $p \Leftrightarrow q$. [[Complément hors du cours|ⓘ]]
+
 À retenir sur l'[[Implication logique|implication]] :
 
 $$p \Rightarrow q \;\equiv\; \neg p \vee q \;\equiv\; \neg q \Rightarrow \neg p.$$
 
 L'implication n'est fausse que lorsque $p$ est vraie et $q$ fausse.
+
+Les deux dernières lignes surprennent souvent : quand $p$ est fausse, $p \Rightarrow q$ est vraie quelle que soit $q$. L'implication est une promesse (« si $p$, alors $q$ ») : elle n'est rompue que si $p$ se produit sans $q$ ; quand $p$ ne se produit pas, la promesse n'est pas trahie. C'est pour cela qu'une affirmation sur les éléments d'un ensemble vide (« tout élément de $\emptyset$ est pair ») est vraie. [[Complément hors du cours|ⓘ]]
+
+Trois implications à ne pas confondre, à partir de $p \Rightarrow q$ : la **contraposée** $\neg q \Rightarrow \neg p$, qui lui est équivalente ; la **réciproque** $q \Rightarrow p$ et la **contraire** (ou inverse) $\neg p \Rightarrow \neg q$, qui ne lui sont pas équivalentes (mais sont équivalentes entre elles, l'une étant la contraposée de l'autre). Avec le fil rouge ci-dessous : « tout carré est un rectangle » est vrai, sa réciproque « tout rectangle est un carré » est fausse. Voir [[Implication logique]]. [[Complément hors du cours|ⓘ]]
 
 Exemple qui sert de fil rouge : $p$ : « $A$ est un carré », $q$ : « $A$ est un rectangle ». On a $p \Rightarrow q$.
 
@@ -47,6 +54,8 @@ Voir [[Condition nécessaire et suffisante]].
 - C'est une **contradiction** si elle est toujours fausse.
 - **[[Équivalence logique]]** : deux propositions $P(p_1, \ldots, p_k)$ et $Q(p_1, \ldots, p_k)$ sont dites logiquement équivalentes (ou équivalentes) si elles ont la même table de vérité. On note $P(p_1, \ldots, p_k) \equiv Q(p_1, \ldots, p_k)$.
 
+Exemples classiques : $p \vee \neg p$ est une tautologie (principe du **tiers exclu** : une proposition est vraie ou fausse, il n'y a pas de troisième possibilité) ; $p \wedge \neg p$ est une contradiction (principe de **non-contradiction**). Lien entre les deux notions : $P \equiv Q$ si, et seulement si, $P \Leftrightarrow Q$ est une tautologie. Le signe $\equiv$ n'est pas un connecteur : il énonce un fait sur deux formules, alors que $\Leftrightarrow$ fabrique une nouvelle formule. [[Complément hors du cours|ⓘ]]
+
 ## 4. Propriétés des connecteurs logiques
 
 [[Propriétés des connecteurs logiques]] ($T$ = toujours vrai, $F$ = toujours faux) :
@@ -62,6 +71,11 @@ Voir [[Condition nécessaire et suffisante]].
 | Complément | $p \vee \neg p \equiv T$ ; $\neg T \equiv F$ | $p \wedge \neg p \equiv F$ ; $\neg F \equiv T$ |
 | [[Lois de De Morgan]] | $\neg(p \vee q) \equiv \neg p \wedge \neg q$ | $\neg(p \wedge q) \equiv \neg p \vee \neg q$ |
 
+Deux équivalences très utilisées en pratique découlent de $p \Rightarrow q \equiv \neg p \vee q$ et de De Morgan. [[Complément hors du cours|ⓘ]]
+
+- **Négation d'une implication** : $\neg(p \Rightarrow q) \equiv \neg(\neg p \vee q) \equiv p \wedge \neg q$. Ce n'est pas une implication : nier « s'il pleut, je prends mon parapluie », c'est dire « il pleut et je ne prends pas mon parapluie ». [[Complément hors du cours|ⓘ]]
+- **Équivalence comme double implication** : $p \Leftrightarrow q \equiv (p \Rightarrow q) \wedge (q \Rightarrow p)$, d'où la démonstration d'une équivalence en deux sens (même idée que la [[Double inclusion|double inclusion]] pour les ensembles). [[Complément hors du cours|ⓘ]]
+
 ## 5. Précédence des connecteurs
 
 [[Priorité des connecteurs logiques]], du plus prioritaire au moins prioritaire :
@@ -73,11 +87,15 @@ Voir [[Condition nécessaire et suffisante]].
 
 À priorité égale, le connecteur de droite est prioritaire.
 
+Exemple de lecture : $\neg p \wedge q \vee r \Rightarrow s$ se lit $\big(((\neg p) \wedge q) \vee r\big) \Rightarrow s$ ; et, la règle de droite s'appliquant, $p \Rightarrow q \Rightarrow r$ se lit $p \Rightarrow (q \Rightarrow r)$, qui n'est pas équivalent à $(p \Rightarrow q) \Rightarrow r$ (prendre $p$, $q$, $r$ fausses : la première vaut V, la seconde F). Dans le doute, mettre les parenthèses. [[Complément hors du cours|ⓘ]]
+
 ## 6. Arguments
 
 **Définition** : un argument est une suite de propositions $p_1, \ldots, p_k$, appelées **prémisses**, se terminant par une proposition $q$ appelée **conclusion**. On note $p_1, \ldots, p_k \vdash q$. Un argument est **valide** si, dès que les prémisses sont vraies, la conclusion est vraie. Un argument non valide est dit **fallacieux**. Voir [[Argument valide]].
 
 **Exemples** : $p \wedge q \vdash p$ est valide ; $q,\ p \Rightarrow q \vdash p$ est fallacieux.
+
+Pour montrer qu'un argument est fallacieux, il suffit d'une ligne de la table où toutes les prémisses sont vraies et la conclusion fausse. Ici, $p$ fausse et $q$ vraie : $q$ et $p \Rightarrow q$ sont vraies, $p$ est fausse. Avec le fil rouge : « $A$ est un rectangle ; tout carré est un rectangle ; donc $A$ est un carré » est faux pour un rectangle non carré. Ce sophisme s'appelle l'**affirmation du conséquent** ; son voisin, la **négation de l'antécédent** ($\neg p,\ p \Rightarrow q \vdash \neg q$), est fallacieux pour la même raison. Ce sont les deux erreurs qui imitent le modus ponens et le modus tollens ci-dessous. [[Complément hors du cours|ⓘ]]
 
 **Théorème** : un argument $p_1, \ldots, p_k \vdash q$ est valide si, et seulement si, $p_1 \wedge p_2 \wedge \ldots \wedge p_k \Rightarrow q$ est une tautologie.
 
@@ -123,6 +141,12 @@ $$\forall x\,(p(x) \wedge q(x)) \;\equiv\; (\forall x\, p(x)) \wedge (\forall x\
 $$\neg\,[(\forall x \in A)\ p(x)] \;\equiv\; (\exists x \in A)\ \neg p(x).$$
 (et symétriquement, $\neg[\exists x\, p(x)] \equiv \forall x\, \neg p(x)$).
 
+La distributivité ne vaut que dans deux cas : $\forall$ sur $\wedge$ (ci-dessus) et $\exists$ sur $\vee$ : $\exists x\,(p(x) \vee q(x)) \equiv (\exists x\, p(x)) \vee (\exists x\, q(x))$. Les deux autres sont fausses en général. Dans $\mathbb{N}$, « tout entier est pair ou impair » est vrai, mais « tout entier est pair, ou tout entier est impair » est faux : $\forall$ ne se distribue pas sur $\vee$. De même, « il existe un entier pair et il existe un entier impair » est vrai, mais « il existe un entier à la fois pair et impair » est faux : $\exists$ ne se distribue pas sur $\wedge$. Seules les implications $(\forall x\, p(x)) \vee (\forall x\, q(x)) \Rightarrow \forall x\,(p(x) \vee q(x))$ et $\exists x\,(p(x) \wedge q(x)) \Rightarrow (\exists x\, p(x)) \wedge (\exists x\, q(x))$ restent vraies. [[Complément hors du cours|ⓘ]]
+
+**L'ordre des quantificateurs compte** quand ils sont de nature différente. $\forall x \in \mathbb{N},\ \exists y \in \mathbb{N},\ y > x$ (« pour tout entier, il en existe un plus grand ») est vrai : $y$ peut dépendre de $x$ (prendre $y = x + 1$). $\exists y \in \mathbb{N},\ \forall x \in \mathbb{N},\ y > x$ (« il existe un entier plus grand que tous les autres ») est faux. Deux quantificateurs de même nature, en revanche, s'échangent : $\forall x\, \forall y \equiv \forall y\, \forall x$, et de même pour $\exists$. [[Complément hors du cours|ⓘ]]
+
+**Existence et unicité** : $\exists!\, x \in A,\ p(x)$ (« il existe un unique $x$ ») signifie $\exists x \in A,\ p(x)$ et $\forall x, x' \in A,\ (p(x) \wedge p(x')) \Rightarrow x = x'$. On le démontre donc en deux temps : on exhibe un $x$ qui convient (existence), puis on suppose deux solutions et on montre qu'elles sont égales (unicité). [[Complément hors du cours|ⓘ]]
+
 **Exemple avec plusieurs variables** : on fait entrer la négation de proche en proche, en changeant chaque quantificateur traversé :
 $$\neg\,[\forall x \exists y \exists z,\ p(x,y,z)] \equiv \exists x\ \neg[\exists y \exists z,\ p(x,y,z)] \equiv \exists x \forall y\ \neg[\exists z,\ p(x,y,z)] \equiv \exists x \forall y \forall z,\ \neg p(x,y,z).$$
 
@@ -136,9 +160,13 @@ $$\neg\,[\forall x \exists y \exists z,\ p(x,y,z)] \equiv \exists x\ \neg[\exist
 
 [[Raisonnement par l'absurde]] : on montre que $p$ est vraie en démontrant que si $p$ est fausse, on aboutit à une conclusion absurde.
 
+Forme logique : $(\neg p \Rightarrow C) \Rightarrow p$, où $C$ est une contradiction, est une tautologie. La « conclusion absurde » est en pratique une proposition et sa négation obtenues en même temps ($r \wedge \neg r$), comme « $a$ et $b$ sont sans facteur commun » et « $a$ et $b$ sont pairs » dans la preuve de l'irrationalité de $\sqrt{2}$ plus bas. Différence avec la contraposition : pour prouver $p \Rightarrow q$ par contraposition, on part de $\neg q$ et on vise précisément $\neg p$ ; par l'absurde, on suppose $p$ et $\neg q$ ensemble et on cherche une contradiction quelconque. [[Complément hors du cours|ⓘ]]
+
 ### Preuve par contre-exemple
 
 [[Preuve par contre-exemple]] : pour montrer qu'une proposition « pour tout $x$ » est vraie, il faut la montrer pour tout $x$ de l'ensemble de définition ; pour montrer qu'elle est fausse, il suffit d'un seul contre-exemple.
+
+C'est la négation des quantificateurs vue plus haut : $\neg[\forall x,\ p(x)] \equiv \exists x,\ \neg p(x)$, donc exhiber un seul $x$ tel que $\neg p(x)$ réfute la proposition. Exemple : « pour tout entier $n$, $n^2 + n + 41$ est premier » est vrai pour $n = 0, 1, \ldots, 39$, mais faux pour $n = 40$, car $40^2 + 40 + 41 = 41^2$. Des exemples, même nombreux, ne prouvent donc jamais un « pour tout ». [[Complément hors du cours|ⓘ]]
 
 ### Preuve par disjonction des cas
 
@@ -155,6 +183,10 @@ $$1 + 2 + \ldots + n + (n+1) = \frac{n(n+1)}{2} + (n+1) = (n+1)\left[\frac{n}{2}
 Donc $P(n+1)$ est vraie.
 - **Conclusion** : $P(1)$ est vraie et $P$ est héréditaire à partir du rang 1, donc par récurrence $P(n)$ est vraie pour tout $n \ge 1$.
 
+Les deux étapes sont indispensables. Sans initialisation, on « prouve » des choses fausses : $P(n)$ : « $n = n + 1$ » est héréditaire (si $n = n+1$, alors $n + 1 = n + 2$), mais n'est vraie pour aucun $n$. Image usuelle : une file de dominos tombe tout entière si le premier tombe (initialisation) et si chaque domino qui tombe fait tomber le suivant (hérédité). [[Complément hors du cours|ⓘ]]
+
+Variante, la **récurrence forte** : si $P(n_0)$ est vraie et si, pour tout $n \ge n_0$, la vérité de $P(n_0), P(n_0 + 1), \ldots, P(n)$ entraîne celle de $P(n+1)$, alors $P(n)$ est vraie pour tout $n \ge n_0$. On s'en sert quand $P(n+1)$ dépend d'un rang antérieur quelconque et pas seulement de $P(n)$ : par exemple pour montrer que tout entier $n \ge 2$ est un produit de nombres premiers (si $n + 1$ n'est pas premier, il s'écrit $a \times b$ avec $2 \le a, b \le n$, et l'on applique l'hypothèse à $a$ et à $b$). [[Complément hors du cours|ⓘ]]
+
 ## 10. Théorèmes à connaître
 
 Voir [[Parité d'un entier]].
@@ -169,11 +201,11 @@ Voir [[Parité d'un entier]].
 
 **Théorème** : soient $x$ et $y$ deux entiers positifs. Si $x + y$ est pair, alors $x$ et $y$ ont la même parité.
 
-*Preuve* : soit $p(x,y)$ : « $x + y$ est pair » et $q(x,y)$ : « $x$ et $y$ ont la même parité » (l'image écrit $q(x,x)$, voir « Erreurs du cours »). Par contraposition, on suppose $\neg q(x,y)$ : $x$ et $y$ n'ont pas la même parité. On peut supposer $x$ impair et $y$ pair : $x = 2u + 1$, $y = 2v$. Alors $x + y = 2(u + v) + 1$ est impair, donc $\neg p(x,y)$ est vraie.
+*Preuve* : soit $p(x,y)$ : « $x + y$ est pair » et $q(x,y)$ : « $x$ et $y$ ont la même parité » [[Erreurs du cours#^e-1-logique|✎]]. Par contraposition, on suppose $\neg q(x,y)$ : $x$ et $y$ n'ont pas la même parité. On peut supposer $x$ impair et $y$ pair : $x = 2u + 1$, $y = 2v$. Alors $x + y = 2(u + v) + 1$ est impair, donc $\neg p(x,y)$ est vraie.
 
 ### Lemme : carré pair (contraposition)
 
-**Lemme** : soit $a$ un entier positif. Si $a^2$ est pair, alors $a$ est pair.
+**Lemme** : soit $a$ un entier positif. Si $a^2$ est pair, alors $a$ est pair. [[Erreurs du cours#^e-1-logique|✎]]
 
 *Preuve* : supposons $a$ impair : $a = 2u + 1$. Alors $a^2 = 4u^2 + 4u + 1 = 2(2u^2 + 2u) + 1$, donc $a^2$ est impair.
 
@@ -186,7 +218,4 @@ Voir [[Parité d'un entier]].
 3. En remplaçant dans (1) : $2b^2 = 4u^2$, soit $b^2 = 2u^2$ ; donc $b^2$ est pair, et $b$ aussi.
 4. $a$ et $b$ sont tous deux pairs : contradiction avec l'hypothèse qu'ils n'ont pas de facteur commun.
 
-## Erreurs du cours
-
-- [[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]] écrit, dans la démonstration de parité, « $q(x,x)$ » (vérifié sur l'image) ; il faut « $q(x,y)$ ». Coquille sans conséquence sur la preuve.
-- [[Raw/Year 1/Outil Maths/Cours/Chapitre 1 logique .docx|Chapitre 1 logique]] écrit « Soit $a^2$ un entier positif » dans l'énoncé du lemme (vérifié sur l'image) ; il faut « Soit $a$ un entier positif ».
+L'hypothèse « sans facteur commun » ne restreint rien : tout rationnel non nul s'écrit sous forme de fraction irréductible, en divisant numérateur et dénominateur par leur PGCD. Sans elle, on obtiendrait seulement « $a$ et $b$ sont pairs », ce qui n'a rien de contradictoire en soi. La même méthode montre que $\sqrt{p}$ est irrationnel pour tout nombre premier $p$. [[Complément hors du cours|ⓘ]]

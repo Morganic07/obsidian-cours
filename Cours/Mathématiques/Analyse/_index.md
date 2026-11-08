@@ -6,7 +6,7 @@ sources:
   - "[[1 - Integration|Chap7-Integration]]"
   - "[[1 - démonstrations|démonstrations - integration]]"
   - "[[0 - Intégration UTILITAIRE|Intégration UTILITAIRE]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intégration. Le chapitre 9 (intégrales multiples) et le TD7 sont en PDF : ils sont résumés dans la section « Documents PDF » ci-dessous.
@@ -32,10 +32,13 @@ Analyse de 2e année. Les 3 notes présentes portent sur le chapitre 7, l'intég
 - **Primitives et calcul** : [[Primitive]], [[Dérivation d'une intégrale à bornes variables]], [[Intégration par parties]], [[Changement de variable dans une intégrale]], [[Règles de Bioche]], [[Décomposition en éléments simples]], [[Intégrales de Wallis]], [[Série numérique]]
 - **Approximation** : [[Méthode des trapèzes]]
 - **Intégrales multiples (chapitre 9)** : [[Intégrale multiple]], [[Pavé]], [[Compact élémentaire]], [[Dérivée partielle]], [[Matrice jacobienne]], [[Difféomorphisme]], [[Coordonnées polaires]], [[Coordonnées elliptiques]], [[Ellipse]]
+- **Ajoutés par l'enrichissement** : [[Intégrale généralisée]], [[Intégrale de Gauss]], [[Coordonnées cylindriques]], [[Coordonnées sphériques]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité
 
-Le cours ne présente pas d'erreur de fond. Les points relevés sont surtout des coquilles de preuve, à connaître si l'on doit les refaire : voir [[1 - démonstrations]].
+Savoir refaire les démonstrations de [[1 - démonstrations]].
 
 ## Liens avec les autres matières
 

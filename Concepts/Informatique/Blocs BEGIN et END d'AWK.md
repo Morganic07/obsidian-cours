@@ -10,17 +10,13 @@ aliases:
 sources:
   - "[[Raw/Year 2/Operating System/DM/TP5/TP5-AWK Command.pdf|TP5-AWK Command.pdf]]"
   - "[[5 - TP5|Cours TP5]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 En [[AWK]], le bloc `BEGIN` s'exécute avant la lecture de toute ligne : initialiser des variables, afficher un en-tête, fixer `FS`. Le bloc `END` s'exécute après le traitement de toutes les lignes : bilans, calculs finaux.
 
-Exemple du TP5 : en-tête « The list of manufacturers and the car powers they produced », puis fin « The file is finished. ».
+Exemple du TP5 : en-tête « The list of manufacturers and the car powers they produced », puis `{print $1, $2, $4}` pour l'ID, le constructeur et la puissance de chaque ligne, puis fin « The file is finished. ». [[Erreurs du cours#^e-blocs-begin-et-end-d-awk|✎]]
 
 Notion parente : [[AWK]]. Voir aussi : [[Variables intégrées d'AWK]].
-
-## Erreurs du cours
-
-- [[5 - TP5|Cours TP5]] (rendu, question h) écrit « {print $0} » ; il faut « {print $1, $2, $4} » (ou les colonnes voulues) : la question demande l'ID, le constructeur et la puissance, et `$0` affiche toute la ligne, modèle compris.
 
 Résumés : [[5 - TP5]]

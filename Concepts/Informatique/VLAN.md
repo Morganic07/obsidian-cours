@@ -4,7 +4,7 @@ tags: [year3]
 aliases: [VLAN, VLANs, V-LAN, Inter VLAN Routing, InterVLANRouting, routage inter-VLAN, lien trunk, trunk link, access link, switchport mode access, switchport mode trunk, VLAN 1, VLAN par défaut, IVR]
 matieres: [Computer Network]
 sources: ["[[4 - VLAN ／ IVR Commands|Chp4 - VLAN ／ IVR Commands]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Un VLAN divise le domaine de diffusion (broadcast) d'un switch en plusieurs domaines. Par défaut, tous les ports d'un switch Cisco sont dans le VLAN 1, VLAN par défaut qu'on ne peut pas supprimer.
@@ -13,10 +13,7 @@ Un VLAN divise le domaine de diffusion (broadcast) d'un switch en plusieurs doma
 - **Créer** : `vlan 10` puis `name ADMIN`.
 - **Ports** : `interface range fastEthernet 0/1-5`, `switchport mode access`, `switchport access vlan 10`.
 - **Trunk entre switchs** : `switchport mode trunk`, `switchport trunk allowed vlan add 10`.
-- **Routage inter-VLAN (IVR)** : un routeur relié au switch par un trunk. Une sous-interface par VLAN, par exemple `interface gigabitEthernet 0/1.10`, avec `encapsulation dot1q 10` et l'adresse IP, qui sert de passerelle par défaut. L'interface physique doit être activée par `no shutdown`.
-
-> [!warning] Écart dans le cours
-> Dans l'exemple du cours, les trois sous-interfaces portent `encapsulation dot1q 10`. Les sous-interfaces `.20` et `.30` devraient porter 20 et 30 (complément).
+- **Routage inter-VLAN (IVR)** : un routeur relié au switch par un trunk. Une sous-interface par VLAN, par exemple `interface gigabitEthernet 0/1.10`, avec `encapsulation dot1q 10` et l'adresse IP, qui sert de passerelle par défaut. Chaque sous-interface porte le numéro de son propre VLAN : `encapsulation dot1q 20` pour `.20`, `encapsulation dot1q 30` pour `.30`. [[Erreurs du cours#^e-vlan|✎]] L'interface physique doit être activée par `no shutdown`.
 
 Liens : [[Domaine de diffusion]], [[Sous-interface]], [[Encapsulation 802.1Q]], [[Commutateur]], [[CLI Cisco IOS]], [[Adressage IPv4 et CIDR]]
 

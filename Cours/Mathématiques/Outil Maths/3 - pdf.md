@@ -2,11 +2,12 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé du support du professeur Chapitre 3 - Relation binaire (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]) (28 diapositives, Outils Mathématiques, semestre 1, novembre 2023), dans [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]. Version du professeur du cours déjà résumé dans [[3 - Relation binaire]]. Notions : [[Relation binaire]], [[Relation d'équivalence]], [[Relation d'ordre]]. La page de titre porte « Chapitre 3-Ensemble Binaire » (coquille pour « Relation binaire »).
+Résumé du support du professeur Chapitre 3 - Relation binaire (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]) (28 diapositives, Outils Mathématiques, semestre 1, novembre 2023), dans [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]. Version du professeur du cours déjà résumé dans [[3 - Relation binaire]]. Notions : [[Relation binaire]], [[Relation d'équivalence]], [[Relation d'ordre]].
 
 ## 1. Motivation : des équivalences partout (diapositive 2)
 
@@ -35,6 +36,8 @@ Soient $A = \{a, b, c, d, e\}$ l'ensemble des élèves et $B = \{\text{Math}, \t
 - $S$ décrit si un étudiant a acheté un cadeau à un autre étudiant :
   $G_S = \{(b, a), (a, a), (c, a), (a, d), (d, c)\}$.
 
+Domaine et rang sur ces exemples : pour $G$, le domaine est $\{a, b, c, d, e\} = A$ (chaque élève suit au moins un cours) et le rang est $\{\text{Math}, \text{Phys}, \text{Info}, \text{Ang}\} = B$ ; pour $S$, le domaine (ceux qui offrent) est $\{a, b, c, d\}$ et le rang (ceux qui reçoivent) est $\{a, c, d\}$. [[Complément hors du cours|ⓘ]]
+
 ### Modes de représentation (diapositive 5)
 
 Voir [[Représentation d'une relation binaire]].
@@ -52,8 +55,20 @@ Matrice de $G$ (élèves et cours) telle que donnée :
 | d | | | V | |
 | e | V | | V | |
 
+Matrice de $S$ (cadeaux), d'après $G_S$ : [[Erreurs du cours#^e-3-pdf|✎]]
+
+| $S$ | a | b | c | d | e |
+|---|---|---|---|---|---|
+| a | V | | | V | |
+| b | V | | | | |
+| c | V | | | | |
+| d | | | V | | |
+| e | | | | | |
+
+Son diagramme sagittal a une boucle sur $a$ et les flèches $b \to a$, $c \to a$, $a \to d$, $d \to c$ ; $e$ est isolé. [[Erreurs du cours#^e-3-pdf|✎]]
+
 ![[Chapitre3-Relation binaire - p5.jpg]]
-*Figure : matrices des relations $G$ (élèves et cours) et $S$ (cadeaux), puis leurs diagrammes sagittaux (diapositive 5).*
+*Figure : matrices et diagrammes sagittaux de la diapositive 5 ; la partie droite ne reprend pas $G_S$ : pour $S$, se fier à la matrice ci-dessus.* [[Erreurs du cours#^e-3-pdf|✎]]
 
 ### Relation fonctionnelle (diapositive 6)
 
@@ -142,13 +157,20 @@ Sur $\mathbb{R}$ : $xRy \iff x^2 - y^2 = x - y$.
 2. Classe de $x$ : $\mathrm{Cl}(x) = \{y \in \mathbb{R} \mid xRy\}$. $y = x$ est solution (réflexivité). Pour $y \neq x$ : $x^2 - y^2 = (x - y)(x + y)$, donc l'équation devient $(x - y)(x + y) = x - y$, d'où $x + y = 1$ en divisant par $x - y \neq 0$, soit $y = 1 - x$. Conclusion :
 $$\mathrm{Cl}(x) = \{x,\ 1 - x\}.$$
 
+Détail de l'étape 1 : chaque propriété vient de l'égalité $g(x) = g(y)$, qui est réflexive ($g(x) = g(x)$), symétrique et transitive ($g(x) = g(y)$ et $g(y) = g(z)$ donnent $g(x) = g(z)$). Ce procédé vaut pour toute relation de la forme $xRy \iff g(x) = g(y)$. [[Complément hors du cours|ⓘ]]
+
+Cas particulier : pour $x = \tfrac12$, on a $1 - x = x$, donc $\mathrm{Cl}(\tfrac12) = \{\tfrac12\}$ n'a qu'un élément ; toutes les autres classes en ont deux. Géométriquement, $x$ et $1 - x$ sont symétriques par rapport à $\tfrac12$, l'axe de la parabole $t \mapsto t^2 - t$, et ont donc la même image. [[Complément hors du cours|ⓘ]]
+
 ### Partition (diapositive 19)
 
-**Définition** (telle que donnée). Une famille d'ensembles $(A_i)_{i \in I}$ est une **partition** de $E$ si :
+**Définition.** Une famille d'ensembles $(A_i)_{i \in I}$ est une **partition** de $E$ si :
+- les $A_i$ sont non vides ; [[Erreurs du cours#^e-3-pdf|✎]]
 - $E = \bigcup_{i \in I} A_i$ ;
 - deux éléments distincts de la famille sont disjoints : si $i \neq j$ alors $A_i \cap A_j = \emptyset$ (voir [[Ensembles disjoints]]).
 
 **Théorème.** Étant donnée une relation d'équivalence sur un ensemble, les classes d'équivalence forment une partition.
+
+Idée de la preuve : chaque classe est non vide, car $a \in [a]$ (réflexivité) ; tout élément de $E$ est dans sa propre classe, d'où la réunion égale à $E$ ; si $x \in [a] \cap [b]$, alors $aRx$ et $bRx$, donc $aRb$ (symétrie puis transitivité) et $[a] = [b]$ : deux classes distinctes sont disjointes. Pour la réciproque, on pose $xRy$ si $x$ et $y$ sont dans la même partie de la partition. [[Complément hors du cours|ⓘ]]
 
 ## 5. Relations d'ordre
 
@@ -175,6 +197,16 @@ Donner les propriétés des relations suivantes :
 
 Le support ne donne pas la correction. Éléments présents ailleurs dans le cours : $\le$ est un ordre total, $<$ n'est pas réflexif donc pas un ordre, $\subseteq$ est un ordre non total (diapositives 23-24).
 
+Correction proposée : [[Complément hors du cours|ⓘ]]
+
+| Relation | Réflexive | Symétrique | Antisymétrique | Transitive | Bilan |
+|---|---|---|---|---|---|
+| $\le$ sur $\mathbb{Z}$ | oui | non ($1 \le 2$, pas $2 \le 1$) | oui | oui | ordre total |
+| $<$ sur $\mathbb{Z}$ | non | non | oui (jamais $a < b$ et $b < a$) | oui | ordre strict, pas une relation d'ordre |
+| $\subseteq$ | oui | non | oui | oui | ordre partiel |
+| $\perp$ sur $L$ | non (une droite n'est pas perpendiculaire à elle-même) | oui | non | non ($d_1 \perp d_2$ et $d_2 \perp d_3$ donnent $d_1 \parallel d_3$) | aucune des deux familles |
+| $\parallel$ sur $L$ | oui (une droite est parallèle à elle-même, droites confondues comprises) | oui | non | oui | équivalence ; ses classes sont les **directions** de droites |
+
 ### Exemples d'ordres sur les nombres (diapositive 23)
 
 - $\le$ et $\ge$ sont des ordres totaux sur $\mathbb{N}$, qui s'étendent à $\mathbb{Z}$ et $\mathbb{R}$.
@@ -184,12 +216,16 @@ Le support ne donne pas la correction. Éléments présents ailleurs dans le cou
   - transitive : si $y = kx$ et $z = k'y$, alors $z = k'y = (kk')x$, donc $x \mid z$ ;
   - antisymétrique : si $x \mid y$ et $y \mid x$ alors $x = y$.
 
+Étape sautée pour l'antisymétrie : $y = kx$ et $x = k'y$ donnent $x = kk'x$, donc $kk' = 1$ (car $x \neq 0$), d'où $k = k' = 1$ dans $\mathbb{N}^*$ et $x = y$. Sur $\mathbb{Z}$, la divisibilité n'est plus antisymétrique : $2 \mid -2$ et $-2 \mid 2$ alors que $2 \neq -2$. [[Complément hors du cours|ⓘ]]
+
 ### Inclusion sur les parties d'un ensemble (diapositive 24)
 
 L'inclusion $\subseteq$ est une relation d'ordre sur $\mathcal{P}(E)$, non totale (voir [[Inclusion (ensembles)]]) :
 - réflexive : $A \subseteq A$ ;
 - transitive : $A \subseteq B$ et $B \subseteq C \Rightarrow A \subseteq C$ ;
 - antisymétrique : $A \subseteq B$ et $B \subseteq A \Rightarrow A = B$ (voir [[Double inclusion]]).
+
+Un ordre fini se dessine par son **[[Diagramme de Hasse|diagramme de Hasse]]** : on place les éléments du bas vers le haut et on ne trace qu'un trait de $x$ vers $y$ quand $x \prec y$ sans élément intermédiaire ; réflexivité (boucles) et transitivité (raccourcis) sont sous-entendues. Pour $\mathcal{P}(\{a, b, c\})$ ordonné par l'inclusion, on obtient un cube : $\emptyset$ en bas, les trois singletons, les trois paires, puis $\{a, b, c\}$ en haut. [[Complément hors du cours|ⓘ]]
 
 ### Fonctions croissantes et décroissantes (diapositive 25)
 
@@ -201,6 +237,8 @@ Soient $(A, \preceq_A)$ et $(B, \preceq_B)$ deux ensembles ordonnés et $f : A \
 - $f$ est **strictement décroissante** si $x \preceq_A y$ et $x \neq y$ $\Rightarrow$ $f(y) \preceq_B f(x)$ et $f(x) \neq f(y)$.
 
 **Proposition.** Une application strictement croissante ou strictement décroissante dont l'ensemble de départ est muni d'un ordre total est injective.
+
+Pourquoi : si $x \neq y$, l'ordre étant total, on a $x \preceq_A y$ ou $y \preceq_A x$ ; dans les deux cas la stricte monotonie donne $f(x) \neq f(y)$. L'ordre total est indispensable : sans lui, deux éléments incomparables pourraient avoir la même image. Voir [[Injectivité et surjectivité]]. [[Complément hors du cours|ⓘ]]
 
 ### Élément minimal, minorant, borne inférieure (diapositive 26)
 
@@ -231,10 +269,9 @@ Dans $(\mathbb{R}, \le)$ :
 | $]0, 1[$ | 3, 2, 1 | −2, −1, 0 | aucun | aucun |
 
 - Dans $(\mathcal{P}(E), \subset)$ : $\emptyset$ est le minimum de $\mathcal{P}(E)$ et $E$ son maximum.
-- Pour la divisibilité sur $\mathbb{N}$ : 0 est le maximum et 1 le minimum ; la partie $\{2, 3\}$ n'admet ni maximum ni minimum.
+- Pour la divisibilité étendue à $\mathbb{N}$ (avec $b = ak$, $k$ entier quelconque) : 0 est le maximum et 1 le minimum ; la partie $\{2, 3\}$ n'admet ni maximum ni minimum. [[Erreurs du cours#^e-3-pdf|✎]]
 - Dans $(\mathbb{R}, \le)$ : $]1, +\infty[$ admet 1 pour borne inférieure mais n'admet pas de borne supérieure.
 
-## Erreurs du cours
+Bornes des trois intervalles du tableau : $[0, 1]$, $]0, 1]$ et $]0, 1[$ ont tous $\sup = 1$ et $\inf = 0$ (1 est le plus petit des majorants, 0 le plus grand des minorants), même quand ils n'ont ni maximum ni minimum : la borne existe sans appartenir à la partie. C'est l'intérêt de la notion. [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]], diapositive 19, définit une partition sans la condition « parties non vides » ; il faut l'ajouter, comme au [[2 - pdf|chapitre 2]]. Le théorème « les classes forment une partition » reste vrai.
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]], diapositive 5, dessine pour $S$ une matrice (lignes a : d ; b : a, b ; c : a, b ; d : d) et un diagramme sagittal qui ne correspondent pas à $G_S = \{(b,a), (a,a), (c,a), (a,d), (d,c)\}$ de la diapositive 4 (vérifié sur les images) : la matrice n'a ni $(a,a)$ ni $(d,c)$, et ajoute $(b,b)$, $(c,b)$, $(d,d)$. Le support ne permet pas de dire laquelle des deux représentations est la bonne.
+Pour la divisibilité, la borne inférieure de $\{a, b\}$ est leur **PGCD** (plus grand diviseur commun au sens de la divisibilité) et la borne supérieure leur **PPCM**. Ainsi $\{2, 3\}$, sans maximum ni minimum, a pour borne inférieure 1 et pour borne supérieure 6. Le maximum 0 sur $\mathbb{N}$ suppose la définition usuelle de la divisibilité, où $k$ peut valoir 0 : alors tout entier divise 0 ($0 = n \times 0$). Avec $k \in \mathbb{N}^*$ comme à la diapositive 23, 0 n'est divisible par aucun entier non nul. [[Complément hors du cours|ⓘ]]

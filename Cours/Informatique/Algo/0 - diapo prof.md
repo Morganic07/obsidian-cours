@@ -2,8 +2,9 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du recueil AlgoID1 (PDF) ([[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]) (163 pages, CY Tech, pré-ING 1re année), dans [[Cours/Informatique/Algo/_index|Algo]]. Plusieurs supports sont collés bout à bout : cours d'introduction, éléments de base en pseudo-code (avec TD), fonctions et procédures, fonctions en Python, introduction à Python (en anglais), types structurés, récursivité, puis les TD de récursivité et d'enregistrements. Notions déjà dans le wiki : [[Récursivité]], [[Tours de Hanoï]], [[Structure (struct)]], [[Portée d'une variable]], [[Pile et file]], [[Récurrence]], et le document [[Raw/Year 1/Algo Maths/Python.docx|Python]].
@@ -20,13 +21,16 @@ Limite de lecture : le texte est extrait en entier ; les diapositives où le cod
 
 ### Algorithmique et programmation
 
-- **Algorithmique** : le mot vient du nom d'un mathématicien persan, Al-Khowarizmi (le cours dit « du VIIe siècle ») ; c'est concevoir une solution (un algorithme) pour un problème donné.
+- **Algorithmique** : le mot vient du nom d'un mathématicien persan, Al-Khowarizmi, du IXe siècle ; c'est concevoir une solution (un algorithme) pour un problème donné. [[Erreurs du cours#^e-0-diapo-prof|✎]]
+- Muhammad ibn Mūsā al-Khwārizmī a vécu vers 780-850, donc au IXe siècle, à Bagdad (Maison de la sagesse). Son traité d'algèbre, dont le titre contient *al-jabr*, a donné le mot « algèbre » ; la traduction latine de son traité de calcul en chiffres indiens (*Algoritmi de numero Indorum*) a diffusé en Europe la numération décimale de position, d'où « algorisme » puis « algorithme ». [[Complément hors du cours|ⓘ]]
 - **Programmation** : dire à un ordinateur ce qu'il doit faire (« This machine has no brain. Use your own ») ; écrire un algorithme dans un langage compréhensible par la machine.
 - L'informatique a progressé (matériel : miniaturisation, performances, coûts, ubiquité ; logiciel : facilité d'utilisation), mais le concept de base reste le **calcul** : suite de transformations effectuées automatiquement à l'aide d'un nombre fini de règles préétablies, sur des données symboliques (nombres, expressions mathématiques, données de toutes sortes).
 
 ### Définition d'un algorithme
 
 [[Algorithme]] : « procédure de calcul bien définie qui prend en entrée une [ou plusieurs] valeurs, et qui donne en sortie une [ou plusieurs] valeurs » (Cormen et al.). Autrement dit, une séquence d'instructions qui transforment l'entrée en sortie. Un **problème** spécifie une relation entre l'entrée et la sortie ; un algorithme est conçu pour résoudre un problème.
+
+Les cinq propriétés classiques d'un algorithme (Knuth, *The Art of Computer Programming*) précisent ce « bien définie » : **finitude** (il s'arrête après un nombre fini d'étapes), **définition précise** (chaque étape est sans ambiguïté), **entrées** (zéro ou plusieurs), **sorties** (au moins une), **efficacité** (chaque étape est assez élémentaire pour être exécutée exactement en un temps fini). Une recette de cuisine ne remplit qu'approximativement la deuxième condition (« mélanger » ne dit pas combien de temps). [[Complément hors du cours|ⓘ]]
 
 ### Spécifier un algorithme
 
@@ -49,9 +53,13 @@ Dans tous les cas, la spécification doit décrire précisément la procédure d
 
 [[Correction d'un algorithme]] : un algorithme est correct si, pour chaque entrée, il se termine en produisant la bonne sortie. Un algorithme incorrect risque de ne pas se terminer sur certaines instances, ou de rendre une autre réponse ; il peut pourtant être utile si son taux d'erreur est contrôlé.
 
+On distingue la **correction partielle** (si l'algorithme s'arrête, la sortie est bonne) de la **correction totale** (correction partielle plus [[Terminaison d'un algorithme|terminaison]]). La correction partielle d'une boucle se prouve par un [[Invariant de boucle|invariant de boucle]] : une propriété vraie avant la boucle, conservée par chaque tour, et qui, combinée à la condition de sortie, donne le résultat voulu. Exemple, pour la boucle `POUR i DE 1 A n : resultat ← resultat + i` de la partie 2 : « après le tour $i$, $\text{resultat} = 1 + 2 + \ldots + i$ » ; à la sortie ($i = n$), on obtient bien la somme demandée. La terminaison se prouve par un **variant** : une quantité entière positive qui décroît strictement à chaque tour. [[Complément hors du cours|ⓘ]]
+
 ### Problèmes difficiles
 
 « Correctness may be theoretical, but incorrectness has a practical impact. » Exemple du [[Problème du voyageur de commerce]] : une entreprise de camionnage charge un camion au dépôt, l'envoie livrer plusieurs villes, et il revient au dépôt. Comment choisir l'ordre des livraisons pour minimiser la distance ? Il n'existe pas d'algorithme efficace donnant la solution exacte en un temps raisonnable, mais il existe des [[Algorithme d'approximation|algorithmes d'approximation]] qui donnent rapidement une distance proche du minimum.
+
+Pourquoi c'est difficile : avec $n$ villes, il y a $\frac{(n-1)!}{2}$ circuits distincts (point de départ fixé, sens de parcours indifférent). Pour 20 villes, cela fait environ $6 \times 10^{16}$ circuits : la [[Recherche exhaustive|recherche exhaustive]] est hors de portée. Le problème est **NP-difficile** (sa version de décision, « existe-t-il un circuit de longueur au plus $L$ ? », est NP-complète) : on ne connaît aucun algorithme exact en temps polynomial, et en trouver un, ou prouver qu'il n'en existe pas, revient à trancher la question ouverte « P = NP ? ». Voir [[Classe de complexité]]. [[Complément hors du cours|ⓘ]]
 
 ### Modélisation
 
@@ -76,7 +84,11 @@ Un seul algorithme pour un problème complexe est souvent trop difficile à trou
 
 Non. Exemple d'**Ariane 5**, premier vol (4 juin 1996) : la fusée explose 37 secondes après le décollage. Cause : un programme d'Ariane 4 non reconfiguré pour Ariane 5 donne de fausses informations ; l'ordinateur de bord fait une mauvaise correction de trajectoire. 370 M$ perdus, sans victime.
 
+Le mécanisme précis, établi par la commission d'enquête (rapport de juillet 1996) : dans le logiciel des centrales inertielles repris d'Ariane 4, une valeur liée à la vitesse horizontale, stockée en flottant sur 64 bits, était convertie en entier signé sur 16 bits (valeurs de $-32\,768$ à $32\,767$). Ariane 5, plus rapide, a produit une valeur trop grande : la conversion a déclenché une erreur de dépassement (*overflow*) non traitée, les deux centrales (principale et secours, au logiciel identique) se sont arrêtées, et l'ordinateur de bord a interprété leurs données de diagnostic comme des données de vol. Leçon : une hypothèse vraie dans un contexte (Ariane 4) doit être revérifiée quand le contexte change. Voir [[Nombre à virgule flottante]] et [[Complément à deux]]. [[Complément hors du cours|ⓘ]]
+
 A-t-on encore besoin d'algorithmique avec des ordinateurs ultra-rapides et une mémoire bon marché ? **Oui** : la capacité des machines augmente, mais la taille des problèmes aussi. « Work expands so as to fill the time available for its completion » ([[Loi de Parkinson]]).
+
+L'argument se chiffre avec la [[Complexité algorithmique|complexité]] : pour trier $n = 10^6$ nombres, un tri en $n^2$ opérations ([[Tri par insertion]], [[Tri par sélection]]) en demande de l'ordre de $10^{12}$, un tri en $n \log_2 n$ (tri fusion) de l'ordre de $2 \times 10^7$. Sur une machine faisant $10^9$ opérations par seconde, cela fait environ 17 minutes contre deux centièmes de seconde : un meilleur algorithme fait gagner bien plus qu'une machine plus rapide. [[Complément hors du cours|ⓘ]]
 
 Source principale du cours : *Algorithmique*, 3e édition (2010), de Cormen, Leiserson, Rivest et Stein.
 
@@ -133,7 +145,7 @@ Exemples d'expressions : `5 + x * 9` ; `"Bonjour les amis"` ; `"Je m'appelle" & 
 
 ### Affectation
 
-[[Affectation]] : assigner une valeur (une expression du **même type** que la variable) à une variable. La première affectation est l'**initialisation**. Notation : `Variable ← expression` (« Variable prend la valeur de expression »).
+[[Affectation]] : assigner une valeur (une expression du **même type** que la variable) à une variable. La première affectation est l'**initialisation**. Notation : `Variable ← expression` (« Variable prend la valeur de expression »). [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```text
 x ← 2
@@ -143,7 +155,7 @@ somme ← 8 * x + (y - x DIV 2) * 3
 
 PROGRAMME ecriture_message
 VARIABLES
-    rep : INTEGER
+    rep : ENTIER
 DEBUT
     rep ← 42
     ECRIRE("La reponse a la question universelle est : " & rep)
@@ -197,6 +209,8 @@ Exercices (sans corrigé) :
 
 1. **Température** : saisir la température de l'eau (entier, en degrés) et dire si c'est de la glace (en dessous de 0), du liquide (entre 0 et 100) ou de la vapeur (au-delà de 100).
 2. **Année bissextile** : les années divisibles par 4 sont bissextiles, pas les autres ; exception, les années divisibles par 100 ne le sont pas ; exception à l'exception, les années divisibles par 400 le sont.
+
+Ces règles sont celles du calendrier grégorien (1582). Elles tiennent en une seule condition : `(a MOD 4 = 0 ET a MOD 100 <> 0) OU (a MOD 400 = 0)`. Ainsi 1900 n'est pas bissextile, 2000 l'est. [[Complément hors du cours|ⓘ]]
 
 **SELON LE CAS** : exécute une suite d'instructions selon la valeur d'une variable ; le cas `DEFAUT` est à prévoir obligatoirement.
 
@@ -302,6 +316,8 @@ FIN
 
 Exercice (sans corrigé) : calculer le produit $1 \times 2 \times \ldots \times N$ ($N$ saisi), en trois versions, une par boucle (`POUR`, `TANTQUE`, `JUSQUACEQUE`). Voir [[Factorielle]].
 
+Choisir sa boucle : `POUR` quand le nombre de tours est connu à l'avance ; `TANTQUE` quand il dépend d'une condition qui peut être fausse dès le départ (zéro tour possible) ; `REPETER … JUSQUACEQUE` quand il faut au moins un tour, typiquement une saisie à contrôler. Toute boucle `POUR i DE a A b` s'écrit avec `TANTQUE` (`i ← a`, `TANTQUE (i <= b)`, instructions, `i ← i + 1`). Dans une boucle conditionnelle, si rien ne modifie la condition dans le corps, la boucle ne s'arrête jamais (boucle infinie). [[Complément hors du cours|ⓘ]]
+
 **Rappel** : `SI … ALORS … SINON` n'est **pas** une boucle : il n'y a pas de répétition, parler de « boucle si » n'a pas de sens.
 
 ### TD Éléments de base (sans corrigé)
@@ -403,14 +419,14 @@ L'appel arrête momentanément l'appelant pour exécuter la fonction (ou procéd
 *Figure : appel d'une fonction : l'appelant exécute `x ← F(…)`, la main passe à F, puis revient à l'appelant (« appeler » / « retourner »).*
 
 ![[AlgoID1 - p62.jpg]]
-*Figure : appel d'une procédure P : même aller-retour, sans valeur à récupérer.*
+*Figure : appel d'une procédure P : même aller-retour, sans valeur à récupérer.* [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```text
 Programme testCarre
 Variables
     res : Entier
 Début
-    res ← calculCarre(12)
+    res ← calculeCarre(12)
     Ecrire res
 Fin
 
@@ -523,7 +539,7 @@ Fin
 //   global ← 7 ; res ← maFonction(global) ; Ecrire res ; Ecrire global   // 7 ou 8 ?
 ```
 
-Réponses attendues (complément, non données par le cours) : exemple 1, 21 ; exemple 2, 9 puis 7 (modifier le paramètre `y` ne change pas `x`) ; exemple 3, 9 puis 8 (la globale est modifiée).
+Réponses attendues (non données par le cours) : exemple 1, 21 ; exemple 2, 9 puis 7 (modifier le paramètre `y` ne change pas `x`) ; exemple 3, 9 puis 8 (la globale est modifiée). [[Complément hors du cours|ⓘ]]
 
 ### Retourner plusieurs valeurs : paramètres de sortie
 
@@ -552,7 +568,11 @@ Début
     FinTantque
     reste ← a
 Fin
+```
 
+Cette procédure suppose $a \ge 0$ et $b > 0$ : avec $b = 0$, `a ← a - b` ne change rien et la boucle ne s'arrête jamais ; avec $b < 0$, $a$ grandit à chaque tour. Sa correction repose sur l'[[Invariant de boucle|invariant]] $a_{\text{initial}} = \text{quotient} \times b + a$, vrai avant la boucle et conservé à chaque tour ; à la sortie, $0 \le a < b$, donc `reste` est bien le reste de la [[Division euclidienne|division euclidienne]]. [[Complément hors du cours|ⓘ]]
+
+```text
 Programme Test
 Variables x, y, q, r : Entier
 Début
@@ -576,6 +596,8 @@ Début
 Fin
 // a ← 1 ; b ← 5 ; permuter2(a,b) affiche a = 5, b = 1
 ```
+
+Traduction dans les langages : en [[Langage C|C]], tout passe par valeur, et un paramètre `S` ou `ES` se simule en passant l'**adresse** de la variable ([[Pointeur et adresse mémoire|pointeur]]) : `void permuter(int *x, int *y)`, appelée par `permuter(&a, &b)`. En C++, une [[Référence (C++)|référence]] `int &x` joue directement le rôle de `ES`. En Python, il n'y a pas de paramètre de sortie : on retourne plusieurs valeurs sous forme de tuple (`return q, r`, récupéré par `q, r = division(a, b)`), et la fonction prédéfinie `divmod(a, b)` rend déjà le couple (quotient, reste). [[Complément hors du cours|ⓘ]]
 
 ### Fonctions prédéfinies
 
@@ -690,7 +712,19 @@ En fin d'execution de incr, n vaut :   2
 Apres l'appel de incr, i vaut :   1
 ```
 
-`i` n'est pas modifié. Le document n'a pas d'exemple avec une valeur mutable (voir « Erreurs du cours »).
+`i` n'est pas modifié. Le document n'a pas d'exemple avec une valeur mutable.
+
+Avec une valeur mutable, la différence se voit entre **modifier** l'objet et **réaffecter** le paramètre. En Python, une variable est une étiquette posée sur un objet ; l'appel pose le paramètre sur le même objet que l'argument (on parle de passage « par référence d'objet »). Sont mutables les listes, dictionnaires et ensembles ; non mutables les entiers, flottants, chaînes et tuples. [[Complément hors du cours|ⓘ]]
+
+```python
+def ajoute(l):
+    l.append(4)      # modifie l'objet partagé : effet de bord visible chez l'appelant
+    l = [0]          # réaffecte seulement le nom local l : l'appelant n'est pas touché
+
+t = [1, 2, 3]
+ajoute(t)
+print(t)             # [1, 2, 3, 4]
+```
 
 ### Résumé : structure d'un programme Python type
 
@@ -736,6 +770,8 @@ print("La phrase contient", end=' ')
 print(no, "caractères", cch)
 ```
 
+`eval(input())` évalue comme du code Python tout ce que tape l'utilisateur : c'est pratique pour obtenir un nombre, mais dangereux (une saisie peut exécuter n'importe quelle instruction). Pour lire un nombre, on préfère `float(input())` ou `int(input())`, qui lèvent une erreur si la saisie n'est pas un nombre. La chaîne placée juste sous `def occurrences` est une *docstring* : `help(occurrences)` l'affiche. [[Complément hors du cours|ⓘ]]
+
 Annotations de la figure :
 
 - un programme peut utiliser un nombre quelconque de fonctions, définies localement ou importées de modules externes (qu'on peut écrire soi-même) ;
@@ -757,6 +793,8 @@ angle = pi/6        # soit 30° (la bibliothèque math inclut aussi la définiti
 print("racine carrée de", nombre, "=", sqrt(nombre))
 print("sinus de", angle, "radians", "=", sin(angle))
 ```
+
+Trois façons d'importer : `import math` (on écrit ensuite `math.sqrt(2)`), `from math import sqrt, pi` (seulement ces noms), `from math import *` (tous les noms). La dernière est déconseillée hors des essais : elle remplit l'espace de noms du programme et peut écraser silencieusement une fonction du même nom. Voir [[Module, paquet, bibliothèque et framework]]. [[Complément hors du cours|ⓘ]]
 
 Exercices (sans corrigé) :
 
@@ -799,9 +837,11 @@ x = True         # Boolean
 
 Opérateurs logiques : `and`, `or`, `not`. Opérateurs relationnels : `>`, `<`, `>=`, `<=`, `==`, `!=`. Bonus : `x += 1` ($x = x+1$), `x -= 1`, `x *= 1`.
 
+En Python 3, `/` rend toujours un flottant (`5/2` vaut `2.5`, `4/2` vaut `2.0`), alors que `//` et `%` correspondent au `DIV` et au `MOD` du pseudo-code : `7 // 2` vaut `3`, `7 % 2` vaut `1`. Pour les négatifs, `//` arrondit vers le bas (`-7 // 2` vaut `-4`) et le reste a le signe du diviseur (`-7 % 2` vaut `1`), de sorte que `a == (a // b) * b + a % b` reste vrai ; le C, lui, tronque vers zéro (`-7 / 2` vaut `-3`). [[Complément hors du cours|ⓘ]]
+
 **Entrées-sorties** : `print(expression1, expression2, …)`, par exemple `print("the value is :", x)` ; `input([string])`, par exemple `x = input("please enter a value")` ou `x = input()`.
 
-**Structures de contrôle** :
+**Structures de contrôle** : [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```python
 if x > 0:        # les deux instructions dépendent du test
@@ -829,10 +869,12 @@ for i in range(0, 3):
 
 str = "abcd"
 for i in str:
-    print i          # syntaxe Python 2 : print(i) en Python 3
+    print(i)
 ```
 
 `for element in sequence:` parcourt une séquence (voir [[Fonction range (Python)]]). `break` arrête la boucle ; `continue` arrête l'itération en cours et passe directement à la suivante.
+
+`range(0, 3)` produit 0, 1, 2 : la borne de fin est exclue, donc `for i in range(1, n + 1)` traduit `POUR i DE 1 A n`. Nommer une variable `str`, comme dans l'exemple, masque la fonction prédéfinie `str()` pour la suite du programme : mieux vaut un autre nom (`mot`, `s`). [[Complément hors du cours|ⓘ]]
 
 ## 6. Types structurés (enregistrements)
 
@@ -865,6 +907,8 @@ Variables pers1, pers2, pers3 : tpersonne
 ```
 
 On déclare un enregistrement comme une variable de type primitif : `Variables nom_variable : nom_type`.
+
+Dans les langages : en C, le type structuré s'écrit `struct tpersonne { char nom[50]; char prenom[50]; int age; };` et l'accès aux champs utilise le même point (`pers2.age`) ; en Python, on se sert d'une [[Dataclass (Python)|dataclass]] (ou d'une classe) ou, plus simplement, d'un [[Dictionnaire (Python)|dictionnaire]] (`pers2["age"]`). À la différence d'un [[Tableau (programmation)|tableau]], dont toutes les cases ont le même type et sont repérées par un indice, un enregistrement regroupe des champs de types différents repérés par un nom. [[Complément hors du cours|ⓘ]]
 
 ### Manipulation
 
@@ -899,13 +943,13 @@ FIN
 
 ### Enregistrement comme champ
 
-Si l'on remplace l'âge par la date de naissance : une date (jour, mois, année) est une entité indissociable, donc un type enregistrement à trois champs, utilisé comme champ d'un autre type.
+Si l'on remplace l'âge par la date de naissance : une date (jour, mois, année) est une entité indissociable, donc un type enregistrement à trois champs, utilisé comme champ d'un autre type. [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```text
 TYPE
     Structure date
         jour : entier
-        mois : chaîne
+        mois : entier
         année : entier
     FinStruct
     Structure personne
@@ -924,7 +968,7 @@ Exemple-exercice (sans corrigé) : un produit a un code, un libellé, un prix et
 2. **Nombre complexe** : a. définir un type complexe ; b. additionner deux complexes.
 3. **Divers** : une personne a un prénom, un nom et une date de naissance de 3 entiers (jour, mois, année).
    - a. écrire les structures pour manipuler personnes et dates ;
-   - b. écrire une fonction qui calcule l'âge en années d'une personne à une date donnée. Exemple de l'énoncé : née le 3/10/1998, à la date du 21/7/2019, « 19 ans » (le bon résultat est 20 ans, voir « Erreurs du cours »). Si la date donnée est antérieure à la naissance (1/1/1972 pour une personne née le 1/1/2000), retourner 0. On ne teste pas la validité des dates.
+   - b. écrire une fonction qui calcule l'âge en années d'une personne à une date donnée. Exemple de l'énoncé : née le 3/10/1998, à la date du 21/7/2019, « 20 ans » [[Erreurs du cours#^e-0-diapo-prof|✎]]. Si la date donnée est antérieure à la naissance (1/1/1972 pour une personne née le 1/1/2000), retourner 0. On ne teste pas la validité des dates.
 
 ## 7. Récursivité (cours 3)
 
@@ -932,12 +976,12 @@ Exemple-exercice (sans corrigé) : un produit a un code, un libellé, un prix et
 
 [[Récursivité]] : un algorithme est **récursif** s'il s'appelle lui-même dans sa propre définition. Correspondance mathématique : le principe de [[Récurrence]] ; exemple, la définition des entiers (0 est un entier ; si $n$ est un entier, $n+1$ est un entier).
 
-### Exemples
+### Exemples [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```text
 Fonction fact(n : Entier) : Entier          // Exemple 1 : factorielle
 Début
-    Si (n = 1) Alors
+    Si (n = 0) Alors
         Retourner 1
     Sinon
         Retourner fact(n-1) * n
@@ -956,6 +1000,10 @@ Fin
 
 Voir [[Factorielle]] et [[Algorithme d'Euclide]].
 
+Pourquoi `pgcd` se termine : pour $b > 0$, le reste vérifie $0 \le a \bmod b < b$, donc le second argument décroît strictement à chaque appel tout en restant positif ; il atteint 0 en un nombre fini d'appels. Pourquoi il est correct : $\text{pgcd}(a, b) = \text{pgcd}(b, a \bmod b)$, car tout diviseur commun de $a$ et $b$ divise $a - qb = a \bmod b$, et réciproquement. Exemple : $\text{pgcd}(48, 18) = \text{pgcd}(18, 12) = \text{pgcd}(12, 6) = \text{pgcd}(6, 0) = 6$. [[Complément hors du cours|ⓘ]]
+
+Ce que fait la machine lors d'un appel récursif : chaque appel empile sur la [[Pile d'exécution|pile d'exécution]] un bloc (paramètres, variables locales, adresse de retour). Pour `fact(3)` : `fact(3)` attend `fact(2)`, qui attend `fact(1)`, qui attend `fact(0)`, qui rend 1 ; puis les blocs se dépilent : `fact(1)` rend $1 \times 1 = 1$, `fact(2)` rend $1 \times 2 = 2$, `fact(3)` rend $2 \times 3 = 6$. La pile a une taille limitée : une récursion trop profonde, ou sans cas d'arrêt atteint, provoque un **débordement de pile** (*stack overflow*). Python l'arrête par une `RecursionError`, au-delà de 1000 appels imbriqués par défaut (`sys.getrecursionlimit()`). [[Complément hors du cours|ⓘ]]
+
 **Exemple 3 : [[Tours de Hanoï]]**.
 
 ![[AlgoID1 - p144.jpg]]
@@ -971,6 +1019,8 @@ Début
     FinSi
 Fin
 ```
+
+Nombre de déplacements : $u_0 = 0$ et $u_n = 2u_{n-1} + 1$, d'où $u_n = 2^n - 1$ (par [[Récurrence]]) ; c'est le minimum possible. Avec 64 disques, comme dans la légende associée au jeu (inventé par le mathématicien Édouard Lucas en 1883), il faut $2^{64} - 1 \approx 1{,}8 \times 10^{19}$ déplacements, soit environ 585 milliards d'années à un déplacement par seconde : un exemple de coût exponentiel. [[Complément hors du cours|ⓘ]]
 
 ### Forme générale
 
@@ -999,6 +1049,8 @@ p(x) = si c(x) alors
 
 - **Simple** : chaque appel engendre au plus un nouvel appel. **Multiple** : chaque appel en implique plusieurs.
 - **Non terminale** (enveloppée) : l'appel récursif n'est pas la dernière instruction. **Terminale** : l'appel récursif est la dernière instruction, par exemple $f(x) = \text{si } c(x) \text{ alors } g(x) \text{ sinon } f(s(x))$, ou une procédure qui finit par $p(s(x))$. Voir [[Récursivité terminale]].
+
+L'intérêt de la récursivité terminale : après l'appel récursif, il ne reste rien à faire, donc le bloc de l'appel en cours n'a plus besoin d'être conservé. Un compilateur peut alors réutiliser ce bloc au lieu d'en empiler un nouveau (*élimination des appels terminaux*), ce qui revient à une boucle et supprime le risque de débordement de pile. Les langages fonctionnels (Scheme, OCaml) le garantissent, GCC le fait en général avec optimisation (`-O2`) ; Python ne le fait pas : en Python, la version terminale ne fait donc pas gagner de mémoire. [[Complément hors du cours|ⓘ]]
 
 ### Terminaison
 
@@ -1037,9 +1089,11 @@ Début
 Fin
 ```
 
-Pistes (complément) : `exemple1` se termine (récursion multiple, $n$ décroît jusqu'à $\le 0$) ; `exemple2` ne se termine que pour $n$ pair et positif ; `exemple3` boucle si aucun premier n'est atteint (par exemple pour $n$ pair supérieur à 2) ; `exemple4` est la [[Conjecture de Syracuse]], dont on ne sait pas démontrer la terminaison pour tout $n$.
+Pistes : `exemple1` se termine (récursion multiple, $n$ décroît jusqu'à $\le 0$) ; `exemple2` ne se termine que pour $n$ pair et positif ; `exemple3` boucle si aucun premier n'est atteint (par exemple pour $n$ pair supérieur à 2) ; `exemple4` est la [[Conjecture de Syracuse]], dont on ne sait pas démontrer la terminaison pour tout $n$. [[Complément hors du cours|ⓘ]]
 
 **La terminaison est un [[Problème indécidable|problème indécidable]]** : il n'existe pas d'algorithme qui prend un programme en entrée et rend *true* si et seulement si ce programme termine.
+
+C'est le **problème de l'arrêt**, dont Alan Turing a démontré l'indécidabilité en 1936. Idée de la preuve, par l'[[Raisonnement par l'absurde|absurde]] : supposons qu'un programme `arret(P, x)` rende *true* si `P` s'arrête sur l'entrée `x`, *false* sinon. On écrit `paradoxe(P)` : si `arret(P, P)` vaut *true*, boucler indéfiniment ; sinon, s'arrêter. Alors `paradoxe(paradoxe)` s'arrête si et seulement s'il ne s'arrête pas : contradiction, donc `arret` n'existe pas. Conséquence pratique : aucun outil ne peut détecter à coup sûr toutes les boucles infinies ; on prouve la terminaison programme par programme, avec un variant. [[Complément hors du cours|ⓘ]]
 
 ### Avantages et inconvénients
 
@@ -1048,19 +1102,19 @@ Pistes (complément) : `exemple1` se termine (récursion multiple, $n$ décroît
 - Une solution : la récursivité terminale (placer les opérations qui suivent l'appel récursif à l'intérieur de l'appel lui-même).
 - Tout algorithme récursif peut aussi s'écrire de façon itérative.
 
-### Factorielle : non terminale, terminale, itérative
+### Factorielle : non terminale, terminale, itérative [[Erreurs du cours#^e-0-diapo-prof|✎]]
 
 ```text
 Fonction fact(n : Entier) : Entier          // non terminale : « * n » après l'appel
 Début
-    Si (n = 1) Alors Retourner 1
+    Si (n = 0) Alors Retourner 1
     Sinon Retourner fact(n-1) * n
     FinSi
 Fin
 
 Fonction factRT(n : Entier, acc : Entier) : Entier   // terminale, avec accumulateur
 Début
-    Si (n = 1) Alors Retourner acc
+    Si (n = 0) Alors Retourner acc
     Sinon Retourner factRT(n-1, acc*n)
     FinSi
 Fin
@@ -1088,6 +1142,8 @@ Fin
 
 $\text{Fibo}(5) \Rightarrow \text{Fibo}(4) + \text{Fibo}(3) \Rightarrow \ldots$ : $\text{Fibo}(3)$ est calculé 2 fois, $\text{Fibo}(2)$ 3 fois. Les sous-calculs se répètent.
 
+Le coût est exponentiel : le nombre d'appels $A(n)$ vérifie $A(0) = A(1) = 1$ et $A(n) = A(n-1) + A(n-2) + 1$, d'où $A(n) = 2F_{n+1} - 1$ ; comme $F_n$ croît comme $\varphi^n$ avec $\varphi = \frac{1 + \sqrt 5}{2} \approx 1{,}618$ (le nombre d'or), `fibo(40)` fait déjà plus de 300 millions d'appels. Remède classique, la **mémoïsation** : on range chaque $F_k$ calculé dans un tableau et on le relit au lieu de le recalculer, ce qui ramène le coût à de l'ordre de $n$ appels ; c'est l'idée de la [[Programmation dynamique]]. En Python, le décorateur `@functools.lru_cache` le fait automatiquement. [[Complément hors du cours|ⓘ]]
+
 Version terminale (d'abord laissée en exercice, puis corrigée sur la diapositive suivante) : on transporte les deux derniers termes.
 
 ```text
@@ -1113,11 +1169,4 @@ fiboRT(12, 0, 1)        // appel initial : renvoie F(12) = 144 (complément)
    - c. par **dichotomie** : si $k$ est pair, $n^k = (n \cdot n)^{k/2}$, sinon $n^k = n \cdot n^{k-1}$ ; écrire `puissance-dic` ([[Exponentiation rapide]]) ;
    - d. transformer cette version en récursivité terminale.
 
-## Erreurs du cours
-
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], TD Enregistrements (exercice 3.b) : écrit que, née le 3/10/1998, la personne a « 19 ans » le 21/7/2019 ; il faut « 20 ans » ($2019 - 1998 = 21$, moins 1 car l'anniversaire n'est pas encore passé). À corriger avant de s'en servir comme test.
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], factorielle récursive : écrit le cas d'arrêt « Si (n = 1) Alors Retourner 1 » ; il faut « Si (n = 0) Alors Retourner 1 » pour que `fact(0)` se termine (avec le cas `n = 1`, `fact(0)` appelle `fact(-1)`, `fact(-2)`… sans fin). Même remarque pour `factRT`.
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], fonctions : écrit `res ← calculCarre(12)` ; il faut `calculeCarre(12)`, nom de la fonction définie. Dans le même support, `rep : INTEGER` est écrit au lieu de `ENTIER`, et la syntaxe donne `FINTANQUE` au lieu de `FINTANTQUE` (orthographe de l'exemple).
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], boucle `for` sur une chaîne : écrit `print i` ; il faut `print(i)` en Python 3 (`print i` est la syntaxe de Python 2 ; l'exemple voisin écrit bien `print(i, "looping")`).
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], structure `date` : écrit « mois: chaîne » ; il faut un entier, comme le décrivent l'introduction (numéro de mois 1..12) et le TD (date « constituée de 3 entiers »).
-- [[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]], transmission des valeurs mutables (diapositives 11 à 13) : annonce un exemple d'effet de bord avec une valeur mutable, mais le seul exemple (`incr`) porte sur un entier, non mutable, qui n'est pas modifié ; il faut un objet mutable pour illustrer l'effet de bord, par exemple une liste passée à une fonction qui fait `l.append(…)`, modifiée chez l'appelant (complément).
+   Intérêt de la dichotomie : la version naïve fait $k$ multiplications, la version dichotomique de l'ordre de $2\log_2 k$, car l'exposant est au moins divisé par deux tous les deux appels. Pour $k = 1000$, cela fait une vingtaine de multiplications au lieu de mille. [[Complément hors du cours|ⓘ]]

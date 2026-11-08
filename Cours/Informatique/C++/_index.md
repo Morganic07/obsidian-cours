@@ -31,13 +31,16 @@ Programmation bas niveau, puis objet. Les trois premières notes portent sur le 
 - **Mémoire et pointeurs (chp2 et Chp3)** : [[Tableau (programmation)]], [[Pointeur et adresse mémoire]], [[Arithmétique des pointeurs]], [[Pointeur NULL]], [[Allocation dynamique]], [[Structure (struct)]], [[Opérateur flèche]], [[Liste chaînée]]
 - **Le C++ (chp4)** : [[Langage C++]], [[GCC]] (`g++`), [[Espace de noms (namespace)]], [[Flux d'entrée-sortie (C++)]], [[Référence (C++)]]
 - **Programmation objet (chp4)** : [[Programmation orientée objet]], [[Classe et objet]], [[Encapsulation (programmation)]], [[Constructeur (programmation)]], [[Accesseur et mutateur]], [[Surcharge d'opérateurs]], [[Fonction amie (friend)]], [[Distance]] (exercice `Maze`)
+- **Ajoutés par l'enrichissement** : [[Comportement indéfini]], [[Chaîne de compilation]], [[Fichier d'en-tête]], [[Pointeur pendant]], [[Fuite mémoire]], [[Destructeur (programmation)]], [[Héritage (programmation)]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[1 - basiques]] : `if (a=3)` n'est pas un test de possibilité, c'est une affectation vraie ; le remplacement proposé pour `a == b == c` n'est pas équivalent.
-- [[3 - pointeurs , tableaux, listes chainées, structures]] : un `int` ne fait pas 8 octets sur un système 64 bits ; `%d` n'est pas le format d'une adresse ; le programme complet `malloc` n'est pas cohérent.
-- [[4 - C++]] : `Rayon` au lieu de `rayon`, accès à l'attribut privé `p3.x` hors de la classe, modulo 20 au lieu de 21 pour afficher le labyrinthe.
-- [[4 - Prise de note]] : `int x = 0;` dans un constructeur crée une variable locale et n'initialise pas l'attribut ; `13,3` n'est pas un nombre décimal en C++.
+- [[1 - basiques]] : `if (a = 3)` est une affectation, toujours vraie, et non une comparaison ; `a == b == c` ne teste pas l'égalité des trois valeurs (écrire `a == b && b == c`).
+- [[3 - pointeurs , tableaux, listes chainées, structures]] : un `int` fait en général 4 octets, y compris sur un système 64 bits ; une adresse s'affiche avec `%p` ; dans le programme `malloc`, `free` libère le bloc sans effacer son contenu.
+- [[4 - C++]] : un attribut privé n'est pas accessible hors de la classe (passer par un accesseur).
+- [[4 - Prise de note]] : dans un constructeur, `int x = 0;` déclare une variable locale ; l'attribut s'initialise par `x = 0;` ou par la liste d'initialisation ; le séparateur décimal est le point (`13.3`).
 
 ## Liens avec les autres matières
 

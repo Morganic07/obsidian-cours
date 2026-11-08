@@ -2,7 +2,7 @@
 type: matiere
 tags: [year3]
 sources: ["[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]", "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Cours « Affordance » de 3e année (janvier à mars 2026) : ergonomie, user research, tests utilisateurs et conception d'interface, avec un projet fil rouge (application mobile pour un groupement de musées). Le mot désigne ici le nom de la matière, non le concept de design ; pour celui-ci, voir [[Affordance]].
@@ -21,6 +21,9 @@ Cours « Affordance » de 3e année (janvier à mars 2026) : ergonomie, user res
 - **Méthodes de recherche utilisateur** : [[Recherche utilisateur]], [[Enquête qualitative et quantitative]], [[Entretien semi-directif]], [[Questionnaire]], [[Focus group]], [[Idéation]], [[Tri de cartes]], [[Évaluation experte]], [[Analyse de l'activité]]
 - **Observation et biais** : [[Observation de terrain]], [[Grille d'observation]], [[Biais de confirmation]], [[Effet Hawthorne]], [[Effet de halo]]
 - **Exploitation des résultats** : [[Persona]], [[Parcours utilisateur]], [[Carte d'expérience]], [[Storyboard]], [[Arborescence d'une application]], [[Maquette (design)]], [[Cahier des charges]]
+- **Ajoutés par l'enrichissement** : [[System Usability Scale]], [[Penser à voix haute]], [[Biais de désirabilité sociale]], [[Enquête contextuelle]], [[Diagramme d'affinités]], [[Analyse hiérarchique des tâches]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité
 

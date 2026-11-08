@@ -2,8 +2,9 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du diaporama « UX Research » (41 diapositives, janvier 2026), dans [[Cours/Design/Affordance/_index|Affordance]]. Il couvre les méthodes de recherche utilisateurs (entretien, questionnaire) puis l'observation. Il se complète avec [[1 - UX|la présentation sur les tests utilisateurs]]. Ne pas confondre avec le concept [[Affordance]] : ici, Affordance désigne le nom de la matière.
@@ -31,9 +32,13 @@ Le diaporama place autour de « votre besoin » seize méthodes, puis met en ava
 
 D'après la suite du cours, les méthodes de recueil détaillées sont l'entretien, le questionnaire et l'observation.
 
+Ces méthodes se rangent souvent selon deux axes : **déclaratif ou comportemental** (ce que les gens disent, dans un entretien ou un questionnaire, ou ce qu'ils font, observé directement) et **qualitatif ou quantitatif** (comprendre le pourquoi sur peu de personnes, ou mesurer l'ampleur sur beaucoup). Les gens ne font pas toujours ce qu'ils disent : on surestime ses bonnes pratiques, on oublie les gestes devenus automatiques. D'où l'intérêt de croiser plusieurs méthodes sur une même question, ce qu'on appelle la **triangulation**. Voir [[Enquête qualitative et quantitative]]. [[Complément hors du cours|ⓘ]]
+
 ### L'entretien
 
 Voir [[Entretien semi-directif]].
+
+On distingue trois formes d'entretien selon la liberté laissée à la personne : l'entretien **directif** (questions fixées dans un ordre fixe, proche d'un questionnaire oral), l'entretien **semi-directif** (un guide de thèmes et de questions, suivi avec souplesse, avec des relances : la forme la plus courante en UX) et l'entretien **non directif** ou libre (un thème de départ, la personne déroule son propos). Plus l'entretien est libre, plus il fait émerger de l'imprévu, et plus il est difficile à comparer et à analyser. [[Complément hors du cours|ⓘ]]
 
 **Buts multiples** :
 
@@ -50,6 +55,8 @@ Voir [[Entretien semi-directif]].
 | Flexibilité | Pas adapté aux grands échantillons |
 | Peut être combiné à d'autres méthodes | Biais ([[Effet de halo\|effet de halo]], [[Biais de confirmation\|biais de confirmation]], rapport interviewer-interviewé…) |
 | Facilité de mise en place | |
+
+Les deux biais du tableau : l'[[Effet de halo|effet de halo]] est la contamination du jugement par une impression générale (un enquêté sympathique paraît plus crédible, une interface jolie paraît plus facile) ; le [[Biais de confirmation|biais de confirmation]] pousse l'enquêteur à retenir ce qui confirme ses hypothèses et à poser des questions qui les appellent. S'y ajoute le [[Biais de désirabilité sociale|biais de désirabilité sociale]] : l'enquêté donne la réponse qu'il juge valorisante ou attendue (« oui, je prépare toujours ma visite »). On les limite par des questions ouvertes et neutres, et en faisant raconter des situations précises et récentes (« la dernière fois que… ») plutôt que des habitudes générales. [[Complément hors du cours|ⓘ]]
 
 **L'entretien par rapport à…**
 
@@ -84,6 +91,12 @@ Voir [[Questionnaire]].
 
 **Par rapport à l'entretien et à l'observation** : + adapté à l'étude quantitative et aux grands échantillons, coûts ; − qualitatif, flexibilité.
 
+**Types de questions** : les questions **fermées** (oui/non, choix unique, choix multiples) se dépouillent facilement et se prêtent aux statistiques ; les questions **à échelle**, comme l'échelle de Likert (de « pas du tout d'accord » à « tout à fait d'accord », en 5 ou 7 points), mesurent une opinion ou une intensité ; les questions **ouvertes** recueillent du qualitatif mais demandent un codage à l'analyse. [[Complément hors du cours|ⓘ]]
+
+**Règles de rédaction**, pour limiter le biais de formulation : une seule idée par question (« Le site est-il clair et rapide ? » en contient deux) ; pas de question orientée (« Ne trouvez-vous pas que… ») ; pas de double négation ni de jargon ; des modalités de réponse exhaustives et sans recouvrement (prévoir « autre » et « ne sait pas ») ; les questions personnelles en fin de questionnaire. On le teste sur quelques personnes avant la diffusion. [[Complément hors du cours|ⓘ]]
+
+Pour que les résultats valent pour la population cible, l'échantillon doit lui ressembler : un questionnaire diffusé seulement sur les réseaux du musée ne touche que des visiteurs déjà fidèles. Voir [[Échantillonnage]]. [[Complément hors du cours|ⓘ]]
+
 ## 2. L'observation
 
 Voir [[Observation de terrain]], [[Observation participante]], [[Types de suivi en observation]].
@@ -103,6 +116,8 @@ Voir [[Observation de terrain]], [[Observation participante]], [[Types de suivi 
 | Capter ce qui ne s'énonce pas | Difficulté d'accès à certains terrains |
 | Peut être combinée à d'autres méthodes | Biais (effet de halo, biais de confirmation, [[Effet Hawthorne\|effet Hawthorne]]…) |
 | Illustrer un discours | |
+
+L'[[Effet Hawthorne|effet Hawthorne]] désigne la modification du comportement des personnes du seul fait qu'elles se savent observées ; on le réduit en restant discret, en observant assez longtemps pour que les personnes s'habituent à la présence de l'observateur, ou par une observation indirecte. Le **risque de sur-interprétation** vient de ce que l'observateur voit un geste sans en connaître la raison : un entretien juste après l'observation permet de vérifier son interprétation. [[Complément hors du cours|ⓘ]]
 
 **L'observation par rapport à…**
 
@@ -133,6 +148,8 @@ Deux diapositives montrent, sans commentaire, des terrains d'observation :
 | Planification de l'observation | | |
 | Définition d'une grille d'observation | | |
 
+**Coder** une observation, c'est traduire ce qu'on voit en catégories définies à l'avance dans la grille (type d'action, lieu, durée, interlocuteur…) pour pouvoir compter et comparer d'une session à l'autre. Le codage peut aussi être ouvert : on note librement, puis on crée les catégories à l'analyse. [[Complément hors du cours|ⓘ]]
+
 ## 3. Préparer l'observation
 
 ### Choisir les méthodes
@@ -153,6 +170,18 @@ Modalités :
 | Ponctuelle | Récurrente |
 | À couvert | À découvert |
 | Appareillée | Non appareillée |
+
+Ce que recouvrent ces modalités : [[Complément hors du cours|ⓘ]]
+
+- **participante** : l'observateur prend part à l'activité (il travaille avec l'équipe, fait la visite comme un visiteur) ; **non participante** : il reste en retrait. Voir [[Observation participante]]. [[Complément hors du cours|ⓘ]]
+- **in situ** : sur le lieu réel de l'activité ; **contexte artificiel** : dans une situation reconstituée, par exemple en laboratoire. [[Complément hors du cours|ⓘ]]
+- **ponctuelle** : une seule séance ; **récurrente** : plusieurs séances, pour saisir les variations (jours de forte affluence, saisons). [[Complément hors du cours|ⓘ]]
+- **à couvert** : les personnes ne savent pas qu'elles sont observées ; **à découvert** : l'observateur se présente et explique sa démarche. L'observation à couvert évite l'effet Hawthorne mais pose un problème éthique, et la captation d'images de personnes identifiables suppose leur [[Consentement éclairé|consentement]]. [[Complément hors du cours|ⓘ]]
+- **appareillée** : avec un dispositif d'enregistrement (caméra, capteurs, *eye tracking* qui suit le regard, journaux d'usage d'une application) ; **non appareillée** : à l'œil, avec la grille et des notes. [[Complément hors du cours|ⓘ]]
+
+L'**auto-observation** (illustrée plus bas) confie le recueil à l'utilisateur lui-même, par exemple au moyen d'un journal de bord ou d'une **étude de journal** (*diary study*) : il note ou photographie ses usages pendant plusieurs jours, ce qui donne accès à des moments où l'observateur ne peut pas être présent. [[Complément hors du cours|ⓘ]]
+
+Méthode classique de l'UX qui combine observation et entretien : l'[[Enquête contextuelle|enquête contextuelle]] (*contextual inquiry*), où l'on observe la personne dans son contexte réel, pendant qu'elle fait son activité, en lui demandant d'expliquer ce qu'elle fait, dans une relation de type maître-apprenti. [[Complément hors du cours|ⓘ]]
 
 ### Exemples de méthodes couramment utilisées
 
@@ -271,6 +300,8 @@ Démarche :
 4. expliquer les similitudes et convergences (origine, impact) ;
 5. comparer avec l'existant (représentativité, variations).
 
+Pour l'étape 1, l'outil le plus courant est le [[Diagramme d'affinités|diagramme d'affinités]] : chaque observation ou verbatim est écrit sur un post-it, puis l'équipe regroupe les post-its qui se ressemblent et donne un titre à chaque groupe ; les catégories naissent des données au lieu d'être fixées d'avance. [[Complément hors du cours|ⓘ]]
+
 ### Exemples de formalisation des données
 
 **Rapport d'activité** (tableau de la diapositive) :
@@ -293,6 +324,10 @@ Démarche :
 
 *Figure : « arbre complet des tâches et de leurs relations » pour « manger des crêpes » : acheter les ingrédients, préparer la pâte, faire cuire, déguster ; sous-tâches (mélanger, tamiser, battre au fouet ou au batteur électrique, verser une louche, retourner ou faire sauter), tâche optionnelle en pointillés (sucre vanillé si crêpes sucrées), condition « si la pâte a reposé 2 h ».*
 
+Ce type d'arbre relève de l'[[Analyse hiérarchique des tâches|analyse hiérarchique des tâches]] : on décompose un but général en sous-buts, puis en actions élémentaires, et l'on précise les relations entre elles (séquence, alternative, option, condition). L'arbre sert à repérer les étapes longues, les choix difficiles ou les points d'erreur, que l'interface devra simplifier. [[Complément hors du cours|ⓘ]]
+
+L'ergonomie de langue française distingue la **tâche prescrite** (ce qui est demandé, la procédure prévue) et l'**activité réelle** (ce que la personne fait vraiment pour y parvenir, avec ses raccourcis, contournements et imprévus). L'observation sert précisément à saisir cet écart, qui explique beaucoup d'erreurs et de détournements d'un produit. Voir [[Analyse de l'activité]]. [[Complément hors du cours|ⓘ]]
+
 ### Utiliser les analyses
 
 Les conclusions peuvent alimenter :
@@ -303,6 +338,8 @@ Les conclusions peuvent alimenter :
 - des scénarios d'usage, de parcours ;
 - un [[Cahier des charges|cahier des charges]] ;
 - des [[Storyboard|storyboards]]…
+
+Une **experience map** décrit l'expérience d'une personne autour d'un besoin (voyager, visiter un musée) dans son ensemble, au-delà d'un seul service ; un **user journey** suit le parcours d'un utilisateur dans un service ou un produit précis. Les deux font figurer, étape par étape, les actions, les pensées et les émotions, et font apparaître les points de friction, qui deviennent des opportunités de conception. [[Complément hors du cours|ⓘ]]
 
 ![[UX Research - Observation - 2026 - image42.png]]
 

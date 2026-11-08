@@ -4,10 +4,10 @@ tags: [year4]
 aliases: [decision tree, decision trees, arbres de décision]
 matieres: [data mining]
 sources: ["[[1 - intro to data mining|Chp1 - intro to data mining]]", "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
-Modèle de classification ([[Classifieur]]) où chaque nœud teste un attribut, chaque branche (arête) une valeur du domaine de l'attribut et chaque feuille une valeur de classe. Il se lit comme un ensemble de règles « SI … ALORS CLASS = … ».
+Modèle de classification ([[Classifieur]]) où chaque nœud teste un attribut, chaque branche (arête) une valeur du domaine de l'attribut et chaque feuille une valeur de classe. Il se lit comme un ensemble de règles « SI … ALORS CLASS = … ». Sur le jeu météo, la classe P est décrite par (OUTLOOK = sunny ∧ HUMI = normal) ∨ (OUTLOOK = overcast) ∨ (OUTLOOK = rainy ∧ WIND = no). [[Erreurs du cours#^e-arbre-de-decision|✎]]
 
 **Construction** : si tous les exemples ont la même classe, on crée une feuille ; sinon on choisit un test, on partitionne les exemples et on recommence sur chaque sous-ensemble sans ce test. La base d'entraînement doit couvrir le domaine, y compris les exemples inhabituels.
 
@@ -22,9 +22,5 @@ Les arbres servent de base aux [[Méthodes d'ensemble]]. Évaluation : [[Validat
 **Le cours complet en PDF** détaille ces trois algorithmes : ID3 choisit la variable de plus grand gain d'information (entropie), C4.5 utilise le rapport de gain et gère les valeurs manquantes et l'élagage, CART utilise l'indice de Gini. Sur l'exemple PlayTennis, les gains valent 0,246 (outlook), 0,151 (humidity), 0,048 (wind) et 0,029 (temperature) : outlook est donc à la racine.
 
 Notion parente : [[Classifieur]]. Voir aussi : [[Algorithme ID3]], [[Algorithme C4.5]], [[Algorithme CART]], [[Entropie (théorie de l'information)]], [[Élagage]].
-
-## Erreurs du cours
-
-- [[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]] (diapositive 42) décrit la classe P par « (OUTLOOK = overcast ∧ HUMI = normal) ∨ (OUTLOOK = overcast) ∨ (OUTLOOK = rainy ∧ WIND = no) » ; il faut « (OUTLOOK = sunny ∧ HUMI = normal) ∨ (OUTLOOK = overcast) ∨ (OUTLOOK = rainy ∧ WIND = no) », d'après les règles listées juste au-dessus.
 
 Résumés : [[1 - intro to data mining]], [[1 - pdf du prof]]

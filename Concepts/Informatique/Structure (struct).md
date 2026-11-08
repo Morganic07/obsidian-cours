@@ -19,6 +19,7 @@ sources:
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"
+  - "[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
 maj: 2026-11-08
 ---
 
@@ -27,6 +28,13 @@ Une structure (`struct`) regroupe sous un même nom plusieurs variables de **typ
 - Sans `typedef` : `struct Etudiant { int age; float note; };` puis `struct Etudiant eleve1;`.
 - Avec `typedef` (un alias) : `typedef struct Etudiant { ... } Etudiant;` puis `Etudiant eleve1;`.
 - Accès à un champ : `eleve1.age = 20;`. Via un pointeur : `p->age`.
+
+**Compléments (hors du cours)** :
+
+- **Initialisation groupée** : `Etudiant e = {20, 15.5};` remplit les champs dans l'ordre de leur déclaration.
+- **Copie** : une structure est copiée champ par champ lors d'une affectation (`e2 = e1;`) ou d'un passage à une fonction par valeur ; la fonction travaille alors sur une copie. Pour éviter la copie ou modifier l'original, on passe un pointeur `Etudiant *p` et on accède aux champs par `p->age` (voir [[Opérateur flèche]], [[Passage par valeur]]).
+- **Alignement** : le compilateur ajoute des octets de remplissage (*padding*) pour aligner les champs en mémoire, si bien que `sizeof` d'une structure peut dépasser la somme des tailles de ses champs. `struct { char c; int i; }` fait en général 8 octets, et non 5 (1 octet pour `c`, 3 de remplissage, 4 pour `i`).
+- **En C++**, une `struct` est une classe dont les membres sont publics par défaut (privés dans une `class`) ; elle peut avoir des méthodes et des constructeurs, et le mot `struct` n'est plus requis devant le nom : `Etudiant e;` suffit, sans `typedef`.
 
 Une structure peut contenir un pointeur vers une structure du même type : c'est ainsi qu'on construit le chaînon d'une [[Liste chaînée]] (`struct Chainon *suivant`).
 

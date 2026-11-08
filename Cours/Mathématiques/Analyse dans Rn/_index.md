@@ -2,7 +2,7 @@
 type: matiere
 tags: [year2]
 sources: ["[[2 - éléments de topologie dans Rn|Chp 2 - éléments de topologie dans Rn]]", "[[3 - Limite et continuité d’applications|Chp 3 - Limite et continuité d’applications]]", "[[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Analyse des fonctions de plusieurs variables : topologie, limites, calcul différentiel et équations aux dérivées partielles. Les 4 notes sont intégrées. Il n'y a pas de note pour un chapitre 1.
@@ -22,13 +22,16 @@ Analyse des fonctions de plusieurs variables : topologie, limites, calcul diffé
 - **Limites (chp 3)** : [[Limite et continuité]], [[Continuité uniforme]], [[Application lipschitzienne]], [[Coordonnées polaires]]
 - **Calcul différentiel (chp 4 et 5)** : [[Dérivée partielle]], [[Différentielle]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Gradient]], [[Dérivation en chaîne]], [[Partie convexe]], [[Inégalité des accroissements finis]], [[Théorème de Schwarz]]
 - **Équations** : [[Équation aux dérivées partielles]], [[Difféomorphisme]]
+- **Ajoutés par l'enrichissement** : [[Dérivée directionnelle]], [[Plan tangent]], [[Matrice hessienne]], [[Théorème d'inversion locale]], [[Équation des ondes]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[3 - Limite et continuité d’applications]] : « lipschitzien ⇔ uniformément continue » est faux, seule l'implication ⇒ est vraie. De plus, un résultat en polaires indépendant de $\theta$ ne suffit pas à prouver une limite.
-- [[2 - éléments de topologie dans Rn]] : le cas d'égalité de l'inégalité triangulaire demande $\lambda \ge 0$.
-- [[4 - Calcul différentiel du premier ordre]] : les dérivées d'une fonction différentiable ne sont « pas forcément » continues.
-- [[5 - Calcul différentiel d'ordre supérieur]] : la limite qui définit la dérivée croisée a un terme faux.
+- [[3 - Limite et continuité d’applications]] : lipschitzienne $\Rightarrow$ uniformément continue, sans réciproque ($\sqrt{x}$ sur $[0, 1]$). En polaires, un résultat indépendant de $\theta$ ne suffit pas à prouver une limite : il faut une majoration indépendante de $\theta$ qui tend vers 0.
+- [[2 - éléments de topologie dans Rn]] : cas d'égalité de l'inégalité triangulaire euclidienne, $y = 0$ ou $x = \lambda y$ avec $\lambda \ge 0$.
+- [[4 - Calcul différentiel du premier ordre]] : les dérivées partielles d'une fonction différentiable existent mais ne sont pas forcément continues.
+- [[5 - Calcul différentiel d'ordre supérieur]] : la dérivée croisée comme limite d'un taux d'accroissement de $\partial f / \partial x$ en $y$.
 
 ## Liens avec les autres matières
 

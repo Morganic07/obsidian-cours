@@ -4,15 +4,18 @@
   display: none;
 }
 
-/* Marque ⓘ des compléments hors du cours : petite, grise, en exposant.
-   Lien vers la page « Complément hors du cours ». En mode lecture seulement :
-   l'aperçu en direct n'expose pas la cible du lien. */
-a.internal-link[data-href="Complément hors du cours"] {
+/* Marques ⓘ (complément hors du cours) et ✎ (passage corrigé) : petites,
+   grises, en exposant. Liens vers les pages « Complément hors du cours » et
+   « Erreurs du cours ». En mode lecture seulement : l'aperçu en direct
+   n'expose pas la cible du lien. */
+a.internal-link[data-href="Complément hors du cours"],
+a.internal-link[data-href^="Erreurs du cours"] {
   font-size: 0.75em;
   vertical-align: super;
   color: var(--text-faint);
   text-decoration: none;
 }
-a.internal-link[data-href="Complément hors du cours"]:hover {
+a.internal-link[data-href="Complément hors du cours"]:hover,
+a.internal-link[data-href^="Erreurs du cours"]:hover {
   color: var(--text-accent);
 }

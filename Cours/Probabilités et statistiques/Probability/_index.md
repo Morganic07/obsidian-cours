@@ -2,7 +2,7 @@
 type: matiere
 tags: [year2]
 sources: ["[[1 - Sample space,events, proba|Chp 1 - Sample space,events, proba]]", "[[2 - Conditional proba and independence|Chp 2 - Conditional proba and independence]]", "[[3 - Combinatorics|Chp 3 - Combinatorics]]", "[[3 - Important discrete distributions|Chp 3 - Important discrete distributions]]", "[[4 - Discrete random variables|Chp 4 - Discrete random variables]]", "[[5 - Continuous random variable|Chp 5 - Continuous random variable]]", "[[6 - Joint probability distributions|Chp 6 - Joint probability distributions]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Probabilités : événements, probabilité conditionnelle, dénombrement, variables aléatoires discrètes et continues, lois usuelles, lois conjointes. Les 7 notes sont intégrées. Les images n'ont pas été ouvertes, seules leurs transcriptions ont été lues.
@@ -27,14 +27,15 @@ Probabilités : événements, probabilité conditionnelle, dénombrement, variab
 - **Variables discrètes (chapitres 3 et 4)** : [[Variable aléatoire]], [[Diagramme en bâtons et histogramme de probabilité]], [[Fonction de répartition]], [[Espérance et variance]], [[Loi binomiale]], [[Loi binomiale négative]], [[Loi hypergéométrique]], [[Loi de Poisson]]
 - **Variables continues (chapitre 5)** : [[Intégrale]], [[Primitive]], [[Quantile]], [[Loi uniforme]], [[Loi normale]], [[Loi exponentielle]], [[Fonction génératrice des moments]], [[Théorème de transformation]], [[Méthode de la fonction de répartition inverse]]
 - **Plusieurs variables (chapitre 6)** : [[Loi conjointe]], [[Indépendance de variables aléatoires]], [[Covariance et corrélation]], [[Corrélation et causalité]], [[Moyenne empirique]]
+- **Ajoutés par l'enrichissement** : [[Formule du crible]], [[Paradoxe des anniversaires]], [[Loi géométrique]], [[Loi conditionnelle]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-Aucune erreur de fond susceptible de coûter des points n'a été trouvée. Coquilles à connaître :
-
-- [[3 - Important discrete distributions]] : la binomiale négative compte les essais jusqu'au $r$-ième succès inclus, malgré « avant d'obtenir ».
-- [[4 - Discrete random variables]] : $p(x) \ge 0$, pas $> 0$.
-- [[1 - Sample space,events, proba]] : « impossible » veut dire $A = \emptyset$.
+- [[3 - Important discrete distributions]] : la binomiale négative compte les essais jusqu'au $r$-ième succès inclus.
+- [[4 - Discrete random variables]] : une loi de probabilité vérifie $p(x) \ge 0$ et $\sum p(x) = 1$.
+- [[1 - Sample space,events, proba]] : un événement impossible est $A = \emptyset$.
 
 ## Liens avec les autres matières
 

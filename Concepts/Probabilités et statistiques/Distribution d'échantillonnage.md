@@ -13,21 +13,17 @@ matieres:
   - Statistics
 sources:
   - "[[4 - Inferential statistics 1|Chp4 Part 1 - Inferential statistics]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Une statistique change d'un échantillon à l'autre : c'est une variable aléatoire, et sa loi est sa **distribution d'échantillonnage**. Elle donne l'espérance de l'estimateur (donc son biais) et sa variance (donc sa précision).
 
 **Moyenne** : $E(\bar{X}) = \mu$ et $\mathrm{SD}(\bar{X}) = \sigma/\sqrt{n}$ (erreur type de la moyenne), estimée par $s/\sqrt{n}$ si $\sigma$ est inconnu. **Proportion** : $E(\hat{P}) = p$, $\mathrm{SD}(\hat{P}) = \sqrt{p(1-p)/n}$.
 
-**Population finie de taille $N$** : on multiplie l'écart-type par $\sqrt{(N-n)/(N-1)}$.
+**Population finie de taille $N$** : les formules précédentes supposent une population infinie ; pour une population finie, on multiplie l'écart-type par $\sqrt{(N-n)/(N-1)}$. [[Erreurs du cours#^e-distribution-d-echantillonnage|✎]]
 
 **Variance, loi normale** : $(n-1)S^2/\sigma^2 \sim \chi^2_{n-1}$ ([[Loi du khi-deux]]). **Moyenne, loi normale** : $(\bar{X} - \mu)/(S/\sqrt{n}) \sim t_{n-1}$ ([[Loi de Student]]).
 
 Liens : [[Estimateur]], [[Théorème central limite]], [[Échantillonnage]], [[Tirage avec et sans remise]]
-
-## Erreurs du cours
-
-- [[4 - Inferential statistics 1|Chp4 Part 1 - Inferential statistics]] écrit « So far, we have worked with the assumption of a finite population » ; il faut « infinite population ». La phrase précède l'introduction du facteur de correction pour population finie.
 
 Résumés : [[4 - Inferential statistics 1]], [[4 - Inferential statistics 3]]

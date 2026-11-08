@@ -8,7 +8,7 @@ sources:
   - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
   - "[[2 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[1 - Culture du vivant|Culture du vivant - prise de note]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Matière suivie sur plusieurs années (Year 3, Year 4) : une section par année.
@@ -39,6 +39,9 @@ Culture du vivant de 3e année : état écologique de la planète, effondrement,
 - **Technosphère et biosphère (cours 2)** : [[Biosphère]], [[Transhumanisme]]
 - **Économie et solutions (dernier cours)** : [[Coûts cachés]], [[Pyramide des besoins]], [[Valeur socio-écologique]], [[Économie circulaire]], [[Cradle to cradle]], [[Écologie industrielle et territoriale]], [[Économie de la fonctionnalité]], [[Écoconception]], [[Cycle de vie d'un produit]], [[Réemploi, recyclage et reconditionnement]], [[Sobriété]], [[Greenwashing]]
 - **Entreprises et réglementation** : [[Responsabilité sociétale des entreprises]], [[Entreprise à mission]], [[Objectifs de développement durable]], [[Finance durable]], [[Taxonomie européenne]], [[CSRD]], [[Devoir de vigilance]], [[Zéro artificialisation nette]]
+- **Ajoutés par l'enrichissement** : [[Liste rouge de l'UICN]], [[Effet rebond]], [[Externalité]], [[Grande accélération]], [[Acidification des océans]], [[Point de basculement]], [[Irresponsabilité organisée]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ### À revoir en priorité
 
@@ -69,6 +72,9 @@ Culture du vivant de 4e année : technique, capitalisme et numérique. Une seule
 
 - **Capitalisme et politique** : [[Capitalisme]], [[Main invisible]], [[Dimension politique du design]]
 - **Numérique et web** : [[Numération binaire]], [[World Wide Web]], [[Web sémantique]], [[IA sémantique]], [[IA générative]]
+- **Ajoutés par l'enrichissement** : [[Externalité]], [[Métier Jacquard]]
+
+La fiche est enrichie de compléments hors du cours (passages marqués ⓘ).
 
 ### À revoir en priorité
 

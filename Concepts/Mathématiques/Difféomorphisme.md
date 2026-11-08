@@ -4,7 +4,7 @@ tags: [year2]
 aliases: [difféomorphismes, C1-difféomorphisme, changement de variables direct, changement de variables indirect]
 matieres: [Analyse dans Rn]
 sources: ["[[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Définition 7 : $\phi : U \to V$ est un $\mathcal{C}^1$-difféomorphisme si elle est $\mathcal{C}^1$, bijective, et si $\phi^{-1}$ est $\mathcal{C}^1$.
@@ -13,8 +13,8 @@ Définition 7 : $\phi : U \to V$ est un $\mathcal{C}^1$-difféomorphisme si elle
 
 **Changement de variables dans une EDP** :
 
-- **Direct** : $(x, y) = \varphi(u, v)$ et $g = f \circ \varphi$. On calcule $\frac{\partial g}{\partial u}$ et $\frac{\partial g}{\partial v}$, puis on en déduit $\frac{\partial f}{\partial x}$ et $\frac{\partial f}{\partial y}$ à reporter.
-- **Indirect** : $(u, v) = \varphi(x, y)$ et $f = g \circ \varphi$. On injecte directement $\frac{\partial f}{\partial x}$ et $\frac{\partial f}{\partial y}$.
+- **Direct** : $(x, y) = \varphi(u, v)$, avec $\varphi : V \to U$ un $\mathcal{C}^1$-difféomorphisme de $V$ sur $U$, et $g = f \circ \varphi$. [[Erreurs du cours#^e-diffeomorphisme|✎]] On calcule $\frac{\partial g}{\partial u}$ et $\frac{\partial g}{\partial v}$, puis on en déduit $\frac{\partial f}{\partial x}$ et $\frac{\partial f}{\partial y}$ à reporter.
+- **Indirect** : $(u, v) = \varphi(x, y)$, avec $\varphi : U \to V$ un $\mathcal{C}^1$-difféomorphisme de $U$ sur $V$, et $f = g \circ \varphi$. On injecte directement $\frac{\partial f}{\partial x}$ et $\frac{\partial f}{\partial y}$.
 
 **[[Coordonnées polaires]]** : $(\rho, \theta) \mapsto (\rho\cos\theta, \rho\sin\theta)$, avec $\rho > 0$, est un difféomorphisme sur un demi-plan :
 
@@ -23,9 +23,5 @@ Définition 7 : $\phi : U \to V$ est un $\mathcal{C}^1$-difféomorphisme si elle
 - $y > 0$ : $\theta \in \,]0, \pi[$ et $\theta = \text{Arccos}(x/\sqrt{x^2 + y^2})$.
 
 Notion parente : [[Différentielle]]. Voir aussi : [[Matrice jacobienne]], [[Coordonnées polaires]], [[Équation aux dérivées partielles]], [[Fonction de classe Ck]], [[Changement de base]]
-
-## Erreurs du cours
-
-- [[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]], tableau du changement de variables, écrit sur une ligne commune aux deux colonnes « $\varphi$ est un $\mathcal{C}^1$-difféomorphisme de $U$ sur $V$ » ; dans la colonne « Direct », où $\varphi : V \to U$, il faut « de $V$ sur $U$ ». La ligne ne vaut telle quelle que pour le cas « Indirect » ($\varphi : U \to V$).
 
 Résumés : [[4 - Calcul différentiel du premier ordre]], [[2 - intégrales multiples]]

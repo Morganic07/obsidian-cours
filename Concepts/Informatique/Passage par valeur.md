@@ -21,8 +21,4 @@ Pour modifier la variable, on passe son adresse : `echange(int *a, int *b)`, app
 
 Notion parente : [[Fonction et procédure]]. Voir aussi : [[Pile d'exécution]], [[Tableau (programmation)]], [[Référence (C++)]].
 
-## Erreurs du cours
-
-- [[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]] commente la version par valeur par « on rentre dans la fonction echange(&var1, &var2) » ; il faut `echange(var1, var2)`, l'appel écrit dans le code de cette version.
-
 Résumés : [[2 - structures code]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[4 - C++]]

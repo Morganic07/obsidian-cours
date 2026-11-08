@@ -10,7 +10,7 @@ sources:
   - "[[4 - Inferential statistics 2|Chp4 Part2 - Inferential statistics]]"
   - "[[4 - Inferential statistics 3|Chp4 Part3 - Inferential statistics]]"
   - "[[0 - proba&stats utilitaire|probabilité statistiques utilitaire]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Statistique : description de données, compléments de probabilité, estimation et intervalles de confiance. Les 7 notes sont intégrées. Seule l'image du tableau récapitulatif de la partie 3 du chapitre 4 a été ouverte. Les tests d'hypothèse, les deux échantillons et la régression n'apparaissent que dans l'aide-mémoire, sans chapitre.
@@ -35,12 +35,15 @@ Statistique : description de données, compléments de probabilité, estimation 
 - **Lois** : [[Loi binomiale]], [[Loi binomiale négative]], [[Loi de Poisson]], [[Loi uniforme]], [[Loi exponentielle]], [[Loi normale]], [[Loi des valeurs extrêmes]], [[Stabilité des lois par somme]], [[Quantile]], [[Fonction Gamma]], [[Loi du khi-deux]], [[Loi de Student]]
 - **Estimation (chapitre 4)** : [[Estimateur]], [[Convergence en probabilité]], [[Distribution d'échantillonnage]], [[Loi des grands nombres]], [[Intervalle de confiance]]
 - **Tests et régression (aide-mémoire)** : [[Test d'hypothèse]], [[Valeur critique]], [[Test Z]], [[Test t]], [[Test du χ²]], [[Régression linéaire]], [[Test de la pente]]
+- **Ajoutés par l'enrichissement** : [[Étude observationnelle et expérience randomisée]], [[Méthode des moments]], [[Maximum de vraisemblance]], [[Compromis biais-variance]], [[Bootstrap]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[4 - Inferential statistics 3]] : le tableau récapitulatif donne $+z_\alpha$ dans les deux colonnes unilatérales ($\sigma$ connu), et le titre « mean known » de la section sur la variance est faux (la moyenne est inconnue).
-- [[4 - Inferential statistics 1]] : la somme de binomiales est écrite $\mathrm{Bin}(n_j, q)$, il faut $\mathrm{Bin}(\sum n_i, p)$.
-- [[2 - Descriptive statistics]] : dans l'exemple de la boîte à moustaches, « $\bar{x} = 92{,}17$ » est en fait la médiane.
+- [[4 - Inferential statistics 3]] : bornes des intervalles unilatéraux, $\left(-\infty,\ \bar{X} + z_\alpha\frac{\sigma}{\sqrt{n}}\right)$ et $\left(\bar{X} - z_\alpha\frac{\sigma}{\sqrt{n}},\ \infty\right)$ ; intervalle de la variance quand la moyenne $\mu$ est inconnue.
+- [[4 - Inferential statistics 1]] : une somme de binomiales indépendantes de même $p$ suit $\mathrm{Bin}(\sum n_i, p)$.
+- [[2 - Descriptive statistics]] : la boîte à moustaches montre la médiane, pas la moyenne.
 
 ## Liens avec les autres matières
 

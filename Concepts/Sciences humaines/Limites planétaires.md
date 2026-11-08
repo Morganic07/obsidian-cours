@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[2 - Culture du vivant|Culture du vivant (Y3)]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Neuf processus dont le dépassement menace les équilibres de la Terre. Le cours (Y3) les présente avec des chiffres français (CGDD/SDES, 2023, situation d'avant la publication de septembre 2023 du Stockholm Resilience Centre) :
@@ -31,12 +31,8 @@ Neuf processus dont le dépassement menace les équilibres de la Terre. Le cours
 
 Un second diagramme (« Les limites planétaires en 2025 », Reporterre) donne l'échelle vert à violet. Le cours y ajoute la biodiversité : cinq causes d'érosion (destruction des habitats, surexploitation, climat, pollution, espèces envahissantes), les deux premières pesant plus de 50 % ; 28 % des espèces suivies sont menacées.
 
-Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[4 - Culture du vivant]]). Il dit les neuf limites dépassées, hors des capacités prédictives des actuaires (voir « Erreurs du cours »).
+Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[4 - Culture du vivant]]). Il dit la plupart des limites dépassées, hors des capacités prédictives des actuaires : six sur neuf selon la mise à jour scientifique de 2023 (*Science Advances*), sept sur neuf selon le *Planetary Health Check* de septembre 2025 (Potsdam Institute for Climate Impact Research), qui ajoute l'acidification des océans ; l'ozone stratosphérique et les aérosols restent dans la zone de sécurité. [[Erreurs du cours#^e-limites-planetaires|✎]]
 
 Voir aussi : [[Anthropocène]], [[Économie circulaire]], [[Théorie du Donut]], [[Érosion de la biodiversité]]
-
-## Erreurs du cours
-
-- [[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]] écrit « 9 limites planétaires dépassées » ; il faut « une partie des limites dépassées ». L'infographie CGDD/SDES 2023 du même cours ([[2 - Culture du vivant|Culture du vivant]]) classe le phosphore en forte incertitude, l'ozone stratosphérique et l'acidification des océans comme non dépassées, et les aérosols comme non quantifiés.
 
 Résumés : [[2 - Culture du vivant|Culture du vivant]], [[4 - Culture du vivant]]

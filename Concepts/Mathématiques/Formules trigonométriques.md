@@ -3,12 +3,12 @@ type: concept
 tags: [year1]
 aliases: ["formules d'addition", formules de duplication, formules de produit, formules de trigonométrie, formulaire de trigonométrie, formules de trigo, formule de duplication]
 sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]", "[[5 - Complexes|Chapitre 5 - Complexes]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 **Formules d'addition** : $\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y$, $\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y$.
 
-**Formules de duplication** ($x = y$) : $\sin 2x = 2\sin x\cos x$, $\cos 2x = \cos^2 x - \sin^2 x = 2\cos^2 x - 1 = 1 - 2\sin^2 x$.
+**Formules de duplication** ($x = y$) : $\sin 2x = 2\sin x\cos x$, $\cos 2x = \cos^2 x - \sin^2 x = 2\cos^2 x - 1 = 1 - 2\sin^2 x$. [[Erreurs du cours#^e-formules-trigonometriques|✎]]
 
 **Formules de produit**, en additionnant les formules d'addition : $\cos x\cos y = \frac12\left(\cos(x+y) + \cos(x-y)\right)$, etc.
 
@@ -19,9 +19,5 @@ maj: 2026-11-07
 **Outil Maths** : le chapitre 5 (complexes) conseille de « revoir les formules de trigo » et rappelle les formules d'addition et de duplication.
 
 Notion parente : [[Fonctions trigonométriques]]. Voir aussi : [[Équation trigonométrique]], [[Linéarisation trigonométrique]], [[Forme trigonométrique et exponentielle]].
-
-## Erreurs du cours
-
-- [[5 - Complexes|Chapitre 5 - Complexes]] (Outil Maths) écrit « $\cos 2x = \cos^2 x - \sin^2 x = 2\cos^2 x - 1 = 1 - \sin^2 x$ » ; il faut « $1 - 2\sin^2 x$ » pour la dernière égalité. Vérifié sur l'image.
 
 Résumés : [[0 - rappels pdf]], [[5 - Complexes]]

@@ -12,7 +12,7 @@ sources:
   - "[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]"
   - "[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]"
   - "[[Raw/Year 2/Algo/DM/TD_Algo.docx|TD_Algo]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Algorithmique et programmation en Python : récursivité, complexité, structures de données linéaires, puis arbres AVL. En Year 2, deux notes de cours (chapitres 1 et 2) et quatre PDF ; la partie Year 1 (ancienne matière Algo Maths) est en fin de page.
@@ -42,10 +42,13 @@ Quatre PDF complètent les notes : trois chapitres de cours sur les arbres (ils 
 - **Structures de données linéaires** : [[Liste chaînée]], [[Pile et file]]
 - **Rappels sur les graphes** : [[Graphe non orienté]], [[Graphe orienté]], [[Chemin (graphe)]], [[Cycle (graphe)]], [[Circuit (graphe)]], [[Sous-graphe]]
 - **Arbres** : [[Arbre (théorie des graphes)]], [[Arborescence (graphe)]], [[Vocabulaire des arbres]], [[Hauteur d'un arbre]], [[Arbre m-aire]], [[B-arbre]], [[Arbre binaire]], [[Arbre binaire de recherche]], [[Méthode spéciale Python]], [[Arbre AVL]]
+- **Ajoutés par l'enrichissement** : [[Machine de Turing]], [[Invariant de boucle]], [[Tri fusion]], [[Tas binaire]], [[Notation polonaise]], [[Arbre rouge-noir]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[1 - récursivité et complexité]] : la dernière ligne de la substitution oublie que la base est $T(0)$.
+- [[1 - récursivité et complexité]] : la méthode de substitution se déroule jusqu'au cas de base $T(0)$, d'où $T(n) = nb + c$.
 
 ## Liens avec les autres matières
 
@@ -75,8 +78,8 @@ Ancienne matière Algo Maths, rattachée à Algo. Premiers pas en algorithmique 
 
 ### À revoir en priorité avant un examen
 
-- [[0 - Algo Maths|Cours 1]] : le problème des crayons échoue dès $n = 2$ ; l'exemple `0.1 + 0.3` est faux en Python.
-- [[0 - Python|Python]] : `range(2, 10, 5)` donne 2, 7 et non « 2, 4, 8 ».
+- [[0 - Algo Maths|Cours 1]] : dans le faux raisonnement des crayons, l'hérédité échoue de $k = 1$ à $k = 2$ ; un flottant n'est pas un réel : en Python, `0.1 + 0.2 == 0.3` vaut `False`.
+- [[0 - Python|Python]] : `range(début, fin, pas)` ajoute le pas à chaque tour : `range(2, 10, 5)` donne 2, 7.
 
 ### Liens avec les autres matières
 

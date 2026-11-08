@@ -2,11 +2,12 @@
 type: source
 tags: [year4]
 sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé du PDF cours data mining du prof ([[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]) (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Cours/Informatique/Data mining/_index|Data mining]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[1 - intro to data mining]] résume la note ; ce PDF ajoute des diapositives (processus, CART détaillé, exercices). Les figures ont été ouvertes et sont intégrées ci-dessous.
+Résumé du PDF cours data mining du prof ([[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]) (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Cours/Informatique/Data mining/_index|Data mining]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[1 - intro to data mining]] résume la note ; ce PDF ajoute des diapositives (processus, CART détaillé, exercices). Les figures ont été ouvertes et sont intégrées ci-dessous. Les passages ajoutés finissent par ⓘ.
 
 Plan : 1. Introduction ; 2. Clustering & partitioning ; 3. Decision trees and random forest (ID3, CART) ; 4. Combinaison de plusieurs modèles (bagging, boosting, random forest).
 
@@ -50,6 +51,8 @@ Plan : 1. Introduction ; 2. Clustering & partitioning ; 3. Decision trees and ra
 ![[Data mining prof - p7.jpg]]
 *Figure : « DM versus ML process » — à gauche, le cycle du data mining (définir le problème, préparer et explorer les données, construire et valider les modèles, les déployer) ; à droite, la chaîne de la data science où data mining, machine learning, deep learning et IA se recouvrent.*
 
+Le cycle de gauche rappelle la méthode **CRISP-DM** (*Cross-Industry Standard Process for Data Mining*, fin des années 1990), standard de l'industrie en six phases qui bouclent : compréhension du métier, compréhension des données, préparation des données, modélisation, évaluation, déploiement. En pratique, la préparation des données y prend souvent la plus grande part du temps. [[Complément hors du cours|ⓘ]]
+
 **Étapes (DM and ML process).**
 1. **Analyse du problème.**
 2. **Sélection et exploration des données** : évaluation de la qualité, regroupement et visualisation, détection des pathologies des données.
@@ -62,6 +65,8 @@ Plan : 1. Introduction ; 2. Clustering & partitioning ; 3. Decision trees and ra
 
 ![[Data mining prof - p9.jpg]]
 *Figure : la chaîne sélection → prétraitement → transformation → data mining → interprétation, jusqu'à « l'idée ».*
+
+Cette chaîne est le schéma classique du processus **KDD** (*Knowledge Discovery in Databases*) de Fayyad et ses coauteurs : au sens strict, le data mining n'en est qu'une étape, celle où l'on applique l'algorithme ; au sens large, le mot désigne tout le processus. [[Complément hors du cours|ⓘ]]
 
 ### Nature des variables
 
@@ -119,6 +124,10 @@ Un arbre se lit comme un ensemble de règles :
 ![[Data mining prof - p19.jpg]]
 *Figure : le point à classer (étoile) ; avec $k = 3$, majorité violette (B) ; avec $k = 6$, majorité jaune (A).*
 
+**Principe.** Pour classer un nouveau point $x$ : calculer sa [[Distance|distance]] à chaque exemple d'apprentissage, garder les $k$ plus proches, et lui attribuer la classe majoritaire parmi eux (en régression, la moyenne de leurs valeurs cibles). C'est l'« estimation directe » du type 2 ci-dessus : il n'y a pas de phase d'apprentissage, tout le calcul a lieu au moment de la prédiction, d'où un coût proportionnel à la taille de la base pour chaque point à classer. [[Complément hors du cours|ⓘ]]
+
+**Réglages.** Un $k$ petit suit le bruit des données, un $k$ grand lisse trop (avec $k = N$, on prédit toujours la classe majoritaire) ; on choisit $k$ par [[Validation d'un classifieur|validation croisée]], et on le prend impair à deux classes pour éviter les égalités. Comme la distance mélange les attributs, il faut les mettre à la même échelle (normalisation min-max dans $[0,1]$ ou centrage-réduction), sinon l'attribut aux plus grandes valeurs décide seul. [[Complément hors du cours|ⓘ]]
+
 ### Validation d'un classifieur
 
 [[Validation d'un classifieur]].
@@ -127,6 +136,7 @@ Un arbre se lit comme un ensemble de règles :
 - L'erreur $Er$ est la probabilité que le classifieur ne prédise pas correctement la valeur cible d'une donnée ; taux de réussite $1 - Er$.
 - L'erreur d'entraînement est mesurée sur l'[[Ensemble d'entraînement et de test|ensemble d'entraînement]].
 - Il faut un ensemble d'entraînement $X_{train}$ et un ensemble de test $X_{test}$ (valeur cible connue) pour estimer l'erreur.
+- L'erreur d'entraînement est optimiste : un modèle assez souple peut « apprendre par cœur » les exemples (erreur d'entraînement nulle) et mal prédire les nouveaux, c'est le [[Surapprentissage|surapprentissage]] (*overfitting*). Seule l'erreur sur des données non vues estime la capacité de **généralisation** ; un écart grand entre les deux erreurs est le signe du surapprentissage. [[Complément hors du cours|ⓘ]]
 
 ![[Data mining prof - p21.jpg]]
 *Figure : base → données d'entraînement (construction du modèle) et de test (précision acceptable ?) → si oui, prédiction sur des données inconnues.*
@@ -141,12 +151,16 @@ Un arbre se lit comme un ensemble de règles :
 **Validation 3 : quatre mesures.**
 - Précision positive $\dfrac{TP}{TP+FP}$ et négative $\dfrac{TN}{TN+FN}$ : proportion d'exemples vraiment positifs parmi ceux classés positifs.
 - Rappel positif $\dfrac{TP}{TP+FN}$ et négatif $\dfrac{TN}{TN+FP}$ : proportion des positifs retrouvés parmi tous les positifs.
+- Le taux de réussite global (*accuracy*, exactitude) se lit aussi sur la matrice : $\dfrac{TP+TN}{TP+TN+FP+FN} = 1 - Er$. Il trompe quand les classes sont déséquilibrées : avec 99 % de négatifs, un classifieur qui répond toujours « négatif » a 99 % de réussite et un rappel positif nul. [[Complément hors du cours|ⓘ]]
+- La [[F-mesure]] citée en TP résume précision $P$ et rappel $R$ positifs par leur moyenne harmonique, $F_1 = \dfrac{2PR}{P+R}$ : elle n'est élevée que si les deux le sont. Précision et rappel varient en sens inverse quand on rend le classifieur plus ou moins prudent. [[Complément hors du cours|ⓘ]]
 
 **Validation 4 : validation croisée.** Couper le jeu en $n$ sous-ensembles disjoints de même taille, chaque valeur cible apparaissant dans chacun. Avec A, B, C : $CL_{A\cup B}$ est le classifieur construit sur $A \cup B$, $Er_C$ son erreur sur C ; trois tests $(CL_{A\cup B}, Er_C)$, $(CL_{C\cup A}, Er_B)$, $(CL_{C\cup B}, Er_A)$ ; erreur globale
 $$Er = \frac{Er_A + Er_B + Er_C}{3}.$$
 
 ![[Data mining prof - p25.jpg]]
 *Figure : validation croisée à $k = 4$ plis, le bloc de test se déplace à chaque itération.*
+
+Exiger que chaque valeur cible apparaisse dans chaque sous-ensemble, en respectant ses proportions, s'appelle la validation croisée **stratifiée**. On prend souvent $n = 5$ ou $10$ plis ; le cas extrême $n = N$ (un seul exemple de test à chaque fois) est le *leave-one-out*, coûteux mais utile sur de petits jeux. Chaque exemple sert une fois en test et $n-1$ fois en entraînement, ce qui donne une estimation plus stable qu'un seul découpage entraînement / test. [[Complément hors du cours|ⓘ]]
 
 **Travaux pratiques annoncés.** Jeux Weather (qualitatif) et IRIS (quantitatif) ; exploration et visualisation ; méthodes : k plus proches voisins, arbres de décision ; validation : ensembles d'entraînement et de test, validation croisée ; mesures : matrice de confusion, erreur, précision, rappel, [[F-mesure|F-score]] ; logiciels Weka, R, Python.
 
@@ -170,7 +184,9 @@ Exemple : analyse des logs d'un site de commerce en ligne, détection de profils
 
 [[K-moyennes]], [[Inertie (clustering)]].
 - Inertie de $X$ : $I = \frac{1}{N}\sum_{i=1}^{N} d^2(x_i, g)$, avec $d$ une [[Distance|distance]] : euclidienne $\sqrt{\sum (x_i - y_i)^2}$, Manhattan $\sum |x_i - y_i|$, Hamming, etc.
-- Inertie intra-classes $I_W = \sum_{i=1}^{k} I_i$ ; inter-classes $I_B = \sum_{i=1}^{k} w_i\, d^2(g_i, g)$, $w_i = \frac{|g_i|}{N}$ ; $I = I_W + I_B$.
+- La distance de Hamming compte les positions où deux vecteurs diffèrent : $d_H(x, y) = \#\{i : x_i \neq y_i\}$. Elle convient aux attributs qualitatifs ou binaires, comme ceux du jeu météo (entre les exemples 1 et 2, qui ne diffèrent que par Wind, $d_H = 1$). [[Complément hors du cours|ⓘ]]
+- Inertie intra-classes $I_W = \sum_{i=1}^{k} w_i I_i$, où $I_i$ est l'inertie du groupe $G_i$ (calculée sur ses $|G_i|$ exemples) ; inter-classes $I_B = \sum_{i=1}^{k} w_i\, d^2(g_i, g)$, $w_i = \frac{|g_i|}{N}$ ; $I = I_W + I_B$. [[Erreurs du cours#^e-1-pdf-du-prof|✎]]
+- La décomposition $I = I_W + I_B$ est le **théorème de Huygens** (avec la distance euclidienne ; $I_W = \frac{1}{N}\sum_{i=1}^{k}\sum_{x \in G_i} d^2(x, g_i)$, ce que donne aussi la somme sans poids $\sum I_i$ si chaque $I_i$ est divisée par l'effectif total $N$). L'inertie totale $I$ ne dépend pas de la partition : minimiser $I_W$ revient donc à maximiser $I_B$, les deux buts « denses » et « bien séparés » n'en font qu'un. Le rapport $I_B / I$, entre 0 et 1, mesure la part d'inertie expliquée par la partition. [[Complément hors du cours|ⓘ]]
 - But : des groupes denses et bien séparés, **minimiser $I_W$**.
 
 **Algorithme.**
@@ -190,6 +206,10 @@ JUSQU'À |I − I_W| < ε
 
 ![[Data mining prof - p31.jpg]]
 *Figure : itérations de K-means avec $K = 2$ (choix des centres, affectation, mise à jour des moyennes, réaffectation).*
+
+**Convergence.** Chaque étape fait baisser (ou laisse égale) $I_W$ : réaffecter un point au centroïde le plus proche ne peut que diminuer sa contribution, et le centroïde (la moyenne) est le point qui minimise la somme des carrés des distances au groupe. Comme il y a un nombre fini de partitions, l'algorithme s'arrête en un nombre fini d'itérations, mais sur un **minimum local** : le résultat dépend des centroïdes de départ (l'exercice ci-dessous le montre). On relance donc l'algorithme avec plusieurs initialisations et on garde la partition de plus petite $I_W$ ; la variante *k-means++* choisit des centres initiaux éloignés les uns des autres. [[Complément hors du cours|ⓘ]]
+
+**Choix de $K$.** $I_W$ diminue toujours quand $K$ augmente (elle vaut 0 pour $K = N$) : on ne peut pas choisir $K$ en minimisant $I_W$. On trace $I_W$ en fonction de $K$ et on retient le « coude » de la courbe, au-delà duquel ajouter un groupe n'apporte plus grand-chose (méthode du coude) ; le score de silhouette est une autre méthode courante. [[Complément hors du cours|ⓘ]]
 
 ### Classification hiérarchique
 
@@ -213,11 +233,15 @@ pour d de 1 à N−1 :
 **Choix des groupes à fusionner**, quatre approches :
 - saut minimal : la plus petite distance entre groupes est minimale ;
 - saut maximal : la plus grande distance est minimale ;
-- saut moyen : la distance entre centroïdes est minimale ;
+- méthode des centroïdes : la distance entre centroïdes est minimale (le **saut moyen**, *average linkage*, minimise, lui, la moyenne des distances entre toutes les paires d'exemples des deux groupes) ; [[Erreurs du cours#^e-1-pdf-du-prof|✎]]
 - **[[Méthode de Ward]]** : perte minimale de $I_W$, $S_{G_i,G_j} = \dfrac{w_i w_j}{w_i + w_j}\, d^2(g_i, g_j)$, avec $w_i = \frac{|G_i|}{N}$, $w_j = \frac{|G_j|}{N}$.
 
 ![[Data mining prof - p34.jpg]]
 *Figure : la diapositive des critères de fusion, avec le dendrogramme.*
+
+Dans les logiciels, ces critères s'appellent *single linkage* (saut minimal), *complete linkage* (saut maximal), *average linkage* (saut moyen), *centroid* (méthode des centroïdes) et *ward*. Le saut minimal produit des groupes allongés en « chaîne » (deux groupes se rejoignent dès qu'un seul couple de points est proche) ; le saut maximal et Ward donnent des groupes plus compacts. [[Complément hors du cours|ⓘ]]
+
+Le critère de Ward découle de l'[[Inertie (clustering)|inertie]] : $S_{G_i,G_j}$ est exactement l'augmentation de $I_W$ (donc la perte de $I_B$) quand on fusionne $G_i$ et $G_j$. Fusionner à chaque étape la paire de plus petit $S$ revient à perdre le moins d'inertie inter-classes possible, ce qui rend Ward cohérent avec le critère des k-moyennes. [[Complément hors du cours|ⓘ]]
 
 ### Exercice (clustering)
 
@@ -229,6 +253,12 @@ Points de $\mathbb{R}$ : $x_1 = 1$, $x_2 = 2$, $x_3 = 9$, $x_4 = 12$, $x_5 = 20$
 2. Appliquer la classification hiérarchique ascendante avec le saut minimal.
 
 Pas de correction dans le document.
+
+Correction proposée, avec la distance $|x - y|$ et $I_W = \frac{1}{N}\sum_k \sum_{x \in G_k} (x - g_k)^2$, $N = 5$ (inertie totale $I = 48{,}56$, centre $g = 8{,}8$) : [[Complément hors du cours|ⓘ]]
+- **1.1** ($g_1 = 1$, $g_2 = 20$) : 9 est plus près de 1 (8) que de 20 (11), 12 plus près de 20 ; groupes $\{1, 2, 9\}$ et $\{12, 20\}$, centroïdes 4 et 16. Réaffectation : 9 reste avec 4 (5 contre 7), rien ne bouge. $I_W = (38 + 32)/5 = 14$. [[Complément hors du cours|ⓘ]]
+- **1.2** ($g_1 = 2$, $g_2 = 9$) : groupes $\{1, 2\}$ et $\{9, 12, 20\}$, centroïdes 1,5 et $41/3 \approx 13{,}67$ ; 9 reste dans le second (4,67 contre 7,5), stable. $I_W \approx (0{,}5 + 64{,}67)/5 \approx 13{,}03$ : meilleure que 1.1, alors que $K$ est le même. Deux départs différents donnent deux partitions différentes : k-means ne trouve qu'un minimum local. [[Complément hors du cours|ⓘ]]
+- **1.3** ($g_1 = 1$, $g_2 = 9$, $g_3 = 12$) : premier tour $\{1, 2\}$, $\{9\}$, $\{12, 20\}$, centroïdes 1,5, 9 et 16 ; au deuxième tour, 12 passe au groupe de 9 (distance 3 contre 4) ; groupes $\{1, 2\}$, $\{9, 12\}$, $\{20\}$, centroïdes 1,5, 10,5 et 20, stable. $I_W = (0{,}5 + 4{,}5 + 0)/5 = 1$. [[Complément hors du cours|ⓘ]]
+- **2** (saut minimal) : distances entre voisins 1 (1–2), 7 (2–9), 3 (9–12), 8 (12–20). Fusions : $\{1, 2\}$ à la hauteur 1, $\{9, 12\}$ à 3, $\{1, 2, 9, 12\}$ à 7, puis tout l'ensemble avec 20 à 8. Une coupe entre 3 et 7 donne les trois groupes de 1.3 ; une coupe entre 7 et 8 isole 20. [[Complément hors du cours|ⓘ]]
 
 ## 3. Arbres de décision et forêts
 
@@ -248,9 +278,8 @@ Pas de correction dans le document.
 ![[Data mining prof - p41.jpg]]
 *Figure : l'arbre découvert à partir du jeu météo.*
 
-**Interpréter l'arbre** : règles « IF OUTLOOK = sunny & HUMI = strong THEN PLAY = N », etc. (mêmes règles que plus haut, avec PLAY au lieu de CLASS). La classe Play = P est décrite par :
-$$(OUTLOOK = overcast \wedge HUMI = normal) \vee (OUTLOOK = overcast) \vee (OUTLOOK = rainy \wedge WIND = no)$$
-(tel quel dans le cours : le premier terme devrait porter sur `sunny`, voir « Erreurs du cours »).
+**Interpréter l'arbre** : règles « IF OUTLOOK = sunny & HUMI = strong THEN PLAY = N », etc. (mêmes règles que plus haut, avec PLAY au lieu de CLASS). La classe Play = P est décrite par : [[Erreurs du cours#^e-1-pdf-du-prof|✎]]
+$$(OUTLOOK = sunny \wedge HUMI = normal) \vee (OUTLOOK = overcast) \vee (OUTLOOK = rainy \wedge WIND = no)$$
 
 ### L'algorithme ID3
 
@@ -272,18 +301,27 @@ FONCTION construct-tree(E : exemples, {T_1..T_m} : tests) : arbre
             l ← l + 1
 ```
 
+ID3 (*Iterative Dichotomiser 3*) a été proposé par J. R. Quinlan (1986). C'est un algorithme **glouton** : à chaque nœud, il choisit le meilleur test du moment et ne revient jamais sur ce choix, ce qui ne garantit pas l'arbre le plus petit possible (trouver celui-ci est un problème NP-complet). Si les tests sont épuisés sans que le nœud soit pur, la feuille reçoit la classe majoritaire. [[Complément hors du cours|ⓘ]]
+
 **Info-choose : la quantité d'information.**
 - Information d'un sous-ensemble de cardinal $n$ tiré de $N$ événements : $Q = \log_2 \frac{N}{n}$ (1).
 - [[Entropie (théorie de l'information)|Entropie]] d'une partition $E_1, \dots, E_k$ ($|E_i| = n_i$, $p_i = \frac{n_i}{N}$) : $I(\text{partition}) = \sum_{i=1}^{k} \frac{n_i}{N}\log_2 \frac{N}{n_i} = \sum_{i=1}^{k} p_i\log_2 \frac{1}{p_i}$.
 - Information émise par l'arbre : $I(E) = \sum_{i=1}^{NC} p_i\log_2\frac{1}{p_i}$ (2), $p_i$ fréquence de la classe $i$, $NC$ nombre de classes.
 - Information moyenne après un test $T$ : $\sum_{l=1}^{k} W_l\, I(E_l^T)$, $W_l$ proportion d'exemples dans $E_l^T$.
+- L'entropie vaut 0 pour un ensemble pur (une seule classe) et atteint son maximum $\log_2 NC$ quand les classes sont équiprobables (1 bit pour deux classes moitié-moitié) : elle mesure le désordre, l'incertitude sur la classe d'un exemple tiré au hasard. [[Complément hors du cours|ⓘ]]
 - **[[Gain d'information]]** : $gain(T) = I(E) - \sum_{l=1}^{k} W_l\, I(E_l^T)$.
+- Le gain est la baisse d'entropie apportée par le test ; il est toujours positif ou nul, et on place au nœud le test de gain maximal, c'est-à-dire celui qui laisse les fils les plus purs. [[Complément hors du cours|ⓘ]]
 - Deux classes ($p$ positifs, $n$ négatifs) :
 $$I(p,n) = \frac{p}{p+n}\log_2\frac{p+n}{p} + \frac{n}{p+n}\log_2\frac{p+n}{n} \quad (3), \qquad gain(T) = I(p,n) - \sum_{i=1}^{k}\frac{p_i+n_i}{p+n}\, I(p_i, n_i).$$
 
 **Exemple (PlayTennis).**
 $$gain(OUTLOOK) = I(9,5) - \left(\tfrac{5}{14}I(2,3) + \tfrac{4}{14}I(4,0) + \tfrac{5}{14}I(3,2)\right) = 0{,}246 \text{ bits},$$
 contre gain(TEMP.) $= 0{,}029$, gain(HUMI.) $= 0{,}151$, gain(WIND) $= 0{,}048$ bits : OUTLOOK à la racine.
+
+Détail du calcul, avec la formule (3) : [[Complément hors du cours|ⓘ]]
+$$I(9,5) = \tfrac{9}{14}\log_2\tfrac{14}{9} + \tfrac{5}{14}\log_2\tfrac{14}{5} \approx 0{,}643 \times 0{,}637 + 0{,}357 \times 1{,}485 \approx 0{,}940,$$
+$$I(2,3) = I(3,2) = \tfrac{2}{5}\log_2\tfrac{5}{2} + \tfrac{3}{5}\log_2\tfrac{5}{3} \approx 0{,}971, \qquad I(4,0) = 0 \text{ (nœud pur)},$$
+$$gain(OUTLOOK) \approx 0{,}940 - \tfrac{10}{14} \times 0{,}971 \approx 0{,}940 - 0{,}694 = 0{,}246.$$
 
 ![[Data mining prof - p48.jpg]]
 *Figure : le calcul du gain d'outlook et la partition correspondante.*
@@ -292,7 +330,9 @@ contre gain(TEMP.) $= 0{,}029$, gain(HUMI.) $= 0{,}151$, gain(WIND) $= 0{,}048$ 
 
 [[Algorithme C4.5]], descendant d'ID3 :
 - attributs continus traités par discrétisation ;
+- pour un attribut continu, on trie ses valeurs, on essaie comme seuil chaque milieu entre deux valeurs consécutives (test binaire $a \le s$ / $a > s$) et on garde le seuil de meilleur critère. [[Complément hors du cours|ⓘ]]
 - normalisation du gain : $SplitInfo(T) = -\sum_{i=1}^{k} \frac{|T_i|}{|T|}\log_2\frac{|T_i|}{|T|}$ (4), $GainRatio(T) = \frac{gain(T)}{SplitInfo(T)}$ ([[Rapport de gain]]) ;
+- pourquoi normaliser : le gain favorise les attributs à beaucoup de valeurs. Un identifiant (NUM dans le jeu météo) découpe la base en 14 feuilles pures et obtient le gain maximal $I(E)$, sans rien apprendre de généralisable. $SplitInfo$ est l'entropie de la partition elle-même : elle grandit avec le nombre de branches ($\log_2 14 \approx 3{,}81$ pour NUM) et pénalise ces tests. [[Complément hors du cours|ⓘ]]
 - regroupement de valeurs d'attributs ;
 - valeurs manquantes : si $a_i$ manque pour un exemple, on partitionne l'ensemble selon les $n$ valeurs de $a_i$, l'exemple est affecté à chaque groupe avec une probabilité égale à la fréquence du groupe, prise en compte dans le gain et propagée dans l'arbre ;
 - [[Élagage]] de l'arbre.
@@ -309,13 +349,17 @@ $W_i$ proportion d'exemples du fils $i$.
 $$IG(windy) = 1 - \left[\left(\tfrac{9}{14}\right)^2 + \left(\tfrac{5}{14}\right)^2\right], \quad IG(fils_1) = 1 - \left[\left(\tfrac{2}{8}\right)^2 + \left(\tfrac{6}{8}\right)^2\right], \quad IG(fils_2) = 1 - \left[\left(\tfrac{3}{6}\right)^2 + \left(\tfrac{3}{6}\right)^2\right],$$
 $$Gain(windy) = IG(windy) - \left[\tfrac{8}{14}\, IG(fils_1) + \tfrac{6}{14}\, IG(fils_2)\right].$$
 
+Valeurs numériques : $IG(windy) = 1 - \frac{81 + 25}{196} = \frac{90}{196} \approx 0{,}459$, $IG(fils_1) = 1 - \frac{4 + 36}{64} = 0{,}375$, $IG(fils_2) = 0{,}5$ (le maximum, classes à égalité), d'où $Gain(windy) = \frac{90}{196} - \left(\frac{3}{14} + \frac{3}{14}\right) = \frac{6}{196} \approx 0{,}031$ : windy sépare mal, comme avec l'entropie. [[Complément hors du cours|ⓘ]]
+
+L'indice de Gini est la probabilité de se tromper en étiquetant un exemple du nœud au hasard selon les fréquences des classes ; il vaut 0 pour un nœud pur et au plus $1 - \frac{1}{NC}$ (0,5 pour deux classes, comme sur la figure suivante). Gini et entropie classent presque toujours les coupes dans le même ordre ; Gini, sans logarithme, est plus rapide à calculer. [[Complément hors du cours|ⓘ]]
+
 ![[Data mining prof - p53.jpg]]
 *Figure : le nœud windy (false : 6 yes / 2 no ; true : 3 yes / 3 no) et le calcul de Gini.*
 
 ![[Data mining prof - p54.jpg]]
 *Figure : indice de Gini pour 20 individus et 2 classes, parabole de maximum 0,5 à 10 individus.*
 
-**Construction de l'arbre.**
+**Construction de l'arbre** (on maximise le gain de Gini, pas l'indice de Gini lui-même) : [[Erreurs du cours#^e-1-pdf-du-prof|✎]]
 ```
 Tant que les conditions d'arrêt ne sont pas vérifiées :
     1. trouver la variable X et les conditions positive / négative qui donnent la meilleure séparation (gain de Gini maximal)
@@ -327,6 +371,8 @@ Tant que les conditions d'arrêt ne sont pas vérifiées :
 **Conditions d'arrêt** : profondeur de l'arbre (liée au nombre de variables utilisées) ; nombre de feuilles limité ; effectif d'un fils limité ; performance suffisante (erreur d'entraînement faible) ; plus d'amélioration de la performance.
 
 **Élagage.** Construire l'arbre complet ; l'élaguer successivement (en supprimant deux feuilles qui sont les fils d'un même nœud) ; garder l'arbre élagué de meilleure performance (plus petite erreur sur l'ensemble de test).
+
+L'élagage lutte contre le [[Surapprentissage|surapprentissage]] : un arbre poussé jusqu'au bout a des feuilles presque pures, donc une erreur d'entraînement quasi nulle, mais ses dernières coupes suivent le bruit de quelques exemples. Les conditions d'arrêt ci-dessus sont un **pré-élagage** (on s'arrête avant), l'élagage de l'arbre complet un **post-élagage**, en général plus sûr car une coupe peu utile peut en préparer une très utile. Un ensemble qui sert à choisir l'arbre ne mesure plus honnêtement son erreur : c'est le rôle de l'ensemble de validation de la figure du processus supervisé, l'ensemble de test étant gardé pour l'évaluation finale. [[Complément hors du cours|ⓘ]]
 
 **Affectation des classes.** Pour chaque feuille, et chaque classe $c_i$, $P_{c_i}$ est la proportion d'exemples de la feuille dans $c_i$ ; on affecte à la feuille la classe $c_k$ de $P_{c_k}$ maximal.
 
@@ -365,11 +411,16 @@ Classification :
 
 **Discussion.** Pour des méthodes instables vis-à-vis des changements de données : le bagging (*Bootstrap Aggregating*) essaie de neutraliser cette instabilité. Les $k$ ensembles ne sont pas disjoints deux à deux. En numérique, on fait la moyenne au lieu du vote.
 
+Le tirage avec remise de $N$ exemples parmi $N$ est un **échantillon bootstrap** : un exemple donné n'y figure pas avec la probabilité $\left(1 - \frac{1}{N}\right)^N \to e^{-1} \approx 0{,}368$, si bien que chaque échantillon contient environ 63,2 % d'exemples distincts, certains en plusieurs exemplaires. Les exemples non tirés (*out-of-bag*) servent d'ensemble de test gratuit pour le modèle correspondant. [[Complément hors du cours|ⓘ]]
+
+Ce qui rend le bagging utile : un modèle instable, comme un arbre profond, a une erreur due surtout à sa **variance** (il change beaucoup d'un échantillon à l'autre). Moyenner des modèles dont les erreurs ne sont pas toutes les mêmes réduit cette variance sans augmenter le biais ; sur un modèle stable (k plus proches voisins avec $k$ grand, régression linéaire), le gain est faible. [[Complément hors du cours|ⓘ]]
+
 ### Boosting
 
 - Les modèles diffèrent par leur capacité de généralisation ; vote ou moyenne.
 - Construction itérative : chaque modèle est influencé par les précédents.
 - AdaBoost.M1 : exemples pondérés ; l'erreur est la somme des poids des exemples mal classés divisée par la somme totale des poids ; la pondération permet de *se concentrer* sur certains exemples.
+- Les poids initiaux valent $1/N$ (somme 1) et sont renormalisés à chaque itération pour que leur somme reste 1. [[Erreurs du cours#^e-1-pdf-du-prof|✎]]
 
 ```
 Génération :
@@ -380,7 +431,7 @@ Génération :
         SI e_t = 0 ou e_t > 0.5 : terminer
         SINON
             pour chaque exemple bien classé : w_i ← w_i · e_t / (1 − e_t)
-            normaliser les poids (pour que la somme soit N)
+            normaliser les poids (pour que la somme reste 1)
 Classification :
     affecter le poids 0 à toutes les classes
     pour chaque modèle t : ajouter −log(e_t / (1 − e_t)) au poids de la classe prédite
@@ -388,6 +439,10 @@ Classification :
 ```
 
 **Discussion.** Après chaque itération, les exemples bien classés ont leur poids multiplié par $\frac{e_t}{1-e_t}$, puis on normalise (la somme reste la même) : les poids des exemples faciles (bien classés) baissent, ceux des exemples difficiles (mal classés) montent. Vote pondéré avec $W_t = -\log\frac{e_t}{1-e_t}$ ; on somme les poids par classe et on choisit la classe de poids maximal.
+
+Lecture des formules : $W_t = \log\frac{1-e_t}{e_t}$ est positif tant que $e_t < 0{,}5$, d'autant plus grand que le modèle est bon, et nul pour $e_t = 0{,}5$. D'où l'arrêt quand $e_t > 0{,}5$ : à deux classes, un tel modèle fait pire que le hasard. Le boosting n'attend de chaque modèle que d'être un peu meilleur que le hasard (*apprenant faible*, souvent un arbre à un seul nœud, le *decision stump*) et en combine beaucoup pour obtenir un classifieur fort. [[Complément hors du cours|ⓘ]]
+
+AdaBoost (*Adaptive Boosting*) est dû à Y. Freund et R. Schapire (1995-1997). Là où le bagging réduit surtout la variance, le boosting réduit aussi le biais ; en contrepartie, il est séquentiel (pas de calcul en parallèle) et sensible au bruit, puisque les exemples mal étiquetés, toujours mal classés, voient leur poids grimper. Le *gradient boosting* (XGBoost, LightGBM) en est la forme moderne, très utilisée sur les données tabulaires. [[Complément hors du cours|ⓘ]]
 
 ### Forêt aléatoire
 
@@ -400,6 +455,8 @@ Classification :
 - $z = \{(x_1, y_1), \dots, (x_n, y_n)\}$ : échantillon d'apprentissage, $x_i$ décrit par $p$ variables explicatives.
 - Pour $t = 1, \dots, K$ ($K$ arbres) : tirer $z_t$ avec remise dans $z$ ; estimer un arbre sur $z_t$ en tirant uniformément, à chaque nœud, $q$ variables parmi $p$.
 - On obtient $K$ arbres qu'on moyenne (régression) ou fait voter (classification).
+- Les forêts aléatoires sont dues à L. Breiman (2001), l'un des auteurs de CART. Les valeurs de $q$ recommandées par défaut sont $q \approx \sqrt{p}$ en classification et $q \approx p/3$ en régression ; les arbres sont en général poussés au bout sans élagage, le vote corrigeant leur surapprentissage. Plus $q$ est petit, plus les arbres sont différents (moins corrélés), mais chacun est moins bon. [[Complément hors du cours|ⓘ]]
+- Une forêt fournit aussi l'erreur *out-of-bag* (chaque exemple est prédit par les arbres qui ne l'ont pas vu) et une **importance des variables** (baisse moyenne de l'impureté qu'elles apportent, ou perte de performance quand on mélange leurs valeurs) : elle compense en partie la perte de lisibilité par rapport à un arbre seul, qu'on lit comme un ensemble de règles. [[Complément hors du cours|ⓘ]]
 
 ## 5. Exercices
 
@@ -413,6 +470,12 @@ Trouver des arbres de décision pour :
 4. $(A \wedge B) \vee (C \wedge D)$.
 
 Appliquer ID3 (via Weka) à ces exemples et commenter.
+
+Correction proposée (V = vrai, F = faux) : [[Complément hors du cours|ⓘ]]
+1. Racine A ; A = F → F ; A = V → test B (B = V → F, B = F → V). [[Complément hors du cours|ⓘ]]
+2. Racine A ; A = V → V ; A = F → test B ; B = F → F ; B = V → test C (C = V → V, C = F → F). [[Complément hors du cours|ⓘ]]
+3. Racine A, puis B sous chaque branche, quatre feuilles : aucun arbre plus petit ne convient, car la valeur de A seule ne dit rien de la sortie. Sur la table de vérité complète (2 V, 2 F), chaque fils de A ou de B garde un V et un F : le gain des deux attributs à la racine est nul, et ID3 choisit au hasard. C'est la limite d'un critère glouton, qui ne voit qu'un attribut à la fois. [[Complément hors du cours|ⓘ]]
+4. Racine A ; A = V → B ; B = V → V ; B = F → sous-arbre de $C \wedge D$ ; A = F → le même sous-arbre de $C \wedge D$ (C puis D). Le sous-arbre apparaît deux fois : un arbre représente mal une disjonction de conjonctions sans variable commune (problème de **réplication**), alors que la formule tient en deux règles. [[Complément hors du cours|ⓘ]]
 
 ### Exercice 2 — entropie et gain
 
@@ -428,10 +491,9 @@ Appliquer ID3 (via Weka) à ces exemples et commenter.
 1. Calculer l'entropie de l'ensemble selon la classe.
 2. Calculer le gain de l'attribut a2.
 
+Correction proposée : 3 + et 3 −, donc $I(3,3) = 1$ bit. Pour a2 : T → instances 1, 2, 5, 6 (2 +, 2 −), F → instances 3, 4 (1 +, 1 −), deux fils d'entropie 1, d'où $gain(a2) = 1 - \left(\frac{4}{6} \times 1 + \frac{2}{6} \times 1\right) = 0$. Pour comparer, a1 donne T → (2 +, 1 −) et F → (1 +, 2 −), $I(2,1) \approx 0{,}918$, $gain(a1) \approx 1 - 0{,}918 = 0{,}082$ : a1 serait choisi. [[Complément hors du cours|ⓘ]]
+
 ### Exercice 3
 Appliquer ID3 au jeu météo pour trouver l'arbre de décision.
 
-## Erreurs du cours
-
-- [[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]], interprétation de l'arbre (diapositive 42, vérifié sur la page) : décrit la classe Play = P par $(\text{OUTLOOK} = \text{overcast} \wedge \text{HUMI} = \text{normal}) \vee (\text{OUTLOOK} = \text{overcast}) \vee (\text{OUTLOOK} = \text{rainy} \wedge \text{WIND} = \text{no})$ ; il faut $(\text{OUTLOOK} = \text{sunny} \wedge \text{HUMI} = \text{normal}) \vee (\text{OUTLOOK} = \text{overcast}) \vee (\text{OUTLOOK} = \text{rainy} \wedge \text{WIND} = \text{no})$, d'après les règles données juste au-dessus sur la même diapositive.
-- Même document, boosting (diapositive 64) : affecte le poids initial $w = 1/N$ (somme 1), puis normalise les poids « pour que la somme soit N » ; il faut une seule convention : somme 1 avec des poids initiaux $1/N$, ou somme $N$ avec des poids initiaux de 1 (même erreur que dans [[1 - intro to data mining]]).
+Correction proposée : OUTLOOK à la racine (gains calculés plus haut). Branche overcast : 4 P, feuille P. Branche sunny (exemples 1, 2, 8, 9, 11 : 2 P, 3 N, $I = 0{,}971$) : gain(HUMI.) $= 0{,}971$ (strong → 3 N, normal → 2 P, fils purs), gain(TEMP.) $\approx 0{,}571$, gain(WIND) $\approx 0{,}020$ ; on teste HUMI. Branche rainy (exemples 4, 5, 6, 10, 14 : 3 P, 2 N) : gain(WIND) $= 0{,}971$ (no → 3 P, yes → 2 N), gain(TEMP.) et gain(HUMI.) $\approx 0{,}020$ ; on teste WIND. Toutes les feuilles sont pures : c'est l'arbre de la figure, avec les cinq règles du début. [[Complément hors du cours|ⓘ]]

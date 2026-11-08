@@ -30,6 +30,24 @@ friend std::ostream& operator<<(std::ostream& os, const Point& p) {
 - `friend` : l'opérateur est appelé sur `std::cout`, extérieur à `Point`, et on ne peut pas ajouter de méthode à `std::ostream` ; il est donc écrit hors des classes, et `friend` lui donne accès aux attributs privés (voir [[Fonction amie (friend)]]).
 - `return os;` permet d'enchaîner les `<<` (complément, hors du cours).
 
+## Compléments (hors du cours)
+
+- **Un opérateur surchargé est un appel de fonction** : `-p1` devient `p1.operator-()`, et `p1 + p2` devient `p1.operator+(p2)` : c'est l'objet de gauche qui porte la méthode.
+- **Règles** : on ne peut pas inventer d'opérateur (`**` n'existe pas en C++), ni changer son nombre d'opérandes, sa priorité ou son associativité, ni redéfinir un opérateur entre types de base (`int + int`) ; au moins un opérande doit être d'un type défini par l'utilisateur. `::`, `.`, `?:` et `sizeof` ne se surchargent pas.
+- **Forme usuelle de l'addition** : `Point operator+(const Point& autre) const;` : la [[Référence (C++)|référence constante]] évite une copie, et le `const` final indique que l'objet de gauche n'est pas modifié.
+- **`operator+=`** modifie l'objet de gauche et renvoie une référence sur lui :
+
+```cpp
+Point& operator+=(const Point& autre) {
+    x += autre.x;
+    y += autre.y;
+    return *this;
+}
+```
+
+- **`operator<<` renvoie `std::ostream&`** parce qu'un flux ne se copie pas, et pour permettre l'enchaînement : `std::cout << p1 << p2` se lit `(std::cout << p1) << p2`, le premier appel renvoyant `std::cout` lui-même.
+- **`operator=`** (affectation) est généré par le compilateur s'il n'est pas écrit ; il faut l'écrire soi-même dans une classe qui gère de la mémoire dynamique (règle de trois, voir [[Destructeur (programmation)]]).
+
 En Python, le même mécanisme passe par les [[Méthode spéciale Python|méthodes spéciales]] (`__add__` pour `+`).
 
 Notion parente : [[Classe et objet]]. Voir aussi : [[Programmation orientée objet]].

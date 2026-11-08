@@ -18,7 +18,7 @@ sources:
   - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[1 - basiques|Chp1 - basiques]]"
   - "[[2 - structures code|chp2 - structures code]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 **En Bash** (Operating System) :
@@ -28,14 +28,8 @@ maj: 2026-11-07
 
 Ne pas confondre : `=`/`!=` pour les chaînes, `-eq`/`-ne` pour les nombres.
 
-**En C** : `==`, `!=`, `>`, `>=`, `<`, `<=`, `&&` (ET logique), `||` (OU logique), `!` (NOT logique), `^` (donné par le cours comme XOR logique). Une condition vraie vaut 1 et fausse 0 : `a == b == c` est lu `(a == b) == c`, donc avec `a = b = c = 5` on teste `1 == 5`, faux. Le cours propose `if (a == b && b == c)`. Piège associé : `if (a = 3)` affecte au lieu de comparer.
+**En C** : `==`, `!=`, `>`, `>=`, `<`, `<=`, `&&` (ET logique), `||` (OU logique), `!` (NOT logique), `^` (OU exclusif bit à bit ; le C n'a pas de XOR logique, on écrit par exemple `(a != 0) != (b != 0)`). [[Erreurs du cours#^e-operateur-de-comparaison|✎]] Une condition vraie vaut 1 et fausse 0 : `a == b == c` est lu `(a == b) == c`, donc avec `a = b = c = 5` on teste `1 == 5`, faux. Le cours propose `if (a == b && b == c)` ; la forme `if ( ((a==b) == 1) == (b==c) )` ne lui est pas équivalente, car elle est aussi vraie quand $a \ne b$ et $b \ne c$ (elle teste alors `0 == 0`). [[Erreurs du cours#^e-operateur-de-comparaison|✎]] Piège associé : `if (a = 3)` ne teste rien, il affecte 3 à `a` et vaut 3, donc la condition est toujours vraie. [[Erreurs du cours#^e-operateur-de-comparaison|✎]]
 
 Notion parente : [[Structure conditionnelle]]. Voir aussi : [[Évaluation en court-circuit]], [[Opérateur logique]].
-
-## Erreurs du cours
-
-- [[1 - basiques|Chp1 - basiques]] écrit que `if (a=3)` « test si a peut prendre la valeur 3, retour 1 si oui et 0 si non » ; il faut : `a = 3` affecte 3 à `a` et vaut 3, donc la condition est toujours vraie (d'où l'affichage de « bonjour »).
-- Le même chapitre propose `if ( ((a==b) == 1) == (b==c) )` comme équivalent de `a == b && b == c` ; il faut `if (a == b && b == c)` seul : la première forme est aussi vraie quand $a \ne b$ et $b \ne c$ (elle teste alors `0 == 0`).
-- [[2 - structures code|chp2 - structures code]] donne `^` comme « XOR logique » ; il faut « OU exclusif bit à bit » : le C n'a pas d'opérateur XOR logique (on écrit par exemple `(a != 0) != (b != 0)`).
 
 Résumés : [[8 - OS commandes sh]], [[1 - basiques]], [[2 - structures code]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year1]
 aliases: [codes de Gray, Gray code, code binaire réfléchi]
 sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 **Définition** (d'après le DM, [[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]) : « Le code de Gray est une séquence de nombres binaires (1 et 0) dans laquelle deux valeurs successives diffèrent par un seul bit. »
@@ -49,14 +49,14 @@ def code_gray(n):
 
 ## Usage dans le DM : parcourir toutes les configurations du sac à dos
 
-Dans le [[Problème du sac à dos]], une configuration dit pour chaque objet s'il est dans le sac (bit 1) ou non (bit 0). Avec $n$ objets, il y a $2^n$ configurations, et la [[Recherche exhaustive]] les examine toutes. `exhaustif_gray` les parcourt dans l'ordre du code de Gray :
+Dans le [[Problème du sac à dos]], une configuration dit pour chaque objet s'il est dans le sac (bit 1) ou non (bit 0). Avec $n$ objets, il y a $2^n$ configurations, et la [[Recherche exhaustive]] les examine toutes. `exhaustif_gray` les parcourt dans l'ordre du code de Gray, en appelant la fonction `code_gray` définie plus haut : [[Erreurs du cours#^e-code-de-gray|✎]]
 
 ```python
 def exhaustif_gray(nom_fichier):
     NbObjets, P, objets = lecture_fichier(nom_fichier)
     meilleure_valeur = 0
     meilleure_config = []
-    codes = code_gray(NbObjets)      # le DM écrit gray_code (voir « Erreurs du cours »)
+    codes = code_gray(NbObjets)
     for code in codes:
         configuration = [int(x) for x in format(code, f'0{NbObjets}b')]
         valeur_totale = sum(objets[j].v for j in range(NbObjets) if configuration[j] == 1)
@@ -83,9 +83,5 @@ Autres repères, hors du cours :
 - ce code porte le nom de Frank Gray (Bell Labs, brevet de 1953). On l'emploie quand une lecture prise pendant un changement de valeur ne doit jamais tomber sur un nombre aberrant : capteurs de position rotatifs, tableaux de Karnaugh.
 
 Notion parente : [[Numération binaire]]. Voir aussi : [[Recherche exhaustive]], [[Problème du sac à dos]].
-
-## Erreurs du cours
-
-- [[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]] : le code encadré d'`exhaustif_gray` appelle `gray_code(NbObjets)`, alors que la fonction définie juste avant s'appelle `code_gray` ; tel quel, il lève une `NameError`. Il faut écrire `codes = code_gray(NbObjets)`, comme le fait la version commentée plus bas dans le même document.
 
 Résumés (rapprochement, complément hors du cours) : [[0 - Algo Maths]]

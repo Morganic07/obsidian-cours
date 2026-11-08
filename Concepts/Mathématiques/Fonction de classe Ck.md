@@ -4,25 +4,20 @@ tags: [year1, year2]
 aliases: [classe Ck, classe C1, classe C2, classe Cn, classe C∞, classe C0, classe C infini, C∞, stabilité de Ck par composition]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
 sources: ["[[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur|Chp 5 - Calcul différentiel d'ordre supérieur]]", "[[4 - dérivabilité|Chp4 - dérivabilité]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 $f$ est de classe $\mathcal{C}^k$ sur l'ouvert $U$ si ses dérivées partielles d'ordre $k$ existent et sont continues sur $U$, et $\mathcal{C}^\infty$ si elle est $\mathcal{C}^k$ pour tout $k$.
 
 Chaîne d'implications : $\mathcal{C}^1$ ⇒ différentiable ⇒ continue et dérivées partielles définies.
 
-- $f$ est $\mathcal{C}^k$ si et seulement si ses composantes le sont.
+- Pour $f : U \to \mathbb{R}^n$ quelconque, $f$ est $\mathcal{C}^k$ si et seulement si ses composantes le sont. [[Erreurs du cours#^e-fonction-de-classe-ck|✎]]
 - Les dérivées d'ordre inférieur à $k$ sont aussi continues.
 - La composée de deux applications $\mathcal{C}^k$ est $\mathcal{C}^k$, si $f(U) \subset V$ (voir [[Dérivation en chaîne]]). À l'ordre 2, être $\mathcal{C}^2$ suffit pour le [[Théorème de Schwarz]].
-- $\mathcal{C}^1(U, F)$ est un sous-espace vectoriel de $\mathcal{C}(U, F)$. Toute application linéaire est $\mathcal{C}^1$.
+- $\mathcal{C}^1(U, F)$ est un sous-espace vectoriel de $\mathcal{C}(U, F)$. Toute application linéaire est $\mathcal{C}^1$. Si $F$ est muni d'un produit (par exemple $F = \mathbb{R}$), le produit de deux applications $\mathcal{C}^1$ est $\mathcal{C}^1$. [[Erreurs du cours#^e-fonction-de-classe-ck|✎]]
 
 **En une variable** : $f$ est $\mathcal{C}^n$ si elle est $n$ fois dérivable et si $f^{(n)}$ est continue. $\mathcal{C}^1$ signifie « dérivable à dérivée continue », et non « dérivable et continue ». $f$ est $\mathcal{C}^\infty$ si elle est infiniment dérivable. Chaîne : $\mathcal{C}^\infty \Rightarrow \dots \Rightarrow \mathcal{C}^1 \Rightarrow$ dérivable $\Rightarrow \mathcal{C}^0$. Produit, quotient (si le dénominateur ne s'annule pas), composée et réciproque (si $f'$ ne s'annule pas) restent $\mathcal{C}^n$. [[Formule de Leibniz]] : $(fg)^{(n)} = \sum_{k=0}^{n} \binom{n}{k} f^{(k)}g^{(n-k)}$.
 
 Notion parente : [[Différentielle]] (plusieurs variables), [[Dérivabilité]] (une variable). Voir aussi : [[Dérivée partielle]], [[Dérivation en chaîne]], [[Théorème de Schwarz]], [[Formule de Leibniz]], [[Limite et continuité]], [[Difféomorphisme]], [[Dérivabilité]], [[Développement limité]]
-
-## Erreurs du cours
-
-- [[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]], théorème 5, écrit « Soit $F$ un EVN quelconque. Alors, pour $\forall f, g \in \mathcal{C}^1(U, F)$, $f \times g \in \mathcal{C}^1(U, F)$ » ; il faut un espace d'arrivée muni d'un produit, par exemple $F = \mathbb{R}$ : un EVN quelconque n'a pas de produit. Vérifié sur l'image.
-- [[5 - Calcul différentiel d'ordre supérieur|Chp 5 - Calcul différentiel d'ordre supérieur]], théorème 2, écrit « Soit […] $f$ une application $\mathcal{C}^k$ de $U$ dans $\mathbb{R}^n$. On a équivalence entre 1. la fonction $f$ est de classe $\mathcal{C}^k$ ; 2. les fonctions coordonnées […] sont de classe $\mathcal{C}^k$ » ; il faut « $f$ une application de $U$ dans $\mathbb{R}^n$ » : supposer $f$ de classe $\mathcal{C}^k$ rend l'équivalence sans objet. Vérifié sur l'image.
 
 Résumés : [[4 - Calcul différentiel du premier ordre]], [[5 - Calcul différentiel d'ordre supérieur]], [[4 - dérivabilité]]

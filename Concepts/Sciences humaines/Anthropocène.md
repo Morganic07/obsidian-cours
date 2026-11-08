@@ -16,8 +16,12 @@ sources:
   - "[[2 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
+
+**Définition (complément, hors du cours)** : période où les activités humaines deviennent une force qui transforme la planète à l'échelle géologique (climat, cycles du carbone et de l'azote, biodiversité, sols, sédiments). Le terme est popularisé en 2000 par le chimiste de l'atmosphère Paul Crutzen et le biologiste Eugene Stoermer. Les propositions de début varient : révolution industrielle, ou « [[Grande accélération]] » d'après 1950. En 2024, la sous-commission de stratigraphie du Quaternaire de l'Union internationale des sciences géologiques a rejeté la proposition d'en faire une époque géologique officielle ; la notion reste centrale en sciences humaines, en écologie et en design.
+
+## Dans le cours
 
 Dans le cours 2 de Culture du vivant (3e année), un dessin de balance sert de métaphore du passage de la Modernité à l'Anthropocène :
 

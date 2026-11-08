@@ -2,7 +2,7 @@
 type: matiere
 tags: [year3]
 sources: ["[[0 - Revision chapter|Chp0 - Revision chapter]]", "[[1 - Convergent, divergent and positive terms SERIES|Chp1 - Convergent, divergent and positive terms SERIES]]", "[[2 - Alternating and absolutly convergent series|Chp2 - Alternating and absolutly convergent series]]", "[[3 - Sequence of function|Chp3 - Sequence of function]]", "[[4 - Series of functions|Chp4 - Series of functions]]", "[[5 - power series|Chp5 - power series]]", "[[6 - Fourier Series|Chp6 - Fourier Series]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Séries numériques, suites et séries de fonctions, séries entières et séries de Fourier. Cours en anglais. Les 7 notes sont intégrées.
@@ -26,11 +26,14 @@ Séries numériques, suites et séries de fonctions, séries entières et série
 - **Suites et séries de fonctions (chapitres 3 et 4)** : [[Point limite]], [[Convergence uniforme]], [[Interversion de limites]]
 - **Séries entières (chapitre 5)** : [[Série entière]], [[Reste de Taylor]]
 - **Séries de Fourier (chapitre 6)** : [[Fonction périodique]], [[Fonction continue par morceaux]], [[Fonction paire et impaire]], [[Série de Fourier]]
+- **Ajoutés par l'enrichissement** : [[Série de Bertrand]], [[Théorème de réarrangement de Riemann]], [[Théorème de Dini]], [[Théorème de convergence dominée]], [[Lemme d'Abel]], [[Produit de Cauchy]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[5 - power series]] : l'approximation de $\pi$ à $10^{-2}$ demande $n \ge 199$, non $n \ge 49$ (la précision de $n \ge 49$ vaut pour $\pi/4$).
-- [[0 - Revision chapter]] : développements de $\sin$ et $\sinh$ avec $5!$ au lieu de $3!$ ; équivalent de $e^x - 1$ écrit 1 au lieu de $x$.
+- [[5 - power series]] : approcher $\pi$ à $10^{-2}$ par la série de $\arctan 1$ demande $n \ge 199$, car l'erreur sur $\pi/4$ est multipliée par 4.
+- [[0 - Revision chapter]] : développements de $\sin$ et $\sinh$ (terme en $x^3/3!$) ; $e^x - 1 \underset{0}{\sim} x$.
 
 ## Liens avec les autres matières
 

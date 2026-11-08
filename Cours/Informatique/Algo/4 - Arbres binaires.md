@@ -2,8 +2,9 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du PDF Chapitre4-Preing2ID ([[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]) (63 diapositives, « Chapitre 4 : Les arbres binaires », groupe Preing2 ID, 2024-2025, format beamer avec animations), dans [[Cours/Informatique/Algo/_index|Algo]]. Les exemples sont en [[Langage Python|Python]].
@@ -17,6 +18,7 @@ Définir l'[[Arbre binaire]], son vocabulaire et ses propriétés, puis le parco
 - Il apparaît naturellement : XML, arborescences de répertoires…
 - Structure qui permet de ranger efficacement des données.
 - Gain de temps spectaculaire par rapport aux listes, [[Pile et file|piles et files]] : « 10000 ans → quelques secondes ».
+- D'où vient ce gain : chercher une valeur dans une liste de $n$ éléments demande jusqu'à $n$ comparaisons (recherche séquentielle, en $O(n)$) ; dans un arbre de recherche bien équilibré, chaque comparaison élimine un sous-arbre entier et le nombre de comparaisons est de l'ordre de la hauteur, soit environ $\log_2 n$ (en $O(\log n)$). Pour $n = 10^9$, on passe d'un milliard de comparaisons à une trentaine. Voir [[Complexité algorithmique]], [[5 - ABR]] et [[6 - AVL]]. [[Complément hors du cours|ⓘ]]
 
 ## 2. Définition
 
@@ -101,6 +103,10 @@ Feuille = nœud dont l'arité est 0.
 ![[Chapitre4-Preing2ID - p17.jpg]]
 *Figure : les feuilles 4, 6, 7, 9 entourées.*
 
+Un nœud qui n'est pas une feuille (arité 1 ou 2) est un **[[Vocabulaire des arbres|nœud interne]]** : dans l'arbre exemple, 1, 2, 3, 5 et 8. Tout nœud est donc soit une feuille, soit un nœud interne, et la taille vaut $n(t) = i(t) + l(t)$ (notations de la section 5). [[Complément hors du cours|ⓘ]]
+
+Les **ancêtres** d'un nœud sont les nœuds situés sur le chemin qui le relie à la racine (son père, le père de son père, etc.) ; ses **descendants** sont les nœuds de son sous-arbre, lui excepté. Dans l'exemple, les ancêtres de 6 sont 5, 3, 2 et 1. [[Complément hors du cours|ⓘ]]
+
 ### Arête
 
 Relie un fils et son père.
@@ -158,6 +164,10 @@ Profondeur d'un nœud = nombre d'arêtes qui le séparent de la racine. Le terme
 ![[Chapitre4-Preing2ID - p27.jpg]]
 *Figure : arbre quasi-parfait : nœuds 1 à 12, le dernier niveau rempli de gauche à droite jusqu'à 12.*
 
+Attention au vocabulaire, qui varie d'un ouvrage à l'autre : ce que le cours appelle « complet » (aucun nœud d'arité 1) se dit aussi arbre **localement complet** ou **strict**, en anglais *full binary tree* ; l'arbre « parfait » est le *perfect binary tree* ; et l'arbre « quasi-parfait » correspond à ce que l'anglais appelle *complete binary tree*. Un *complete binary tree* n'est donc pas un arbre « complet » au sens du cours. [[Complément hors du cours|ⓘ]]
+
+La numérotation niveau par niveau des figures (racine 1, puis de gauche à droite) a une propriété utile : les fils du nœud numéro $i$ sont les nœuds $2i$ et $2i + 1$, et son père est le nœud $\lfloor i/2 \rfloor$. Un arbre quasi-parfait de $n$ nœuds se range donc dans un simple tableau (cases 1 à $n$), sans pointeurs ni trous. C'est la représentation du [[Tas binaire|tas binaire]], structure utilisée pour les files de priorité et le tri par tas. [[Complément hors du cours|ⓘ]]
+
 ## 5. Propriétés sur les arbres
 
 - La hauteur, le nombre de nœuds, le nombre de feuilles, etc., vérifient des relations simples.
@@ -184,6 +194,15 @@ où $n(l)$ et $n(r)$ sont les tailles de $l$ et $r$.
 
 Notations, pour un arbre $t$ : $h(t)$ sa hauteur, $n(t)$ son nombre de nœuds, $i(t)$ son nombre de nœuds internes, $l(t)$ son nombre de feuilles. Question posée : comment calculer récursivement ces paramètres ?
 
+Réponse, en suivant la définition récursive (arbre vide, ou $t = (v, l, r)$ ; ici $l$ et $r$ désignent les sous-arbres, à ne pas confondre avec la fonction $l(t)$) : [[Complément hors du cours|ⓘ]]
+
+$$n(()) = 0, \qquad n(t) = 1 + n(l) + n(r)$$
+$$h(()) = -1, \qquad h(t) = 1 + \max(h(l), h(r))$$
+$$l(()) = 0, \qquad l(t) = \begin{cases} 1 & \text{si } l \text{ et } r \text{ sont vides} \\ l(l) + l(r) & \text{sinon} \end{cases}$$
+$$i(t) = n(t) - l(t)$$
+
+La convention $h(()) = -1$ donne bien une hauteur 0 à un arbre réduit à une feuille ; c'est celle du corrigé de la question 2 (section 8). [[Complément hors du cours|ⓘ]]
+
 > **Propriétés** (se montrent par récurrence) :
 > 1. $h(t) + 1 \le n(t) \le 2^{h(t)+1} - 1$.
 > 2. L'arité de tous les nœuds internes de $t$ est 1 si et seulement si $h(t) + 1 = n(t)$.
@@ -191,6 +210,17 @@ Notations, pour un arbre $t$ : $h(t)$ sa hauteur, $n(t)$ son nombre de nœuds, $
 > 4. Si $t$ est un arbre complet, $i(t) = l(t) - 1$.
 
 Les démonstrations ne sont pas données.
+
+**Preuve de 1.** Encadrement de $n(t)$ pour un arbre non vide de hauteur $h$ : [[Complément hors du cours|ⓘ]]
+- minoration : une branche de longueur $h$ compte $h$ arêtes, donc $h + 1$ nœuds distincts, d'où $n(t) \ge h + 1$ ;
+- majoration : au niveau $k$, il y a au plus $2^k$ nœuds (chaque nœud du niveau $k - 1$ a au plus deux fils ; récurrence sur $k$). En sommant sur les niveaux $0$ à $h$ : $n(t) \le 1 + 2 + \dots + 2^h = 2^{h+1} - 1$ (somme d'une [[Suite géométrique|suite géométrique]]).
+- Les cas d'égalité donnent les propriétés 2 et 3 : $n = h + 1$ quand chaque niveau a exactement un nœud (arbre « filiforme », tous les nœuds internes d'arité 1) ; $n = 2^{h+1} - 1$ quand chaque niveau est plein (arbre parfait).
+
+**Conséquence importante.** En passant au logarithme dans $n \le 2^{h+1} - 1$ : $h \ge \log_2(n + 1) - 1$. Un arbre binaire de $n$ nœuds a donc une hauteur d'au moins $\lfloor \log_2 n \rfloor$ et d'au plus $n - 1$. C'est cette borne qui fixe le coût des opérations sur les [[Arbre binaire de recherche|ABR]] : un arbre « bien rempli » a une hauteur logarithmique, un arbre filiforme une hauteur linéaire. [[Complément hors du cours|ⓘ]]
+
+**Preuve de 4**, par récurrence (forte) sur la taille d'un arbre complet $t$ : [[Complément hors du cours|ⓘ]]
+- si $t$ est réduit à une feuille : $i(t) = 0$ et $l(t) = 1$, la relation est vraie ;
+- sinon, la racine est interne et, l'arbre étant complet, elle a deux sous-arbres non vides $l$ et $r$, eux-mêmes complets et plus petits. Les feuilles de $t$ sont celles de $l$ et de $r$, et ses nœuds internes sont la racine plus ceux de $l$ et de $r$ : $i(t) = 1 + i(l) + i(r) = 1 + (l(l) - 1) + (l(r) - 1) = l(l) + l(r) - 1 = l(t) - 1$.
 
 ## 6. Parcours en profondeur
 
@@ -215,9 +245,15 @@ Dans quel ordre les nœuds sont-ils traités ?
 | Infixe | 3 2 4 1 6 5 7 |
 | Postfixe | 3 4 2 6 7 5 1 |
 
+Chaque parcours traite chaque nœud une fois et fait un nombre constant d'appels par nœud (dont les appels sur les sous-arbres vides, au nombre de $n + 1$) : il est en $O(n)$. [[Complément hors du cours|ⓘ]]
+
+Le choix du parcours dépend du traitement : le **préfixe** traite un nœud avant ses descendants (copier ou afficher un arbre, comme une arborescence de fichiers) ; le **postfixe** traite un nœud après eux (calculer une hauteur ou une taille, qui dépendent de celles des sous-arbres ; libérer la mémoire de l'arbre) ; l'**infixe** donne les valeurs dans l'ordre croissant dans un [[Arbre binaire de recherche|ABR]] ([[5 - ABR]]). [[Complément hors du cours|ⓘ]]
+
+Le cours ne traite que les parcours en profondeur. Le **[[Parcours en largeur|parcours en largeur]]** visite l'arbre niveau par niveau, de gauche à droite : on part d'une [[Pile et file|file]] contenant la racine, puis, tant qu'elle n'est pas vide, on retire le premier nœud, on le traite et on ajoute ses fils (gauche puis droit) en fin de file. Sur l'arbre P2 : 1 2 5 3 4 6 7. Il n'est pas récursif. [[Complément hors du cours|ⓘ]]
+
 ## 7. Implémentation en Python
 
-Classe `ArbreBinaire` (indentation reconstituée) :
+Classe `ArbreBinaire` : [[Erreurs du cours#^e-4-arbres-binaires|✎]]
 
 ```python
 class ArbreBinaire:
@@ -323,7 +359,7 @@ print(hauteur(construit(A)))
 - **Postfixe** : chaque sommet est traité la dernière fois qu'on le rencontre. Ici : h, c, i, m, j, d, a, k, e, f, b, r.
 - **Infixe** : ici c, h, a, i, d, m, j, r, k, e, b, f.
 
-Écrire une fonction récursive pour chacun des parcours. Corrigé du cours (indentation et guillemets rétablis, voir « Erreurs du cours ») :
+Écrire une fonction récursive pour chacun des parcours. Corrigé du cours : [[Erreurs du cours#^e-4-arbres-binaires|✎]]
 
 ```python
 def parcoursPrefixe(arbre):
@@ -357,8 +393,3 @@ parcoursInfixe(construit(A))
 ## Liens
 
 Précédé de [[3 - Arbres]], suivi de [[5 - ABR]]. Voir aussi [[Récursivité]] et [[Arbre AVL]].
-
-## Erreurs du cours
-
-- [[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]], classe `ArbreBinaire` (p. 44-45, vérifié sur l'image) : écrit le code sans indentation et colle plusieurs instructions sur une ligne (« class ArbreBinaire: def __init__(self, valeur): self.valeur = valeur », « new_node = ArbreBinaire(valeur) new_node.enfant_droit = self.enfant_droit self.enfant_droit = new_node ») ; il faut une instruction par ligne, indentée, comme dans le code reconstitué de la section 7. Le code n'est pas exécutable tel quel.
-- [[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]], `parcoursPrefixe` (p. 62, vérifié sur l'image) : écrit `end = ',’` avec un guillemet fermant typographique ; il faut `end = ','` (erreur de syntaxe sinon). Sur la même page, `parcoursPostfixe` est écrit sans indentation.

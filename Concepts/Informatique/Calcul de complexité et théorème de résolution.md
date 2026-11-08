@@ -20,7 +20,7 @@ sources:
   - "[[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]"
   - "[[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]]"
   - "[[3 - complexité|chp3 - complexité]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Page du cours d'Algo de deuxième année sur le calcul de la complexité. La notion générale est dans [[Complexité algorithmique]] (cours de théorie des graphes), la comparaison des ordres de grandeur dans [[Comparaison asymptotique]].
@@ -34,7 +34,7 @@ Page du cours d'Algo de deuxième année sur le calcul de la complexité. La not
 **Classes** : constante, logarithmique, linéaire, quadratique, polynomiale $O(n^p)$, exponentielle $O(a^n)$.
 
 **Fonction récursive** : le coût est celui des appels, plus celui qui sépare les données et reconstruit le résultat.
-- Substitution : $T(n) = T(n-1) + b$ donne $O(n)$.
+- Substitution : $T(n) = T(n-1) + b$, avec $T(0) = c$, donne $T(n) = ib + T(n-i) = nb + T(0) = nb + c$, soit $O(n)$. [[Erreurs du cours#^e-calcul-de-complexite-et-theoreme-de-resolution|✎]]
 - Forme [[Diviser pour régner|diviser pour régner]] (Master Theorem) : $T(n) = a\,T(n/b) + f(n)$ avec $f(n) = c\,n^k$. On a $O(n^{\log_b a})$ si $a > b^k$, $O(n^k \log_b n)$ si $a = b^k$, $O(n^k)$ si $a < b^k$.
 
 **En théorie des graphes** (quatrième année) : la complexité d'un algorithme récursif est une suite définie par récurrence. Factorielle récursive : $T(n) = T(n-1) + 3$, donc $3n + 1$, en $\Theta(n)$. [[Tours de Hanoï]] : $T(n) = 2T(n-1) + 1$, $T(1) = 1$, donc $\sum_{k=0}^{n-1} 2^k$, en $\Theta(2^n)$.
@@ -42,9 +42,5 @@ Page du cours d'Algo de deuxième année sur le calcul de la complexité. La not
 **Arbres AVL** : `ajouter` coûte $O(h)$, et la hauteur $h$ est en $O(\log n)$ si l'arbre est équilibré.
 
 Notion parente : [[Complexité algorithmique]]. Voir aussi : [[Récursivité]], [[Recherche dichotomique]], [[Diviser pour régner]], [[Tours de Hanoï]], [[Arbre AVL]]
-
-## Erreurs du cours
-
-- [[1 - récursivité et complexité|Chp1 - récursivité et complexité]] (substitution, avec $T(0) = c$) écrit « $= ib + [b + T(n-i+1)]$ » puis « $=(n-1)b + T(1) = nb - b + c$ » ; il faut « $ib + [b + T(n-i-1)]$ » puis « $T(n) = nb + T(0) = nb + c$ », puisque $T(1) = b + c$ et non $c$. La conclusion $O(n)$ reste juste.
 
 Résumés : [[1 - récursivité et complexité]], [[3 - complexité]]

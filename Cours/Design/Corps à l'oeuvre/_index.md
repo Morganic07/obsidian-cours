@@ -6,10 +6,10 @@ tags:
 sources:
   - "[[1 - corps à l'oeuvre|corps à l'oeuvre - cours]]"
   - "[[2 - corps à l'oeuvre|Dernier cours (Corps à l'oeuvre)]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
-Matière suivie sur plusieurs années (Year 1, Year 2) : une section par année.
+Matière suivie sur plusieurs années (Year 1, Year 2) : une section par année. Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## Year 1
 

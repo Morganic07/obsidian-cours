@@ -2,12 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 10 : linear regression.docx|Cours 10 - linear regression]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 10 : linear regression.docx|Cours 10 - linear regression]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 10 : linear regression.docx|Cours 10 - linear regression]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]].
 ## Idée générale
 
 Régression linéaire simple : modèle, ajustement par les [[Moindres carrés|moindres carrés]], décomposition de la variation, conditions de validité vérifiées sur les résidus, test de la pente. Voir [[Régression linéaire]].
@@ -19,6 +19,8 @@ Les modèles probabilistes se divisent en **modèles de régression** (*regressi
 ![[Séance 10 - linear regression - image25.png]]
 
 *Figure : les modèles probabilistes, divisés en modèles de régression et de corrélation.*
+
+La différence tient au rôle des variables. Dans un **modèle de régression**, $x$ est traitée comme fixée (souvent choisie ou contrôlée, comme la dose d'engrais), et l'on modélise $y$ en fonction d'elle pour la prédire : les deux variables ne jouent pas le même rôle. Dans un **modèle de corrélation**, $x$ et $y$ sont deux variables aléatoires mesurées ensemble, au même titre l'une que l'autre, et l'on mesure seulement la force de leur lien ([[Covariance et corrélation]]), sans désigner de variable à expliquer. [[Complément hors du cours|ⓘ]]
 
 ## Quatuor d'Anscombe (*Anscombe's quartet*)
 
@@ -50,7 +52,7 @@ Pour chaque jeu : moyenne de $x$ = 9, moyenne de $y$ = 7,50, variance de $x$ = 1
 Les quatre jeux ont aussi la **même droite de régression**, mais chacun raconte une histoire différente :
 
 - **Jeu I** : modèle linéaire propre et bien ajusté.
-- **Jeu II** : « n'est pas distribué normalement » (selon le cours) ; les points suivent une courbe parabolique.
+- **Jeu II** : « n'est pas distribué normalement » ; les points suivent une courbe parabolique.
 - **Jeu III** : la distribution est linéaire, mais la régression calculée est faussée par une [[Quartiles et valeurs aberrantes|valeur aberrante]] (*outlier*).
 - **Jeu IV** : une seule valeur aberrante suffit à produire un coefficient de corrélation élevé (tous les points sont à $x = 8$ sauf un à $x = 19$).
 
@@ -125,10 +127,14 @@ $$f(b,m) = [1-(b+m)]^2 + [1-(b+2m)]^2 + [3-(b+3m)]^2$$
 
 On cherche les points critiques ([[Dérivée partielle]], [[Extremum local d'une fonction de deux variables]]) :
 
-- $\dfrac{\partial f}{\partial b} = f_b(b,m) = -10 + 6b + 12m = 0$ (le cours écrit « $+12$ », voir « Erreurs du cours ») ;
+- $\dfrac{\partial f}{\partial b} = f_b(b,m) = -10 + 6b + 12m = 0$ ; [[Erreurs du cours#^e-10-linear-regression|✎]]
 - $\dfrac{\partial f}{\partial m} = f_m(b,m) = -24 + 12b + 28m = 0$.
 
 D'où $(b,m) = \left(-\dfrac{1}{3}, 1\right)$.
+
+Le calcul : $f_b = -2[(1-b-m) + (1-b-2m) + (3-b-3m)] = -2(5 - 3b - 6m)$, et $f_m = -2[(1-b-m) + 2(1-b-2m) + 3(3-b-3m)] = -2(12 - 6b - 14m)$. La première équation donne $b = \dfrac{5 - 6m}{3}$ ; en la reportant dans la seconde, $-24 + 4(5 - 6m) + 28m = 0$, soit $4m - 4 = 0$, donc $m = 1$ et $b = -\dfrac{1}{3}$. [[Complément hors du cours|ⓘ]]
+
+Les dérivées secondes valent $f_{bb} = 6$, $f_{mm} = 28$ et $f_{bm} = 12$, d'où $D = 6 \times 28 - 12^2 = 168 - 144 = 24$. [[Complément hors du cours|ⓘ]]
 
 $D = f_{bb} f_{mm} - (f_{bm})^2 = 24 > 0$ (théorème de calcul multivariable / analyse dans $\mathbb{R}^n$) et $f_{bb} = 6 > 0$ : **minimum local**. Le graphe de $f$ est une « cuvette parabolique » (*parabolic bowl*), donc ce minimum local est aussi le **minimum global**.
 
@@ -144,6 +150,14 @@ $$\hat{\beta}_1 = \frac{SS_{xy}}{SS_{xx}} = \frac{\sum_{i=1}^{n} x_i y_i - \dfra
 
 **Ordonnée à l'origine** : $\hat{\beta}_0 = \bar{y} - \hat{\beta}_1 \bar{x}$.
 
+Ces formules viennent de la même méthode que l'exemple précédent, appliquée à $n$ points quelconques. Annuler les deux dérivées partielles de $\sum (y_i - \beta_0 - \beta_1 x_i)^2$ donne les **équations normales** ([[Moindres carrés]]) : [[Complément hors du cours|ⓘ]]
+
+$$\sum y_i = n\hat{\beta}_0 + \hat{\beta}_1 \sum x_i \qquad \sum x_i y_i = \hat{\beta}_0 \sum x_i + \hat{\beta}_1 \sum x_i^2$$
+
+La première, divisée par $n$, donne $\bar{y} = \hat{\beta}_0 + \hat{\beta}_1 \bar{x}$ : la droite des moindres carrés **passe toujours par le point moyen** $(\bar{x}, \bar{y})$, d'où la formule de $\hat{\beta}_0$. En reportant dans la seconde, on obtient $\hat{\beta}_1 = SS_{xy}/SS_{xx}$. Sur les trois points $(1,1)$, $(2,1)$, $(3,3)$ : $SS_{xy} = 12 - \frac{6 \times 5}{3} = 2$, $SS_{xx} = 14 - \frac{6^2}{3} = 2$, donc $\hat{\beta}_1 = 1$ et $\hat{\beta}_0 = \frac{5}{3} - 2 = -\frac{1}{3}$, comme par les dérivées partielles. [[Complément hors du cours|ⓘ]]
+
+Formes équivalentes de la pente : $SS_{xy} = \sum (x_i - \bar{x})(y_i - \bar{y})$ et $SS_{xx} = \sum (x_i - \bar{x})^2$, d'où $\hat{\beta}_1 = \dfrac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2} = r \dfrac{s_y}{s_x}$, avec $r$ le coefficient de corrélation et $s_x$, $s_y$ les écarts-types ([[Covariance et corrélation]]). La pente a donc toujours le signe de la corrélation. [[Complément hors du cours|ⓘ]]
+
 ### Exemple : engrais et rendement
 
 Économiste d'une coopérative de comté, on recueille ces données ; trouver la droite des moindres carrés reliant le rendement (*yield*) à l'engrais (*fertilizer*).
@@ -158,7 +172,7 @@ $$\hat{\beta}_1 = \frac{SS_{xy}}{SS_{xx}} = \frac{\sum_{i=1}^{n} x_i y_i - \dfra
 
 ![[Séance 10 - linear regression - image16.png]]![[Séance 10 - linear regression - image26.png]]
 
-*Figure : nuage des 4 observations (rendement croissant avec l'engrais), puis la droite ajustée $\hat{y} = 0{,}8 + 0{,}65x$.*
+*Figure : nuage des 4 observations (rendement croissant avec l'engrais ; les points du dessin sont placés approximativement, les valeurs exactes sont celles du tableau), puis la droite ajustée $\hat{y} = 0{,}8 + 0{,}65x$.* [[Erreurs du cours#^e-10-linear-regression|✎]]
 
 $$\hat{\beta}_1 = \frac{218 - \frac{(32)(24)}{4}}{296 - \frac{(32)^2}{4}} = 0{,}65 \qquad \hat{\beta}_0 = 6 - (0{,}65)(8) = 0{,}80$$
 
@@ -169,12 +183,20 @@ Interprétation :
 1. **Pente** : le rendement devrait augmenter de 0,65 kg pour chaque kg d'engrais supplémentaire.
 2. **Ordonnée à l'origine** : le rendement moyen attendu est 0,8 kg sans engrais.
 
+Détail du calcul : $SS_{xy} = 218 - 192 = 26$, $SS_{xx} = 296 - 256 = 40$, $\hat{\beta}_1 = 26/40 = 0{,}65$ ; $\bar{x} = 32/4 = 8$ et $\bar{y} = 24/4 = 6$. [[Complément hors du cours|ⓘ]]
+
+L'interprétation de l'ordonnée à l'origine demande de la prudence : $x = 0$ est hors de la plage observée (4 à 12 kg), et rien ne garantit que la relation reste linéaire en dehors. Prédire hors de la plage des données s'appelle **extrapoler** ; l'ordonnée à l'origine n'a souvent qu'un rôle de calcul. [[Complément hors du cours|ⓘ]]
+
 ## Hypothèses sur l'erreur
 
 I. La loi de probabilité de l'erreur $\varepsilon$ a une moyenne nulle.
 II. Elle a une variance constante.
 III. Elle est normale.
 IV. Les erreurs sont indépendantes.
+
+Résumées en une ligne : les $\varepsilon_i$ sont indépendantes et de même loi $N(0, \sigma^2)$, où $\sigma^2$ est inconnue. S'y ajoute une hypothèse implicite : la relation entre $E(y)$ et $x$ est bien linéaire. [[Complément hors du cours|ⓘ]]
+
+Toutes ne servent pas au même endroit. Avec les hypothèses I, II et IV (il suffit même d'erreurs non corrélées), les estimateurs des moindres carrés sont sans biais et, d'après le [[Théorème de Gauss-Markov]], de variance minimale parmi les [[Estimateur|estimateurs]] linéaires sans biais. La normalité (III) n'est nécessaire que pour les tests $t$ et $F$ et les intervalles de confiance, et pèse surtout sur les petits échantillons. [[Complément hors du cours|ⓘ]]
 
 ## Erreur standard de la régression
 
@@ -200,7 +222,11 @@ Voir [[Somme des carrés (SST, SSR, SSE)]].
 - Somme expliquée (SSR) : $\sum (\hat{y}_i - \bar{y})^2$ ;
 - Somme non expliquée (SSE) : $\sum (y_i - \hat{y}_i)^2$.
 
+Les trois sommes sont liées par $SST = SSR + SSE$ : la variation totale se partage exactement entre une part expliquée par la droite et une part résiduelle. Le rapport $SSR/SST$ est le [[Coefficient de détermination|coefficient de détermination]] $R^2$, part de la variation de $y$ expliquée par $x$. [[Complément hors du cours|ⓘ]]
+
 $$s^2 = \frac{SSE}{n-2} \qquad s = \sqrt{s^2} = \sqrt{\frac{SSE}{n-2}}$$
+
+On divise par $n - 2$ et non par $n$ parce que deux paramètres, $\beta_0$ et $\beta_1$, ont été estimés sur les mêmes données : il reste $n - 2$ degrés de liberté. Avec ce dénominateur, $s^2$ est un estimateur sans biais de la variance $\sigma^2$ des erreurs. [[Complément hors du cours|ⓘ]]
 
 ## Résidus
 
@@ -213,6 +239,10 @@ Le **[[Résidu (régression)|résidu]]** de l'observation $i$ est l'écart entre
 - **[[Loi normale|normalité]]** ;
 - **variance constante** pour tous les niveaux de $X$ ([[Homoscédasticité|homoscédasticité]]).
 
+Les résidus ne sont pas les erreurs $\varepsilon_i$ (inconnues), mais leurs estimations. Ils ont deux propriétés automatiques dès que le modèle a une ordonnée à l'origine : $\sum e_i = 0$ et $\sum x_i e_i = 0$ (ce sont les équations normales). Leur moyenne nulle ne prouve donc rien ; ce sont les **motifs** dans leur graphique qui renseignent. [[Complément hors du cours|ⓘ]]
+
+En R, `m <- lm(y ~ x)` ajuste le modèle, `residuals(m)` donne les résidus et `plot(m)` trace les graphiques de diagnostic usuels : résidus contre valeurs ajustées (linéarité, variance constante), diagramme quantile-quantile normal (normalité), et repérage des points influents. [[Complément hors du cours|ⓘ]]
+
 ### Linéarité
 
 ![[Séance 10 - linear regression - image13.png]]
@@ -224,6 +254,8 @@ Le **[[Résidu (régression)|résidu]]** de l'observation $i$ est l'écart entre
 ![[Séance 10 - linear regression - image9.png]]
 
 *Figure : résidus non indépendants (bande montante, bande ondulante) contre indépendants (dispersion aléatoire autour de zéro).*
+
+Le défaut d'indépendance se rencontre surtout quand les observations sont rangées dans le temps ([[Série temporelle|séries temporelles]]) : un résidu positif tend à être suivi d'un autre résidu positif (autocorrélation). On trace alors les résidus dans l'ordre des observations. [[Complément hors du cours|ⓘ]]
 
 ### Normalité
 
@@ -238,6 +270,8 @@ Sur un [[Diagramme de probabilité|diagramme de probabilité normale]], des erre
 ![[Séance 10 - linear regression - image21.png]]
 
 *Figure : variance non constante (dispersion en entonnoir) contre variance constante (bande de largeur fixe).*
+
+Une variance qui croît avec le niveau de $y$ (l'entonnoir) se corrige souvent en transformant la réponse, par exemple en modélisant $\log y$ au lieu de $y$ ([[Transformation puissance]]). [[Complément hors du cours|ⓘ]]
 
 ## Test de significativité : test de la pente
 
@@ -270,6 +304,8 @@ Elle suit une [[Loi de Student]] ([[Test t]]).
 
 Analyste marketing d'une entreprise de jouets, on trouve $\hat{\beta}_0 = -0{,}1$, $\hat{\beta}_1 = 0{,}7$ et $s = 0{,}6055$ (écart-type d'échantillon de $\hat{\varepsilon}$). La relation est-elle **significative** au [[Seuil de signification|seuil]] 0,05 ?
 
+D'où viennent ces valeurs : $SS_{xy} = 37 - \frac{15 \times 10}{5} = 7$ et $SS_{xx} = 55 - \frac{15^2}{5} = 10$, donc $\hat{\beta}_1 = 0{,}7$ et $\hat{\beta}_0 = 2 - 0{,}7 \times 3 = -0{,}1$. Les valeurs prédites $\hat{y} = -0{,}1 + 0{,}7x$ sont 0,6 ; 1,3 ; 2,0 ; 2,7 ; 3,4, les résidus 0,4 ; −0,3 ; 0 ; −0,7 ; 0,6, d'où $SSE = 0{,}16 + 0{,}09 + 0 + 0{,}49 + 0{,}36 = 1{,}1$ et $s = \sqrt{1{,}1/3} \approx 0{,}6055$. [[Complément hors du cours|ⓘ]]
+
 | $x_i$ (pub, \$) | $y_i$ (ventes, unités) | $x_i^2$ | $y_i^2$ | $x_i y_i$ |
 |---|---|---|---|---|
 | 1 | 1 | 1 | 1 | 1 |
@@ -292,7 +328,10 @@ $$S_{\hat{\beta}_1} = \frac{s}{\sqrt{SS_{xx}}} = \frac{0{,}6055}{\sqrt{55 - \fra
 **Décision** : $3{,}657 > 3{,}182$, on rejette $H_0$ au seuil 0,05.
 **Conclusion** : il y a une preuve de relation (linéaire) entre publicité et ventes.
 
-## Erreurs du cours
+La p-value bilatérale vaut environ 0,035 (probabilité qu'une loi de Student à 3 degrés de liberté dépasse 3,657 en valeur absolue) : elle est inférieure à 0,05, ce qui conduit à la même décision. [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 3/Data analysis (Thanos)/Cours 10 : linear regression.docx|Cours 10 - linear regression]] écrit « $f_b(b,m) = \dots = -10 + 6b + 12 = 0$ » (vérifié sur l'image) ; il faut « $-10 + 6b + 12m = 0$ ». Le résultat $(b,m) = (-\frac13, 1)$ est juste.
-- [[Raw/Year 3/Data analysis (Thanos)/Cours 10 : linear regression.docx|Cours 10 - linear regression]] place, dans le graphique de l'exemple engrais, des points (rendements d'environ 3,7 ; 6,5 ; 7 ; 9,4) qui ne correspondent pas au tableau (3,0 ; 5,5 ; 6,5 ; 9,0) (vérifié sur l'image). Les calculs suivent le tableau et sont justes.
+On peut aussi donner un [[Intervalle de confiance|intervalle de confiance]] pour la pente, $\hat{\beta}_1 \pm t_{\alpha/2}\, S_{\hat{\beta}_1}$ : ici $0{,}7 \pm 3{,}182 \times 0{,}1914$, soit environ $[0{,}09 ; 1{,}31]$. Il ne contient pas 0, ce qui équivaut au rejet de $H_0$ au seuil 0,05, et il dit en plus de combien les ventes augmentent plausiblement par dollar de publicité. [[Complément hors du cours|ⓘ]]
+
+« Relation significative » ne veut pas dire « relation causale » : la régression établit une association, et seule une expérience contrôlée (ou des arguments extérieurs aux données) permet de conclure que la publicité *cause* les ventes ([[Corrélation et causalité]]). [[Complément hors du cours|ⓘ]]
+
+En régression simple, ce test $t$ équivaut au test F global : $F = \dfrac{SSR/1}{SSE/(n-2)} = t^2$. Ici $SST = 26 - \frac{10^2}{5} = 6$, $SSR = 6 - 1{,}1 = 4{,}9$, d'où $F = \frac{4{,}9}{1{,}1/3} \approx 13{,}36 \approx 3{,}657^2$, et $R^2 = 4{,}9/6 \approx 0{,}82$ ([[Statistique F]], [[11 - Multiple Linear Regression and F-statistic|séance 11]]). [[Complément hors du cours|ⓘ]]

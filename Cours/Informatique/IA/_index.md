@@ -4,7 +4,7 @@ tags:
   - year3
 sources:
   - "[[1 - IA|Cours 1 (IA)]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, énergie, positionnement politique et droit d'auteur. Une seule note, intégrée. Les chiffres et noms d'outils datent de 2025.
@@ -23,10 +23,13 @@ Cours d'introduction à l'IA, orienté usages : histoire, prompts, outils, éner
 - **Usages et génération** : [[Prompt (IA)]], [[Token (IA)]], [[Modèle d'IA propriétaire ou ouvert]], [[Deepfake]], [[IA malveillante]]
 - **Énergie et matériel** : [[Consommation énergétique de l'IA]], [[Entraînement et inférence]], [[TPU]], [[Petit réacteur modulaire]]
 - **Politique et droit** : [[Biais politique des IA]], [[Droit d'auteur et IA]], [[Domaine public]]
+- **Ajoutés par l'enrichissement** : [[Processeur graphique]], [[Grand modèle de langage]], [[JSON]], [[Hiver de l'IA]], [[Apprentissage par renforcement à partir de retours humains]], [[Règlement européen sur l'IA]]
+
+Les fiches sont enrichies de compléments hors du cours, marqués ⓘ.
 
 ## À revoir en priorité avant un examen
 
-- [[1 - IA|Cours 1 (IA)]] : « les IA reposent sur des TPU et non des GPU » est inexact ; le classement de Google parmi les « open source » est à nuancer ; les consommations d'énergie de GPT-4, GPT-5 et Claude 3.5 sont des estimations sans source.
+- [[1 - IA|Cours 1 (IA)]] : les consommations d'énergie de GPT-4, GPT-5 et Claude 3.5 sont des estimations sans source.
 
 ## Liens avec les autres matières
 

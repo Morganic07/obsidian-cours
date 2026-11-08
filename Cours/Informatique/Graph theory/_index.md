@@ -8,7 +8,7 @@ sources:
   - "[[3 - complexité|chp3 - complexité]]"
   - "[[4 - oriented graphs|chp4 - oriented graphs]]"
   - "[[0 - Graph - Python|Graph - Python]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Théorie des graphes : graphes non orientés, arbres, complexité des algorithmes, graphes orientés, et un TP Python. Les 5 notes sont intégrées. Cours en anglais, sauf le chapitre de complexité en français.
@@ -30,11 +30,14 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 - **Complexité (chapitre 3)** : [[Complexité algorithmique]], [[Classe de complexité]], [[Calcul de complexité et théorème de résolution]], [[Recherche séquentielle]], [[Recherche dichotomique]], [[Tri par sélection]], [[Tri par insertion]], [[Produit matriciel]], [[Tours de Hanoï]]
 - **Graphes orientés (chapitre 4)** : [[Graphe orienté]], [[Chemin (graphe)]], [[Parcours en profondeur]], [[Parcours en largeur]], [[Composante fortement connexe]], [[Algorithme de Tarjan]]
 - **TP Python** : [[Dictionnaire (Python)]], [[Union-Find]]
+- **Ajoutés par l'enrichissement** : [[Lemme des poignées de main]], [[Liste d'adjacence]], [[Graphe eulérien]], [[Algorithme de Prim]], [[Table de hachage]], [[Classes P et NP]], [[Tri topologique]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[3 - complexité]] : l'algorithme D en $O(m \cdot n)$ est noté « linéaire » ; `somme_1` et `somme_2` ne calculent pas la même somme.
-- [[1 - Undirected graph]] : la note « 2 noeuds minimum » pour un graphe biparti contredit la définition.
+- [[3 - complexité]] : $O(m \cdot n)$ n'est pas linéaire (quadratique si $m = n$) ; avec `range(n)`, `somme_1` calcule $0 + \ldots + (n-1)$, alors que `somme_2` calcule $1 + \ldots + n$.
+- [[1 - Undirected graph]] : un graphe biparti demande deux parties non vides ; une arête seule ($K_{1,1}$) suffit.
 
 ## Liens avec les autres matières
 

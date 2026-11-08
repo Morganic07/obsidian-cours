@@ -10,7 +10,7 @@ sources:
   - "[[5 - Algèbre linéaire|chp5 (Algèbre)]]"
   - "[[6 - Algèbre linéaire|chp6 (Algèbre)]]"
   - "[[7 - Algèbre linéaire|chp7 (Algèbre)]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Algèbre linéaire de 1re année, en français et centrée sur les applications linéaires. [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]] reprend les mêmes notions en anglais, à partir des matrices. Les 7 notes sont intégrées.
@@ -35,6 +35,9 @@ Algèbre linéaire de 1re année, en français et centrée sur les applications 
 - **Matrices (chp4 et chp5)** : [[Matrice]], [[Matrice d'une application linéaire]], [[Produit matriciel]], [[Transposée]], [[Matrice inversible]], [[Changement de base]]
 - **Déterminant (chp5 et chp6)** : [[Forme multilinéaire alternée]], [[Déterminant]]
 - **Éléments propres (chp7)** : [[Valeur propre]], [[Vecteur propre]], [[Spectre (algèbre linéaire)]], [[Espace propre]], [[Somme directe]]
+- **Ajoutés par l'enrichissement** : [[Projecteur]], [[Matrices semblables]], [[Règle de Sarrus]], [[Théorème de Cayley-Hamilton]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 [[Morphisme]], [[Changement de base]] et [[Somme directe]] sont propres à cette matière. La plupart des autres sont communs avec [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]].
 
@@ -57,8 +60,8 @@ Attention aux tailles : ce cours note une matrice $n \times p$, avec $n$ lignes,
 
 ## À revoir en priorité avant un examen
 
-- [[Cours/Mathématiques/Algèbre linéaire/2 - Algèbre linéaire|chp2]] : « dim E = dim F ⇒ f bijective » est faux tel quel, et l'ordre de $(f \circ g)^{-1}$ est inversé.
-- [[7 - Algèbre linéaire|chp7]] : la définition parle d'un vecteur « nul », il faut lire « non nul ».
+- [[Cours/Mathématiques/Algèbre linéaire/2 - Algèbre linéaire|chp2]] : si $\dim E = \dim F$ (finie), $f$ injective $\iff$ $f$ surjective $\iff$ $f$ bijective, mais l'égalité des dimensions seule ne rend pas $f$ bijective ; $(f \circ g)^{-1} = g^{-1} \circ f^{-1}$.
+- [[7 - Algèbre linéaire|chp7]] : un vecteur propre est non nul par définition, alors qu'une valeur propre peut être nulle.
 
 ## Contenu manquant
 

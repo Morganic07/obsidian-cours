@@ -4,7 +4,7 @@ tags:
   - year1
 sources:
   - "[[1 - HDA|Cours HDA]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 HDA (histoire du design et des arts) de 1re année. Une seule note présente, très courte.
@@ -18,6 +18,9 @@ HDA (histoire du design et des arts) de 1re année. Une seule note présente, tr
 ## Concepts
 
 - **Art textile kuna** : [[Mola]]
+- **Ajoutés par l'enrichissement** : [[Appropriation culturelle]]
+
+La fiche est enrichie de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité
 

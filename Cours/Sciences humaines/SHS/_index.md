@@ -8,7 +8,7 @@ sources:
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
   - "Synthese SHS GPT, dans Raw/Year 3/SHS/Entretiens (exclu du miroir)"
   - "[[3 - Prise de note|Prise de note SHS]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Matière suivie sur plusieurs années (Year 2, Year 3, Year 4) : une section par année.
@@ -67,6 +67,9 @@ Cours magistral et trois textes de lecture de l'enseignant et de ses référence
 - **Approche historique (text2)** : [[Voiture autonome]], [[Fantastique (Todorov)]], [[Interaction homme-machine]]
 - **Approche sociologique (text3)** : [[Caractérologie des véhicules]], [[Concurrence pour l'espace]], [[Ethos de classe]]
 - **Écologie dans les entretiens** : [[Sobriété]], [[Manifeste pour le vivant]]
+- **Ajoutés par l'enrichissement** : [[Représentation sociale]], [[Prospective]], [[Rétrofuturisme]], [[Non-lieu]], [[Consommation ostentatoire]], [[Saturation des données]], [[Société disciplinaire]], [[Hégémonie culturelle]], [[Niveaux d'automatisation de la conduite]], [[Dilemme du tramway]], [[Vallée de l'étrange]], [[Tragédie des communs]], [[Habitus]], [[Hexis corporelle]], [[Hystérésis de l'habitus]], [[Capital culturel]]
+
+Les fiches de Year 3 sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 La matière est avant tout une méthode d'enquête (entretiens semi-directifs, archétypes). Les thèmes de mobilité et d'écologie sont repris dans [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]].
 

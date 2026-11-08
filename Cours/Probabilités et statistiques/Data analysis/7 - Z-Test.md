@@ -2,12 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]].
 ## Idée générale
 
 Panorama des tests d'hypothèse (paramétriques ou non, appariés ou indépendants), puis le test $Z$ sur une proportion, avec un échantillon et avec deux.
@@ -31,6 +31,7 @@ Panorama des tests d'hypothèse (paramétriques ou non, appariés ou indépendan
 - Les tests n'expliquent pas **pourquoi** une différence existe ; ils indiquent seulement si elle vient, par exemple, des fluctuations d'[[Échantillonnage|échantillonnage]] ou d'autres causes.
 - Les tests reposent sur des probabilités : on ne peut pas les interpréter avec une certitude complète.
 - Les inférences tirées de tests de significativité ne sont pas des preuves entièrement correctes de la vérité de l'hypothèse.
+- Ne pas rejeter $H_0$ ne prouve pas qu'elle est vraie : le test peut simplement manquer de **[[Puissance d'un test|puissance]]**, c'est-à-dire de capacité à détecter un effet réel. La puissance vaut $1 - \beta$, où $\beta$ est le risque d'[[Erreur de type I et de type II|erreur de type II]] ; elle augmente avec la taille de l'échantillon, avec l'ampleur de l'effet cherché et avec $\alpha$. On fixe souvent l'effectif d'une étude pour atteindre une puissance de 80 %. [[Complément hors du cours|ⓘ]]
 
 ## Tests paramétriques et non paramétriques
 
@@ -38,6 +39,8 @@ Les tests statistiques permettent de **généraliser** à la population à parti
 
 - **Test paramétrique** : il **dispose d'information sur le [[Paramètre et statistique|paramètre de la population]]** ; on utilise souvent un test $t$ fondé sur la statistique de Student. Exemple : l'hypothèse « la **moyenne** de la population vaut 15 » est paramétrique.
 - **Test non paramétrique** : le chercheur **n'a aucune idée du paramètre de la population** et ne veut pas supposer que les données viennent d'une [[Loi normale|loi gaussienne]].
+
+Plus précisément, un test paramétrique suppose que les données suivent une famille de lois connue (le plus souvent normale), entièrement décrite par quelques paramètres ($\mu$, $\sigma$, $p$), et teste une hypothèse sur ces paramètres. Un test non paramétrique ne fait pas d'hypothèse sur la forme de la loi : il travaille sur les **rangs**, les **signes** ou des **effectifs** (khi-deux). Il convient aux petits échantillons non normaux, aux variables ordinales et aux valeurs aberrantes ; en contrepartie, quand les conditions d'un test paramétrique sont remplies, il est un peu moins puissant (il détecte moins souvent un effet réel). [[Complément hors du cours|ⓘ]]
 
 ![[Séance 7 - Z-Test - image4.png]]
 
@@ -64,8 +67,10 @@ Une étude peut produire des mesures **appariées** (*paired*) ou totalement **i
 
 Exemple : effet d'un traitement médical sur le taux d'insuline. Deux plans d'expérience possibles :
 
-- le taux d'insuline est mesuré sur 30 patients **avant et après** le traitement : les données sont organisées **par paires** (chaque patient a deux mesures). La diapositive conseille un « **two-sample t-test** » (il faut un test $t$ apparié, voir « Erreurs du cours ») ;
+- le taux d'insuline est mesuré sur 30 patients **avant et après** le traitement : les données sont organisées **par paires** (chaque patient a deux mesures). le test adapté est un test $t$ **apparié** (*paired t test*) ; [[Erreurs du cours#^e-7-z-test|✎]]
 - le taux est mesuré sur 30 patients sous placebo et 30 **autres** sous traitement : toutes les mesures sont **indépendantes** → test $t$ **à deux groupes indépendants**.
+
+Le test $t$ apparié se ramène à un test à un échantillon sur les 30 différences « après − avant » (formule dans [[6 - T-Test]]). L'erreur à éviter est de traiter des mesures appariées comme indépendantes : on ignore alors que chaque patient sert de témoin à lui-même, et le test perd beaucoup de puissance. [[Complément hors du cours|ⓘ]]
 
 ## Procédure du test d'hypothèse
 
@@ -78,6 +83,10 @@ Exemple : effet d'un traitement médical sur le taux d'insuline. Deux plans d'ex
 3. Identifier la statistique de test.
 4. Formuler une règle de décision.
 5. Prendre un échantillon et décider : **ne pas rejeter $H_0$**, ou **rejeter $H_0$ et accepter $H_1$**.
+
+La règle de décision de l'étape 4 s'écrit de deux façons équivalentes : comparer la statistique à la [[Valeur critique|valeur critique]], ou comparer la [[P-value|p-value]] à $\alpha$ (rejet si $p \leq \alpha$). Les logiciels donnent la p-value, qui dit aussi de combien on est loin du seuil. [[Complément hors du cours|ⓘ]]
+
+Le test $Z$ le plus simple porte sur une **moyenne**, quand $\sigma$ est connu (ou $n$ grand, $\sigma$ étant alors remplacé par $s$) : $Z = \dfrac{\bar X - \mu_0}{\sigma/\sqrt n}$, comparé aux valeurs critiques de la loi normale ($\pm 1{,}96$ à 5 % bilatéral, $1{,}645$ à 5 % unilatéral). C'est le cas limite du [[6 - T-Test|test t]] quand les degrés de liberté deviennent grands. Le cours l'applique ensuite aux proportions. [[Complément hors du cours|ⓘ]]
 
 ## Test Z sur une proportion (un échantillon)
 
@@ -92,6 +101,8 @@ avec $P_s$ la proportion d'échantillon et $P$ la proportion de l'hypothèse (an
 **Intervalle de confiance** à $(1-\alpha)$ % de $P$ (test bilatéral, donc $Z_{\alpha/2}$) :
 
 $$IC = \hat{p} \pm Z_{\alpha/2} \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$$
+
+Les deux erreurs standard ne sont pas les mêmes, et c'est voulu : dans le **test**, on raisonne sous $H_0$, donc on calcule l'écart-type avec la proportion supposée $P$ ; dans l'**intervalle**, on n'a pas d'hypothèse, donc on l'estime avec la proportion observée $\hat p = P_s$. [[Complément hors du cours|ⓘ]]
 
 ### Exemple : la politicienne a-t-elle menti ?
 
@@ -113,6 +124,10 @@ $$0{,}50 \pm 1{,}96\sqrt{\frac{(0{,}50)(0{,}50)}{100}} = 0{,}50 \pm 0{,}10 \qqua
 
 Réponse : $0{,}40 \leftrightarrow 0{,}60$. On a 95 % de confiance que l'intervalle de 0,40 à 0,60 contienne la **vraie proportion** $P$ de démocrates. (Le cours ne calcule pas la statistique $Z$.)
 
+Calcul de la statistique pour (a) : conditions vérifiées ($nP = 70$ et $n(1-P) = 30$, tous deux $\geq 5$), puis
+$$Z = \frac{0{,}50 - 0{,}70}{\sqrt{\dfrac{0{,}70 \times 0{,}30}{100}}} = \frac{-0{,}20}{0{,}0458} \approx -4{,}36$$
+$-4{,}36 < -1{,}96$ : on **rejette $H_0$** ($p \approx 0{,}00001$), l'affirmation de 70 % n'est pas crédible. C'est cohérent avec (b) : 0,70 est hors de l'intervalle $[0{,}40 ;\ 0{,}60]$. [[Complément hors du cours|ⓘ]]
+
 ## Test Z à deux échantillons pour des proportions
 
 - On cherche à savoir si **l'écart observé entre deux proportions est statistiquement significatif ou n'est qu'une [[Erreur d'échantillonnage|erreur d'échantillonnage]]**.
@@ -130,6 +145,10 @@ $$Z = \frac{P_{s1} - P_{s2}}{\sqrt{\bar{p}(1-\bar{p})\left(\dfrac{1}{n_1} + \dfr
 - $\bar{p}$ : estimation **commune** (*pooled* : mise en commun, regroupée) de la proportion :
 $$\bar{p} = \frac{X_1+X_2}{n_1+n_2}$$
 
-## Erreurs du cours
+La proportion est mise en commun parce que, sous $H_0 : P_1 = P_2$, les deux échantillons estiment la **même** proportion : la réunion des deux donne la meilleure estimation, comme la variance commune du [[6 - T-Test|test t]] à deux échantillons. [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 3/Data analysis (Thanos)/Cours 7 : Z-Test.docx|Cours 7 - Z-Test]] écrit, pour des mesures avant/après sur les mêmes 30 patients, « an appropriate test … would be a two-sample t-test » (vérifié sur l'image) ; il faut un test $t$ **apparié** (*paired t test*), comme le donne l'organigramme du même cours pour des échantillons appariés.
+Exemple chiffré : une machine A produit 12 pièces défectueuses sur 200, une machine B 25 sur 250. $P_{s1} = 0{,}06$, $P_{s2} = 0{,}10$, $\bar p = \dfrac{37}{450} \approx 0{,}082$ ; l'erreur standard vaut $\sqrt{0{,}082 \times 0{,}918 \left(\frac{1}{200} + \frac{1}{250}\right)} \approx 0{,}026$, d'où $Z = \dfrac{0{,}06 - 0{,}10}{0{,}026} \approx -1{,}53$. Comme $\lvert Z \rvert < 1{,}96$, on ne rejette pas $H_0$ à 5 % ($p \approx 0{,}12$) : l'écart de 4 points peut venir de l'échantillonnage. [[Complément hors du cours|ⓘ]]
+
+Pour un **intervalle de confiance** de la différence $P_1 - P_2$, on ne met pas les proportions en commun (pas d'hypothèse à respecter) : $(P_{s1} - P_{s2}) \pm Z_{\alpha/2}\sqrt{\dfrac{P_{s1}(1-P_{s1})}{n_1} + \dfrac{P_{s2}(1-P_{s2})}{n_2}}$. [[Complément hors du cours|ⓘ]]
+
+Lien avec le [[8 - Chi²-Test|test du χ²]] : les deux échantillons et leurs succès forment un [[Tableau de contingence|tableau croisé]] 2 × 2, et le $\chi^2$ d'indépendance de ce tableau vaut exactement $Z^2$ (1 degré de liberté, $1{,}96^2 = 3{,}84$ = valeur critique du $\chi^2_1$ à 5 %). C'est pourquoi la commande R `prop.test(c(12, 25), c(200, 250), correct = FALSE)` affiche une statistique « X-squared » ($\approx 2{,}36$, le carré de $Z \approx -1{,}535$) ; pour un échantillon, `prop.test(50, 100, p = 0.7, correct = FALSE)`. [[Complément hors du cours|ⓘ]]

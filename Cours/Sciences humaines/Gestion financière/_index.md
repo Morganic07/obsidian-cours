@@ -24,6 +24,6 @@ La note n'est qu'une liste de définitions brèves. La fiche est enrichie : bila
 
 Seuls Types de banque, Opérations de haut de bilan, Marché financier, les deux balances, le TEE, le PIB et le PNB et Coût et prix sont nommés dans la note ; les autres concepts viennent des compléments.
 
-**À revoir en priorité** : la définition du PNB, incomplète dans la note (voir le résumé).
+**À revoir en priorité** : la différence entre PIB et PNB, le PNB comptant la production des résidents en France et à l'étranger (voir le résumé).
 
 Liens : [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]] (autre cours de gestion de 4e année).

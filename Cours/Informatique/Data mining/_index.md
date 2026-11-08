@@ -2,7 +2,7 @@
 type: matiere
 tags: [year4]
 sources: ["[[1 - intro to data mining|Chp1 - intro to data mining]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Introduction à la fouille de données : classification, regroupement et combinaison de modèles. Une seule note, intégrée. La matière annonce des travaux pratiques (jeux Weather et IRIS, Weka, R, Python) dont le cours ne contient pas le contenu.
@@ -30,9 +30,11 @@ Ce PDF contient les diapositives d'exercices (k-means, arbres de formules boolé
 - **Arbres de décision** : [[Arbre de décision]], [[Algorithme ID3]], [[Entropie (théorie de l'information)]], [[Gain d'information]], [[Algorithme C4.5]], [[Rapport de gain]], [[Algorithme CART]], [[Indice de Gini]], [[Élagage]]
 - **Combinaison de modèles** : [[Méthodes d'ensemble]], [[Bagging]], [[Boosting]], [[Forêt aléatoire]]
 
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
+
 ## À revoir en priorité avant un examen
 
-- [[1 - intro to data mining]] : les poids du boosting (initiaux à $1/N$ puis normalisés pour une somme $N$) ne sont pas cohérents entre deux diapositives ; dans l'algorithme des k-means et la formule de l'inertie intra-classes, des indices sont faux (voir sa section « Erreurs du cours »).
+- [[1 - intro to data mining]] : les poids du boosting (initiaux à $1/N$, renormalisés pour que leur somme reste 1), les indices de l'algorithme des k-means et la formule de l'inertie intra-classes $I_W = \sum w_i I_i$.
 
 ## Liens avec les autres matières
 

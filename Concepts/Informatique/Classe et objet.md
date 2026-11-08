@@ -31,8 +31,18 @@ void Point::affiche() {
 }
 ```
 
-À la création d'un objet, un [[Constructeur (programmation)|constructeur]] est appelé automatiquement.
+À la création d'un objet, un [[Constructeur (programmation)|constructeur]] est appelé automatiquement ; à sa disparition, c'est le [[Destructeur (programmation)|destructeur]].
 
-Notion parente : [[Programmation orientée objet]]. Voir aussi : [[Langage C++]], [[Accesseur et mutateur]], [[Surcharge d'opérateurs]], [[Méthode spéciale Python]].
+## Compléments (hors du cours)
+
+- **`struct` ou `class`** : en C++, les deux ne diffèrent que par l'accès par défaut, public dans une `struct`, privé dans une `class`. Une `struct` peut donc aussi avoir des méthodes.
+- La définition d'une classe se termine par **`};`** : oublier le point-virgule provoque une erreur de compilation souvent signalée à la ligne suivante.
+- **Le pointeur `this`** désigne l'objet sur lequel la méthode est appelée. Dans une méthode, `x` est un raccourci de `this->x` ; on écrit `this->x` quand un paramètre porte le même nom qu'un attribut : `void setX(int x) { this->x = x; }`.
+- **Méthode `const`** : une méthode qui ne modifie pas l'objet se déclare `void affiche() const;`. Elle est alors appelable sur un objet constant ou une [[Référence (C++)|référence `const`]] (`const Point& p` puis `p.affiche()`), ce qui serait refusé sans le `const`.
+- **L'accès privé est accordé par classe, pas par objet** : une méthode de `Point` peut lire les attributs privés d'un autre `Point` (c'est ce que fait `autre.x` dans le constructeur par copie).
+- **`::`** est l'opérateur de résolution de portée : `Point::affiche` désigne la méthode `affiche` de la classe `Point`, `std::cout` l'objet `cout` de l'[[Espace de noms (namespace)|espace de noms]] `std`.
+- Organisation en `point.h` (la classe) et `point.cpp` (les méthodes) : voir [[Fichier d'en-tête]].
+
+Notion parente : [[Programmation orientée objet]]. Voir aussi : [[Langage C++]], [[Accesseur et mutateur]], [[Surcharge d'opérateurs]], [[Héritage (programmation)]], [[Méthode spéciale Python]].
 
 Résumés : [[4 - C++]], [[4 - Prise de note]]

@@ -14,12 +14,15 @@ aliases:
   - push et pop
   - sommet de pile
   - lireSommet
+  - stack (structure de données)
+  - queue (structure de données)
+  - collections.deque
 matieres:
   - Algo
 sources:
   - "[[2 - piles listes file|chp2 - piles listes file]]"
   - "[[1 - récursivité et complexité|Chp1 - récursivité et complexité]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 | | Pile | File |
@@ -35,6 +38,19 @@ maj: 2026-11-07
 
 Le cours place les deux à côté de la [[Liste chaînée]]. La pile d'exécution, qui stocke paramètres, variables locales et adresses de retour des fonctions en cours, est une pile : voir [[Pile d'exécution]] et [[Récursivité]].
 
-Liens : [[Liste chaînée]], [[Récursivité]]
+**En Python (complément, hors du cours)** : sur une liste, `append` et `pop()` coûtent $O(1)$ (amorti), ce qui en fait une bonne pile ; dépiler une pile vide lève `IndexError`, d'où le test `estVide()` avant `depiler()`. Une liste fait en revanche une mauvaise file : `pop(0)` décale tous les éléments restants et coûte $O(n)$. On utilise `collections.deque`, où `append` enfile et `popleft` défile, tous deux en $O(1)$.
+
+```python
+from collections import deque
+f = deque()
+f.append("a"); f.append("b")   # enfiler
+f.popleft()                    # défiler : "a"
+```
+
+**Usages (complément, hors du cours)** :
+- piles : [[Pile d'exécution]] des appels de fonctions, « annuler » d'un éditeur, bouton précédent du navigateur, contrôle du bon parenthésage (empiler chaque ouvrante, dépiler à chaque fermante), évaluation en notation polonaise inverse (`3 4 + 2 *` : empiler les nombres, dépiler deux opérandes à chaque opérateur), [[Parcours en profondeur]] écrit sans récursivité ;
+- files : file d'impression, [[Tampon (buffer)|tampon]] entre un producteur et un consommateur, file des processus prêts de l'[[Ordonnancement des processus|ordonnancement]], [[Parcours en largeur]].
+
+Liens : [[Liste chaînée]], [[Récursivité]], [[Parcours en profondeur]], [[Parcours en largeur]], [[Ordonnancement des processus]], [[Tampon (buffer)]]
 
 Résumés : [[2 - piles listes file]], [[1 - récursivité et complexité]]

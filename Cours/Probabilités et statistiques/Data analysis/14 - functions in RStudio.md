@@ -2,12 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]]. En cas d'écart, le cours fait foi.
-
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]].
 Aide-mémoire du [[Langage R]] (sous RStudio), sans théorie : chaque commande est donnée avec ce qu'elle renvoie.
 
 ## Point de départ
@@ -15,6 +15,10 @@ Aide-mémoire du [[Langage R]] (sous RStudio), sans théorie : chaque commande e
 ```r
 x <- rnorm(50)   # affecte à x un vecteur de 50 valeurs tirées d'une loi normale
 ```
+
+Sans autre argument, `rnorm(50)` tire dans la [[Loi normale|loi normale]] centrée réduite ; `rnorm(50, mean = 10, sd = 2)` change la moyenne et l'écart-type. Les tirages changent à chaque exécution ; `set.seed(42)` placé avant fixe le générateur et rend le résultat reproductible. Les autres lois suivent le même schéma de noms : `r` pour tirer, `d` pour la densité, `p` pour la fonction de répartition, `q` pour les quantiles (`dnorm`, `pnorm`, `qnorm`, `runif`, `rbinom`…). [[Complément hors du cours|ⓘ]]
+
+L'aide d'une fonction s'ouvre avec `?rnorm` ou `help(rnorm)` (onglet *Help* de RStudio). [[Complément hors du cours|ⓘ]]
 
 ## Autres fonctions (vecteurs)
 
@@ -26,7 +30,14 @@ x <- rnorm(50)   # affecte à x un vecteur de 50 valeurs tirées d'une loi norma
 | `w <- c(60, 72, 57, 90, 95, 72)` | `c()` crée un vecteur (ici 6 éléments) ; il accepte toutes les valeurs, pas seulement numériques |
 | `cat()` | affiche dans la console le contenu de quelque chose |
 | `seq(4, 9)` | renvoie `4 5 6 7 8 9` |
-| `seq(4, 10, 2)` | renvoie `4 6 8 10` (pas de 2 ; le cours écrit `Seq`, voir « Erreurs du cours ») |
+| `seq(4, 10, 2)` | renvoie `4 6 8 10` (pas de 2) [[Erreurs du cours#^e-14-functions-in-rstudio\|✎]] |
+
+Précisions sur ces fonctions : [[Complément hors du cours|ⓘ]]
+- **Indices** : en R, le premier élément est `K[1]` (et non `K[0]` comme en Python ou en C). Un indice négatif exclut (`K[-1]` : tout sauf le premier), un vecteur d'indices extrait plusieurs éléments (`K[c(1, 3)]`), et une condition filtre (`x[x > 0]` : les valeurs positives).
+- **`c()` et les types** : un vecteur ne contient qu'un seul type. Si on mélange, R convertit tout vers le type le plus général : `c(1, "a", TRUE)` donne `"1" "a" "TRUE"`, trois chaînes. Pour mêler des types, il faut une liste (`list()`) ou un [[Data frame|data frame]].
+- **Calcul vectorisé** : les opérations s'appliquent élément par élément, sans boucle : `w * 2`, `w - mean(w)`, `w > 70`.
+- **`cat()` et `print()`** : `print()` affiche un objet comme R le représente (avec `[1]` et les guillemets) ; `cat()` concatène et écrit du texte brut, sans retour à la ligne final : `cat("n =", n, "\n")`.
+- **Raccourcis** : `4:9` équivaut à `seq(4, 9)` ; `seq(0, 1, length.out = 5)` fixe le nombre de valeurs au lieu du pas ; `rep(1, 3)` répète (`1 1 1`) ; `sort(x, decreasing = TRUE)` trie par ordre décroissant.
 
 On peut nommer les éléments d'un vecteur, puis lire ou modifier ces noms avec `names()` :
 
@@ -52,6 +63,13 @@ ecdf(x)      # fonction de répartition empirique (empirical cumulative distribu
 
 Voir [[Mesures de tendance centrale]], [[Variance et écart-type d'échantillon]], [[Quantile]], [[Fonction de répartition empirique]].
 
+Ce que renvoient ces fonctions : [[Complément hors du cours|ⓘ]]
+- `var(x)` et `sd(x)` divisent par $n-1$ : ce sont la variance et l'écart-type **d'échantillon** $s^2 = \frac{1}{n-1}\sum (x_i - \bar{x})^2$, pas ceux de la population.
+- `quantile(x)` renvoie par défaut cinq valeurs, aux niveaux 0 %, 25 %, 50 %, 75 % et 100 % : minimum, premier quartile, médiane, troisième quartile, maximum. `quantile(x, 0.9)` donne le 9e décile. R propose neuf méthodes de calcul (argument `type`, 7 par défaut), qui peuvent différer légèrement du calcul à la main.
+- `summary(x)` donne d'un coup minimum, quartiles, médiane, moyenne et maximum ; sur un data frame, il résume chaque colonne.
+- `ecdf(x)` renvoie une **fonction** : `Fn <- ecdf(x)` puis `Fn(0)` donne la proportion des valeurs $\leq 0$.
+- En présence de valeurs manquantes (`NA`), ces fonctions renvoient `NA` ; `mean(x, na.rm = TRUE)` les ignore ([[Valeur manquante]]).
+
 ## Graphiques
 
 ```r
@@ -62,6 +80,8 @@ boxplot(x)     # boîte à moustaches de x
 ```
 
 Voir [[Histogramme]], [[Diagramme de probabilité]] (QQ plot), [[Quartiles et valeurs aberrantes]] (boxplot).
+
+Lecture du QQ plot : `qqnorm(x)` place les quantiles observés de `x` en face des quantiles théoriques de la loi normale ; si les points suivent à peu près une droite, la normalité est plausible. `qqline(x)`, lancé juste après, trace cette droite de référence. Le boxplot de R marque comme points isolés les valeurs situées à plus de 1,5 écart interquartile des quartiles. [[Complément hors du cours|ⓘ]]
 
 ## Matrices et tableaux (*matrices and arrays*)
 
@@ -97,6 +117,8 @@ matrix(1:12, nrow=3, byrow=F)
 
 `byrow=T` remplit la matrice ligne par ligne au lieu de colonne par colonne.
 
+Pour lire un élément : `x[2, 3]` (ligne 2, colonne 3) ; `x[2, ]` renvoie toute la ligne 2, `x[, 3]` toute la colonne 3 ; `dim(x)`, `nrow(x)` et `ncol(x)` donnent les dimensions. [[Complément hors du cours|ⓘ]]
+
 Fonctions utiles sur les matrices : `rownames`, `colnames` et `t` pour la [[Transposée]] (`t` minuscule, à ne pas confondre avec `T` majuscule qui veut dire `TRUE`) :
 
 ```r
@@ -114,6 +136,12 @@ t(x)
 # [3,] 3 7 11
 # [4,] 4 8 12
 ```
+
+`LETTERS` est une constante de R qui contient les 26 lettres majuscules (`letters` pour les minuscules) ; `LETTERS[1:3]` vaut `"A" "B" "C"`. Mieux vaut écrire `TRUE` en entier plutôt que `T` : `T` n'est qu'une variable prédéfinie, qu'un script peut écraser par mégarde (`T <- 0`), alors que `TRUE` est un mot réservé. [[Complément hors du cours|ⓘ]]
+
+Calcul matriciel : `*` multiplie **élément par élément** ; le [[Produit matriciel|produit matriciel]] s'écrit `%*%`. `t(X) %*% X` calcule donc $X^TX$, la base de la [[Matrice de covariance|matrice de covariance]] (voir [[13 - Principal Components Analysis]]) ; `solve(A)` donne l'inverse de $A$, `solve(A, b)` résout $Ax = b$, `diag(3)` crée la matrice identité 3 × 3, `eigen(A)` renvoie valeurs et vecteurs propres, `cov(X)` et `cor(X)` les matrices de covariance et de corrélation des colonnes. [[Complément hors du cours|ⓘ]]
+
+`apply(x, 1, sum)` applique une fonction à chaque ligne (`1`) ou à chaque colonne (`2`) ; pour les cas courants, `rowSums`, `colSums`, `rowMeans` et `colMeans` font de même plus vite. [[Complément hors du cours|ⓘ]]
 
 On peut « coller » des vecteurs par colonnes (`cbind`) ou par lignes (`rbind`) :
 
@@ -165,6 +193,8 @@ levels(fpain)
 
 `as.numeric` extrait le codage numérique (1 à 4) et `levels` les noms des niveaux. Le codage d'origine 0–3 a disparu : la représentation interne d'un facteur **commence toujours à 1**.
 
-## Erreurs du cours
+Piège classique : si les niveaux d'un facteur sont eux-mêmes des nombres (par exemple `factor(c(10, 20, 10))`), `as.numeric(f)` renvoie les codes internes `1 2 1`, pas les valeurs ; il faut passer par le texte : `as.numeric(as.character(f))` donne `10 20 10`. [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 3/Data analysis (Thanos)/Summary functions in RStudio :.docx|Summary functions in RStudio]] écrit « `Seq(4,10,2)` » ; il faut « `seq(4,10,2)` » : R distingue les majuscules, et `Seq` n'existe pas.
+`table(fpain)` compte les effectifs de chaque niveau, dans l'ordre des niveaux et même pour un niveau absent des données (ici `none` 1, `mild` 1, `medium` 2, `severe` 1) ; `summary(fpain)` fait de même. C'est la manière normale de résumer une variable catégorielle, dont on ne calcule pas la moyenne. [[Complément hors du cours|ⓘ]]
+
+Pour une variable **ordinale** ([[2 - Introduction statistics]]), on crée un facteur ordonné : `factor(pain, levels = 0:3, ordered = TRUE)` (ou `ordered()`). R sait alors comparer les niveaux (`fpain < "severe"`) et en tirer une médiane par `quantile(fpain, 0.5, type = 1)`, ce qui n'a pas de sens pour un facteur simple, purement nominal. [[Complément hors du cours|ⓘ]]

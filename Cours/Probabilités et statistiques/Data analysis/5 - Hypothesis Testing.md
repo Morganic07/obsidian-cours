@@ -2,12 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Data analysis (Thanos)/Cours 5 : Hypothesis Testing .docx|Cours 5 - Hypothesis Testing]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 5 : Hypothesis Testing .docx|Cours 5 - Hypothesis Testing]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 3/Data analysis (Thanos)/Cours 5 : Hypothesis Testing .docx|Cours 5 - Hypothesis Testing]], dans [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]].
 ## Idée générale
 
 Un test d'hypothèse décide, à partir d'un échantillon, si une affirmation sur un paramètre est crédible. Le cours donne le principe, les erreurs possibles, la procédure en six étapes et la façon de poser $H_0$ et $H_1$.
@@ -54,26 +54,45 @@ Voir [[Erreur de type I et de type II]].
 
 Quand une erreur diminue, l'autre augmente nécessairement.
 
+Ce compromis vaut **à taille d'échantillon fixée**. Le seul moyen de réduire $\alpha$ et $\beta$ en même temps est d'augmenter $n$ : la statistique de test fluctue moins et une $H_0$ fausse se repère plus facilement. [[Complément hors du cours|ⓘ]]
+
+La probabilité $1 - \beta$ de rejeter $H_0$ quand elle est fausse s'appelle la **[[Puissance d'un test|puissance]]** du test : c'est sa capacité à détecter un effet qui existe. Elle augmente avec $n$, avec $\alpha$ et avec la taille de l'écart réel à $H_0$ (un gros effet se détecte plus facilement qu'un petit). Une puissance de 80 % est l'objectif usuel quand on calcule à l'avance la taille d'échantillon d'une étude. [[Complément hors du cours|ⓘ]]
+
+Dans le procès, l'erreur de type I revient à condamner un innocent, l'erreur de type II à acquitter un coupable. On fixe $\alpha$ petit parce que l'erreur de type I est jugée la plus grave, d'où le choix de mettre dans $H_0$ ce que l'on ne veut pas rejeter à tort. [[Complément hors du cours|ⓘ]]
+
 ### Analogie avec les intervalles de confiance
 
 On voudrait idéalement un intervalle très étroit avec une confiance très élevée. C'est impossible : pour augmenter la confiance, il faut élargir l'intervalle. Il faut toujours choisir un compromis acceptable selon la situation.
 
+Le lien est plus qu'une analogie : un test bilatéral de $H_0 : \mu = \mu_0$ au seuil $\alpha$ rejette $H_0$ **si et seulement si** $\mu_0$ est en dehors de l'[[Intervalle de confiance|intervalle de confiance]] de niveau $1-\alpha$ construit sur le même échantillon. L'intervalle donne donc la liste de toutes les valeurs de $\mu$ que le test ne rejetterait pas. [[Complément hors du cours|ⓘ]]
+
 ## Procédure du test d'hypothèse
 
-1. **Formuler $H_0$ et $H_1$** : par exemple $H_0 : \mu = 12{,}7$ ans, $H_1 : \mu \neq 12{,}7$ ans (la note écrit « $\mu = 12{,}7$ » pour $H_1$, voir « Erreurs du cours »).
+1. **Formuler $H_0$ et $H_1$** : par exemple $H_0 : \mu = 12{,}7$ ans, $H_1 : \mu \neq 12{,}7$ ans. [[Erreurs du cours#^e-5-hypothesis-testing|✎]]
 2. **Fixer le [[Seuil de signification|seuil de signification]] $\alpha$** : la probabilité de rejeter $H_0$ alors qu'elle est vraie, en général **0,05** ou **0,01**.
 3. **Choisir la [[Statistique de test|statistique de test]]** : la loi $Z$ ([[Test Z]]), ou la loi $t$ pour les petits échantillons ([[Test t]]).
 4. **Établir la [[Valeur critique|valeur critique]]** : le seuil à partir duquel on rejette $H_0$. Conseil : **toujours dessiner la courbe** pour visualiser les zones de rejet.
 5. **Calculer la valeur réelle** de la statistique à partir des données de l'échantillon.
 6. **Décider** : rejeter $H_0$, ou ne pas la rejeter.
 
+Pour un test sur une moyenne avec $\sigma$ connu, la statistique de l'étape 5 est $z = \dfrac{\bar{x} - \mu_0}{\sigma/\sqrt{n}}$, où $\mu_0$ est la valeur de $H_0$ : elle mesure l'écart observé en nombre d'erreurs standard. Valeurs critiques usuelles de la loi normale centrée réduite : [[Complément hors du cours|ⓘ]]
+
+| $\alpha$ | Bilatéral | Unilatéral |
+|---|---|---|
+| 0,05 | $\pm 1{,}96$ | $1{,}645$ (ou $-1{,}645$) |
+| 0,01 | $\pm 2{,}576$ | $2{,}326$ (ou $-2{,}326$) |
+
+Exemple complet (chiffres choisis pour l'illustration) : $H_0 : \mu = 12{,}7$ ans, $H_1 : \mu \neq 12{,}7$ ans, $\alpha = 0{,}05$, bilatéral, donc valeurs critiques $\pm 1{,}96$. Un échantillon de $n = 36$ enfants donne $\bar{x} = 12{,}3$ ans, avec $\sigma = 1{,}2$ an. Alors $z = \dfrac{12{,}3 - 12{,}7}{1{,}2/\sqrt{36}} = \dfrac{-0{,}4}{0{,}2} = -2$. Comme $-2 < -1{,}96$, $z$ tombe dans la région de rejet : on rejette $H_0$, l'âge moyen diffère significativement de 12,7 ans au seuil de 5 %. Au seuil de 1 % (valeurs critiques $\pm 2{,}576$), on ne pourrait pas la rejeter. [[Complément hors du cours|ⓘ]]
+
 ## Test unilatéral ou bilatéral (*one tail / two tail*)
 
 En formulant $H_0$ et $H_1$, il faut choisir un test unilatéral ou bilatéral ([[Test unilatéral et bilatéral]]).
 
-- **Bilatéral** (*two-tail*) : $\alpha$ est partagé en deux et placé dans les deux queues ; $H_1$ contient deux possibilités ($\mu > \#$ ou $\mu < \#$, c'est-à-dire $\mu \neq \#$ ; la note écrit « μ = # or μ ≠ # », voir « Erreurs du cours »). La région de rejet est donc divisée en deux queues.
+- **Bilatéral** (*two-tail*) : $\alpha$ est partagé en deux et placé dans les deux queues ; $H_1$ contient deux possibilités ($\mu > \#$ ou $\mu < \#$, c'est-à-dire $\mu \neq \#$). La région de rejet est donc divisée en deux queues. [[Erreurs du cours#^e-5-hypothesis-testing|✎]]
 - La **région de rejet correspond toujours à $H_1$**.
 - **Unilatéral** (*one-tail*) : $\alpha$ est entièrement dans une des queues.
+- Le sens de $H_1$ donne la queue : $H_1 : \mu > \#$ place la région de rejet à droite (test unilatéral à droite), $H_1 : \mu < \#$ à gauche. Le signe d'égalité reste toujours dans $H_0$ ($=$, $\le$ ou $\ge$) : c'est la valeur sous laquelle on calcule la loi de la statistique de test. [[Complément hors du cours|ⓘ]]
+- Le choix uni- ou bilatéral se fait **avant** de regarder les données : passer en unilatéral après coup, parce que l'écart observé va dans le bon sens, revient à doubler en pratique le risque $\alpha$ annoncé. [[Complément hors du cours|ⓘ]]
 
 **Exemples** :
 
@@ -100,6 +119,9 @@ Si le test est fait par un organisme de contrôle ou un concurrent pour conteste
 
 - **Statistique de test** : variable aléatoire calculée à partir de l'échantillon pour décider du rejet de $H_0$ ; elle compare les données à ce qui est attendu sous $H_0$.
 - **[[P-value]]** : probabilité d'obtenir les résultats observés (ou plus extrêmes) si $H_0$ est vraie.
+- **Règle de décision par la p-value** : on rejette $H_0$ si $p \le \alpha$. Elle donne toujours la même décision que la comparaison à la valeur critique, mais dit en plus à quel point le résultat est extrême. Dans l'exemple ci-dessus ($z = -2$, bilatéral), $p = 2\,P(Z \le -2) \approx 0{,}046$ : inférieure à 0,05, supérieure à 0,01. [[Complément hors du cours|ⓘ]]
+- **Ce que la p-value n'est pas** : ni la probabilité que $H_0$ soit vraie, ni la taille ou l'importance de l'effet. Avec un très grand échantillon, un écart minuscule et sans intérêt pratique devient « significatif » ; il faut donc toujours donner aussi l'estimation de l'effet et son intervalle de confiance. L'American Statistical Association a publié en 2016 une déclaration sur ces mésusages. [[Complément hors du cours|ⓘ]]
+- **Tests multiples** : en faisant 20 tests indépendants au seuil de 5 % alors que toutes les $H_0$ sont vraies, on obtient en moyenne un résultat « significatif » par pur hasard, et au moins un avec une probabilité $1 - 0{,}95^{20} \approx 64\,\%$. La correction de Bonferroni teste alors chaque hypothèse au seuil $\alpha/m$ pour $m$ tests. [[Complément hors du cours|ⓘ]]
 
 | Type de test | Statistique de test |
 |---|---|
@@ -120,7 +142,4 @@ Dans un test, on utilise la probabilité (la p-value) pour juger de la **vraisem
 - **La probabilité** : « si je connais la règle, que va-t-il se passer ? » Elle regarde vers l'avenir : on suppose connue la vérité sur la population, et on calcule la chance des données à partir d'un paramètre connu.
 - **La vraisemblance** : « si j'ai ce résultat, quelle était la règle ? » Elle regarde vers le passé : on a le résultat de l'échantillon et on évalue la crédibilité du paramètre (l'affirmation) à partir des données.
 
-## Erreurs du cours
-
-- [[Raw/Year 3/Data analysis (Thanos)/Cours 5 : Hypothesis Testing .docx|Cours 5 - Hypothesis Testing]] écrit « H1 (Hypothèse alternative) : ex. μ=12,7 ans » (vérifié dans le texte du document) ; il faut « $H_1 : \mu \neq 12{,}7$ ans ».
-- [[Raw/Year 3/Data analysis (Thanos)/Cours 5 : Hypothesis Testing .docx|Cours 5 - Hypothesis Testing]] écrit, pour le test bilatéral, « H1 then includes two possibilities: μ = # or μ ≠ # » (vérifié dans le texte du document) ; il faut « $\mu > \#$ ou $\mu < \#$ », c'est-à-dire $\mu \neq \#$.
+Formellement, c'est la même expression lue dans deux sens : la densité (ou probabilité) $f(x \mid \theta)$ est une fonction des données $x$ à paramètre $\theta$ fixé, la vraisemblance $L(\theta \mid x) = f(x \mid \theta)$ est une fonction de $\theta$ à données fixées. La vraisemblance n'est pas une probabilité sur $\theta$ : sommée sur toutes les valeurs de $\theta$, elle ne vaut pas 1 en général. La valeur de $\theta$ qui la rend maximale est l'estimateur du **maximum de vraisemblance**. [[Complément hors du cours|ⓘ]]

@@ -2,8 +2,9 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du PDF 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]) (57 diapositives, en anglais, « IPv4 Addressing »), dans [[Cours/Informatique/Computer Network/_index|Computer Network]]. Les tableaux et schémas ont été lus sur les diapositives (texte et images) ; les figures utiles sont intégrées ci-dessous. Le concept détaillé est [[Adressage IPv4 et CIDR]].
@@ -15,6 +16,7 @@ Plan du cours : comprendre l'adressage IP, terminologie, notation décimale poin
 - Une **adresse IP** (*Internet Protocol*) est un identifiant numérique attribué à chaque machine d'un réseau IP.
 - C'est une adresse **logicielle** (*software address*), qui sert à trouver les hôtes sur un réseau local.
 - L'adressage IP permet à un hôte d'un réseau de communiquer avec un hôte d'un **autre réseau**.
+- « Logicielle » s'oppose à l'adresse **physique**, l'[[Adresse MAC]] (48 bits, notée en hexadécimal, par exemple `00:1A:2B:3C:4D:5E`), gravée dans la carte réseau par le fabricant. L'adresse IP est **logique** : on la choisit, elle change si la machine change de réseau, et elle est hiérarchique (réseau puis hôte), ce qui permet de router. Sur un réseau local, le protocole **ARP** trouve l'adresse MAC qui correspond à une adresse IP pour livrer la trame. [[Complément hors du cours|ⓘ]]
 
 ![[IP Addressing - p5.jpg]]
 *Figure : deux réseaux, 192.168.1.0/24 (PC1, PC2, commutateur SW1) et 192.168.2.0/24 (PC3, PC4, SW2), reliés par le routeur R1.*
@@ -63,11 +65,14 @@ Poids des bits : 128, 64, 32, 16, 8, 4, 2, 1. Correction donnée par le cours :
 | 64 | 01000000 |
 | 40 | 00101000 |
 
+**Méthode** : pour convertir un octet, on parcourt les poids de 128 à 1 ; on écrit 1 si le poids tient dans ce qui reste (et on le retire), 0 sinon. Exemple : 172 = 128 + 32 + 8 + 4, donc 10101100 ; 172 − 128 = 44, 64 ne tient pas, 44 − 32 = 12, 16 ne tient pas, 12 − 8 = 4, 4 − 4 = 0. Dans l'autre sens, on additionne les poids des bits à 1. Les valeurs du tableau (128, 192, 224, 240…) sont celles des masques : des 1 contigus en partant de la gauche. [[Complément hors du cours|ⓘ]]
+
 ## Adresse IPv4
 
 - IP est l'ensemble des règles qui régissent la transmission des données sur Internet.
 - On parle d'adresse **IPv4** parce que c'est la **quatrième version** du protocole IP.
 - Une adresse IPv4 est un nombre de **32 bits** : environ **4,3 milliards** d'adresses possibles.
+- Exactement $2^{32} = 4\,294\,967\,296$ adresses, dont une partie est réservée (bouclage, multicast, plages privées…). Ce stock s'est révélé trop petit : l'IANA a distribué ses derniers blocs /8 aux registres régionaux en février 2011. La réponse de long terme est [[IPv6]], dont les adresses font 128 bits ; IPv5 n'a jamais été déployé (le numéro avait servi à un protocole expérimental). [[Complément hors du cours|ⓘ]]
 - IPv4 a **cinq classes**, A, B, C, D et E ; chacune utilise un nombre différent de bits pour l'adresse réseau et l'adresse d'hôte.
 
 **À retenir** :
@@ -76,6 +81,10 @@ Poids des bits : 128, 64, 32, 16, 8, 4, 2, 1. Correction donnée par le cours :
 - le masque indique les bits réseau et les bits hôte : **tous les bits réseau à 1, tous les bits hôte à 0**.
 
 Exemple : IP `192.168.10.4`, masque `255.255.255.0`.
+
+**Calculer l'adresse réseau** : on fait un **ET logique** bit à bit entre l'adresse et le masque (un bit vaut 1 seulement si les deux valent 1) : les bits réseau sont conservés, les bits hôte mis à 0. Ici `192.168.10.4` ET `255.255.255.0` = `192.168.10.0`. L'adresse de broadcast s'obtient en mettant au contraire tous les bits hôte à 1 : `192.168.10.255`. Deux machines sont dans le même réseau si ce calcul donne la même adresse réseau pour les deux ; sinon, l'émetteur passe par sa [[Passerelle par défaut|passerelle par défaut]]. [[Complément hors du cours|ⓘ]]
+
+Un masque est toujours une suite de 1 **contigus** suivie de 0 : chaque octet de masque vaut donc 0, 128, 192, 224, 240, 248, 252, 254 ou 255 ; `255.255.0.255` n'est pas un masque valide. [[Complément hors du cours|ⓘ]]
 
 ## Classes d'adresses IPv4
 
@@ -99,6 +108,12 @@ Tableau de la diapositive 16 :
 | A | 0 | 8 | 24 | 128 ($2^7$) | 16 777 216 ($2^{24}$) |
 | B | 10 | 16 | 16 | 16 384 ($2^{14}$) | 65 536 ($2^{16}$) |
 | C | 110 | 24 | 8 | 2 097 152 ($2^{21}$) | 256 ($2^8$) |
+
+Lecture du tableau : les bits de tête sont fixés par la classe, seuls les bits restants du champ réseau varient. Classe A : $8 - 1 = 7$ bits libres, d'où $2^7$ réseaux ; classe B : $16 - 2 = 14$ ; classe C : $24 - 3 = 21$. En pratique la classe A n'a que 126 réseaux utilisables, car le réseau 0 (`0.0.0.0` désigne « ce réseau » ou « n'importe quelle adresse ») et le réseau 127 (bouclage) sont réservés. [[Complément hors du cours|ⓘ]]
+
+Dans chaque classe A, B et C, une plage est réservée aux **adresses privées** (RFC 1918, 1996), utilisables librement à l'intérieur d'un réseau mais jamais acheminées sur Internet : `10.0.0.0/8`, `172.16.0.0/12` (172.16 à 172.31) et `192.168.0.0/16`. C'est pourquoi les exemples du cours (10.0.0.0, 172.16.0.0, 192.168.1.0) ressemblent aux réseaux domestiques ; la traduction vers une adresse publique est le [[NAT et PAT]]. [[Complément hors du cours|ⓘ]]
+
+Autres adresses particulières : `169.254.0.0/16`, adresse locale au lien (*link-local*, APIPA sous Windows) qu'un hôte s'attribue seul quand il n'obtient pas d'adresse du serveur [[DHCP]] ; `255.255.255.255`, broadcast limité au réseau local. [[Complément hors du cours|ⓘ]]
 
 ## Adresse réservée de la classe A : le bouclage
 
@@ -234,6 +249,12 @@ Les diapositives 39 et 40 reprennent les deux tableaux des classes (premier octe
 | 192.168.1.0/31 | 31 | 1 | $2^1 - 2 = 0$ |
 | 192.168.1.0/32 | 32 | 0 | $2^0 - 2 = $ X |
 
+Les deux dernières lignes ont pourtant un usage. Un **/31** n'a ni adresse réseau ni broadcast : la RFC 3021 (2000) l'autorise sur les liens point à point, où ses 2 adresses vont aux deux routeurs. Un **/32** désigne une seule machine (route vers un hôte précis, adresse de bouclage d'un routeur) : c'est le préfixe des routes `L` de `show ip route` (voir [[2 - Static Routing]]). [[Complément hors du cours|ⓘ]]
+
+Le CIDR sert aussi dans l'autre sens : regrouper plusieurs réseaux contigus sous un préfixe plus court (**agrégation** ou *supernetting*). Par exemple 192.168.0.0/24 à 192.168.3.0/24 s'annoncent ensemble en 192.168.0.0/22, ce qui réduit la taille des tables de routage d'Internet. [[Complément hors du cours|ⓘ]]
+
+Reprise de l'exemple des 5000 hôtes : $2^{12} - 2 = 4094$ ne suffit pas, $2^{13} - 2 = 8190$ suffit, donc 13 bits hôte, soit un **/19**. Environ 3200 adresses inutilisées au lieu d'environ 60 000 avec une classe B. [[Complément hors du cours|ⓘ]]
+
 Les diapositives 48 à 53 refont le calcul sur le lien 203.0.113.0 entre R1 et R2, en allongeant le préfixe d'un bit à chaque fois :
 
 | Préfixe | Dernier octet du masque | Calcul |
@@ -263,6 +284,13 @@ Pour un lien entre deux routeurs, le /30 suffit (2 adresses utilisables) : c'est
 | 255.255.255.252 | /30 |
 | 255.255.255.254 | /31 |
 | 255.255.255.255 | /32 |
+
+**Méthode de découpage** (*subnetting*) : [[Complément hors du cours|ⓘ]]
+1. emprunter $s$ bits à la partie hôte donne $2^s$ sous-réseaux ; il reste $h$ bits hôte, soit $2^h - 2$ hôtes par sous-réseau ;
+2. on choisit $s$ d'après le nombre de sous-réseaux voulu ($2^s \ge$ nombre demandé), ou $h$ d'après le nombre d'hôtes ($2^h - 2 \ge$ hôtes demandés) ;
+3. la **taille de bloc** vaut $2^h$, soit 256 moins la valeur de l'octet de masque concerné (/26 : 256 − 192 = 64) ; les adresses réseau se suivent de bloc en bloc (.0, .64, .128, .192), le broadcast est l'adresse qui précède le réseau suivant.
+
+Exemple : `192.168.1.100/26`. Bloc de 64, et 100 est entre 64 et 127 : réseau 192.168.1.64, première adresse .65, dernière .126, broadcast .127. [[Complément hors du cours|ⓘ]]
 
 ## Quiz (découpage en sous-réseaux)
 

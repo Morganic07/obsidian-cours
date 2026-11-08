@@ -4,7 +4,7 @@ tags: [year1]
 aliases: [borne supérieure, borne inférieure, bornes supérieure et inférieure, propriété de la borne supérieure, supremum, infimum, least upper bound]
 matieres: [Analyse Maths, Outil Maths]
 sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/TD1-numbres-reels.pdf|TD1-numbres-reels.pdf]]", "[[Raw/Year 1/Analyse Maths/Exos/td1slides.pdf|td1slides.pdf]]", "[[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]]", "[[3 - Relation binaire|Chapitre 3 - Relation binaire]]", "[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre3-Relation binaire.pdf|Chapitre3-Relation binaire.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Pour une partie $A$ de $\mathbb{R}$, la **borne supérieure** $\sup A$ est, si elle existe, le plus petit des majorants de $A$. La **borne inférieure** $\inf A$ est le plus grand des minorants. Voir [[Relation d'ordre]] pour le cadre général.
@@ -28,7 +28,7 @@ Pour prouver un $\sup$ dans un exercice : vérifier que $s$ est un majorant, pui
 
 ## Résultats classiques (TD)
 
-- $\sup(-A) = -\inf A$ ; $\sup(x + A) = x + \sup A$ ; $\sup(A + B) = \sup A + \sup B$.
+- $\sup(-A) = -\inf A$ ; $\sup(x + A) = x + \sup A$, avec $x + A = \{x + a : a \in A\}$ [[Erreurs du cours#^e-borne-superieure|✎]] ; $\sup(A + B) = \sup A + \sup B$.
 - $\sup(A \cup B) = \max(\sup A, \sup B)$ ; $\sup(A \cap B) \le \min(\sup A, \sup B)$.
 - $\sup(A \cdot B) = \sup A \cdot \sup B$ est faux en général : il faut des ensembles de positifs.
 - Si $x \le y$ pour tout $x \in A$ et $y \in B$, alors $\sup A \le \inf B$.
@@ -40,9 +40,5 @@ Pour prouver un $\sup$ dans un exercice : vérifier que $s$ est un majorant, pui
 Pour un ordre $\preceq$, $\sup(A)$ est le plus petit des majorants : $\forall y \in A,\ y \preceq \sup(A)$, et $\sup(A) \preceq z$ pour tout majorant $z$. Symétriquement, $\inf(A)$ est le plus grand des minorants. Exemple : $]1, +\infty[$ a pour borne inférieure 1 et pas de borne supérieure dans $(\mathbb{R}, \leq)$.
 
 Notion parente : [[Relation d'ordre]]. Voir aussi : [[Majorant et minorant]], [[Plus grand élément]], [[Ensembles de nombres]], [[Théorème des valeurs intermédiaires]].
-
-## Erreurs du cours
-
-- [[Raw/Year 1/Analyse Maths/contrôles/DS1-Analyse-2022-corrigé.pdf|DS1-Analyse-2022-corrigé.pdf]], exercice 6, écrit $x + A = \{x + a : x \in A\}$ ; il faut $\{x + a : a \in A\}$. Sa correction conclut « $\sup(A + B) = \sup(A) + x$ » ; il faut $\sup(A + x) = \sup(A) + x$.
 
 Résumés : [[1 - Ensemble des Reels]], [[0 - rappels pdf]], [[3 - Relation binaire]], [[3 - pdf]].

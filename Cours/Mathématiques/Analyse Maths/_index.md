@@ -5,7 +5,7 @@ tags:
 sources:
   - "[[4 - dérivabilité|Chp4 - dérivabilité]]"
   - "[[5 - Analyse Maths|chp5 (Analyse)]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, limites et continuité, dérivation et analyse asymptotique. Les 2 documents Word (dérivabilité et chapitre 5) sont intégrés. Le cours des chapitres 0 à 3 est en PDF : il est résumé dans la section « Documents PDF » ci-dessous. Les travaux dirigés et les contrôles, en PDF, n'ont plus de résumé.
@@ -34,12 +34,15 @@ Analyse d'une variable réelle en 1re année : rappels, nombres réels, suites, 
 - **Limites et continuité (chapitre 3)** : [[Limite et continuité]], [[Caractérisation séquentielle de la limite]], [[Prolongement par continuité]], [[Théorème des valeurs intermédiaires]], [[Recherche dichotomique]], [[Théorème des bornes atteintes]], [[Théorème de la bijection]], [[Fonctions trigonométriques réciproques]], [[Application lipschitzienne]]
 - **Dérivabilité (chapitre 4)** : [[Dérivabilité]], [[Tangente à une courbe]], [[Extremum local]], [[Théorème de Rolle]], [[Monotonie et signe de la dérivée]], [[Règle de l'Hôpital]], [[Fonction de classe Ck]], [[Formule de Leibniz]]
 - **Analyse asymptotique (chapitre 5)** : [[Comparaison asymptotique]], [[Équivalent (comparaison asymptotique)]], [[Croissances comparées]], [[Développement limité]], [[Développement asymptotique]], [[Asymptote oblique]], [[Polynôme]], [[Fonctions hyperboliques]]
+- **Ajoutés par l'enrichissement** : [[Formule de Stirling]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
 - [[4 - dérivabilité]] : une fonction strictement croissante peut avoir une dérivée qui s'annule, comme $x^3$.
-- [[4 - dérivabilité]] : la formule de la réciproque demande que $f'$ ne s'annule pas, et non $f$.
-- Pour une suite récurrente ou une limite par la définition, suivre les schémas de [[Suite numérique]] et de .
+- [[4 - dérivabilité]] : la formule de dérivée de la réciproque demande que $f'$ ne s'annule pas.
+- Pour une suite récurrente ou une limite par la définition, suivre les schémas de [[Suite numérique]] et de [[Convergence d'une suite]].
 
 ## Liens avec les autres matières
 

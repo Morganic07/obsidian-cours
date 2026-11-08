@@ -2,7 +2,7 @@
 type: matiere
 tags: [year4]
 sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Culture du soin de 4e année : le soin comme geste culturel, et le design comme pratique qui ouvre un monde, le fait éprouver et normalise les conduites. Un seul document pour l'instant, la séance 1 (diaporama converti en PDF).
@@ -19,6 +19,9 @@ Culture du soin de 4e année : le soin comme geste culturel, et le design comme 
 - **Du fonctionnalisme au Human Centered Design** : [[Fonctionnalisme]], [[Conception centrée sur l'humain]], [[Ergonomie]], [[Charge cognitive]], [[Accessibilité]], [[Affordance]]
 - **Trois lectures philosophiques du design** : [[Ouverture d'un monde (Heidegger)]], [[Structuration de l'expérience (Merleau-Ponty)]], [[Dispositif de normalisation]]
 - **Soutenabilité** : [[Responsabilité élargie du designer]], [[Defuturing]], [[Limites planétaires]]
+- **Ajoutés par l'enrichissement** : [[Design thinking]], [[Design universel]], [[Panoptique]], [[Design hostile]], [[Développement durable]]
+
+La fiche est enrichie de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité
 

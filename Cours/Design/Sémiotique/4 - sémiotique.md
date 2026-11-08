@@ -2,8 +2,9 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du Cours 4 de [[Cours/Design/Sémiotique/_index|Sémiotique]] (séance 4 : « Le formatage, c'est du pouvoir », 28 diapositives). Précédent : [[3 - sémiotique|Cours 3]].
@@ -31,6 +32,10 @@ Voir [[Architexte]]. Trois caractéristiques essentielles :
 3. Le dispositif comprend nécessairement une **représentation de l'activité** à laquelle il est dédié, puisqu'il est une écriture de l'écriture.
 
 Un architexte se constitue donc à partir des représentations que ses concepteurs se font du processus de communication, qu'elles soient d'ordre imaginaire, idéologique ou théorique.
+
+La notion a été forgée à la fin des années 1990 par Emmanuël Souchier et Yves Jeanneret, dans leurs travaux sur l'« écrit d'écran » (voir [[Écrit d'écran]]). Elle ne doit pas être confondue avec l'« architexte » du théoricien littéraire Gérard Genette (*Introduction à l'architexte*, 1979), qui désigne les catégories générales (genres, modes d'énonciation) dont relève chaque texte littéraire. [[Complément hors du cours|ⓘ]]
+
+Exemples d'architextes du quotidien : un moteur de recherche (le champ unique et la liste de résultats classés décident de ce qu'est « chercher »), un tableur (la grille de cellules impose de penser en lignes et colonnes), un formulaire administratif en ligne (menus déroulants qui n'admettent que les réponses prévues). [[Complément hors du cours|ⓘ]]
 
 ![[Sémiotique Séance 4 - image7.png]]
 *Figure : choix des thèmes d'un gestionnaire de contenu (WordPress) : la mise en forme est préfabriquée avant toute écriture (diapositive 7).*
@@ -63,6 +68,8 @@ Derrière chaque écran se trouvent des couches d'écriture : interface, code, a
 
 Chaque geste numérique (écrire un mail, envoyer un tweet) repose sur des architextes : des dispositifs éditoriaux qui exécutent du code et formatent nos actions selon des choix programmés en amont. Ces choix, invisibles pour l'usager, modèlent les capacités d'expression et les imaginaires. **Désenfouir le code**, c'est faire apparaître cette écriture cachée : révéler la complexité politique dissimulée derrière la simplicité des interfaces. Voir [[Désenfouissement du code]].
 
+Le juriste Lawrence Lessig a résumé cette idée par la formule « *Code is law* » (*Code and Other Laws of Cyberspace*, 1999) : dans le monde numérique, l'architecture logicielle règle les comportements aussi efficacement que la loi, puisqu'elle rend certaines actions possibles et d'autres impossibles, sans débat public sur ces choix. [[Complément hors du cours|ⓘ]]
+
 ![[Sémiotique Séance 4 - image19.png]]
 *Figure : « souvenirs » générés par une galerie photo (« Memories », « The great outdoors »).*
 
@@ -83,6 +90,8 @@ Le code n'est pas seulement une infrastructure technique : il intervient directe
 
 Le code participe ainsi à la production du sens et des interactions.
 
+En linguistique, l'**énonciation** est l'acte par lequel un locuteur produit un énoncé dans une situation donnée (Émile Benveniste, « L'appareil formel de l'énonciation », 1970) : qui parle, à qui, quand, où. Souchier a étendu la notion avec l'**énonciation éditoriale** (1998) : la forme matérielle d'un texte (typographie, mise en page, support, marques de l'éditeur) est elle-même une parole, produite par d'autres que l'auteur. Dire que le code est une forme d'énonciation, c'est ajouter les programmeurs et les plateformes à ces voix qui parlent à travers le texte d'écran. Voir [[Énonciation éditoriale]]. [[Complément hors du cours|ⓘ]]
+
 ### Exemple : désenfouir le code d'un réseau social (diapositive 13)
 
 | Ce que je vois à l'écran | Les signes du code | Ce que cela révèle du code |
@@ -93,6 +102,8 @@ Le code participe ainsi à la production du sens et des interactions.
 | des stories qui disparaissent | les stories de 24 h imposent une temporalité programmée | il organise le temps |
 
 « Le code écrit les interactions, organise le social. »
+
+Le classement algorithmique du fil a une conséquence souvent discutée : la **bulle de filtre** (Eli Pariser, *The Filter Bubble*, 2011). En montrant à chacun ce qui ressemble à ce qu'il a déjà aimé, la personnalisation tend à l'enfermer dans un environnement informationnel conforme à ses goûts et opinions, sans qu'il voie ce qui en est exclu. L'ampleur réelle de l'effet est débattue par les études empiriques, mais la notion aide à formuler la question « que ne me montre-t-on pas ? ». Voir [[Bulle de filtre]]. [[Complément hors du cours|ⓘ]]
 
 ![[Sémiotique Séance 4 - image5.jpg]]
 *Figure : story d'un réseau social de partage de photos, plein écran.*
@@ -114,11 +125,19 @@ Voir [[Novlangue du digital]]. Les mots du numérique ne sont jamais neutres : l
 
 Ce que cela produit : naturalisation du progrès ; effacement de l'infrastructure technique ; transformation d'actions techniques en émotions ; colonisation terminologique… « Les mots programment la perception des technologies. »
 
+Le terme de novlangue vient du roman *1984* de George Orwell (1949) : la *Newspeak* est une langue officielle appauvrie, conçue pour rendre certaines pensées impossibles à formuler. Parler de « novlangue du digital » souligne donc que le vocabulaire ne décrit pas seulement : il oriente ce que l'on peut penser des techniques. [[Complément hors du cours|ⓘ]]
+
+La « performativité du langage » (Grille 3, critère 3) renvoie au philosophe John L. Austin (*How to Do Things with Words*, 1962, traduit sous le titre *Quand dire, c'est faire*) : certains énoncés accomplissent l'acte qu'ils énoncent (« je vous déclare mariés », « je promets »). Les boutons d'interface sont de ce type : cliquer sur « Partager » ou « Acheter » ne décrit pas une action, cela l'effectue. [[Complément hors du cours|ⓘ]]
+
+Le « cloud » illustre bien l'effacement de l'infrastructure : les données sont stockées dans des centres de données bien matériels, qui consomment électricité et eau pour leur refroidissement, et circulent par des câbles, dont des câbles sous-marins pour l'essentiel du trafic intercontinental. [[Complément hors du cours|ⓘ]]
+
 ## 4. Des assemblages préfabriqués (diapositives 15 et 16)
 
 Voir [[Assemblages préfabriqués]].
 
 **Les interfaces sont faites de « petites formes »** : les sites et applications ne sont pas des pages libres, ce sont des assemblages standardisés. Formes récurrentes, immédiatement reconnaissables : menu hamburger, barre de recherche, bouton « like », fil d'actualité, carte, profil. Ce que cela produit : standardisation des usages, anticipation des comportements, fluidité apparente. **Tension centrale : liberté d'expression contre formatage industriel.** L'utilisateur crée à l'intérieur de formes déjà écrites.
+
+Côté conception, ces petites formes correspondent aux **composants** et aux ***design patterns*** d'interface : des solutions éprouvées à des problèmes récurrents, réunies dans des bibliothèques et des [[Design system|design systems]]. L'idée de « langage de patterns » vient de l'architecte Christopher Alexander (*A Pattern Language*, 1977). Leur force est la reconnaissance immédiate (l'usager n'a rien à réapprendre) ; leur revers, l'uniformité des interfaces que pointe le cours. [[Complément hors du cours|ⓘ]]
 
 ![[Sémiotique Séance 4 - image2.jpg]]
 *Figure : fil d'un réseau social de partage de photos : stories en haut, publication, barre d'icônes standard (cœur, commentaire, partage).*
@@ -156,6 +175,12 @@ Voir [[Logique du marché]].
 | Telegram | posture libertaire / indépendance étatique |
 | iMessage | ancrage dans l'écosystème Apple |
 
+Ces positionnements sont des discours autant que des réalités techniques, ce qui confirme la thèse du cours. Le **chiffrement de bout en bout** (seuls l'expéditeur et le destinataire peuvent lire le message, pas le service) est ainsi actif par défaut sur Signal, mais aussi sur WhatsApp, qui utilise le protocole de Signal depuis 2016 ; ce qui distingue alors les deux, ce sont surtout les **métadonnées** collectées (qui écrit à qui, quand) et le modèle économique (Signal est porté par une fondation à but non lucratif). À l'inverse, Telegram ne chiffre de bout en bout que ses « conversations secrètes », pas les discussions ordinaires. [[Complément hors du cours|ⓘ]]
+
+Ce qui retient l'usager dans un écosystème s'explique par deux mécanismes économiques : [[Complément hors du cours|ⓘ]]
+- l'**effet de réseau** : un service vaut d'autant plus que d'autres l'utilisent (une messagerie sans ses contacts est inutile), ce qui favorise la concentration autour de quelques acteurs. Voir [[Effet de réseau]] ; [[Complément hors du cours|ⓘ]]
+- le **verrouillage** (*lock-in*) : coûts de sortie élevés (historique, fichiers dans un format propriétaire, habitudes, achats liés), qui rendent le changement d'outil coûteux même quand un concurrent est meilleur. Voir aussi [[Écosystème fermé]]. [[Complément hors du cours|ⓘ]]
+
 **Exemple des outils de conception** (diapositive 19). En apparence, un simple choix d'outil ; en réalité, choisir un outil, c'est choisir un modèle économique (abonnement, gratuité, [[Freemium]]), une culture professionnelle, un écosystème collaboratif, une manière de concevoir.
 
 | Outil | Culture associée selon le cours |
@@ -166,6 +191,8 @@ Voir [[Logique du marché]].
 | Sketch | culture startup / UX |
 
 Ce que cela produit : des formats standardisés, des manières de penser l'interface, des dépendances techniques, des alignements professionnels. « L'outil façonne la pratique autant qu'il la permet. »
+
+Repère sur les modèles économiques cités : Adobe a remplacé en 2013 la vente de licences de sa Creative Suite par l'abonnement Creative Cloud, emblème du passage du logiciel acheté au logiciel loué (*software as a service*). Figma, fonctionnant dans le navigateur, a fait de la collaboration en temps réel son argument ; le projet de rachat de Figma par Adobe, annoncé en 2022, a été abandonné fin 2023 face aux objections des autorités de la concurrence. [[Complément hors du cours|ⓘ]]
 
 (Les diapositives 18 et 19 sont illustrées des logos de ces applications, non intégrés.)
 
@@ -181,6 +208,8 @@ Voir [[Économie des données]] et [[Travail invisible des utilisateurs]].
 
 « Chaque texte numérique produit de la valeur. »
 
+Ce modèle se résume souvent par la formule « si c'est gratuit, c'est vous le produit » : le service est offert à l'utilisateur et financé par la vente d'espaces publicitaires ciblés grâce à ses données (marché **biface** : la plateforme sert deux clientèles, les usagers et les annonceurs). Plus précisément, ce qui est vendu n'est pas l'utilisateur mais son attention et des prédictions sur son comportement, d'où la notion de [[Capitalisme de surveillance|capitalisme de surveillance]] et celle de *digital labor* (voir [[3 - sémiotique|Cours 3]]). [[Complément hors du cours|ⓘ]]
+
 ![[Sémiotique Séance 4 - image18.png]]
 *Figure : logo d'une application de cartographie posé sur un plan de ville.*
 
@@ -191,6 +220,8 @@ Voir [[Économie des données]] et [[Travail invisible des utilisateurs]].
 | identifier une plante, apprendre, observer | analyse l'image, enregistre la localisation, intègre l'observation dans une base mondiale, améliore ses modèles | cartographie de la biodiversité, standardisation taxonomique, datafication du vivant, optimisation algorithmique |
 
 « Observer devient produire de la donnée. »
+
+La **datafication** (terme popularisé par Viktor Mayer-Schönberger et Kenneth Cukier, *Big Data*, 2013) désigne la mise en données d'aspects du monde qui n'étaient pas quantifiés : une amitié devient un lien dans un graphe, une promenade une trace GPS, une plante une observation géolocalisée. La « standardisation taxonomique » du cours en est un effet : pour être comptée, chaque observation doit entrer dans une classification (espèce, genre, famille) déjà fixée par la base. [[Complément hors du cours|ⓘ]]
 
 ![[Sémiotique Séance 4 - image16.png]]
 *Figure : téléphone tenu devant une fleur rouge, l'application affichant le résultat de l'identification.*

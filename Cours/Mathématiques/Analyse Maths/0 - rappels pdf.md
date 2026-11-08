@@ -2,8 +2,9 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé de AnalyseID1 ([[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]) (95 pages), dans [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]]. C'est le polycopié complet du cours d'Analyse I (PréING1, 2020-2021) : cinq chapitres de cours, chacun suivi de sa feuille de TD. Il regroupe donc des documents résumés ailleurs :
@@ -26,6 +27,8 @@ Les pages 1 à 7 sont les rappels sur les équations et inéquations, la valeur 
 ### Rappel de trigonométrie (pages 8 à 12)
 
 **Définition 1 (cosinus et sinus).** Sur le cercle unité de centre $O$, orienté dans le sens direct (inverse des aiguilles d'une montre), soit $N(a, b)$ un point du cercle et $x$ une mesure en radians de l'angle $(\overrightarrow{OI}, \overrightarrow{ON})$. Alors $\cos x = a$ (abscisse de $N$) et $\sin x = b$ (ordonnée). Voir [[Fonctions trigonométriques]].
+
+La mesure en **radians** d'un angle est la longueur de l'arc qu'il intercepte sur le cercle unité. Un tour complet mesure $2\pi$, donc $\pi\ \text{rad} = 180°$ : un angle de $d$ degrés mesure $\frac{d\pi}{180}$ radians ($90° = \frac{\pi}{2}$, $60° = \frac{\pi}{3}$, $45° = \frac{\pi}{4}$, $30° = \frac{\pi}{6}$). [[Complément hors du cours|ⓘ]]
 
 ![[AnalyseID1 - p8.jpg]]
 
@@ -69,12 +72,17 @@ $$\sin 2x = 2\sin x\cos x, \qquad \cos 2x = \cos^2 x - \sin^2 x = 2\cos^2 x - 1 
 **Proposition 5 (formules de produit)**, obtenues en additionnant les formules d'addition (voir [[Linéarisation trigonométrique]]) :
 $$\cos x\cos y = \tfrac12\big(\cos(x+y) + \cos(x-y)\big),\quad \sin x \sin y = \tfrac12\big(\cos(x-y) - \cos(x+y)\big),\quad \sin x\cos y = \tfrac12\big(\sin(x+y) + \sin(x-y)\big).$$
 
+Lues dans l'autre sens, avec $p = x + y$ et $q = x - y$ (donc $x = \frac{p+q}{2}$, $y = \frac{p-q}{2}$), ces formules donnent les **formules de factorisation**, qui transforment une somme en produit (utile pour résoudre $\cos p = \cos q$ ou étudier un signe) : [[Complément hors du cours|ⓘ]]
+$$\cos p + \cos q = 2\cos\tfrac{p+q}{2}\cos\tfrac{p-q}{2},\qquad \cos p - \cos q = -2\sin\tfrac{p+q}{2}\sin\tfrac{p-q}{2},$$
+$$\sin p + \sin q = 2\sin\tfrac{p+q}{2}\cos\tfrac{p-q}{2},\qquad \sin p - \sin q = 2\cos\tfrac{p+q}{2}\sin\tfrac{p-q}{2}.$$
+
 **Définition 2 (tangente).** Sur
 $$\left]-\tfrac{\pi}{2}, \tfrac{\pi}{2}\right[ + \pi\mathbb{Z} = \left\{x \in \mathbb{R} : \forall k \in \mathbb{Z},\ x \ne \tfrac{\pi}{2} + k\pi\right\},\qquad \tan x = \frac{\sin x}{\cos x}.$$
 
 **Proposition 6 (propriétés de la tangente).**
 - $\tan x = \tan y \iff x \equiv y\ [\pi]$ ; en particulier $\tan$ est $\pi$-périodique.
 - $\tan$ est impaire : $\tan(-x) = -\tan x$.
+- En divisant $\cos^2 x + \sin^2 x = 1$ par $\cos^2 x$ : $1 + \tan^2 x = \dfrac{1}{\cos^2 x}$, expression qui est aussi la dérivée de $\tan$. [[Complément hors du cours|ⓘ]]
 - Addition et duplication :
 $$\tan(x+y) = \frac{\tan x + \tan y}{1 - \tan x\tan y}, \qquad \tan(x - y) = \frac{\tan x - \tan y}{1 + \tan x \tan y}, \qquad \tan 2x = \frac{2\tan x}{1 - \tan^2 x}.$$
 
@@ -103,6 +111,10 @@ Voir aussi [[Suite numérique]].
 **Définition 1.** Une **suite** est une application $u : \mathbb{N} \to \mathbb{R}$. Pour $n \in \mathbb{N}$, $u(n)$ se note $u_n$, le $n$-ième **terme** ou **terme général**. La suite se note $u$, $(u_n)_{n\in\mathbb{N}}$ ou $(u_n)$ ; une suite définie à partir d'un rang $n_0$ se note $(u_n)_{n\ge n_0}$.
 
 **Exemples 1.** $(\sqrt n)_{n\ge0}$ : $0, 1, \sqrt2, \sqrt3, \ldots$ ; $((-1)^n)_{n\ge0}$ : $+1, -1, +1, \ldots$ ; $S_n = S \times (1{,}1)^n$ (suite de l'introduction) ; [[Suite de Fibonacci]] $F_0 = F_1 = 1$, $F_{n+2} = F_{n+1} + F_n$ : $1, 1, 2, 3, 5, 8, 13, \ldots$ ; $\left(\frac{1}{n^2}\right)_{n\ge1}$ : $1, \frac14, \frac19, \frac{1}{16}, \ldots$
+
+**Suites arithmétiques et géométriques.** Une suite est **arithmétique** de raison $r$ si $u_{n+1} = u_n + r$, d'où $u_n = u_0 + nr$ et $\sum_{k=0}^{n} u_k = (n+1)\frac{u_0 + u_n}{2}$ ; elle est [[Suite géométrique|géométrique]] de raison $q$ si $u_{n+1} = q\,u_n$, d'où $u_n = u_0\,q^n$ et, pour $q \ne 1$, $\sum_{k=0}^{n} q^k = \frac{1 - q^{n+1}}{1 - q}$. La suite $(S_n)$ de l'introduction est géométrique de raison $1{,}1$. Pour $q$ réel : $q^n \to 0$ si $|q| < 1$, $q^n = 1$ si $q = 1$, $q^n \to +\infty$ si $q > 1$, et pas de limite si $q \le -1$. [[Complément hors du cours|ⓘ]]
+
+Pour la suite de Fibonacci, le rapport $\frac{F_{n+1}}{F_n}$ tend vers le **nombre d'or** $\varphi = \frac{1 + \sqrt5}{2} \approx 1{,}618$, racine positive de $x^2 = x + 1$. Avec l'autre racine $\psi = \frac{1 - \sqrt5}{2}$, on a la formule explicite (de Binet) $F_n = \frac{\varphi^{n+1} - \psi^{n+1}}{\sqrt5}$ pour la numérotation $F_0 = F_1 = 1$ du cours. [[Complément hors du cours|ⓘ]]
 
 **Définition 2 (majorée, minorée, bornée).**
 - $(u_n)$ est **majorée** si $\exists M \in \mathbb{R},\ \forall n,\ u_n \le M$ ;
@@ -236,9 +248,11 @@ Pour les infinis, la règle des signes donne le signe du produit. Voir [[Forme i
 
 *Preuve* : si $(u_n)$ est majorée, $A = \{u_n\}$ est non vide et majoré, donc a une [[Borne supérieure]] $L$. Pour $\varepsilon > 0$, il existe $u_N > L - \varepsilon$, et par croissance $L - \varepsilon < u_N \le u_n \le L$ pour $n \ge N$. Si elle n'est pas majorée, pour tout $A > 0$ il existe $N$ avec $u_N > A$, et par croissance $u_n > A$ pour $n \ge N$.
 
-**Exemple.** $u_n = \sum_{k=1}^n \frac{1}{k^2}$ est croissante ($u_{n+1} - u_n = \frac{1}{(n+1)^2} \ge 0$) et
-$$u_n \le 1 + \sum_{k=2}^n \frac{1}{k(k-1)} = 1 + \sum_{k=2}^n \left(\frac{1}{k-1} - \frac1k\right) = 2 - \frac1n \le 2$$
-(le cours écrit la majoration avec $\frac{1}{k(k+1)}$, voir Erreurs du cours). Elle converge donc ; on peut montrer que sa limite vaut $\frac{\pi^2}{6}$.
+**Exemple.** $u_n = \sum_{k=1}^n \frac{1}{k^2}$ est croissante ($u_{n+1} - u_n = \frac{1}{(n+1)^2} \ge 0$) et, puisque $\frac{1}{k^2} \le \frac{1}{k(k-1)}$ pour $k \ge 2$, [[Erreurs du cours#^e-0-rappels-pdf|✎]]
+$$u_n \le 1 + \sum_{k=2}^n \frac{1}{k(k-1)} = 1 + \sum_{k=2}^n \left(\frac{1}{k-1} - \frac1k\right) = 2 - \frac1n \le 2.$$
+Elle converge donc ; on peut montrer que sa limite vaut $\frac{\pi^2}{6}$.
+
+Le calcul de cette limite est le **problème de Bâle**, résolu par Euler en 1735 : $\sum_{k=1}^{+\infty} \frac{1}{k^2} = \frac{\pi^2}{6} \approx 1{,}645$. Plus généralement, $\sum \frac{1}{k^\alpha}$ converge si et seulement si $\alpha > 1$ (séries de Riemann), alors que $\sum \frac1k$ diverge (voir [[Série numérique]]). [[Complément hors du cours|ⓘ]]
 
 **Définition (suites adjacentes).** $(u_n)$ et $(v_n)$ sont [[Suites adjacentes|adjacentes]] si $(u_n)$ est croissante, $(v_n)$ décroissante et $(v_n - u_n) \to 0$.
 
@@ -252,6 +266,8 @@ $$u_n \le 1 + \sum_{k=2}^n \frac{1}{k(k-1)} = 1 + \sum_{k=2}^n \left(\frac{1}{k-
 - $u_{n+1} - u_n = \frac{1}{(n+1)!} \ge 0$ ;
 - $v_{n+1} - v_n = \frac{1}{(n+1)!} + \frac{1}{(n+1)(n+1)!} - \frac{1}{n \cdot n!} = -\frac{1}{n(n+1)(n+1)!} \le 0$ ;
 - $v_n - u_n = \frac{1}{n \cdot n!} \to 0$.
+
+Leur limite commune est le nombre $e = \exp(1) \approx 2{,}718$. L'encadrement $u_n < e < v_n$ (strict, car $(u_n)$ est strictement croissante et $(v_n)$ strictement décroissante) montre que $e$ est **irrationnel** : si $e = \frac{p}{q}$, en multipliant $u_q < e < u_q + \frac{1}{q \cdot q!}$ par $q!$, l'entier $q!\,e = p\,(q-1)!$ serait strictement compris entre l'entier $q!\,u_q$ et $q!\,u_q + \frac1q \le q!\,u_q + 1$, ce qui est impossible. [[Complément hors du cours|ⓘ]]
 
 ### V. Suites extraites (sous-suites)
 
@@ -272,6 +288,8 @@ $$u_n \le 1 + \sum_{k=2}^n \frac{1}{k(k-1)} = 1 + \sum_{k=2}^n \left(\frac{1}{k-
 *Preuve.* (1) Pour un voisinage $\mathcal{V}$ de $\ell$, $u_n \in \mathcal{V}$ pour $n \ge N$ ; or $\varphi(n) \ge n \ge N$, donc $u_{\varphi(n)} \in \mathcal{V}$. (2) $u_{2p} \in \mathcal{V}$ pour $p \ge N$ et $u_{2p+1} \in \mathcal{V}$ pour $p \ge N'$ ; avec $n_0 = \max\{2N, 2N'+1\}$, tout $n \ge n_0$ (pair ou impair) vérifie $u_n \in \mathcal{V}$.
 
 **En pratique.** Ce théorème sert surtout à montrer qu'une suite **n'a pas de limite** : il suffit d'exhiber deux suites extraites de limites différentes. Exemple : $(-1)^n$ n'a pas de limite car $(-1)^{2n} \to 1$ et $(-1)^{2n+1} \to -1$.
+
+**[[Théorème de Bolzano-Weierstrass]].** De toute suite réelle **bornée**, on peut extraire une suite convergente (même énoncé pour les suites complexes). Ainsi $(-1)^n$, bornée sans être convergente, a des suites extraites convergentes. C'est un résultat central de l'analyse, qui sert notamment à démontrer le théorème des bornes atteintes du chapitre 3. [[Complément hors du cours|ⓘ]]
 
 ### VI. Suites récurrentes $u_{n+1} = f(u_n)$
 
@@ -300,6 +318,8 @@ $f$ est une fonction réelle définie sur un intervalle $I$.
 **Propriété 19 (convergence).** Si $f$ est continue sur $I$ et si $(u_n)$ converge vers $\ell$, alors $f(\ell) = \ell$ : $\ell$ est un [[Point fixe]] de $f$. (Preuve par la caractérisation séquentielle de la limite, démontrée au chapitre 3.)
 
 **Exercice.** Étudier la suite définie par $u_{n+1} = \sqrt{1 + u_n}$ et $u_0 \ge -1$. Non corrigé dans le cours.
+
+Piste : $f(x) = \sqrt{1 + x}$ est continue et croissante sur $[-1, +\infty[$, intervalle stable ; un point fixe vérifie $\ell \ge 0$ et $\ell^2 = 1 + \ell$, donc $\ell = \varphi = \frac{1 + \sqrt5}{2}$ (le nombre d'or). Le signe de $f(x) - x$ (positif sur $[-1, \varphi]$, négatif au-delà) montre que la suite est croissante si $u_0 \le \varphi$, décroissante sinon, et bornée par $\varphi$ du même côté : elle converge vers $\varphi$ par le théorème de la limite monotone. [[Complément hors du cours|ⓘ]]
 
 ### VII. Suites complexes
 
@@ -354,7 +374,7 @@ Voir aussi [[Limite et continuité]]. Dans tout le chapitre, $I$ est un interval
 
 Ici, la distance de $f(x)$ à $\ell$ est inférieure à $\varepsilon$ pourvu que $x$ soit assez grand.
 
-**Définition (limite en $-\infty$)** : même chose avec $\exists B$ (le cours écrit $B > 0$ : voir Erreurs du cours) et $x \le B$ :
+**Définition (limite en $-\infty$)** : même chose avec $\exists B \in \mathbb{R}$ (ou $B < 0$) et $x \le B$ : [[Erreurs du cours#^e-0-rappels-pdf|✎]]
 - $f \to \ell$ : $\forall \varepsilon > 0,\ \exists B,\ \forall x \in I,\ x \le B \Rightarrow |f(x) - \ell| \le \varepsilon$ ;
 - $f \to +\infty$ : $\forall M > 0,\ \exists B,\ x \le B \Rightarrow f(x) \ge M$ ;
 - $f \to -\infty$ : $\forall N < 0,\ \exists B,\ x \le B \Rightarrow f(x) \le N$.
@@ -402,6 +422,10 @@ Voir [[Caractérisation séquentielle de la limite]].
 *Preuve* : par la caractérisation séquentielle et les opérations sur les limites de suites.
 
 **Remarque.** Ces formules s'étendent aux limites infinies, sauf pour les **formes indéterminées** $\infty - \infty$, $0 \times (\pm\infty)$, $\frac{\pm\infty}{\pm\infty}$, $\frac00$.
+
+Pour lever ces formes, on s'appuie sur quelques **limites usuelles** (taux d'accroissement en 0, ce sont des nombres dérivés) et sur les [[Croissances comparées]], avec $\alpha, \beta > 0$ : [[Complément hors du cours|ⓘ]]
+$$\lim_{x\to0}\frac{\sin x}{x} = 1,\qquad \lim_{x\to0}\frac{e^x - 1}{x} = 1,\qquad \lim_{x\to0}\frac{\ln(1+x)}{x} = 1,\qquad \lim_{x\to0}\frac{1 - \cos x}{x^2} = \frac12,$$
+$$\lim_{x\to+\infty}\frac{(\ln x)^\beta}{x^\alpha} = 0,\qquad \lim_{x\to+\infty}\frac{x^\alpha}{e^{\beta x}} = 0,\qquad \lim_{x\to0^+} x^\alpha\,|\ln x|^\beta = 0.$$
 
 **Propriété 9 (composition des limites).** Si $f : I \to \mathbb{R}$, $g : J \to \mathbb{R}$ avec $f(I) \subset J$, $a \in \bar I$, $\lim_a f = b$ et $\lim_b g = c$, alors $\lim_{x\to a} (g \circ f)(x) = c$. Voir [[Composition de fonctions]].
 *Preuve ($a, b, c$ réels)* : $\exists \nu,\ |y - b| \le \nu \Rightarrow |g(y) - c| \le \varepsilon$, puis $\exists \eta,\ |x - a| \le \eta \Rightarrow |f(x) - b| \le \nu$.
@@ -475,7 +499,7 @@ C'est le prolongement par continuité de $f$ en $a$, souvent noté $f$. Voir [[P
 
 **Théorème 21 (valeurs intermédiaires, TVI).** Si $f : I \to \mathbb{R}$ est continue et $(a, b) \in I^2$ vérifie $f(a)f(b) \le 0$, il existe $c$ entre $a$ et $b$ tel que $f(c) = 0$. Voir [[Théorème des valeurs intermédiaires]].
 
-*Preuve par dichotomie* (voir [[Recherche dichotomique]]), avec $a < b$. On construit deux suites adjacentes : $a_0 = a$, $b_0 = b$ ; si $a_n, b_n$ sont construits avec $b_n - a_n = \frac{b-a}{2^n}$ et $f(a_n)f(b_n) < 0$, on pose $m_n = \frac{a_n + b_n}{2}$ :
+*Preuve par dichotomie* (voir [[Recherche dichotomique]]), avec $a < b$. On construit deux suites adjacentes : $a_0 = a$, $b_0 = b$ ; si $a_n, b_n$ sont construits avec $b_n - a_n = \frac{b-a}{2^n}$ et $f(a_n)f(b_n) \le 0$, on pose $m_n = \frac{a_n + b_n}{2}$ : [[Erreurs du cours#^e-0-rappels-pdf|✎]]
 - si $f(a_n)f(m_n) \le 0$ : $a_{n+1} = a_n$, $b_{n+1} = m_n$ ;
 - si $f(a_n)f(m_n) > 0$ : $a_{n+1} = m_n$, $b_{n+1} = b_n$.
 
@@ -551,8 +575,3 @@ Plan relevé : domination, négligeabilité, équivalence pour les suites puis p
 ## Liens
 
 [[Suite numérique]], [[Limite et continuité]], [[Dérivabilité]], [[Développement limité]], [[Comparaison asymptotique]], [[Borne supérieure]], [[Nombre complexe]].
-
-## Erreurs du cours
-
-- [[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]], chapitre 2 (exemple après le théorème 13), écrit $u_n \le \sum_{k=1}^n \frac{1}{k(k+1)} = 1 - \frac{1}{n+1} \le 1$ pour $u_n = \sum_{k=1}^n \frac{1}{k^2}$ ; l'inégalité est dans le mauvais sens ($\frac{1}{k^2} \ge \frac{1}{k(k+1)}$, et $u_2 = 1{,}25 > 1$). Il faut $u_n \le 1 + \sum_{k=2}^n \frac{1}{k(k-1)} = 2 - \frac1n \le 2$ (forme reprise dans cette fiche). La conclusion (convergence) reste vraie.
-- Chapitre 3, définition de la limite en $-\infty$ : le cours écrit « $\exists B > 0$, $\forall x \in I$, $x \le B \Rightarrow \dots$ » ; il faut « $\exists B \in \mathbb{R}$ » (ou $B < 0$) : avec $B > 0$, la condition porte aussi sur des $x$ positifs.

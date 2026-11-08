@@ -2,8 +2,9 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du PDF ARBRE AVL ([[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]]) (5 pages, diapositives « 9 - Arbres AVL » datées du 26/11/2014, quatre par page, pseudo-code), dans [[Cours/Informatique/Algo/_index|Algo]]. Le texte est en deux colonnes et l'extraction mélange parfois l'ordre : le fond a été recoupé avec le sujet [[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2]] et avec les pages rendues.
@@ -18,9 +19,15 @@ Fiche de cours sur l'[[Arbre AVL]] : définition, facteur d'équilibrage, rotati
 > - Un arbre AVL est un [[Arbre binaire|arbre binaire]] éventuellement vide tel que la différence de hauteur entre le sous-arbre gauche et le sous-arbre droit d'un nœud diffère d'au plus 1.
 > - Les arbres gauche et droit d'un sommet sont des arbres AVL.
 
-Le nom vient des auteurs G.M. Adelson-Velsky et E.M. Landis (1982 selon la diapositive).
+Le nom vient des auteurs G.M. Adelson-Velsky et E.M. Landis, qui l'ont publié en 1962 (« An algorithm for the organization of information », *Doklady Akademii Nauk SSSR*). [[Erreurs du cours#^e-6-avl|✎]]
 
-> **Propriété.** Si $n$ est le nombre de nœuds d'un arbre AVL, alors sa hauteur est $\log_2(n)$ (vrai en ordre de grandeur seulement, voir « Erreurs du cours »).
+> **Propriété.** Si $n$ est le nombre de nœuds d'un arbre AVL, alors sa hauteur $h$ est de l'ordre de $\log_2(n)$ : précisément, $\log_2(1+n) \le 1+h \le 1{,}44\log_2(2+n)$. [[Erreurs du cours#^e-6-avl|✎]]
+
+L'AVL est un [[Arbre binaire de recherche|ABR]] (la définition ci-dessus ne le dit pas, mais les rotations et l'insertion le supposent) auquel on ajoute cette condition d'équilibre. Son but : éviter l'ABR dégénéré, de hauteur $n - 1$, que produit par exemple l'insertion de valeurs déjà triées (voir [[5 - ABR]]), et garantir que recherche, insertion et suppression restent en $O(\log n)$. [[Complément hors du cours|ⓘ]]
+
+Pourquoi la hauteur reste logarithmique (hauteur d'une feuille = 0) : notons $N(h)$ le plus petit nombre de nœuds d'un AVL de hauteur $h$. Le plus « creux » des AVL de hauteur $h$ a une racine, un sous-arbre de hauteur $h - 1$ et l'autre de hauteur $h - 2$, eux-mêmes minimaux : [[Complément hors du cours|ⓘ]]
+$$N(0) = 1, \quad N(1) = 2, \quad N(h) = 1 + N(h-1) + N(h-2)$$
+On trouve $N(h) = F_{h+3} - 1$, où $F_k$ est la [[Suite de Fibonacci|suite de Fibonacci]] ($F_1 = F_2 = 1$) : 1, 2, 4, 7, 12, 20… Ces arbres minimaux sont appelés **arbres de Fibonacci**. Comme $F_k$ croît comme $\varphi^k$ avec $\varphi = \frac{1 + \sqrt 5}{2} \approx 1{,}618$, un AVL de $n$ nœuds vérifie $h \lesssim \log_\varphi n \approx 1{,}44 \log_2 n$ : au pire 44 % plus haut qu'un arbre parfait. C'est l'origine du coefficient 1,44 de la borne de la propriété. [[Complément hors du cours|ⓘ]]
 
 ![[ARBRE AVL - p1a.jpg]]
 *Figure : diapositive de définition, avec trois exemples d'arbres AVL.*
@@ -43,6 +50,8 @@ Chaque nœud contient un entier, le **facteur d'équilibrage**, qui permet de d�
 ![[ARBRE AVL - p1b.jpg]]
 *Figure : rotation droite ($y$ racine, $x$ fils gauche de sous-arbres $\alpha$, $\beta$, $\gamma$ à droite de $y$) vers $x$ racine avec $\alpha$ et $y$ (sous-arbres $\beta$, $\gamma$) ; rotation gauche en sens inverse.*
 
+Pourquoi l'ordre est préservé : avant comme après la rotation, toute clé de $\alpha$ est inférieure à $x$, $x$ est inférieur à toute clé de $\beta$, ces clés sont inférieures à $y$, et $y$ est inférieur à toute clé de $\gamma$. Le parcours infixe reste $\alpha, x, \beta, y, \gamma$ : l'arbre reste un ABR. Seul $\beta$ change de père (il passe de $x$ à $y$). Une rotation ne modifie qu'un nombre fixe de pointeurs : elle se fait en temps constant, $O(1)$. [[Complément hors du cours|ⓘ]]
+
 ### Facteurs après rotation
 
 Dans la rotation, seuls les facteurs de $X$ et $Y$ sont modifiés. On note $eq'(X)$ et $eq'(Y)$ les facteurs après rotation.
@@ -59,15 +68,28 @@ Les opérations d'insertion et de suppression sont celles d'un ABR, auxquelles o
 
 L'insertion aboutit à la création d'une feuille $f$. On considère le **premier ancêtre $y$ de cette feuille qui viole la condition AVL** : $eq(y) = -2$ ou $eq(y) = 2$, deux cas symétriques. Supposons $eq(y) = -2$ et soit $x$ le fils gauche de $y$. Deux cas :
 
-- **$eq(x) = -1$ ou $0$** : on effectue une rotation droite (autour de $y$).
+- **$eq(x) = -1$** : on effectue une rotation droite (autour de $y$). Juste après une insertion, $eq(x) = 0$ ne peut pas se produire : ce cas ne survient qu'à la suppression. [[Erreurs du cours#^e-6-avl|✎]]
 
 ![[ARBRE AVL - p2a.jpg]]
-*Figure : insertion, rotation droite illustrée sur le cas $eq(x) = 0$ : $y$ (−2) et $x$ (0) ; après la rotation, $x$ a un facteur 1 et $y$ un facteur −1.*
+*Figure : rotation droite autour de $y$, dessinée avec $y$ (−2) et $x$ (0), configuration qui ne se rencontre qu'après une suppression ; après la rotation, $x$ a un facteur 1 et $y$ un facteur −1.* [[Erreurs du cours#^e-6-avl|✎]]
 
 - **$eq(x) = 1$** : $x$ a un sous-arbre droit de racine $z$, qui a deux sous-arbres. On effectue une **rotation gauche autour de $x$**, puis une **rotation droite autour de $y$**.
 
 ![[ARBRE AVL - p2b.jpg]]
 *Figure : insertion, cas $eq(x) = 1$ : détail du sous-arbre de racine $z$, rotation gauche autour de $x$ ($z$ remonte, facteur −1), puis rotation droite autour de $y$ ; $z$ devient racine de facteur 0.*
+
+Les quatre cas, avec le nom qu'on leur donne souvent (selon le chemin qui mène de $y$ vers la partie trop haute) : [[Complément hors du cours|ⓘ]]
+
+| $eq(y)$ | $eq(x)$, $x$ fils du côté trop haut | Cas | Rééquilibrage |
+|---|---|---|---|
+| $-2$ | $-1$ | gauche-gauche | rotation droite autour de $y$ |
+| $-2$ | $+1$ | gauche-droite | rotation gauche autour de $x$, puis droite autour de $y$ (double rotation) |
+| $+2$ | $+1$ | droite-droite | rotation gauche autour de $y$ |
+| $+2$ | $-1$ | droite-gauche | rotation droite autour de $x$, puis gauche autour de $y$ (double rotation) |
+
+Une seule rotation, simple ou double, suffit après une insertion : le sous-arbre rééquilibré retrouve exactement la hauteur qu'il avait **avant** l'insertion, donc les ancêtres de $y$ ne voient aucun changement. C'est pourquoi `equilibreAprèsInsertion` (section 5) s'arrête au premier nœud déséquilibré. [[Complément hors du cours|ⓘ]]
+
+Exemple : on insère 10, 20, 30 dans un AVL vide. Après 30, la racine 10 a $eq = 2$ (sous-arbre droit 20 → 30 avec $h = 2$ au sens de la définition de $eq$, gauche vide avec $h = 0$) et son fils droit 20 a $eq = 1$ : cas droite-droite, rotation gauche autour de 10. On obtient 20 (10, 30), équilibré. Dans un ABR simple, ces trois insertions auraient donné une chaîne. Si l'on insère 10, 30, 20, le cas est droite-gauche : rotation droite autour de 30, puis gauche autour de 10, avec le même résultat. [[Complément hors du cours|ⓘ]]
 
 ## 4. Suppression
 
@@ -97,9 +119,15 @@ Conséquences :
 - Le cas $eq(y) = 2$ s'obtient par symétrie.
 - La diapositive renvoie à des « figures complètes » par un lien (non consulté).
 
+Pourquoi la suppression peut demander plusieurs rotations : elle fait baisser la hauteur d'un sous-arbre, et une rotation de rééquilibrage peut elle-même faire baisser d'un niveau la hauteur du sous-arbre rééquilibré (tous les cas sauf $eq(x) = 0$). Le déséquilibre peut alors se reporter sur l'ancêtre suivant, jusqu'à la racine : au pire une rotation par niveau, soit $O(\log n)$ rotations, chacune en $O(1)$. [[Complément hors du cours|ⓘ]]
+
+Bilan des coûts dans un AVL de $n$ nœuds : recherche, insertion et suppression en $O(\log n)$, puisque la hauteur est en $O(\log n)$ et que chaque opération descend puis remonte une branche ; au plus une rotation (simple ou double) par insertion, $O(\log n)$ rotations par suppression. À comparer à l'ABR non équilibré, en $O(n)$ dans le pire cas ([[5 - ABR]]). [[Complément hors du cours|ⓘ]]
+
 ## 5. Implémentation
 
 L'intérêt du facteur d'équilibrage est que cette information nécessite **2 bits**. Néanmoins, les algorithmes de gestion de $eq$ sont délicats. Dans la suite, une cellule d'arbre AVL contient un champ supplémentaire, la **hauteur**.
+
+Les 2 bits viennent de ce que le facteur ne prend que trois valeurs, $-1$, $0$ et $1$, et que 2 bits codent $2^2 = 4$ valeurs. Stocker la hauteur coûte un entier complet par nœud, mais simplifie le code : le facteur se recalcule à la demande comme $h(D_s) - h(G_s)$, et une hauteur se met à jour par $h = 1 + \max(h(G), h(D))$ sans formules de rotation à retenir. [[Complément hors du cours|ⓘ]]
 
 ```text
 type celluleAVL = structure
@@ -123,7 +151,7 @@ fonction setHauteur(ref S: sommet; val h: entier): entier;
 
 ### Rotations
 
-Les fonctions implémentant les rotations sont « immédiates ».
+Les fonctions implémentant les rotations sont « immédiates ». [[Erreurs du cours#^e-6-avl|✎]]
 
 ```text
 fonction rotationDroite(ref y: sommet): vide;
@@ -142,8 +170,8 @@ fonction rotationDroite(ref y: sommet): vide;
     y^.pere = x;
     y^.gauche = x^.droit;
     x^.droit = y;
-    setHauteur(y, max(getHauteur(filGauche(y)), getHauteur(filsDroit(y))) + 1);
-    setHauteur(x, max(getHauteur(filGauche(x)), getHauteur(filsDroit(x))) + 1);
+    setHauteur(y, max(getHauteur(filsGauche(y)), getHauteur(filsDroit(y))) + 1);
+    setHauteur(x, max(getHauteur(filsGauche(x)), getHauteur(filsDroit(x))) + 1);
   fin
 ```
 
@@ -164,8 +192,8 @@ fonction rotationGauche(ref x: sommet): vide;
     x^.pere = y;
     x^.droit = y^.gauche;
     y^.gauche = x;
-    setHauteur(x, max(getHauteur(filGauche(x)), getHauteur(filsDroit(x))) + 1);
-    setHauteur(y, max(getHauteur(filGauche(y)), getHauteur(filsDroit(y))) + 1);
+    setHauteur(x, max(getHauteur(filsGauche(x)), getHauteur(filsDroit(x))) + 1);
+    setHauteur(y, max(getHauteur(filsGauche(y)), getHauteur(filsDroit(y))) + 1);
   fin
 ```
 
@@ -173,7 +201,7 @@ L'ordre des deux `setHauteur` compte : on met d'abord à jour le nœud qui desce
 
 ### Insertion
 
-Les fonctions d'insertion et de suppression doivent prendre en compte le calcul du facteur d'équilibrage et le maintien de l'équilibre.
+Les fonctions d'insertion et de suppression doivent prendre en compte le calcul du facteur d'équilibrage et le maintien de l'équilibre. [[Erreurs du cours#^e-6-avl|✎]]
 
 ```text
 fonction ajouter(ref x: sommet, val e: objet): vide;
@@ -208,10 +236,10 @@ fonction equilibreAprèsInsertion(ref x: sommet): vide;
   debut
     eq = 0;
     p = x;
-    tantque pere(p) != NIL et eq != 2 et eq != 2 faire
+    tantque pere(p) != NIL et eq != 2 et eq != -2 faire
       s = p;
       p = pere(s);
-      setHauteur(p, max(getHauteur(filGauche(p)), getHauteur(filsDroit(p))) + 1);
+      setHauteur(p, max(getHauteur(filsGauche(p)), getHauteur(filsDroit(p))) + 1);
       eq = getHauteur(filsDroit(p)) - getHauteur(filsGauche(p));
     fintantque
     si eq == 2 ou eq == -2 alors
@@ -249,7 +277,7 @@ fonction equilibreUnSommet(ref p, s: sommet): vide;
   fin
 ```
 
-### Suppression
+### Suppression [[Erreurs du cours#^e-6-avl|✎]]
 
 ```text
 fonction supprimer(ref x: sommet): booléen;
@@ -257,14 +285,18 @@ fonction supprimer(ref x: sommet): booléen;
   début
     si estFeuille(x) alors
       p = pere(x);
-      si filsGauche(p) == x alors
-        supprimerFilsGauche(p)
-        setHauteur(p, getHauteur(filsDroit(p) + 1))
+      si p == NIL alors
+        x = NIL;   /* la feuille était la racine : l'arbre devient vide */
       sinon
-        supprimerFilsDroit(p)
-        setHauteur(p, getHauteur(filsGauche(p) + 1))
+        si filsGauche(p) == x alors
+          supprimerFilsGauche(p)
+          setHauteur(p, getHauteur(filsDroit(p)) + 1)
+        sinon
+          supprimerFilsDroit(p)
+          setHauteur(p, getHauteur(filsGauche(p)) + 1)
+        finsi
+        equilibreAprèsSuppression(p)
       finsi
-      equilibreAprèsSuppression(p)
     sinon
       f = filsDroit(x);
       si f != NIL
@@ -281,36 +313,29 @@ fonction supprimer(ref x: sommet): booléen;
 
 Un nœud interne est remplacé par le plus petit de son sous-arbre droit (ou, à défaut, le plus grand de son sous-arbre gauche), puis on supprime ce dernier : on finit toujours par supprimer une feuille.
 
-Dans le cas de la suppression, on remonte à partir de la feuille supprimée et on détecte de la même manière les nœuds déséquilibrés. **Plusieurs rotations peuvent être nécessaires** : un déséquilibre peut en entraîner un autre.
+Dans le cas de la suppression, on remonte à partir de la feuille supprimée et on détecte de la même manière les nœuds déséquilibrés. **Plusieurs rotations peuvent être nécessaires** : un déséquilibre peut en entraîner un autre. On remonte donc jusqu'à la racine, et chaque nœud déséquilibré est rééquilibré du côté de son sous-arbre le plus haut. [[Erreurs du cours#^e-6-avl|✎]]
 
 ```text
 fonction equilibreAprèsSuppression(ref x: sommet): vide;
   var eq: entier;
   var s, p: sommet;
   début
-    eq = 1;
     p = x;
-    p = pere(s);
-    tantque p != NIL et eq != 0 faire
-      s = p;
-      p = pere(p);
-      setHauteur(p, max(getHauteur(filGauche(p)), getHauteur(filsDroit(p))) + 1);
+    tantque p != NIL faire
+      setHauteur(p, max(getHauteur(filsGauche(p)), getHauteur(filsDroit(p))) + 1);
       eq = getHauteur(filsDroit(p)) - getHauteur(filsGauche(p));
-      equilibreUnSommet(p, s);
+      si eq == 2 alors
+        equilibreUnSommet(p, filsDroit(p));
+      sinon si eq == -2 alors
+        equilibreUnSommet(p, filsGauche(p));
+      finsi
+      p = pere(p);
     fintantque
   fin
 ```
 
 ## Liens
 
+L'AVL est le premier arbre de recherche équilibré publié. D'autres structures poursuivent le même but : l'**[[Arbre rouge-noir|arbre rouge-noir]]**, moins strictement équilibré (hauteur au plus $2\log_2(n+1)$), qui fait moins de rotations lors des mises à jour et sert par exemple à la classe `TreeMap` de Java ; le **[[B-arbre]]**, dont les nœuds contiennent de nombreuses clés, utilisé par les bases de données et les systèmes de fichiers pour limiter les accès disque. L'AVL, plus strictement équilibré, est un peu plus rapide en recherche. [[Complément hors du cours|ⓘ]]
+
 Même sujet que [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]] et [[Raw/Year 2/Algo/DM/qui dit quoi AVL.docx|qui dit quoi AVL]], et que le sujet [[Raw/Year 2/Algo/DM/Projet-Arbre-AVL-ID2.pdf|Projet-Arbre-AVL-ID2]]. Voir aussi [[Hauteur d'un arbre]] et [[5 - ABR]] pour les opérations d'ABR.
-
-## Erreurs du cours
-
-Le pseudo-code ci-dessus est recopié tel quel ; les erreurs suivantes, relevées dans [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], n'y sont pas corrigées.
-
-- [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], `equilibreAprèsInsertion` : écrit « tantque pere(p)!=NIL et eq!=2 et eq!=2 » ; il faut « eq!=2 et eq!=-2 », pour que la boucle s'arrête dans les deux cas de déséquilibre.
-- [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], `equilibreAprèsSuppression` : écrit `p=x;` puis `p=pere(s);`, alors que `s` n'a encore reçu aucune valeur ; il faut supprimer cette ligne (ou écrire `s=x`). La condition d'arrêt `eq!=0` est elle aussi discutable : un facteur nul après mise à jour ne garantit pas que la hauteur du sous-arbre est restée la même (complément).
-- [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], `supprimer` : écrit `setHauteur(p,getHauteur(filsDroit(p)+1))` (et de même avec `filsGauche`) ; il faut `setHauteur(p,getHauteur(filsDroit(p))+1)`. Le cas où la feuille supprimée est la racine (sans père) n'est pas traité. Coquille `filGauche` pour `filsGauche` dans plusieurs fonctions.
-- [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], propriété : écrit « Si n est le nombre de nœuds d'un arbre AVL alors sa hauteur est log2(n) » ; il faut « de l'ordre de $\log_2(n)$ » : la borne précise est $\log_2(1+n) \le 1+h \le 1{,}44\log_2(2+n)$ (voir [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]]).
-- [[Raw/Year 2/Algo/DM/ARBRE AVL.pdf|ARBRE AVL.pdf]], insertion : écrit « soit eq(x)=-1 ou 0, on effectue une rotation droite », et illustre le cas $eq(x) = 0$ ; il faut « eq(x) = −1 » seulement : juste après une insertion, $eq(x) = 0$ ne peut pas se produire (ce cas ne survient qu'à la suppression). Même remarque que pour [[Raw/Year 2/Algo/DM/AVL momo.docx|AVL momo]], point 4 (complément).

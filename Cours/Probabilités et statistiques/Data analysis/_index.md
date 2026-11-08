@@ -18,7 +18,7 @@ sources:
   - "[[13 - Principal Components Analysis|Cours 13 - Principal Components Analysis]]"
   - "[[13 - PCA in R|Cours 13 - PCA in R]]"
   - "[[14 - functions in RStudio|Summary functions in RStudio]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Analyse de données avec R : rappels de statistique, tests d'hypothèse, corrélation, régression simple et multiple, ANOVA et analyse en composantes principales. Les 15 notes sont à intégrer ; 14 résumés sont écrits (voir plus bas pour la quinzième).
@@ -56,13 +56,16 @@ Analyse de données avec R : rappels de statistique, tests d'hypothèse, corrél
 - **Régression (cours 10 et 11)** : [[Régression linéaire]], [[Moindres carrés]], [[Extremum local d'une fonction de deux variables]], [[Résidu (régression)]], [[Homoscédasticité]], [[Diagramme de probabilité]], [[Quatuor d'Anscombe]], [[Erreur standard de la régression]], [[Test de la pente]], [[Somme des carrés (SST, SSR, SSE)]], [[Statistique F]], [[Intervalle de prédiction]]
 - **ANOVA (cours 12)** : [[ANOVA]], [[Carré moyen]]
 - **Analyse en composantes principales (cours 13)** : [[Analyse en composantes principales]], [[Réduction de dimension]], [[Surapprentissage]], [[Centrage et réduction]], [[Matrice de covariance]], [[Matrice symétrique]], [[Valeur propre]], [[Vecteur propre]], [[Matrice orthogonale]], [[Projection orthogonale]], [[Théorème de Pythagore]], [[Trace d'une matrice]], [[Décomposition en valeurs singulières]], [[Loadings et scores (ACP)]], [[Cercle des corrélations]]
+- **Ajoutés par l'enrichissement** : [[Théorème de Gauss-Markov]], [[Multicolinéarité]], [[Régression logistique]], [[Test de Kruskal-Wallis]], [[Comparaisons multiples]], [[Puissance d'un test]], [[Taille d'effet]], [[Test de Welch]], [[Essai contrôlé randomisé]], [[V de Cramér]], [[Test d'adéquation du χ²]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[11 - Multiple Linear Regression and F-statistic]] : une diapositive écrit F à l'envers (non expliquée sur expliquée), et l'intervalle de prédiction de l'exemple a ses bornes inversées.
-- [[12 - ANOVA and F-statistic]] : « F = 22,59, p > 0,05 » est faux (rejet), et les sommes des carrés affichées ne correspondent pas aux données.
-- [[7 - Z-Test]] : des mesures avant et après traitement relèvent du test $t$ apparié, pas d'un « two-sample t-test ».
-- [[8 - Chi²-Test]] : l'introduction de la loi du χ² confond $n$ et $n-1$ degrés ; le tableau récapitulatif des intervalles a un signe faux ; la colonne 0,005 de la table est douteuse.
+- [[11 - Multiple Linear Regression and F-statistic]] : F = variation expliquée / variation non expliquée (rapport de carrés moyens) ; lecture d'un intervalle de prédiction.
+- [[12 - ANOVA and F-statistic]] : on rejette $H_0$ quand F dépasse la valeur critique (p-value inférieure à $\alpha$) ; refaire le calcul des sommes des carrés de l'exemple.
+- [[7 - Z-Test]] : des mesures avant et après traitement sur les mêmes individus relèvent du test $t$ apparié.
+- [[8 - Chi²-Test]] : la somme des carrés de $n$ normales centrées réduites indépendantes suit un χ² à $n$ degrés, celle des écarts à la moyenne d'échantillon un χ² à $n - 1$ degrés ; signes des bornes des intervalles unilatéraux.
 
 ## Liens avec les autres matières
 

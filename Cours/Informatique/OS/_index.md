@@ -14,7 +14,7 @@ sources:
   - "[[3 - TP3|Cours TP3]]"
   - "[[4 - TP4|Cours TP4]]"
   - "[[5 - TP5|Cours TP5]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Systèmes d'exploitation : matériel, démarrage, stockage, Linux, processus, et pratique du shell (Bash, cron, AWK). Les 11 notes sont des notes de cours : chapitres 1, 2, 3, 5, 7, fiche de commandes, TP1 à TP5. Il n'y a pas de note pour le chapitre 6, et le chapitre 4 n'existe qu'en PDF (voir « Documents PDF »).
@@ -64,12 +64,15 @@ Six PDF complètent les notes : le chapitre 4 du cours et les sujets des TP2 à 
 - **Création de processus en C (chp 7, TP4)** : [[Création et terminaison de processus]], [[Identifiant de processus]], [[Arbre de processus]], [[Processus init]], [[Appel fork()]], [[Appel exec()]], [[Appels wait() et waitpid()]], [[Processus zombie et orphelin]], [[Terminaison en cascade]], [[GCC]], [[Fonction system() en C]], [[Nombres aléatoires en C]], [[Suite arithmétique]]
 - **Services et tâches planifiées (TP4)** : [[Démon (informatique)]], [[Commande systemctl]], [[Commande journalctl]], [[Tâche planifiée cron]]
 - **AWK (TP5)** : [[AWK]], [[Fichier CSV]], [[Fichier TSV]], [[Séparateur de champs]], [[Blocs BEGIN et END d'AWK]], [[Variables intégrées d'AWK]], [[Fonctions intégrées d'AWK]], [[Expression régulière]]
+- **Ajoutés par l'enrichissement** : [[Mode noyau et mode utilisateur]], [[Conteneur (informatique)]], [[Table de partitions GPT]], [[Journalisation (système de fichiers)]], [[Flux standard]], [[Gestionnaire de paquets]], [[Masque umask]], [[Tableau associatif]], [[Commande ps]], [[Mémoire virtuelle]], [[Communication interprocessus]], [[Code de retour]]
+
+Les fiches sont enrichies de compléments hors du cours, marqués ⓘ.
 
 ## À revoir en priorité avant un examen
 
-- [[3 - OS]] : macOS n'est pas construit sur le noyau Linux.
-- [[8 - OS commandes sh]] : `sh` n'est pas Bash sur Debian/Ubuntu (c'est `dash`).
-- [[2 - OS]] : tableau des vitesses d'interfaces aux unités mélangées.
+- [[3 - OS]] : macOS est un Unix (noyau XNU, héritage BSD), sans noyau Linux.
+- [[8 - OS commandes sh]] : sur Debian et Ubuntu, `/bin/sh` est `dash`, pas Bash.
+- [[2 - OS]] : dans les vitesses d'interfaces, distinguer bits et octets par seconde.
 
 ## Contenu manquant ou à compléter
 

@@ -4,4 +4,106 @@ tags: [year1, year2, year3, year4]
 maj: 2026-11-08
 ---
 
-**Complément hors du cours.** Le passage marqué ⓘ n'est pas dans le document d'origine : il a été ajouté pour compléter le cours (savoir établi, de niveau manuel). 
+**Complément hors du cours.** Le passage marqué ⓘ n'est pas dans le document d'origine : il a été ajouté pour compléter le cours (savoir établi, de niveau manuel).
+
+## Fiches de cours complétées (149 fiches, 2580 compléments)
+
+Nombre de compléments ⓘ entre parenthèses.
+
+### Design
+
+**[[Cours/Design/Affordance/_index|Affordance]]** : [[1 - UX]] (21), [[2 - UX]] (20)
+
+**[[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]]** : [[1 - corps à l'oeuvre]] (19), [[2 - corps à l'oeuvre]] (11)
+
+**[[Cours/Design/Culture du soin/_index|Culture du soin]]** : [[1 - culture du soin]] (23)
+
+**[[Cours/Design/HDA/_index|HDA]]** : [[1 - HDA]] (5)
+
+**[[Cours/Design/Peinture/_index|Peinture]]** : [[1 - Peinture]] (14), [[2 - Peinture]] (21), [[3 - Peinture]] (14)
+
+**[[Cours/Design/Sémiotique/_index|Sémiotique]]** : [[1 - sémiotique]] (20), [[2 - sémiotique]] (18), [[3 - sémiotique]] (21), [[4 - sémiotique]] (16)
+
+### Informatique
+
+**[[Cours/Informatique/Algo/_index|Algo]]** : [[0 - Algo Maths]] (26), [[0 - diapo prof]] (26), [[0 - Python]] (8), [[1 - récursivité et complexité]] (18), [[2 - piles listes file]] (10), [[3 - Arbres]] (9), [[4 - Arbres binaires]] (13), [[5 - ABR]] (13), [[6 - AVL]] (12)
+
+**[[Cours/Informatique/C++/_index|C++]]** : [[1 - basiques]] (20), [[2 - structures code]] (23), [[3 - pointeurs , tableaux, listes chainées, structures]] (22), [[4 - C++]] (33), [[4 - Prise de note]] (15)
+
+**[[Cours/Informatique/Computer Network/_index|Computer Network]]** : [[1 - Computer Networks]] (12), [[2 - IP Addressing]] (13), [[2 - Static Routing]] (9), [[3 - Dynamic Routing]] (13), [[4 - VLAN ／ IVR Commands]] (10), [[5 - NAT ／ PAT]] (12), [[6 - Access Control List]] (21), [[7 - Cisco]] (16)
+
+**[[Cours/Informatique/Data base/_index|Data base]]** : [[1 - Database]] (19), [[2 - opérateurs et SQL]] (25)
+
+**[[Cours/Informatique/Data mining/_index|Data mining]]** : [[1 - intro to data mining]] (36), [[1 - pdf du prof]] (41)
+
+**[[Cours/Informatique/Graph theory/_index|Graph theory]]** : [[0 - Graph - Python]] (17), [[1 - Undirected graph]] (18), [[2 - tree]] (14), [[3 - complexité]] (36), [[4 - oriented graphs]] (22)
+
+**[[Cours/Informatique/IA/_index|IA]]** : [[1 - IA]] (44)
+
+**[[Cours/Informatique/Java/_index|Java]]** : [[1 - Intro Java]] (38)
+
+**[[Cours/Informatique/OS/_index|OS]]** : [[1 - OS]] (23), [[1 - TP1]] (15), [[2 - OS]] (22), [[2 - TP2]] (10), [[3 - OS]] (12), [[3 - TP3]] (17), [[4 - OS]] (19), [[4 - TP4]] (17), [[5 - OS]] (25), [[5 - TP5]] (16), [[7 - OS]] (35), [[8 - OS commandes sh]] (29)
+
+### Mathématiques
+
+**[[Cours/Mathématiques/Algèbre linéaire/_index|Algèbre linéaire]]** : [[1 - Algèbre linéaire]] (12), [[2 - Algèbre linéaire]] (11), [[3 - Algèbre linéaire]] (9), [[4 - Algèbre linéaire]] (11), [[5 - Algèbre linéaire]] (8), [[6 - Algèbre linéaire]] (17), [[7 - Algèbre linéaire]] (15)
+
+**[[Cours/Mathématiques/Analyse/_index|Analyse]]** : [[0 - Intégration UTILITAIRE]] (11), [[1 - démonstrations]] (7), [[1 - Integration]] (19), [[2 - intégrales multiples]] (17)
+
+**[[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]]** : [[2 - éléments de topologie dans Rn]] (19), [[3 - Limite et continuité d’applications]] (14), [[4 - Calcul différentiel du premier ordre]] (25), [[5 - Calcul différentiel d'ordre supérieur]] (19)
+
+**[[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]]** : [[0 - rappels pdf]] (10), [[0 - Rappels-etc]] (20), [[1 - Ensemble des Reels]] (12), [[4 - dérivabilité]] (21), [[5 - Analyse Maths]] (21)
+
+**[[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]]** : [[0 - Determinants]] (16), [[0 - Eigenvalues and eigenvectors]] (18), [[0 - Linear combination]] (15), [[0 - Matrix algebra]] (16), [[0 - Vector Space]] (12), [[1 - Orthogonality]] (31), [[2 - Symmetric matrices and quadratic forms]] (27), [[3 - Invertible matrix theorem]] (10)
+
+**[[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]** : [[1 - logique]] (17), [[2 - ensembles]] (15), [[2 - pdf]] (11), [[3 - pdf]] (10), [[3 - Relation binaire]] (9), [[4 - pdf]] (16), [[5 - Complexes]] (23)
+
+**[[Cours/Mathématiques/Séries/_index|Séries]]** : [[0 - Revision chapter]] (11), [[1 - Convergent, divergent and positive terms SERIES]] (7), [[2 - Alternating and absolutly convergent series]] (11), [[3 - Sequence of function]] (10), [[4 - Series of functions]] (14), [[5 - power series]] (14), [[6 - Fourier Series]] (13)
+
+### Probabilités et statistiques
+
+**[[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]]** : [[1 - Data analysis]] (14), [[10 - linear regression]] (21), [[11 - Multiple Linear Regression and F-statistic]] (20), [[12 - ANOVA and F-statistic]] (19), [[13 - PCA in R]] (14), [[13 - Principal Components Analysis]] (20), [[14 - functions in RStudio]] (12), [[2 - Introduction statistics]] (7), [[3 - Paradoxe de Simpson]] (10), [[4 - Estimation]] (13), [[5 - Hypothesis Testing]] (12), [[6 - T-Test]] (14), [[7 - Z-Test]] (11), [[8 - Chi²-Test]] (15), [[9 - Covariance and Correlation]] (23)
+
+**[[Cours/Probabilités et statistiques/Probability/_index|Probability]]** : [[1 - Sample space,events, proba]] (20), [[2 - Conditional proba and independence]] (17), [[3 - Combinatorics]] (12), [[3 - Important discrete distributions]] (23), [[4 - Discrete random variables]] (11), [[5 - Continuous random variable]] (14), [[6 - Joint probability distributions]] (22)
+
+**[[Cours/Probabilités et statistiques/Statistics/_index|Statistics]]** : [[0 - proba&stats utilitaire]] (13), [[1 - Intro to statistics]] (15), [[2 - Descriptive statistics]] (15), [[3 - More on probability]] (28), [[4 - Inferential statistics 1]] (19), [[4 - Inferential statistics 2]] (7), [[4 - Inferential statistics 3]] (18)
+
+### Sciences humaines
+
+**[[Cours/Sciences humaines/Communication orale/_index|Communication orale]]** : [[1 - discours]] (19)
+
+**[[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]]** : [[1 - Culture du vivant]] (13), [[2 - Culture du vivant]] (23), [[3 - Culture du vivant]] (13), [[4 - Culture du vivant]] (44)
+
+**[[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]]** : [[1 - gestion financière]] (20)
+
+**[[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]]** : [[1 - innovation]] (18)
+
+**[[Cours/Sciences humaines/Philosophie/_index|Philosophie]]** : [[1 - philo]] (15), [[2 - philo]] (17), [[3 - philo]] (14), [[4 - philo]] (15), [[5 - philo]] (16), [[6 - philo]] (10), [[7 - philo]] (25)
+
+**Séance BU** : [[1 - Savoir rechercher sur Google]] (9)
+
+**[[Cours/Sciences humaines/SHS/_index|SHS]]** : [[1 - Ethnographie visuelle]] (31), [[2 - imaginaires du futur]] (21), [[4 - imaginaires automobile]] (15), [[5 - imaginaires de l'automobile]] (18), [[6 - usages sociaux de l'automobile]] (14)
+
+## Concepts définis hors du cours (438)
+
+Pages dont la définition est un complément : notion seulement nommée dans le cours, ou introduite par un complément.
+
+### Design (110)
+
+[[Aménagement de poste]], [[Anact]], [[Analyse de l'activité]], [[Analyse fonctionnelle]], [[Analyse hiérarchique des tâches]], [[Aquarelle]], [[Arborescence d'une application]], [[Art-thérapie]], [[Bienveillance organisationnelle]], [[Bullshit jobs]], [[Burn-out]], [[Cahier des charges]], [[Capital d'attractivité]], [[Carte d'expérience]], [[Catégories d'entreprises]], [[Cellule d'écoute]], [[Comité social et économique]], [[Conception centrée utilisateur]], [[Conflit de valeurs]], [[Copyleft]], [[Dénotation et connotation]], [[Design des politiques publiques]], [[Design hostile]], [[Design thinking]], [[Design universel]], [[Diagramme d'affinités]], [[Échelles UX]], [[Économie circulaire]], [[Effet de halo]], [[Effet Hawthorne]], [[Efficacité symbolique]], [[EHPAD]], [[Émotion et sentiment]], [[Énonciation éditoriale]], [[Enquête contextuelle]], [[Entrepreneur de soi]], [[Étude d'impact]], [[Évaluation experte]], [[Facteurs de risques psychosociaux]], [[Fauvisme]], [[Ferme verticale]], [[Focus group]], [[Fonction, forme, structure]], [[Fordisme]], [[Fresque]], [[Gamification]], [[Gestelligence]], [[Gouvernance partagée]], [[Grande cause nationale santé mentale]], [[Harcèlement moral]], [[Hypomnémata]], [[Icône, indice et symbole]], [[Images opératives]], [[Innovation de rupture]], [[Innovation sociale]], [[INRS]], [[Interaction homme-machine]], [[Interface cerveau-machine]], [[Interface trompeuse]], [[Keynésianisme]], [[Ligne de désir]], [[Littératie numérique]], [[Mécanique du stress]], [[Médiation sociale]], [[Méditation]], [[Merchandising]], [[Neuf sens]], [[Nudge]], [[Obligation de sécurité de l'employeur]], [[Peinture à l'huile]], [[Penser à voix haute]], [[Plaidoyer]], [[Pop art]], [[Posture et sentiment]], [[Postvention]], [[Preuve de concept]], [[Prévention du suicide]], [[Prévention primaire, secondaire et tertiaire]], [[Projet pilote]], [[Psychologue du travail]], [[Qualité de vie au travail]], [[Responsabilité sociétale des entreprises]], [[Retour au travail et maintien en emploi]], [[Risques psychosociaux]], [[Santé au travail]], [[Santé mentale]], [[Savoirs situés]], [[Secteurs d'activité]], [[Sens au travail]], [[Service de prévention et de santé au travail]], [[Signe (sémiotique)]], [[Soin (care)]], [[Soins énergétiques]], [[Sophrologie]], [[Souffrance psychique]], [[Stigmatisation]], [[Storyboard]], [[Stress au travail]], [[Syndicat]], [[Synesthésie]], [[Synthèse additive et soustractive]], [[System Usability Scale]], [[Système nerveux sympathique et parasympathique]], [[Tabous au travail]], [[Teinte et valeur]], [[Temps partiel thérapeutique]], [[Tri de cartes]], [[Utilisabilité]], [[Value(s) Design]], [[Ville dortoir]]
+
+### Informatique (135)
+
+[[Adresse MAC]], [[Algorithme d'approximation]], [[Algorithme de Bellman-Ford]], [[Algorithme de Dijkstra]], [[Algorithme de Prim]], [[Allocation dynamique]], [[Apprentissage par renforcement à partir de retours humains]], [[Arbre rouge-noir]], [[BGP]], [[Bibliothèque ggplot2]], [[Boucle de routage]], [[Chaîne de compilation]], [[Chargeur de démarrage]], [[Classes P et NP]], [[Clé auto-incrémentée]], [[Code de retour]], [[Commande hostname]], [[Commande passwd]], [[Commande ps]], [[Commande uptime]], [[Communication interprocessus]], [[Commutateur de niveau 3]], [[Complément à deux]], [[Comportement indéfini]], [[Conteneur (informatique)]], [[Contrainte d'intégrité]], [[Convergence d'un protocole de routage]], [[Démarrage sécurisé]], [[Dépassement d'entier]], [[Destructeur (programmation)]], [[DHCP]], [[Diagramme de Gantt]], [[Disque dur]], [[Disque optique]], [[Distance administrative]], [[Effet de bord]], [[Élagage]], [[ELIZA]], [[Encapsulation 802.1Q]], [[Environnement de bureau]], [[Erreur de compilation]], [[Erreur de segmentation]], [[Expression CASE]], [[F-mesure]], [[Fichier d'en-tête]], [[Fichier sudoers]], [[Flux standard]], [[Fonctions printf et scanf]], [[Fuite mémoire]], [[GCC]], [[Gedit]], [[Gestionnaire de paquets]], [[Grand modèle de langage]], [[Graphe eulérien]], [[Hachage de mot de passe]], [[Héritage (programmation)]], [[Hiver de l'IA]], [[ICMP]], [[IETF]], [[Image initrd]], [[Injection SQL]], [[Invariant de boucle]], [[IPv6]], [[Jointure externe]], [[Journalisation (système de fichiers)]], [[JSON]], [[Langage interprété]], [[Lemme des poignées de main]], [[Lien symbolique]], [[Liste d'adjacence]], [[Loi de Parkinson]], [[Machine à vecteurs de support]], [[Machine de Turing]], [[Masque umask]], [[Mémoire virtuelle]], [[Méthode spéciale Python]], [[Métier Jacquard]], [[Mode noyau et mode utilisateur]], [[Modèle de diffusion]], [[Modèle OSI]], [[Multicast]], [[NFS]], [[Niveaux d'automatisation de la conduite]], [[Nombre à virgule flottante]], [[Nombre premier]], [[Normalisation (base de données)]], [[Notation polonaise]], [[ODBC et JDBC]], [[OSPF]], [[Pare-feu]], [[Partition système EFI]], [[Passerelle par défaut]], [[PCI Express]], [[Plus longue correspondance de préfixe]], [[Pointeur NULL]], [[Pointeur pendant]], [[PostgreSQL]], [[Processeur graphique]], [[Programmation dynamique]], [[Programmation orientée objet]], [[Protocole ARP]], [[Ramasse-miettes]], [[ReFS]], [[Règle d'association]], [[Réseau de neurones]], [[Réseau de stockage SAN]], [[Réseau local]], [[Rétroaction]], [[Routeur sur un bâton]], [[Secteur défectueux]], [[Shell dash]], [[Shell rbash]], [[Suite arithmétique]], [[Table de hachage]], [[Table de partitions GPT]], [[Tableau (programmation)]], [[Tableau associatif]], [[Tas binaire]], [[Token (IA)]], [[TPU]], [[Transaction (base de données)]], [[Transformer (IA)]], [[Transistor]], [[Tri fusion]], [[Tri par insertion]], [[Tri topologique]], [[Typage dynamique]], [[UML]], [[Unicode]], [[Union-Find]], [[Variable non initialisée]], [[Version LTS et version intermédiaire]], [[Vim]], [[VLSM]], [[Wayland et X11]]
+
+### Mathématiques (37)
+
+[[Coordonnées cylindriques]], [[Coordonnées sphériques]], [[Corps (algèbre)]], [[Dérivée directionnelle]], [[Diagramme de Hasse]], [[Équation des ondes]], [[Forme linéaire]], [[Forme multilinéaire alternée]], [[Forme normale conjonctive et disjonctive]], [[Formule de Stirling]], [[Intégrale de Gauss]], [[Intégrale généralisée]], [[Lemme d'Abel]], [[Linéarisation trigonométrique]], [[Matrice élémentaire]], [[Matrice hessienne]], [[Matrices semblables]], [[Ou exclusif]], [[Paradoxe de Russell]], [[Partie compacte]], [[Plan tangent]], [[Point fixe]], [[Produit de Cauchy]], [[Projecteur]], [[Pseudo-inverse]], [[Racine n-ième de l'unité]], [[Règle de Sarrus]], [[Série de Bertrand]], [[Suite de Cauchy]], [[Suite géométrique]], [[Théorème de Bolzano-Weierstrass]], [[Théorème de Cayley-Hamilton]], [[Théorème de convergence dominée]], [[Théorème de Dini]], [[Théorème de réarrangement de Riemann]], [[Théorème fondamental de l'algèbre]], [[Trace d'une matrice]]
+
+### Probabilités et statistiques (33)
+
+[[Bootstrap]], [[Comparaisons multiples]], [[Compromis biais-variance]], [[Degrés de liberté]], [[Diagramme en points]], [[Essai contrôlé randomisé]], [[Étude observationnelle et expérience randomisée]], [[Fonction de répartition empirique]], [[Formule du crible]], [[Loi conditionnelle]], [[Loi géométrique]], [[Maximum de vraisemblance]], [[Méthode des moments]], [[Multicolinéarité]], [[Paradoxe des anniversaires]], [[Puissance d'un test]], [[Régression logistique]], [[Série temporelle]], [[Taille d'effet]], [[Test binomial]], [[Test d'adéquation du χ²]], [[Test de Kolmogorov-Smirnov]], [[Test de Kruskal-Wallis]], [[Test de la médiane]], [[Test de Mann-Whitney]], [[Test de McNemar]], [[Test de Welch]], [[Test de Wilcoxon]], [[Test des runs]], [[Test du signe]], [[Théorème de Gauss-Markov]], [[V de Cramér]], [[Variable indicatrice]]
+
+### Sciences humaines (123)
+
+[[Accord de Paris]], [[Acidification des océans]], [[Action et obligation]], [[Aliénation]], [[Analyse du cycle de vie]], [[Anthropocène]], [[Appropriation culturelle]], [[Balance commerciale]], [[Balance des paiements]], [[Banque centrale]], [[Biais cognitif]], [[Biais d'automatisation]], [[Biais de désirabilité sociale]], [[Bilan comptable]], [[Bioéconomie]], [[Bioremédiation]], [[Boussole des possibles]], [[Bulle de filtre]], [[Capital culturel]], [[Capitalisme de surveillance]], [[Charge cognitive]], [[Charge mentale]], [[Chrématistique]], [[Chronophotographie]], [[Cognition incarnée]], [[Concrétisation]], [[Consommation ostentatoire]], [[Corps projectile]], [[Création monétaire]], [[Creative Commons]], [[CSRD]], [[Cyborg]], [[Deepfake]], [[Defuturing]], [[Design fiction]], [[Design social]], [[Développement durable]], [[Devoir de vigilance]], [[Digital labor]], [[Dilemme du tramway]], [[Droit à l'oubli]], [[Dualisme]], [[Économie de l'attention]], [[Effet de réseau]], [[Effet de serre]], [[Effet rebond]], [[Entreprise à mission]], [[Ethos, pathos et logos]], [[Extension du schéma corporel]], [[Externalité]], [[Fantastique (Todorov)]], [[Finance durable]], [[GIEC]], [[Grande accélération]], [[Habitus]], [[Hallucination (IA)]], [[Hégémonie culturelle]], [[Héliocentrisme]], [[Hexis corporelle]], [[Homo faber]], [[Hystérésis de l'habitus]], [[IA sémantique]], [[Inflation]], [[Infra-ordinaire]], [[Innovation ouverte]], [[Intérêt général]], [[IPBES]], [[Irresponsabilité organisée]], [[Le médium est le message]], [[Liste rouge de l'UICN]], [[Loi des trois états]], [[Lumières]], [[Marché financier]], [[Masculinité hégémonique]], [[Modèle d'IA propriétaire ou ouvert]], [[Monopole de la violence légitime]], [[Mouvement des droits civiques]], [[Nature comme réserve de ressources]], [[Non-lieu]], [[Objectifs de développement durable]], [[Opérateurs de recherche booléens]], [[Opérations de haut de bilan]], [[Ouverture d'un monde (Heidegger)]], [[Panoptique]], [[Permaculture]], [[Petit réacteur modulaire]], [[Philosophie de l'histoire]], [[Point de basculement]], [[Politique monétaire]], [[Pont aux ânes]], [[Produit intérieur brut]], [[Produit national brut]], [[Progrès technique]], [[Prospective]], [[Protocole de Kyoto]], [[Pyramide des besoins]], [[Quantified self]], [[Réflexivité]], [[Règlement européen sur l'IA]], [[Représentation sociale]], [[Rétrofuturisme]], [[Ruse de la raison]], [[Saturation des données]], [[Science participative]], [[Script d'usage]], [[Seuil de rentabilité]], [[Sixième extinction]], [[Société disciplinaire]], [[Sommet de la Terre de Rio]], [[Sophistes]], [[Structuration de l'expérience (Merleau-Ponty)]], [[Sublime]], [[Tableau économique d'ensemble]], [[Taxonomie européenne]], [[Théorie de l'acteur-réseau]], [[Tournant relationnel]], [[Tragédie des communs]], [[Transhumanisme]], [[Types de banque]], [[Utilisateur extrême]], [[Valeur ajoutée]], [[Vallée de l'étrange]], [[Vitalisme]]

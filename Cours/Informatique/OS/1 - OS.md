@@ -2,12 +2,12 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp 1.docx|OS - chp 1]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 1.docx|OS - chp 1]] (« Chp 1 - Introduction »), dans [[Cours/Informatique/OS/_index|Operating System]]. Notes de cours de l'étudiante, en français et en anglais, avec les figures des diapositives. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 2/Operating System/Cours OS/OS - chp 1.docx|OS - chp 1]] (« Chp 1 - Introduction »), dans [[Cours/Informatique/OS/_index|Operating System]]. Notes de cours de l'étudiante, en français et en anglais, avec les figures des diapositives.
 ## Idée générale
 
 Introduction : matériel d'un ordinateur, rôle du [[Système d'exploitation]], communication CPU / mémoire / périphériques, interruptions et démarrage, hiérarchie de stockage, architectures de systèmes et environnements informatiques.
@@ -41,6 +41,8 @@ Le [[Processeur]] (CPU, *Central Processing Unit*) interprète les instructions 
 3. exécution ;
 4. écriture du résultat.
 
+Ces quatre temps forment le **cycle d'instruction** (*fetch–decode–execute*). Le CPU sait quelle instruction chercher grâce au [[Compteur de programme]] (*program counter*), un [[Registre du processeur|registre]] qui contient l'adresse de la prochaine instruction et avance après chaque lecture ; les opérandes et résultats intermédiaires sont gardés dans d'autres registres, les mémoires les plus rapides de la machine. Le rythme du cycle est donné par l'**horloge** du processeur, exprimée en GHz (milliards de cycles par seconde). [[Complément hors du cours|ⓘ]]
+
 Il **met aussi en relation** les composants de l'ordinateur ([[Disque dur]], mémoire vive, carte graphique…).
 
 - **Cœur** (*core*) : unité qui lit et exécute des instructions ; un cœur = une tâche à la fois ; multicœur = plusieurs tâches ([[Cœur de processeur]]).
@@ -48,6 +50,8 @@ Il **met aussi en relation** les composants de l'ordinateur ([[Disque dur]], mé
 
 ![[OS - chp 1 - image5.png]]
 *Figure : processeur à 4 cœurs, chacun divisé en deux [[Thread|threads]] (8 threads au total).*
+
+L'hyperthreading (nom commercial d'Intel pour le *simultaneous multithreading*, SMT) ne double pas la puissance : les deux threads matériels d'un cœur partagent ses unités de calcul et ses caches, et le second profite surtout des moments où le premier attend une donnée de la mémoire. Le gain est donc partiel et dépend du programme. L'OS voit chaque thread matériel comme un processeur logique, auquel il peut confier un [[Thread|thread]] ou un [[Processus|processus]] (voir [[Commande lscpu]] : *Thread(s) per core*). Les navigateurs aussi répartissent leur travail sur plusieurs processus et threads ([[Architecture multiprocessus de Chrome]]). [[Complément hors du cours|ⓘ]]
 
 ## Qu'est-ce qu'un système d'exploitation ?
 
@@ -57,6 +61,10 @@ L'OS sert d'intermédiaire entre l'utilisateur et le matériel. Objectifs :
 - gérer le matériel.
 
 Autrefois les OS étaient en [[Interface en ligne de commande|CLI]] (*command line interface*) ; aujourd'hui on a des [[Interface graphique|GUI]] (*graphical user interface*).
+
+On décrit classiquement l'OS sous deux angles : comme **allocateur de ressources** (il répartit temps processeur, mémoire, espace disque et périphériques entre des demandes concurrentes, de façon efficace et équitable) et comme **programme de contrôle** (il surveille l'exécution des programmes pour éviter erreurs et usages abusifs). Le seul programme qui tourne en permanence est le [[Noyau|noyau]] ; le reste est fait de programmes système et d'applications. [[Complément hors du cours|ⓘ]]
+
+Pour ce contrôle, le processeur a au moins deux modes d'exécution, indiqués par un bit de mode : le **mode noyau** (*kernel mode*), où toutes les instructions sont permises (accès direct au matériel, gestion des interruptions et de la mémoire), et le **mode utilisateur** (*user mode*), où les instructions privilégiées sont interdites. Une application qui a besoin du matériel passe par un [[Appel système]] : le CPU bascule en mode noyau, l'OS fait le travail, puis rend la main en mode utilisateur. Voir [[Mode noyau et mode utilisateur]]. [[Complément hors du cours|ⓘ]]
 
 ## Structure d'un système informatique (*Computer system structure*)
 
@@ -81,6 +89,8 @@ Les bus sont des circuits de la carte mère qui relient le CPU aux autres compos
 | *Address bus* | envoie des signaux du CPU vers la mémoire principale | unidirectionnel |
 | *Control bus* | envoie des signaux de contrôle entre composants (horloge, demandes d'[[Interruption\|interruption]]…) | bidirectionnel |
 
+La **largeur du bus d'adresses** fixe la quantité de mémoire adressable : avec $n$ lignes d'adresse, le CPU peut désigner $2^n$ adresses. Avec 32 bits et une adresse par octet, $2^{32}$ octets = 4 Gio, d'où la limite de 4 Go de RAM des anciens systèmes 32 bits ; les processeurs 64 bits dépassent largement ce plafond. La largeur du bus de données, elle, fixe combien de bits passent en un transfert. [[Complément hors du cours|ⓘ]]
+
 ![[OS - chp 1 - image3.png]]
 *Figure : CPU, contrôleur de disque (disques), contrôleur USB (souris, clavier, imprimante) et adaptateur graphique (moniteur) reliés à la mémoire par un bus système commun.*
 
@@ -94,6 +104,8 @@ Les bus sont des circuits de la carte mère qui relient le CPU aux autres compos
 - **SSD** : si les données ne sont pas en RAM, on va les chercher sur le SSD, puis on les copie en RAM et éventuellement dans le cache.
 
 $$\text{vitesse SSD} \ll \text{vitesse RAM} \ll \text{vitesse caches}$$
+
+Le cache est organisé en niveaux : **L1** (le plus petit et le plus rapide, propre à chaque cœur, souvent séparé en cache d'instructions et cache de données), **L2**, puis **L3** (plus grand, partagé entre les cœurs). Trouver la donnée dans le cache s'appelle un *cache hit*, ne pas la trouver un *cache miss*. Le cache est efficace grâce au **principe de localité** : un programme réutilise vite ce qu'il vient d'utiliser (localité temporelle, par exemple une variable de boucle) et utilise ce qui est voisin en mémoire (localité spatiale, par exemple les cases suivantes d'un tableau) ; c'est pourquoi le cache charge des blocs entiers (lignes de cache) et non des octets isolés. [[Complément hors du cours|ⓘ]]
 
 **[[Cycle mémoire]]** (*memory cycle*) : processus complet d'interaction entre CPU et RAM pour accéder à des données : demande d'adresse, lecture ou écriture, transmission des données, délais associés. Le CPU émet une requête à la RAM via une adresse mémoire. Si les données sont dans le cache, le CPU les utilise sans aller en RAM ; si elles sont sur le SSD et pas en RAM, l'OS les charge d'abord en RAM.
 
@@ -112,15 +124,20 @@ Un dessin illustre ce passage ; seuls ses mots subsistent dans la note : RAM, *D
 - Quand un contrôleur a fini une opération (lecture de fichier, impression), il envoie une **interruption** au CPU, ce qui permet au CPU de faire autre chose pendant l'E/S.
 - À retenir : *each device comes with a buffer, a driver and a controller*.
 
-**Exemple du clavier** : comment le CPU comprend-il que j'ai appuyé sur « A » ? Chaque touche a un [[Code ASCII]] (*American Standard Code for Information Interchange*). Le CPU ne gère pas le clavier, il serait trop occupé : un CPU local dans le clavier fait touche pressée → conversion en ASCII → conversion en binaire utilisable par le CPU principal.
+**Exemple du clavier** : comment le CPU comprend-il que j'ai appuyé sur « A » ? Chaque touche a un code de touche (*scan code*), et le caractère obtenu a un [[Code ASCII]] (*American Standard Code for Information Interchange*). Le CPU ne gère pas le clavier, il serait trop occupé : un CPU local dans le clavier fait touche pressée → code de touche → envoi en binaire au CPU principal, dont le pilote convertit le code en caractère. [[Erreurs du cours#^e-1-os|✎]]
+
+Le code de touche (*scan code*, ou code d'usage en USB, défini par la spécification USB HID) désigne la position de la touche, pas un caractère. C'est le [[Pilote de périphérique|pilote]] de l'OS qui le traduit en caractère selon la [[Disposition du clavier|disposition]] choisie (AZERTY, QWERTY) : la même touche donne « A » en AZERTY et « Q » en QWERTY. Aujourd'hui le caractère obtenu est codé en [[Unicode]] (souvent en UTF-8), dont l'ASCII forme les 128 premiers codes. [[Complément hors du cours|ⓘ]]
 
 ## Termes importants
 
 - **Programme d'amorçage** (*Bootstrap program*, *firmware*) : premier programme lancé à la mise sous tension ou au redémarrage, appelé **BIOS** (*Basic Input/Output System*, voir [[BIOS et UEFI]]). Il est stocké en [[Mémoire morte|ROM]] (*Read-Only Memory*), mémoire non modifiable qui conserve ses données hors tension. Étapes :
   - **POST** (*Power On Self-Test*) : vérifie l'alimentation, la RAM et le matériel ;
   - **localisation de l'OS** : le BIOS va à l'emplacement du disque qui contient l'OS et le copie du stockage vers la RAM. L'ordinateur est alors utilisable.
+  - En pratique, le *firmware* ne charge pas tout l'OS d'un coup : il lance un [[Chargeur de démarrage]] (GRUB sous Linux, Windows Boot Manager), qui charge le [[Noyau|noyau]] en RAM ; le noyau initialise le matériel puis lance le premier processus ([[Processus init|init]], `systemd` sur les distributions récentes), qui démarre les services. Sur les cartes actuelles, le *firmware* est stocké en mémoire flash, réinscriptible pour les mises à jour, plutôt qu'en ROM au sens strict. [[Complément hors du cours|ⓘ]]
 - **[[Interruption]]** (*interrupt*) : signal envoyé par le matériel au CPU, qui le force à suspendre ce qu'il fait pour traiter l'interruption. Le matériel peut l'envoyer à tout moment via le bus système. Exemple : le CPU est occupé et je lance une impression ; l'imprimante interrompt le CPU, qui sauvegarde son opération en mémoire et traite la requête ; une nouvelle interruption signale la fin de l'impression, et le CPU reprend.
 - **[[Appel système]]** (*system call*) : méthode par laquelle un logiciel déclenche une interruption du CPU pour lui demander une action précise.
+- Les interruptions provoquées par le logiciel s'appellent **déroutements** (*traps*) ou **exceptions** : elles sont déclenchées soit volontairement (un appel système, par exemple `read()` pour lire un fichier), soit par une erreur du programme (division par zéro, accès mémoire interdit, qui donne une [[Erreur de segmentation]]). On dit qu'un OS moderne est **piloté par les interruptions** (*interrupt-driven*) : sans interruption ni appel système, il n'a rien à faire. [[Complément hors du cours|ⓘ]]
+- L'alternative à l'interruption est la **scrutation** (*polling*) : le CPU interroge le contrôleur en boucle pour savoir s'il a fini. C'est simple, mais le CPU perd son temps à attendre un périphérique lent ; l'interruption le libère jusqu'à ce que le périphérique se signale. [[Complément hors du cours|ⓘ]]
 
 ## Réponse du CPU à une interruption
 
@@ -129,6 +146,8 @@ Un dessin illustre ce passage ; seuls ses mots subsistent dans la note : RAM, *D
 3. **Transfert d'exécution** : le CPU consulte le **vecteur d'interruption**, table qui associe à chaque type d'interruption l'adresse mémoire de l'ISR correspondante (la table d'adresses est la liste de ces adresses).
 4. **Exécution de l'ISR** (*Interrupt Service Routine*) : code exécuté en réponse à une interruption ; chaque ISR gère une interruption particulière.
 5. **Retour au traitement d'origine** : le CPU restaure son état et reprend.
+
+Les interruptions ont des **priorités** : pendant une opération critique, le CPU peut **masquer** (ignorer temporairement) les interruptions de faible priorité, tandis que les interruptions non masquables (*NMI*) sont réservées aux événements graves, comme une erreur mémoire matérielle. Une interruption urgente peut ainsi en interrompre une moins urgente. [[Complément hors du cours|ⓘ]]
 
 ## Structure de stockage
 
@@ -145,6 +164,10 @@ Annotation de l'étudiante sur le dessin : « Located in the CPU ».
 
 Voir [[Mémoire volatile et non volatile]].
 
+Ordres de grandeur des temps d'accès, qui expliquent la pyramide : on passe d'environ un cycle d'horloge pour un registre à quelques nanosecondes pour le cache, une centaine de nanosecondes pour la RAM, des dizaines de microsecondes pour un SSD et plusieurs millisecondes pour un HDD. Entre la RAM et le HDD, le rapport est donc de l'ordre de $10^4$ à $10^5$. Les registres et les caches sont faits de **SRAM** (*Static RAM*, rapide mais chère et encombrante), la mémoire principale de **DRAM** (moins chère, mais à rafraîchir en permanence, d'où le « dynamique »). [[Complément hors du cours|ⓘ]]
+
+Quand la RAM manque, l'OS peut déplacer sur le disque les pages de mémoire peu utilisées : c'est la **mémoire virtuelle**, qui donne à chaque processus l'illusion d'une mémoire plus grande que la RAM, au prix d'une forte baisse de vitesse quand le disque est sollicité (voir [[Espace d'échange (swap)]]). [[Complément hors du cours|ⓘ]]
+
 ## Fonctionnement d'une opération d'E/S (*Working of an I/O operation*)
 
 Section marquée « A COMPRENDRE » par l'étudiante.
@@ -159,6 +182,13 @@ Une [[Opération d'entrée-sortie]] suit trois temps :
 
 **DMA** (*Direct Memory Access*, [[Accès direct à la mémoire]]) : permet d'accéder à la RAM sans interrompre le CPU.
 
+Le schéma se lit ainsi. Sans DMA, pour un gros transfert (lire un fichier de plusieurs mégaoctets), le CPU devrait copier chaque mot du buffer du contrôleur vers la RAM, et recevoir une interruption à chaque petit morceau. Avec DMA : [[Complément hors du cours|ⓘ]]
+1. le CPU programme le **contrôleur DMA** : adresse de départ en RAM, nombre d'octets, sens du transfert ;
+2. le contrôleur du périphérique transfère tout le bloc directement entre son buffer et la RAM, par le bus, pendant que le CPU exécute autre chose ;
+3. une **seule interruption** signale la fin du bloc, au lieu d'une par octet.
+
+Le CPU et le contrôleur DMA se partagent le bus : quand le contrôleur l'utilise, le CPU peut être brièvement ralenti dans ses accès à la RAM (*cycle stealing*), mais il continue de travailler, en particulier sur les données déjà dans ses caches. [[Complément hors du cours|ⓘ]]
+
 ## Architecture des systèmes (*Computer system architecture*)
 
 On classe les systèmes selon le nombre de CPU.
@@ -167,6 +197,7 @@ On classe les systèmes selon le nombre de CPU.
 - **[[Système multiprocesseur]]** (*multi-processor systems*, ou *parallel systems*) : serveurs. Les processeurs généraux communiquent et partagent le bus système, la mémoire et les périphériques.
   - **multiprocesseur symétrique** (SMP) : chaque processeur traite un travail à la fois ;
   - **multiprocesseur asymétrique** : le processeur maître donne des tâches précises à ses esclaves.
+  - Un processeur **multicœur** est un système multiprocesseur sur une seule puce : plusieurs cœurs qui communiquent plus vite entre eux que des processeurs séparés et consomment moins. Les PC et téléphones actuels sont donc le plus souvent des systèmes multiprocesseurs symétriques, et c'est le modèle SMP qui domine aujourd'hui. Intérêts : plus de débit (*throughput*), économie d'échelle (bus, alimentation et périphériques partagés), meilleure tolérance aux pannes. Le gain reste inférieur au nombre de processeurs, à cause de la coordination et des parties d'un programme qui ne se parallélisent pas. [[Complément hors du cours|ⓘ]]
 
 ![[OS - chp 1 - image8.png]]
 *Figure : à gauche, multiprocesseur symétrique (CPU 1 à 3 reliés à un même ensemble de processus P1 à P3) ; à droite, asymétrique (un maître relié à trois esclaves, chacun traitant un processus).*
@@ -196,6 +227,10 @@ Le VMM ([[Machine virtuelle]], *virtual machine manager*) crée plusieurs PC vir
 - **Bare metal** : le VMM est installé directement sur le matériel, sans OS ;
 - **Hosted** : le VMM est installé sur une machine qui a déjà un OS (exemple : VirtualBox).
 
+Le VMM s'appelle aussi **hyperviseur**. Le *bare metal* est dit de **type 1** (exemples : VMware ESXi, Microsoft Hyper-V, Xen ; c'est le cas des serveurs et du cloud), le *hosted* de **type 2** (VirtualBox, VMware Workstation ; usage sur un poste personnel, pour tester un autre système). Le type 1 est plus performant, faute d'OS intermédiaire ; le type 2 est plus simple à installer. Les processeurs actuels ont des instructions dédiées à la virtualisation (Intel VT-x, AMD-V), à activer dans le *firmware*. [[Complément hors du cours|ⓘ]]
+
+Une alternative plus légère à la VM est le **conteneur** (Docker, par exemple) : il isole une application et ses dépendances, mais **partage le noyau** du système hôte au lieu d'embarquer son propre OS. Il démarre en quelques secondes et prend peu de place, mais ne peut faire tourner qu'un système compatible avec le noyau hôte (des conteneurs Linux sur un noyau Linux). Voir [[Conteneur (informatique)]]. [[Complément hors du cours|ⓘ]]
+
 - **Client-serveur** ([[Modèle client-serveur]]) :
 
 ![[OS - chp 1 - image11.png]]
@@ -207,6 +242,16 @@ Deux types :
 
 - **[[Cloud computing]]** : fournit calcul, stockage et même applications comme un service à travers un réseau ; extension logique de la virtualisation, sur laquelle il repose. Exemples : Shadow, Amazon EC2.
 
+On distingue trois modèles de service, selon ce que le fournisseur gère à la place du client : [[Complément hors du cours|ⓘ]]
+
+| Modèle | Ce qui est fourni | Exemple |
+|---|---|---|
+| **IaaS** (*Infrastructure as a Service*) | machines virtuelles, stockage, réseau ; le client installe et gère l'OS et les logiciels | Amazon EC2, Shadow (un PC Windows distant) |
+| **PaaS** (*Platform as a Service*) | une plateforme prête pour déployer son code, sans gérer l'OS | Google App Engine, Heroku |
+| **SaaS** (*Software as a Service*) | une application complète, utilisée depuis un navigateur | Google Drive, Gmail, Microsoft 365 |
+
+On distingue aussi le **cloud public** (fournisseur partagé entre clients), le **cloud privé** (réservé à une organisation) et le **cloud hybride** (les deux combinés). [[Complément hors du cours|ⓘ]]
+
 ## Systèmes distribués
 
 ![[OS - chp 1 - image1.png]]
@@ -216,6 +261,15 @@ Deux types :
 - Un **Network Operating System** fournit des fonctions entre les systèmes du réseau et donne l'**illusion d'un seul système**.
 
 L'étudiante note qu'il lui reste à comprendre l'explication et le schéma de cette diapositive.
+
+Le schéma est celui d'un **centre de données en arbre**, sur trois niveaux de [[Commutateur|commutateurs]] (*switches*) : [[Complément hors du cours|ⓘ]]
+1. **ToR** (*Top of Rack*) : un commutateur en haut de chaque baie (*rack*), qui relie entre eux les serveurs de cette baie ;
+2. **aggregate** (agrégation) : chaque commutateur d'agrégation regroupe plusieurs ToR ;
+3. **core** (cœur) : les commutateurs de cœur relient les commutateurs d'agrégation entre eux et à l'extérieur (Internet).
+
+Deux serveurs d'une même baie communiquent par leur seul ToR ; deux serveurs éloignés remontent jusqu'au cœur puis redescendent. Chaque niveau est en général relié à deux commutateurs du niveau supérieur, pour qu'une panne de lien ou de commutateur n'isole pas une baie. C'est sur ce réseau que des milliers de serveurs collaborent comme un seul système distribué. [[Complément hors du cours|ⓘ]]
+
+Intérêts d'un système distribué : partage des ressources, calcul plus rapide (le travail est réparti), fiabilité (une machine en panne ne bloque pas l'ensemble), communication entre utilisateurs. Variante sans serveur central : le **pair-à-pair** (*peer-to-peer*, P2P), où chaque machine est à la fois client et serveur, comme dans BitTorrent ; il s'oppose au [[Modèle client-serveur]]. [[Complément hors du cours|ⓘ]]
 
 ## Annotations de l'étudiante
 

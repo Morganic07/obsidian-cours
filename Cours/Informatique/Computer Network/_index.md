@@ -10,7 +10,7 @@ sources:
   - "[[4 - VLAN ／ IVR Commands|Chp4 - VLAN ／ IVR Commands]]"
   - "[[5 - NAT ／ PAT|Chp5 - NAT ／ PAT]]"
   - "[[6 - Access Control List|chp6 - Access Control List]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) avec Packet Tracer. Les 7 notes sont intégrées. Les cours sont surtout en anglais.
@@ -41,13 +41,15 @@ Réseaux et configuration d'équipements Cisco (routeurs 2911, switchs 2960) ave
 - **Routage dynamique** : [[Routage dynamique]], [[Système autonome]], [[EIGRP]], [[OSPF]], [[BGP]], [[Routage classful et classless]], [[VLSM]], [[Résumé automatique de routes]], [[Convergence d'un protocole de routage]], [[Boucle de routage]]
 - **Commutation** : [[VLAN]], [[Domaine de diffusion]], [[Sous-interface]], [[Encapsulation 802.1Q]]
 - **Adresses et filtrage** : [[NAT et PAT]], [[Numéro de port]], [[Pare-feu]], [[Liste de contrôle d'accès]]
+- **Ajoutés par l'enrichissement** : [[Modèle OSI]], [[Adresse MAC]], [[Protocole ARP]], [[Distance administrative]], [[Plus longue correspondance de préfixe]], [[Algorithme de Bellman-Ford]], [[Algorithme de Dijkstra]], [[Routeur sur un bâton]], [[Commutateur de niveau 3]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[4 - VLAN ／ IVR Commands]] : `encapsulation dot1q 10` répété sur les trois sous-interfaces.
-- [[6 - Access Control List]] : la solution de l'exigence 4 du TP place l'ACL sur la mauvaise interface.
-- [[5 - NAT ／ PAT]] : `overlead` pour `overload`, `ip nat outside` hors du mode d'interface, NAT présenté comme un pare-feu.
-- [[2 - Static Routing]] : « R3 » à la place de R2 dans le tableau des réseaux connectés.
+- [[4 - VLAN ／ IVR Commands]] : chaque sous-interface porte le numéro de son propre VLAN dans `encapsulation dot1q`.
+- [[6 - Access Control List]] : une ACL standard se place au plus près de la destination (exigence 4 du TP : R2, G0/1 en sortie).
+- [[5 - NAT ／ PAT]] : le PAT s'active avec le mot-clé `overload` ; `ip nat inside` et `ip nat outside` se tapent en mode interface ; le NAT n'est pas un pare-feu.
 
 ## Liens avec les autres matières
 

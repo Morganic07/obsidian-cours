@@ -4,8 +4,7 @@
   "userIgnoreFilters": [
     "Accueil.md",
     "log.md",
-    "CLAUDE.md",
-    "Complément hors du cours.md"
+    "CLAUDE.md"
   ],
   "promptDelete": false,
   "deleteUnlinkedAttachments": "always"

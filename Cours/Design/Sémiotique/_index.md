@@ -2,7 +2,7 @@
 type: matiere
 tags: [year3]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Sémiotique de 3e année : « Analyser les dispositifs numériques », analyse techno-sémiotique. Thème 2026 : les applications de reconnaissance de la nature, de l'analyse critique à des pistes de design d'interface centré vivant. Six séances, quatre diaporamas disponibles (séances 1 à 4).
@@ -22,6 +22,9 @@ Sémiotique de 3e année : « Analyser les dispositifs numériques », analyse t
 - **La technologie, c'est de l'humain (cours 2)** : [[Écrit d'écran]], [[Numérique comme écriture]], [[Quatre cadres de l'écrit d'écran]], [[Machine textuelle]], [[Littératie numérique]], [[Discours d'escorte]], [[Imaginaire]], [[Corps communicant]], [[Techniques du corps]], [[Saillance et normalisation]], [[Externalisation des facultés]], [[Hypomnémata]], [[Traces numériques]], [[Travail invisible des utilisateurs]], [[Ergonomie]], [[Utilisabilité]], [[Expérience utilisateur]], [[Analyse de corpus]]
 - **Les écrans, ce sont des médias (cours 3)** : [[Dispositif (communication)]], [[Médiation]], [[Affordance]], [[Efficacité symbolique]], [[Genre communicationnel]], [[Temps des écrans]], [[Impératif de productivité]]
 - **Le formatage, c'est du pouvoir (cours 4)** : [[Architexte]], [[Désenfouissement du code]], [[Assemblages préfabriqués]], [[Novlangue du digital]], [[Logique du marché]], [[Économie des données]]
+- **Ajoutés par l'enrichissement** : [[Signe (sémiotique)]], [[Icône, indice et symbole]], [[Dénotation et connotation]], [[Script d'usage]], [[Théorie de l'acteur-réseau]], [[Panoptique]], [[Économie de l'attention]], [[Quantified self]], [[Énonciation éditoriale]], [[Interface trompeuse]], [[Digital labor]], [[Droit à l'oubli]], [[Le médium est le message]], [[Science participative]], [[Capitalisme de surveillance]], [[Bulle de filtre]], [[Effet de réseau]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## Méthode
 

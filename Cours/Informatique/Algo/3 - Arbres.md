@@ -2,8 +2,9 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du PDF Chapitre3-Arbres ([[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]) (29 diapositives, « Chapitre 3 : Graphes et arbres », groupe ID2), dans [[Cours/Informatique/Algo/_index|Algo]].
@@ -52,6 +53,8 @@ Voir [[Degré d'un sommet]].
 - **Degré entrant** (« rentrant » sur la diapositive) : nombre d'arcs qui y arrivent.
 - Le **degré** est la somme du degré entrant et du degré sortant.
 
+**Lemme des poignées de main.** Dans un graphe non orienté sans boucle, la somme des degrés des sommets vaut deux fois le nombre d'arêtes : $\sum_{s \in S} \deg(s) = 2\,|A|$, car chaque arête est comptée une fois à chacune de ses deux extrémités. Conséquence : le nombre de sommets de degré impair est toujours pair. Dans un graphe orienté, chaque arc part d'un sommet et arrive à un autre : la somme des degrés sortants et celle des degrés entrants valent toutes deux $|A|$. [[Complément hors du cours|ⓘ]]
+
 ### Chemin
 
 **Définition.** Dans un graphe orienté $G = (S, A)$, un [[Chemin (graphe)|chemin]] de longueur $k$ d'un sommet $u$ à un sommet $v$ est une séquence $(u_0, u_1, \dots, u_k)$ de sommets telle que $u = u_0$, $v = u_k$ et $(u_{i-1}, u_i) \in A$ pour tout $i$. Un chemin est **élémentaire** si ses sommets sont tous distincts.
@@ -92,6 +95,14 @@ Exemple : a-b-e-a est un cycle qui part de a ; il est de longueur 3.
 ![[Chapitre3-Arbres - p15.jpg]]
 *Figure : un graphe G sur a à e et un sous-graphe G' sur a, b, e, d.*
 
+Les arcs de $A_0$ doivent relier des sommets de $S_0$, sans quoi $G_0$ ne serait pas un graphe. Deux cas particuliers ont un nom : le sous-graphe **induit** par $S_0$, qui garde tous les arcs de $G$ entre sommets de $S_0$, et le **graphe partiel**, qui garde tous les sommets ($S_0 = S$) mais seulement une partie des arcs. [[Complément hors du cours|ⓘ]]
+
+### Représenter un graphe en machine
+
+Deux représentations classiques, pour $n = |S|$ sommets numérotés de $1$ à $n$ : [[Complément hors du cours|ⓘ]]
+- la [[Matrice d'adjacence|matrice d'adjacence]] $M$, de taille $n \times n$, avec $M_{ij} = 1$ s'il y a un arc de $i$ vers $j$ et $0$ sinon (symétrique pour un graphe non orienté) : on teste l'existence d'un arc en $O(1)$, mais elle occupe $O(n^2)$ cases, même si le graphe a peu d'arcs ;
+- les **listes d'adjacence** : pour chaque sommet, la liste de ses successeurs (ou voisins), par exemple un dictionnaire Python `{1: [2, 4], 2: [5], …}` ; elles occupent $O(|S| + |A|)$ et conviennent aux graphes peu denses, ceux qu'on parcourt en profondeur ou en largeur.
+
 ## 2. Les arbres
 
 ### Propriétés des arbres
@@ -102,6 +113,10 @@ Soit $G = (S, A)$ un graphe non orienté. Les affirmations suivantes sont **équ
 2. Deux sommets quelconques de $G$ sont reliés par un unique chemin élémentaire.
 3. $G$ est acyclique et $|A| = |S| - 1$.
 4. $G$ est acyclique, mais si une arête quelconque est ajoutée à $A$, le graphe résultant contient un cycle.
+
+La définition de départ, que la liste sous-entend, est : un **arbre** est un graphe non orienté **[[Graphe connexe|connexe]] et acyclique**. On ajoute souvent deux autres caractérisations équivalentes : $G$ est connexe et $|A| = |S| - 1$ ; $G$ est connexe, mais le retrait de n'importe quelle arête le déconnecte (chaque arête est un [[Pont (graphe)|pont]]). Un arbre est donc à la fois un graphe connexe minimal et un graphe acyclique maximal. [[Complément hors du cours|ⓘ]]
+
+Un graphe acyclique qui n'est pas connexe est une **[[Forêt (graphe)|forêt]]** : chacune de ses composantes connexes est un arbre. Inversement, tout graphe connexe contient un **arbre couvrant**, un sous-graphe partiel qui est un arbre ; en chercher un de poids minimal est le problème de l'[[Arbre couvrant minimal|arbre couvrant minimal]]. [[Complément hors du cours|ⓘ]]
 
 ### Qu'est-ce qu'un arbre ?
 
@@ -141,6 +156,8 @@ L'arbre exemple : A a pour fils B, C, D ; B a pour fils E ; D a pour fils F, G, 
 - **Taille de l'arbre** : son nombre de nœuds. Taille de l'arbre exemple : 12 ; taille d'un arbre vide : 0.
 - **Degré d'un nœud** : le nombre de ses fils. Degré de B : 1 ; degré de D : 4.
 - **Degré d'un arbre** : le degré maximum de ses nœuds. Degré de l'arbre exemple : 4.
+- Attention, ce « degré d'un nœud » (nombre de fils, synonyme d'arité) n'est pas le [[Degré d'un sommet|degré au sens des graphes]] (nombre d'arêtes incidentes) : dans le graphe, un nœud autre que la racine a aussi l'arête qui le relie à son père. D a 4 fils, mais 5 arêtes incidentes. [[Complément hors du cours|ⓘ]]
+- Un arbre de $n$ nœuds a $n - 1$ arêtes (propriété 3 ci-dessus) : chaque nœud sauf la racine est relié à son père par exactement une arête. L'arbre exemple, de taille 12, a 11 arêtes. [[Complément hors du cours|ⓘ]]
 - **Niveau d'un nœud** : la distance qui le sépare de la racine. Niveau de la racine : 0 ; le niveau de chaque nœud est celui de son père plus 1 ; le niveau de G est 2.
 
 ![[Chapitre3-Arbres - p23.jpg]]
@@ -161,13 +178,17 @@ Voir [[Hauteur d'un arbre]].
 - Un arbre à un seul nœud est de hauteur 0.
 - L'arbre vide est de hauteur $-1$.
 
+La profondeur d'un nœud est son niveau, défini plus haut ; la hauteur est donc le plus grand niveau, ou encore le nombre d'arêtes de la plus longue branche. L'arbre exemple, dont J, K et L sont au niveau 3, est de hauteur 3. La convention $-1$ pour l'arbre vide rend la définition récursive cohérente : la hauteur d'un arbre non vide vaut $1 + $ la plus grande hauteur de ses sous-arbres, et une feuille, dont les sous-arbres sont vides, a bien pour hauteur $1 + (-1) = 0$. [[Complément hors du cours|ⓘ]]
+
 ### Familles d'arbres
 
 - **[[Arbre m-aire|Arbre $m$-aire]]** : arbre d'ordre $m$ dont le degré maximum d'un nœud est égal à $m$.
 - **[[B-arbre]]** : un B-arbre d'ordre $n$ est un arbre où :
-  - la racine a au moins deux fils ;
-  - chaque nœud autre que la racine a entre $n/2$ et $n$ fils ;
+  - la racine, si elle n'est pas une feuille, a au moins deux fils ; [[Erreurs du cours#^e-3-arbres|✎]]
+  - chaque nœud interne autre que la racine a entre $\lceil n/2 \rceil$ et $n$ fils (les feuilles n'en ont aucun) ; [[Erreurs du cours#^e-3-arbres|✎]]
   - tous les nœuds feuilles sont au même niveau.
+
+  Chaque nœud d'un B-arbre contient plusieurs clés triées (un nœud à $m$ fils en porte $m - 1$, qui séparent ses sous-arbres) ; comme les nœuds sont larges, l'arbre reste très peu haut, ce qui limite le nombre de lectures sur disque. C'est pourquoi les bases de données et de nombreux systèmes de fichiers rangent leurs index dans des B-arbres ou leurs variantes. [[Complément hors du cours|ⓘ]]
 - **[[Arbre binaire]]** : arbre où le degré maximum d'un nœud est égal à 2.
 - **[[Arbre binaire de recherche]]** : arbre binaire où la clé de chaque nœud est supérieure à celle de ses descendants gauches et inférieure à celle de ses descendants droits.
 

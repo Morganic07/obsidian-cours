@@ -11,7 +11,7 @@ sources:
   - "[[5 - philo|philo 3]]"
   - "[[6 - philo|philo 4]]"
   - "[[7 - philo|philo 5]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Matière suivie sur plusieurs années (Year 1, Year 2) : une section par année.
@@ -33,6 +33,9 @@ Philosophie de 1re année, deux cours : l'état (septembre 2023) et la liberté 
 - **L'état : l'artifice selon Hobbes** : [[Sophistes]], [[État de nature]], [[Contrat social]]
 - **Liberté et technique** : [[Perfectibilité]], [[Technique (philosophie)]], [[Désir]], [[Capitalisme]], [[Liberté relative et liberté absolue]], [[Autoconstruction de soi]]
 - **Moralité (Kant)** : [[Autonomie morale]], [[Droit et morale]]
+- **Ajoutés par l'enrichissement** : [[Monopole de la violence légitime]], [[Chrématistique]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ### À revoir en priorité
 
@@ -66,10 +69,9 @@ Philosophie de 2e année, centrée sur la technique, la nature et le progrès. C
 - **Paysage et machine (philo 3)** : [[Paysage dans l'art]], [[Héliocentrisme]], [[Animal-machine]], [[Ruse de la raison]]
 - **Progrès (philo 4)** : [[Progrès technique]], [[Progrès moral]], [[Progrès transhistorique]], [[Philosophie de l'histoire]], [[Espace qualitatif et espace quantitatif]]
 - **Machine et organisme (philo 5)** : [[Organisme et machine]], [[Force plastique]], [[Cybernétique]], [[Technicité]], [[Transduction]], [[Sentience]]
+- **Ajoutés par l'enrichissement** : [[Loi des trois états]], [[Sublime]], [[Lumières]], [[Dualisme]], [[Vitalisme]], [[Rétroaction]], [[Biais d'automatisation]], [[Concrétisation]]
 
-### À revoir en priorité
-
-Référence erronée dans philo 3 : la citation de Hegel est rattachée au *Discours de la méthode*, œuvre de Descartes (voir « Erreurs du cours » dans [[5 - philo|philo 3]]).
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ### Liens avec les autres matières
 

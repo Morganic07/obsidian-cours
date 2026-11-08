@@ -300,3 +300,17 @@ Concepts créés (11, `Informatique`) : Langage C++, Programmation orientée obj
 ## [2026-11-08] ingest | Gestion financière enrichie (fiche pilote)
 
 `1 - gestion financière` complétée : les trois types de banque détaillés, le bilan (haut et bas), les marchés primaire et secondaire, actions et obligations, marché monétaire, la structure de la balance des paiements et le taux de couverture, le TEE et ses secteurs, les trois calculs du PIB, PIB nominal et réel, le passage du PNB au RNB, la marge, les coûts fixes et variables et le seuil de rentabilité. Concepts créés (9) : Banque centrale, Politique monétaire, Inflation, Produit national brut, Valeur ajoutée, Bilan comptable, Action et obligation, Création monétaire, Seuil de rentabilité. Concepts complétés : Types de banque (l'alias banque centrale passe à sa page), Produit intérieur brut (les alias PNB passent à sa page), Balance des paiements, Balance commerciale, Marché financier, Coût et prix, Opérations de haut de bilan. Carte et Accueil mis à jour. Niveau de détail soumis à l'utilisatrice avant d'enrichir les autres matières.
+
+## [2026-11-08] ingest | Enrichissement de toutes les fiches de cours
+
+148 fiches examinées et enrichies par 72 lots d'agents (projets de design, note de groupe SHS et Gestion financière exclus), 439 pages de concept écrites dont 172 créées, 7 noms de concept fusionnés comme doublons.
+
+Contrôle après le chantier : texte des fiches +68 % (surtout les notes les plus minces) ; aucun encadré, aucun « À vérifier », `Raw/` intact ; aucune ligne de cours perdue, sauf une phrase de [[5 - imaginaires de l'automobile]] (Hammond) déplacée dans un complément, remise en place. Corrigés : 5 liens vers `Raw/` réécrits en Unicode composé (NFC) alors que les noms de fichiers de Drive sont décomposés (NFD) ; un lien vers [[Degrés de liberté]], page créée ; une ligne parasite « path: » dans [[4 - C++]] ; l'entrée « Erreurs du cours » de [[0 - Revision chapter]] sur $\sqrt{1+x}$, qui affirmait à tort une erreur de signe (seul $x^n$ manque). 1 467 concepts, aucun lien cassé, tous les concepts dans Accueil. 123 doutes des agents soumis à l'utilisatrice.
+
+## [2026-11-08] lint | Correction des erreurs du cours
+
+Nouvelle règle : les erreurs des cours ne sont plus relevées dans une section à part, mais corrigées directement dans le texte des fiches et des concepts. Chaque passage corrigé finit par la marque `[[Erreurs du cours|✎]]`, qui mène à la page racine [[Erreurs du cours]] ; celle-ci donne, page par page, ce que disait le cours, la version juste et sa source. Une source fiable du web (documentation, norme, manuel, organisme officiel) ou un calcul refait l'emporte sur la prise de note.
+
+297 pages corrigées (fiches et concepts), 581 corrections marquées ✎. Les sections « Erreurs du cours », les encadrés « Écart dans le cours » et les phrases « En cas d'écart, le cours fait foi » sont supprimés partout ; les rubriques « À revoir » des cartes qui renvoyaient à des erreurs sont réécrites en points à maîtriser. Faits retirés faute de source : la Suède qui aurait banni Google ([[1 - Culture du vivant]]), une traduction de Hobbes attribuée à Tricaud ([[1 - philo]]), l'espace dans `id _saison` ([[Langage SQL]]).
+
+Détail des corrections : [[Erreurs du cours]].

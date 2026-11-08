@@ -3,7 +3,7 @@ type: concept
 tags: [year3]
 aliases: [hypothesis test, hypothesis testing, tests d'hypothèse, test d'hypothèses, hypothèse nulle, hypothèse alternative, null hypothesis, alternative hypothesis]
 sources: ["[[5 - Hypothesis Testing|Cours 5 - Hypothesis Testing]]", "[[7 - Z-Test|Cours 7 - Z-Test]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Démarche pour décider sur une population à partir d'un échantillon, quand une affirmation porte sur un paramètre ; sinon, on construit un [[Intervalle de confiance]] ([[5 - Hypothesis Testing|Cours 5 - Hypothesis Testing]]).
@@ -12,7 +12,7 @@ Démarche pour décider sur une population à partir d'un échantillon, quand un
 
 **Procédure** :
 
-1. formuler $H_0$ et $H_1$ ;
+1. formuler $H_0$ et $H_1$, par exemple $H_0 : \mu = 12{,}7$ ans et $H_1 : \mu \neq 12{,}7$ ans ; en bilatéral, $H_1$ réunit deux possibilités, $\mu < \#$ ou $\mu > \#$, c'est-à-dire $\mu \neq \#$ ; [[Erreurs du cours#^e-test-d-hypothese|✎]]
 2. fixer le [[Seuil de signification|seuil α]] ;
 3. choisir la [[Statistique de test|statistique de test]] ;
 4. établir la [[Valeur critique|valeur critique]] ;
@@ -22,10 +22,5 @@ Démarche pour décider sur une population à partir d'un échantillon, quand un
 **Limites** : un test aide la décision sans la prendre, et il n'explique pas les différences observées ([[7 - Z-Test|Cours 7 - Z-Test]]).
 
 Notion parente : [[Statistique inférentielle]]. Voir aussi : [[Erreur de type I et de type II]], [[Seuil de signification]], [[P-value]], [[Valeur critique]], [[Test unilatéral et bilatéral]], [[Statistique de test]], [[Test t]], [[Test Z]], [[Test du χ²]], [[ANOVA]].
-
-## Erreurs du cours
-
-- [[5 - Hypothesis Testing|Cours 5 - Hypothesis Testing]] écrit « H0 (Hypothèse nulle) : ex. μ=12,7 ans » puis « H1 (Hypothèse alternative) : ex. μ=12,7 ans » ; il faut $H_1 : \mu \neq 12{,}7$. Le signe manque dans le document lui-même, pas seulement dans sa conversion.
-- [[5 - Hypothesis Testing|Cours 5 - Hypothesis Testing]] écrit que, pour un test bilatéral, « H1 then includes two possibilities: μ = # or μ ≠ # » ; il faut $\mu < \#$ ou $\mu > \#$, c'est-à-dire $\mu \neq \#$.
 
 Résumés : [[5 - Hypothesis Testing]], [[6 - T-Test]], [[7 - Z-Test]], [[0 - proba&stats utilitaire]]

@@ -4,10 +4,10 @@ tags: [year2]
 aliases: [dérivées partielles, partial derivative, partial derivatives, Schwarz, dérivées croisées, dérivée seconde partielle, "dérivées d'ordre 2"]
 matieres: [Analyse dans Rn, Analyse Maths, Analyse]
 sources: ["[[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]]", "[[5 - Calcul différentiel d'ordre supérieur|Chp 5 - Calcul différentiel d'ordre supérieur]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
-Dérivée de $f$ selon une seule variable, les autres étant fixées :
+Dérivée de $f$ selon une seule variable, les autres étant fixées ; pour $f$ définie sur un ouvert $U$ de $\mathbb{R}^p$ et $a \in U$ : [[Erreurs du cours#^e-derivee-partielle|✎]]
 
 $$\left.\frac{\partial f}{\partial x_j}\right|_a = \lim_{t \to 0} \frac{f(a + te_j) - f(a)}{t}$$
 
@@ -20,9 +20,5 @@ Pour une application vectorielle, elle se calcule composante par composante. Avo
 **[[Théorème de Schwarz]]** : si les dérivées croisées sont définies et continues en $a$, alors $\frac{\partial^2 f}{\partial x_j \partial x_i} = \frac{\partial^2 f}{\partial x_i \partial x_j}$ en $a$. Être $\mathcal{C}^2$ suffit, mais n'est pas nécessaire.
 
 Notion parente : [[Différentielle]]. Voir aussi : [[Théorème de Schwarz]], [[Gradient]], [[Fonction de classe Ck]], [[Matrice jacobienne]], [[Équation aux dérivées partielles]]
-
-## Erreurs du cours
-
-- [[4 - Calcul différentiel du premier ordre|Chp 4 - Calcul différentiel du premier ordre]], définition 1, écrit « Soit $U$ un ouvert de $\mathbb{R}^p$. Soit $a \in \mathbb{R}^p$ » ; il faut $a \in U$ : $f$ n'est définie que sur $U$, et $f(a)$ figure dans la limite.
 
 Résumés : [[4 - Calcul différentiel du premier ordre]], [[5 - Calcul différentiel d'ordre supérieur]], [[2 - intégrales multiples]]

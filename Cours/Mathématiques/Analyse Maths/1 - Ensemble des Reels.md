@@ -2,8 +2,9 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé de Chap1-reels ([[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]]) (PDF de 6 pages, « Chapitre 1 : L'ensemble $\mathbb{R}$ »), dans [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]]. Scan sans texte (assemblage de captures de plusieurs documents), lu en image. Le document ne contient aucune figure : tout est recopié en texte ci-dessous.
@@ -20,6 +21,8 @@ On utilise les notations classiques des [[Ensembles de nombres|ensembles emboît
 | $\mathbb{R}$ | Réels | $\sqrt{2},\ \pi,\ e, \dots$ |
 | $\mathbb{C}$ | Complexes | $1 + 2i,\ 1 + i\sqrt{3},\ 2e^{i\pi/3}, \dots$ |
 
+Chaque ensemble répond à une équation que le précédent ne sait pas résoudre : $x + 1 = 0$ n'a pas de solution dans $\mathbb{N}$ mais en a une dans $\mathbb{Z}$, $2x = 1$ en a une dans $\mathbb{Q}$, $x^2 = 2$ dans $\mathbb{R}$, $x^2 = -1$ dans $\mathbb{C}$. Les réels non rationnels sont dits **irrationnels** ; l'exemple classique est $\sqrt{2}$ ([[Irrationalité de √2]]) : si $\sqrt{2} = \frac{p}{q}$ avec la fraction irréductible, alors $p^2 = 2q^2$, donc $p$ est pair, $p = 2k$, puis $q^2 = 2k^2$ et $q$ est pair aussi, ce qui contredit l'irréductibilité. $\pi$ et $e$ sont aussi irrationnels, mais la preuve est plus difficile. [[Complément hors du cours|ⓘ]]
+
 On peut y ajouter l'ensemble $\mathbb{D}$ des **nombres décimaux** :
 $$\mathbb{D} = \left\{ \frac{m}{10^p},\ m \in \mathbb{Z},\ p \in \mathbb{N} \right\}$$
 ce sont les nombres dont l'écriture décimale comporte un nombre fini de chiffres, et $\mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}$. Exemples : $1{,}234 = 1234 \times 10^{-3} = \frac{1234}{1000}$ ; $0{,}00345 = 345 \times 10^{-5} = \frac{345}{100\,000}$.
@@ -27,6 +30,8 @@ ce sont les nombres dont l'écriture décimale comporte un nombre fini de chiffr
 > **Proposition 1.** Un nombre est [[Nombre rationnel|rationnel]] si et seulement s'il admet une écriture décimale périodique ou finie.
 
 Exemples : $\frac{3}{5} = 0{,}6$ ; $\frac{1}{3} = 0{,}3333\ldots$ ; $1{,}179\,325\,325\,325\ldots$
+
+Pourquoi un rationnel donne une écriture périodique : en posant la division de $p$ par $q$, chaque étape laisse un reste compris entre $0$ et $q - 1$. Il n'y a que $q$ restes possibles, donc soit un reste nul apparaît (écriture finie), soit un reste revient, et à partir de là les chiffres se répètent ; la période a donc au plus $q - 1$ chiffres (par exemple $\frac{1}{7} = 0{,}\underline{142857}\,142857\ldots$, période de 6 chiffres). La réciproque est la méthode ci-dessous. [[Complément hors du cours|ⓘ]]
 
 ### Méthode : montrer qu'un développement périodique est rationnel
 
@@ -41,6 +46,8 @@ $$10\,000 \times 100x - 100x = 12\,342\,021 - 1234$$
 donc $999\,900\,x = 12\,340\,787$ et
 $$x = \frac{12\,340\,787}{999\,900} \in \mathbb{Q}.$$
 
+La même méthode montre que $0{,}999\ldots = 1$ : si $x = 0{,}999\ldots$, alors $10x - x = 9{,}999\ldots - 0{,}999\ldots = 9$, donc $9x = 9$ et $x = 1$. Un décimal non nul a ainsi deux écritures décimales illimitées ($1 = 0{,}999\ldots$, $0{,}5 = 0{,}4999\ldots$) ; on convient d'utiliser celle qui ne finit pas par une infinité de 9. [[Complément hors du cours|ⓘ]]
+
 ### Propriétés de $\mathbb{R}$
 
 1. $\mathbb{R}$ est un [[Corps (algèbre)|corps]] : l'addition et la multiplication ont toutes les propriétés « sympathiques » que l'on peut espérer.
@@ -48,9 +55,13 @@ $$x = \frac{12\,340\,787}{999\,900} \in \mathbb{Q}.$$
 3. La relation d'ordre $\le$ y est totale et compatible avec l'addition et la multiplication.
 4. La plus importante est la propriété de la borne supérieure (partie III).
 
+Les « propriétés sympathiques » du point 1 sont précisément : l'addition et la multiplication sont associatives et commutatives, ont un élément neutre ($0$ et $1$), tout réel a un opposé $-x$, tout réel **non nul** a un inverse $\frac{1}{x}$, et la multiplication est distributive sur l'addition. La compatibilité du point 3 signifie : $x \le y \Rightarrow x + z \le y + z$, et $x \le y$, $z \ge 0 \Rightarrow xz \le yz$ (multiplier par un négatif renverse l'inégalité). $\mathbb{Q}$ a déjà toutes ces propriétés : c'est la propriété de la borne supérieure qui distingue $\mathbb{R}$. [[Complément hors du cours|ⓘ]]
+
 ## II. Relation d'ordre
 
 Voir [[Relation d'ordre]] et [[Majorant et minorant]].
+
+La [[Valeur absolue|valeur absolue]] $|x| = \max(x, -x)$ mesure la distance de $x$ à $0$, et $|x - y|$ la distance entre $x$ et $y$. Règles à connaître : $|xy| = |x|\,|y|$ ; $|x| \le K \iff -K \le x \le K$ (c'est ce qui sert dans la définition de « bornée » ci-dessous) ; [[Inégalité triangulaire|inégalité triangulaire]] $|x + y| \le |x| + |y|$, et sa forme renversée $\big||x| - |y|\big| \le |x - y|$. [[Complément hors du cours|ⓘ]]
 
 ### 1.1 Majorants et minorants d'une partie de $\mathbb{R}$
 
@@ -132,6 +143,8 @@ Le résultat qui suit est **une propriété essentielle de l'ensemble des réels
 > - Toute partie non vide majorée de $\mathbb{R}$ possède une borne supérieure.
 > - Toute partie non vide minorée de $\mathbb{R}$ possède une borne inférieure.
 
+C'est exactement ce qui manque à $\mathbb{Q}$. La partie $A = \{x \in \mathbb{Q} \mid x \ge 0,\ x^2 < 2\}$ est non vide et majorée (par 2), mais elle n'a pas de borne supérieure **dans $\mathbb{Q}$** : dans $\mathbb{R}$, $\sup A = \sqrt{2}$, qui n'est pas rationnel. On dit que $\mathbb{R}$ « bouche les trous » de $\mathbb{Q}$. Les deux hypothèses du théorème sont nécessaires : $\varnothing$ n'a pas de borne supérieure (tout réel le majore), $\mathbb{N}$ non plus (il n'est pas majoré). [[Complément hors du cours|ⓘ]]
+
 > **Proposition 5 (caractérisation de la borne supérieure).** Soit $A$ une partie non vide et majorée de $\mathbb{R}$. La borne supérieure de $A$ est l'unique réel $\sup A$ tel que
 > (i) si $x \in A$, alors $x \le \sup A$ ;
 > (ii) pour tout $y < \sup A$, il existe $x \in A$ tel que $y < x$.
@@ -147,6 +160,10 @@ Le résultat qui suit est **une propriété essentielle de l'ensemble des réels
 
 (Caractérisation séquentielle, « anticipée sur la suite » : voir [[Convergence d'une suite]].)
 
+Pour construire la suite du (ii) : pour chaque $n \ge 1$, $\sup A - \frac{1}{n} < \sup A$, donc la proposition 5 (ii) fournit $x_n \in A$ avec $\sup A - \frac{1}{n} < x_n \le \sup A$ ; par le [[Théorème des gendarmes|théorème des gendarmes]], $x_n \to \sup A$. [[Complément hors du cours|ⓘ]]
+
+**Exemple** : $A = \left\{1 - \frac{1}{n},\ n \ge 1\right\}$ vérifie $\sup A = 1$ (1 majore $A$, et $1 - \frac{1}{n} \to 1$), mais $1 \notin A$, donc $A$ n'a pas de plus grand élément ; $\min A = 0$ (atteint pour $n = 1$), donc $\inf A = 0$. [[Complément hors du cours|ⓘ]]
+
 ## IV. $\mathbb{R}$ est archimédien, partie entière, approximation décimale
 
 > **Propriété (R3, [[Propriété d'Archimède|propriété d'Archimède]]).** $\mathbb{R}$ est archimédien :
@@ -159,6 +176,8 @@ Cette propriété semble évidente mais elle est essentielle : elle permet de d�
 > $$E(x) \le x < E(x) + 1.$$
 
 **Exemple 1.** $E(2{,}853) = 2$, $E(\pi) = 3$, $E(-3{,}5) = -4$ ; $E(x) = 3 \iff 3 \le x < 4$.
+
+La partie entière se note aussi $\lfloor x \rfloor$ (notation courante en informatique, où l'on parle de *floor*, et de *ceil* $\lceil x \rceil$ pour l'entier immédiatement supérieur ou égal). Pour un réel négatif, ce n'est **pas** « la partie avant la virgule » : $E(-3{,}5) = -4$ et non $-3$. Propriétés utiles : $x - 1 < E(x) \le x$, et $E(x + n) = E(x) + n$ pour tout $n \in \mathbb{Z}$. [[Complément hors du cours|ⓘ]]
 
 *Démonstration.*
 
@@ -204,12 +223,14 @@ Notons $r = d_n + 10^{-n}$, avec $d_n$ l'approximation décimale de $x$ à $10^{
 - On sait que $d_n \le x < d_n + 10^{-n} = r$.
 - De plus, $r = d_n + 10^{-n} \le x + 10^{-n} < x + (y - x) = y$.
 
-On a donc bien $x < r < y$ avec $r \in \mathbb{Q}$.
+On a donc bien $x < r < y$ avec $r \in \mathbb{Q}$. [[Erreurs du cours#^e-1-ensemble-des-reels|✎]]
+
+La preuve s'arrête à un rationnel ; le reste de l'énoncé en découle. **Une infinité** : on applique le résultat entre $x$ et $r_1$, puis entre $x$ et le rationnel $r_2$ obtenu, etc., ce qui donne $x < \cdots < r_3 < r_2 < r_1 < y$, tous distincts. **Les irrationnels** : on trouve un rationnel $r$ entre $x - \sqrt{2}$ et $y - \sqrt{2}$, et $r + \sqrt{2}$ est alors un irrationnel entre $x$ et $y$ (si $r + \sqrt{2}$ était rationnel, $\sqrt{2}$ le serait aussi). [[Complément hors du cours|ⓘ]]
+
+Conséquence pratique : tout réel est limite d'une suite de rationnels (par exemple ses approximations décimales $d_n$), ce qui justifie qu'on calcule en machine avec des décimaux. [[Complément hors du cours|ⓘ]]
+
+Malgré cette densité, il y a « beaucoup plus » d'irrationnels que de rationnels : $\mathbb{Q}$ est [[Ensemble dénombrable|dénombrable]] (on peut numéroter ses éléments par les entiers), alors que $\mathbb{R}$ ne l'est pas, résultat démontré par Cantor en 1874, puis à nouveau par son argument diagonal en 1891. [[Complément hors du cours|ⓘ]]
 
 ## Liens
 
 [[Relation d'ordre]], [[Borne supérieure]], [[Récurrence]] (preuves sur $\mathbb{N}$). Les théorèmes cités comme conséquences servent dans [[Limite et continuité]], [[Dérivabilité]] et [[Intégrale]].
-
-## Erreurs du cours
-
-- [[Raw/Year 1/Analyse Maths/Cours/Chap1-reels.pdf|Chap1-reels.pdf]] conclut la preuve de densité par « On a donc bien : $x < r < y$ et $y \in \mathbb{Q}$ » ; il faut « $r \in \mathbb{Q}$ » (forme reprise dans cette fiche).

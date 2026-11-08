@@ -25,12 +25,8 @@ Le système international de comptabilité nationale de 1993 a renommé le PNB *
 
 ## Dans le cours
 
-D'après [[1 - gestion financière|Gestion financière]] : « PIB, avant c'était PNB ». La note définit le PNB comme ne comptant que les entreprises françaises sur le sol français, ce qui est incomplet (voir « Erreurs du cours »).
+D'après [[1 - gestion financière|Gestion financière]] : « PIB, avant c'était PNB ». Le PNB compte les entreprises françaises, sur le sol français et à l'étranger. [[Erreurs du cours#^e-produit-national-brut|✎]]
 
 Voir aussi : [[Produit intérieur brut]], [[Tableau économique d'ensemble]], [[Balance des paiements]].
-
-## Erreurs du cours
-
-- [[Raw/Year 4/Gestion financière.docx|Gestion financière]] écrit « PNB juste les entreprises francaises sur le sol francais » ; il faut : la production des unités françaises en France **et à l'étranger**.
 
 Résumés : [[1 - gestion financière]]

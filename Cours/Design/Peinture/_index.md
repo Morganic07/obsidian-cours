@@ -6,7 +6,7 @@ sources:
   - "[[1 - Peinture|Cours 1 (Peinture)]]"
   - "[[2 - Peinture|Cours 2 (Peinture)]]"
   - "[[3 - Peinture|Cours 3 (Peinture)]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
@@ -24,6 +24,9 @@ Peinture et couleur en 1re année : trois cours (septembre à novembre 2023).
 - **Symbolique et perception des couleurs (cours 1 et 2)** : [[Symbolique des couleurs]], [[Cercle chromatique]], [[Contraste des couleurs]], [[Synesthésie]], [[Anthropocentrisme]]
 - **Mouvements et artistes cités** : [[Impressionnisme]], [[Fauvisme]], [[Surréalisme]], [[Bauhaus]], [[Art abstrait]], [[Expressionnisme abstrait]], [[Dripping]], [[Outrenoir]], [[Pop art]], [[Street art]]
 - **Fabriquer ses couleurs (cours 3)** : [[Liant et diluant]], [[Pigment]], [[Gouache]], [[Tempera]], [[Encaustique]]
+- **Ajoutés par l'enrichissement** : [[Synthèse additive et soustractive]], [[Peinture à l'huile]], [[Aquarelle]], [[Fresque]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 Les devoirs de cette matière sont volontairement absents du coffre.
 

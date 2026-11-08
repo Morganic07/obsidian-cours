@@ -2,11 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]], dans [[Cours/Mathématiques/Séries/_index|Séries]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Les énoncés en image sont recopiés en texte ; seules les trois figures de la comparaison série-intégrale sont intégrées.
+Résumé de [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]], dans [[Cours/Mathématiques/Séries/_index|Séries]]. Cours en anglais. Les énoncés en image sont recopiés en texte ; seules les trois figures de la comparaison série-intégrale sont intégrées.
 
 ## Idée générale
 
@@ -40,6 +41,8 @@ $$S_n = a\,\frac{1-r^{n+1}}{1-r}.$$
    - Si $-1 < r < 1$ : $r^n \to 0$, donc $S_n \to \frac{a}{1-r}$, la série converge.
    - Si $r > 1$ ou $r \le -1$ : $(r^n)$ diverge, $\lim S_n$ n'existe pas, la série diverge.
 
+Exemples : $\sum_{n \ge 0} \frac{1}{2^n} = \frac{1}{1 - 1/2} = 2$, et $\sum_{n \ge 1} \frac{1}{2^n} = 2 - 1 = 1$ (note $\Sigma_1$ ci-dessus). Le développement décimal $0{,}999\ldots = \sum_{n \ge 1} \frac{9}{10^n} = \frac{9/10}{1 - 1/10} = 1$ est une série géométrique : il prouve que $0{,}999\ldots = 1$. [[Complément hors du cours|ⓘ]]
+
 ### Série télescopique
 
 **Définition.** Soit $(a_n)$ une suite et $u_n = a_n - a_{n-1}$ pour $n \ge 1$. La série $\sum_{n \ge 1} u_n$ est une série télescopique (*telescoping series*). Voir [[Somme télescopique]].
@@ -51,7 +54,9 @@ $$S = \sum_{n=1}^{+\infty}(a_n - a_{n-1}) = \ell - a_0.$$
 
 **Note de cours.** Si le terme est $a_{k-1} - a_k$, alors $S_n = a_0 - a_n$, de limite $a_0 - \ell$.
 
-**Exercice.** Étudier $\sum_{n\ge1} \frac{1}{n(n+1)}$. Le cours ne donne pas la correction (indication hors cours : $\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}$, série télescopique de somme 1).
+**Exercice.** Étudier $\sum_{n\ge1} \frac{1}{n(n+1)}$. Le cours ne donne pas la correction.
+
+Correction : $\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}$ ([[Décomposition en éléments simples|décomposition en éléments simples]]), donc $S_n = 1 - \frac{1}{n+1} \to 1$ : la série télescopique converge et sa somme vaut 1. [[Complément hors du cours|ⓘ]]
 
 ### Série harmonique
 
@@ -64,6 +69,8 @@ $$S_{2n} - S_n = \sum_{k=n+1}^{2n} \frac{1}{k} \ge n \times \frac{1}{2n} = \frac
 À la limite, $0 \ge \frac{1}{2}$ : contradiction.
 
 **Note de cours.** Ajouter des termes de plus en plus petits ne donne pas toujours une série convergente.
+
+La divergence est très lente : la comparaison avec $\int \frac{dx}{x}$ donne $\ln(n+1) \le S_n \le 1 + \ln n$, donc $S_n \sim \ln n$, et $S_n - \ln n$ tend vers la [[Constante d'Euler|constante d'Euler]] $\gamma \approx 0{,}5772$. Il faut environ $1{,}2 \times 10^{4}$ termes pour que $S_n$ dépasse 10. La première preuve connue de la divergence, par regroupement des termes ($\frac13 + \frac14 \ge \frac12$, $\frac15 + \dots + \frac18 \ge \frac12$, etc.), est due à Nicole Oresme au XIVe siècle. [[Complément hors du cours|ⓘ]]
 
 ### Condition nécessaire de convergence
 
@@ -82,7 +89,7 @@ $$R_n = S - S_n = \sum_{k \ge n+1} a_k.$$
 
 **Proposition.** $\lim R_n = 0$ (car $R_n = S - S_n$).
 
-**Remarque.** Si $\sum_{k \ge n+1} a_k$ n'a pas de limite ou ne tend pas vers 0, la série diverge.
+**Remarque.** Si $\sum_{k \ge n+1} a_k$ n'a pas de limite ou ne tend pas vers 0, la série diverge. [[Erreurs du cours#^e-1-convergent-divergent-and-positive-terms-series|✎]]
 
 ### Opérations sur les séries
 
@@ -91,7 +98,7 @@ $$R_n = S - S_n = \sum_{k \ge n+1} a_k.$$
 **Théorème.** Si $\sum a_n$ et $\sum b_n$ convergent, alors $\sum(a_n + \lambda b_n)$ converge et
 $$\sum_{n=0}^{+\infty} (a_n + \lambda b_n) = \sum_{n=0}^{+\infty} a_n + \lambda \sum_{n=0}^{+\infty} b_n.$$
 
-**Preuve.** Avec $S_n = \sum_{k=0}^n a_k \to S$ et $T_n = \sum_{k=0}^n b_k \to T$, la somme partielle vaut $U_n = S_n + \lambda T_n \to S + \lambda T$.
+**Preuve.** Avec $S_n = \sum_{k=0}^n a_k \to S$ et $T_n = \sum_{k=0}^n b_k \to T$, la somme partielle vaut $U_n = S_n + \lambda T_n \to S + \lambda T$. [[Erreurs du cours#^e-1-convergent-divergent-and-positive-terms-series|✎]]
 
 **Conséquences (notes de cours).**
 1. Somme de deux séries convergentes : convergente ($\lambda = 1$).
@@ -135,6 +142,8 @@ Preuve : il existe $M > 0$ tel que $0 \le a_n \le M b_n$ ; si $\sum b_n$ converg
 
 **Corollaire (équivalents).** Si $a_n \underset{+\infty}{\sim} b_n$ (termes positifs), les deux séries sont de même nature. Voir [[Équivalent (comparaison asymptotique)]].
 
+Exemple : $\frac{n+1}{n^3 + 2} \sim \frac{1}{n^2}$, de signe positif, donc $\sum \frac{n+1}{n^3+2}$ converge ; $\sin \frac{1}{n} \sim \frac{1}{n}$, donc $\sum \sin\frac{1}{n}$ diverge. Il suffit que les termes soient positifs à partir d'un certain rang, ou tous négatifs (on raisonne alors sur $-a_n$). [[Complément hors du cours|ⓘ]]
+
 ### Comparaison série-intégrale
 
 Voir [[Comparaison série-intégrale]].
@@ -173,11 +182,17 @@ $$S_n + \int_{n+1}^{+\infty} f(x)\,dx \le S \le S_n + \int_{n}^{+\infty} f(x)\,d
 
 **Exemple.** Estimation de $\sum_{n=1}^{+\infty}\frac{1}{n^3}$ avec $n = 20$ :
 $$S_{20} + \int_{21}^{+\infty}\frac{dx}{x^3} \le S \le S_{20} + \int_{20}^{+\infty}\frac{dx}{x^3}, \quad\text{soit}\quad S_{20} + \frac{1}{2(21)^2} \le S \le S_{20} + \frac{1}{2(20)^2}.$$
-Le cours donne $S_{20} = 1.20087$ et $1.20197 \le S \le 1.20212$ (borne basse fausse, voir « Erreurs du cours »).
+Avec $S_{20} = 1.20087$, on obtient $1.20200 \le S \le 1.20212$. [[Erreurs du cours#^e-1-convergent-divergent-and-positive-terms-series|✎]]
 
 ### Séries de Riemann
 
 **Théorème.** Pour $p$ réel, la série $\sum_{n\ge1}\frac{1}{n^p}$ (*p-series*, série de Riemann) converge si et seulement si $p > 1$.
+
+Preuve : si $p \le 0$, $\frac{1}{n^p}$ ne tend pas vers 0 (divergence grossière). Si $p > 0$, $f(x) = \frac{1}{x^p}$ est continue, positive et décroissante sur $[1, +\infty[$, et $\int_1^{X} \frac{dx}{x^p}$ vaut $\frac{X^{1-p} - 1}{1-p}$ si $p \ne 1$ et $\ln X$ si $p = 1$ : l'intégrale converge si et seulement si $p > 1$, et la comparaison série-intégrale conclut. [[Complément hors du cours|ⓘ]]
+
+La somme $\sum_{n \ge 1} \frac{1}{n^p}$ définit, pour $p > 1$, la fonction zêta de Riemann $\zeta(p)$. Euler a établi en 1735 que $\zeta(2) = \sum \frac{1}{n^2} = \frac{\pi^2}{6}$ (problème de Bâle) ; on sait aussi que $\zeta(4) = \frac{\pi^4}{90}$, et l'exemple ci-dessus estime $\zeta(3) \approx 1{,}202$. La valeur $\frac{\pi^2}{6}$ se retrouve avec les [[Série de Fourier|séries de Fourier]] et l'égalité de Parseval ([[6 - Fourier Series|chapitre 6]]). [[Complément hors du cours|ⓘ]]
+
+Les [[Série de Bertrand|séries de Bertrand]] $\sum_{n \ge 2} \frac{1}{n^\alpha (\ln n)^\beta}$ affinent l'échelle de Riemann : elles convergent si et seulement si $\alpha > 1$, ou $\alpha = 1$ et $\beta > 1$. Exemple : $\sum \frac{1}{n \ln n}$ diverge (comparaison avec $\int \frac{dx}{x \ln x} = \ln(\ln x)$), alors que $\sum \frac{1}{n (\ln n)^2}$ converge. [[Complément hors du cours|ⓘ]]
 
 **Corollaire (règle $n^p a_n$).** Pour une série à termes positifs :
 1. s'il existe $p > 1$ tel que $\lim n^p a_n = 0$, la série converge ;
@@ -188,9 +203,3 @@ Le cours donne $S_{20} = 1.20087$ et $1.20197 \le S \le 1.20212$ (borne basse fa
 2. $p \le 1$ : $\sum\frac{1}{n^p}$ diverge ; à partir d'un rang $n_0$, $n^p a_n \ge 1$, donc $a_n \ge \frac{1}{n^p}$, et la comparaison conclut à la divergence.
 
 La note se termine sur le titre « Alternating series », traité dans [[2 - Alternating and absolutly convergent series|le chapitre 2]].
-
-## Erreurs du cours
-
-- [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]] écrit, pour $\sum 1/n^3$ avec $n = 20$, « $1.20197 \le S \le 1.20212$ » (vérifié sur l'image) ; la borne basse est $S_{20} + \frac{1}{2 \cdot 21^2} = 1.20087 + 0.00113 \approx 1.20200$. La borne haute 1.20212 est juste.
-- [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]] écrit, dans la remarque sur le reste, « $\sum_{k \ge n+1} a_n$ » (vérifié sur l'image) ; il faut « $\sum_{k \ge n+1} a_k$ ».
-- [[Raw/Year 3/Séries/Chp1 : Convergent, divergent and positive terms SERIES.docx|Chp1 - Convergent, divergent and positive terms SERIES]] écrit, dans la preuve des combinaisons linéaires, « $S_n = \sum_{n=0}^{n} a_k$ » (vérifié sur l'image) ; il faut « $\sum_{k=0}^{n} a_k$ ».

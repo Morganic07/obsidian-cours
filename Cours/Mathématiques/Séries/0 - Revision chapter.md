@@ -2,11 +2,12 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]], dans [[Cours/Mathématiques/Séries/_index|Séries]]. Cours en anglais. En cas d'écart, le cours et ses images font foi. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
+Résumé de [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]], dans [[Cours/Mathématiques/Séries/_index|Séries]]. Cours en anglais. Toutes les images de la note sont des énoncés (texte et formules) : leur contenu est recopié ci-dessous, aucune n'est une figure.
 
 ## Idée générale
 
@@ -37,17 +38,27 @@ $$\exists \ell \in \mathbb{R},\ \forall \epsilon > 0,\ \exists N \in \mathbb{N},
 
 **Exercice.** Étudier les suites $a_n = \frac{n^2}{\sqrt{n^3+4n}}$ pour $n \ge 1$, et $a_n = -n^2 + 2n - 4$ pour $n \ge 0$. Le cours ne donne pas la correction.
 
+Correction : $\sqrt{n^3+4n} \sim n^{3/2}$, donc $a_n \sim \frac{n^2}{n^{3/2}} = \sqrt{n} \to +\infty$ ; pour la seconde, $-n^2 + 2n - 4 = -n^2\left(1 - \frac{2}{n} + \frac{4}{n^2}\right) \to -\infty$ (terme de plus haut degré). Les deux suites divergent. [[Complément hors du cours|ⓘ]]
+
 **Définition (convergente / divergente).** La suite est **convergente** s'il existe $\ell \in \mathbb{R}$ tel qu'elle converge vers $\ell$. Sinon elle est **divergente** : elle tend vers $+\infty$, ou vers $-\infty$, ou n'admet pas de limite $\ell \in \mathbb{R}$. Voir [[Convergence d'une suite]].
+
+**Unicité de la limite** : si $(a_n)$ converge, sa limite $\ell$ est unique. Si $a_n \to \ell$ et $a_n \to \ell'$ avec $\ell \ne \ell'$, on prend $\epsilon = \frac{|\ell - \ell'|}{2}$ : à partir d'un rang, $|\ell - \ell'| \le |\ell - a_n| + |a_n - \ell'| < 2\epsilon = |\ell - \ell'|$, contradiction. C'est ce qui autorise la notation $\lim a_n$. [[Complément hors du cours|ⓘ]]
+
+Exemple de suite divergente sans limite : $a_n = (-1)^n$. Ses [[Suite extraite|suites extraites]] $a_{2n} = 1$ et $a_{2n+1} = -1$ ont des limites différentes, alors que toute suite extraite d'une suite convergente tend vers la même limite. [[Complément hors du cours|ⓘ]]
 
 ## Suite géométrique
 
 **Définition.** Une [[Suite géométrique]] est une suite de nombres non nuls où chaque terme, après le premier, s'obtient en multipliant le précédent par un nombre fixe non nul, la raison (*common ratio*). Forme générale :
 $$a,\ ar,\ ar^2,\ \ldots,\ ar^n,\ \ldots \qquad r \ne 0,\ a \in \mathbb{R}.$$
 
+Le terme général est $a_n = a r^n$, et le comportement de $(r^n)$ dépend de la raison : $r^n \to 0$ si $|r| < 1$ ; $r^n = 1$ si $r = 1$ ; $r^n \to +\infty$ si $r > 1$ ; pas de limite si $r \le -1$ (le signe alterne et $|r^n|$ ne tend pas vers 0). Ce résultat sert directement pour la série géométrique au [[1 - Convergent, divergent and positive terms SERIES|chapitre 1]]. [[Complément hors du cours|ⓘ]]
+
 ## Limite d'une suite définie par une fonction
 
 **Théorème.** Soit $f : \mathbb{R} \to \mathbb{R}$ et $a_n = f(n)$. Alors
 $$\lim_{x\to+\infty} f(x) = \ell \ \Rightarrow\ \lim_{n\to+\infty} a_n = \ell.$$
+
+La réciproque est fausse : avec $f(x) = \sin(\pi x)$, on a $a_n = \sin(\pi n) = 0 \to 0$, alors que $f$ n'a pas de limite en $+\infty$. [[Complément hors du cours|ⓘ]]
 
 **Remarque.** La limite en $\pm\infty$ d'une fraction rationnelle est celle du quotient de ses termes de plus haut degré.
 
@@ -63,6 +74,8 @@ Soient $(a_n)$, $(b_n)$ deux suites convergentes et $c$ une constante.
 6. Si $\lim b_n \ne 0$, alors $\lim \dfrac{a_n}{b_n} = \dfrac{\lim a_n}{\lim b_n}$.
 7. Si $p > 0$ et $\forall n,\ a_n > 0$, alors $\lim (a_n)^p = \left[\lim a_n\right]^p$.
 
+Ces règles s'étendent aux limites infinies, sauf dans les [[Forme indéterminée|formes indéterminées]] $\infty - \infty$, $0 \times \infty$, $\frac{\infty}{\infty}$, $\frac{0}{0}$, ainsi que $1^\infty$, $0^0$ et $\infty^0$ pour les puissances : il faut alors transformer l'expression (factorisation par le terme dominant, [[Quantité conjuguée|quantité conjuguée]], équivalents). Exemple : $\left(1 + \frac{1}{n}\right)^n = e^{n \ln(1 + 1/n)} \to e$, alors que « $1^\infty$ » suggérerait 1. [[Complément hors du cours|ⓘ]]
+
 ## Théorème d'encadrement (*squeeze theorem*)
 
 **Théorème.** Soient $(a_n)$, $(b_n)$, $(c_n)$ telles que $\exists n_0,\ \forall n \ge n_0,\ a_n \le b_n \le c_n$. Alors
@@ -72,6 +85,8 @@ Voir [[Théorème des gendarmes]].
 ## Valeur absolue
 
 **Théorème.** Si $\lim |a_n| = 0$, alors $\lim a_n = 0$.
+
+Preuve : $-|a_n| \le a_n \le |a_n|$ et le théorème d'encadrement. En général, $a_n \to \ell$ entraîne $|a_n| \to |\ell|$, mais la réciproque ne vaut que pour $\ell = 0$ : $|(-1)^n| = 1$ converge alors que $(-1)^n$ diverge. [[Complément hors du cours|ⓘ]]
 
 ## Fonctions continues
 
@@ -93,6 +108,8 @@ Voir [[Théorème des gendarmes]].
 
 **Théorème.** Toute suite convergente est bornée.
 
+Preuve : avec $\epsilon = 1$, $|a_n| \le |\ell| + 1$ pour $n \ge N$, et il ne reste que les termes $a_0, \ldots, a_{N-1}$, en nombre fini. La réciproque est fausse : $(-1)^n$ est bornée mais diverge. Le [[Théorème de Bolzano-Weierstrass]] dit seulement qu'une suite bornée admet une suite extraite convergente. [[Complément hors du cours|ⓘ]]
+
 **Théorème** (voir [[Théorème de la limite monotone]]).
 1. Toute suite croissante et majorée converge.
 2. Toute suite décroissante et minorée converge.
@@ -103,6 +120,8 @@ Voir [[Théorème des gendarmes]].
 **Définition.** $(a_n)$ et $(b_n)$ sont [[Suites adjacentes|adjacentes]] si l'une est croissante, l'autre décroissante, et $\lim (b_n - a_n) = 0$.
 
 **Théorème.** Deux suites adjacentes convergent et ont la même limite.
+
+Exemple classique : $a_n = \sum_{k=0}^{n} \frac{1}{k!}$ et $b_n = a_n + \frac{1}{n \cdot n!}$ ($n \ge 1$) sont adjacentes et convergent vers $e$ ; l'encadrement $a_n \le e \le b_n$ donne des valeurs approchées de $e$ et sert à prouver que $e$ est irrationnel. C'est aussi le principe de la [[Recherche dichotomique|dichotomie]], où les bornes de l'intervalle forment deux suites adjacentes. [[Complément hors du cours|ⓘ]]
 
 ## Voisinage (*neighborhood*)
 
@@ -145,10 +164,10 @@ Voir [[Équivalent (comparaison asymptotique)]].
 
 **Définition (suites).** Si $(v_n)$ ne s'annule pas à partir d'un certain rang, $u_n \underset{+\infty}{\sim} v_n$ si $\lim \frac{u_n}{v_n} = 1$.
 
-**Proposition (équivalents usuels).**
+**Proposition (équivalents usuels).** [[Erreurs du cours#^e-0-revision-chapter|✎]]
 1. Un polynôme est équivalent en $\pm\infty$ à son terme de plus haut degré.
 2. Un polynôme est équivalent en 0 à son terme de plus bas degré.
-3. $e^x - 1 \underset{0}{\sim} x$ (écrit « $= 1$ » dans le cours, voir « Erreurs du cours »).
+3. $e^x - 1 \underset{0}{\sim} x$. [[Erreurs du cours#^e-0-revision-chapter|✎]]
 4. $\ln(1+x) \underset{0}{\sim} x$.
 5. $(1+x)^\alpha - 1 \underset{0}{\sim} \alpha x$.
 6. $\sin x \underset{0}{\sim} x$.
@@ -161,31 +180,28 @@ Voir [[Équivalent (comparaison asymptotique)]].
 3. $f \underset{a}{=} o(g) \Leftrightarrow f + g \underset{a}{\sim} g$.
 4. Si $f \underset{a}{\sim} g$, alors $f$ et $g$ ont le même signe près de $a$.
 
+Les équivalents se multiplient, se divisent et s'élèvent à une puissance constante : si $f_1 \sim g_1$ et $f_2 \sim g_2$, alors $f_1 f_2 \sim g_1 g_2$ et $\frac{f_1}{f_2} \sim \frac{g_1}{g_2}$. En revanche, ils ne s'ajoutent pas et ne se composent pas en général : $x + x^2 \underset{0}{\sim} x$ et $-x \underset{0}{\sim} -x + x^3$, mais les sommes $x^2$ et $x^3$ ne sont pas équivalentes en 0 ; $n + 1 \sim n$ alors que $e^{n+1} = e \cdot e^n$ n'est pas équivalent à $e^n$. Pour une somme, on passe par les [[Développement limité|développements limités]]. [[Complément hors du cours|ⓘ]]
+
 **Proposition (liens entre les notations).**
 1. $f \underset{a}{=} o(g) \Rightarrow f \underset{a}{=} O(g)$.
 2. $f \underset{a}{\sim} g \Rightarrow f \underset{a}{=} O(g)$.
 
 ## Développements limités usuels (*common Taylor expansions*)
 
-Tous en 0. Formules recopiées du cours ; les coquilles signalées sont indiquées entre crochets et détaillées dans « Erreurs du cours ».
+Tous en 0.
+
+Tous découlent de la formule de Taylor-Young : si $f$ est de classe $C^n$ au voisinage de 0, alors $f(x) = \sum_{k=0}^{n} \frac{f^{(k)}(0)}{k!} x^k + o(x^n)$ (voir [[Reste de Taylor]]). Le premier terme non nul d'un développement limité donne un équivalent : c'est ainsi qu'on retrouve les équivalents usuels ci-dessus, et qu'on traite les sommes où les équivalents échouent. [[Complément hors du cours|ⓘ]]
 
 1. $e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots + \frac{x^n}{n!} + o(x^n)$.
 2. $\cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} + \dots + (-1)^n \frac{x^{2n}}{(2n)!} + o(x^{2n})$.
-3. $\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} + \dots + (-1)^n \frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+1})$ [le cours écrit $5!$ sous $x^3$].
+3. $\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} + \dots + (-1)^n \frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+1})$. [[Erreurs du cours#^e-0-revision-chapter|✎]]
 4. $\cosh x = 1 + \frac{x^2}{2!} + \frac{x^4}{4!} + \dots + \frac{x^{2n}}{(2n)!} + o(x^{2n})$.
-5. $\sinh x = x + \frac{x^3}{3!} + \frac{x^5}{5!} + \dots + \frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+1})$ [le cours écrit $5!$ sous $x^3$].
+5. $\sinh x = x + \frac{x^3}{3!} + \frac{x^5}{5!} + \dots + \frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+1})$. [[Erreurs du cours#^e-0-revision-chapter|✎]]
 6. $(1+x)^\alpha = 1 + \alpha x + \frac{\alpha(\alpha-1)}{2!}x^2 + \dots + \frac{\alpha(\alpha-1)\cdots(\alpha-n+1)}{n!}x^n + o(x^n)$.
-7. $\sqrt{1+x} = 1 + \frac{x}{2} - \frac{x^2}{8} + \dots + (-1)^{n-1}\frac{1 \cdot 3 \cdots (2n-3)}{2^n n!} + o(x^n)$ [terme général tel quel dans le cours, incomplet].
+7. $\sqrt{1+x} = 1 + \frac{x}{2} - \frac{x^2}{8} + \dots + (-1)^{n-1}\frac{1 \cdot 3 \cdots (2n-3)}{2^n n!}\,x^n + o(x^n)$ (terme général valable pour $n \ge 2$). [[Erreurs du cours#^e-0-revision-chapter|✎]]
 8. $\frac{1}{1-x} = 1 + x + x^2 + x^3 + \dots + x^n + o(x^n)$.
 9. $\frac{1}{1+x} = 1 - x + x^2 - x^3 + \dots + (-1)^n x^n + o(x^n)$.
 10. $\ln(1-x) = -x - \frac{x^2}{2} - \frac{x^3}{3} - \dots - \frac{x^n}{n} + o(x^n)$.
-11. $\ln(1+x) = x - \frac{x^2}{2} + \frac{x^3}{3} + \dots + (-1)^{n} \frac{x^n}{n} + o(x^n)$ [le cours écrit $(-1)^n$ ; il faut $(-1)^{n+1}$].
+11. $\ln(1+x) = x - \frac{x^2}{2} + \frac{x^3}{3} + \dots + (-1)^{n+1} \frac{x^n}{n} + o(x^n)$. [[Erreurs du cours#^e-0-revision-chapter|✎]]
 12. $\tan x = x + \frac{x^3}{3} + \frac{2x^5}{15} + \frac{17x^7}{315} + o(x^7)$.
 13. $\arctan x = x - \frac{x^3}{3} + \frac{x^5}{5} + \dots + (-1)^n \frac{x^{2n+1}}{2n+1} + o(x^{2n+1})$.
-
-## Erreurs du cours
-
-- [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]] écrit les équivalents usuels 3 à 8 avec le signe « $=$ » et un « 0 » dessous (vérifié sur l'image) ; il faut le signe $\underset{0}{\sim}$. Le point 3 écrit en outre « $e^x - 1 \underset{0}{=} 1$ » ; il faut « $e^x - 1 \underset{0}{\sim} x$ ».
-- [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]] écrit, dans les développements de $\sin x$ et de $\sinh x$, « $\frac{x^3}{5!}$ » (vérifié sur l'image) ; il faut « $\frac{x^3}{3!}$ ». Le [[5 - power series|chapitre 5]] écrit la série de $\sin$ correctement.
-- [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]] écrit le terme général de $\sqrt{1+x}$ « $(-1)^{n-1}\frac{1 \cdot 3 \cdots (2n-3)}{2^n n!}$ » (vérifié sur l'image) : il y manque $x^n$, et ce signe donne $+\frac{x^2}{8}$ pour $n = 2$ alors que le cours écrit $-\frac{x^2}{8}$.
-- [[Raw/Year 3/Séries/Chp0 : Revision chapter.docx|Chp0 - Revision chapter]] écrit le terme général de $\ln(1+x)$ « $(-1)^n \frac{x^n}{n}$ » (vérifié sur l'image) ; il faut « $(-1)^{n+1} \frac{x^n}{n}$ », pour retrouver $x - \frac{x^2}{2} + \dots$ La série correcte figure au [[5 - power series|chapitre 5]].

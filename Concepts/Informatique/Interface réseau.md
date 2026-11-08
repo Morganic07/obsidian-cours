@@ -22,17 +22,13 @@ sources:
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
   - "[[1 - Computer Networks|chp1 - Computer Networks]]"
   - "[[4 - VLAN ／ IVR Commands|Chp4 - VLAN ／ IVR Commands]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 **Sous Linux** (Operating System) : `eth0` est une interface Ethernet (le numéro varie), `wlan0` une interface Wi-Fi, `lo` la boucle locale ([[Adresse de bouclage]]). Dans la sortie de [[Commande ifconfig|ifconfig]] : `inet` donne l'adresse IPv4, `netmask` le masque, `broadcast` l'adresse de diffusion, `inet6` l'adresse [[IPv6]], `RX`/`TX` les paquets reçus et envoyés, plus des drapeaux d'état. Le sujet montre une sortie à trois interfaces (eth0, wlan0, eth1).
 
-**Sur un équipement Cisco** (Computer Network) : une interface se note par exemple `FastEthernet0/1`, où 0/1 signifie slot/port. On la sélectionne par `interface gigabitEthernet 0/1`, on lui donne une adresse avec `ip address <adresse> <masque>` et on l'active avec `no shutdown`, car les ports d'un [[Routeur]] sont désactivés par défaut.
+**Sur un équipement Cisco** (Computer Network) : une interface se note par exemple `FastEthernet0/1`, où 0/1 signifie slot/port. On la sélectionne par `interface gigabitEthernet 0/1`, on lui donne une adresse avec `ip address <adresse> <masque>` et on l'active avec `no shutdown`, car les ports d'un [[Routeur]] sont désactivés par défaut. [[Erreurs du cours#^e-interface-reseau|✎]]
 
 Notion parente : [[CLI Cisco IOS]]. Voir aussi : [[Commande ip]], [[Netplan]], [[Sous-interface]].
-
-## Erreurs du cours
-
-- [[1 - Computer Networks|chp1 - Computer Networks]] commente `interface gigabitEthernet 0/1` par « to enable the interface » ; il faut « to select the interface » (passage en mode `config-if`) : c'est `no shutdown` qui l'active.
 
 Résumés : [[3 - TP3]], [[1 - Computer Networks]], [[4 - VLAN ／ IVR Commands]]

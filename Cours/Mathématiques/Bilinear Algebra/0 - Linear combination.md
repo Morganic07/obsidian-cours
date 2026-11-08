@@ -2,11 +2,12 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]] (« Chapter 0a - Linear equation in linear algebra »), dans [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]] (« Chapter 0a - Linear equation in linear algebra »), dans [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]].
 
 ## Idée générale
 
@@ -29,6 +30,8 @@ Visualisation géométrique pour 2 et 3 inconnues (donc 2 et 3 [[Dimension (alg�
 
 *Figure : une solution = deux droites sécantes en $(3,2)$, ou trois plans sécants en $(1,0,-1)$ ; infinité = droites confondues ($\ell_1$ seule) ; aucune = droites parallèles, ou trois plans sans point commun (« no point lies on all three planes »).*
 
+Pourquoi jamais exactement deux solutions : si $\mathbf p$ et $\mathbf q$ sont deux solutions distinctes de $A\mathbf x = \mathbf b$, alors $A(\mathbf q - \mathbf p) = \mathbf 0$, et tous les points $\mathbf p + t(\mathbf q - \mathbf p)$, pour $t$ réel, sont encore solutions : toute la droite passant par $\mathbf p$ et $\mathbf q$. [[Complément hors du cours|ⓘ]]
+
 ## 2. Matrice des coefficients et matrice augmentée
 
 Exemple du cours :
@@ -49,6 +52,10 @@ Les trois [[Opérations élémentaires sur les lignes|opérations élémentaires
 2. **Échange** : échanger deux équations ;
 3. **Mise à l'échelle** : multiplier tous les termes d'une équation par une constante non nulle.
 
+Résolution complète de l'exemple ci-dessus, sur la matrice augmentée : $L_3 \leftarrow L_3 - 5L_1$ donne $[0\ \ 10\ \ {-10}\ \ 10]$ ; $L_2 \leftarrow \tfrac12 L_2$ donne $[0\ \ 1\ \ {-4}\ \ 4]$ ; $L_3 \leftarrow L_3 - 10L_2$ donne $[0\ \ 0\ \ 30\ \ {-30}]$, soit $x_3 = -1$. On remonte : $x_2 = 4 + 4x_3 = 0$, puis $x_1 = 2x_2 - x_3 = 1$. Solution unique $(1, 0, -1)$ : c'est le point commun des trois plans de la figure de la section 1. [[Complément hors du cours|ⓘ]]
+
+Cette méthode porte le nom de **pivot de Gauss** (voir [[Forme échelonnée]]) : une phase **descendante** crée des zéros sous chaque pivot jusqu'à une forme échelonnée, puis une phase **remontante** (substitution, ou zéros au-dessus des pivots jusqu'à la forme réduite, variante dite de Gauss-Jordan) donne les valeurs. Le nombre d'opérations croît comme $n^3$ pour $n$ équations à $n$ inconnues, ce qui en fait la méthode de base des logiciels de calcul. [[Complément hors du cours|ⓘ]]
+
 Deux matrices sont **équivalentes par lignes** (*row equivalent*) si l'on passe de l'une à l'autre par des opérations élémentaires. Ces opérations sont réversibles, et deux matrices équivalentes par lignes ont le même ensemble de solutions.
 
 Avant de résoudre, savoir si le système est compatible, puis chercher le nombre de solutions : observer le coin inférieur droit de la matrice augmentée.
@@ -63,7 +70,7 @@ Exemple : $\begin{bmatrix} 2 & -3 & 2 & 1 \\ 0 & 1 & -4 & 8 \\ 0 & 0 & 0 & 15 \e
 
 **Forme échelonnée** (*echelon form*, *row echelon form*) d'une matrice $n \times p$ (voir [[Forme échelonnée]]) :
 1. s'il existe des lignes de zéros, elles sont toutes en bas ;
-2. si deux lignes successives sont non nulles, la seconde a plus de zéros à gauche que la première. (Le poly ajoute que le premier coefficient non nul de chaque ligne vaut 1, ce qui n'est pas obligatoire.)
+2. si deux lignes successives sont non nulles, la seconde a plus de zéros à gauche que la première. (Le poly ajoute que le premier coefficient non nul de chaque ligne vaut 1 ; la note précise que ce n'est pas obligatoire pour la forme échelonnée, seulement pour la forme réduite.)
 
 **Forme totalement échelonnée** (*reduced echelon form*) :
 1. elle est échelonnée ;
@@ -73,6 +80,8 @@ Exemple : $\begin{bmatrix} 2 & -3 & 2 & 1 \\ 0 & 1 & -4 & 8 \\ 0 & 0 & 0 & 15 \e
 - **Pivot** : premier terme non nul d'une ligne d'une matrice échelonnée.
 - **Colonne pivot** (*pivot column*) : colonne qui contient un pivot.
 - Si une colonne n'est pas une colonne pivot, la variable $x_i$ associée est **libre**.
+- Les variables des colonnes pivots sont dites **de base** (*basic variables*) : on les exprime en fonction des variables libres, qui peuvent prendre n'importe quelle valeur. [[Complément hors du cours|ⓘ]]
+- Le nombre de pivots est le [[Rang d'une matrice|rang]] de la matrice. Pour un système compatible à $n$ inconnues dont la matrice des coefficients a pour rang $r$, il y a $n - r$ variables libres : $0$ donne la solution unique, $1$ une droite de solutions, $2$ un plan, etc. [[Complément hors du cours|ⓘ]]
 
 > **Théorème (unicité de la forme réduite)** : chaque matrice est équivalente par lignes à une et une seule matrice totalement échelonnée.
 
@@ -81,6 +90,8 @@ Exemple : $\begin{bmatrix} 2 & -3 & 2 & 1 \\ 0 & 1 & -4 & 8 \\ 0 & 0 & 0 & 15 \e
 **Exemple (système homogène)** : réduire la matrice augmentée, entourer les pivots. Si une colonne de la matrice des **coefficients** n'est pas pivot, la variable est libre et le système a une solution non triviale ; sinon il n'a **que** la [[Système linéaire homogène|solution triviale]].
 $$\begin{bmatrix} 2 & -5 & 8 & 0 \\ -2 & -7 & 1 & 0 \\ 4 & 2 & 7 & 0 \end{bmatrix} \sim \begin{bmatrix} 2 & -5 & 8 & 0 \\ 0 & -12 & 9 & 0 \\ 0 & 12 & -9 & 0 \end{bmatrix} \sim \begin{bmatrix} 2 & -5 & 8 & 0 \\ 0 & -12 & 9 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}$$
 Pivots $2$ et $-12$ ; $x_3$ est libre, donc il existe une solution non triviale.
+
+Pour l'écrire : la ligne 2 donne $-12x_2 + 9x_3 = 0$, soit $x_2 = \tfrac34 x_3$ ; la ligne 1 donne $2x_1 = 5x_2 - 8x_3 = -\tfrac{17}{4}x_3$, soit $x_1 = -\tfrac{17}{8}x_3$. Les solutions sont donc $\mathbf x = x_3\begin{bmatrix} -17/8 \\ 3/4 \\ 1 \end{bmatrix}$, $x_3 \in \mathbb R$ : une droite passant par l'origine (avec $x_3 = 8$ : $(-17, 6, 8)$, qui vérifie bien les trois équations). [[Complément hors du cours|ⓘ]]
 
 ## 4. Équations vectorielles (*vector equations*)
 
@@ -121,7 +132,7 @@ $A\mathbf x = \mathbf b$ a une solution $\iff$ $\mathbf b$ est combinaison liné
 > **Théorème** (« Let $A$ be a $n \times m$ matrix ») : les propositions suivantes sont équivalentes (toutes vraies ou toutes fausses) :
 > 1. pour tout $\mathbf b \in \mathbb R^n$, $A\mathbf x = \mathbf b$ a une solution ;
 > 2. tout $\mathbf b \in \mathbb R^n$ est combinaison linéaire des colonnes de $A$ ;
-> 3. les colonnes de $A$ engendrent $\mathbb R^m$ (sic, voir Erreurs du cours) ;
+> 3. les colonnes de $A$ engendrent $\mathbb R^n$ (les colonnes d'une matrice $n \times m$ sont dans $\mathbb R^n$) ; [[Erreurs du cours#^e-0-linear-combination|✎]]
 > 4. $A$ a une position pivot dans **chaque ligne**.
 
 **Calcul ligne par ligne** ([[Produit matriciel]]) : la $i$-ème coordonnée de $A\mathbf x$ est la somme des produits des entrées de la ligne $i$ de $A$ par celles de $\mathbf x$. Exemple :
@@ -179,6 +190,8 @@ $$\text{les colonnes de } A \text{ sont linéairement indépendantes} \iff A\mat
 
 > **Théorème** : une famille qui contient le vecteur $\mathbf 0$ est liée.
 
+Cas de deux vecteurs : $\{\mathbf u, \mathbf v\}$ est liée si et seulement si l'un est multiple de l'autre, c'est-à-dire s'ils sont **colinéaires** (sur une même droite passant par l'origine). Pour trois vecteurs ou plus, ce test ne suffit pas : $(1,0)$, $(0,1)$ et $(1,1)$ ne sont pas colinéaires deux à deux, mais $(1,1) = (1,0) + (0,1)$ rend la famille liée. [[Complément hors du cours|ⓘ]]
+
 Selon le cours, une colonne pivot est « linéairement indépendante » car le pivot montre qu'elle ne s'exprime pas comme combinaison des autres colonnes ; une colonne non pivot est « linéairement dépendante ».
 
 ## 8. Transformations linéaires (*linear transformations*)
@@ -201,6 +214,12 @@ La multiplication par $A$ transforme $\mathbf x$ en $\mathbf b$, et $\mathbf u$ 
 >
 > Toute transformation matricielle est linéaire. Conséquences : $T(\mathbf 0) = \mathbf 0$ et $T(c\mathbf u + d\mathbf v) = cT(\mathbf u) + dT(\mathbf v)$.
 
+La réciproque est vraie : toute transformation linéaire $T : \mathbb R^n \to \mathbb R^m$ est une transformation matricielle, $T(\mathbf x) = A\mathbf x$, pour une unique matrice $A$, sa **matrice standard** ([[Matrice d'une application linéaire]]), dont les colonnes sont les images des vecteurs de la base canonique :
+$$A = [\,T(\mathbf e_1)\ \ T(\mathbf e_2)\ \cdots\ T(\mathbf e_n)\,].$$
+En effet $\mathbf x = x_1\mathbf e_1 + \cdots + x_n\mathbf e_n$, donc par linéarité $T(\mathbf x) = x_1T(\mathbf e_1) + \cdots + x_nT(\mathbf e_n)$. C'est ainsi que se construisent les matrices des tableaux ci-dessous : on regarde où vont $(1,0)$ et $(0,1)$. [[Complément hors du cours|ⓘ]]
+
+Le test $T(\mathbf 0) = \mathbf 0$ permet d'écarter vite une transformation non linéaire : une translation $T(\mathbf x) = \mathbf x + \mathbf p$ avec $\mathbf p \neq \mathbf 0$ n'est pas linéaire, puisque $T(\mathbf 0) = \mathbf p$. [[Complément hors du cours|ⓘ]]
+
 ### Transformations linéaires géométriques de $\mathbb R^2$
 
 Tableaux du cours ([[Transformations géométriques du plan]], [[Matrice d'une application linéaire|matrice standard]]) :
@@ -220,13 +239,19 @@ Tableaux du cours ([[Transformations géométriques du plan]], [[Matrice d'une a
 | Projection sur l'axe $Ox_2$ | $\begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}$ |
 
 ![[Chp 0a - Linear combination - image9.png]]
-*Figure : Table 1, réflexions, avec l'image du carré unité et des libellés rouges en français (deux sont erronés, voir Erreurs du cours).*
+*Figure : Table 1, réflexions, avec l'image du carré unité et des libellés rouges en français. Sur l'image, les libellés rouges des réflexions d'axe $x_2 = x_1$ (colonne de droite) et $x_2 = -x_1$ ne correspondent pas à leur ligne : les bons axes sont ceux du texte anglais et du tableau ci-dessus.* [[Erreurs du cours#^e-0-linear-combination|✎]]
 
 ![[Chp 0a - Linear combination - image28.png]]
 *Figure : Tables 2 et 3, contractions et dilatations, cisaillements.*
 
 ![[Chp 0a - Linear combination - image10.png]]
 *Figure : Table 4, projections sur les axes.*
+
+La transformation la plus classique manque aux tableaux : la **rotation** d'angle $\theta$ autour de l'origine (sens trigonométrique), qui envoie $(1,0)$ sur $(\cos\theta, \sin\theta)$ et $(0,1)$ sur $(-\sin\theta, \cos\theta)$, d'où sa matrice standard
+$$\begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}.$$
+Avec $\theta = 180°$, on retrouve la réflexion par rapport à l'origine $\begin{bmatrix} -1 & 0 \\ 0 & -1 \end{bmatrix}$ du tableau 1 (voir [[Transformations géométriques du plan]]). [[Complément hors du cours|ⓘ]]
+
+Enchaîner deux transformations revient à multiplier leurs matrices, dans l'ordre inverse de leur application : appliquer $T_A$ puis $T_B$ donne $\mathbf x \mapsto B(A\mathbf x) = (BA)\mathbf x$ (voir [[Produit matriciel]]). [[Complément hors du cours|ⓘ]]
 
 ### Surjectivité et injectivité
 
@@ -240,7 +265,8 @@ Tableaux du cours ([[Transformations géométriques du plan]], [[Matrice d'une a
 ![[Chp 0a - Linear combination - image6.png]]
 *Figure : $T$ non injective (plusieurs points, dont un groupe contenant $\mathbf 0$, envoyés sur un même point) et $T$ injective.*
 
-## Erreurs du cours
+Critères pratiques, pour $T(\mathbf x) = A\mathbf x$ avec $A$ de taille $m \times n$ : [[Complément hors du cours|ⓘ]]
+- $T$ est **injective** $\iff$ $T(\mathbf x) = \mathbf 0$ n'a que la solution triviale $\iff$ les colonnes de $A$ sont linéairement indépendantes $\iff$ $A$ a un pivot dans **chaque colonne** ; [[Complément hors du cours|ⓘ]]
+- $T$ est **surjective** $\iff$ les colonnes de $A$ engendrent $\mathbb R^m$ $\iff$ $A$ a un pivot dans **chaque ligne** (théorème de la section 5). [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 2/Bilinear Algebra/Chp 0a - Linear combination .docx|Chp 0a - Linear combination]] énonce, pour « A be a nxm matrix », « The columns of A span $\mathbb{R}^m$ » alors que $\mathbf b$ est pris dans $\mathbb{R}^n$ ; il faut « span $\mathbb{R}^n$ » : les colonnes d'une matrice $n \times m$ sont dans $\mathbb{R}^n$.
-- Dans la table 1 (réflexions), la deuxième ligne « Reflection through the line $x_2 = x_1$ » porte le libellé rouge « symétrie orthogonale d'axe $x_2 = -x_1$ », et la ligne « Reflection through the line $x_2 = -x_1$ » le libellé « d'axe $Ox_2$ » ; il faut que chaque libellé reprenne l'axe de sa ligne. Les matrices et le texte anglais sont cohérents, et le tableau de cette fiche les suit.
+Le premier critère vient de la section 6 : les solutions de $A\mathbf x = \mathbf b$ sont $\mathbf p + \mathbf v_h$, donc il y en a au plus une pour chaque $\mathbf b$ exactement quand $\mathbf v_h = \mathbf 0$ est la seule solution homogène. Conséquence : si $n > m$, $T$ ne peut pas être injective (plus de colonnes que de lignes), et si $n < m$, elle ne peut pas être surjective (pas assez de colonnes pour un pivot par ligne). Exemple : les projections du tableau 4 ne sont ni injectives ni surjectives, les réflexions sont les deux à la fois. [[Complément hors du cours|ⓘ]]

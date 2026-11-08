@@ -5,7 +5,7 @@ tags:
 sources:
   - "[[1 - discours|Communication orale - discours]]"
   - "Debats, dans Raw/Year 1/Communication orale (exclu du miroir)"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Communication orale de 1re année : exercices de discours et de débat.
@@ -18,6 +18,9 @@ Communication orale de 1re année : exercices de discours et de débat.
 
 ## Concepts
 
+- **Ajoutés par l'enrichissement** : [[Ethos, pathos et logos]], [[Mouvement des droits civiques]]
+
+La fiche est enrichie de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité
 

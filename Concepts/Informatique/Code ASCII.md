@@ -19,7 +19,7 @@ maj: 2026-11-06
 
 Correspondance entre nombres et caractères (American Standard Code for Information Interchange).
 
-**En Operating System** : chaque touche du clavier a un code ASCII ; le processeur local du clavier convertit la touche en ASCII puis en binaire utilisable par le CPU. En Bash, `<` et `>` comparent des chaînes dans l'ordre alphabétique ASCII.
+**En Operating System** : le processeur local du clavier envoie pour chaque touche un code de touche (*scan code*, ou code d'usage USB HID), que le pilote du système d'exploitation convertit en caractère, par exemple en code ASCII. [[Erreurs du cours#^e-code-ascii|✎]] En Bash, `<` et `>` comparent des chaînes dans l'ordre alphabétique ASCII.
 
 **En C** : le `char` est le support du code ASCII. L'ordinateur ne stocke que des nombres : `'A'` vaut 65 (01000001), `'B'` 66. Avec `%c`, `printf` affiche le symbole correspondant de la table.
 

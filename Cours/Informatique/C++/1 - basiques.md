@@ -2,12 +2,12 @@
 type: source
 tags: [year4]
 sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], dans [[Cours/Informatique/C++/_index|C++]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], dans [[Cours/Informatique/C++/_index|C++]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++.
 ## Idée générale
 
 Syntaxe de base du C, types, mémoire (pile), erreurs de compilation, puis une série de « questions pièges » sur des pièges classiques du langage.
@@ -22,6 +22,7 @@ Les quatre images de la note ne contiennent que du texte : leur contenu est reco
 - Pas de nom de fonction qui commence par un chiffre.
 - Pas d'espace dans les noms de variables ou de fonctions.
 - Ne pas utiliser `-` dans un nom : il est interprété comme un « moins ».
+- La règle générale des identifiants (noms de variables et de fonctions) : des lettres, des chiffres et le tiret bas `_`, sans commencer par un chiffre (`note_2` est permis, `2note` ne l'est pas) ; les lettres accentuées ne sont pas acceptées par tous les compilateurs, d'où l'usage de s'en tenir aux lettres sans accent. Le C distingue majuscules et minuscules : `total` et `Total` sont deux variables différentes. [[Complément hors du cours|ⓘ]]
 
 ### Mots réservés
 
@@ -37,14 +38,20 @@ Les [[Mot réservé|mots réservés]] sont les mots prédéfinis du langage C. I
 | Constructeurs (vus plus tard) | `enum struct typedef union` |
 | Divers | `asm entry fortran sizeof` |
 
+Dans la ligne « Divers », `entry` est un vestige du tout premier C, réservé mais jamais utilisé, et `asm` (insérer de l'assembleur) et `fortran` sont des extensions de certains compilateurs, absentes de la norme ANSI. Le seul mot de cette ligne d'usage courant est `sizeof`, un opérateur qui donne la taille en octets d'un type ou d'une variable : `sizeof(int)` vaut en général 4. Les normes suivantes ont ajouté des mots, par exemple `inline` et `_Bool` en C99 ; en C23, `bool`, `true` et `false` deviennent eux aussi des mots réservés. [[Complément hors du cours|ⓘ]]
+
+Deux qualificatifs de type de la table méritent une explication. `const` interdit de modifier une variable après son initialisation (`const int MAX = 100;`, voir [[Constante (programmation)]]). `volatile` prévient le compilateur que la valeur peut changer sans que le programme y touche (registre d'un périphérique, variable partagée avec une interruption) : il doit la relire en mémoire à chaque accès au lieu de garder une copie. [[Complément hors du cours|ⓘ]]
+
 ## 2. Types de base et variables
 
 1. **`void`** : le type vide, introduit par la norme ANSI. Sert surtout à préciser les fonctions sans argument ou sans retour.
 2. **`int`** : le type entier. Qualificatifs de taille (`long`, `short`) et de signe : `unsigned` (positif seulement) ou `signed` (positif et négatif). `signed` est appliqué par défaut : `int` et `signed int` sont identiques.
-3. **`char`** : support du [[Code ASCII|code ASCII]] pour représenter les caractères ; peut aussi représenter un entier sur 8 bits. Peut être déclaré signé ou non signé (`unsigned char`) ; le cours écrit le signé `char`, mais c'est `signed char` qui garantit un caractère signé (voir « Erreurs du cours » et [[Type primitif]]).
+3. **`char`** : support du [[Code ASCII|code ASCII]] pour représenter les caractères ; peut aussi représenter un entier sur 8 bits. Peut être déclaré signé (`signed char`) ou non signé (`unsigned char`) ; un `char` sans qualificatif est signé ou non selon le compilateur et la machine (voir [[Type primitif]]). [[Erreurs du cours#^e-1-basiques|✎]]
 4. **`float`** : représentation des réels (avec partie décimale).
 5. **`double`** : comme `float`, avec une précision plus importante.
 6. **`long double`** : comme `double`, avec une précision encore plus grande.
+
+La norme du C ne fixe pas la taille exacte des types, seulement des minimums : `char` fait exactement 1 octet (`sizeof(char)` vaut 1 par définition), `short` et `int` au moins 16 bits, `long` au moins 32 bits, `long long` (ajouté en C99) au moins 64 bits. Les tailles réelles dépendent de la machine et du compilateur ; sur un PC actuel, `int` fait 32 bits et va de $-2^{31}$ à $2^{31}-1$ (environ $\pm 2{,}1$ milliards). Un `float` donne environ 7 chiffres significatifs, un `double` environ 15 ou 16 ; une constante écrite `3.14` est de type `double` (`3.14f` pour un `float`). [[Complément hors du cours|ⓘ]]
 
 ### `printf` et `scanf`
 
@@ -62,12 +69,20 @@ Les [[Fonctions printf et scanf|séquences de contrôle]] commencent par `%` sui
 
 D'autres séquences existent, non abordées dans le cours.
 
+Les plus utiles parmi les autres : `%ld` pour un `long`, `%lld` pour un `long long`, `%e` pour un réel en notation scientifique (`1.5e+03`), `%p` pour une adresse (un pointeur), `%%` pour afficher le caractère `%` lui-même. [[Complément hors du cours|ⓘ]]
+
+Piège classique : `printf` affiche un `double` avec `%f`, mais `scanf` doit le lire avec `%lf` ; `%f` dans `scanf` attend l'adresse d'un `float`. La différence vient de ce que `printf` reçoit des valeurs (un `float` y est automatiquement converti en `double`), alors que `scanf` reçoit des adresses et doit savoir combien d'octets écrire. [[Complément hors du cours|ⓘ]]
+
 ```c
 printf("%d kilogramme équivaut à %d grammes", 1, 1000);
 scanf("%d", &i);   /* lit un entier et le range à l'adresse de i */
 ```
 
+Le `&` devant `i` est obligatoire : le C passe les arguments [[Passage par valeur|par valeur]], donc `scanf` recevrait une copie de `i` et ne pourrait pas le modifier. En lui donnant l'adresse de `i`, on lui permet d'écrire directement dans la variable. Oublier le `&` fait écrire `scanf` à une adresse quelconque, souvent avec une [[Erreur de segmentation|erreur de segmentation]] à la clé. Les deux fonctions sont déclarées dans `stdio.h`, d'où le `#include <stdio.h>` en tête du programme. [[Complément hors du cours|ⓘ]]
+
 Pour afficher une valeur numérique, des **modificateurs de format** ajustent la forme ou la longueur de l'affichage, par exemple `%3d` (largeur 3) et `%03d` (largeur 3 complétée par des zéros).
+
+Pour les réels, la **précision** s'écrit après un point : `%.2f` affiche deux décimales (`3.14159` devient `3.14`, arrondi), `%8.2f` affiche deux décimales sur 8 caractères au moins. Sans précision, `%f` affiche six décimales. Un `-` aligne à gauche (`%-5d`). [[Complément hors du cours|ⓘ]]
 
 ## 3. Gestion mémoire
 
@@ -105,7 +120,7 @@ char *texte = "salut";
 int resultat = total + texte; // Erreur ou avertissement direct du compilateur
 ```
 
-D'après le cours, le compilateur bloque parce qu'additionner un entier et une [[Pointeur et adresse mémoire|adresse mémoire]] de chaîne n'a pas de sens ; détecter cela à la compilation évite des plantages (*[[Erreur de segmentation|segmentation fault]]*) ou des comportements imprévisibles à l'exécution (explication inexacte, voir « Erreurs du cours »).
+L'addition `total + texte` elle-même est permise : c'est de l'[[Arithmétique des pointeurs|arithmétique de pointeurs]], qui donne une [[Pointeur et adresse mémoire|adresse mémoire]] (`char *`). Le compilateur bloque parce qu'on range ce pointeur dans un `int` : `gcc` répond `initialization of 'int' from 'char *' makes integer from pointer without a cast` (erreur depuis GCC 14, simple avertissement avant). Détecter cela à la compilation évite des plantages (*[[Erreur de segmentation|segmentation fault]]*) ou des comportements imprévisibles à l'exécution. [[Erreurs du cours#^e-1-basiques|✎]]
 
 ### Variables gérées en pile
 
@@ -121,6 +136,10 @@ void calculer(void) {
 }                // Sortie de fonction : 'b' puis 'a' sont dépilés automatiquement.
 ```
 
+Conséquence directe : une variable locale n'existe que pendant l'exécution de sa fonction. Renvoyer son adresse (`return &a;`) est une erreur classique, car le cadre est libéré et la case sera réutilisée par l'appel suivant. La pile est aussi de taille limitée (quelques mégaoctets en général) : une [[Récursivité|récursion]] trop profonde ou un très grand tableau local la font déborder (*stack overflow*). [[Complément hors du cours|ⓘ]]
+
+L'autre zone où l'on range des données est le **tas** (*heap*) : on y réserve de la mémoire à la demande avec `malloc`, elle reste disponible après la fin de la fonction et doit être rendue explicitement avec `free` (voir [[Allocation dynamique]], vue au chapitre 3). Les variables globales et `static`, elles, sont placées dans une zone à part, réservée pour toute la durée du programme (voir [[Espace mémoire d'un processus]]). [[Complément hors du cours|ⓘ]]
+
 ## 4. Erreurs du compilateur
 
 Messages fréquents d'[[Erreur de compilation|erreur de compilation]] ([[GCC]]) :
@@ -133,6 +152,10 @@ Messages fréquents d'[[Erreur de compilation|erreur de compilation]] ([[GCC]]) 
 | `a.c:(.text+0x19): undefined reference to 'nom_fonction'` puis `collect2: error: ld returned 1 exit status` | fonction inconnue du compilateur (mal orthographiée ?) |
 | `fatal error: nom_fichier.h: Aucun fichier ou dossier de ce type` | fichier d'en-tête inclus mal orthographié |
 
+Ces messages viennent d'étapes différentes, car `gcc` enchaîne quatre phases ([[Chaîne de compilation]]) : le **préprocesseur** (traite les `#include` et `#define` ; c'est lui qui ne trouve pas le `.h`), la **compilation** proprement dite (vérifie la syntaxe et les types : `;` ou accolade oubliés, variable non déclarée), l'**assemblage** (produit un fichier objet `.o`), puis l'**édition de liens** (*linker*, programme `ld`), qui assemble les fichiers objets et les bibliothèques. L'erreur `undefined reference` vient de cette dernière étape : la fonction a pu être déclarée, mais `ld` ne trouve nulle part son code, d'où le message `ld returned 1 exit status`. [[Complément hors du cours|ⓘ]]
+
+À côté des erreurs, qui bloquent la compilation, le compilateur émet des **avertissements** (*warnings*), qui la laissent passer. Compiler avec `gcc -Wall -Wextra prog.c -o prog` les active : beaucoup des pièges de la section 6 (affectation dans une condition, variable non initialisée, `;` après un `if`) sont alors signalés. [[Complément hors du cours|ⓘ]]
+
 ## 5. Le type `char` : un entier déguisé
 
 En C, `char` est un **entier sur 1 octet** (8 bits). L'ordinateur ne stocke que des nombres ; la correspondance nombre-lettre est donnée par la table ASCII. Écrire `'A'` ou `65` revient strictement au même pour le compilateur.
@@ -142,6 +165,10 @@ En C, `char` est un **entier sur 1 octet** (8 bits). L'ordinateur ne stocke que 
 | `c = 65;` | 65 (binaire `01000001`) |
 | `c = 'A';` | 65 (binaire `01000001`) |
 | `c = 'B';` | 66 (binaire `01000010`) |
+
+Comme un `char` est un nombre, on peut calculer avec : les lettres et les chiffres se suivent dans la table ASCII, donc `'A' + 1` vaut `'B'`, `c - 'a' + 'A'` passe une minuscule en majuscule (l'écart est de 32), et `c - '0'` donne la valeur du chiffre écrit (`'7' - '0'` vaut 7, alors que `'7'` vaut 55). [[Complément hors du cours|ⓘ]]
+
+Les guillemets ne sont pas interchangeables : `'A'` (apostrophes) est **un** caractère, de valeur 65 ; `"A"` (guillemets) est une [[Chaîne de caractères|chaîne de caractères]], c'est-à-dire un tableau de deux `char`, `'A'` puis le caractère nul `'\0'` qui marque la fin de toute chaîne en C. [[Complément hors du cours|ⓘ]]
 
 ### Le rôle de `printf` : une question de lunettes
 
@@ -168,12 +195,9 @@ L'expression ne teste pas que les trois variables sont égales. Avec `a = b = c 
 4. `1 == c` : `1 == 5`.
 5. Faux : l'expression vaut `0`.
 
-Remplacements proposés par le cours :
+Le même piège existe avec les encadrements : `0 < x < 10` se lit `(0 < x) < 10`, soit `0 < 10` ou `1 < 10`, toujours vrai quel que soit `x`. Il faut écrire `0 < x && x < 10`. [[Complément hors du cours|ⓘ]]
 
-```c
-if (a == b && b == c)
-if ( ((a==b) == 1) == (b==c) )   // non équivalent, voir « Erreurs du cours »
-```
+Remplacement correct : `if (a == b && b == c)`. La forme `if ( ((a==b) == 1) == (b==c) )` n'est pas équivalente : elle est aussi vraie quand `a != b` et `b != c`, puisqu'elle compare alors `0 == 0`. [[Erreurs du cours#^e-1-basiques|✎]]
 
 ### Pas besoin d'accolades pour une seule instruction
 
@@ -183,6 +207,8 @@ Pour `if`, `else`, `for`, `while`, etc., les accolades sont facultatives quand i
 if (a==0) printf("bonjour");
 ```
 
+Seule la **première** instruction dépend alors du `if`, quelle que soit l'indentation : dans `if (a==0) printf("A"); printf("B");`, « B » s'affiche toujours. C'est pourquoi beaucoup de conventions de code imposent les accolades même pour une seule instruction. [[Complément hors du cours|ⓘ]]
+
 ### Affectation dans une condition
 
 ```c
@@ -190,7 +216,9 @@ int a = 10;
 if (a=3) printf("bonjour");   // et pas (a==3)
 ```
 
-Résultat : affiche « bonjour ». Le cours écrit que `if (a=3)` « teste si `a` peut prendre la valeur 3 » et renvoie 1 si oui, 0 sinon (explication fausse, voir « Erreurs du cours » ; voir aussi [[Affectation]]).
+Résultat : affiche « bonjour ». `if (a=3)` ne teste rien : l'[[Affectation|affectation]] met 3 dans `a`, et l'expression vaut 3, non nul donc vrai. La condition est toujours vraie, d'où l'affichage. [[Erreurs du cours#^e-1-basiques|✎]]
+
+En C, une affectation est une expression qui a une valeur, celle qui vient d'être affectée : c'est ce qui permet `a = b = c = 5` (lu `a = (b = (c = 5))`). Une parade ancienne contre la confusion `=` / `==` consiste à écrire la constante à gauche, `if (3 == a)` : une faute de frappe `if (3 = a)` ne compile plus. Avec `-Wall`, `gcc` signale aussi l'affectation dans une condition et propose de la mettre entre doubles parenthèses si elle est voulue. [[Complément hors du cours|ⓘ]]
 
 ### Point-virgule après un `if`
 
@@ -229,6 +257,8 @@ printf("y = %d", y);
 
 Ici `(y=20)` est évalué en premier (valeur 20, donc vrai) : inutile de tester `x>5`, « vrai » s'affiche, et `y` vaut 20.
 
+Le « ET » `&&` est paresseux de la même façon, dans l'autre sens : il s'arrête dès qu'une partie est **fausse**. Ce comportement est garanti par la norme et sert couramment de protection : dans `if (p != NULL && *p == 0)` ou `if (n != 0 && total / n > 10)`, la seconde partie, dangereuse, n'est évaluée que si la première est vraie. [[Complément hors du cours|ⓘ]]
+
 ### Afficher une variable non initialisée
 
 ```c
@@ -237,6 +267,8 @@ printf("y = %d", y);   // y = [valeur aléatoire]
 ```
 
 Voir [[Variable non initialisée]].
+
+Plus précisément, une variable locale non initialisée contient ce qui restait dans la case mémoire de la pile, et la norme range sa lecture parmi les **[[Comportement indéfini|comportements indéfinis]]** : le programme peut afficher n'importe quoi, et la valeur peut changer d'une exécution ou d'une compilation à l'autre. Les variables globales et `static`, elles, sont automatiquement initialisées à zéro. [[Complément hors du cours|ⓘ]]
 
 ### Boucle infinie
 
@@ -248,9 +280,4 @@ x++;
 
 Le `;` après le `while` donne une boucle dont le corps est vide : la condition reste toujours vraie (rien n'incrémente `x`), la boucle tourne à vide et `x++` n'est jamais exécuté.
 
-## Erreurs du cours
-
-- [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], affectation dans une condition : écrit que `if (a=3)` « test si a peut prendre la valeur 3, retour 1 si oui et 0 si non » ; il faut : l'affectation met 3 dans `a`, et la valeur de l'expression est 3, non nulle donc vraie. La condition est toujours vraie, c'est pour cela que « bonjour » s'affiche. **À retenir pour un examen.**
-- [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], remplacement de `a == b == c` : propose aussi « If ( ((a==b) == 1) == (b==c) ) » ; il faut seulement `if (a == b && b == c)`. La seconde forme n'est pas équivalente : elle est aussi vraie quand `a != b` et `b != c`, puisque `0 == 0`. **À retenir pour un examen.**
-- [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], typage statique : écrit que le compilateur bloque « parce qu'additionner un entier et une adresse mémoire de chaîne de caractères n'a pas de sens » ; il faut : `total + texte` est de l'arithmétique de pointeurs, valide en C ; le compilateur ne proteste que contre l'affectation d'un pointeur (`char *`) à un `int` (complément).
-- [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], type `char` : écrit que « le char peut être déclaré en signé (char) ou alors en non signé (unsigned char) » ; il faut `signed char` pour un caractère signé : le signe d'un `char` sans qualificatif dépend de l'implémentation (complément).
+Une boucle infinie peut aussi être voulue (serveur, menu qui attend une commande) : on l'écrit alors `while (1)` ou `for (;;)` et on en sort par un `break` ou un `return`. Dans un terminal, `Ctrl+C` interrompt un programme bloqué dans une boucle. [[Complément hors du cours|ⓘ]]

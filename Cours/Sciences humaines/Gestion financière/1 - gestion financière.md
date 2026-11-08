@@ -9,7 +9,7 @@ complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/Gestion financière.docx|Gestion financière]], dans [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]]. La note est très courte (sept notions de vocabulaire économique et financier, sans image) : la fiche reprend tout son contenu et le complète. Les passages ajoutés finissent par ⓘ. En cas d'écart, le cours fait foi.
+Résumé de [[Raw/Year 4/Gestion financière.docx|Gestion financière]], dans [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]]. La note est très courte (sept notions de vocabulaire économique et financier, sans image) : la fiche reprend tout son contenu et le complète. Les passages ajoutés finissent par ⓘ.
 
 ## 1. Trois types de banque
 
@@ -54,7 +54,7 @@ Elle est équilibrée par construction (chaque opération est enregistrée deux 
 
 **PIB et PNB** : le [[Produit intérieur brut|PIB]] a remplacé le [[Produit national brut|PNB]] (produit national brut). Différence selon la note :
 - le PIB compte aussi les entreprises non françaises installées sur le sol français ;
-- le PNB ne compte que les entreprises françaises sur le sol français (définition incomplète, voir « Erreurs du cours »).
+- le PNB compte la production des entreprises françaises, sur le sol français **et à l'étranger**, mais pas celle des entreprises étrangères installées en France. [[Erreurs du cours#^e-1-gestion-financiere|✎]]
 
 Le **PIB** mesure la richesse produite en un an **sur le territoire**, quelle que soit la nationalité des entreprises. Il se calcule de trois façons, qui donnent le même résultat : [[Complément hors du cours|ⓘ]]
 - **production** : somme des [[Valeur ajoutée|valeurs ajoutées]] (production − consommations intermédiaires) + impôts sur les produits − subventions sur les produits ;
@@ -80,7 +80,3 @@ $$\text{seuil} = \frac{\text{coûts fixes}}{\text{taux de marge sur coûts varia
 Exemple : coûts fixes 30 000 €, CA 100 000 €, coûts variables 40 000 € → taux de marge sur CV 60 %, seuil = 30 000 / 0,6 = 50 000 € de CA.
 
 Le prix ne se fixe pas seulement à partir du coût : il dépend aussi de la demande (ce que le client est prêt à payer) et de la concurrence. [[Complément hors du cours|ⓘ]]
-
-## Erreurs du cours
-
-- [[Raw/Year 4/Gestion financière.docx|Gestion financière]] écrit « PNB juste les entreprises francaises sur le sol francais » ; il faut : le PNB compte la production des unités françaises en France **et à l'étranger**, le PIB la production réalisée sur le territoire, quelle que soit la nationalité des unités. [[Complément hors du cours|ⓘ]]

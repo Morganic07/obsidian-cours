@@ -4,6 +4,7 @@ tags: [year4]
 sources: ["[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
 maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé de [[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]] (9 pages manuscrites, avec des captures d'écran de code et de terminal), dans [[Cours/Informatique/C++/_index|C++]]. C'est la prise de note du cours résumé dans [[4 - C++]] : elle suit le même plan et ajoute la compilation, les exercices faits en séance et leur sortie. Le code des captures est recopié en texte ; l'invite du terminal, qui porte un nom, n'est pas reprise.
@@ -17,10 +18,15 @@ g++ monprog.cpp -o monprog -Wall
 
 - `g++` compile aussi des fichiers `.c` (voir [[GCC]]).
 - Le [[Langage C++|C++]] ajoute au [[Langage C|C]] la programmation orientée objet.
+- Les options : `-o monprog` donne le nom de l'exécutable (sans elle, il s'appelle `a.out`) ; `-Wall` active la plupart des **avertissements** (variable non initialisée, variable inutilisée…), qui signalent un code suspect sans bloquer la compilation ; `-std=c++17` (ou `c++20`) choisit la version de la norme. `./` lance l'exécutable du répertoire courant. [[Complément hors du cours|ⓘ]]
+- `g++` traite un fichier `.c` **comme du C++** et ajoute la bibliothèque standard C++ à l'édition de liens ; `gcc` compile un `.c` comme du C. Un programme C qui utilise un mot réservé du C++ (`class`, `new`) comme nom de variable ne passe donc pas avec `g++`. [[Complément hors du cours|ⓘ]]
+- La commande enchaîne quatre étapes (voir [[Chaîne de compilation]]) : le **préprocesseur** traite les `#include` ; la **compilation** traduit le code en assembleur ; l'**assemblage** produit un fichier objet `.o` ; l'**édition de liens** réunit les fichiers objets et les bibliothèques en un exécutable. Une faute de syntaxe est signalée à la compilation, une fonction déclarée mais jamais définie à l'édition de liens (`undefined reference`). [[Complément hors du cours|ⓘ]]
+
+Les deux variables doivent être initialisées, sinon le résultat est indéterminé : [[Erreurs du cours#^e-4-prise-de-note|✎]]
 
 ```cpp
-int x;
-int y;
+int x = 10;
+int y = 20;
 std::cout << x + y;   // affiche : 30   (équivaut à printf("%d", x+y))
 ```
 
@@ -37,12 +43,15 @@ int main() {
 
 `std::endl` = `\n`, fin de ligne.
 
+Avec une nuance : `std::endl` vide aussi le [[Tampon (buffer)|tampon]] de sortie, ce qui force l'affichage immédiat ; `"\n"` passe seulement à la ligne. `std` est plus précisément l'[[Espace de noms (namespace)|espace de noms]] de la bibliothèque standard, et `std::` le préfixe qui y désigne un nom ; `using namespace std;` permet de l'omettre. [[Complément hors du cours|ⓘ]]
+
 ## Types de base et affichage
 
 Types de base : `int`, `double`, `char` (un seul caractère), `bool`, `std::string` (chaîne de caractères). Voir [[Type primitif]].
 
 - Les opérateurs restent les mêmes qu'en C.
 - `if`, `for`, `while` et `switch case` ont la même syntaxe en C et en C++ (voir [[Structure conditionnelle]], [[Boucle (programmation)]]).
+- Le C++ (depuis C++11) ajoute une boucle qui parcourt tous les éléments d'un tableau ou d'une collection : `for (int v : tab) { std::cout << v << " "; }`. Il permet aussi de déclarer le compteur dans le `for` (`for (int i = 0; …)`), ce que le C n'autorise que depuis C99. [[Complément hors du cours|ⓘ]]
 
 ```cpp
 std::cout << "Score :" << score << std::endl;   // affiche la valeur de la variable score
@@ -50,11 +59,11 @@ std::cout << "Score :" << score << std::endl;   // affiche la valeur de la varia
 
 ```cpp
 int a = 12;
-float f = 13,3;
+float f = 13.3;
 std::cout << a << " " << f << std::endl;
 ```
 
-Affiche `12 13,3`, avec une espace entre les deux valeurs (voir « Erreurs du cours » : en C++ le séparateur décimal est le point).
+Affiche `12 13.3`, avec une espace entre les deux valeurs : en C++, le séparateur décimal est le point (`13,3` ne compile pas dans une déclaration). [[Erreurs du cours#^e-4-prise-de-note|✎]]
 
 ## La notion d'objet : classe et instance
 
@@ -72,9 +81,13 @@ voiture1.marque = "Peugot";
 
 Une `class` est l'équivalent approximatif d'une `struct` en C (voir [[Structure (struct)]]) : elle permet de créer un type de variable. Voir [[Classe et objet]].
 
+En C++, l'équivalence est même presque exacte : une `struct` peut aussi avoir des méthodes et des constructeurs, et la seule différence est l'accès par défaut, public dans une `struct`, privé dans une `class`. Ce qu'une classe ajoute à la `struct` du C, ce sont les **fonctions membres** et le contrôle d'accès. [[Complément hors du cours|ⓘ]]
+
 **Données `public` et `private`** (voir [[Encapsulation (programmation)]]) :
 - `public` : accessible depuis l'extérieur de la classe, n'importe quel code peut lire ou modifier ;
 - `private` : accessible seulement dans la classe.
+
+Dans le constructeur, on écrit `x = 0;` sans `int` : `int x = 0;` déclarerait une nouvelle variable locale qui masquerait l'attribut, laissé alors non initialisé. [[Erreurs du cours#^e-4-prise-de-note|✎]]
 
 ```cpp
 class Point {
@@ -86,7 +99,7 @@ public:
 };
 
 Point::Point() {
-    int x = 0;
+    x = 0;
 }
 ```
 
@@ -98,11 +111,15 @@ Point::affiche-coordonné(Point p) {
 }
 ```
 
-Selon la note, cela ne fonctionne pas tel quel : il faut déclarer la fonction dans la classe, et on rajoute `Point::` devant son nom pour la définir. (Complément, hors du cours : un nom de fonction ne peut pas contenir de tiret, et il manque le type de retour, `void` ; la version du PDF s'appelle `affiche`.)
+Selon la note, cela ne fonctionne pas tel quel : il faut déclarer la fonction dans la classe, et on rajoute `Point::` devant son nom pour la définir.
 
-Si on écrit `Point p;` dans le programme, cela crée une variable `p` de type `Point`, et deux variables `int` `x` et `y`. La note dit que `x` est initialisé à 0 parce qu'on l'a défini dans le constructeur (le **constructeur par défaut**), et que `y` prend probablement une valeur aléatoire parce qu'il n'est pas initialisé dans ce constructeur (voir [[Variable non initialisée]] ; voir « Erreurs du cours » pour `x`).
+Un nom de fonction ne peut pas contenir de tiret, et il manque le type de retour, `void` ; la version du PDF s'appelle `affiche`. [[Complément hors du cours|ⓘ]]
 
-**Exercice demandé par l'enseignant** (sans résultat attendu, pour s'entraîner à écrire des classes) :
+`::` est l'**opérateur de résolution de portée** : `Point::affiche` signifie « la fonction `affiche` qui appartient à la classe `Point` », comme `std::cout` signifie « le `cout` de l'espace de noms `std` ». Sans le préfixe, `void affiche() { … }` définirait une fonction ordinaire, sans lien avec la classe et sans accès à `x` et `y`. Une méthode n'a pas besoin de recevoir l'objet en paramètre (`affiche-coordonné(Point p)`) : appelée par `p.affiche()`, elle travaille directement sur les attributs de `p`. [[Complément hors du cours|ⓘ]]
+
+Si on écrit `Point p;` dans le programme, cela crée une variable `p` de type `Point`, et deux variables `int` `x` et `y`. La note dit que `x` est initialisé à 0 parce qu'on l'a défini dans le constructeur (le **constructeur par défaut**), et que `y` prend probablement une valeur aléatoire parce qu'il n'est pas initialisé dans ce constructeur (voir [[Variable non initialisée]]).
+
+**Exercice demandé par l'enseignant** (sans résultat attendu, pour s'entraîner à écrire des classes ; même règle, les attributs s'affectent sans `int` dans le constructeur) : [[Erreurs du cours#^e-4-prise-de-note|✎]]
 
 ```cpp
 #include <iostream>
@@ -116,8 +133,8 @@ public :
 };
 
 Cercle:: Cercle() {
-        int x = 1;
-        int y = 1;
+        x = 1;
+        y = 1;
 }
 
 int main() {
@@ -129,7 +146,11 @@ return 0;
 }
 ```
 
+Dans ce `main`, `Cercle c;` crée un objet nommé `c` en appelant le constructeur par défaut. La ligne `Cercle();` appelle elle aussi le constructeur, mais crée un objet **temporaire** sans nom, détruit dès la fin de l'instruction : elle ne sert à rien ici. Et `Cercle c();`, avec des parenthèses vides, ne créerait pas d'objet du tout : le compilateur y lit la déclaration d'une fonction `c` qui renvoie un `Cercle`. [[Complément hors du cours|ⓘ]]
+
 **Important** : la fonction qu'on crée pour réaliser un constructeur doit avoir **le même nom que la classe** (voir [[Constructeur (programmation)]]).
+
+Le constructeur n'a **aucun type de retour**, pas même `void`. On ne l'appelle jamais comme une méthode (`c.Cercle()` est interdit) : il s'exécute une seule fois, à la création de l'objet. [[Complément hors du cours|ⓘ]]
 
 ## Constructeur par paramètres (2e type)
 
@@ -142,12 +163,15 @@ public:
         x = a;
         y = b;
     }
+    int getX() const { return x; }
 };
 
 Point p1(3, 4);
 Point p2(5, 6);
-std::cout << p1.x;
+std::cout << p1.getX();
 ```
+
+Comme `x` est `private` dans cette classe, on le lit hors de la classe par un accesseur (voir « Get et set » plus bas) : `std::cout << p1.x;` serait refusé par le compilateur. [[Erreurs du cours#^e-4-prise-de-note|✎]]
 
 Version faite en séance :
 
@@ -190,7 +214,9 @@ public:
 };
 ```
 
-Sur `const Point& autre`, la note dit : on récupère l'adresse (un pointeur) ; on ne modifie pas `autre`, on lit sa valeur. En toute rigueur, `Point&` est une **référence**, pas un pointeur (voir [[Référence (C++)]] ; complément, hors du cours).
+Sur `const Point& autre`, la note dit : on récupère l'adresse (un pointeur) ; on ne modifie pas `autre`, on lit sa valeur.
+
+En toute rigueur, `Point&` est une **référence**, pas un pointeur (voir [[Référence (C++)]]) : un autre nom pour l'objet passé, qui s'utilise sans `*` (`autre.x` et non `autre->x`). Le compilateur la réalise souvent avec une adresse, d'où l'intuition de la note. Elle est même obligatoire ici : passé par valeur, `autre` serait une copie, dont la création appellerait le constructeur par copie lui-même, sans fin. [[Complément hors du cours|ⓘ]]
 
 ```cpp
 //constructeur par copie
@@ -281,6 +307,8 @@ y : 1
 
 Ici le constructeur par défaut affecte les attributs (`x = 1;`, sans `int`) : `c2` vaut bien (1, 1).
 
+Le point-virgule après l'accolade fermante d'une **définition de fonction** (`Cercle:: Cercle() { … };`) est inutile mais accepté : c'est une [[Instruction vide|déclaration vide]], que `-Wall -Wpedantic` peut signaler. Il n'est obligatoire qu'après la définition de la classe elle-même (`class Cercle { … };`). [[Complément hors du cours|ⓘ]]
+
 ## Get et set
 
 Ils permettent d'accéder aux variables privées pour les lire (*get*) et pour les modifier (*set*). Voir [[Accesseur et mutateur]].
@@ -368,12 +396,31 @@ x : 5
 y : 2
 ```
 
+Deux détails de cette capture : `getX()` renvoie un `float` alors que `x` est un `int` (la valeur est convertie, mais le type de retour devrait être `int`) ; et `c1.getX();` seul ne sert à rien, la valeur renvoyée n'étant ni affichée ni rangée (`std::cout << c1.getX();`). Un accesseur se déclare en général `const` : `int getX() const;`. [[Complément hors du cours|ⓘ]]
+
+Une correction possible de l'exercice du rayon : le mutateur n'accepte la valeur que si elle est positive ou nulle, et le constructeur par paramètres passe par lui pour que la règle vaille dès la création. [[Complément hors du cours|ⓘ]]
+
+```cpp
+class Cercle {
+private:
+    int x, y;
+    float rayon;
+public:
+    Cercle(int a, int b, float r) {
+        x = a;
+        y = b;
+        rayon = 0;
+        setRayon(r);
+    }
+    float getRayon() const { return rayon; }
+    void setRayon(float r) {
+        if (r >= 0) {
+            rayon = r;
+        } else {
+            std::cerr << "Rayon négatif refusé" << std::endl;
+        }
+    }
+};
+```
+
 La note s'arrête là : la surcharge d'opérateurs et l'exercice type ne sont que dans le PDF ([[4 - C++]]).
-
-## Erreurs du cours
-
-- **Constructeur `Point::Point() { int x = 0; }`** (page 3) : `int x = 0;` déclare une **nouvelle variable locale** `x`, qui masque l'attribut ; l'attribut `x` de l'objet n'est donc pas initialisé, pas plus que `y`. La note dit pourtant que `x` vaut 0. Il faut écrire `x = 0;` sans `int`, comme dans le PDF ([[4 - C++]]). Même faute dans le premier exercice `Cercle` (page 4, `int x = 1; int y = 1;`) ; les captures suivantes (pages 7 et 9) l'ont corrigée.
-- **`float f = 13,3;`** (page 2) : en C++, le séparateur décimal est le point. `13,3` ne compile pas dans une déclaration ; il faut `float f = 13.3;`, et l'affichage est `12 13.3`.
-- **`int x; int y; std::cout << x + y; // affiche : 30`** (page 1) : sans initialisation, le résultat est indéterminé ; le PDF écrit `int x = 10; int y = 20;`.
-
-Source : [[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]].

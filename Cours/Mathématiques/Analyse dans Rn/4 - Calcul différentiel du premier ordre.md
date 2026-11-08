@@ -2,19 +2,19 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]] (« Chapitre 4 : Calcul différentiel du premier ordre »), dans [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]] (« Chapitre 4 : Calcul différentiel du premier ordre »), dans [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]].
 ## Idée générale
 
 Une fonction de plusieurs variables se dérive d'abord direction par direction. La différentielle en donne une approximation linéaire complète, et sert ensuite à résoudre des équations aux dérivées partielles par changement de variables.
 
 ## 1. Dérivée partielle
 
-> **Définition 1 ([[Dérivée partielle]])** : soit $U$ un [[Ouvert et fermé|ouvert]] de $\mathbb R^p$, $a \in U$ (le cours écrit $a \in \mathbb R^p$) et $f : U \to F$ ($F$ un EVN). Soit $(e_1, \ldots, e_p)$ la base canonique de $\mathbb R^p$. $f$ admet une dérivée partielle première en $a$ par rapport à la $j$-ème variable si et seulement si l'application
+> **Définition 1 ([[Dérivée partielle]])** : soit $U$ un [[Ouvert et fermé|ouvert]] de $\mathbb R^p$, $a \in U$ et $f : U \to F$ ($F$ un EVN). Soit $(e_1, \ldots, e_p)$ la base canonique de $\mathbb R^p$. $f$ admet une dérivée partielle première en $a$ par rapport à la $j$-ème variable si et seulement si l'application [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]]
 > $$\phi_j : D_j \to F,\quad t \mapsto f(a + te_j), \qquad D_j = \{t \in \mathbb R \mid a + te_j \in U\}$$
 > est [[Dérivabilité|dérivable]] en 0. On a alors
 > $$\left.\frac{\partial f}{\partial x_j}\right|_a = \phi_j'(0) = \lim_{t \to 0} \frac{f(a + te_j) - f(a)}{t}.$$
@@ -24,6 +24,10 @@ Une fonction de plusieurs variables se dérive d'abord direction par direction. 
 *Figure : la surface $z = f(x,y)$ coupée par le plan vertical $y = y_0$ ; la coupe donne la courbe $x \mapsto f(x, y_0)$, dont la pente en $x_0$ est $\partial f/\partial x$ en $(x_0, y_0)$.*
 
 > **Remarque importante** : une application dont toutes les dérivées partielles sont définies en $a$ n'est **pas nécessairement continue** en $a$. Les dérivées partielles ne regardent que les directions des vecteurs de la base canonique, alors qu'on peut s'approcher de $a$ par d'autres directions.
+
+Contre-exemple classique : $f(x, y) = \dfrac{xy}{x^2 + y^2}$ si $(x, y) \neq (0, 0)$, et $f(0, 0) = 0$. On a $f(t, 0) = f(0, t) = 0$ pour tout $t$, donc $\left.\frac{\partial f}{\partial x}\right|_{0,0} = \left.\frac{\partial f}{\partial y}\right|_{0,0} = 0$. Mais sur la diagonale, $f(t, t) = \frac12$ pour tout $t \neq 0$ : $f$ ne tend pas vers $f(0,0) = 0$, elle n'est pas continue en $(0, 0)$. [[Complément hors du cours|ⓘ]]
+
+**Dérivée selon un vecteur.** Plus généralement, pour $v \in \mathbb R^p$, la [[Dérivée directionnelle|dérivée de $f$ en $a$ selon $v$]] est, si elle existe, $D_vf(a) = \lim_{t \to 0} \frac{f(a + tv) - f(a)}{t}$. Les dérivées partielles en sont le cas $v = e_j$. Même l'existence de toutes les dérivées directionnelles ne garantit pas la continuité : seule la différentiabilité (section 2) la garantit. [[Complément hors du cours|ⓘ]]
 
 > **Propriété 1** : $f : U \to \mathbb R^n$ admet une dérivée première par rapport à la $j$-ème variable ($j \in [\![1, p]\!]$) si et seulement si, pour tout $i \in [\![1, n]\!]$, $\left.\frac{\partial f_i}{\partial x_j}\right|_a$ est définie. Alors
 > $$\left.\frac{\partial f}{\partial x_j}\right|_a = \left(\left.\frac{\partial f_1}{\partial x_j}\right|_a ; \ldots ; \left.\frac{\partial f_n}{\partial x_j}\right|_a\right).$$
@@ -36,17 +40,28 @@ Une fonction de plusieurs variables se dérive d'abord direction par direction. 
 >
 > Le second point est le [[Développement limité|développement limité]] à l'ordre 1 de $f$ en $a$. $f$ est différentiable sur $U$ si elle l'est en tout point de $U$.
 
+Avec la notation de Landau, la définition s'écrit plus brièvement $f(a + h) = f(a) + l(h) + o(\|h\|)$ quand $h \to 0$ : près de $a$, $f$ ressemble à une fonction affine, à une erreur négligeable devant $\|h\|$ près. En dimension 1, $l(h) = f'(a)\,h$ et on retrouve la dérivabilité. [[Complément hors du cours|ⓘ]]
+
 > **Théorème 1 (différentielle)** : si $f$ est différentiable en $a$, l'application $l$ est **unique**. On l'appelle **différentielle** de $f$ en $a$, notée $D_af$.
 
 - **Propriété 2** : toute application linéaire $\phi : \mathbb R^p \to F$ est différentiable, et $D_a\phi = \phi$ pour tout $a$.
-- **Propriété 3** : si $f$ est différentiable en $a$, ses dérivées partielles premières par rapport à toutes ses variables sont définies en $a$ et
+- **Propriété 3** : si $f$ est différentiable en $a$, ses dérivées partielles premières par rapport à toutes ses variables sont définies en $a$ et [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]]
 $$D_af : \mathbb R^p \to F,\quad h = (h_1, \ldots, h_p) \mapsto D_af(h) = \sum_{j=1}^p h_j \left.\frac{\partial f}{\partial x_j}\right|_a$$
-(le cours mélange les indices $i$ et $j$, voir Erreurs du cours).
 - **Propriété 4** : si $f$ est différentiable en $a$, elle est continue en $a$.
 
 > **Théorème 2 (différentiabilité sur $\mathbb R^2$)** : soit $U$ un ouvert de $\mathbb R^2$, $(x, y) \in U$, $f : U \to F$. $f$ est différentiable en $(x, y)$ si et seulement si
 > $$\lim_{(h_1,h_2) \to (0,0)} \frac{1}{\|(h_1,h_2)\|}\left(f(x + h_1, y + h_2) - f(x,y) - h_1\left.\frac{\partial f}{\partial x}\right|_{x,y} - h_2\left.\frac{\partial f}{\partial y}\right|_{x,y}\right) = 0_F,$$
 > la norme utilisée n'ayant pas d'influence sur le résultat.
+
+La norme n'a pas d'influence parce que toutes les normes de $\mathbb R^p$ sont équivalentes : si $\alpha\|h\| \le \|h\|' \le \beta\|h\|$, un quotient tend vers 0 pour une norme si et seulement s'il tend vers 0 pour l'autre. [[Complément hors du cours|ⓘ]]
+
+**Méthode pour montrer la différentiabilité en un point.** (1) Calculer les dérivées partielles en $a$ (si l'une n'existe pas, $f$ n'est pas différentiable) ; (2) former le candidat $l(h) = \sum_j h_j \left.\frac{\partial f}{\partial x_j}\right|_a$ ; (3) étudier la limite du théorème 2, souvent en majorant le quotient ou en passant en [[Coordonnées polaires|polaires]]. En pratique, si $f$ est de classe $\mathcal C^1$ (section 3), cette étude est inutile. [[Complément hors du cours|ⓘ]]
+
+Exemple : $f(x, y) = x^2y$. En $(x, y)$, $\frac{\partial f}{\partial x} = 2xy$ et $\frac{\partial f}{\partial y} = x^2$, donc $D_{(x,y)}f(h_1, h_2) = 2xy\,h_1 + x^2 h_2$. En $(1, 2)$ : $D_{(1,2)}f(h) = 4h_1 + h_2$. [[Complément hors du cours|ⓘ]]
+
+**Interprétation géométrique : le [[Plan tangent|plan tangent]].** Si $f : U \subset \mathbb R^2 \to \mathbb R$ est différentiable en $(x_0, y_0)$, la surface $z = f(x, y)$ admet en ce point le plan tangent d'équation
+$$z = f(x_0, y_0) + \left.\frac{\partial f}{\partial x}\right|_{x_0,y_0}(x - x_0) + \left.\frac{\partial f}{\partial y}\right|_{x_0,y_0}(y - y_0).$$
+C'est l'analogue de la tangente $y = f(a) + f'(a)(x - a)$ en une variable : la différentiabilité dit exactement que la surface est approchée par ce plan, à une erreur $o(\|h\|)$ près. [[Complément hors du cours|ⓘ]]
 
 ## 3. Fonctions de classe $\mathcal C^1$
 
@@ -64,11 +79,13 @@ $$f \in \mathcal C^1(U; F) \Rightarrow f \text{ différentiable en } a \in U \Ri
 
 Attention :
 1. si $f$ est $\mathcal C^1$ en $a$, ses dérivées premières en $a$ sont, par définition, définies et continues ;
-2. si $f$ n'est que différentiable en $a$, ses dérivées premières sont définies mais « pas continues » selon le cours (lire « pas forcément continues », voir Erreurs du cours).
+2. si $f$ n'est que différentiable en $a$, ses dérivées premières sont définies mais pas forcément continues. [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]]
+
+Exemple d'une fonction différentiable mais pas $\mathcal C^1$ : $f(x, y) = (x^2 + y^2)\sin\dfrac{1}{\sqrt{x^2 + y^2}}$, prolongée par $f(0, 0) = 0$. Comme $|f(h)| \le \|h\|_2^2$, $f$ est différentiable en $(0, 0)$ de différentielle nulle ; mais $\frac{\partial f}{\partial x}$ contient le terme $-\frac{x}{\sqrt{x^2+y^2}}\cos\frac{1}{\sqrt{x^2+y^2}}$, qui n'a pas de limite en $(0, 0)$. C'est la version à deux variables de $x \mapsto x^2\sin(1/x)$. [[Complément hors du cours|ⓘ]]
 
 > **Théorème 4** : $\mathcal C^1(U, F)$ est un sous-[[Espace vectoriel|espace vectoriel]] de l'espace $\mathcal C(U, F)$ des fonctions continues de $U$ dans $F$.
 
-> **Théorème 5** : pour tous $f, g \in \mathcal C^1(U, F)$, $f \times g \in \mathcal C^1(U, F)$ (voir Erreurs du cours).
+> **Théorème 5** : si $F$ est muni d'un produit (par exemple $F = \mathbb R$), pour tous $f, g \in \mathcal C^1(U, F)$, $f \times g \in \mathcal C^1(U, F)$. [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]]
 
 > **Théorème 6 (composition)** : soit $f$ de classe $\mathcal C^1$ de $U$ (ouvert de $\mathbb R^p$) dans $\mathbb R^q$, et $g$ de classe $\mathcal C^1$ de $V$ (ouvert de $\mathbb R^q$) dans $\mathbb R^n$. Si $f(U) \subset V$, alors $g \circ f$ est $\mathcal C^1$ sur $U$.
 
@@ -86,6 +103,10 @@ Attention :
 
 **Remarque** : avec $g(u,v) = (g_1(u,v), g_2(u,v))$, $h = f \circ g$. La propriété 7 donne les dérivées partielles de $h$ par rapport à ses variables naturelles $u$, $v$ à partir de celles de $f$ par rapport à $x$, $y$. Elle sert à résoudre les [[Équation aux dérivées partielles|équations aux dérivées partielles]] par changement de variables, seule méthode vue cette année. L'exemple explicite renvoie au poly (pages 78-79), non recopié dans la note.
 
+**Forme générale de la dérivation en chaîne.** Les propriétés 6 et 7 sont des cas particuliers d'un seul énoncé : si $f$ est différentiable en $a$ et $g$ différentiable en $f(a)$, alors $g \circ f$ est différentiable en $a$ et
+$$D_a(g \circ f) = D_{f(a)}g \circ D_af, \qquad J_{g \circ f}(a) = J_g(f(a))\,J_f(a).$$
+La différentielle d'une composée est la composée des différentielles, et la [[Matrice jacobienne|jacobienne]] (section 5) d'une composée est le [[Produit matriciel|produit]] des jacobiennes. Chaque ligne de la propriété 7 est un coefficient de ce produit de matrices $1 \times 2$ par $2 \times 2$. [[Complément hors du cours|ⓘ]]
+
 ## 5. Matrice de Jacobi et gradient
 
 > **Définition 4 ([[Matrice jacobienne|matrice de Jacobi]])** : soit $f : U \to \mathbb R^n$ différentiable en $a \in U$ ($U$ ouvert de $\mathbb R^p$). La matrice jacobienne $J_f(a)$ est la matrice à $n$ lignes et $p$ colonnes de $D_af$ dans les bases canoniques :
@@ -95,9 +116,13 @@ Attention :
 > **Définition 5 ([[Gradient]])** : pour $f : U \to \mathbb R$ différentiable en $a$, le gradient de $f$ en $a$, noté $\overrightarrow{\text{grad}}(f)(a)$ ou $\vec\nabla_af$, est
 > $$\vec\nabla_af = {}^tJ_f(a) = \begin{pmatrix} \left.\frac{\partial f}{\partial x_1}\right|_a \\ \vdots \\ \left.\frac{\partial f}{\partial x_p}\right|_a \end{pmatrix}.$$
 
-> **Propriété 8 (gradient et différentielle)** : $D_af(h) = \vec\nabla_af \cdot h$ ([[Produit scalaire|produit scalaire]]) ; le cours écrit $\forall (a, h) \in U^2$ (voir Erreurs du cours).
+> **Propriété 8 (gradient et différentielle)** : $D_af(h) = \vec\nabla_af \cdot h$ ([[Produit scalaire|produit scalaire]]), pour tout $a \in U$ et tout $h \in \mathbb R^p$. [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]]
 
 > **Propriété 9 (interprétation du gradient)** : le gradient d'une fonction $f : \mathbb R^n \to \mathbb R$ est perpendiculaire aux directions où $f$ est constante et pointe dans la direction où la variation de $f$ est maximale (plus grande pente). Sa norme est d'autant plus grande que la variation de $f$ au point considéré est grande.
+
+Justification : pour un [[Vecteur unitaire|vecteur unitaire]] $v$, la [[Dérivée directionnelle|dérivée selon $v$]] vaut $D_af(v) = \vec\nabla_af \cdot v$. Par l'[[Inégalité de Cauchy-Schwarz|inégalité de Cauchy-Schwarz]], $|\vec\nabla_af \cdot v| \le \|\vec\nabla_af\|_2$, avec égalité si et seulement si $v$ est colinéaire au gradient. La pente est donc maximale, égale à $\|\vec\nabla_af\|_2$, dans la direction $v = \vec\nabla_af / \|\vec\nabla_af\|_2$, et nulle pour $v \perp \vec\nabla_af$, c'est-à-dire le long de la ligne de niveau $f = f(a)$. [[Complément hors du cours|ⓘ]]
+
+Exemple : pour $f(x, y) = x^2 + y^2$, $\vec\nabla_{(x,y)}f = (2x, 2y)$ : le gradient pointe vers l'extérieur, perpendiculairement aux lignes de niveau, qui sont des cercles centrés en l'origine. C'est l'idée de la **descente de gradient** en optimisation et en apprentissage automatique : pour faire décroître $f$, on avance dans la direction $-\vec\nabla f$. [[Complément hors du cours|ⓘ]]
 
 ### Inégalité des accroissements finis
 
@@ -106,6 +131,10 @@ On généralise le théorème des accroissements finis de $\mathbb R \to \mathbb
 > **Théorème 7 ([[Inégalité des accroissements finis]])** : soit $U$ un ouvert de $\mathbb R^p$, $f : U \to \mathbb R$ de classe $\mathcal C^1$, et $a, b \in U$ tels que $[a, b] = \{(1 - \lambda)a + \lambda b \mid \lambda \in [0, 1]\} \subset U$. S'il existe $M$ tel que
 > $$\forall x \in [a, b],\quad \|\vec\nabla_xf\|_1 = \sum_{j=1}^p \left|\left.\frac{\partial f}{\partial x_j}\right|_x\right| \le M,$$
 > alors $|f(b) - f(a)| \le M\,\|b - a\|_1$.
+
+Idée de la démonstration : on se ramène à une variable avec $\varphi(t) = f(a + t(b - a))$, $t \in [0, 1]$. Par [[Dérivation en chaîne|dérivation en chaîne]], $\varphi'(t) = \vec\nabla_{a + t(b-a)}f \cdot (b - a)$, donc $|\varphi'(t)| \le \sum_j \left|\frac{\partial f}{\partial x_j}\right| |b_j - a_j| \le M \max_j |b_j - a_j| \le M\|b - a\|_1$. Le théorème des accroissements finis en une variable appliqué à $\varphi$ entre 0 et 1 conclut. [[Complément hors du cours|ⓘ]]
+
+Le même argument donne, pour $f$ à valeurs **réelles**, une **égalité** des accroissements finis : il existe $c \in\, ]a, b[$ tel que $f(b) - f(a) = \vec\nabla_cf \cdot (b - a)$. Pour $f$ à valeurs dans $\mathbb R^n$ avec $n \ge 2$, l'égalité est fausse en général (chaque composante a son propre point $c$), seule l'inégalité subsiste : c'est pourquoi on parle d'« inégalité » des accroissements finis. [[Complément hors du cours|ⓘ]]
 
 > **Définition 6 ([[Partie convexe]])** : $C \subset E$ est convexe si et seulement si
 > $$\forall (x, y) \in C^2,\ \forall \lambda \in [0, 1],\ (1 - \lambda)x + \lambda y \in C,$$
@@ -120,6 +149,8 @@ On généralise le théorème des accroissements finis de $\mathbb R \to \mathbb
 > $$\forall j \in [\![1, p]\!],\ \forall a \in U,\ \left.\frac{\partial f}{\partial x_j}\right|_a = 0.$$
 > Démonstration : $f$ constante $\iff$ $f$ 0-lipschitzienne.
 
+Sans hypothèse sur la forme de $U$, le résultat tombe : sur $U = B(-2e_1, 1) \cup B(2e_1, 1)$ (deux boules disjointes), la fonction égale à 0 sur la première et à 1 sur la seconde a un gradient nul partout sans être constante. La convexité sert à relier deux points par un segment inclus dans $U$ ; le résultat reste vrai sur un ouvert seulement **connexe** (« d'un seul tenant »), en reliant les points par une ligne brisée. [[Complément hors du cours|ⓘ]]
+
 ## 6. Équations aux dérivées partielles du premier ordre et $\mathcal C^1$-difféomorphismes
 
 Une [[Équation aux dérivées partielles]] généralise les équations différentielles :
@@ -133,11 +164,13 @@ On considère des EDP de la forme
 $$F\left(\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, f, x, y\right) = 0,$$
 où $f : \mathbb R^2 \to \mathbb R$ est inconnue.
 
-> **Théorème 8** : soit $g : \mathbb R^2 \to \mathbb R$ continue sur un ouvert $U$. Les solutions de classe $\mathcal C^1$ sur $U$ de l'EDP
+> **Théorème 8** : soit $g : \mathbb R^2 \to \mathbb R$ continue sur un ouvert $U$ tel que, pour chaque $y$, l'ensemble des $x$ tels que $(x, y) \in U$ soit un intervalle (c'est le cas pour $\mathbb R^2$, un pavé, un disque). [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre|✎]] Les solutions de classe $\mathcal C^1$ sur $U$ de l'EDP
 > $$\left.\frac{\partial f}{\partial x}\right|_{x,y} = g(x, y) \quad (4.4)$$
 > sont de la forme
 > $$f(x, y) = K(y) + \int g(x, y)\,dx,$$
 > où $\int g(x,y)\,dx$ est une [[Primitive|primitive]] quelconque de $g$ par rapport à $x$, et $K$ une fonction quelconque de $\mathbb R$ dans $\mathbb R$, de classe $\mathcal C^1$ sur un ouvert de $\mathbb R$ correspondant à la projection de $U$ sur l'axe $Oy$.
+
+Pourquoi une fonction $K(y)$ et non une constante : on intègre par rapport à $x$ à $y$ fixé, et la « constante » d'intégration peut changer avec $y$. Par exemple, $\frac{\partial f}{\partial x} = 2xy$ a pour solutions $f(x, y) = x^2y + K(y)$. L'hypothèse sur $U$ est nécessaire : si, pour un $y$, l'ensemble des $x$ est en plusieurs morceaux, $K$ peut prendre une valeur différente sur chaque morceau. [[Complément hors du cours|ⓘ]]
 
 > **Définition 7 ($\mathcal C^1$-difféomorphisme)** : soit $U$ un ouvert de $\mathbb R^p$ et $V$ un ouvert de $\mathbb R^n$. $\phi : U \to V$ est un $\mathcal C^1$-[[Difféomorphisme|difféomorphisme]] de $U$ dans $V$ si et seulement si :
 > 1. $\phi$ est de classe $\mathcal C^1$ sur $U$ ;
@@ -148,17 +181,27 @@ où $f : \mathbb R^2 \to \mathbb R$ est inconnue.
 - **Propriété 13 (caractérisation rapide)** : si $\phi : U \to V$ (1) est $\mathcal C^1$ sur $U$, (2) réalise une bijection de $U$ dans $V$, (3) a, en tout point $a$ de $U$, une différentielle $D_a\phi$ linéaire bijective de $\mathbb R^p$ dans $\mathbb R^n$, alors $p = n$ et $\phi$ est un $\mathcal C^1$-difféomorphisme de $U$ sur $V$.
 - **Propriété 14** : si le jacobien de $\phi$ en $a$ est non nul, alors $D_a\phi$ est une application linéaire bijective.
 
+En pratique, les propriétés 13 et 14 se combinent : pour montrer qu'un changement de variables $\phi : U \to V$ est un $\mathcal C^1$-difféomorphisme, on vérifie qu'il est $\mathcal C^1$, qu'il est bijectif (souvent en calculant explicitement $\phi^{-1}$) et que son jacobien ne s'annule pas sur $U$. La différentielle de la réciproque est alors l'inverse de la différentielle : $J_{\phi^{-1}}(\phi(a)) = J_\phi(a)^{-1}$, ce qui découle de la dérivation en chaîne appliquée à $\phi^{-1} \circ \phi = \mathrm{id}$. [[Complément hors du cours|ⓘ]]
+
+**[[Théorème d'inversion locale]].** Si $\phi : U \to \mathbb R^p$ est de classe $\mathcal C^1$ et que son jacobien en $a$ est non nul, il existe un ouvert $U' \ni a$ et un ouvert $V' \ni \phi(a)$ tels que $\phi$ réalise un $\mathcal C^1$-difféomorphisme de $U'$ sur $V'$. Le jacobien non nul ne donne donc, à lui seul, qu'un difféomorphisme **local** : la bijectivité globale doit être vérifiée à part. Exemple : $(\rho, \theta) \mapsto (\rho\cos\theta, \rho\sin\theta)$ a un jacobien $\rho \neq 0$ sur $\mathbb R_+^* \times \mathbb R$, mais n'y est pas injective ($\theta$ et $\theta + 2\pi$ ont la même image) ; d'où les restrictions de $\theta$ de la section 7. [[Complément hors du cours|ⓘ]]
+
 ### Méthode : résoudre une EDP $(E)$ par changement de variables
 
 | Étape | Cas direct | Cas indirect |
 |---|---|---|
 | Changement de variables | $(x; y) = \varphi(u, v)$, $\varphi : V \to U$, $(u; v) \mapsto (x(u,v); y(u,v))$ | $(u; v) = \varphi(x, y)$, $\varphi : U \to V$, $(x; y) \mapsto (u(x,y); v(x,y))$ |
-| Hypothèse | $\varphi$ est un $\mathcal C^1$-difféomorphisme (le cours écrit « de $U$ sur $V$ » pour les deux colonnes) | idem |
+| Hypothèse | $\varphi$ est un $\mathcal C^1$-difféomorphisme de $V$ sur $U$ [[Erreurs du cours#^e-4-calcul-differentiel-du-premier-ordre\|✎]] | $\varphi$ est un $\mathcal C^1$-difféomorphisme de $U$ sur $V$ |
 | Nouvelle fonction | $g = f \circ \varphi$, avec $f \in \mathcal C^1(U; \mathbb R)$, donc $g \in \mathcal C^1(V; \mathbb R)$ | $g = f \circ \varphi^{-1}$, c'est-à-dire $f = g \circ \varphi$, donc $g \in \mathcal C^1(V; \mathbb R)$ |
 | Dérivation en chaîne | $\dfrac{\partial g}{\partial u} = \dfrac{\partial f}{\partial x}\dfrac{\partial x}{\partial u} + \dfrac{\partial f}{\partial y}\dfrac{\partial y}{\partial u}$ et $\dfrac{\partial g}{\partial v} = \dfrac{\partial f}{\partial x}\dfrac{\partial x}{\partial v} + \dfrac{\partial f}{\partial y}\dfrac{\partial y}{\partial v}$ | $\dfrac{\partial f}{\partial x} = \dfrac{\partial g}{\partial u}\dfrac{\partial u}{\partial x} + \dfrac{\partial g}{\partial v}\dfrac{\partial v}{\partial x}$ et $\dfrac{\partial f}{\partial y} = \dfrac{\partial g}{\partial u}\dfrac{\partial u}{\partial y} + \dfrac{\partial g}{\partial v}\dfrac{\partial v}{\partial y}$ |
 | Réécrire $(E)$ | exprimer $\partial f/\partial x$ et $\partial f/\partial y$ en fonction de $\partial g/\partial u$ et $\partial g/\partial v$, puis reporter dans $(E)$. Si le changement est simple, mieux vaut souvent l'inverser et passer au cas indirect. | injecter directement $\partial f/\partial x$ et $\partial f/\partial y$ dans $(E)$ |
 | Résoudre | $(E') : F\left(\dfrac{\partial g}{\partial u}; \dfrac{\partial g}{\partial v}; g; u; v\right) = 0$ | idem |
 | Revenir à $x$, $y$ | avec $(u; v) = \varphi^{-1}(x, y)$, si le changement est simple à inverser | avec $(u; v) = \varphi(x, y)$ |
+
+**Exemple résolu (cas indirect).** Résoudre sur $\mathbb R^2$, pour $f$ de classe $\mathcal C^1$ : $(E)\ \dfrac{\partial f}{\partial x} + \dfrac{\partial f}{\partial y} = 0$. [[Complément hors du cours|ⓘ]]
+1. Changement de variables : $(u, v) = \varphi(x, y) = (x, x - y)$. $\varphi$ est linéaire, de matrice $\begin{pmatrix}1 & 0 \\ 1 & -1\end{pmatrix}$, de déterminant $-1 \neq 0$ : elle est bijective, donc un $\mathcal C^1$-difféomorphisme de $\mathbb R^2$ sur $\mathbb R^2$ (propriété 12). [[Complément hors du cours|ⓘ]]
+2. On pose $f = g \circ \varphi$, soit $f(x, y) = g(x, x - y)$. Dérivation en chaîne : $\frac{\partial f}{\partial x} = \frac{\partial g}{\partial u}\cdot 1 + \frac{\partial g}{\partial v}\cdot 1$ et $\frac{\partial f}{\partial y} = \frac{\partial g}{\partial u}\cdot 0 + \frac{\partial g}{\partial v}\cdot(-1)$. [[Complément hors du cours|ⓘ]]
+3. En reportant : $(E) \iff \frac{\partial g}{\partial u} = 0$, dont les solutions sont $g(u, v) = K(v)$, $K \in \mathcal C^1(\mathbb R, \mathbb R)$ (théorème 8 avec $g = 0$, variables échangées). [[Complément hors du cours|ⓘ]]
+4. Retour à $x$, $y$ : $f(x, y) = K(x - y)$. Vérification : $\frac{\partial f}{\partial x} = K'(x - y)$ et $\frac{\partial f}{\partial y} = -K'(x - y)$, de somme nulle. Les solutions sont constantes le long des droites $x - y = \text{cte}$ : c'est une **équation de transport**. [[Complément hors du cours|ⓘ]]
 
 ## 7. Changement de variables en coordonnées polaires
 
@@ -185,13 +228,14 @@ $$\phi^{-1}(x, y) = \left(\sqrt{x^2 + y^2},\ \arccos\frac{x}{\sqrt{x^2 + y^2}}\r
 ![[Chp 4 - Calcul différentiel du premier ordre - image2.png]]
 *Figure : demi-plan $y > 0$ hachuré, $\theta \in\, ]0, \pi[$.*
 
+**Jacobienne des polaires.** Pour $\phi(\rho, \theta) = (\rho\cos\theta, \rho\sin\theta)$ :
+$$J_\phi(\rho, \theta) = \begin{pmatrix} \cos\theta & -\rho\sin\theta \\ \sin\theta & \rho\cos\theta \end{pmatrix}, \qquad \det J_\phi(\rho, \theta) = \rho\cos^2\theta + \rho\sin^2\theta = \rho.$$
+Le jacobien $\rho$ est non nul pour $\rho > 0$ : avec la bijectivité sur chaque demi-plan, c'est ce qui fait de $\phi$ un $\mathcal C^1$-difféomorphisme (propriétés 13 et 14). En $\rho = 0$, il s'annule : l'origine est exclue. [[Complément hors du cours|ⓘ]]
+
+**Dérivées partielles en polaires.** Avec $g(\rho, \theta) = f(\rho\cos\theta, \rho\sin\theta)$, la dérivation en chaîne (cas direct) donne
+$$\frac{\partial g}{\partial \rho} = \cos\theta\,\frac{\partial f}{\partial x} + \sin\theta\,\frac{\partial f}{\partial y}, \qquad \frac{\partial g}{\partial \theta} = -\rho\sin\theta\,\frac{\partial f}{\partial x} + \rho\cos\theta\,\frac{\partial f}{\partial y},$$
+les dérivées de $f$ étant prises en $(\rho\cos\theta, \rho\sin\theta)$. Par exemple, $x\frac{\partial f}{\partial x} + y\frac{\partial f}{\partial y} = \rho\frac{\partial g}{\partial \rho}$ et $-y\frac{\partial f}{\partial x} + x\frac{\partial f}{\partial y} = \frac{\partial g}{\partial \theta}$ : les EDP qui contiennent ces combinaisons se résolvent naturellement en polaires. [[Complément hors du cours|ⓘ]]
+
+La valeur absolue du jacobien mesure le facteur local de dilatation des aires : un petit rectangle $d\rho\,d\theta$ devient une portion de couronne d'aire environ $\rho\,d\rho\,d\theta$. D'où la formule $dx\,dy = \rho\,d\rho\,d\theta$ du changement de variables dans les [[Intégrale multiple|intégrales multiples]]. [[Complément hors du cours|ⓘ]]
+
 (Voir [[Fonctions trigonométriques réciproques]].)
-
-## Erreurs du cours
-
-- [[Raw/Year 2/Analyse dans Rn/Chp 4 : Calcul différentiel du premier ordre.docx|Chp 4 - Calcul différentiel du premier ordre]] écrit « si $f$ n'est que différentiable en $a$ alors les dérivées premières sont définies mais pas continues » ; il faut « pas forcément continues ».
-- Théorème 5 : le cours écrit, pour $F$ un EVN quelconque, « $f, g \in \mathcal C^1(U, F) \Rightarrow f \times g \in \mathcal C^1(U, F)$ » ; il faut un espace $F$ muni d'un produit, par exemple $F = \mathbb{R}$ : sinon $f \times g$ n'a pas de sens.
-- Propriété 3 : le cours écrit $D_af(h) = \sum_{i=1}^{p} h_i \left.\frac{\partial f}{\partial x_j}\right|_a$ ; il faut le même indice, $\sum_{j=1}^{p} h_j \left.\frac{\partial f}{\partial x_j}\right|_a$ (forme reprise dans cette fiche).
-- Propriété 8 : le cours écrit $\forall (a, h) \in U^2$ ; il faut $a \in U$ et $h \in \mathbb{R}^p$. De même, la définition 1 écrit « Soit $a \in \mathbb{R}^p$ » ; il faut $a \in U$. La propriété 10 dit « pour tout point $a \in U$ » mais écrit sa formule en $x$.
-- Propriété 11 (fonction constante) : l'énoncé se termine par « alors $f$ est $M$-lipschitzienne sur $U$ », phrase reprise de la propriété 10 ; il faut la supprimer.
-- Tableau du changement de variables : le cas direct définit $\varphi : V \to U$ mais écrit « $\varphi$ est un $\mathcal C^1$-difféomorphisme de $U$ sur $V$ » ; pour ce cas, il faut « de $V$ sur $U$ ».

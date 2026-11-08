@@ -2,12 +2,12 @@
 type: source
 tags: [year4]
 sources: ["[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]].
 ## Idée générale
 
 Comment la mémoire se représente (adresses, tableaux contigus), comment les pointeurs la manipulent, puis ce qu'on en tire : passage par adresse, tableaux en paramètre, `struct`, listes chaînées, doubles pointeurs.
@@ -30,7 +30,7 @@ Ce que dit la diapositive :
 
 - Une adresse est souvent affichée en [[Notation hexadécimale|notation hexadécimale]] et commence par **0x**. Un [[Octet|octet]] se code sur 2 chiffres hexadécimaux ; 32 bits = 4 octets = 8 chiffres hexadécimaux.
 - **Adresse** : entier désignant l'emplacement où est stockée la donnée. Sa taille dépend de l'architecture : 4 octets (32 bits) sur système 32 bits, 8 octets (64 bits) sur système 64 bits.
-- **Taille d'un entier** : selon la diapositive, elle dépend aussi de l'architecture, 4 octets en 32 bits et 8 octets en 64 bits. C'est inexact pour un `int`, qui fait en général 4 octets aussi en 64 bits (voir « Erreurs du cours »).
+- **Taille d'un entier** : un `int` fait en général 4 octets, sur les systèmes 32 bits comme sur les systèmes 64 bits courants (modèles LP64 de Linux et macOS, LLP64 de Windows) ; ce sont les pointeurs, et le `long` en LP64, qui passent à 8 octets en 64 bits. [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
 
 ![[Chp3 - pointeurs , tableaux, listes chainées, structures - image4.png]]
 
@@ -38,6 +38,7 @@ Ce que dit la diapositive :
 
 - L'allocation est **contiguë** : les adresses se suivent, de 4 en 4 car un entier fait 4 octets.
 - C'est **efficace** (rapide) lors de traitements répétés.
+- Pourquoi c'est rapide : l'adresse de la case `i` se calcule directement, $\text{adresse}(t[i]) = \text{adresse}(t[0]) + i \times \text{taille du type}$, donc l'accès à n'importe quelle case prend un temps constant ; et des cases voisines sont chargées ensemble dans la [[Mémoire cache|mémoire cache]] du processeur, ce qui accélère les parcours. [[Complément hors du cours|ⓘ]]
 
 ## 2. Variables typées
 
@@ -52,6 +53,7 @@ int effectifs[6];    // allocation de la mémoire : 6 fois la taille d'un entier
 
 - Toute allocation en mémoire est référencée par une **adresse**.
 - Le C demande de connaître le **type** (pour prévoir la place à allouer) et la **taille** (nombre de cases du tableau, pour prévoir une place contiguë) dès le début d'un bloc.
+- L'opérateur `sizeof` donne la taille en octets d'un type ou d'une variable : `sizeof(char)` vaut 1 par définition, `sizeof(int)` vaut en général 4, et, dans la fonction où le tableau est déclaré, `sizeof(effectifs)` vaut $6 \times 4 = 24$. D'où l'idiome `sizeof(effectifs) / sizeof(effectifs[0])` pour obtenir le nombre de cases. [[Complément hors du cours|ⓘ]]
 
 ## 3. Adresses
 
@@ -106,7 +108,8 @@ for(i=0;i<6;i++) printf("l'adresse de effectifs[%d] est %p \n", i, effectifs+i);
 
 - Le nom du tableau est aussi l'adresse de son premier élément.
 - Une adresse est un nombre entier : on peut lui ajouter ou retrancher une valeur, un indice (essentiellement additions et soustractions). Voir [[Arithmétique des pointeurs]].
-- **Ajouter ou soustraire un entier à une adresse revient à se décaler en mémoire de la taille du type concerné.** Avec des `int`, ajouter 1 décale de 4 octets (le cours précise « en 32 bits »).
+- **Ajouter ou soustraire un entier à une adresse revient à se décaler en mémoire de la taille du type concerné.** Avec des `int`, ajouter 1 décale de 4 octets (en 32 comme en 64 bits). [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
+- La différence de deux pointeurs sur un même tableau donne le **nombre d'éléments** qui les séparent, pas le nombre d'octets : `&effectifs[5] - &effectifs[1]` vaut 4. Additionner deux pointeurs, en revanche, n'a pas de sens et ne compile pas. [[Complément hors du cours|ⓘ]]
 
 ## 4. Manipuler les adresses : les pointeurs
 
@@ -174,15 +177,19 @@ int calc = *ptr;                                // calc = 38
 
 L'opérateur `*` accolé au nom du pointeur donne accès à la valeur rangée à l'adresse que contient le pointeur.
 
+Le symbole `*` a donc deux rôles : dans une **déclaration** (`int *ptr;`), il dit que `ptr` est un pointeur ; dans une **expression** (`*ptr`), il déréférence. Piège classique : `int *p, q;` déclare un pointeur `p` et un entier `q`, l'étoile ne s'applique qu'au nom qui la suit. [[Complément hors du cours|ⓘ]]
+
+Déréférencer un pointeur qui n'a pas été initialisé ([[Variable non initialisée]]) lit ou écrit à une adresse quelconque : c'est un comportement indéfini, qui se termine souvent par une [[Erreur de segmentation]]. D'où la règle : initialiser tout pointeur, au besoin à `NULL`. [[Complément hors du cours|ⓘ]]
+
 ## 5. Résumé des opérations sur les pointeurs
 
-- Pour afficher une adresse : `%p` (le cours écrit « soit `%d`, soit `%p` », voir « Erreurs du cours »).
+- Pour afficher une adresse : `%p` ; `%d` ne convient pas, car une adresse de 64 bits ne tient pas dans un `int` et s'affiche tronquée ou fausse. [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
 - `&X` : « adresse de X ».
 - `*X` : « contenu de l'adresse pointée par X ».
 
 ### Programme complet commenté
 
-Code du cours, avec ses commentaires résumés (il ne compile pas tel quel, voir « Erreurs du cours ») :
+Code du cours, avec ses commentaires résumés ; le pointeur du bloc alloué s'appelle `buffer` d'un bout à l'autre, et `free` libère le bloc sans effacer son contenu : [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
 
 ```c
 int main() {
@@ -201,16 +208,16 @@ int main() {
 
     unsigned char c;
     unsigned char *buffer;   // pointeur vers un unsigned char
-    bufferinheap = malloc(sizeof(unsigned char) * 10);
+    buffer = malloc(sizeof(unsigned char) * 10);
         // malloc (memory allocation) : 10 octets réservés dans le tas (heap).
-        // bufferinheap ne contient PAS les 10 octets, mais l'ADRESSE du bloc.
-    printf("5) adresse dans buffer: %p\n", bufferinheap);
-    unsigned char *pb = bufferinheap;   // pb contient la même adresse
+        // buffer ne contient PAS les 10 octets, mais l'ADRESSE du bloc.
+    printf("5) adresse dans buffer: %p\n", buffer);
+    unsigned char *pb = buffer;         // pb contient la même adresse
     printf("6) adresse dans pb: %p\n", pb);
     pb++;                               // avance d'un octet (taille d'un unsigned char)
     printf("7) adresse dans pb: %p\n", pb);
-    free(buffer);   // après chaque malloc, TOUJOURS free
-    printf("8) adresse dans bufferinheap: %p\n", bufferinheap);
+    free(buffer);   // rend le bloc, sans effacer son contenu ; après chaque malloc, TOUJOURS free
+    printf("8) adresse dans buffer: %p\n", buffer);
     printf("9) adresse dans pb: %p\n", pb);
         // 8 et 9 : même après libération, les pointeurs gardent leur adresse
     return 0;
@@ -231,6 +238,14 @@ Sortie donnée par le cours :
 8) adresse dans buffer: 93886705493680
 9) adresse dans pb: 93886705493681
 ```
+
+**Pile et tas.** Les variables locales (`i`, `p`, `pb`) sont rangées sur la [[Pile d'exécution|pile]] (*stack*) : elles sont créées à l'entrée du bloc et disparaissent automatiquement à sa sortie. Le bloc réservé par `malloc` est sur le **tas** (*heap*) : il existe jusqu'au `free`, quelle que soit la fonction en cours. Les deux zones font partie de l'[[Espace mémoire d'un processus]]. La sortie du cours le montre : converties en hexadécimal, l'adresse de `i` (0x7ffee002d40c) est tout en haut de l'espace d'adressage, là où se trouve la pile, celle du bloc alloué (0x5563b3bae6b0) beaucoup plus bas, dans le tas. [[Complément hors du cours|ⓘ]]
+
+`malloc` renvoie `NULL` quand l'allocation échoue : on teste le résultat avant de s'en servir (`if (buffer == NULL) { … }`). En C, le `void *` qu'il renvoie se convertit seul vers `unsigned char *` ; en C++, il faut un transtypage explicite, et l'on préfère `new` et `delete` (`new unsigned char[10]`, puis `delete[]`). [[Complément hors du cours|ⓘ]]
+
+**Pointeur pendant.** Les lignes 8 et 9 le montrent : après `free`, `buffer` et `pb` contiennent encore l'adresse du bloc libéré. Un tel pointeur est dit **pendant** (*dangling pointer*) : lire ou écrire à travers lui est un comportement indéfini, car le bloc peut avoir été réattribué. Bonne pratique : remettre le pointeur à `NULL` juste après le `free`, et ne jamais libérer deux fois le même bloc. Voir [[Pointeur pendant]]. [[Complément hors du cours|ⓘ]]
+
+**Fuite mémoire.** À l'inverse, perdre l'adresse d'un bloc sans l'avoir libéré (oubli du `free`, pointeur écrasé) le rend inaccessible jusqu'à la fin du programme : c'est une [[Fuite mémoire|fuite mémoire]], grave dans un programme qui tourne longtemps. Des outils comme Valgrind les détectent. [[Complément hors du cours|ⓘ]]
 
 Notions liées : [[Allocation dynamique]], [[Type primitif]] (`unsigned char`), [[Fonctions printf et scanf]].
 
@@ -270,7 +285,7 @@ Déroulé en mémoire, sur la [[Pile d'exécution|pile]] :
 
 *Figure : la pile ne contient que `var1` (10) et `var2` (20).*
 
-2. On entre dans `echange` : un cadre est empilé avec les paramètres `a = 10`, `b = 20` (des **copies**) et la variable locale `temp`. La flèche est sur `temp = a;`.
+2. On entre dans `echange(var1, var2)` : un cadre est empilé avec les paramètres `a = 10`, `b = 20` (des **copies**) et la variable locale `temp`. La flèche est sur `temp = a;`. [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
 
 ![[Chp3 - pointeurs , tableaux, listes chainées, structures - image36.png]]
 
@@ -326,13 +341,17 @@ void echange(int *a, int *b){
 
 ![[Chp3 - pointeurs , tableaux, listes chainées, structures - image19.png]]
 
-*Figure : `a` contient l'adresse de `var1`, `b` celle de `var2`.*
+*Figure : `a` contient l'adresse de `var1`, `b` celle de `var2` ; la variable locale `temp` occupe sa propre case, au-dessus de `b` (0xabdafac), en 0xabdafb0.* [[Erreurs du cours#^e-3-pointeurs-tableaux-listes-chainees-structures|✎]]
 
 3. Dans `echange`, l'échange se fait avec `*a` et `*b`, qui accèdent aux valeurs rangées aux adresses contenues dans `a` et `b` : `var1` vaut maintenant 20 et `var2` 10.
 
 ![[Chp3 - pointeurs , tableaux, listes chainées, structures - image26.png]]
 
 *Figure : flèches de `a` vers `var1` et de `b` vers `var2` ; les valeurs de `main` sont échangées.*
+
+En réalité, le C ne connaît que le passage par valeur : ici, ce sont les **adresses** qui sont copiées dans `a` et `b`, mais, comme la copie d'une adresse désigne toujours la même case, la fonction peut modifier l'original. C'est ce qu'on appelle couramment le passage « par adresse ». [[Complément hors du cours|ⓘ]]
+
+En C++, le même échange s'écrit sans pointeurs, avec un passage par [[Référence (C++)|référence]] : `void echange(int &a, int &b) { int temp = a; a = b; b = temp; }`, appelé par `echange(var1, var2);`. La bibliothèque standard fournit d'ailleurs `std::swap` (en-tête `<utility>`). [[Complément hors du cours|ⓘ]]
 
 ## 7. Fonctions et tableaux : deux manières de faire
 
@@ -399,6 +418,10 @@ void init_tab(float t[])     // OK : syntaxe tableau sans taille
 void init_tab(float t[100])  // OK : la taille 100 est ignorée par le C
 ```
 
+Conséquence de la décroissance : la fonction ne reçoit qu'une adresse et ignore la taille du tableau. Dans `init_tab`, `sizeof(t)` donne la taille d'un pointeur (8 octets en 64 bits), pas $100 \times 4$. C'est pourquoi on passe en général la taille en second paramètre, `void init_tab(float *t, int n)`, au lieu d'écrire 100 en dur dans la boucle. [[Complément hors du cours|ⓘ]]
+
+Comme la fonction travaille sur l'adresse du tableau d'origine, tout ce qu'elle écrit dans `t[i]` modifie `tab` lui-même : un tableau n'est jamais copié lors d'un appel. Pour promettre qu'une fonction ne le modifie pas, on écrit `const` : `void affiche_tab(const float *t)`. [[Complément hors du cours|ⓘ]]
+
 Voir [[Tableau (programmation)]].
 
 ## 8. Structures
@@ -445,6 +468,12 @@ int main() {
 
 L'alias s'écrit à la fin de `struct Etudiant {...}` ; on crée ensuite la variable avec `Etudiant` seul. On accède aux champs par `.` : `eleve1.age`.
 
+Une structure s'initialise aussi d'un coup, dans l'ordre des champs : `Etudiant eleve1 = {20, 15.5};`. Contrairement à un tableau, elle est **copiée** quand on la passe à une fonction ou qu'on l'affecte (`eleve2 = eleve1;` recopie tous les champs) ; pour éviter la copie ou modifier l'original, on passe son adresse, `void majorer(Etudiant *e)`, et on accède aux champs par `e->note` (voir l'opérateur flèche, partie 10). [[Complément hors du cours|ⓘ]]
+
+La taille d'une structure peut dépasser la somme de ses champs : le compilateur insère des octets de remplissage (*padding*) pour **aligner** chaque champ sur une adresse multiple de sa taille. Ainsi `struct { char c; int i; }` occupe en général 8 octets et non 5 ; `sizeof` donne la taille réelle. [[Complément hors du cours|ⓘ]]
+
+En C++, une `struct` est une [[Classe et objet|classe]] dont les membres sont publics par défaut, et le mot `struct` n'est plus nécessaire devant le nom : `Etudiant eleve1;` suffit sans `typedef`. [[Complément hors du cours|ⓘ]]
+
 ## 9. Listes chaînées d'entiers
 
 - Les tableaux sont en mémoire contiguë : les adresses s'enchaînent.
@@ -465,6 +494,19 @@ L'alias s'écrit à la fin de `struct Etudiant {...}` ; on crée ensuite la vari
 - Le pointeur du dernier élément vaut [[Pointeur NULL|`NULL`]].
 - Une liste est définie par l'adresse de son premier élément.
 - Pour une liste vide, le pointeur du premier élément vaut `NULL`.
+- En C++ moderne (depuis C++11), le pointeur nul s'écrit `nullptr`, mieux typé que `NULL`. [[Complément hors du cours|ⓘ]]
+
+Le choix entre tableau et liste chaînée est un compromis, mesuré en [[Complexité algorithmique|complexité]] ($n$ = nombre d'éléments) : [[Complément hors du cours|ⓘ]]
+
+| Opération | Tableau | Liste chaînée simple |
+|---|---|---|
+| Accès à l'élément $i$ | $O(1)$, par calcul d'adresse | $O(n)$, il faut suivre les `suivant` depuis le début |
+| Ajout ou suppression en tête | $O(n)$, il faut décaler les cases | $O(1)$ |
+| Ajout au milieu, position connue | $O(n)$ | $O(1)$ une fois la cellule précédente atteinte |
+| Taille | fixée à la déclaration | varie librement à l'exécution |
+| Mémoire | les données seules, contiguës | un pointeur de plus par cellule, cellules dispersées |
+
+Variantes classiques : la liste **doublement chaînée**, dont chaque cellule pointe aussi vers la précédente (parcours dans les deux sens), et la liste **circulaire**, dont la dernière cellule pointe vers la première au lieu de `NULL`. Une liste chaînée sert aussi à réaliser une [[Pile et file|pile ou une file]]. [[Complément hors du cours|ⓘ]]
 
 ## 10. Pointeur simple et double pointeur
 
@@ -501,9 +543,13 @@ int main() {
     int x = 10;
     int *ptr = &x;
     int **dptr = &ptr;
-    int ***tptr = &dptr;   // ; absent dans la capture du cours
+    int ***tptr = &dptr;
 }
 ```
+
+Avec ces déclarations, `*dptr` vaut `ptr` (0x1000) et `**dptr` vaut `x` (10) : chaque `*` remonte d'un cran le long des flèches. Écrire `**dptr = 20;` modifie donc `x`. [[Complément hors du cours|ⓘ]]
+
+Exemple courant de double pointeur : la signature `int main(int argc, char **argv)`. Une chaîne de caractères est un `char *` ; `argv` est un tableau de chaînes (les arguments de la ligne de commande), donc un `char **`. [[Complément hors du cours|ⓘ]]
 
 ### L'opérateur flèche
 
@@ -561,13 +607,17 @@ int main() {
 
 Méthode d'ajout en tête, étape par étape : (A) allouer le nouveau chaînon et y ranger la valeur ; (B) son `suivant` reçoit l'ancien premier ; (C) le premier devient le nouveau chaînon, d'où le passage de `&premier` et le type `Chainon **`. Le cours ne donne pas la sortie ; d'après le code, elle serait `[12] -> [7] -> NULL` (déduction, non écrite dans la note). Les chaînons alloués ne sont pas libérés par ce programme.
 
-## Erreurs du cours
+Pour libérer la liste, on parcourt les chaînons en gardant l'adresse du suivant **avant** le `free`, puisque après lui on ne doit plus lire `courant->suivant` (pointeur pendant) : [[Complément hors du cours|ⓘ]]
 
-- [[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], taille d'un entier (vérifié sur l'image 13) : écrit « sur système 64 bits : 8 octets (soit 64 bits) » pour l'entier ; il faut 4 octets : un `int` fait en général 4 octets sur les systèmes 32 et 64 bits courants, ce sont les adresses qui passent à 8 octets en 64 bits. Le cours se contredit d'ailleurs avec ses adresses qui avancent de 4 en 4. **À retenir pour un examen.**
-- Même document, affichage d'une adresse : écrit « soit on fait %d, soit on fait %p » ; il faut `%p` : avec `%d`, une adresse de 64 bits est tronquée ou mal affichée (complément). La sortie du cours montre pourtant des adresses en décimal.
-- Même document, programme complet : déclare `unsigned char *buffer;` puis utilise `bufferinheap`, jamais déclaré, et appelle `free(buffer)` sur un pointeur jamais initialisé ; il faut un seul nom (`buffer` partout, ou `bufferinheap` partout). Tel quel, le code ne compile pas, et la sortie donnée (« 8) adresse dans buffer ») ne vient pas de ce code exact, qui écrit « 8) adresse dans bufferinheap ».
-- Même document, `free` : le commentaire écrit que `free()` va « vider le contenu de la mémoire à cette adresse » ; il faut : `free` libère le bloc pour qu'il soit réutilisé, sans en effacer le contenu (complément).
-- Même document, version par valeur de `echange` : écrit « on rentre dans la fonction echange(&var1, &var2) » ; il faut `echange(var1, var2)`, l'appel de cette version.
-- Même document, schéma de pile de la version par adresse (vérifié sur l'image 19) : donne à `temp` l'adresse 0xabdafa0, déjà celle de `var1` ; il faut une adresse distincte, au-dessus de `b` (0xabdafac), par exemple 0xabdafb0.
-- Même document, double pointeur : écrit `int ***tptr = &dptr` sans `;` ; il faut `int ***tptr = &dptr;`. L'exemple de liste chaînée garde aussi une annotation `[cite: 1]` dans un commentaire.
-- Même document, captures de code : écrivent `Int`, `Printf`, des guillemets « » et, dans les commentaires, « prt » et « piontée » ; il faut `int`, `printf`, `"`, « ptr » et « pointée ». Ces corrections sont faites dans les blocs de code de cette fiche.
+```c
+void liberer_liste(Chainon **premier_ptr) {
+    Chainon *courant = *premier_ptr;
+    while (courant != NULL) {
+        Chainon *suivant = courant->suivant;  // sauvegarde avant libération
+        free(courant);
+        courant = suivant;
+    }
+    *premier_ptr = NULL;   // la liste est vide, plus de pointeur pendant
+}
+// dans main, avant return 0 : liberer_liste(&premier);
+```

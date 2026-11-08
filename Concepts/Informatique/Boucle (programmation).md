@@ -22,6 +22,9 @@ aliases:
   - do while
   - do ... while
   - boucle infinie
+  - boucle for-each
+  - for-each
+  - boucle étiquetée
 matieres:
   - Algo Maths
   - Operating System
@@ -35,7 +38,8 @@ sources:
   - "[[3 - TP3|Cours TP3]]"
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
-maj: 2026-11-07
+  - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
+maj: 2026-11-08
 ---
 
 Structure qui répète un bloc d'instructions tant qu'une condition le demande.
@@ -45,6 +49,17 @@ Structure qui répète un bloc d'instructions tant qu'une condition le demande.
 **Bash** (Operating System) : `while [ condition ] do ... done` et `for (( initialisation; condition; compteur )) do ... done`. Exemple : afficher 1 à 10 avec `while [ $n -le 10 ]` ou `(( $n <= 10 ))` et `n=$(( n+1 ))` ou `(( n++ ))`. Les scripts de sauvegarde utilisent une boucle infinie `while true`.
 
 **Java** : `while`, `do-while` (au moins une exécution), `for` (initialisation, condition, itération ; quand le nombre d'itérations est connu). `break` sort de la boucle, `continue` saute la fin de l'itération.
+
+Complément (hors du cours) : `for (init; cond; iter) corps` équivaut à `init; while (cond) { corps; iter; }` (à `continue` près, qui dans un `for` exécute encore `iter`) ; une variable déclarée dans l'en-tête n'existe que dans la boucle. La boucle **for-each** (depuis Java 5) parcourt un tableau ou une collection : `for (int v : tableau) { ... }`, où `v` reçoit une copie de chaque élément (la modifier ne change pas le tableau). Dans des boucles imbriquées, `break` et `continue` n'agissent que sur la boucle la plus intérieure ; `break etiquette;` sort d'une boucle extérieure étiquetée :
+
+```java
+externe:
+for (int i = 0; i < n; i++) {
+    for (int j = 0; j < m; j++) {
+        if (t[i][j] == cible) break externe;   // quitte les deux boucles
+    }
+}
+```
 
 **C++** : `for (initialisation ; condition ; incrémentation)` ; l'initialisation a lieu une fois avant la boucle, la condition avant chaque tour, l'incrémentation après chaque tour. Avec `i = 0`, `i < 10`, `i = i + 1` : 10 tours, `i` de 0 à 9, puis 10 en sortie. `do { ... } while (condition);` exécute le bloc au moins une fois (le `;` final est obligatoire) ; `while (condition) { ... }` peut ne jamais l'exécuter.
 

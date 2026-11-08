@@ -2,9 +2,194 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-08 : 1 294 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]).
+État au 2026-11-08 : 1 467 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (1294)
+## Concepts (1467)
+
+### Ajoutés par l'enrichissement du 2026-11-08
+
+**Design**
+- [[Analyse hiérarchique des tâches]] : HTA : décomposer un but en sous-tâches sous forme d'arbre (séquence, alternative, option, condition), exemple des crêpes
+- [[Aquarelle]] : Peinture à l'eau liée à la gomme arabique, transparente : blanc du papier réservé, travail du clair au foncé par lavis.
+- [[Dénotation et connotation]] : Sens littéral et sens second d'un signe ; publicité Panzani de Barthes, ancrage et relais, mythe qui naturalise.
+- [[Design hostile]] : Architecture défensive de l'espace public (bancs anti-allongement, picots) qui normalise les usages et déplace les vulnérabilités.
+- [[Design thinking]] : Méthode de projet popularisée par IDEO et la d.school de Stanford : empathie, définition, idéation, prototype, test, avec des allers-retours entre les étapes.
+- [[Design universel]] : Concevoir d'emblée pour la plus grande diversité de personnes : sept principes (Center for Universal Design, 1997), modèle social du handicap.
+- [[Diagramme d'affinités]] : Méthode KJ : regrouper des post-its d'observations en thèmes nés des données, pour analyser la recherche qualitative
+- [[Énonciation éditoriale]] : Part du sens portée par la forme matérielle du texte, produite par d'autres que l'auteur (Souchier, 1998) ; l'image du texte.
+- [[Enquête contextuelle]] : Contextual inquiry : observation et entretien combinés sur le lieu d'usage, relation maître-apprenti, quatre principes
+- [[Fresque]] : Peinture murale sur enduit de chaux frais, sans liant ajouté : la chaux se carbonate et fixe le pigment (giornata, Sixtine, Giotto).
+- [[Icône, indice et symbole]] : Trichotomie de Peirce : signes par ressemblance, par lien causal ou par convention ; utile pour choisir des icônes d'interface.
+- [[Interface trompeuse]] : Dark pattern : conception d'interface qui pousse l'usager contre son intérêt ; design persuasif, cadre CNIL et DSA.
+- [[Ligne de désir]] : Sentier tracé par les passants hors des chemins prévus, qui révèle l'écart entre le mouvement conçu et le mouvement réel
+- [[Peinture à l'huile]] : Peinture liée à l'huile siccative, séchage lent par oxydation, glacis et règle du gras sur maigre ; généralisée au XVe siècle en Flandre.
+- [[Penser à voix haute]] : Think aloud : le participant verbalise ce qu'il pense pendant le test ; source des verbatims, avec ses limites et ses relances neutres
+- [[Signe (sémiotique)]] : Unité de base de la sémiotique : signifiant et signifié chez Saussure, representamen, objet et interprétant chez Peirce.
+- [[Synthèse additive et soustractive]] : Mélange des lumières (RVB, blanc par addition) et des matières (CMJN, noir par soustraction) ; couleurs achromatiques et primaires de peintre.
+- [[System Usability Scale]] : Questionnaire SUS de Brooke : 10 items alternés, score de 0 à 100 (moyenne autour de 68), rempli en fin de test utilisateur
+
+**Sciences humaines**
+- [[Acidification des océans]] : Baisse du pH de l'eau de mer due au CO₂ absorbé (8,2 à 8,1, +30 % d'ions H⁺), qui gêne la calcification ; limite planétaire franchie en 2025.
+- [[Analyse du cycle de vie]] : ACV (ISO 14040/14044) : évaluation multicritère des impacts environnementaux du berceau à la tombe, en quatre phases, rapportée à une unité fonctionnelle.
+- [[Appropriation culturelle]] : Usage d'éléments d'une culture minoritaire ou autochtone sans accord, reconnaissance ni rémunération ; limites du droit d'auteur face aux créations collectives (exemple des molas).
+- [[Biais d'automatisation]] : Tendance à suivre sans vérifier la recommandation d'un système automatisé (erreurs de commission et d'omission) ; explique qu'une IA d'aide à la décision ne soit pas neutre.
+- [[Biais de désirabilité sociale]] : Tendance à répondre ou agir selon ce qui paraît valorisant ou attendu ; effets sur entretiens, questionnaires et tests, et parades
+- [[Bulle de filtre]] : Pariser (2011) : la personnalisation algorithmique enferme chacun dans un environnement informationnel conforme à ses goûts, sans qu'il voie ce qui est exclu ; ampleur débattue, voisine de la chambre d'écho.
+- [[Capital culturel]] : Chez Bourdieu, ressources culturelles (incorporées, objectivées, institutionnalisées) qui, avec les capitaux économique et social, définissent la position sociale.
+- [[Capitalisme de surveillance]] : Zuboff (2019) : modèle économique qui transforme l'expérience humaine en données comportementales pour vendre des prédictions de comportement ; gouvernementalité algorithmique, RGPD.
+- [[Chrématistique]] : Art d'acquérir des richesses chez Aristote : naturelle et limitée (économie) ou commerciale et sans limite ; reprise par Marx (M – A – M contre A – M – A′).
+- [[Cognition incarnée]] : Courant selon lequel la pensée dépend du corps, contre le dualisme cartésien ; Varela, Lakoff et Johnson, Damasio, exemples discutés
+- [[Concrétisation]] : Chez Simondon, un objet technique passe de l'état abstrait (pièces juxtaposées, une fonction chacune) à l'état concret (pièces plurifonctionnelles qui se conditionnent entre elles) ; lignées, élément, individu, ensemble.
+- [[Consommation ostentatoire]] : Consommer pour afficher son rang plus que pour l'usage (Veblen, 1899) ; effet Veblen, distinction de Bourdieu, l'automobile comme signe de statut
+- [[Développement durable]] : Définition du rapport Brundtland (1987), les trois piliers, durabilité faible ou forte, repères de Rio 1992 aux ODD 2015.
+- [[Digital labor]] : Travail du clic, gratuit ou micro-rémunéré, qui crée de la valeur pour les plateformes (Casilli, 2019) ; travail émotionnel (Hochschild).
+- [[Dilemme du tramway]] : Expérience de pensée de Philippa Foot (1967), conséquences contre devoir, appliquée aux choix du véhicule autonome (Moral Machine)
+- [[Droit à l'oubli]] : Déréférencement (arrêt Google Spain, 2014) et droit à l'effacement des données personnelles (article 17 du RGPD).
+- [[Dualisme]] : Doctrine de deux substances irréductibles ; chez Descartes, pensée (res cogitans) et étendue (res extensa), critères du langage et de la raison, problème de l'union de l'âme et du corps.
+- [[Économie de l'attention]] : L'attention comme ressource rare que se disputent les plateformes : défilement infini, notifications, récompense variable, FOMO.
+- [[Effet de réseau]] : Un service vaut d'autant plus que d'autres l'utilisent, ce qui concentre le marché ; combiné au verrouillage (lock-in), il retient l'usager dans un écosystème.
+- [[Effet rebond]] : Gain d'efficacité annulé en partie ou en totalité par la hausse de la consommation (paradoxe de Jevons, 1865), d'où la nécessité de la sobriété
+- [[Ethos, pathos et logos]] : Les trois moyens de persuasion d'Aristote (crédibilité de l'orateur, émotions de l'auditoire, raisonnement), avec les étapes, le plan et les genres de la rhétorique classique
+- [[Externalité]] : Effet d'une activité sur des tiers non pris en compte par le prix, défaillance de marché que l'on internalise par taxe pigouvienne, quotas ou normes
+- [[Grande accélération]] : Envolée simultanée, à partir de 1950, des indicateurs humains et du système Terre (courbes de l'IGBP) ; argument pour dater l'Anthropocène.
+- [[Habitus]] : Chez Bourdieu, système de dispositions durables et transposables, acquises par la socialisation, qui engendre les pratiques sans calcul conscient.
+- [[Hégémonie culturelle]] : Gramsci : domination par le consentement, en faisant passer une vision du monde pour le sens commun
+- [[Hexis corporelle]] : Chez Bourdieu, manière socialement acquise de tenir et de mouvoir son corps ; part incorporée de l'habitus, prolongée par le style de conduite.
+- [[Hystérésis de l'habitus]] : Persistance de dispositions acquises dans un contexte qui a changé (le conducteur qui garde l'allure de la rase campagne au village).
+- [[Innovation ouverte]] : Open innovation (Chesbrough, 2003) : innover avec des partenaires externes et valoriser au-dehors ce qu'on n'exploite pas, par opposition à l'innovation fermée.
+- [[Irresponsabilité organisée]] : Notion d'Ulrich Beck (société du risque) : des institutions organisées de sorte que nul ne répond des risques qu'elles produisent.
+- [[Le médium est le message]] : Formule de McLuhan (1964) : l'effet d'un média tient aux changements qu'il introduit dans la vie sociale plus qu'à ses contenus ; critique de l'outil neutre et de l'écran-fenêtre.
+- [[Liste rouge de l'UICN]] : Inventaire mondial de l'état de conservation des espèces (UICN, depuis 1964) : catégories de LC à EX, critères chiffrés, 28 % des espèces suivies menacées
+- [[Loi des trois états]] : Selon Comte, l'esprit passe des états théologique et métaphysique à l'état positif, qui cherche des lois et non des causes : fondement du positivisme.
+- [[Lumières]] : Mouvement du XVIIIe siècle qui veut éclairer les hommes par la raison ; définition de Kant (sortie de la minorité, Sapere aude !) et naissance de l'idée de progrès.
+- [[Monopole de la violence légitime]] : Définition de l'État par Weber (1919) : la communauté qui revendique avec succès, sur un territoire, le monopole de la violence physique légitime.
+- [[Mouvement des droits civiques]] : Lutte des Noirs américains (années 1950-1960) contre la ségrégation Jim Crow : jalons de Brown v. Board au Voting Rights Act, non-violence face au nationalisme noir de Malcolm X
+- [[Non-lieu]] : Chez Marc Augé (1992), espace de transit interchangeable et anonyme (autoroute, aire de service, aéroport), opposé au lieu anthropologique.
+- [[Nudge]] : Coup de pouce qui oriente un comportement par l'architecture du choix sans contraindre (Thaler et Sunstein, 2008) ; leviers, mouche de Schiphol, enjeux éthiques
+- [[Panoptique]] : Prison de Bentham (1791) où l'on peut voir chaque détenu sans être vu ; Foucault en fait le modèle du pouvoir disciplinaire (panoptisme).
+- [[Point de basculement]] : Seuil au-delà duquel un sous-système du climat bascule de façon auto-entretenue (permafrost, calottes, Amazonie, AMOC, coraux).
+- [[Prospective]] : Exploration des futurs possibles pour éclairer les décisions présentes (Gaston Berger) : cône des futurs, scénarios, différence avec la prévision.
+- [[Quantified self]] : Mesure continue de soi par applications et objets connectés ; score, gamification, loi de Goodhart.
+- [[Règlement européen sur l'IA]] : AI Act (règlement (UE) 2024/1689) : classement des systèmes d'IA par niveau de risque et obligations des modèles d'usage général
+- [[Représentation sociale]] : Connaissance de sens commun partagée par un groupe pour interpréter le monde et orienter ses conduites (Moscovici, 1961, d'après Durkheim) ; ce que l'enquête par entretiens cherche à saisir.
+- [[Rétrofuturisme]] : Esthétique des visions du futur d'une époque passée (voiture volante, Syd Mead), qui reflètent leur présent ; à distinguer du design néo-rétro.
+- [[Saturation des données]] : Critère d'arrêt d'une enquête qualitative : de nouveaux entretiens n'apportent plus de thème nouveau (théorie ancrée, Glaser et Strauss, 1967)
+- [[Science participative]] : Production de connaissances scientifiques avec des non-scientifiques selon un protocole (Vigie-Nature) ; dans le cours, genre d'écran qui fait de l'usager un contributeur-citoyen et du vivant une donnée collective.
+- [[Script d'usage]] : Scénario d'usage inscrit dans un objet technique par ses concepteurs (Akrich, 1987) ; inscription, dé-scription, détournement.
+- [[Société disciplinaire]] : Foucault, Surveiller et punir : institutions qui dressent des corps utiles et dociles par l'espace, l'emploi du temps, la surveillance et la norme
+- [[Sublime]] : Catégorie esthétique distincte du beau : plaisir mêlé d'effroi devant l'immense ou le puissant (Burke, sublime mathématique et dynamique de Kant, Friedrich).
+- [[Théorie de l'acteur-réseau]] : Sociologie de la traduction (Akrich, Callon, Latour) : humains et non-humains comme actants d'un réseau d'associations.
+- [[Tragédie des communs]] : Surexploitation d'une ressource en libre accès mais rivale quand chacun poursuit son intérêt (Hardin, 1968) ; gestion collective possible selon Ostrom.
+- [[Vallée de l'étrange]] : Hypothèse de Mori (1970) : malaise devant une machine presque humaine, prolongeant l'Inquiétante Étrangeté de Freud
+- [[Vitalisme]] : Doctrine d'un principe vital irréductible au mécanisme (école de Montpellier, Bichat : « l'ensemble des fonctions qui résistent à la mort »), abandonnée par la biologie moderne.
+
+**Informatique**
+- [[Adresse MAC]] : Identifiant physique de 48 bits d'une interface (OUI), utilisé dans le réseau local ; comparaison avec l'adresse IP ; ARP
+- [[Algorithme de Bellman-Ford]] : Plus courts chemins avec poids négatifs possibles, en |V|-1 passes de relâchement (O(|V|·|E|)) ; version distribuée des protocoles à vecteur de distance (RIP), comptage à l'infini.
+- [[Algorithme de Dijkstra]] : Plus courts chemins depuis une source à poids positifs, algorithme glouton en O((|V|+|E|) log |V|) ; calcul SPF des protocoles à état de liens (OSPF, IS-IS).
+- [[Algorithme de Prim]] : Algorithme glouton d'arbre couvrant minimal qui fait grandir un seul arbre ; comparaison avec Kruskal
+- [[Apprentissage par renforcement à partir de retours humains]] : RLHF : ajustement d'un LLM par préférences humaines et modèle de récompense, outil de l'alignement
+- [[Arbre rouge-noir]] : ABR équilibré par une coloration rouge/noir (hauteur ≤ 2 log2(n+1)), moins strict que l'AVL mais avec moins de rotations
+- [[Chaîne de compilation]] : Les quatre étapes de gcc/g++ (préprocesseur, compilation, assemblage, édition de liens), leurs options et leurs erreurs typiques.
+- [[Classes P et NP]] : Classes de problèmes de décision : résolus (P) ou vérifiés (NP) en temps polynomial ; NP-complet, NP-difficile, question ouverte P = NP.
+- [[Code de retour]] : Entier renvoyé par un processus à sa fin (0 = succès) : WIFEXITED/WEXITSTATUS en C, $?, if, && et || dans le shell.
+- [[Commande ps]] : Liste des processus (ps aux, ps -ef avec PPID), lettres de la colonne STAT (R, S, D, T, Z) ; top, htop, pstree.
+- [[Communication interprocessus]] : Mécanismes d'échange entre processus aux mémoires séparées (IPC) : mémoire partagée ou messages ; tubes, FIFO, signaux, sockets.
+- [[Commutateur de niveau 3]] : Commutateur qui route aussi entre ses VLAN, en matériel, par des interfaces virtuelles (SVI) après ip routing ; solution courante du routage inter-VLAN en entreprise.
+- [[Comportement indéfini]] : Situation où la norme du C n'impose aucun résultat (variable non initialisée, débordement d'indice, pointeur NULL, overflow signé)
+- [[Conteneur (informatique)]] : Isolement d'une application et de ses dépendances qui partage le noyau de l'hôte (namespaces, cgroups) ; Docker.
+- [[Dépassement d'entier]] : Résultat hors de l'intervalle du type : en Java il reboucle modulo 2^n sans erreur ; parades long et Math.addExact.
+- [[Destructeur (programmation)]] : Méthode ~Classe() appelée à la destruction d'un objet pour libérer ses ressources ; règle de trois
+- [[Distance administrative]] : Confiance d'un routeur dans une source de routes (0 à 255) ; valeurs Cisco, [AD/métrique], route statique flottante
+- [[Fichier d'en-tête]] : Fichier .h/.hpp de déclarations inclus par #include ; séparation point.h / point.cpp, gardes d'inclusion
+- [[Flux standard]] : stdin (0), stdout (1) et stderr (2) d'un processus Unix, et leurs redirections (<, >, 2>, 2>&1, &>, /dev/null, |, |&).
+- [[Fuite mémoire]] : Bloc alloué dynamiquement jamais libéré dont l'adresse est perdue ; causes, conséquences, détection (Valgrind) et prévention en C++ (RAII).
+- [[Gestionnaire de paquets]] : Outil qui installe et met à jour les paquets d'une distribution depuis des dépôts signés en résolvant les dépendances : apt/dpkg, dnf/rpm, pacman, zypper ; Snap, Flatpak.
+- [[Grand modèle de langage]] : LLM : transformer à des milliards de paramètres, pré-entraîné à prédire le token suivant puis aligné pour dialoguer (GPT, Claude, Gemini…)
+- [[Graphe eulérien]] : Cycle ou chaîne passant une fois par chaque arête ; théorème d'Euler (degrés pairs), ponts de Königsberg
+- [[Héritage (programmation)]] : Classe dérivée construite à partir d'une classe de base (relation « est un ») : protected, constructeurs, virtual et polymorphisme
+- [[Hiver de l'IA]] : Période de désillusion et de chute des financements de l'IA : vers 1974-1980 (rapport Lighthill) et vers 1987-1993 (fin des systèmes experts)
+- [[Injection SQL]] : Attaque qui détourne une requête SQL construite avec une saisie utilisateur ; parade par requête préparée et moindre privilège
+- [[Invariant de boucle]] : Propriété vraie avant une boucle et conservée à chaque tour, qui prouve sa correction partielle ; le variant prouve la terminaison.
+- [[Journalisation (système de fichiers)]] : Journal des modifications écrit avant de les appliquer, qui garde le système de fichiers cohérent après une coupure (NTFS, ext4, XFS ; pas FAT32 ni exFAT).
+- [[JSON]] : Format texte de données structurées (objets entre accolades, listes entre crochets), utilisé par les API et pour écrire des prompts structurés
+- [[Lemme des poignées de main]] : Somme des degrés égale à deux fois le nombre d'arêtes ; nombre pair de sommets de degré impair
+- [[Liste d'adjacence]] : Représentation d'un graphe par la liste des voisins de chaque sommet, en O(n + m), comparée à la matrice d'adjacence
+- [[Machine de Turing]] : Modèle mathématique du calcul (Turing, 1936) : ruban, tête, table de transitions ; thèse de Church-Turing, Turing-complétude, indécidabilité de l'arrêt
+- [[Masque umask]] : Masque octal propre à chaque processus qui retire des droits aux fichiers (666) et répertoires (777) créés ; avec 022, fichiers en 644 et répertoires en 755 ; explique pourquoi chmod +w n'ajoute l'écriture qu'au propriétaire.
+- [[Mémoire virtuelle]] : Espace d'adressage virtuel propre à chaque processus, traduit par la MMU en adresses physiques par pages : isolation, swap, copie sur écriture.
+- [[Métier Jacquard]] : Métier à tisser à cartes perforées (1801), premier programme distinct de la machine, ancêtre de la machine analytique de Babbage et des cartes de Hollerith
+- [[Mode noyau et mode utilisateur]] : Deux modes d'exécution du CPU : instructions privilégiées réservées au noyau, accès par appel système.
+- [[Modèle OSI]] : Modèle de référence ISO en sept couches (physique à application), encapsulation, correspondance avec le modèle TCP/IP et place des équipements (commutateur couche 2, routeur couche 3).
+- [[Niveaux d'automatisation de la conduite]] : Les six niveaux SAE J3016 (0 à 5) et les ironies de l'automatisation (Bainbridge, 1983)
+- [[Normalisation (base de données)]] : Éviter la redondance d'un schéma relationnel : dépendances fonctionnelles, 1FN, 2FN, 3FN
+- [[Notation polonaise]] : Écritures préfixe et postfixe (NPI) d'une expression, sans parenthèses, issues des parcours de l'arbre d'expression ; évaluation par pile
+- [[Plus longue correspondance de préfixe]] : Règle du routeur : parmi les routes qui contiennent la destination, retenir celle au masque le plus long ; la route par défaut /0 ne sert qu'en dernier recours.
+- [[Pointeur pendant]] : Pointeur vers une zone qui n'est plus valide (bloc libéré, variable locale terminée) ; comportement indéfini, remise à NULL, double free.
+- [[Processeur graphique]] : GPU : processeur aux milliers de cœurs simples travaillant en parallèle, qui a rendu possible l'essor de l'apprentissage profond
+- [[Protocole ARP]] : Résolution d'une adresse IPv4 en adresse MAC sur le réseau local par requête diffusée et réponse unicast, cache ARP, cas de la passerelle par défaut ; remplacé par NDP en IPv6.
+- [[Ramasse-miettes]] : Garbage collector : libération automatique des objets qui ne sont plus référencés (Java, sans free ni delete).
+- [[Rétroaction]] : Boucle (feedback) où un système corrige son action selon l'écart à une consigne ; rétroaction négative (thermostat, homéostasie) ou positive (effet Larsen), notion centrale de la cybernétique.
+- [[Routeur sur un bâton]] : Routage inter-VLAN par un seul lien trunk 802.1Q découpé en sous-interfaces, une par VLAN ; un seul port de routeur mais un lien au débit partagé.
+- [[Table de hachage]] : Stockage clé-valeur à accès en temps constant moyen, collisions, clés hachables ; base des dict et set Python
+- [[Table de partitions GPT]] : GUID Partition Table : successeur du MBR lié à l'UEFI, avec 128 partitions, des secteurs adressés sur 64 bits, une table de secours et un MBR protecteur.
+- [[Tableau associatif]] : Structure qui associe des clés quelconques à des valeurs, par hachage ; tous les tableaux AWK le sont (count[$4]++), ordre de parcours non spécifié.
+- [[Tas binaire]] : Arbre binaire quasi-parfait ordonné père ≥ fils, rangé dans un tableau (fils 2i et 2i+1), pour files de priorité et tri par tas
+- [[Transaction (base de données)]] : Suite de requêtes exécutée en tout ou rien (BEGIN, COMMIT, ROLLBACK) ; propriétés ACID
+- [[Tri fusion]] : Tri diviser pour régner : couper en deux, trier, fusionner ; O(n log n) dans tous les cas, mémoire O(n), stable
+- [[Tri topologique]] : Ordre des sommets d'un graphe orienté sans circuit (DAG) respectant tous les arcs ; algorithmes de Kahn et par DFS en O(|V| + |E|).
+
+**Mathématiques**
+- [[Coordonnées cylindriques]] : Polaires dans le plan (x,y) plus la hauteur z, jacobien r ; adaptées aux domaines de révolution (volume du cylindre πR²h).
+- [[Coordonnées sphériques]] : Repérage par (r, φ, θ), jacobien r² sin φ ; adaptées aux boules (volume 4/3 πR³), conventions de notation différentes en physique.
+- [[Dérivée directionnelle]] : Dérivée de f selon un vecteur v, égale à ∇f·v si f est différentiable ; justifie que le gradient donne la direction de plus grande pente.
+- [[Diagramme de Hasse]] : Dessin allégé d'un ordre fini : traits de couverture seuls, du bas vers le haut, sans boucles ni raccourcis
+- [[Équation des ondes]] : EDP ∂²f/∂t² = c²∂²f/∂x², résolue par le changement de variables u = x + ct, v = x − ct : formule de d'Alembert f = G(x + ct) + H(x − ct).
+- [[Formule de Stirling]] : Équivalent de la factorielle, n! ~ √(2πn)(n/e)^n, et ses usages : ln(n!) ~ n ln n, coefficients binomiaux, borne n log n des tris
+- [[Intégrale de Gauss]] : ∫ e^{−x²} dx = √π sur ℝ, calculée par passage en polaires dans ℝ² ; origine de la constante 1/(σ√(2π)) de la loi normale.
+- [[Intégrale généralisée]] : Intégrale sur un intervalle non borné ou d'une fonction non bornée, définie par passage à la limite ; références de Riemann, critères de comparaison.
+- [[Lemme d'Abel]] : Si (a_n r^n) est bornée, Σ a_n x^n converge absolument pour |x| < r ; c'est l'origine du rayon de convergence d'une série entière
+- [[Matrice élémentaire]] : Matrice obtenue par une seule opération élémentaire sur les lignes de I_n ; multiplier à gauche par E applique l'opération, et elle justifie la réduction de [A I] en [I A^{-1}].
+- [[Matrice hessienne]] : Matrice symétrique des dérivées secondes : terme d'ordre 2 de Taylor-Young et nature des points critiques (minimum, maximum, col).
+- [[Matrices semblables]] : A' = P⁻¹AP avec P inversible : même endomorphisme dans deux bases ; mêmes déterminant, trace, rang et polynôme caractéristique, réciproque fausse ; diagonalisable = semblable à une diagonale.
+- [[Ou exclusif]] : Connecteur XOR p ⊕ q, vrai quand exactement une des deux propositions est vraie : table, équivalences, propriétés, lien avec la différence symétrique et l'opérateur ^.
+- [[Paradoxe de Russell]] : L'ensemble des ensembles qui ne s'appartiennent pas est contradictoire : pas d'ensemble de tous les ensembles, compréhension restreinte à un ensemble donné, version du barbier.
+- [[Plan tangent]] : Plan qui approche la surface z = f(x, y) en un point où f est différentiable, analogue de la tangente en une variable.
+- [[Produit de Cauchy]] : Produit de deux séries, c_n = Σ a_k b_{n-k} ; somme = produit des sommes sous convergence absolue (Mertens), rayon ≥ min(R_a, R_b) pour les séries entières, exemples 1/(1-x)² et e^x e^y.
+- [[Projecteur]] : Endomorphisme p tel que p∘p = p : projection sur Im p parallèlement à Ker p, avec E = Im p ⊕ Ker p ; symétrie associée s = 2p − Id.
+- [[Pseudo-inverse]] : Pseudo-inverse de Moore-Penrose A+ = V_r D^-1 U_r^T, construite par la SVD : projections sur Col A et Row A, solution des moindres carrés de plus petite norme.
+- [[Racine n-ième de l'unité]] : Les n solutions de z^n = 1, e^{2ikπ/n} : polygone régulier, somme nulle, j et 1 + j + j² = 0
+- [[Règle de Sarrus]] : Calcul du déterminant 3×3 par diagonales descendantes et montantes ; ne se généralise pas à n ≥ 4.
+- [[Série de Bertrand]] : Séries Σ 1/(n^α (ln n)^β), convergentes si et seulement si α > 1 ou (α = 1 et β > 1) ; elles affinent l'échelle de Riemann
+- [[Théorème d'inversion locale]] : Une application C¹ de jacobien non nul en a est un difféomorphisme local au voisinage de a ; version globale si elle est de plus injective.
+- [[Théorème de Cayley-Hamilton]] : Toute matrice carrée annule son polynôme caractéristique ; sert à calculer l'inverse et les puissances.
+- [[Théorème de convergence dominée]] : Convergence simple et domination |f_n| ≤ φ intégrable suffisent pour intervertir limite et intégrale sur un intervalle quelconque
+- [[Théorème de Dini]] : Une suite monotone de fonctions continues sur un segment qui converge simplement vers une limite continue converge uniformément
+- [[Théorème de réarrangement de Riemann]] : Une série conditionnellement convergente peut être réordonnée pour avoir n'importe quelle somme ; une série absolument convergente garde sa somme
+- [[Théorème fondamental de l'algèbre]] : D'Alembert-Gauss : tout polynôme complexe non constant a une racine, donc n racines avec multiplicité ; C algébriquement clos
+
+**Probabilités et statistiques**
+- [[Bootstrap]] : Rééchantillonnage avec remise des données observées pour approcher une distribution d'échantillonnage : erreur type, biais, intervalle par percentiles, limites, lien avec le bagging (complément).
+- [[Comparaisons multiples]] : Inflation du risque de type I quand on multiplie les tests ; tests post hoc de Tukey et correction de Bonferroni.
+- [[Degrés de liberté]] : nombre de valeurs libres une fois les contraintes imposées ; fixe les lois de Student, du khi-deux et de Fisher.
+- [[Compromis biais-variance]] : MSE = variance + biais² : un léger biais peut réduire l'erreur totale (exemple de la variance normale) ; décomposition de l'erreur de prédiction, sous- et surapprentissage (complément).
+- [[Essai contrôlé randomisé]] : Étude où le traitement est tiré au sort, ce qui équilibre tous les facteurs de confusion ; référence pour la causalité, souvent en double aveugle.
+- [[Étude observationnelle et expérience randomisée]] : Observer établit une association, randomiser l'attribution du traitement permet de conclure à la causalité ; groupe témoin et double aveugle
+- [[Formule du crible]] : Probabilité (ou cardinal) d'une réunion d'événements par inclusion-exclusion des intersections.
+- [[Loi conditionnelle]] : Loi de Y sachant X = x (p(x,y)/p_X(x)), critère d'indépendance et espérance conditionnelle, base de la régression
+- [[Loi géométrique]] : Nombre d'essais jusqu'au premier succès, P(X=x) = (1−p)^{x−1}p, E = 1/p, sans mémoire, cas r = 1 de la binomiale négative
+- [[Maximum de vraisemblance]] : Estimateur qui maximise la vraisemblance des données : méthode par log-vraisemblance, exemples exponentielle, Bernoulli, normale, uniforme ; invariance et propriétés asymptotiques (complément).
+- [[Méthode des moments]] : Méthode qui construit un estimateur en égalant les moments théoriques aux moments d'échantillon : exemples exponentielle, normale, uniforme ; avantages et limites (complément).
+- [[Multicolinéarité]] : Forte corrélation entre variables explicatives d'une régression multiple : coefficients instables et erreurs standard gonflées, mesure par le VIF, colinéarité exacte et codage en k−1 indicatrices, remèdes (retrait, ACP, ridge).
+- [[Paradoxe des anniversaires]] : Dès 23 personnes, plus d'une chance sur deux que deux partagent un anniversaire : calcul par arrangements.
+- [[Puissance d'un test]] : Probabilité 1 − β de rejeter H0 quand elle est fausse ; croît avec n, α et la taille d'effet, décroît avec σ ; calcul d'effectif à 80 %.
+- [[Régression logistique]] : Régression d'une variable binaire par le logit ln(p/(1−p)) ; odds ratio e^β, maximum de vraisemblance, ajustement sur un facteur de confusion, glm(family = binomial).
+- [[Taille d'effet]] : Ampleur d'un effet indépendante de n (d de Cohen, φ, V de Cramér) ; répond à « important ? » quand le test répond à « significatif ? ».
+- [[Test d'adéquation du χ²]] : χ² à un échantillon : effectifs observés comparés à ceux d'une loi donnée, k − 1 degrés de liberté.
+- [[Test de Kruskal-Wallis]] : Équivalent non paramétrique de l'ANOVA à un facteur, fondé sur les rangs ; statistique H, loi du χ² à k−1 ddl.
+- [[Test de Welch]] : Test t à deux échantillons indépendants sans égalité des variances ; degrés de liberté de Welch-Satterthwaite ; test par défaut de t.test en R.
+- [[Théorème de Gauss-Markov]] : Sous des erreurs centrées, homoscédastiques et non corrélées, les moindres carrés sont le meilleur estimateur linéaire sans biais (BLUE), sans exiger la normalité.
+- [[V de Cramér]] : Intensité du lien entre deux variables catégorielles, tirée du χ² et indépendante de N (φ sur un 2×2).
 
 ### Systèmes et vecteurs
 
@@ -1532,7 +1717,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 4, data mining** : [[1 - pdf du prof]]
 - **Year 4, management de l'innovation** : [[1 - innovation]]
 
-Classés par matière. Les erreurs confirmées d'un cours sont notées en fin de résumé ou de concept, sous « Erreurs du cours ».
+Classés par matière. Les erreurs des cours sont corrigées directement dans les pages (marque ✎) ; la liste des corrections est dans [[Erreurs du cours]].
 
 ### Autres matières de Year 1
 

@@ -4,7 +4,7 @@ tags: [year3]
 aliases: [t-test, t test, test de Student, test t de Student, two-sample t-test, test t à deux échantillons, paired t-test, paired t test, test t apparié, variance poolée, pooled variance, two-group t test]
 matieres: [Data analysis (Thanos), Statistics]
 sources: ["[[6 - T-Test|Cours 6 - T-Test]]", "[[7 - Z-Test|Cours 7 - Z-Test]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Remplace le [[Test Z]] quand $\sigma$ est inconnu et que l'échantillon est petit ([[6 - T-Test|Cours 6 - T-Test]]). La statistique suit une [[Loi de Student]].
@@ -14,12 +14,10 @@ Remplace le [[Test Z]] quand $\sigma$ est inconnu et que l'échantillon est peti
 
 Exemple du cours : $t = -2{,}50$ comparé à $\pm 2{,}1315$, donc rejet de $H_0$.
 
-Le test t compare deux moyennes ; l'[[ANOVA]] en compare plus de deux ([[12 - ANOVA and F-statistic]]). Pour des données appariées, l'organigramme de [[7 - Z-Test|Cours 7 - Z-Test]] donne le test t apparié ([[Échantillons appariés et indépendants]]).
+Le test t compare deux moyennes ; l'[[ANOVA]] en compare plus de deux ([[12 - ANOVA and F-statistic]]). Pour des données appariées, comme des mesures avant et après traitement sur les mêmes patients, on utilise le test t apparié (*paired t test*), que donne l'organigramme de [[7 - Z-Test|Cours 7 - Z-Test]] ([[Échantillons appariés et indépendants]]). [[Erreurs du cours#^e-test-t|✎]]
+
+**Intervalle de confiance** à $(1-\alpha)$ : $\bar X \pm t_{\alpha/2,\,n-1}\dfrac{s}{\sqrt n}$ ([[6 - T-Test|Cours 6 - T-Test]]). [[Erreurs du cours#^e-test-t|✎]]
 
 Notion parente : [[Test d'hypothèse]]. Voir aussi : [[Loi de Student]], [[Test Z]], [[Échantillons appariés et indépendants]], [[ANOVA]], [[Test de la pente]].
-
-## Erreurs du cours
-
-- [[7 - Z-Test|Cours 7 - Z-Test]] écrit, pour des mesures avant/après sur les mêmes patients, « An appropriate test to use here would be a two-sample t-test » ; il faut le test t apparié (paired t test), que donne l'organigramme du même cours.
 
 Résumés : [[6 - T-Test]], [[7 - Z-Test]], [[12 - ANOVA and F-statistic]], [[0 - proba&stats utilitaire]]

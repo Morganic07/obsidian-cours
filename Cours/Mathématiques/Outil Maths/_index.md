@@ -2,7 +2,7 @@
 type: matiere
 tags: [year1]
 sources: ["[[1 - logique|Chapitre 1 logique]]", "[[2 - ensembles|Chapitre 2 ensembles]]", "[[3 - Relation binaire|Chapitre 3 - Relation binaire]]", "[[5 - Complexes|Chapitre 5 - Complexes]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Outils de base du raisonnement mathématique : logique, ensembles, relations, fonctions, nombres complexes. Les 4 notes sont intégrées. Le chapitre 4 (fonctions et applications) n'existe qu'en PDF : voir [[4 - pdf]]. Les PDF du professeur, les feuilles d'exercices et un contrôle sont résumés dans la section « Documents PDF ».
@@ -33,13 +33,15 @@ Outils de base du raisonnement mathématique : logique, ensembles, relations, fo
 - **Relations binaires (chapitre 3)** : [[Relation binaire]], [[Représentation d'une relation binaire]], [[Domaine et rang d'une relation]], [[Relation réflexive]], [[Relation symétrique]], [[Relation antisymétrique]], [[Relation transitive]], [[Relation d'équivalence]], [[Congruence modulo n]], [[Relation d'ordre]], [[Divisibilité]], [[Majorant et minorant]], [[Plus grand élément]], [[Élément maximal]], [[Borne supérieure]], [[Application monotone]], [[Inégalité triangulaire]]
 - **Fonctions et applications (chapitre 4)** : [[Relation fonctionnelle]], [[Application (mathématiques)]], [[Ensemble de définition]], [[Graphe d'une fonction]], [[Égalité de deux fonctions]], [[Restriction d'une fonction]], [[Fonction identité]], [[Fonction indicatrice]], [[Injection canonique]], [[Composition de fonctions]], [[Image et image réciproque]], [[Injectivité et surjectivité]], [[Bijection]], [[Système linéaire]], [[Forme échelonnée]]
 - **Complexes (chapitre 5)** : [[Nombre complexe]], [[Affixe]], [[Forme trigonométrique et exponentielle]], [[Formules trigonométriques]], [[Formule de Pascal]], [[Équation du second degré]]
+- **Ajoutés par l'enrichissement** : [[Ou exclusif]], [[Paradoxe de Russell]], [[Diagramme de Hasse]], [[Racine n-ième de l'unité]], [[Théorème fondamental de l'algèbre]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-- [[2 - ensembles]] : De Morgan écrit avec $\cup$ des deux côtés pour $\overline{A \cup B}$ (il faut $\cap$) ; « $N \in Z \in Q \in R$ » au lieu de l'inclusion.
-- [[3 - Relation binaire]] : antisymétrie écrite avec $yRz$ au lieu de $yRx$.
-- [[2 - pdf]] : même erreur de De Morgan (propriété 6) dans le PDF du professeur, vérifiée sur l'image.
-- [[5 - Complexes]] : $|\cos\theta + \sin\theta| = 1$ et $\cos 2x = 1 - \sin^2 x$ sont faux tels qu'écrits.
+- [[2 - ensembles]] et [[2 - pdf]] : lois de De Morgan, $\overline{A \cup B} = \overline{A} \cap \overline{B}$ et $\overline{A \cap B} = \overline{A} \cup \overline{B}$ ; $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$ (inclusion, et non appartenance).
+- [[3 - Relation binaire]] : antisymétrie, $xRy$ et $yRx \Rightarrow x = y$.
+- [[5 - Complexes]] : $|\cos\theta + i\sin\theta| = 1$ et $\cos 2x = 1 - 2\sin^2 x$.
 
 ## Liens avec les autres matières
 

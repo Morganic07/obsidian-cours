@@ -19,7 +19,7 @@ matieres:
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[2 - structures code|chp2 - structures code]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 Une fonction reçoit des paramètres en entrée et retourne une valeur ; une procédure est une suite d'instructions nommée, sans valeur retournée.
@@ -29,9 +29,5 @@ Une fonction reçoit des paramètres en entrée et retourne une valeur ; une pro
 **C** (C++) : déclaration `float moyenne (int a, int b);` (type de retour, nom, paramètres typés). Règles : déclarer avant d'appeler, implémenter toutes les fonctions, signatures identiques à la déclaration et à l'implémentation, types respectés à l'appel. Un programme se compose des `#include`, des déclarations, de `main` et des implémentations. Une procédure est une fonction qui ne renvoie rien (type `void`) ; selon le cours, tout `void` n'est pas forcément une procédure.
 
 Notion parente : [[Programmation modulaire]]. Voir aussi : [[Passage de paramètres]], [[Passage par valeur]], [[Portée d'une variable]], [[Récursivité]], [[Pointeur et adresse mémoire]], [[Erreur de compilation]].
-
-## Erreurs du cours
-
-- [[2 - structures code|chp2 - structures code]] (schéma « Comment structurer le code ») écrit `void affiche_points (int a, int b) { for (i = 0 ; i < a ; i ++) { for (j = 0 ; …` sans déclarer `i` ni `j` ; il faut ajouter « int i, j ; » en tête de la fonction (ou écrire `for (int i = 0 ; …)`), sinon le code ne compile pas.
 
 Résumés : [[0 - diapo prof]], [[2 - structures code]]

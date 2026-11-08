@@ -27,6 +27,10 @@ aliases:
   - adresse d'hôte
   - host address
   - hôtes par réseau
+  - supernetting
+  - agrégation de routes
+  - link-local
+  - APIPA
 matieres:
   - Computer Network
   - Operating System
@@ -34,10 +38,10 @@ sources:
   - "[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"
   - "[[3 - TP3|Cours TP3]]"
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
-Une adresse IPv4 est un nombre de 32 bits, écrit en quatre octets séparés par des points (notation décimale pointée). Elle contient une partie réseau et une partie hôte, que le masque de sous-réseau sépare. Cours de [[Cours/Informatique/Computer Network/_index|Computer Network]].
+**Définition** (d'après [[2 - IP Addressing]]) : une adresse IPv4 est un nombre de 32 bits, écrit en quatre octets séparés par des points (notation décimale pointée). Elle contient une partie réseau et une partie hôte, que le masque de sous-réseau sépare. Cours de [[Cours/Informatique/Computer Network/_index|Computer Network]].
 
 ## Principes
 
@@ -65,6 +69,42 @@ Les classes gaspillaient des adresses : une entreprise de 5000 hôtes recevait u
 
 Masques correspondants : /25 = 255.255.255.128, /26 = .192, /27 = .224, /28 = .240, /29 = .248, /30 = .252.
 
+## Calculs et cas particuliers (complément, hors du cours)
+
+**Calcul bit à bit**
+- Adresse réseau = adresse **ET** masque, bit à bit.
+- Adresse de broadcast = adresse réseau avec tous les bits hôte mis à 1 (adresse **OU** masque inversé).
+- Un masque est toujours fait de 1 contigus suivis de 0 : un octet de masque ne peut valoir que 0, 128, 192, 224, 240, 248, 252, 254 ou 255.
+
+**Méthode de découpage en sous-réseaux**
+- En empruntant $s$ bits à la partie hôte, on obtient $2^s$ sous-réseaux.
+- Avec $h$ bits hôte restants, chaque sous-réseau compte $2^h - 2$ hôtes.
+- **Taille de bloc** : $2^h = 256 - \text{octet du masque}$ dans l'octet où le masque s'arrête ; les sous-réseaux commencent aux multiples de cette taille.
+
+Exemple : `192.168.1.100/26`. Le masque est 255.255.255.192, la taille de bloc $256 - 192 = 64$ ; les sous-réseaux commencent à .0, .64, .128, .192. Donc réseau `192.168.1.64`, broadcast `192.168.1.127`, hôtes de .65 à .126 ($2^6 - 2 = 62$).
+
+Exemple des 5000 hôtes avec le CIDR : il faut $h$ tel que $2^h - 2 \geq 5000$, soit $h = 13$ ($2^{13} - 2 = 8190$), donc un préfixe `/19` au lieu d'un réseau de classe B (65 534 hôtes).
+
+**Préfixes extrêmes**
+- `/31` : la formule du cours donne 0 hôte, mais la RFC 3021 autorise le /31 sur les liens point à point, où les deux adresses servent aux deux extrémités (pas de broadcast).
+- `/32` : un seul hôte. C'est la longueur des routes `L` (adresse locale d'une interface) dans `show ip route`.
+
+**Agrégation (supernetting)** : l'inverse du découpage. Quatre /24 contigus, de `192.168.0.0/24` à `192.168.3.0/24`, se résument en un seul `192.168.0.0/22`, ce qui réduit la taille des tables de routage (voir [[Résumé automatique de routes]]).
+
+**Adresses particulières**
+
+| Plage | Usage |
+|---|---|
+| `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16` | adresses privées (RFC 1918), non routées sur Internet, traduites par le [[NAT et PAT]] |
+| `127.0.0.0/8` | bouclage (voir [[Adresse de bouclage]]) |
+| `169.254.0.0/16` | link-local (APIPA) : adresse que s'attribue un hôte qui n'a obtenu aucune adresse par DHCP |
+| `255.255.255.255` | broadcast limité, au réseau local |
+| `0.0.0.0` | « cette machine » ou adresse non encore attribuée ; `0.0.0.0/0` désigne la route par défaut |
+
+**Épuisement** : $2^{32} = 4\,294\,967\,296$ adresses. L'[[IANA]] a distribué ses derniers blocs /8 aux registres régionaux en février 2011 ; d'où le recours au NAT et le passage à IPv6 (adresses de 128 bits).
+
+L'adresse IP est logique et hiérarchique ; l'identifiant physique d'une interface, utilisé dans le réseau local, est l'[[Adresse MAC]].
+
 ## Liens
 
 Ces notions servent au [[Routage statique]], au [[Routage dynamique]], au [[VLAN]] (complément : un VLAN correspond en général à un sous-réseau) et au [[NAT et PAT]] (adresses privées). Les commandes `ifconfig` et `ip address` affichent l'adresse et le masque : voir [[Shell et Bash]].
@@ -72,9 +112,5 @@ Ces notions servent au [[Routage statique]], au [[Routage dynamique]], au [[VLAN
 En Operating System (TP3), l'adresse IP est définie comme l'étiquette numérique attribuée à un appareil d'un réseau IPv4, qui l'identifie de façon unique et indique sa position pour faciliter la communication. La sortie d'exemple affiche, pour chaque interface, l'adresse, le broadcast et le masque de sous-réseau. Le cours de réseau précise qu'une adresse sur 32 bits donne environ 4,3 milliards d'adresses.
 
 Voir aussi : [[Adresse de bouclage]], [[IANA]], [[VLSM]], [[Octet]], [[Numération binaire]], [[Interface réseau]], [[Commande ifconfig]], [[Commande ip]], [[DNS]].
-
-## Erreurs du cours
-
-- [[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]] (diapositive 38, quiz) donne à un PC l'adresse « 224.192.64.32/24 » ; une adresse 224.x.x.x est de classe D (multicast) et ne s'attribue pas à un hôte. Le calcul demandé (adresse réseau, broadcast, hôtes) se fait quand même avec le /24.
 
 Résumés : [[2 - IP Addressing]], [[5 - NAT ／ PAT]], [[6 - Access Control List]], [[3 - TP3]]

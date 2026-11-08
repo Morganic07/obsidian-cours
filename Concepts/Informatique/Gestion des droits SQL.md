@@ -13,15 +13,11 @@ matieres:
   - Data base
 sources:
   - "[[2 - opérateurs et SQL|Cours 3 - opérateurs et SQL]]"
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
-`GRANT` donne un droit, par exemple `GRANT ALL PRIVILEGES ON dbname TO user IDENTIFIED BY password ;`, et `REVOKE` le retire. La syntaxe diffère beaucoup d'un SGBDR à l'autre ([[2 - opérateurs et SQL|Cours 3 - opérateurs et SQL]]).
+`GRANT` donne un droit **à** un utilisateur, par exemple `GRANT ALL PRIVILEGES ON dbname.* TO user IDENTIFIED BY password ;`, et `REVOKE` le retire **à** cet utilisateur, avec `FROM` : `REVOKE UPDATE ON dbname.tablename FROM user ;`. Sous MySQL, `dbname.*` désigne toute la base, alors qu'un nom seul désigne une table de la base courante (documentation MySQL 8.0, `GRANT` et `REVOKE`). La syntaxe diffère beaucoup d'un SGBDR à l'autre ([[2 - opérateurs et SQL|Cours 3 - opérateurs et SQL]]). [[Erreurs du cours#^e-gestion-des-droits-sql|✎]]
 
 Notion parente : [[Langage SQL]]. Voir aussi : [[Système de gestion de base de données]].
-
-## Erreurs du cours
-
-- [[2 - opérateurs et SQL|Cours 3 - opérateurs et SQL]] écrit « REVOKE UPDATE ON dbname.tablename TO user ; » ; il faut « REVOKE UPDATE ON dbname.tablename FROM user ; » : `GRANT … TO`, mais `REVOKE … FROM`.
 
 Résumés : [[2 - opérateurs et SQL]]

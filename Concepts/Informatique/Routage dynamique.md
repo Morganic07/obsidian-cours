@@ -4,7 +4,7 @@ tags: [year3]
 aliases: [dynamic routing, protocole de routage, protocoles de routage, RIP, RIPv2, Routing Information Protocol, IGP, EGP, vecteur de distance, hop count, nombre de sauts, RIPv1, router rip, default-information originate]
 matieres: [Computer Network]
 sources: ["[[3 - Dynamic Routing|Chp3 - Dynamic Routing]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 ---
 
 En routage dynamique, les routeurs apprennent automatiquement les chemins en s'échangeant leurs informations par des protocoles de routage. Il s'adapte aux pannes et aux nouveaux réseaux et réduit la configuration manuelle des grands réseaux.
@@ -16,10 +16,5 @@ En routage dynamique, les routeurs apprennent automatiquement les chemins en s'�
 **Commandes** : `router rip`, `version 2`, `no auto-summary` (désactive le [[Résumé automatique de routes]]), `network <réseau>`, `default-information originate`. Contrôle : `show ip protocols`, `show ip rip database`, `show ip route rip`. `no router rip` supprime la configuration.
 
 Notion parente : [[Routage IP]]. Voir aussi : [[Routage statique]], [[CLI Cisco IOS]], [[Système autonome]], [[OSPF]], [[EIGRP]], [[BGP]], [[VLSM]], [[Routage classful et classless]], [[Résumé automatique de routes]], [[Boucle de routage]]
-
-## Erreurs du cours
-
-- L'exemple de configuration de [[3 - Dynamic Routing|Chp3 - Dynamic Routing]] écrit `Router(config-router)# network` sans adresse ; il faut `network <adresse du réseau>`, comme dans le tableau des commandes.
-- Le tableau des commandes écrit `default information-originate` (vérifié sur l'image) ; il faut `default-information originate`, la forme de l'exemple de configuration.
 
 Résumé : [[3 - Dynamic Routing]]

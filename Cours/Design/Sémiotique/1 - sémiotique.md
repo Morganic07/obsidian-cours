@@ -2,8 +2,9 @@
 type: source
 tags: [year3]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du Cours 1 de [[Cours/Design/Sémiotique/_index|Sémiotique]] (séance 1 : introduction, 37 diapositives). Cours « Analyser les dispositifs numériques : l'analyse techno-sémiotique », thème 2026 : les applications de reconnaissance de la nature, de l'analyse critique à des pistes pour un design d'interface centré vivant ([[Design centré vivant]]). Suite : [[2 - sémiotique|Cours 2]].
@@ -47,6 +48,17 @@ Tous les supports sont mis sur le drive de classe après chaque cours ; créer u
 | Définition | étude des signes et de leurs significations ; définit la nature du signe, ce qui le compose, le constitue et le caractérise | explique comment le signe fonctionne dans un système de communication ; décrit comment il est intercepté et interprété par ceux qui le perçoivent |
 | Auteurs cités | Ferdinand de Saussure, Algirdas Julien Greimas, Roland Barthes, Jean Baudrillard, Eric Landowski, Anne Beyaert-Geslin, Jacques Fontanille… | Charles Sanders Peirce, Umberto Eco… |
 
+**D'où viennent les deux mots.** Le linguiste Ferdinand de Saussure a proposé le mot *sémiologie* (*Cours de linguistique générale*, publié en 1916) pour « une science qui étudie la vie des signes au sein de la vie sociale » ; le philosophe américain Charles Sanders Peirce, à la même époque, parlait de *semiotic*. Les deux termes ont longtemps coexisté, le premier dans la tradition française, le second dans la tradition anglo-saxonne ; en 1969, l'Association internationale de sémiotique a retenu « sémiotique » comme terme générique. La répartition du cours est donc une convention de présentation, pas une frontière fixée par les auteurs. [[Complément hors du cours|ⓘ]]
+
+**Le [[Signe (sémiotique)|signe]] selon Saussure.** Un signe unit deux faces inséparables : le **signifiant** (la forme perçue : un son, un tracé, une image) et le **signifié** (le concept qu'elle évoque). Leur lien est **arbitraire** : rien dans la suite de sons « arbre » ne ressemble à un arbre, c'est une convention partagée par une communauté. Un signe ne vaut que par sa différence avec les autres signes du même système. [[Complément hors du cours|ⓘ]]
+
+**Le signe selon Peirce** comporte trois termes : le *representamen* (ce qui représente), l'*objet* (ce qui est représenté) et l'*interprétant* (l'effet de sens produit chez celui qui l'interprète). Peirce classe les signes selon leur rapport à l'objet, distinction très utile en design (voir [[Icône, indice et symbole]]) : [[Complément hors du cours|ⓘ]]
+- **icône** : ressemble à ce qu'elle représente (un portrait, un pictogramme de silhouette) ; [[Complément hors du cours|ⓘ]]
+- **indice** : est relié physiquement ou causalement à son objet (la fumée pour le feu, une empreinte, la jauge d'essence) ; [[Complément hors du cours|ⓘ]]
+- **symbole** : renvoie à son objet par convention (un mot, le feu rouge, le cœur pour « j'aime »). [[Complément hors du cours|ⓘ]]
+
+Un même signe mêle souvent plusieurs dimensions : l'icône de corbeille ressemble à une corbeille (icône), mais « supprimer » s'apprend par l'usage (symbole). [[Complément hors du cours|ⓘ]]
+
 ### Tous sémiologues au quotidien (diapositive 9)
 
 La diapositive ne contient que des images : on lit des signes en permanence sans y penser.
@@ -62,12 +74,21 @@ La diapositive ne contient que des images : on lit des signes en permanence sans
 
 La diapositive cite aussi le titre d'article « Tinder, Bumble, Once… : le piège des supermarchés de l'amour. Des sites de rencontres pas si fleur bleue » (image de texte).
 
+Lus avec la grille de Peirce, ces exemples montrent des signes de nature différente : la silhouette au chariot est une **icône** (elle ressemble à ce qu'elle désigne), tandis que les pictogrammes d'entretien (cuve, triangle, fer, cercle) sont des **symboles** : leur sens est fixé par une norme internationale (ISO 3758) et s'apprend. On les déchiffre sans y penser parce que le code est devenu familier, ce qui est le propre d'un signe bien intégré. [[Complément hors du cours|ⓘ]]
+
 ### Diversité des applications de la sémiologie (diapositive 10)
 
 Diapositive d'images seulement : publicité, couverture de livre, robot, photos d'animaux, ondes sonores. Sélection :
 
 ![[Sémiotique Séance 1 - image11.jpg]]
 *Figure : publicité Panzani (pâtes, sauce, parmesan dans un filet), « à l'italienne de luxe ».*
+
+Cette publicité est l'exemple de Roland Barthes dans « Rhétorique de l'image » (revue *Communications*, n° 4, 1964), texte fondateur de l'analyse sémiologique des images. Barthes y distingue trois messages : [[Complément hors du cours|ⓘ]]
+1. le **message linguistique** (le nom Panzani, le texte) ;
+2. le **message iconique littéral**, ou **dénoté** : ce que l'image montre (des paquets de pâtes, une boîte, un sachet, des tomates, des oignons, des poivrons, un champignon, le tout sortant d'un filet à provisions entrouvert) ;
+3. le **message iconique symbolique**, ou **connoté** : ce que l'image suggère, notamment le retour du marché et la fraîcheur, et l'« italianité », portée par l'assonance du nom et par les couleurs jaune, vert et rouge (proches du drapeau italien), ainsi que la composition qui rappelle la nature morte.
+
+Voir [[Dénotation et connotation]]. Barthes montre aussi que le texte guide la lecture de l'image : soit il l'**ancre** (il choisit, parmi les sens possibles, celui qu'il faut retenir, comme une légende), soit il fait **relais** (texte et image se complètent, comme dans une bande dessinée). [[Complément hors du cours|ⓘ]]
 
 ![[Sémiotique Séance 1 - image1.png]]
 *Figure : couverture de « Sémiotique du design » d'Anne Beyaert-Geslin (PUF, coll. Formes sémiotiques).*
@@ -85,6 +106,8 @@ Les autres images de la diapositive (non intégrées) : couverture de « La vie 
 En design, la sémiotique étudie **des formes, des signes, des dispositifs**, pour comprendre ce qu'ils **rendent possible, empêchent ou naturalisent**.
 
 **Principe fondamental** : il n'y a pas de neutralité visuelle, mais des couleurs, des formes, des hiérarchies, des choix de représentation.
+
+« Naturaliser » renvoie à l'analyse du **mythe** par Barthes dans *Mythologies* (1957) : le mythe est un système de signes au second degré, où un signe entier (un objet, une image et son sens premier) devient le signifiant d'un nouveau sens, idéologique. Son effet est de faire passer pour évident et « naturel » ce qui est un choix culturel et historique. C'est ce que l'analyse sémiotique cherche à défaire : montrer qu'une forme qui paraît aller de soi est construite. [[Complément hors du cours|ⓘ]]
 
 ### Cinq questions à poser à l'objet (diapositive 12)
 
@@ -148,6 +171,8 @@ s'articulent pour produire du sens, orienter les pratiques et configurer des rap
 
 Icônes, cartes, visualisations de données… : des **images qui orientent l'action** (voir [[Images opératives]]).
 
+La notion d'image opérative vient du cinéaste allemand Harun Farocki (série d'installations *Eye/Machine*, 2001-2003) : ce sont des images qui ne sont pas faites pour représenter ou être contemplées, mais pour faire partie d'une opération, comme les images de guidage d'un missile ou celles d'une caméra de contrôle industriel, souvent lues par une machine plutôt que par un humain. Par extension, une carte de navigation GPS ou l'écran d'une application de course sont opératives : on les regarde pour agir. [[Complément hors du cours|ⓘ]]
+
 ![[Sémiotique Séance 1 - image16.png]]
 *Figure : carte numérique sombre parsemée de marqueurs et de pictogrammes.*
 
@@ -164,6 +189,8 @@ Analyser une interface, ce n'est pas seulement décrire ce qu'elle montre. C'est
 
 Une interface est un dispositif de sens et d'action.
 
+Ce qu'une interface « fait faire » passe notamment par ses [[Affordance|affordances]] : les actions qu'un objet rend possibles et perceptibles. Le psychologue James J. Gibson a forgé la notion à la fin des années 1970 ; Donald Norman l'a appliquée au design (*The Design of Everyday Things*, 1988) et distingue l'affordance (ce qu'on peut faire) du *signifier* (l'indice visible qui montre comment le faire, comme l'ombre portée d'un bouton qui invite à cliquer). [[Complément hors du cours|ⓘ]]
+
 ### Principe clé : la non-neutralité des objets techniques (diapositive 20)
 
 Voir [[Non-neutralité des objets techniques]]. Citation de Madeleine Akrich, « Comment décrire les objets techniques » :
@@ -171,6 +198,10 @@ Voir [[Non-neutralité des objets techniques]]. Citation de Madeleine Akrich, «
 > « Les objets techniques définissent dans leur configuration une certaine partition du monde physique et social, attribuent des rôles à certains types d'acteurs - humains et non-humains - en excluent d'autres, autorisent certains modes de relation entre ces différents acteurs etc… de telle sorte qu'ils participent pleinement de la construction d'une culture, au sens anthropologique du terme, en même temps qu'ils deviennent des médiateurs obligés dans toutes les relations que nous entretenons avec le "réel". »
 
 Lecture du cours : les objets techniques sont des acteurs de la structuration des relations sociales, de la définition des rôles et de l'établissement de normes culturelles ; ils intègrent des idéologies et des rapports de pouvoir qui influencent les interactions humaines et modèlent les cultures. C'est en ce sens qu'ils ne sont jamais neutres : ils façonnent la manière dont nous interagissons avec le monde et, par extension, la société elle-même.
+
+Dans ce texte (revue *Techniques et culture*, 1987), Madeleine Akrich propose la notion de **[[Script d'usage|script]]** : comme un scénario de film, un objet technique contient un rôle écrit d'avance pour son utilisateur. Les concepteurs **inscrivent** dans l'objet des hypothèses sur ses futurs usagers (leurs compétences, leurs gestes, leur environnement) ; l'analyse consiste à **dé-scrire** l'objet, c'est-à-dire à retrouver ce script. Les usagers peuvent s'y conformer, le contourner ou le refuser. [[Complément hors du cours|ⓘ]]
+
+L'expression « humains et non-humains » vient de la [[Théorie de l'acteur-réseau]] (ou sociologie de la traduction), développée dans les années 1980 au Centre de sociologie de l'innovation de l'École des mines de Paris par Madeleine Akrich, Michel Callon et Bruno Latour : elle traite les objets, les animaux ou les machines comme des acteurs à part entière, qui font agir et transforment les relations, au même titre que les humains. [[Complément hors du cours|ⓘ]]
 
 ### Une technologie est une théorie du monde rendue opératoire (diapositive 21)
 
@@ -200,6 +231,8 @@ L'analyse relie formes, actions et visions du monde.
 | Ce que ça me fait faire / penser | scroll facile ; réaction machinale (like, swipe) ; arrêt bref, rarement long ; comparaison implicite | attention fragmentée, continue mais peu réflexive |
 | Ce que ça suppose du monde | le monde est une suite d'images ; l'expression passe par le visible ; la valeur est mesurable par la réaction ; le temps est disponible en continu | vision d'un monde spectacularisé, où exister, c'est être vu et réagir |
 
+Ce design relève de l'**[[Économie de l'attention]]** : quand un service est gratuit, son modèle économique repose sur la publicité, donc sur le temps passé et l'attention captée, ressource rare que les plateformes se disputent. Le défilement infini (pas de fin de page, donc pas de moment naturel pour s'arrêter) et les récompenses imprévisibles (un nouveau contenu, une notification, des likes) sont des mécanismes typiques de cette captation. « Monde spectacularisé » fait aussi écho à *La Société du spectacle* de Guy Debord (1967), pour qui les relations sociales passent par des images. [[Complément hors du cours|ⓘ]]
+
 ### Analyse « en survol » 2 : une interface de mesure (diapositive 25)
 
 ![[Sémiotique Séance 1 - image18.jpg]]
@@ -213,6 +246,8 @@ L'analyse relie formes, actions et visions du monde.
 | Ce que je vois | graphiques, courbes, indicateurs ; codes couleur normatifs (vert / orange / rouge / bleu) ; chiffres mis en avant ; vue synthétique, modulaire | une interface de la mesure et du contrôle |
 | Ce que ça me fait faire / penser | surveillance ; comparaison des valeurs ; recherche d'amélioration d'un score ; conformation à des seuils / normes | incitation à une (auto-)évaluation permanente |
 | Ce que ça suppose du monde | le réel est mesurable ; ce qui n'est pas chiffré compte moins ; l'amélioration est continue ; le sujet est responsable de ses performances, sujet « [[Entrepreneur de soi]] » (Ehrenberg) | vision d'un monde gestionnaire, orienté vers l'optimisation |
+
+Ces interfaces prolongent le mouvement du **[[Quantified self]]** (« soi quantifié »), apparu aux États-Unis en 2007 : mesurer en continu son sommeil, ses pas, son rythme cardiaque ou sa productivité pour mieux se connaître et s'améliorer. Le score transforme l'expérience en chiffre et la rend comparable, ce que la [[Gamification]] exploite (objectifs, badges, séries). La **loi de Goodhart** résume le risque : quand une mesure devient un objectif, elle cesse d'être une bonne mesure, car on optimise le chiffre plutôt que ce qu'il devait refléter. [[Complément hors du cours|ⓘ]]
 
 ## 4. Pourquoi une approche techno-sémiotique quand on est designer ?
 
@@ -238,6 +273,8 @@ Le design n'est pas un « habillage ». Il :
 
 Voir [[IA générative]].
 
+La forme conversationnelle favorise l'[[Anthropomorphisme|anthropomorphisme]] : on prête des intentions et une compréhension à ce qui répond comme un interlocuteur. On parle d'**[[ELIZA|effet ELIZA]]**, du nom du programme de Joseph Weizenbaum (MIT, 1966) qui imitait un psychothérapeute en reformulant les phrases de l'utilisateur ; des utilisateurs lui prêtaient pourtant de l'empathie. Le « je » de l'agent, l'affichage progressif de la réponse comme si elle était tapée, renforcent cet effet. [[Complément hors du cours|ⓘ]]
+
 ## 5. Le thème du semestre : les applications de reconnaissance de la nature
 
 ### Exemples d'applications (diapositive 31)
@@ -260,6 +297,8 @@ Voir [[IA générative]].
 ![[Sémiotique Séance 1 - image30.jpg]]
 *Figure : publicité « Identifier des insectes du monde entier », un papillon posé sur un téléphone.*
 
+Techniquement, ces applications reposent en général sur la reconnaissance d'images (ou de sons) par [[Apprentissage profond|apprentissage profond]], le plus souvent des [[Réseau de neurones convolutif|réseaux de neurones convolutifs]] entraînés sur des millions de photos étiquetées ; elles rendent une liste d'espèces probables avec un pourcentage de confiance. Plusieurs fonctionnent en **science participative** : les observations des utilisateurs, photographiées et géolocalisées, alimentent des bases de données de biodiversité utilisées par les chercheurs (c'est le cas de Pl@ntNet, projet de recherche français lancé en 2009, ou d'iNaturalist). [[Complément hors du cours|ⓘ]]
+
 ### Le problème du « centré utilisateur » (diapositive 32)
 
 Ces applications représentent souvent la nature comme :
@@ -268,6 +307,8 @@ Ces applications représentent souvent la nature comme :
 - des scores et des données.
 
 Où sont les milieux ? les relations ? les [[Savoirs situés]] ? Ces dispositifs ne sont pas neutres : ils influencent nos perceptions de la nature, modèlent des représentations et transforment les relations humains / non-humains. En contexte d'urgence climatique, ils jouent un rôle central dans la sensibilisation aux enjeux écologiques, mais peuvent aussi réduire la nature à une série de données ou à des stéréotypes visuels. Voir [[Conception centrée utilisateur]].
+
+Représenter la nature comme des « catégories » hérite d'une longue tradition : la classification du vivant de Carl von Linné (*Systema Naturae*, 1735) et sa **nomenclature binominale** (généralisée aux plantes dans *Species Plantarum*, 1753), qui nomme chaque espèce par un genre et une épithète (*Bellis perennis* pour la pâquerette). Une application d'identification reprend ce geste naturaliste (nommer, ranger, répertorier) mais isole l'individu de son milieu, de ses interactions et de son histoire, que l'écologie étudie justement. [[Complément hors du cours|ⓘ]]
 
 **Question centrale : quelle vision du vivant ces interfaces produisent-elles ?**
 

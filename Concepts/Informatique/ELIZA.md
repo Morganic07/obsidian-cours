@@ -2,16 +2,26 @@
 type: concept
 tags:
   - year3
-aliases: []
+aliases:
+  - effet ELIZA
+  - ELIZA effect
 matieres:
   - IA
+  - Sémiotique
 sources:
   - "[[1 - IA|Cours 1]]"
-maj: 2026-11-06
+  - "[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"
+maj: 2026-11-08
 ---
+
+**Définition (complément, hors du cours)** : programme écrit par Joseph Weizenbaum au MIT entre 1964 et 1966, dont le script le plus connu, DOCTOR, imitait un psychothérapeute rogérien. Il repérait des mots-clés dans la phrase de l'utilisateur et la reformulait selon des règles de transformation (« Je suis triste » → « Pourquoi êtes-vous triste ? »), sans aucune compréhension de ce qui était dit. Des utilisateurs lui prêtaient pourtant de l'empathie et se confiaient à lui, ce qui a inquiété Weizenbaum lui-même (*Computer Power and Human Reason*, 1976). On appelle **effet ELIZA** la tendance à attribuer compréhension et intentions à une machine qui converse.
+
+## Dans le cours
 
 Nommé dans [[1 - IA|Cours 1 (IA)]] sans définition, comme jalon de l'approche symbolique (1966).
 
-Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Système expert]].
+En sémiotique, l'effet ELIZA apparaît dans les compléments de [[1 - sémiotique]] (étude de cas de l'interface conversationnelle de ChatGPT, diapositives 28-29) : la forme conversationnelle, le « je » de l'agent et l'affichage progressif de la réponse renforcent l'[[Anthropomorphisme|anthropomorphisme]].
 
-Résumés : [[1 - IA|Cours 1 (IA, résumé)]]
+Notion parente : [[Approche symbolique et connexionniste]]. Voir aussi : [[Système expert]], [[Anthropomorphisme]].
+
+Résumés : [[1 - IA|Cours 1 (IA, résumé)]], [[1 - sémiotique]]

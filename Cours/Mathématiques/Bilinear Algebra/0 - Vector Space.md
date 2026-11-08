@@ -2,11 +2,12 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Bilinear Algebra/Chp 0d - Vector Space.docx|Chp 0d - Vector Space]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0d - Vector Space.docx|Chp 0d - Vector Space]] (« Chapter 0d - Vectors »), dans [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]]. En cas d'écart, le cours et ses images font foi.
+Résumé de [[Raw/Year 2/Bilinear Algebra/Chp 0d - Vector Space.docx|Chp 0d - Vector Space]] (« Chapter 0d - Vectors »), dans [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]].
 
 ## Idée générale
 
@@ -26,6 +27,12 @@ Le chapitre généralise les vecteurs de $\mathbb{R}^n$, puis décrit une matric
 > 9. $c(d\mathbf u) = (cd)\mathbf u$ ;
 > 10. (coupé sur l'image : l'image s'arrête à l'axiome 9).
 
+Le dixième axiome est $1\mathbf u = \mathbf u$ : il figure dans les propriétés de $\mathbb R^n$ de [[0 - Linear combination|Linear combination]] (voir [[Espace vectoriel]]).
+
+Des axiomes découlent des règles qu'on utilise sans y penser : $0\mathbf u = \mathbf 0$, $c\mathbf 0 = \mathbf 0$ et $-\mathbf u = (-1)\mathbf u$. Par exemple, $0\mathbf u = (0 + 0)\mathbf u = 0\mathbf u + 0\mathbf u$, puis on ajoute $-0\mathbf u$ des deux côtés. Le vecteur nul et l'opposé de chaque vecteur sont uniques. [[Complément hors du cours|ⓘ]]
+
+L'intérêt de la définition abstraite est que des objets très différents de $\mathbb R^n$ vérifient les mêmes axiomes, et héritent donc des mêmes théorèmes : les matrices $m \times n$ (avec l'addition et le produit par un scalaire coefficient par coefficient), les polynômes de degré au plus $n$, noté $\mathbb P_n$, ou les fonctions réelles définies sur un même ensemble, additionnées point par point. [[Complément hors du cours|ⓘ]]
+
 ## 2. Sous-espaces (*subspaces*)
 
 > **Définition** : un [[Sous-espace vectoriel|sous-espace]] d'un espace vectoriel $V$ est une partie $H$ de $V$ qui vérifie :
@@ -44,6 +51,10 @@ Remarques du cours :
 - tout espace vectoriel est un sous-espace (de lui-même ou d'un espace plus grand) ;
 - dans tout espace, $\{\mathbf 0\}$ est un sous-espace ;
 - $\mathbb R^2$ n'est pas un sous-espace de $\mathbb R^3$ : ses vecteurs ont 2 composantes, ceux de $\mathbb R^3$ en ont 3.
+
+**Méthode pour montrer qu'une partie $H$ est un sous-espace** : vérifier que $\mathbf 0 \in H$, puis que pour tous $\mathbf u, \mathbf v \in H$ et tout scalaire $c$, $\mathbf u + c\mathbf v \in H$ (ce qui regroupe b et c). Pour montrer que $H$ **n'en est pas** un, un seul contre-exemple suffit : $\mathbf 0 \notin H$, ou deux vecteurs de $H$ dont la somme sort de $H$. [[Complément hors du cours|ⓘ]]
+
+Exemples : le plan $\{(x, y, z) : x + y - z = 0\}$ est un sous-espace de $\mathbb R^3$ (c'est l'ensemble des solutions d'une équation homogène) ; le plan $x + y - z = 1$ n'en est pas un, car il ne contient pas $(0,0,0)$. La réunion de deux droites distinctes passant par l'origine n'est pas un sous-espace non plus : $(1, 0)$ et $(0, 1)$ sont sur les deux axes de $\mathbb R^2$, mais leur somme $(1, 1)$ n'est sur aucun. [[Complément hors du cours|ⓘ]]
 
 > **Théorème** : si $\mathbf v_1, \ldots, \mathbf v_p \in V$, alors $\text{Span}\{\mathbf v_1, \ldots, \mathbf v_p\}$ est un sous-espace de $V$ (voir [[Espace engendré]]).
 
@@ -73,6 +84,8 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 - Le column space d'une matrice est l'**image** (*range*) de la transformation matricielle associée.
 - $\text{Row}\,A = \text{Col}\,A^T$, donc $\text{Row}\,A^T = \text{Col}\,A$.
 
+Pourquoi le null space est perpendiculaire au row space, comme sur la figure : la $i$-ème composante de $A\mathbf x$ est le [[Produit scalaire|produit scalaire]] de la ligne $i$ de $A$ avec $\mathbf x$. Donc $A\mathbf x = \mathbf 0$ signifie exactement que $\mathbf x$ est orthogonal à chaque ligne, donc à toute combinaison des lignes : $\text{Nul}\,A = (\text{Row}\,A)^\perp$. De même, $\text{Nul}\,A^T = (\text{Col}\,A)^\perp$ ([[Complément orthogonal]], vu dans [[1 - Orthogonality|Orthogonality]]). Sur l'exemple, $(1,2,3)\cdot(1,-2,1) = 1 - 4 + 3 = 0$ et $(4,5,6)\cdot(1,-2,1) = 4 - 10 + 6 = 0$. [[Complément hors du cours|ⓘ]]
+
 ## 4. Column space
 
 > **Définition** : le column space de $A$ ($m \times n$), noté $\text{Col}\,A$, est l'ensemble des combinaisons linéaires des colonnes de $A$. Si $A = [\mathbf a_1 \cdots \mathbf a_n]$,
@@ -101,6 +114,10 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > **Théorème** : le null space d'une matrice $m \times n$ est un sous-espace de $\mathbb R^n$. De façon équivalente, l'ensemble des solutions d'un système $A\mathbf x = \mathbf 0$ de $m$ équations homogènes à $n$ inconnues est un sous-espace de $\mathbb R^n$.
 
 > **Propriété** : quand $\text{Nul}\,A$ contient des vecteurs non nuls, le nombre de vecteurs de la famille génératrice de $\text{Nul}\,A$ est égal au nombre de [[Variable libre|variables libres]] de $A\mathbf x = \mathbf 0$.
+
+**Méthode pour trouver une famille génératrice de $\text{Nul}\,A$** : réduire $A$ à sa [[Forme échelonnée|forme échelonnée réduite]], exprimer les variables de base en fonction des variables libres, puis écrire la solution générale comme combinaison linéaire de vecteurs, un par variable libre. Exemple avec $A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$ :
+$$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \xrightarrow{L_2 \leftarrow L_2 - 4L_1} \begin{bmatrix} 1 & 2 & 3 \\ 0 & -3 & -6 \end{bmatrix} \xrightarrow{L_2 \leftarrow -L_2/3} \begin{bmatrix} 1 & 2 & 3 \\ 0 & 1 & 2 \end{bmatrix} \xrightarrow{L_1 \leftarrow L_1 - 2L_2} \begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & 2 \end{bmatrix}$$
+d'où $x_1 = x_3$, $x_2 = -2x_3$, $x_3$ libre, et $\mathbf x = x_3\begin{bmatrix} 1 \\ -2 \\ 1 \end{bmatrix}$ : on retrouve la droite de la figure, engendrée par $(1,-2,1)$. La famille obtenue ainsi est toujours linéairement indépendante, donc c'est une base de $\text{Nul}\,A$. [[Complément hors du cours|ⓘ]]
 
 ### Comparaison de $\text{Nul}\,A$ et $\text{Col}\,A$ (pour $A$ de taille $m \times n$)
 
@@ -136,6 +153,10 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > - c'est le cas de la matrice identité $I_n$ ; ses colonnes $\mathbf e_i$ forment la **base standard** (canonique) $\{\mathbf e_1, \ldots, \mathbf e_n\}$ de $\mathbb R^n$ :
 > $$\mathbf e_1 = \begin{bmatrix} 1 \\ 0 \\ \vdots \\ 0 \end{bmatrix},\ \mathbf e_2 = \begin{bmatrix} 0 \\ 1 \\ \vdots \\ 0 \end{bmatrix},\ \ldots,\ \mathbf e_n = \begin{bmatrix} 0 \\ \vdots \\ 0 \\ 1 \end{bmatrix}$$
 
+Une base est à la fois une famille génératrice **minimale** (en retirer un vecteur, elle n'engendre plus $H$) et une famille libre **maximale** (en ajouter un, elle devient liée). Son intérêt : tout vecteur de $H$ s'écrit d'une **seule** façon comme combinaison linéaire des vecteurs de la base, ce qui définit ses [[Coordonnées dans une base|coordonnées]]. [[Complément hors du cours|ⓘ]]
+
+**Base de $\text{Col}\,A$** : les colonnes **pivots de $A$** forment une base de $\text{Col}\,A$. On repère les pivots sur une forme échelonnée, mais on prend les colonnes correspondantes de la matrice $A$ d'origine : les opérations sur les lignes changent le column space. Dans l'exemple ci-dessus, les colonnes 1 et 2 sont pivots, donc $\{(1,4), (2,5)\}$ est une base de $\text{Col}\,A$, qui est tout $\mathbb R^2$. [[Complément hors du cours|ⓘ]]
+
 ## 8. Dimension et rang d'une matrice
 
 > **Définition** : la [[Dimension (algèbre linéaire)|dimension]] d'un sous-espace non nul $H$, notée $\dim H$, est le nombre de vecteurs de n'importe quelle base de $H$. La dimension du sous-espace nul $\{\mathbf 0\}$ est définie comme 0 (il n'a **pas** de base, car le vecteur nul seul forme une famille liée).
@@ -148,6 +169,10 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 
 > **Théorème du rang** ([[Théorème du rang|rank theorem]]) : si $A$ a $n$ colonnes,
 > $$\text{rank}\,A + \dim \text{Nul}\,A = n.$$
+
+Le théorème se lit en comptant les colonnes : chacune correspond soit à une variable de base (une colonne pivot, comptée dans le rang), soit à une [[Variable libre|variable libre]] (un vecteur de la base de $\text{Nul}\,A$). Sur l'exemple $A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$ : $\text{rank}\,A = 2$, $\dim \text{Nul}\,A = 1$, et $2 + 1 = 3$ colonnes ; le left null space a pour dimension $m - r = 2 - 2 = 0$, ce qui explique qu'il soit réduit à l'origine. [[Complément hors du cours|ⓘ]]
+
+Le rang est le même vu par les lignes ou par les colonnes : $\dim \text{Row}\,A = \dim \text{Col}\,A$, soit $\text{rank}\,A = \text{rank}\,A^T$. Il est donc au plus égal au plus petit des deux nombres $m$ et $n$ : $\text{rank}\,A \leq \min(m, n)$. [[Complément hors du cours|ⓘ]]
 
 > **Théorème de la matrice inversible (suite)** : $A$ de taille $n \times n$. Chacun des énoncés suivants équivaut à « $A$ est inversible » (voir [[3 - Invertible matrix theorem|Invertible matrix theorem]]) :
 > m. les colonnes de $A$ forment une base de $\mathbb R^n$ ;
@@ -166,3 +191,7 @@ Pour une matrice $A$ ([[Sous-espaces fondamentaux]]) :
 > **Définition (image)** : l'**image** (*range*) de $T$ est l'ensemble de ses valeurs :
 > $$T(V) = \{T(\mathbf v) \in W \mid \mathbf v \in V\},$$
 > aussi notée $\text{im}(T)$ ou $R(T)$. Voir [[Transformation linéaire]], [[Image d'une application linéaire]].
+
+Le noyau est un sous-espace de $V$, l'image un sous-espace de $W$. Quand $T(\mathbf x) = A\mathbf x$, on retrouve $\ker T = \text{Nul}\,A$ et $\text{im}\,T = \text{Col}\,A$ : ces deux définitions généralisent le null space et le column space à n'importe quelle transformation linéaire. [[Complément hors du cours|ⓘ]]
+
+$T$ est [[Injectivité et surjectivité|injective]] si et seulement si $\ker T = \{\mathbf 0\}$ : si $T\mathbf u = T\mathbf v$, alors $T(\mathbf u - \mathbf v) = \mathbf 0$, donc $\mathbf u - \mathbf v \in \ker T$. Et si $V$ est de dimension finie, le [[Théorème du rang|théorème du rang]] s'écrit $\dim V = \dim \ker T + \dim \text{im}\,T$. [[Complément hors du cours|ⓘ]]

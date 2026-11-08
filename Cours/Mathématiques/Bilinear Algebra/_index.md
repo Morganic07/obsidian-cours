@@ -11,7 +11,7 @@ sources:
   - "[[1 - Orthogonality|chp 1 - Orthogonality]]"
   - "[[2 - Symmetric matrices and quadratic forms|Chp2 - Symmetric matrices and quadratic forms]]"
   - "[[3 - Invertible matrix theorem|Invertible matrix theorem]]"
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Algèbre linéaire de 2e année : systèmes, matrices, espaces vectoriels, valeurs propres, orthogonalité, formes quadratiques et SVD. Les 8 notes sont intégrées.
@@ -43,14 +43,15 @@ Les chapitres 0a à 0e posent les bases et chacun réutilise le précédent. Le 
 - **Matrices symétriques (chapitre 2)** : [[Matrice symétrique]], [[Théorème spectral]], [[Décomposition spectrale]], [[Développement colonnes-lignes]], [[Corps (algèbre)]]
 - **Formes (chapitre 2)** : [[Forme linéaire]], [[Forme bilinéaire]], [[Forme quadratique]], [[Forme quadratique définie positive]], [[Théorème des axes principaux]], [[Optimisation sous contrainte]]
 - **SVD (chapitre 2)** : [[Décomposition en valeurs singulières]], [[Conditionnement d'une matrice]]
+- **Ajoutés par l'enrichissement** : [[Matrice élémentaire]], [[Matrices semblables]], [[Pseudo-inverse]]
+
+Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 ## À revoir en priorité avant un examen
 
-Trois passages de tes notes semblent faux et touchent à des points de cours importants. Le détail est dans les résumés.
-
-- [[2 - Symmetric matrices and quadratic forms]] : « negative definite » est défini avec $Q(\mathbf{x}) > 0$.
-- [[0 - Eigenvalues and eigenvectors]] : une forme échelonnée ne donne pas les valeurs propres, contrairement à ta note.
-- [[1 - Orthogonality]] : le projeté de $\mathbf{b}$ sur Col $A$ est $A\hat{\mathbf{x}}$, pas $\hat{\mathbf{x}}$.
+- [[2 - Symmetric matrices and quadratic forms]] : « negative definite » se définit par $Q(\mathbf{x}) < 0$ pour tout $\mathbf{x} \neq \mathbf{0}$.
+- [[0 - Eigenvalues and eigenvectors]] : la réduction par lignes change les valeurs propres : seule une matrice déjà triangulaire les porte sur sa diagonale.
+- [[1 - Orthogonality]] : le projeté de $\mathbf{b}$ sur Col $A$ est $A\hat{\mathbf{x}}$, et $\hat{\mathbf{x}}$ la solution des moindres carrés.
 
 ## Liens avec les autres matières
 

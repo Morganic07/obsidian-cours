@@ -36,12 +36,8 @@ Le [[Produit national brut|PNB]] (aujourd'hui revenu national brut) compte la pr
 
 ## Dans le cours
 
-D'après la note de [[1 - gestion financière|Gestion financière]], le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France, le PNB seulement les entreprises françaises en France (définition inexacte : voir « Erreurs du cours »).
+D'après la note de [[1 - gestion financière|Gestion financière]], le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France ; le PNB compte les entreprises françaises, en France et à l'étranger. [[Erreurs du cours#^e-produit-interieur-brut|✎]]
 
 Voir aussi : [[Tableau économique d'ensemble]], [[Produit national brut]], [[Valeur ajoutée]].
-
-## Erreurs du cours
-
-- [[Raw/Year 4/Gestion financière.docx|Gestion financière]] écrit « PNB juste les entreprises francaises sur le sol francais » ; il faut « production des résidents (unités françaises), en France et à l'étranger ». Le PIB compte la production réalisée sur le territoire, quelle que soit la nationalité ; le PNB (aujourd'hui RNB) y ajoute la production des résidents à l'étranger et en retire celle des non-résidents en France.
 
 Résumés : [[1 - gestion financière]]

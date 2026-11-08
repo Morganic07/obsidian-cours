@@ -2,7 +2,7 @@
 type: matiere
 tags: [year4]
 sources: ["[[Raw/Year 4/management de l'innovationb/innovations - Morgane Pina .docx|Douze innovations]]", "[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]"]
-maj: 2026-11-06
+maj: 2026-11-08
 ---
 
 Management de l'innovation en 4e année. Les deux devoirs rendus (douze innovations, analyse d'innovations) n'ont plus de résumé : ils restent liés dans `sources`, et les concepts qu'ils illustrent renvoient à leur document.
@@ -17,6 +17,9 @@ Management de l'innovation en 4e année. Les deux devoirs rendus (douze innovati
 
 - **Typologie et exemples d'innovations** : [[Typologie des innovations]], [[Innovation de rupture]], [[Servitisation]], [[Entreprise sans usine]], [[Buy now pay later]], [[Financement participatif]], [[Git]], [[Copyleft]]
 - **Management de la valeur** : [[Grille du management de la valeur]], [[Value(s) Design]], [[Analyse fonctionnelle]], [[Partie prenante]], [[Cycle de vie d'un produit]]
+- **Ajoutés par l'enrichissement** : [[Innovation ouverte]], [[Effet rebond]], [[Analyse du cycle de vie]]
+
+La fiche est enrichie de compléments hors du cours (passages marqués ⓘ).
 
 ## Liens
 

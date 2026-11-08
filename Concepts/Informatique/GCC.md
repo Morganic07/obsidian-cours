@@ -15,6 +15,14 @@ Nommé dans le TP Processes sans définition : les labs 1 à 3 demandent de comp
 
 En C++ ([[4 - Prise de note]]) : on compile avec `g++ monprog.cpp -o monprog -Wall`, puis on lance `./monprog`. `g++` compile aussi des fichiers `.c`.
 
+## Compléments (hors du cours)
+
+- **Sans `-o`**, l'exécutable s'appelle `a.out` : `g++ monprog.cpp` puis `./a.out`.
+- **`-Wall`** active la plupart des avertissements (variable non initialisée ou inutilisée, comparaison douteuse…). Un avertissement ne bloque pas la compilation, contrairement à une [[Erreur de compilation|erreur]] ; `-Wextra` en ajoute d'autres, `-Werror` les change en erreurs.
+- **`-std=c++17`** ou **`-std=c++20`** choisit la version de la norme du langage.
+- **`gcc` et `g++`** : `gcc` compile un fichier `.c` comme du C ; `g++` traite un fichier `.c` comme du C++ et lie la bibliothèque standard C++. Un programme C valide peut donc échouer avec `g++` : par exemple s'il nomme une variable `class` ou `new`, mots réservés en C++, ou s'il affecte un `void *` (retour de `malloc`) à un pointeur typé sans conversion.
+- Une seule commande enchaîne préprocesseur, compilation, assemblage et édition de liens : voir [[Chaîne de compilation]]. `-c` s'arrête avant l'édition de liens et produit un fichier objet `.o`.
+
 Voir aussi : [[Création et terminaison de processus]], [[Langage C++]].
 
 Résumés : [[1 - basiques]], [[4 - Prise de note]]

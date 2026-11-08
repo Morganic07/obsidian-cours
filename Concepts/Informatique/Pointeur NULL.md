@@ -5,12 +5,23 @@ tags:
 aliases:
   - pointeur nul
   - "NULL"
+  - nullptr
+  - null pointer
 matieres:
   - C++
 sources:
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-maj: 2026-11-06
+  - "[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+maj: 2026-11-08
 ---
+
+**Définition (complément, hors du cours)** : `NULL` est une valeur de pointeur qui ne désigne **aucun objet**. Déréférencer un pointeur nul (`*p` ou `p->champ` avec `p == NULL`) est un **comportement indéfini** ; en pratique, le programme s'arrête sur une [[Erreur de segmentation]].
+
+- `malloc` renvoie `NULL` quand l'allocation échoue : on teste le résultat avant de s'en servir (`if (p == NULL) { ... }`) ; voir [[Allocation dynamique]].
+- Bonne pratique : **initialiser** un pointeur à `NULL` quand on n'a pas encore d'adresse à lui donner, et **l'y remettre après `free`** (`free(p); p = NULL;`). Un pointeur qui garde l'adresse d'une zone libérée est un pointeur pendant (*dangling pointer*) ; remis à `NULL`, il devient détectable par un test.
+- En C++ moderne (depuis C++11), on écrit **`nullptr`** : il a son propre type (`std::nullptr_t`) et ne se confond pas avec l'entier `0`, alors que `NULL` est une macro qui vaut `0` ou équivalent, ce qui peut tromper la surcharge de fonctions (`f(NULL)` peut appeler `f(int)` plutôt que `f(char*)`).
+
+## Dans le cours
 
 Dans une [[Liste chaînée]], le pointeur du dernier élément contient `NULL`, et une liste vide a son premier pointeur à `NULL`. Le cours recommande de vérifier qu'un pointeur n'est pas `NULL` avant d'y accéder.
 

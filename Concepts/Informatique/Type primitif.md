@@ -34,14 +34,10 @@ Types élémentaires fournis par le langage, par opposition aux types structuré
 
 **Java** : `byte` 8 bits, `short` 16, `int` 32, `long` 64, `float` 32, `double` 64, `char` 16 (Unicode), `boolean`. À côté, les types objets (classes, interfaces) et `void`. Hiérarchie des numériques de `double` à `int`, puis `short`, `char`, `byte`.
 
-**C** (C++) : `void` (type vide, pour les fonctions sans argument ou sans retour), `int` (qualificatifs `short`, `long`, `signed` par défaut, `unsigned`), `char` (support du [[Code ASCII]], aussi entier sur 8 bits), `float`, `double` et `long double` (précision croissante). `char` occupe 1 octet, `int` en général 4, `double` en général 8. En C, `char` est un entier : `c = 65` et `c = 'A'` sont identiques.
+**C** (C++) : `void` (type vide, pour les fonctions sans argument ou sans retour), `int` (qualificatifs `short`, `long`, `signed` par défaut, `unsigned`), `char` (support du [[Code ASCII]], aussi entier sur 8 bits), `float`, `double` et `long double` (précision croissante). `char` occupe 1 octet, `int` en général 4 (y compris sur les systèmes 64 bits courants, modèles LP64 de Linux et macOS et LLP64 de Windows, où ce sont les pointeurs, et `long` en LP64, qui passent à 8), `double` en général 8. [[Erreurs du cours#^e-type-primitif|✎]] En C, `char` est un entier : `c = 65` et `c = 'A'` sont identiques.
 
 **C++** ([[4 - C++]]) : `int` (entier), `double` (décimal), `char` (un seul caractère), `bool` (vrai / faux, `true` / `false`) et `std::string` (chaîne de caractères, en fait une classe de la bibliothèque standard). Le cours précise : « identique au C ».
 
 Notion parente : [[Pseudo-code]]. Voir aussi : [[Chaîne de caractères]], [[Nombre à virgule flottante]], [[Structure (struct)]], [[Typage dynamique]], [[Typage statique]], [[Transtypage]], [[Variable (programmation)]], [[Complément à deux]], [[Norme IEEE 754]].
-
-## Erreurs du cours
-
-- [[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]] écrit « Taille d'un entier […] Sur système 64 bits : 8 octets » ; il faut « en général 4 octets », comme le dit [[1 - basiques|Chp1 - basiques]] : sur les systèmes 64 bits courants, `int` reste sur 4 octets, ce sont les adresses qui passent à 8. Le schéma du même cours espace d'ailleurs les cases de 4 en 4.
 
 Résumés : [[0 - diapo prof]], [[1 - Intro Java]], [[1 - basiques]], [[4 - C++]]

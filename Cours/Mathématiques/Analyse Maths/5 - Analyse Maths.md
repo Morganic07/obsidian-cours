@@ -4,11 +4,12 @@ tags:
   - year1
 sources:
   - "[[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]]"
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]] (chapitre 5, « Analyse asymptotique »), dans [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]]. En cas d'écart, le cours et ses images font foi. Les images de la note ne contiennent que des énoncés et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
+Résumé de [[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]] (chapitre 5, « Analyse asymptotique »), dans [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]]. Les images de la note ne contiennent que des énoncés et des formules : leur contenu est recopié ci-dessous, sans les intégrer.
 
 Dans cette note, plusieurs formules en image sont décalées par rapport au texte qu'elles complètent, par exemple « Alors : » après sa formule. C'est un effet de la mise en page d'origine ; la fiche remet chaque formule à sa place.
 
@@ -28,6 +29,10 @@ Remarques du cours :
 - une suite qui converge vers 0 est bornée, donc $u_n = o(v_n) \Rightarrow u_n = O(v_n)$ ;
 - le signe « = » de ces notations ne se lit que de gauche à droite : $o(x) = o(y)$ ne permet pas d'écrire $o(y) = o(x)$ (le cours note « o(x) = o(y) ≠ o(y) = o(x) »).
 
+Exemples : $3n^2 + 5n = O(n^2)$ (le quotient par $n^2$ tend vers 3, il est donc borné) ; $5n = o(n^2)$ ; $(-1)^n = O(1)$ mais n'est pas un $o(1)$. Pour le sens unique du « = » : $o(n^2) = o(n^3)$ est vrai (une suite négligeable devant $n^2$ l'est aussi devant $n^3$), mais $o(n^3) = o(n^2)$ est faux ($n^{5/2}$ est un $o(n^3)$ sans être un $o(n^2)$) ; $o(n^2)$ désigne « une suite négligeable devant $n^2$ », pas une suite précise. Ces notations sont dites **notations de Landau**. [[Complément hors du cours|ⓘ]]
+
+En informatique, la même notation $O$ mesure la [[Complexité algorithmique|complexité des algorithmes]] : une recherche dichotomique est en $O(\log n)$, un tri par fusion en $O(n \log n)$, et la hiérarchie des croissances comparées ci-dessous dit quels algorithmes deviennent inutilisables quand $n$ grandit. [[Complément hors du cours|ⓘ]]
+
 **Propriété (addition et multiplication)**. Soient $(u_n), (v_n), (w_n), (t_n)$ quatre suites, $(w_n)$ et $(t_n)$ ne s'annulant pas à partir d'un certain rang, et $(\lambda, \mu) \in \mathbb{K}^2$.
 
 1. Si $u_n = O(w_n)$ et $v_n = O(w_n)$, alors $\lambda u_n + \mu v_n = O(w_n)$. Si $u_n = o(w_n)$ et $v_n = o(w_n)$, alors $\lambda u_n + \mu v_n = o(w_n)$.
@@ -45,6 +50,8 @@ $$q^{-n} = o\!\left(\frac{1}{n^\alpha}\right),\quad \frac{1}{n^\alpha} = o(\ln^\
 En notant $u_n \ll v_n$ pour $u_n = o(v_n)$, quand $n \to +\infty$ :
 
 $$\frac{1}{n!} \ll q^{-n} \ll \frac{1}{n^\alpha} \ll \ln^\beta n \ll n^\alpha \ll q^n \ll n! \ll n^n.$$
+
+Pour retenir : à l'infini, les factorielles l'emportent sur les exponentielles, qui l'emportent sur les puissances, qui l'emportent sur les logarithmes. Exemple d'usage : $\frac{n^{10}}{2^n} \to 0$, car $n^{10} = o(2^n)$. [[Complément hors du cours|ⓘ]]
 
 ## 2. Suites : équivalents
 
@@ -72,6 +79,13 @@ $$\frac{1}{n!} \ll q^{-n} \ll \frac{1}{n^\alpha} \ll \ln^\beta n \ll n^\alpha \l
 - on ne peut ni ajouter ni soustraire des équivalents ;
 - on ne compose pas les équivalents : $u_n \sim v_n$ n'entraîne pas forcément $f(u_n) \sim f(v_n)$ ;
 - pour élever un équivalent à une puissance, l'exposant doit être constant (pas dépendre de $n$).
+
+Contre-exemples qui justifient ces pièges : [[Complément hors du cours|ⓘ]]
+- **somme** : $n + 1 \sim n$ et $-n \sim -n$, mais la somme $1$ n'est pas équivalente à $0$ (aucune suite n'est équivalente à 0, sauf la suite nulle à partir d'un rang) ; [[Complément hors du cours|ⓘ]]
+- **composition** : $n + 1 \sim n$, mais $e^{n+1} = e \cdot e^n$ n'est pas équivalent à $e^n$ ; [[Complément hors du cours|ⓘ]]
+- **exposant variable** : $1 + \frac{1}{n} \sim 1$, mais $\left(1 + \frac{1}{n}\right)^n \to e$, alors que $1^n = 1$. [[Complément hors du cours|ⓘ]]
+
+Équivalent célèbre, la [[Formule de Stirling|formule de Stirling]] : $n! \sim \sqrt{2\pi n}\left(\dfrac{n}{e}\right)^n$. Elle précise la place de $n!$ entre $q^n$ et $n^n$ dans l'échelle ci-dessus, et sert à estimer des coefficients binomiaux et des probabilités en dénombrement. [[Complément hors du cours|ⓘ]]
 
 **Propriété (même signe et même [[Limite et continuité|limite]])**. Si $u_n \sim v_n$ :
 
@@ -131,6 +145,8 @@ Un polynôme est équivalent à son terme de plus haut degré en $+\infty$, à s
 | $(1 + x)^\alpha - 1 \sim \alpha x$, $\alpha \in \mathbb{R}^*$ | |
 | $1 - \cos x \sim \dfrac{x^2}{2}$ | $1 - \operatorname{ch} x \sim -\dfrac{x^2}{2}$ |
 
+La plupart de ces équivalents viennent de la remarque sur la dérivée ci-dessus : par exemple $\sin x - \sin 0 \sim \sin'(0)\,x = x$, et $\ln(1 + x) \sim \frac{1}{1 + 0}\,x = x$. Ils servent à calculer des limites : $\lim_{x \to 0} \frac{\ln(1 + 3x)}{\sin(2x)}$ se traite avec $\ln(1 + 3x) \sim 3x$ et $\sin(2x) \sim 2x$ (composition à droite par $x \mapsto 3x$ et $x \mapsto 2x$, voir ci-dessous), d'où un quotient équivalent à $\frac{3x}{2x} = \frac{3}{2}$, qui est la limite. [[Complément hors du cours|ⓘ]]
+
 **Propriété (composition à droite dans un équivalent)**. Soit $f \underset{a}{\sim} g$, avec $g$ qui ne s'annule pas au voisinage de $a$. Soit $\varphi$ une fonction telle que $\displaystyle\lim_{t \to b} \varphi(t) = a$, avec $b \in \mathbb{R} \cup \{\pm\infty\}$. Alors
 
 $$f \circ \varphi(t) \underset{b}{\sim} g \circ \varphi(t).$$
@@ -159,11 +175,9 @@ $$f(x) \underset{x \to a}{=} a_0 + a_1(x - a) + \cdots + a_n(x - a)^n + o\big((x
 
 Le polynôme $a_0 + \dots + a_n(x-a)^n$ est la **partie régulière** du DL.
 
-**Propriété (retour en 0)**. $f$ admet un $DL_n(a)$ si et seulement si $g : h \mapsto f(a + h)$ admet un $DL_n(0)$, et
+**Propriété (retour en 0)**. $f$ admet un $DL_n(a)$ si et seulement si $g : h \mapsto f(a + h)$ admet un $DL_n(0)$, et [[Erreurs du cours#^e-5-analyse-maths|✎]]
 
-$$f(x) \underset{x \to a}{=} \sum_{k=0}^{n} a_k (x - a)^k + o((x - a)^n) \iff g(h) = f(a + h) \underset{h \to 0}{=} \sum_{k=0}^{n} a_k h^k + o(h^k).$$
-
-Le cours écrit bien $o(h^k)$ ; il faut lire $o(h^n)$ (voir Erreurs du cours).
+$$f(x) \underset{x \to a}{=} \sum_{k=0}^{n} a_k (x - a)^k + o((x - a)^n) \iff g(h) = f(a + h) \underset{h \to 0}{=} \sum_{k=0}^{n} a_k h^k + o(h^n).$$
 
 ### Propriétés
 
@@ -204,6 +218,10 @@ Liens avec la régularité :
 - dérivabilité en $a$ $\iff$ existence d'un $DL_1(a)$ ;
 - classe $\mathcal{C}^n$ $\Rightarrow$ existence d'un $DL_n(a)$ (sans réciproque).
 
+Contre-exemple de la réciproque pour $n = 2$ : $f(x) = x^3 \sin\frac{1}{x}$ (et $f(0) = 0$) vérifie $f(x) = o(x^2)$, donc admet le $DL_2(0)$ $f(x) = 0 + 0x + 0x^2 + o(x^2)$, mais $f'$ n'est pas dérivable en 0, donc $f$ n'est pas deux fois dérivable en 0. [[Complément hors du cours|ⓘ]]
+
+La formule de Taylor-Young dit seulement que l'erreur est négligeable devant $(x - a)^n$, sans la chiffrer : c'est un résultat **local**. Pour majorer l'erreur sur tout un intervalle, on utilise la formule de Taylor-Lagrange ou celle avec reste intégral (voir [[Reste de Taylor]]). Le polynôme $\sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(x - a)^k$ s'appelle le **polynôme de Taylor** d'ordre $n$ de $f$ en $a$ ; pour $n = 1$, c'est l'équation de la tangente. [[Complément hors du cours|ⓘ]]
+
 ### Opérations sur les DL
 
 On suppose que $f$ et $g$ admettent des $DL_n(0)$ : $f(x) = P_n(x) + o(x^n)$ et $g(x) = Q_n(x) + o(x^n)$.
@@ -217,9 +235,14 @@ On suppose que $f$ et $g$ admettent des $DL_n(0)$ : $f(x) = P_n(x) + o(x^n)$ et 
 
 $$g \circ f(x) = T_n(Q_n \circ P_n)(x) + o(x^n).$$
 
+Exemples de calcul : [[Complément hors du cours|ⓘ]]
+- **produit** : $e^x \sin x = \left(1 + x + \frac{x^2}{2} + o(x^2)\right)\left(x - \frac{x^3}{6} + o(x^3)\right) = x + x^2 + \frac{x^3}{3} + o(x^3)$ (on développe et on ne garde que les termes de degré $\le 3$ : $\frac{x^3}{2} - \frac{x^3}{6} = \frac{x^3}{3}$) ; [[Complément hors du cours|ⓘ]]
+- **composition** : $e^{\sin x}$ à l'ordre 3, avec $u = \sin x = x - \frac{x^3}{6} + o(x^3) \to 0$ et $e^u = 1 + u + \frac{u^2}{2} + \frac{u^3}{6} + o(u^3)$ ; on obtient $u^2 = x^2 + o(x^3)$, $u^3 = x^3 + o(x^3)$, d'où $e^{\sin x} = 1 + x + \frac{x^2}{2} + 0 \cdot x^3 + o(x^3)$ (car $-\frac{1}{6} + \frac{1}{6} = 0$) ; [[Complément hors du cours|ⓘ]]
+- **limite** : $\lim_{x \to 0} \frac{\sin x - x}{x^3}$ ; le DL $\sin x - x = -\frac{x^3}{6} + o(x^3)$ donne un quotient égal à $-\frac{1}{6} + o(1)$, donc la limite vaut $-\frac{1}{6}$. C'est l'usage le plus fréquent des DL : lever une forme indéterminée là où les équivalents seuls échouent ($\sin x - x$ est une différence, qu'on ne peut pas traiter par équivalents). [[Complément hors du cours|ⓘ]]
+
 **Quotient**. Si $f$ et $g$ ont des $DL_n(0)$ et que $g$ a une limite non nulle en 0, alors $f/g$ admet un $DL_n(0)$.
 
-**Remarque (quotient quand $g \to 0$)**. Le quotient peut encore avoir un DL. Si $f$ et $g$ ont des DL de formes normalisées (le cours écrit $x^{n_1}$, $x^{n_2}$ en facteur ; voir Erreurs du cours)
+**Remarque (quotient quand $g \to 0$)**. Le quotient peut encore avoir un DL. Si $f$ et $g$ ont des DL de formes normalisées [[Erreurs du cours#^e-5-analyse-maths|✎]]
 
 $$f(x) = x^{p_1}\left(a_{p_1} + a_{p_1+1}x + \ldots + a_{n_1}x^{n_1 - p_1} + o(x^{n_1 - p_1})\right),$$
 $$g(x) = x^{p_2}\left(b_{p_2} + b_{p_2+1}x + \ldots + b_{n_2}x^{n_2 - p_2} + o(x^{n_2 - p_2})\right),$$
@@ -235,6 +258,8 @@ Comme $b_{p_2} \ne 0$, $h$ possède un DL (proposition précédente), de terme c
 **Définition**. Soit $f : I \to \mathbb{R}$ définie au voisinage de $\pm\infty$. $f$ possède un $DL_n(\pm\infty)$ si la fonction $g : u \mapsto f(1/u)$ possède un $DL_n(0)$.
 
 **Définition**. $f$ admet une [[Asymptote oblique]] en $\pm\infty$ s'il existe $(a, b) \in \mathbb{R}^2$ tel que $f(x) - ax - b \to 0$ en $\pm\infty$ ; la droite $y = ax + b$ est l'asymptote.
+
+**Méthode** : on cherche un [[Développement asymptotique|développement asymptotique]] $f(x) = ax + b + \frac{c}{x} + o\!\left(\frac{1}{x}\right)$ en factorisant par $x$ et en posant $u = \frac{1}{x} \to 0$. La droite $y = ax + b$ est l'asymptote, et le signe de $\frac{c}{x}$ (si $c \ne 0$) donne la position de la courbe par rapport à elle. Exemple : $f(x) = \sqrt{x^2 + x} = x\sqrt{1 + \frac{1}{x}} = x\left(1 + \frac{1}{2x} - \frac{1}{8x^2} + o\!\left(\frac{1}{x^2}\right)\right) = x + \frac{1}{2} - \frac{1}{8x} + o\!\left(\frac{1}{x}\right)$ en $+\infty$ : asymptote $y = x + \frac{1}{2}$, courbe en dessous. [[Complément hors du cours|ⓘ]]
 
 ## 6. Développements limités usuels (en 0)
 
@@ -254,7 +279,8 @@ $$\operatorname{Arctan} x = \sum_{k=0}^{n} (-1)^k \frac{x^{2k+1}}{2k+1} + o(x^{2
 
 $$\tan x = x + \frac{x^3}{3} + o(x^3)$$
 
-## Erreurs du cours
-
-- [[Raw/Year 1/Analyse Maths/Cours/chp5.docx|chp5 (Analyse)]], remarque sur le quotient quand $g \to 0$, écrit les formes normalisées $f(x) = x^{n_1}(a_{p_1} + \ldots)$ et $g(x) = x^{n_2}(b_{p_2} + \ldots)$ ; il faut $x^{p_1}$ et $x^{p_2}$ en facteur, puisque le quotient s'écrit ensuite $x^{p_1 - p_2}\,h(x)$ (forme reprise dans cette fiche).
-- Retour en 0 : le cours écrit $g(h) = \sum_{k=0}^{n} a_k h^k + o(h^k)$ ; il faut $o(h^n)$ ($k$ est l'indice muet de la somme).
+Autres DL usuels, déduits des précédents : [[Complément hors du cours|ⓘ]]
+- $\dfrac{1}{1 + x} = 1 - x + x^2 - \ldots + (-1)^n x^n + o(x^n)$ (remplacer $x$ par $-x$), dont la primitivation redonne le DL de $\ln(1 + x)$ ; [[Complément hors du cours|ⓘ]]
+- $\sqrt{1 + x} = 1 + \dfrac{x}{2} - \dfrac{x^2}{8} + o(x^2)$ (cas $\alpha = \frac{1}{2}$) ; [[Complément hors du cours|ⓘ]]
+- $\operatorname{ch} x = 1 + \dfrac{x^2}{2} + \dfrac{x^4}{24} + \ldots + \dfrac{x^{2n}}{(2n)!} + o(x^{2n})$ et $\operatorname{sh} x = x + \dfrac{x^3}{6} + \ldots + \dfrac{x^{2n+1}}{(2n+1)!} + o(x^{2n+1})$ : les mêmes que $\cos$ et $\sin$, sans l'alternance des signes ([[Fonctions hyperboliques]]) ; [[Complément hors du cours|ⓘ]]
+- $\tan x = x + \dfrac{x^3}{3} + \dfrac{2x^5}{15} + o(x^5)$ (quotient des DL de $\sin$ et $\cos$). [[Complément hors du cours|ⓘ]]

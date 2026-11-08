@@ -2,17 +2,19 @@
 type: source
 tags: [year2]
 sources: ["[[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]] (« Chapitre 2 : éléments de topologie dans Rn »), dans [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]]. En cas d'écart, le cours et ses images font foi.
-
+Résumé de [[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]] (« Chapitre 2 : éléments de topologie dans Rn »), dans [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]].
 ## Idée générale
 
 Une norme permet de mesurer des distances, donc de parler de points « proches ». Le chapitre en tire le vocabulaire utilisé ensuite pour les limites : boules, voisinages, ouverts, fermés, intérieur et adhérence.
 
 Plan annoncé en tête de chapitre : **topologie** (norme et distance, espace vectoriel normé, boule ouverte et fermée, ouvert, fermé et compact, intérieur et adhérent) et **suites** (convergence, [[Suite extraite|suites extraites]] et valeurs d'adhérence, [[Suite de Cauchy|suite de Cauchy]], espace complet et de Banach). La note ne traite que la partie topologie, sans les compacts.
+
+Pour la partie suites annoncée, l'essentiel tient en trois points. Une suite $(u_n)$ d'un EVN **converge** vers $l$ si $\|u_n - l\| \to 0$, c'est-à-dire $\forall \epsilon > 0,\ \exists N,\ \forall n \ge N,\ \|u_n - l\| < \epsilon$ ([[Convergence d'une suite]]) ; dans $\mathbb R^n$, cela revient à converger composante par composante, et le choix de la norme ne change rien (théorème 1 ci-dessous). Une **valeur d'adhérence** de $(u_n)$ est la limite d'une de ses [[Suite extraite|suites extraites]] ; toute suite bornée de $\mathbb R^n$ en possède au moins une ([[Théorème de Bolzano-Weierstrass]]). Enfin, $\mathbb R^n$ est **complet** : toute [[Suite de Cauchy|suite de Cauchy]] y converge, ce qui en fait un espace de Banach. [[Complément hors du cours|ⓘ]]
 
 ## 1. Normes et distances
 
@@ -34,6 +36,10 @@ $$\|x\|_1 = \sum_{i=1}^n |x_i|, \qquad \|x\|_2 = \sqrt{\sum_{i=1}^n x_i^2}, \qqu
 2. $\|\lambda x\|_1 = \sum |\lambda x_i| = |\lambda| \sum |x_i| = |\lambda|\,\|x\|_1$.
 3. $\|x + y\|_1 = \sum |x_i + y_i| \le \sum (|x_i| + |y_i|) = \|x\|_1 + \|y\|_1$.
 
+Pour $\|\cdot\|_\infty$, la preuve est la même : pour tout $i$, $|x_i + y_i| \le |x_i| + |y_i| \le \|x\|_\infty + \|y\|_\infty$, puis on passe au maximum sur $i$. [[Complément hors du cours|ⓘ]]
+
+Pour $\|\cdot\|_2$, seule l'inégalité triangulaire demande un argument : elle découle de l'[[Inégalité de Cauchy-Schwarz]] $\sum x_i y_i \le \|x\|_2\,\|y\|_2$, car $\|x + y\|_2^2 = \|x\|_2^2 + 2\sum x_i y_i + \|y\|_2^2 \le \|x\|_2^2 + 2\|x\|_2\|y\|_2 + \|y\|_2^2 = (\|x\|_2 + \|y\|_2)^2$. C'est l'**inégalité de Minkowski**. [[Complément hors du cours|ⓘ]]
+
 - **Remarque 3** : $\|\cdot\|_2$ est la **norme euclidienne**, généralisation à $n$ dimensions de la norme connue.
 - **Remarque 4** : si $E = \mathbb R$, les trois normes coïncident : $\|x\|_1 = \|x\|_2 = \|x\|_\infty = |x|$.
 - **Remarque 5** : en dimension 2, ces normes correspondent à des « tailles de vecteur » dans des situations différentes : la norme euclidienne mesure $\overrightarrow{AB}$ à vol d'oiseau, la norme 1 (**norme de Manhattan**) en suivant le quadrillage.
@@ -43,13 +49,20 @@ $$\|x\|_1 = \sum_{i=1}^n |x_i|, \qquad \|x\|_2 = \sqrt{\sum_{i=1}^n x_i^2}, \qqu
 
 **Propriétés des normes**
 - **Propriété 1 (positivité)** : $\forall x,\ \|x\| \ge 0$.
-- **Propriété 2** (telle qu'écrite) : pour la norme euclidienne, $\|x + y\| = \|x\| + \|y\| \iff x = \lambda y$ avec $\lambda \in \mathbb R$ (voir Erreurs du cours : il faut $\lambda \ge 0$).
+- **Propriété 2** : pour la norme euclidienne, $\|x + y\| = \|x\| + \|y\| \iff y = 0$ ou $x = \lambda y$ avec $\lambda \ge 0$ (pour $y = -x$ non nul, $0 \neq 2\|x\|$). [[Erreurs du cours#^e-2-elements-de-topologie-dans-rn|✎]]
 - **Propriété 3 (seconde inégalité triangulaire)** : $\forall x, y$, $\|x - y\| \ge \big|\,\|x\| - \|y\|\,\big|$.
+- Preuve de la propriété 3 : $\|x\| = \|(x - y) + y\| \le \|x - y\| + \|y\|$ donne $\|x\| - \|y\| \le \|x - y\|$ ; en échangeant $x$ et $y$, $\|y\| - \|x\| \le \|y - x\| = \|x - y\|$. Les deux ensemble donnent la valeur absolue. Conséquence : la norme est 1-[[Application lipschitzienne|lipschitzienne]], donc continue (chapitre 3). [[Complément hors du cours|ⓘ]]
 
 > **Définition 2 (normes équivalentes)** : deux normes $\|\cdot\|_a$ et $\|\cdot\|_b$ sur $E$ sont équivalentes si et seulement s'il existe $\alpha, \beta > 0$ tels que
 > $$\forall x \in E,\quad \alpha\|x\|_a \le \|x\|_b \le \beta\|x\|_a.$$
 
 > **Théorème 1 (équivalence des normes)** : si $E$ est de dimension finie, toutes les normes sur $E$ sont équivalentes.
+
+Pour les trois normes de $\mathbb R^n$, les constantes sont explicites : pour tout $x \in \mathbb R^n$, [[Complément hors du cours|ⓘ]]
+$$\|x\|_\infty \le \|x\|_2 \le \|x\|_1 \le \sqrt n\,\|x\|_2 \le n\,\|x\|_\infty.$$
+On les obtient en majorant chaque $|x_i|$ par $\|x\|_\infty$, et par Cauchy-Schwarz pour $\|x\|_1 = \sum 1 \cdot |x_i| \le \sqrt n\,\|x\|_2$. [[Complément hors du cours|ⓘ]]
+
+En dimension infinie, le théorème tombe. Sur l'espace des fonctions continues sur $[0,1]$, avec $\|f\|_\infty = \max |f|$ et $\|f\|_1 = \int_0^1 |f|$, la suite $f_n(x) = x^n$ vérifie $\|f_n\|_\infty = 1$ et $\|f_n\|_1 = \frac{1}{n+1} \to 0$ : aucune constante $\beta$ ne peut donner $\|f\|_\infty \le \beta\|f\|_1$. C'est pourquoi le cours précise « en dimension finie » dans les propriétés 8 et 14. [[Complément hors du cours|ⓘ]]
 
 > **Définition 3 (distance)** : soit $X$ un ensemble quelconque. $d : X \times X \to \mathbb R^+$ est une [[Distance|distance]] sur $X$ si et seulement si :
 > 1. $d(X, Y) = 0 \iff X = Y$ ;
@@ -64,6 +77,8 @@ $$\|x\|_1 = \sum_{i=1}^n |x_i|, \qquad \|x\|_2 = \sqrt{\sum_{i=1}^n x_i^2}, \qqu
 - dans $(\mathbb R^2, \|\cdot\|_2)$ : $d(X, Y) = \|X - Y\|_2 = \sqrt{(x_1 - y_1)^2 + (x_2 - y_2)^2}$ ;
 - sur un espace vectoriel quelconque, la **distance discrète** $d_0(X, Y) = 0$ si $X = Y$, $1$ si $X \neq Y$.
 
+La distance discrète ne vient d'aucune norme : elle viole la propriété 6, puisque pour $X \neq Y$, $d_0(2X, 2Y) = 1 \neq 2 = 2\,d_0(X, Y)$. Toute distance n'est donc pas de la forme $\|X - Y\|$. Pour elle, la boule $B(a, 1)$ se réduit à $\{a\}$ : toute partie est ouverte. [[Complément hors du cours|ⓘ]]
+
 ## 2. Boule ouverte, boule fermée et sphère
 
 > **Définition 4** : dans un EVN $(E, \|\cdot\|)$, pour $a \in E$ et $r > 0$ ([[Boule et voisinage]]) :
@@ -73,7 +88,7 @@ $$\|x\|_1 = \sum_{i=1}^n |x_i|, \qquad \|x\|_2 = \sqrt{\sum_{i=1}^n x_i^2}, \qqu
 >
 > On a $\overline B(a, r) = B(a, r) \cup S(a, r)$.
 
-- **Propriété 7** (telle qu'écrite) : $\forall r, r' > 0$, $r < r' \iff B(a, r) \subset B(a, r')$ et $r < r' \iff \overline B(a, r) \subset \overline B(a, r')$ (voir Erreurs du cours).
+- **Propriété 7** : $\forall r, r' > 0$, $r \le r' \iff B(a, r) \subset B(a, r')$ et $r \le r' \iff \overline B(a, r) \subset \overline B(a, r')$. [[Erreurs du cours#^e-2-elements-de-topologie-dans-rn|✎]]
 
 **La forme des boules dépend de l'espace et de la norme :**
 
@@ -90,7 +105,7 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
    La sphère est un **losange** centré en 0.
 
 ![[Chp 2 - éléments de topologie dans Rn - image48.png]]
-*Figure : boule fermée de la norme 1, losange plein de sommets $(\pm1, 0)$, $(0, \pm1)$, avec l'équation de chaque côté par quadrant (une étiquette erronée, voir Erreurs du cours).*
+*Figure : boule fermée de la norme 1, losange plein de sommets $(\pm1, 0)$, $(0, \pm1)$, avec l'équation de chaque côté par quadrant ; le côté du quadrant $x < 0,\ y > 0$ a pour équation $y = 1 + x$ (l'étiquette $y = x - 1$ de l'image est fausse).* [[Erreurs du cours#^e-2-elements-de-topologie-dans-rn|✎]]
 
 2. **Norme 2** : $\|X\|_2 = \sqrt{x^2 + y^2} = 1$ est un cercle de rayon 1 ; la boule fermée est un **disque**.
 
@@ -101,6 +116,10 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
 
 ![[Chp 2 - éléments de topologie dans Rn - image21.png]]
 *Figure : boule fermée de la norme $\infty$, carré plein $[-1,1]^2$.*
+
+Vérification : $\|X\|_\infty = \max(|x|, |y|) \le 1 \iff |x| \le 1$ et $|y| \le 1 \iff (x, y) \in [-1, 1]^2$. [[Complément hors du cours|ⓘ]]
+
+Les inégalités $\|X\|_\infty \le \|X\|_2 \le \|X\|_1$ se lisent sur les dessins : le losange (norme 1) est inscrit dans le disque (norme 2), lui-même inscrit dans le carré (norme $\infty$). Une norme plus grande donne une boule plus petite. [[Complément hors du cours|ⓘ]]
 
 ## 3. Voisinage
 
@@ -133,6 +152,7 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
 - **Propriété 14** : en dimension finie, être ouvert ne dépend pas de la norme.
 - **Propriété 15** : $\emptyset$ et $E$ sont des ouverts.
 - **Propriété 16** : une boule ouverte est un ouvert.
+- Preuve de la propriété 16 : soit $x \in B(a, r)$ et $\rho = r - \|x - a\| > 0$. Pour $y \in B(x, \rho)$, l'inégalité triangulaire donne $\|y - a\| \le \|y - x\| + \|x - a\| < \rho + \|x - a\| = r$, donc $B(x, \rho) \subset B(a, r)$. C'est exactement la remarque ci-dessus : le rayon $\rho$ rétrécit quand $x$ s'approche du bord. [[Complément hors du cours|ⓘ]]
 - **Propriété 17** : une union quelconque d'ouverts est un ouvert.
 - **Propriété 18** : toute intersection finie d'ouverts est un ouvert.
 - **Corollaire** : pour $a < b$, $]-\infty, b[$, $]a, b[$ et $]a, +\infty[$ sont des ouverts de $\mathbb R$.
@@ -144,6 +164,14 @@ b) Dans $\mathbb R^2$, boule fermée de centre $(0,0)$ et de rayon 1 :
 - **Propriété 21** : toute intersection de fermés est un fermé.
 - **Propriété 22** : toute union finie de fermés est un fermé.
 - **Corollaire** : pour $a < b$, $]-\infty, b]$, $[a, b]$ et $[a, +\infty[$ sont des fermés de $\mathbb R$.
+
+Les restrictions « finie » des propriétés 18 et 22 sont nécessaires, comme pour les voisinages : $\bigcap_{n \ge 1} \left]-\frac1n, \frac1n\right[ = \{0\}$ n'est pas ouvert, et $\bigcup_{n \ge 1} \left[\frac1n, 1\right] = \,]0, 1]$ n'est pas fermé. [[Complément hors du cours|ⓘ]]
+
+« Fermé » n'est pas le contraire d'« ouvert » : $[a, b[$ n'est ni ouvert (aucune boule centrée en $a$ n'y est contenue) ni fermé (son complémentaire n'est pas voisinage de $b$), et $\emptyset$, $E$ sont les deux à la fois. Dans $\mathbb R^n$, ce sont d'ailleurs les seules parties à la fois ouvertes et fermées. [[Complément hors du cours|ⓘ]]
+
+**Caractérisation séquentielle des fermés** : $F$ est fermé si et seulement si la limite de toute suite convergente d'éléments de $F$ est dans $F$. C'est souvent la façon la plus rapide de montrer qu'un ensemble est fermé ; par exemple, $]0, 1]$ n'est pas fermé car $\frac1n \to 0 \notin\, ]0, 1]$. [[Complément hors du cours|ⓘ]]
+
+**Parties bornées et compacts** (annoncés dans le plan, absents de la note). $A$ est **bornée** si elle est contenue dans une boule : $\exists M > 0,\ \forall x \in A,\ \|x\| \le M$ ; en dimension finie, cela ne dépend pas de la norme. $K$ est **compacte** si toute suite d'éléments de $K$ admet une suite extraite qui converge dans $K$ ([[Partie compacte]]). Dans $\mathbb R^n$, les compacts sont exactement les parties **fermées et bornées** : $[a, b]$, les boules fermées, les sphères, les pavés $[a_1, b_1] \times \cdots \times [a_n, b_n]$ ; en revanche $\mathbb R$ (non borné) et $]0, 1]$ (non fermé) ne sont pas compacts. Leur intérêt apparaît au chapitre 3 : une fonction continue sur un compact y atteint son minimum et son maximum. [[Complément hors du cours|ⓘ]]
 
 ## 5. Intérieur et adhérent
 
@@ -166,10 +194,18 @@ Intuitivement, $x \in \mathring A$ s'il y a de l'espace entre $x$ et le bord de 
 - **Propriété 28** : $\overline A$ est le plus petit fermé contenant $A$.
 - **Propriété 29** : (1) $A$ fermé $\iff \overline A = A$ ; (2) $\overline{\overline A} = \overline A$ ; (3) $A \subset B \Rightarrow \overline A \subset \overline B$.
 
+**Caractérisation séquentielle de l'adhérence** : $x \in \overline A$ si et seulement s'il existe une suite d'éléments de $A$ qui converge vers $x$. Dans un sens, on prend $u_n \in B(x, \frac1n) \cap A$ ; dans l'autre, une telle suite finit par entrer dans toute boule centrée en $x$. C'est la forme qu'on utilise au chapitre 3, où $a \in \overline A$ garantit qu'on peut s'approcher de $a$ en restant dans $A$. [[Complément hors du cours|ⓘ]]
+
+**Lien entre intérieur et adhérence par le complémentaire** : le complémentaire de l'adhérence est l'intérieur du complémentaire, $C_E \overline A = (C_E A)^\circ$, et $C_E \mathring A = \overline{C_E A}$. Ce sont les propriétés 24 et 28 traduites l'une dans l'autre, comme ouverts et fermés se répondent par la définition 8. [[Complément hors du cours|ⓘ]]
+
+**Exemples** : dans $\mathbb R$, l'adhérence de $]a,b[$, $[a,b[$, $]a,b]$ et $[a,b]$ est $[a,b]$ ; dans un EVN, l'adhérence de $B(a, r)$ est $\overline B(a, r)$. Cas extrême : comme $\mathbb Q$ et les irrationnels rencontrent tous deux tout intervalle ouvert non vide ([[Densité de ℚ dans ℝ]]), $\overline{\mathbb Q} = \mathbb R$ et $\mathring{\mathbb Q} = \emptyset$. On dit qu'une partie $A$ est **dense** dans $E$ quand $\overline A = E$. [[Complément hors du cours|ⓘ]]
+
 > **Définition 11 (frontière)** : la **frontière** de $A$, notée $Fr(A)$ ou $\partial A$, est
 > $$\partial A = \overline A \setminus \mathring A.$$
 
 - **Propriété 30** : (1) $\overline A = A \cup \partial A$ ; (2) $\mathring A = A \setminus \partial A$.
+
+Exemples de frontières : $\partial [a, b[\, = \{a, b\}$ dans $\mathbb R$, $\partial B(a, r) = \partial \overline B(a, r) = S(a, r)$ dans un EVN, et $\partial \mathbb Q = \mathbb R$ puisque $\overline{\mathbb Q} = \mathbb R$ et $\mathring{\mathbb Q} = \emptyset$. La frontière est toujours un fermé, et $x \in \partial A$ signifie que toute boule centrée en $x$ rencontre à la fois $A$ et son complémentaire. [[Complément hors du cours|ⓘ]]
 
 Un dessin du cours (non extractible) représente une partie $A$ : en bleu l'intérieur, en noir la frontière, et noir + bleu l'adhérence.
 
@@ -192,9 +228,3 @@ Un dessin du cours (non extractible) représente une partie $A$ : en bleu l'int�
 
    Alors pour tout $x \in B$, il existe $r > 0$ tel que $B(x, r) \subset A$ : $B \subset \mathring A$ ($B$ n'est pas trop grand).
 3. Vérifier que $B$ n'est pas trop petit ($\mathring A \subset B$) : pour tout $x \in A \setminus B$, $\forall r > 0,\ B(x, r) \not\subset A$. Si c'est le cas, $\mathring A = B$ ; sinon, $B$ est trop petit.
-
-## Erreurs du cours
-
-- [[Raw/Year 2/Analyse dans Rn/Chp 2 : éléments de topologie dans Rn.docx|Chp 2 - éléments de topologie dans Rn]], propriété 2, écrit $\|x + y\| = \|x\| + \|y\| \iff x = \lambda y$ avec $\lambda \in \mathbb{R}$ ; il faut $\lambda \ge 0$ : pour $y = -x$ non nul, $0 \neq 2\|x\|$.
-- Propriété 7 : le cours écrit $r < r' \iff B(a, r) \subset B(a, r')$ (et de même pour les boules fermées) ; il faut $r \le r'$ : pour $r = r'$, l'inclusion est vraie alors que $r < r'$ est faux.
-- La figure de la boule fermée pour $\|\cdot\|_1$ étiquette le côté du quadrant $x < 0,\ y > 0$ par $y = x - 1$ ; il faut $y = 1 + x$, comme dans le texte.

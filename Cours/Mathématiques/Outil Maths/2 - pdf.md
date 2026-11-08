@@ -2,13 +2,16 @@
 type: source
 tags: [year1]
 sources: ["[[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
+enrichi: 2026-11-08
 ---
 
 Résumé du support du professeur Chapitre 2 - Ensembles (PDF) ([[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]]) (26 diapositives, octobre 2023, Outils mathématiques, semestre 1), dans [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]]. C'est la version du professeur du cours déjà résumé dans [[2 - ensembles]] ; notions : [[Opérations sur les ensembles]], [[Logique propositionnelle]].
 
 Plan du support : 1. Introduction à la théorie des ensembles ; 2. Ensemble des parties d'un ensemble ; 3. Diagramme de Venn ; 4. Produits cartésiens.
+
+Les passages ajoutés finissent par ⓘ. Les compléments communs aux deux fiches sont développés dans [[2 - ensembles]]. [[Complément hors du cours|ⓘ]]
 
 ## 1. Introduction à la théorie des ensembles
 
@@ -52,12 +55,14 @@ Un élément peut appartenir à un ensemble mais pas y être inclus ; un ensembl
 
 **Remarque.** Si $E \subset F$, on dit que $E$ est une *partie* ou un *sous-ensemble* de $F$.
 
+Deux inclusions valent pour tout ensemble $E$ : $E \subset E$, et $\emptyset \subset E$. La seconde vient de ce que « $x \in \emptyset \Rightarrow x \in E$ » est toujours vraie, sa prémisse étant toujours fausse (voir l'[[Implication logique|implication]] dans [[1 - logique]]). [[Complément hors du cours|ⓘ]]
+
 ### Méthode : montrer une inclusion
 
 Pour montrer $E \subset F$, on écrit « sans réfléchir » : *Soit $x \in E$. Montrons que $x \in F$.*
 
 **Exemple.** Montrer que $\{x \in \mathbb{R} : \exists y \in \mathbb{R}_+,\ x \ge y\} \subset \mathbb{R}_+$.
-*Preuve :* soit $x \in \mathbb{R}$ ; on suppose qu'il existe $y \in \mathbb{R}_+$ avec $x \ge y$. Montrons que $x \in \mathbb{R}_+$. Or $y \ge 0$ par hypothèse et $x \ge y$, donc $x \ge 0$.
+*Preuve :* soit $x \in \mathbb{R}$ ; on suppose qu'il existe $y \in \mathbb{R}_+$ avec $x \ge y$. Montrons que $x \in \mathbb{R}_+$. Or $y \ge 0$ par hypothèse et $x \ge y$, donc $x \ge 0$. [[Erreurs du cours#^e-2-pdf|✎]]
 
 ### Partie, égalité, double inclusion
 
@@ -66,7 +71,7 @@ Pour montrer $E \subset F$, on écrit « sans réfléchir » : *Soit $x \in E$. 
 **Définition (égalité).** $E = F$ si tout élément de $E$ est élément de $F$ et réciproquement :
 $$(E = F) \iff (\forall x,\ x \in E \iff x \in F).$$
 
-**Proposition ([[Double inclusion]]).** $E = F$ si et seulement si $E \subset F$ et $F \subset E$ :
+**Proposition ([[Double inclusion]]).** $E = F$ si et seulement si $E \subset F$ et $F \subset E$ : [[Erreurs du cours#^e-2-pdf|✎]]
 $$(E = F) \iff (E \subset F \text{ et } F \subset E).$$
 
 **Méthode.**
@@ -76,6 +81,8 @@ $$(E = F) \iff (E \subset F \text{ et } F \subset E).$$
 **Exemple.** Si $E = \{1, 2, 3\}$ :
 $$\mathcal{P}(E) = \{\emptyset, \{1\}, \{2\}, \{3\}, \{1,2\}, \{1,3\}, \{2,3\}, E\}$$
 (8 parties). $x \in E \iff x = 1$ ou $x = 2$ ou $x = 3$ ; $A \in \mathcal{P}(E) \iff A \subset E \iff A = \emptyset$ ou $A = \{1\}$ ou…
+
+Pourquoi 8 : former une partie, c'est décider pour chaque élément s'il y entre ou non, soit deux choix par élément. Un ensemble à $n$ éléments a donc $2^n$ parties : $|\mathcal{P}(E)| = 2^{|E|}$ (ici $2^3 = 8$). [[Complément hors du cours|ⓘ]]
 
 ### Opérations sur les ensembles
 
@@ -107,6 +114,8 @@ $$(x \in A \setminus B) \iff (x \in A \text{ et } x \notin B).$$
 ![[Chapitre2-Ensemble - p16.jpg]]
 *Figure : $A \setminus B$, la partie de $A$ hors de $B$.*
 
+La différence n'est pas commutative : avec $A = \{1, 2\}$ et $B = \{2, 3\}$, $A \setminus B = \{1\}$ mais $B \setminus A = \{3\}$. Leur réunion $A \,\Delta\, B = (A \setminus B) \cup (B \setminus A)$, ici $\{1, 3\}$, est la [[Différence symétrique|différence symétrique]]. [[Complément hors du cours|ⓘ]]
+
 **Complémentaire.** Pour $A$ partie de $E$, le [[Complémentaire d'un ensemble|complémentaire]] de $A$ dans $E$ est $E \setminus A$, noté $\overline{A}$, $\complement_E(A)$ ou $A^c$ : l'ensemble des éléments de $E$ qui ne sont pas dans $A$.
 $$(x \in \overline{A}) \iff (x \notin A).$$
 
@@ -121,11 +130,13 @@ Soit $A, B \in \mathcal{P}(E)$.
 3. $A \cup \overline{A} = E$ ;
 4. $A \setminus B = A \cap \overline{B}$ ;
 5. $\overline{A \cap B} = \overline{A} \cup \overline{B}$ ;
-6. $\overline{A \cup B} = \overline{A} \cap \overline{B}$ (le support écrit $\overline{A} \cup \overline{B}$ : erreur, voir « Erreurs du cours ») ;
+6. $\overline{A \cup B} = \overline{A} \cap \overline{B}$ ; [[Erreurs du cours#^e-2-pdf|✎]]
 7. $\overline{\bigcap_{i \in I} A_i} = \bigcup_{i \in I} \overline{A_i}$ ;
 8. $\overline{\bigcup_{i \in I} A_i} = \bigcap_{i \in I} \overline{A_i}$.
 
 Les propriétés 5 à 8 sont les [[Lois de De Morgan]]. Si $A \cap B = \emptyset$, on dit que $A$ et $B$ sont **[[Ensembles disjoints|disjoints]]**.
+
+Pour retrouver la propriété 6 sans erreur, on la traduit en logique (tableau suivant) : $x \in \overline{A \cup B} \iff \neg(x \in A \vee x \in B) \iff (x \notin A) \wedge (x \notin B) \iff x \in \overline{A} \cap \overline{B}$. [[Complément hors du cours|ⓘ]]
 
 ### Lien entre logique et ensembles
 
@@ -143,6 +154,8 @@ Soit $E$ un ensemble et $(A_i)_{i \in I}$ une famille de parties de $E$. C'est u
 2. $\bigcup_{i \in I} A_i = E$ ;
 3. $\forall (i, j) \in I^2$, $i \neq j \Rightarrow A_i \cap A_j = \emptyset$.
 
+Chaque élément de $E$ est alors dans un et un seul $A_i$. Exemple : les pairs $2\mathbb{N}$ et les impairs $2\mathbb{N}+1$ forment une partition de $\mathbb{N}$. Les classes d'une [[Relation d'équivalence|relation d'équivalence]] (chapitre 3) en forment toujours une. [[Complément hors du cours|ⓘ]]
+
 ## 2. Ensemble des parties d'un ensemble
 
 On peut considérer une collection de sous-ensembles d'un ensemble. Exemple : pour $S = \mathbb{N}$, la collection des sous-ensembles de $\mathbb{N}$ ne contenant que des nombres pairs est bien définie ; c'est un ensemble dont les éléments sont des ensembles :
@@ -152,17 +165,34 @@ $$\mathcal{A} = \{A,\ A \subseteq \mathbb{N} ;\ \forall a \in A,\ a \text{ est p
 
 **Attention aux notations.** Si $A$ est un sous-ensemble de $\mathbb{N}$ ne contenant que des pairs, on écrit $A \subseteq \mathbb{N}$ mais $A \in \mathcal{A}$ : $A$ est un sous-ensemble de $\mathbb{N}$, mais un élément de $\mathcal{A}$.
 
+Toute collection n'est pas un ensemble : le [[Paradoxe de Russell|paradoxe de Russell]] (découvert par Bertrand Russell en 1901) montre que $R = \{x \mid x \notin x\}$ mène à une contradiction ($R \in R \iff R \notin R$). D'où la règle suivie par le support : une définition par compréhension prend ses éléments dans un ensemble $E$ déjà donné, $\{x \in E : P(x)\}$. [[Complément hors du cours|ⓘ]]
+
 ### Ensembles finis, cardinal
 
 **Définition.** $E$ est *fini* s'il est vide ou contient exactement $m$ éléments ($m \in \mathbb{N}$) ; sinon il est *infini*. Le nombre d'éléments d'un ensemble fini est son [[Cardinal d'un ensemble|cardinal]], noté $|E|$.
 - Si $A \cap B = \emptyset$ : $|A \cup B| = |A| + |B|$.
 - Sinon : $|A \cup B| = |A| + |B| - |A \cap B|$.
 
+On retranche $|A \cap B|$ parce que les éléments communs sont comptés deux fois dans $|A| + |B|$. Pour trois ensembles (formule du crible) : $|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cap C| - |B \cap C| + |A \cap B \cap C|$. Voir [[Cardinal d'un ensemble]]. [[Complément hors du cours|ⓘ]]
+
 ## 3. Diagramme de Venn
 
 **Définition.** Un diagramme de Venn est un schéma qui représente des relations logiques entre des ensembles et leurs éléments. On l'utilise en théorie des ensembles, logique, probabilités, informatique et statistiques.
 
 **Exemple.** $E = \{a, b, c, d, e, f, g, h, i, j, k, m, n\}$, $A = \{d, e, f, g, h, i, j\}$, $B = \{f, g, h, i, j, k, m, n\}$, $C = \{a, b, c, d, e, j, k, m, n\}$. Le support n'en donne pas le diagramme (la diapositive s'arrête à l'énoncé des ensembles).
+
+Lecture de l'exemple, zone par zone : [[Complément hors du cours|ⓘ]]
+
+| Zone du diagramme | Éléments |
+|---|---|
+| $A \cap B \cap C$ (centre) | $j$ |
+| $A \cap B$ seulement | $f, g, h, i$ |
+| $A \cap C$ seulement | $d, e$ |
+| $B \cap C$ seulement | $k, m, n$ |
+| $C$ seulement | $a, b, c$ |
+| $A$ seulement, $B$ seulement | aucun |
+
+On en déduit $A \cap B = \{f, g, h, i, j\}$, $A \cap C = \{d, e, j\}$, $B \cap C = \{j, k, m, n\}$, et $A \cup B \cup C = E$ : aucun élément de $E$ n'est hors des trois disques. Comme la zone « $A$ seulement » est vide, $A \subset B \cup C$. Vérification par la formule du crible : $7 + 8 + 9 - 5 - 3 - 4 + 1 = 13 = |E|$. [[Complément hors du cours|ⓘ]]
 
 ## 4. Produits cartésiens
 
@@ -174,9 +204,4 @@ $$\mathcal{A} = \{A,\ A \subseteq \mathbb{N} ;\ \forall a \in A,\ a \text{ est p
 $$A \times B = \{(a, b) \mid a \in A \text{ et } b \in B\}.$$
 La définition s'étend à un nombre fini d'ensembles. Exemple : $\mathbb{R} \times \mathbb{R} = \mathbb{R}^2$.
 
-## Erreurs du cours
-
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]], diapositive 18, écrit « $\overline{A \cup B} = \overline{A} \cup \overline{B}$ » (vérifié sur l'image) ; il faut « $\overline{A \cup B} = \overline{A} \cap \overline{B}$ ». Même erreur que dans [[2 - ensembles]] ; la propriété 8, sur les familles, est juste.
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]], diapositive 9, écrit « $(E = F) \Leftrightarrow (E \subset F$ et $F \subset F)$ » ; il faut « $E \subset F$ et $F \subset E$ ».
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]], diapositive 7, écrit « On suppose que $\exists y \in \mathbb{R}_+$ » ; il faut « $\exists y \in \mathbb{R}_+,\ x \ge y$ », condition que la preuve utilise ensuite.
-- [[Raw/Year 1/Outil Maths/Cours/pdf du prof/Chapitre2-Ensemble (4).pdf|Chapitre2-Ensemble (4).pdf]], diapositive 24, écrit « $B = \{, f, g, h, i, j, k, m, n\}$ », avec une virgule en tête : un élément manque ou la virgule est une coquille.
+Égalité de deux couples : $(a, b) = (c, d) \iff a = c$ et $b = d$. Donc $A \times B \neq B \times A$ en général, et si $A$ et $B$ sont finis, $|A \times B| = |A| \times |B|$ : $\{1, 2\} \times \{a, b, c\} = \{(1,a), (1,b), (1,c), (2,a), (2,b), (2,c)\}$ a $2 \times 3 = 6$ éléments. Si l'un des deux ensembles est vide, le produit est vide. [[Complément hors du cours|ⓘ]]
