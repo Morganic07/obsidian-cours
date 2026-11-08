@@ -4,7 +4,7 @@ tags:
   - year4
 sources:
   - "[[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]]"
-maj: 2026-11-07
+maj: 2026-11-08
 complet: true
 ---
 
@@ -24,9 +24,26 @@ Résumé de [[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]], dans [[
 
 Première proposition : comment garantir et maintenir le caractère libre, engagé et accessible de l'open design dans un contexte où les défis techniques, de financement et de pillage par l'IA s'intensifient ?
 
-**Problématique retenue** : à quelles conditions le design en libre accès peut-il faire vivre un véritable « commun » face aux défis de financement, d'ouverture de la communauté et de pillage par l'IA ?
+**Problématique retenue jusqu'ici, désormais marquée « à retirer »** : à quelles conditions le design en libre accès peut-il faire vivre un véritable « commun » face aux défis de financement, d'ouverture de la communauté et de pillage par l'IA ? Son explication (comment éviter que le projet du design gratuit sur internet ne s'effondre dans la réalité ?) est retirée avec elle.
 
-Explication du groupe : comment éviter que le projet du design gratuit sur internet ne s'effondre dans la réalité ? L'idéal d'un [[Communs numériques|commun numérique]] (typographies, 3D, code source… entièrement ouverts, personnalisables et réutilisables sans condition) se heurte à **trois murs** :
+Deux nouvelles propositions du groupe :
+
+1. Comment les projets d'open design peuvent-ils concilier l'ouverture des ressources avec les contraintes techniques, économiques et les usages de l'IA ?
+2. Dans quelle mesure les contraintes techniques, économiques et les usages de l'IA influencent-ils le développement des projets d'open design ?
+
+Le groupe juge plus pertinent d'intégrer la notion d'[[Intérêt général|intérêt général]] dans une courte introduction, avec l'exemple de CocoMaterial.
+
+### Définitions proposées par le groupe
+
+- **Intérêt général** : ce qui répond à des besoins collectifs et contribue au fonctionnement ou au bien-être de la société dans son ensemble. Dans le design libre, il peut se traduire par la mise à disposition de ressources qui permettent à différents acteurs d'accéder à des outils de création, de les adapter et de les réutiliser, indépendamment de leurs moyens financiers.
+  - Lien avec le sujet : il explique pourquoi certains collectifs partagent leurs créations plutôt que de les réserver à un usage commercial exclusif.
+  - Exemple : **CocoMaterial**, qui met à disposition des illustrations inclusives destinées notamment aux organisations qui n'ont pas les moyens de financer des créations graphiques spécifiques.
+  - Attention : intérêt général et [[Communs numériques|commun]] ne sont pas synonymes. L'intérêt général est une finalité collective ; le commun implique en plus des pratiques de partage, de participation et de gouvernance.
+- **[[Open design]]** : approche du design dans laquelle les créations, les fichiers sources, les méthodes ou les ressources sont mis à disposition sous des conditions qui permettent leur consultation, leur utilisation, leur modification et leur redistribution.
+
+### Les trois murs
+
+L'idéal d'un [[Communs numériques|commun numérique]] (typographies, 3D, code source… entièrement ouverts, personnalisables et réutilisables sans condition) se heurte à **trois murs** :
 
 | Mur | Question posée |
 |---|---|
@@ -36,8 +53,7 @@ Explication du groupe : comment éviter que le projet du design gratuit sur inte
 
 ## Consignes de travail sur le plan
 
-- définir l'[[Intérêt général]] ;
-- définir l'open design ;
+- définir l'[[Intérêt général]] et l'open design (consignes toujours dans la liste, mais les deux définitions sont désormais proposées, voir plus haut) ;
 - ajouter des verbatims (voir [[Analyse thématique d'entretien]]) ;
 - centrer la partie 4 et certaines sous-parties sur le design libre et en commun ;
 - ne garder que deux ouvertures, formulées en questions ;
@@ -84,12 +100,30 @@ Retour d'un enseignant noté par le groupe : la partie insiste trop sur le freem
 
 ### 4) La vulnérabilité des communs numériques face à l'IA et aux entreprises
 
+Titre marqué « à préciser ». Proposition de titre : *Les limites de la réutilisation des créations en open design à l'ère de l'IA*.
+
+Le groupe juge l'exemple Docker / ChatGPT / mathématiciens pas assez lié au design ni à l'open design. Exemples potentiels à étudier :
+
+- **Poly Haven** : les modalités de partage, de financement et de réutilisation des ressources 3D.
+- **Velvetyne** : les conditions de réutilisation des typographies, et la façon dont les licences OFL encadrent leur usage, y compris dans les outils de génération graphique par IA.
+- **LAION-5B** : l'utilisation massive d'images collectées sur internet pour entraîner des modèles génératifs. D'après la note, c'est un jeu de données multimodal publié en 2022 par LAION pour la recherche en IA, d'environ **5,85 milliards de paires image-texte** filtrées à l'aide de CLIP ; il a rendu l'entraînement et l'étude de modèles vision-langage à très grande échelle beaucoup plus accessibles à la recherche ouverte. Précaution notée par le groupe : distinguer les images sous licence libre des autres, et ne pas présenter toutes ces images comme des ressources d'open design. Question soulevée : un designer qui partage une création dans une logique de commun peut-il anticiper et contrôler sa réutilisation dans l'entraînement d'une IA ?
+
 *Angle choisi : la faille des licences.*
 
-1. **Des licences libres obsolètes face à l'aspiration industrielle**
-   - Le cas **Docker** : au milieu des années 2010, Docker dominait la conteneurisation des applications. Pour gérer des milliers de conteneurs à l'échelle industrielle, il fallait un orchestrateur : Docker a sorti Docker Swarm. Pendant ce temps, selon la note, Google a créé Kubernetes « sur le code source de Docker ». Piste alternative envisagée puis rayée : ChatGPT aurait repris le travail de mathématiciens pour résoudre un problème du millénaire. Le groupe note : « apparemment pas pertinent ».
+1. **Des licences libres obsolètes face à l'aspiration industrielle** (titre proposé à la place : *Les licences libres face à la réutilisation des créations par l'IA*)
+   - Le cas **Docker** : au milieu des années 2010, Docker dominait la conteneurisation des applications. Pour gérer des milliers de conteneurs à l'échelle industrielle, il fallait un orchestrateur : Docker a sorti Docker Swarm. Pendant ce temps, selon la note, Google a créé Kubernetes « sur le code source de Docker ». Piste alternative : ChatGPT aurait repris le travail de mathématiciens pour résoudre un problème du millénaire. Le groupe note « apparemment pas pertinent », puis précise pour ce passage Docker / ChatGPT : ne pas forcément le supprimer, mais le garder en complément, sans tout centrer dessus.
    - Les licences libres (OFL, CC0, MIT) ont été conçues pour le partage horizontal entre humains, pas pour le pillage par des machines.
    - L'[[IA générative]] commerciale se sert du design en commun comme d'une pépinière de recherche gratuite, ingérant le travail des designers sans redistribution ni protection. N'importe qui peut entraîner sa propre IA avec des communs numériques sans faire attention à la licence, puis publier son modèle sur **Hugging Face**.
+   - Rédaction proposée pour cette sous-partie :
+     - les [[Licences libres|licences libres]] ([[Creative Commons]], OFL, CC0…) autorisent différentes formes de réutilisation, chacune sous ses conditions ; conçues pour encadrer le partage et la réutilisation des créations, leur application aux usages de l'IA soulève de nouvelles questions ;
+     - créations graphiques, illustrations, typographies et autres ressources partagées peuvent être intégrées à des jeux de données d'entraînement de modèles d'IA ;
+     - se posent alors la reconnaissance des créateurs et la redistribution de la valeur produite ;
+     - enjeu : les conditions qui permettent le partage des créations permettent-elles aussi aux contributeurs de maîtriser les usages qui en sont faits ? (exemple envisagé : ArtCraft).
+   - **Sous-partie possible** : le décalage entre les objectifs des communautés de design libre et les usages commerciaux de leurs productions.
+     - Les designers partagent leurs créations pour que d'autres les utilisent, les modifient et contribuent à leur amélioration ; des entreprises peuvent aussi exploiter ces ressources pour des produits ou services commerciaux.
+     - Avec l'IA générative, les créations deviennent des données d'entraînement pour des modèles qui génèrent ensuite de nouvelles images ou propositions graphiques (LAION-5B comme exemple potentiel) : cela pose la question de la rémunération, de la reconnaissance et de la place des contributeurs initiaux.
+     - Enjeu : comment les communautés de design libre peuvent-elles se positionner face à des acteurs qui utilisent leurs productions dans des logiques économiques différentes des leurs ?
+   - Mention à la suite : « CC signals initiative de l'organisation » (les *CC signals* sont une initiative de Creative Commons).
 2. **Une immunité inégale selon la nature du design**
    - Secteurs en danger : les communs purement esthétiques sont des proies faciles, précarisées par l'IA probabiliste.
    - Secteurs protégés, l'immunité par la complexité (l'exception **OpenFisca**) : le [[Design des règles|design des règles]] ou l'architecture d'information d'État est protégé par sa propre aridité. L'État ne pouvant tolérer qu'une IA « hallucine » un impôt (voir [[Hallucination (IA)]]), le déterminisme strict du code d'OpenFisca le sauve du remplacement direct.
@@ -102,6 +136,13 @@ Le groupe veut en réunir deux et n'en garder que deux au final.
 - **Et l'écologie ?** Héberger des bibliothèques mondiales de textures 8K, synchroniser des forges collaboratives et alimenter les serveurs des modèles d'IA exige une infrastructure physique (data centers) très lourde. Les communs numériques peuvent-ils être qualifiés de « bien commun » s'ils participent à l'épuisement des ressources communes de la planète (terres rares, eau, énergie) ? Voir [[Consommation énergétique de l'IA]].
 - **Faut-il fermer le libre pour le sauver ?** Face au pillage par les algorithmes, des collectifs imaginent des licences restrictives, dites « anti-IA » ou « éthiques » (voir [[Licence anti-IA]]). Mais restreindre les droits d'utilisation détruit le principe fondateur du logiciel libre (liberté d'usage absolue, pour tous, sans discrimination). Le design en commun ne peut-il survivre qu'en devenant exclusif et fermé ?
 - **Fuite inévitable vers le propriétaire** : la précarité financière oblige des collectifs comme Poly Haven à séquestrer temporairement leurs œuvres (Vault). Les talents majeurs de l'open source finissent souvent recrutés ou absorbés par les géants de la tech (Adobe, Figma, Google). Le design en commun n'est-il qu'un incubateur de talents non rémunéré, un terrain de repérage gratuit pour les monopoles propriétaires ?
+
+**Ouverture fusionnée** (réunit « Faut-il fermer le libre pour le sauver ? » et « Fuite inévitable vers le propriétaire ») : **le design libre peut-il survivre sans renoncer à son ouverture ?**
+
+- Face à l'exploitation des créations par les algorithmes et aux difficultés de financement, les collectifs de design libre sont pris dans une contradiction : préserver le caractère ouvert de leurs productions tout en protégeant leur travail et en assurant leur pérennité.
+- D'un côté, certains envisagent des licences restrictives, notamment contre l'usage de leurs créations par les entreprises d'IA ; mais restreindre la réutilisation remet en question l'universalité du partage, principe fondateur du libre.
+- De l'autre, la précarité économique peut conduire les collectifs à limiter temporairement l'accès à leurs productions (le Vault de Poly Haven) ou à rejoindre des entreprises propriétaires qui leur offrent une stabilité financière.
+- Question finale : le design en commun peut-il préserver son ouverture sans devenir économiquement dépendant des acteurs dont il cherche à se distinguer ?
 
 ## Trame imposée du dossier
 
@@ -122,5 +163,6 @@ Gabarit de rendu recopié dans la note :
 
 ## Points à signaler
 
-- L'exemple Docker est décrit par le groupe comme possible hors sujet (« apparemment pas pertinent ») ; l'affirmation que ChatGPT a repris le travail de mathématiciens pour un problème du millénaire est rayée du plan et non vérifiée.
+- L'exemple Docker / ChatGPT est jugé par le groupe pas assez lié à l'open design, à garder seulement en complément ; l'affirmation que ChatGPT a repris le travail de mathématiciens pour un problème du millénaire n'est pas sourcée dans la note.
+- Les chiffres de LAION-5B (2022, environ 5,85 milliards de paires image-texte) sont ceux de la note, sans source citée.
 - Le plan détaillé compte quatre parties alors que le gabarit en demande trois.

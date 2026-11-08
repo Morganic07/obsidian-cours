@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-07 : 1 274 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont.
+État au 2026-11-08 : 1 294 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]).
 
-## Concepts (1274)
+## Concepts (1294)
 
 ### Systèmes et vecteurs
 
@@ -1341,7 +1341,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Erreur de segmentation]] : nommé dans le cours, sans définition
 - [[Fonctions printf et scanf]] : printf affiche, scanf lit, avec des séquences de contrôle commençant par %
 - [[Instruction vide]] : un ; juste après if ou while termine l'instruction, piège classique du cours
-- [[Langage C]] : objet réel des trois chapitres de la matière C++, mots réservés, printf, scanf et malloc
+- [[Langage C]] : objet réel des trois premiers chapitres de la matière C++, mots réservés, printf, scanf et malloc
 - [[Mot réservé]] : mots prédéfinis du C, qu'on ne peut pas réutiliser comme identifiants
 - [[Norme IEEE 754]] : norme appliquée pour lire des octets comme un float, en séparant signe, exposant et mantisse
 - [[Notation hexadécimale]] : écriture des adresses mémoire avec le préfixe 0x, un octet sur deux chiffres
@@ -1350,6 +1350,20 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Pointeur NULL]] : pointeur du dernier élément d'une liste chaînée, ou premier pointeur d'une liste vide
 - [[Typage statique]] : en C, toutes les vérifications de type sont faites à la compilation
 - [[Variable non initialisée]] : en C, sa lecture affiche une « valeur aléatoire » selon le cours
+
+**Year 4 - C++, chapitre 4 (ajoutés le 2026-11-08)**
+
+- [[Accesseur et mutateur]] : méthodes publiques get et set pour lire et modifier une donnée privée
+- [[Classe et objet]] : la classe est un plan, l'objet une instance concrète ; méthodes définies avec `Classe::`
+- [[Constructeur (programmation)]] : méthode appelée à la création d'un objet, par défaut, par paramètres ou par copie
+- [[Encapsulation (programmation)]] : données `public` accessibles de l'extérieur, `private` réservées à la classe
+- [[Espace de noms (namespace)]] : `std::`, l'espace de noms de la bibliothèque standard
+- [[Flux d'entrée-sortie (C++)]] : `std::cout <<` pour afficher, `ifstream` et `>>` pour lire un fichier
+- [[Fonction amie (friend)]] : fonction hors de la classe autorisée à lire ses membres privés, comme `operator<<`
+- [[Langage C++]] : extension compilée du C qui ajoute la programmation orientée objet
+- [[Programmation orientée objet]] : programme organisé en objets qui regroupent données et méthodes
+- [[Référence (C++)]] : passage par `&` qui évite la copie ; `const` interdit de modifier l'objet
+- [[Surcharge d'opérateurs]] : redéfinir `-`, `+` ou `<<` pour ses propres classes
 
 **Year 4 - Culture du vivant**
 
@@ -1361,14 +1375,23 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 **Year 4 - Gestion financière**
 
-- [[Balance commerciale]] : importations et exportations de produits, seule explication de la note
-- [[Balance des paiements]] : l'argent qui entre et l'argent qui sort, seule explication de la note
-- [[Coût et prix]] : somme nécessaire pour obtenir quelque chose, et somme à payer pour l'acquérir
-- [[Marché financier]] : nommé dans le cours, sans définition
-- [[Opérations de haut de bilan]] : nommé dans le cours, sans définition
-- [[Produit intérieur brut]] : PIB, qui a remplacé le PNB et compte aussi les entreprises étrangères en France
-- [[Tableau économique d'ensemble]] : nommé dans le cours, sans définition
-- [[Types de banque]] : nommé dans le cours, sans définition
+- [[Action et obligation]] : part du capital contre part d'un emprunt, dividende contre intérêts
+- [[Balance commerciale]] : solde exportations − importations de biens, taux de couverture
+- [[Balance des paiements]] : opérations avec le reste du monde, en trois comptes
+- [[Banque centrale]] : émet la monnaie et conduit la politique monétaire ; BCE et Banque de France
+- [[Bilan comptable]] : actif et passif d'une entreprise, haut et bas de bilan
+- [[Coût et prix]] : coût, prix, marge et coût de revient
+- [[Création monétaire]] : les banques créent la monnaie en accordant des crédits
+- [[Inflation]] : hausse générale et durable des prix, mesurée par l'IPC
+- [[Marché financier]] : marché primaire (émission) et secondaire (échange), marché monétaire
+- [[Opérations de haut de bilan]] : opérations qui changent les capitaux propres et dettes longues
+- [[Politique monétaire]] : taux directeurs et leur effet sur le crédit et l'inflation
+- [[Produit intérieur brut]] : richesse produite sur le territoire, trois façons de la calculer
+- [[Produit national brut]] : production des résidents en France et à l'étranger, devenu le RNB
+- [[Seuil de rentabilité]] : chiffre d'affaires qui couvre coûts fixes et variables, point mort
+- [[Tableau économique d'ensemble]] : synthèse des opérations de l'économie par secteur institutionnel
+- [[Types de banque]] : banque commerciale, d'investissement et centrale
+- [[Valeur ajoutée]] : production moins consommations intermédiaires, base du PIB
 
 **Year 4 - SHS**
 
@@ -1488,7 +1511,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 ## Résumés de sources (159)
 
-### Documents PDF et PPTX (31)
+### Documents PDF et PPTX (33)
 
 - **Year 1, Algo Maths** : [[0 - diapo prof]]
 - **Year 1, Analyse Maths** : [[0 - rappels pdf]], [[0 - Rappels-etc]], [[1 - Ensemble des Reels]]
@@ -1504,6 +1527,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 3, Projet courts** : [[Santé au travail (Projet year 3)]]
 - **Year 3, SHS** : [[2 - imaginaires du futur]], [[4 - imaginaires automobile]], [[5 - imaginaires de l'automobile]], [[6 - usages sociaux de l'automobile]]
 - **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
+- **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre)
 - **Year 4, culture du soin** : [[1 - culture du soin]]
 - **Year 4, data mining** : [[1 - pdf du prof]]
 - **Year 4, management de l'innovation** : [[1 - innovation]]
@@ -1615,7 +1639,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (205 : 147 docx, 52 pdf, 6 pptx), par dossier de Drive, au 2026-11-07. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (207 : 147 docx, 54 pdf, 6 pptx), par dossier de Drive, au 2026-11-08. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -1631,4 +1655,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C++ (3 docx), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)
+C++ (3 docx, 2 pdf), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)

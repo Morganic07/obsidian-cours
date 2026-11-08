@@ -3,3 +3,16 @@
 .nav-folder:has(> .nav-folder-title[data-path^="Cours/"][data-path$="/images"]) {
   display: none;
 }
+
+/* Marque ⓘ des compléments hors du cours : petite, grise, en exposant.
+   Lien vers la page « Complément hors du cours ». En mode lecture seulement :
+   l'aperçu en direct n'expose pas la cible du lien. */
+a.internal-link[data-href="Complément hors du cours"] {
+  font-size: 0.75em;
+  vertical-align: super;
+  color: var(--text-faint);
+  text-decoration: none;
+}
+a.internal-link[data-href="Complément hors du cours"]:hover {
+  color: var(--text-accent);
+}
