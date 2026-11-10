@@ -1,0 +1,9 @@
+{
+	"id": "folder-depth-size",
+	"name": "Noeuds Personnalisation",
+	"version": "1.3.0",
+	"minAppVersion": "1.4.16",
+	"description": "Personnalise les nœuds de dossiers de Folders to Graph selon leur profondeur : taille (toujours plus gros qu'une note, et d'autant plus que le dossier est proche de la racine) et couleur par niveau. Règle aussi la taille et la couleur des nœuds de tag et de pièce jointe.",
+	"author": "Morgane",
+	"isDesktopOnly": false
+}

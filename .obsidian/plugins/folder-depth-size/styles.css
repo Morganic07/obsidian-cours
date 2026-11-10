@@ -1,0 +1,6 @@
+/* Obsidian masque tout .graph-controls-button par défaut et n'affiche,
+   panneau replié, que ses propres boutons (réglages, animation). */
+.graph-controls.is-close .graph-controls-button.mod-pnd-reglages-plugins {
+	display: flex;
+	margin-top: var(--size-4-2);
+}

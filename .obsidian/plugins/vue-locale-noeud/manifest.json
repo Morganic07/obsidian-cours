@@ -1,0 +1,9 @@
+{
+  "id": "vue-locale-noeud",
+  "name": "Vue locale d'un nœud",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Ajoute « Ouvrir la vue locale » au clic droit sur un nœud du graphe.",
+  "author": "Morgane",
+  "isDesktopOnly": false
+}

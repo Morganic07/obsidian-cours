@@ -1,0 +1,31 @@
+{
+  "tailleNiveau1": 58,
+  "ratio": 0.6,
+  "tailleMin": 12,
+  "colorer": true,
+  "couleurs": [
+    "#ffffff",
+    "#ededed",
+    "#737373"
+  ],
+  "tagsTaille": true,
+  "tailleTag": 69,
+  "tagsCouleur": true,
+  "couleurTagDefaut": "#66d9ff",
+  "couleursTags": {},
+  "attachementsTaille": true,
+  "tailleAttachement": 4,
+  "attachementsCouleur": true,
+  "couleurAttachementDefaut": "#ffffff",
+  "couleursExtensions": {},
+  "modeNoms": "obsidian",
+  "tailleNoms": 220,
+  "seuilNoms": -3.2,
+  "niveauxNoms": {
+    "1": false,
+    "2": true,
+    "3": false,
+    "4": false
+  },
+  "cheminNoms": "complet"
+}

@@ -5,7 +5,9 @@ Raw/
 # État local d'Obsidian
 .obsidian/workspace*
 .obsidian/cache
-.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/folder-depth-size/
+!.obsidian/plugins/vue-locale-noeud/
 .obsidian/community-plugins.json
 .obsidian/*.bak
 .trash/
