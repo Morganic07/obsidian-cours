@@ -10,7 +10,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[2 - Culture du vivant|Culture du vivant]]"
+  - "[[1 - Culture du vivant|Culture du vivant]]"
 maj: 2026-11-06
 ---
 
@@ -18,4 +18,4 @@ Capacité de production biologique de la planète, mesurée en hectares globaux 
 
 Voir aussi : [[Empreinte écologique]], [[Jour du dépassement]].
 
-Résumés : [[4 - Culture du vivant]], [[2 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]], [[1 - Culture du vivant]]

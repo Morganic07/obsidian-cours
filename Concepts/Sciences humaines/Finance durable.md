@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -18,8 +18,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans [[3 - Culture du vivant|Culture du vivant Dernier cours]] sans définition : côté investisseurs, il s'agit de reconnaître et de préférer les « pratiques fertiles », avec la finance durable (SFDR), la finance à impact et le manifeste pour une finance régénératrice (CEC Finances).
+Nommée dans [[2 - Culture du vivant|Culture du vivant Dernier cours]] sans définition : côté investisseurs, il s'agit de reconnaître et de préférer les « pratiques fertiles », avec la finance durable (SFDR), la finance à impact et le manifeste pour une finance régénératrice (CEC Finances).
 
 Notion parente : [[Valeur socio-écologique]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

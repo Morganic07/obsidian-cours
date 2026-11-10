@@ -3,206 +3,102 @@ type: source
 tags:
   - year3
 sources:
-  - "[[Raw/Year 3/Culture du vivant/Culture du vivant.docx|Culture du vivant (Y3)]]"
-  - "[[Raw/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION .docx|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]]"
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 3/Culture du vivant/Culture du vivant.docx|Culture du vivant]] (3e année), dans [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]]. La note ne contient aucun texte : ce sont huit images, toutes transcrites. Elles forment un parcours : l'état émotionnel face à l'effondrement, les modèles de croissance, l'empreinte écologique, la biodiversité, les limites planétaires, puis une consigne de synthèse.
+Résumé de [[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]], dans [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]]. Notes de l'étudiant sur la dernière séance, avec trois photos d'écran du diaporama (le diaporama compte 43 diapositives d'après la barre d'état d'une photo).
 
-## 1. Collapsologie et courbe de deuil
+## Constat : une pyramide « buggée »
 
-![[Culture du vivant - image8.jpg]]
-*Figure : infographie « Collapsologie ∝ Courbe de deuil », v 3.0, juin 2017, par Matthieu Van Niel (licence CC BY SA).*
+- Point de départ : la [[Pyramide des besoins|pyramide de la création des besoins]]. On y voit que **le social ne redonne pas à la Nature**.
+- La pyramide est « buggée ». Deux questions :
+  - comment faire pour que le système **rende à la Nature ce que la Nature a donné** ?
+  - pourquoi ne lui rend-on rien ? Toutes nos habitudes, du réveil au coucher, ne rendent rien à la Nature : **aucun impact régénératif**.
+- Les achats du quotidien ont un **coût caché** ([[Coûts cachés]]) : des coûts économiques et sociaux (déforestation, travail des enfants…). Chaque achat a une conséquence à l'autre bout du globe.
+- Les économistes nomment ces coûts cachés des **[[Externalité|externalités négatives]]** : un dommage subi par des tiers (riverains, générations futures, écosystèmes) qui n'entre pas dans le prix payé. L'économiste Arthur Cecil Pigou propose dès 1920 de les « internaliser » par une taxe égale au dommage, sur le principe pollueur-payeur ; la taxe carbone et le marché européen des quotas d'émission (créé en 2005) en sont des applications. [[Complément hors du cours|ⓘ]]
+- Un modèle **régénératif** va plus loin que le modèle « durable » : il ne se contente pas de réduire les dégâts, il cherche à restaurer les milieux dont il dépend (sols, eau, biodiversité), par exemple par l'agriculture régénératrice, qui reconstitue la matière organique des sols. [[Complément hors du cours|ⓘ]]
+- Il faut (re)configurer le système économique : **le vivant devient un enjeu du monde financier**.
 
-Une grande flèche descend puis remonte en « V » arrondi ; elle traverse les étapes du deuil appliquées à la prise de conscience de l'effondrement.
+## L'économie circulaire
 
-| Étape | Expressions et mots-clés de l'infographie |
+![[Culture du vivant Dernière séance - image1.png]]
+*Figure : schéma en spirale de l'économie circulaire (Fondation Ellen MacArthur), photo d'écran.*
+
+Le schéma part des **matières premières**, passe par la fabrication, l'emballage, la distribution et l'utilisation, et aboutit aux **déchets**. Des boucles concentriques de retour ramènent vers l'amont : partage, réparation, réemploi, remise à neuf, recyclage ([[Réemploi, recyclage et reconditionnement]]).
+
+L'[[Économie circulaire|économie circulaire]] s'oppose à l'économie **linéaire**, « extraire, fabriquer, consommer, jeter ». Plus une boucle est courte, plus elle conserve la valeur et l'énergie déjà investies dans l'objet : partager ou réparer vaut mieux que réemployer, réemployer mieux que recycler, et le recyclage, qui détruit l'objet pour en récupérer la matière, est la boucle de dernier recours. Le schéma complet de la Fondation Ellen MacArthur, dit « en papillon », sépare aussi deux cycles : le cycle **biologique**, où les matières (bois, aliments, fibres naturelles) retournent au sol, et le cycle **technique**, où les matières (métaux, plastiques) circulent sans se dégrader. [[Complément hors du cours|ⓘ]]
+
+Les six piliers de l'[[Économie circulaire]] listés sur la diapositive :
+
+1. **[[Cradle to cradle|From cradle to cradle]]** : fermer le [[Cycle de vie d'un produit|cycle de vie des produits]].
+2. **[[Écoconception]]**, vers un approvisionnement durable : tenir compte des modalités d'approvisionnement (extraction, exploitation, transport).
+3. **[[Écologie industrielle et territoriale]]**.
+4. **[[Économie de la fonctionnalité]]** et de la coopération.
+5. **Allongement de la durée d'usage** : réemploi, réparation, lutte contre l'obsolescence programmée, maintenance ([[Soin (care)|soin]]).
+6. **Consommation responsable** : ne pas jeter (gâchis alimentaire, textile…).
+
+L'ADEME décrit l'économie circulaire en **sept piliers**, répartis en trois domaines : l'offre des acteurs économiques (approvisionnement durable, écoconception, écologie industrielle et territoriale, économie de la fonctionnalité), la demande et le comportement des consommateurs (consommation responsable, allongement de la durée d'usage) et la gestion des déchets (**recyclage**). La diapositive réunit écoconception et approvisionnement durable, n'a pas de pilier recyclage et s'ouvre sur le principe *cradle to cradle* (Michael Braungart et William McDonough, 2002), qui conçoit d'emblée chaque matière pour qu'elle redevienne une ressource. En France, la loi anti-gaspillage pour une économie circulaire (dite AGEC, 2020) traduit plusieurs de ces piliers : interdiction de détruire les invendus non alimentaires, indice de réparabilité, fin progressive des plastiques à usage unique. [[Complément hors du cours|ⓘ]]
+
+## Le cycle de vie vu par les clients
+
+![[Culture du vivant Dernière séance - image3.png]]
+*Figure : « Questions des clients » sur les cinq étapes du cycle de vie (diapositive signée S. Caillol, ENSCM Chimie Montpellier), photo d'écran.*
+
+| Étape du cycle de vie | Questions des clients |
 |---|---|
-| Début | « Oué ! La vie est belle ! », « Trankilou », *business as usual*, puis « KRA!! » (le choc) |
-| Déni | « NOOON !!! », \#panique, « On va tous crever !! », \#refus, « Ce n'est pas réel », « Si je ferme les yeux et que je me bouche les oreilles, ça va s'arrêter… » |
-| Colère et peur | \#impuissance (« Bien fait pour nous ! »), \#injustice (« si je mets la main sur les responsables… »), \#culpabilité (« c'est aussi ma faute… »), le « çavapétiste » (« ça va péter ! ») |
-| Marchandage | « Au nom du progrès et de l'efficacité… », « si on se met tous à la voiture électrique, on est sauvé » (\#capitaliste vert), « L'être humain est profondément mauvais… » (\#repli), survivaliste |
-| Dépression | \#épuisement, \#solitude, « Plus rien n'a de sens… », \#destructuration, \#lucidité, l'« aquoibontiste » (« à quoi bon ? ») |
-| Pardon | — |
-| Acceptation | « je fais la paix avec le monde et moi-même… », inspirer / expirer, \#accueil, \#plénitude |
-| Sens et renouveau | « Transition ! », \#résilience, \#action, \#nouveaux repères, « Je m'adapte, je change, je teste, je m'engage… » |
-| Croissance et sérénité | \#cosmos, \#beauté, « C'est pas simple, c'est pas facile, mais c'est beau ! », « Je risque de faire le yoyo sur la courbe, mais c'est ok. » |
+| Matériaux | Matériaux recyclés ? Matériaux polluants ? |
+| Production | Plans d'action des usines ? ISO 14001… certifications ? |
+| Transport | Impacts du transport ? Poids du produit ? Volume de l'emballage ? |
+| Utilisation | Durée de vie du produit ? Maintenance ? |
+| Fin de vie | Reprise des produits ? Démontage ? Recyclabilité ? |
 
-Une branche latérale montre un personnage au cocktail, le « sympathique égoïste épicurien » : \#jouissance, « foutus pour foutus… profitons de ce qu'il nous reste ! ».
+Ces cinq étapes sont celles de l'**analyse du cycle de vie** (ACV), méthode normalisée par les normes ISO 14040 et 14044 : on inventorie, pour chaque étape, les matières et l'énergie consommées et les rejets, puis on les traduit en impacts (climat, eau, toxicité, ressources…). Elle évite les **transferts de pollution** : un produit plus léger à transporter peut être plus polluant à fabriquer ou impossible à recycler. [[Complément hors du cours|ⓘ]]
 
-Définitions données dans les encadrés :
+**ISO 14001** est la norme internationale des **systèmes de management environnemental** (première édition en 1996) : une entreprise certifiée a identifié ses impacts, fixé des objectifs et s'engage à s'améliorer en continu, vérifiée par un audit externe. Elle certifie une organisation et sa démarche, pas la performance environnementale d'un produit. [[Complément hors du cours|ⓘ]]
 
-- **[[Collapsologie]]** : « exercice transdisciplinaire d'étude de l'effondrement de notre civilisation industrielle et de ce qui pourrait lui succéder » (collapsologie.fr).
-- **Courbe de deuil** : succession d'étapes vécues à la suite d'un choc (mise à mal d'un besoin fondamental). Toutes les étapes ne sont pas forcément traversées, leur ordre varie, et les allers-retours sont possibles (\#skate park).
-- **Acceptation** : [[Soin (care)|prendre soin]] sans chercher à guérir ; faire de la place en soi pour le renouveau.
-- **Deuil par anticipation** : ce qu'on a déjà perdu, ce qu'on est en train de perdre, ce qu'on va perdre (\#travail d'accompagnement).
+## Intégrer le vivant dans les décisions économiques
 
-Les termes viennent de *Comment tout peut s'effondrer*, Pablo Servigne et Raphaël Stevens (Seuil).
+C'est pour cela qu'il faut [[Valeur socio-écologique|intégrer le vivant dans les décisions économiques]].
 
-Le livre paraît en 2015 et forge le mot « collapsologie ». Il ne prédit pas une date : il rassemble des travaux scientifiques montrant que plusieurs systèmes (climat, biodiversité, énergie, finance) sont fragiles et interdépendants, si bien qu'une crise peut en entraîner d'autres. Ses critiques lui reprochent de rendre l'effondrement inéluctable et de démobiliser, ce que la courbe de deuil cherche justement à dépasser en menant vers l'action. [[Complément hors du cours|ⓘ]]
+![[Culture du vivant Dernière séance - image2.png]]
+*Figure : « La convergence des demandes », quatre blocs autour de la « valeur socio-écologique » (diapositive 11 sur 43), photo d'écran.*
 
-La courbe de deuil adapte un modèle de la psychiatre Elisabeth Kübler-Ross (*Les Derniers Instants de la vie*, 1969), qui décrivait cinq étapes chez les malades en fin de vie : déni, colère, marchandage, dépression, acceptation. L'infographie y ajoute le pardon, le sens et le renouveau, puis la sérénité. Pour nommer ces émotions, on parle d'**éco-anxiété**, l'inquiétude durable face à la crise écologique, et de **solastalgie** (mot du philosophe Glenn Albrecht, 2005), la détresse de voir se dégrader le lieu où l'on vit. [[Complément hors du cours|ⓘ]]
+Quatre acteurs convergent vers un objectif central : **reconnaître la création de « valeur socio-écologique »**.
 
-## 2. Le modèle World3 (« Limites à la croissance »)
-
-![[Culture du vivant - image2.jpg]]
-*Figure : « Limites à la croissance, modèle World3, Standard Run », valeurs normalisées de 0 à 1 entre 1900 et 2100.*
-
-Graphique du [[Rapport Meadows]] (scénario standard), comparé aux données réelles (1900-1970, puis 1970-2010) ; le modèle est en pointillés. Six courbes : ressources, nourriture, production de services, population, production industrielle, pollution.
-
-- Les **ressources** baissent de façon continue.
-- **Production industrielle, services et nourriture** atteignent un pic vers **2020**, puis déclinent.
-- La **population** atteint un pic vers **2030-2040**, puis décline : « la population commence à décliner suite à l'effondrement des années précédentes ».
-- La **pollution** culmine vers **2030**, puis décline.
-- Deux lignes verticales marquent 2010 et 2030.
-
-Source : Turner, Graham M. 2012, « On the Cusp of Global Collapse? Updated… » (titre tronqué).
-
-*The Limits to Growth* est publié en 1972 pour le Club de Rome par une équipe du MIT (Donella et Dennis Meadows, Jørgen Randers, William Behrens). World3 est un modèle de **dynamique des systèmes** : des boucles de rétroaction relient population, industrie, agriculture, ressources et pollution. Le « Standard Run » est le scénario où rien ne change (*business as usual*) : une croissance exponentielle dans un monde fini, avec des effets qui se manifestent en retard, conduit au **dépassement puis à l'effondrement** (*overshoot and collapse*). Le rapport présente aussi des scénarios de stabilisation, où la croissance de la population et de la production est volontairement freinée. [[Complément hors du cours|ⓘ]]
-
-L'étude de Turner compare ce scénario aux données observées sur 1970-2010 : elles en suivent de près la trajectoire, d'où la question de son titre, sommes-nous au bord de l'effondrement global ? Les courbes « normalisées de 0 à 1 » permettent de tracer sur un même graphique des grandeurs d'unités différentes. [[Complément hors du cours|ⓘ]]
-
-## 3. Empreinte écologique et biocapacité mondiales
-
-![[Culture du vivant - image6.jpg]]
-*Figure : « World Ecological Footprint and Biocapacity Per Capita », 1961-2024, en hectares globaux par personne.*
-
-| Courbe | 1961 | Évolution | 2024 |
-|---|---|---|---|
-| [[Empreinte écologique]] (rouge) | ≈ 2,3 | monte à ≈ 2,8 vers 1970-1980, puis oscille entre 2,4 et 2,8 | ≈ 2,6 |
-| [[Biocapacité]] (vert) | ≈ 3,2 | baisse régulière | ≈ 1,5 |
-| Empreinte carbone (gris) | ≈ 1,0 | pic ≈ 1,75 vers 2011 | ≈ 1,6 |
-
-Les courbes sont plus claires à partir de 2019-2020 (sans doute des estimations). L'empreinte dépasse la biocapacité : voir [[Jour du dépassement]].
-
-L'**hectare global** (hag) est un hectare fictif de productivité biologique moyenne mondiale : il permet d'additionner des cultures, des forêts, des pâturages et des zones de pêche. L'[[Empreinte écologique|empreinte]] mesure la surface nécessaire pour produire ce qu'une population consomme et absorber son CO₂ ; la [[Biocapacité|biocapacité]], la surface productive réellement disponible. Ces séries sont calculées par le Global Footprint Network. [[Complément hors du cours|ⓘ]]
-
-Avec les valeurs du graphique pour 2024, $2{,}6 / 1{,}5 \approx 1{,}7$ : l'humanité consomme comme si elle disposait d'environ 1,7 Terre. Le jour du dépassement s'en déduit par $\frac{\text{biocapacité}}{\text{empreinte}} \times 365 \approx \frac{1{,}5}{2{,}6} \times 365 \approx 210$ jours, soit fin juillet. La biocapacité **par personne** baisse surtout parce que la population augmente. L'empreinte carbone est la part de l'empreinte qui correspond aux forêts nécessaires pour absorber le CO₂ émis, aujourd'hui la plus grosse composante. [[Complément hors du cours|ⓘ]]
-
-## 4. Érosion de la biodiversité : cinq causes
-
-Infographie (texte seul, avec des icônes décoratives) sur l'[[Érosion de la biodiversité]] :
-
-1. **Destruction des habitats**
-2. **Surexploitation des ressources**
-3. Changement climatique
-4. Pollution de l'eau, de l'air et des sols
-5. Espèces envahissantes
-
-Les deux premières causes sont surlignées : « + 50 % de l'impact total ». Suit « Regardons dans le détail ».
-
-Ces cinq causes sont les « facteurs directs » retenus par l'[[IPBES]] dans son évaluation mondiale de 2019, dans le même ordre d'importance : changement d'usage des terres et des mers, exploitation directe des organismes (chasse, pêche, coupe), changement climatique, pollution, espèces exotiques envahissantes. Derrière eux, l'IPBES place des facteurs indirects : démographie, modes de consommation, commerce, technologies, gouvernance. [[Complément hors du cours|ⓘ]]
-
-La **biodiversité** se mesure à trois niveaux : la diversité **génétique** (au sein d'une espèce), la diversité **spécifique** (entre espèces) et la diversité des **écosystèmes**. Elle rend des **services écosystémiques** dont dépendent les sociétés : pollinisation, épuration de l'eau, fertilité des sols, régulation du climat. [[Complément hors du cours|ⓘ]]
-
-## 5. Espèces connues, suivies et menacées
-
-![[Culture du vivant - image5.jpg]]
-*Figure : cercles imbriqués des espèces estimées, connues, suivies et menacées.*
-
-- On estime qu'il existe **plus de 5 millions** d'espèces sur Terre ; seules **2 millions** sont connues ; **138 000** sont suivies.
-- **28 % des espèces suivies sont menacées.**
-
-| Groupe | Nombre d'espèces | Part menacée |
+| Acteur | Rôle | Outils et dispositifs cités |
 |---|---|---|
-| Amphibiens | 7 200 | 41 % |
-| Mammifères | 5 900 | 26 % |
-| Requins | 1 100 | 37 % |
-| Conifères | 610 | 34 % |
-| Coraux | 850 | 33 % |
-| Oiseaux | 11 000 | 14 % |
+| Société civile | Des outils pour savoir | Yuka, Open Food Facts, Planet-Score, Ecoindex, HOP, Score carbone |
+| Réglementations | Rendre visibles les impacts | Green deal : [[Taxonomie européenne\|taxonomie]], [[CSRD]], [[Devoir de vigilance\|devoir de vigilance]]… ; Stratégie nationale biodiversité 2030 ; loi Climat et Résilience (2021), [[Zéro artificialisation nette\|ZAN]] en 2050 |
+| Investisseurs | Reconnaître et préférer les « pratiques fertiles » | [[Finance durable]] (SFDR), finance à impact, *Manifeste pour une finance régénératrice* (CEC Finances) |
+| Entreprises | Compter et valoriser | [[Responsabilité sociétale des entreprises\|RSE]], [[Objectifs de développement durable\|17 ODD]], mesures d'impact, [[Entreprise à mission\|entreprises à mission]], coalitions (Act4Nature…), plateforme Entreprises et biodiversité |
 
-Ces chiffres correspondent à ceux de la [[Liste rouge de l'UICN]], l'inventaire mondial de l'état de conservation des espèces tenu par l'Union internationale pour la conservation de la nature. Chaque espèce évaluée y est classée par risque croissant : préoccupation mineure, quasi menacée, **vulnérable**, **en danger**, **en danger critique**, éteinte à l'état sauvage, éteinte. Une espèce est dite « menacée » quand elle relève de l'une des trois catégories en gras. Les espèces « suivies » sont les espèces évaluées : 138 000 sur 2 millions connues, ce qui explique que la part menacée de l'ensemble du vivant reste inconnue. [[Complément hors du cours|ⓘ]]
+Les outils les moins connus du tableau : [[Complément hors du cours|ⓘ]]
+- **Planet-Score** : note environnementale des aliments, de A à E, qui tient compte des pesticides, de la biodiversité, du climat et du bien-être animal ; **Open Food Facts** est la base de données collaborative et libre des produits alimentaires, que Yuka utilise. [[Complément hors du cours|ⓘ]]
+- **Ecoindex** : note de A à G de l'empreinte d'une page web, calculée d'après le poids de la page, le nombre de requêtes et la complexité de sa structure. [[Complément hors du cours|ⓘ]]
+- **HOP** (Halte à l'obsolescence programmée) : association française qui défend la durabilité et la réparabilité des produits. [[Complément hors du cours|ⓘ]]
+- **SFDR** : règlement européen de 2019 qui oblige les acteurs financiers à publier comment leurs produits tiennent compte des risques et des impacts de durabilité. [[Complément hors du cours|ⓘ]]
 
-Voir aussi [[Sixième extinction]].
+Les miniatures visibles dans le volet latéral annoncent d'autres diapositives : « L'empreinte écologique » ([[Empreinte écologique]]), « Coûts cachés », « Reconfigurer le système économique », et en bas un titre coupé « Reconsidérer les pratiques (… ».
 
-On parle de sixième extinction par référence aux cinq extinctions massives des temps géologiques, dont la dernière, il y a environ 66 millions d'années, a fait disparaître les dinosaures non aviens. [[Complément hors du cours|ⓘ]]
+Note de l'étudiant : « Est-ce que ces trucs bien, ce n'est pas du [[Greenwashing|greenwashing]] ? S'interroger. » Il s'est aussi noté de retrouver une photo du même titre et de faire une recherche sur son contenu.
 
-## 6. Les neuf limites planétaires (CGDD/SDES, 2023)
+## Solutions
 
-![[Culture du vivant - image3.jpg]]
-*Figure : les 9 [[Limites planétaires]], diagramme circulaire autour du globe (CGDD/SDES, 2023, Bertrand Gaillet).*
+1. **Désencombrer le monde** : supprimer les objets superflus, faire revivre l'artisanat…
+2. **Vers la [[Sobriété]]** : chasse au gaspillage, réduire les impacts, renoncer à certaines choses, rationner… (renvoi à la photo « économie circulaire »).
+3. **Concevoir un bon produit pour la planète de manière complète** (renvoi à la photo « cycle de vie »).
+4. **Le cas pratique du port de Kalundborg** ([[Écologie industrielle et territoriale]]) : les déchets des uns deviennent la matière première des autres.
+5. **De l'obsolescence programmée à la durabilité programmée.**
 
-Légende du diagramme : limite dépassée (risque élevé), forte incertitude (risque croissant), non dépassée, non quantifiée. La situation est celle connue avant la publication du *Stockholm Resilience Centre* de septembre 2023.
+La sobriété ne se confond pas avec l'efficacité : l'efficacité fait la même chose avec moins de ressources, la sobriété réduit le besoin lui-même (moins de trajets, des logements mieux partagés, des objets moins nombreux). Le scénario de l'association négaWatt les combine en triptyque, **sobriété, efficacité, énergies renouvelables**, dans cet ordre ; l'efficacité seule est exposée à l'[[Effet rebond|effet rebond]]. [[Complément hors du cours|ⓘ]]
 
-| Limite | Mécanisme | Chiffres donnés |
-|---|---|---|
-| Changement climatique | Les émissions anthropiques perturbent l'équilibre climatique : hausse des températures, événements extrêmes, montée des océans, disparition d'espèces | CO₂ : 425 ppm en 2023 contre 280 ppm en 1850 ; l'empreinte CO₂ moyenne des Français dépasse de 48 % la moyenne mondiale |
-| Érosion de la biodiversité | Destruction d'habitats, exploitation d'espèces, pollution | 100 à 1 000 extinctions par an sur 1 million d'espèces ; indice de risque d'extinction + 99 % entre 2000 et 2022, contre + 36 % dans le reste du monde |
-| Cycles de l'azote et du phosphore | L'excès d'engrais dégrade les milieux aquatiques : eutrophisation des rivières, anoxie des océans | 150 Mt d'azote rejetées (limites : 62-82 Mt) ; 22 Mt de phosphore arrivant en mer par an (limites : 11-100 Mt) ; l'excès d'azote atteint la limite (55 kg/ha), l'excès de phosphore (2 kg/ha) la respecte |
-| Changement d'usage des sols | La déforestation au profit de l'agriculture réduit le rôle des forêts comme puits de carbone | 62 % de la surface boisée avant 1700 l'est encore en 2015 ; la France exerce, par ses importations, une forte pression sur le foncier étranger |
-| Eau douce | Les prélèvements perturbent le cycle de l'eau | Eau bleue : 2 600 km³/an prélevés (limites : 4 000-6 000) ; eau verte : anomalie d'humidité pour 18 % des sols (limite : 10 %) ; 0,2 % des prélèvements nets mondiaux d'eau bleue, avec des tensions saisonnières locales |
-| Acidification des océans | Le CO₂ dissous réduit le pH et les carbonates nécessaires aux coquillages en aragonite | Saturation en aragonite estimée à 84 % du niveau préindustriel en 2015 |
-| Ozone stratosphérique | Les substances appauvrissantes réduisent la protection contre les rayons nocifs | 285 DU (unités Dobson) en 2015 (limite : 275 DU) |
-| Aérosols atmosphériques | Les particules en suspension perturbent le climat et la santé | Pas de seuil global défini, faute de connaissances suffisantes |
-| Entités nouvelles | La production de produits chimiques et plastiques dépasse la capacité d'évaluation des risques pour l'homme et la [[Biosphère]] | Produits chimiques : × 50 depuis 1950 ; plastiques : + 79 % entre 2000 et 2015 |
+L'**[[Économie circulaire|obsolescence programmée]]** désigne les techniques qui réduisent délibérément la durée de vie d'un produit pour en accélérer le remplacement. En France, elle est un délit depuis la loi relative à la transition énergétique pour la croissance verte de 2015 (aujourd'hui article L441-2 du Code de la consommation). L'exemple historique est le cartel Phœbus (1924), qui réunissait les grands fabricants d'ampoules et limitait leur durée de vie à 1 000 heures. On distingue aussi l'obsolescence **logicielle** (mises à jour qui ralentissent un appareil ou cessent d'être fournies) et l'obsolescence **esthétique** ou psychologique (la mode qui démode). La **durabilité programmée** inverse la logique : produits démontables, pièces détachées disponibles, réparation documentée. [[Complément hors du cours|ⓘ]]
 
-Les chiffres français et mondiaux sont mêlés dans l'image (par exemple l'indice d'extinction « contre 36 % dans le reste du monde » concerne sans doute la France).
-
-Le cadre des [[Limites planétaires|limites planétaires]] est proposé en 2009 par une équipe internationale menée par Johan Rockström au Stockholm Resilience Centre, puis mis à jour en 2015 et en 2023. Chaque limite est un seuil au-delà duquel le système Terre risque de quitter l'état stable de l'**Holocène**, la période climatique des 11 700 dernières années, qui a vu naître l'agriculture et les civilisations. Une limite dépassée n'annonce pas une catastrophe immédiate, mais un risque croissant de changements brusques et irréversibles. [[Complément hors du cours|ⓘ]]
-
-Termes et unités du tableau : [[Complément hors du cours|ⓘ]]
-- **ppm** (partie par million) : nombre de molécules de CO₂ pour un million de molécules d'air ; la limite proposée pour le climat est de 350 ppm. [[Complément hors du cours|ⓘ]]
-- **Eutrophisation** : l'excès d'azote et de phosphore fait proliférer algues et plancton ; leur décomposition consomme l'oxygène de l'eau, jusqu'à l'**anoxie** (zones mortes), où poissons et invertébrés ne survivent plus. Les algues vertes des côtes bretonnes en sont un exemple. [[Complément hors du cours|ⓘ]]
-- **Eau bleue** et **eau verte** : l'eau bleue est celle des rivières, des lacs et des nappes, qu'on prélève ; l'eau verte est l'humidité du sol, utilisée directement par les plantes. [[Complément hors du cours|ⓘ]]
-- **Aragonite** : forme de carbonate de calcium dont coraux, huîtres et ptéropodes font leur squelette ou leur coquille. Le CO₂ dissous forme de l'acide carbonique, qui consomme les ions carbonate : la limite est franchie quand la saturation passe sous 80 % du niveau préindustriel. [[Complément hors du cours|ⓘ]]
-- **Unité Dobson** (DU) : mesure de l'épaisseur totale d'ozone au-dessus d'un point ; 100 DU correspondent à une couche d'ozone pur de 1 mm aux conditions normales. La couche d'ozone se reconstitue lentement grâce au protocole de Montréal (1987), qui a organisé l'abandon des CFC : c'est l'exemple d'une limite qu'un accord international a permis de ne pas franchir. [[Complément hors du cours|ⓘ]]
-- **Entités nouvelles** : substances créées par l'homme et absentes de la nature, comme les produits chimiques de synthèse, les plastiques, les « polluants éternels » (PFAS) ou les organismes génétiquement modifiés. [[Complément hors du cours|ⓘ]]
-
-## 7. Les limites planétaires en 2025 (Reporterre)
-
-![[Culture du vivant - image4.jpg]]
-*Figure : les limites planétaires en 2025, diagramme circulaire du vert (zone de sécurité) au violet (zone à haut risque), Reporterre.*
-
-Secteurs et sous-indicateurs : intégrité de la biosphère (diversité génétique, diversité fonctionnelle) ; changement climatique (concentration de CO₂, forçage radiatif) ; nouvelles entités introduites dans l'environnement ; diminution de la couche d'ozone ; charge en aérosols atmosphériques ; acidification des océans ; cycles biogéochimiques (phosphore, azote) ; ressource en eau douce (eau bleue, eau verte) ; changement d'usage des sols. Deux cercles pointillés marquent la « limite zone de sécurité » et la « limite zone à haut risque » ; l'échelle va de la zone de sécurité à l'accroissement des risques, puis à la zone à haut risque. La transcription ne dit pas quel secteur atteint quelle couleur.
-
-La mise à jour scientifique de septembre 2023 (Richardson et al., *Science Advances*) conclut que six limites sur neuf sont dépassées : climat, intégrité de la biosphère, usage des sols, eau douce, cycles de l'azote et du phosphore, entités nouvelles. Le bilan de septembre 2025 (*Planetary Health Check*, Potsdam Institute for Climate Impact Research) y ajoute l'acidification des océans, soit sept sur neuf ; seules la couche d'ozone et la charge en aérosols restent dans la zone de sécurité au niveau mondial. [[Complément hors du cours|ⓘ]]
-
-## 8. Amorce de synthèse graphique
-
-![[Culture du vivant - image1.jpg]]
-*Figure : autruche à lunettes illustrant la consigne de synthèse.*
-
-« Ce qui m'a captivé ? Ce que je retiens ? »
-
-- Quelles sont les découvertes qui m'ont intéressé(e) ?
-- Qu'est-ce qui est **capital** dans ce cours ?
-- Quelle est l'**image qui traduit** ce que je veux garder du cours ?
-
-
-Résumé de [[Raw/Year 3/Culture du vivant/Culture Vivant COURS 2 EXPLICATION .docx|Culture Vivant COURS 2 EXPLICATION]], dans [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]]. Note courte : l'explication d'un dessin (la balance), qui n'est pas dans la note. Voir [[Anthropocène]] pour le contenu développé.
-
-## La métaphore de la balance
-
-Le dessin utilise une **balance** pour représenter la rupture fondamentale dans notre rapport au monde : le passage de la Modernité à l'[[Anthropocène]].
-
-| Élément du dessin | Ce qu'il représente |
-|---|---|
-| Le pivot, au centre | Une citation de Descartes, « pivot idéologique » qui a fait basculer la balance entre l'homme et la Nature et a permis à la technique de devenir un **outil de domination** |
-| Le plateau de droite | La **Technosphère**, qui pèse désormais plus lourd que la biosphère |
-| L'autre plateau | La [[Biosphère]] : la Nature et le Vivant comme écosystème, modèle d'**interdépendance** où l'Homme fait partie d'un tout. Ce plateau est en danger, menacé par le poids d'un [[Progrès technique\|progrès technique]] déséquilibré |
-
-La citation de Descartes n'est pas recopiée dans la note. Sur la position cartésienne, voir [[Cartésianisme]] et [[Maîtrise de la nature]].
-
-La phrase de Descartes la plus souvent invoquée dans ce sens est celle du *Discours de la méthode* (1637, sixième partie) : la connaissance de la nature doit nous permettre de nous « rendre comme maîtres et possesseurs de la nature ». Le « comme » nuance l'ambition, et le but que donne Descartes est d'abord la santé et le confort des hommes ; mais la formule est devenue l'emblème d'une modernité qui sépare l'homme, sujet pensant, d'une nature réduite à une matière à exploiter. [[Complément hors du cours|ⓘ]]
-
-L'idée que la technosphère « pèse » plus que la biosphère a une base mesurée : une étude publiée dans *Nature* en 2020 (Elhacham et al.) estime que la masse des objets fabriqués par l'homme (béton, granulats, briques, asphalte, métaux, plastiques) a dépassé, vers 2020, celle de toute la biomasse vivante, soit environ mille milliards de tonnes, et qu'elle double à peu près tous les vingt ans. Le mot « [[Anthropocène]] » a été popularisé en 2000 par le chimiste Paul Crutzen pour désigner une époque où l'humanité devient une force géologique ; en 2024, l'Union internationale des sciences géologiques a toutefois refusé d'en faire une époque officielle de l'échelle des temps géologiques. [[Complément hors du cours|ⓘ]]
-
-## Les deux chemins sous la balance
-
-Sous la balance, le paysage est divisé en deux : c'est le choix que l'humanité doit faire face à cette crise du déséquilibre.
-
-- **Chemin de droite : « Prendre de la matière pour gagner du temps. »** Gagner du temps justifie l'épuisement de la matière et des ressources. C'est le chemin de la transhumanité ([[Transhumanisme]]) et du **technosolutionnisme**, sans remise en question éthique.
-- **Chemin de gauche : « Prendre du temps pour épargner la matière. »** Le temps est réinvesti dans la relation et le [[Soin (care)|care]], ce qui permet d'épargner les ressources matérielles.
-- Le **technosolutionnisme** (ou [[Progrès technique|solutionnisme technologique]], mot popularisé par Evgeny Morozov en 2013) est la croyance qu'à chaque problème, y compris social ou écologique, répond une solution technique, sans changer les modes de vie ni les rapports de pouvoir. [[Complément hors du cours|ⓘ]]
-- Le chemin de droite bute sur l'**[[Effet rebond|effet rebond]]**, décrit par l'économiste William Stanley Jevons dès 1865 à propos du charbon : quand une technique rend un usage plus efficace ou plus rapide, on en consomme davantage, si bien que le gain matériel est en partie ou totalement annulé. Les moteurs moins gourmands ont ainsi accompagné des voitures plus lourdes et des trajets plus longs. [[Complément hors du cours|ⓘ]]
+Fait divers noté : 60 à 70 % des sols de l'Union européenne sont en mauvaise santé (pesticides, fongicides…), selon la Commission européenne (Stratégie de l'UE pour la protection des sols à l'horizon 2030, 2021). [[Erreurs du cours#^e-2-culture-du-vivant|✎]]
 
 ## Points à signaler
 
-- La citation de Descartes n'est pas donnée dans la note.
-- Le dessin lui-même n'est pas dans la note : sa disposition n'est connue que par cette explication.
-
-
+- La question du greenwashing est une réflexion de l'étudiant, pas une thèse du cours.

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [point mort, coûts fixes, coûts variables, coût fixe, coût variable, marge sur coûts variables, break-even point]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

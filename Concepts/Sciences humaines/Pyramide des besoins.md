@@ -5,7 +5,7 @@ tags:
 aliases:
   - pyramide de la création des besoins
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -17,4 +17,4 @@ Nommée dans le dernier cours sans définition. Le cours dit la « pyramide de l
 
 Voir aussi : [[Coûts cachés]], [[Valeur socio-écologique]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

@@ -18,4 +18,4 @@ maj: 2026-11-07
 
 Notion parente : [[Open design]]. Voir aussi : [[Design d'interface]], [[Maquette (design)]].
 
-Résumés (rapprochement, complément hors du cours) : [[4 - sémiotique]], [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[4 - sémiotique]], [[6 - design libre]]

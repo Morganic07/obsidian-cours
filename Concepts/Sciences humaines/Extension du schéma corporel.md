@@ -14,4 +14,4 @@ Selon Boltanski, cité dans le cours de SHS, l'automobile prolonge le corps « a
 
 Notion parente : [[Caractérologie des véhicules]]. Voir aussi : [[Moi blindé]], [[Structuration de l'expérience (Merleau-Ponty)]], [[Cognition incarnée]], [[Cyborg]].
 
-Résumés : [[2 - imaginaires du futur]], [[6 - usages sociaux de l'automobile]]
+Résumés : [[2 - imaginaires du futur]], [[5 - usages sociaux de l'automobile]]

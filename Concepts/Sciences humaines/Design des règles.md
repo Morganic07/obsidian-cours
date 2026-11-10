@@ -10,4 +10,4 @@ Dans OpenFisca, selon les notes SHS d'un groupe d'étudiants, le design de l'inf
 
 Notion parente : [[Open design]]. Voir aussi : [[Système expert]], [[Gouvernance par l'expertise]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

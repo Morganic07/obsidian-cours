@@ -20,6 +20,6 @@ Il apprend seul les réseaux directement connectés ; les réseaux distants dema
 
 Quand plusieurs sources (statique, OSPF, RIP…) proposent le même préfixe, le routeur choisit d'après la [[Distance administrative]].
 
-Voir aussi : [[Routage statique]], [[Routage dynamique]], [[Distance administrative]], [[Adresse MAC]].
+Voir aussi : [[Routage statique]], [[Routage dynamique]], [[Distance administrative]], [[Adresse MAC]], [[Commutation de paquets]], [[Suite des protocoles Internet]].
 
 Résumés : [[2 - Static Routing]]

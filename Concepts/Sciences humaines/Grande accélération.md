@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [Great Acceleration, grande accélération]
-sources: ["[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]", "[[Raw/Year 4/Culture du vivant/chp 2 - prise de note.docx|chp 2 - prise de note.docx]]"]
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : la Grande accélération désigne l'envolée simultanée, à partir de 1950 environ, des indicateurs de l'activité humaine et de ceux de l'état du système Terre.
@@ -19,6 +19,8 @@ La Grande accélération est l'argument principal pour faire commencer l'[[Anthr
 
 Le cours ne nomme pas la notion. Le schéma des ères géologiques de VIVANT1 date l'Anthropocène « à partir de 1950 », et la fiche explique cette date par la Grande accélération dans ses compléments.
 
+En 4e année, le cours montre les courbes elles-mêmes (« schémas des tendances du système planétaire », les douze graphes orange) : elles commencent en 1750, date de la [[Révolution industrielle|révolution industrielle]] et de la machine à vapeur, et 1950 marque le début de la [[Société de consommation|société de consommation]] ([[5 - Culture du vivant]]).
+
 Voir aussi : [[Anthropocène]], [[Limites planétaires]], [[Effet de serre]], [[Acidification des océans]]
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]], [[5 - Culture du vivant]]

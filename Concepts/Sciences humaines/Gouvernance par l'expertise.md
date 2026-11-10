@@ -7,7 +7,7 @@ aliases:
   - illusion de l'inclusion
 sources:
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -15,4 +15,4 @@ Insight des notes SHS d'un groupe d'étudiants : contribuer à Blender exige du 
 
 Notion parente : [[Communs numériques]]. Voir aussi : [[Dictature bienveillante]], [[Design contributif]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

@@ -18,4 +18,4 @@ VIVANT1 demande au design d'« observer et comprendre les impacts qu'on néglige
 
 Voir aussi : [[Habitabilité]], [[Responsabilité élargie du designer]], [[Principe responsabilité]], [[Anthropocène]]
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

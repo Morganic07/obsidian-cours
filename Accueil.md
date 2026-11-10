@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-08 : 1 467 concepts, rangés en cinq domaines dans `Concepts/` ; 159 résumés et 38 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-10 : 1 828 concepts, rangés en cinq domaines dans `Concepts/` ; 164 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (1467)
+## Concepts (1828)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -1686,6 +1686,387 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Sexisme ordinaire]] : identité des dirigeantes ramenée à leur corps plutôt qu'à leur fonction, selon Barbusse
 - [[Tokénisme]] : concept de Kanter (1977), un groupe minoritaire sous 15 à 20 % altère la dynamique
 
+**Year 4 - Culture du vivant, cours 2 (ajoutés le 2026-11-10)**
+
+- [[Cascade trophique]] : effet en chaîne d'un prédateur sur les niveaux inférieurs de la chaîne alimentaire (loups de Yellowstone)
+- [[Dédale et Icare]] : mythe grec de l'inventeur et de l'hubris (Ovide, *Métamorphoses*)
+- [[Droits de la nature]] : reconnaissance de droits propres à des entités naturelles, défendables en justice
+- [[Écoféminisme]] : lien entre exploitation de la nature et domination des femmes (Françoise d'Eaubonne, 1974)
+- [[Fabrique du consentement]] : *Propaganda* (1928) de Bernays, matrice du marketing moderne
+- [[Forêt (écosystème)]] : définition statistique (IGN, FAO) contre définition écologique
+- [[Mythe de Prométhée]] : mythe grec de l'origine des techniques (Platon, *Protagoras*)
+- [[Perspectivisme]] : la réalité comme somme des points de vue ; animisme selon Descola
+- [[Printemps silencieux]] : livre de Rachel Carson (1962) contre les pesticides, dont le DDT
+- [[Réensauvagement]] : réintroduction d'espèces disparues ou libre évolution d'un milieu
+- [[Révolution industrielle]] : passage à l'industrie mécanisée, repère conventionnel de 1750
+- [[Société de consommation]] : société née vers 1950 qui satisfait des besoins de confort plutôt qu'essentiels
+
+**Year 4 - histoire du design et interactions (ajoutés le 2026-11-10)**
+
+- [[ARPANET]] : premier réseau à commutation de paquets (1969), ancêtre d'Internet
+- [[Beat Generation]] : mouvement littéraire américain d'après-guerre (Kerouac, Ginsberg, Burroughs)
+- [[Commutation de paquets]] : données découpées en paquets envoyés par des chemins multiples
+- [[Conférences Macy]] : conférences interdisciplinaires qui diffusent la pensée cybernétique
+- [[Contre-culture]] : mouvements contestant les valeurs dominantes d'une société
+- [[Correspondance épistolaire]] : échange suivi de lettres manuscrites, pratique et genre littéraire
+- [[Courrier électronique]] : messages envoyés à travers un réseau, sur ARPANET dès 1971 (Tomlinson, @)
+- [[Cyberespace]] : le réseau comme espace virtuel navigable (Gibson, *Neuromancer*, 1984)
+- [[Cyberpunk]] : genre associant haute technologie, réseaux et sociétés dystopiques
+- [[Dystopie]] : récit d'une société imaginaire qui empêche le bonheur ou la liberté
+- [[Ethernet]] : réseau local développé à Xerox PARC dans les années 1970
+- [[Homéostasie]] : maintien dynamique de l'équilibre d'un système
+- [[HTML]] : langage qui structure une page Web et ses liens
+- [[HTTP]] : protocole des requêtes entre navigateur et serveur
+- [[Idéologie californienne]] : mélange de contre-culture et de libéralisme économique (Barbrook et Cameron, 1995)
+- [[Internet]] : le réseau des réseaux, distinct du Web
+- [[Langage SMS]] : écriture abrégée née sur les messageries et les SMS
+- [[Libertarianisme]] : philosophie de l'individu, du marché et de l'État minimal
+- [[Lien hypertexte]] : passage d'une information à une autre par un clic, cœur du Web
+- [[Messagerie instantanée]] : conversation écrite en temps réel (ICQ, AIM)
+- [[Modem]] : conversion des données numériques en signal téléphonique et inversement
+- [[Navigateur web]] : logiciel qui consulte le Web (Mosaic, Netscape)
+- [[Ordinateur central]] : gros ordinateur institutionnel qui centralise calcul et données
+- [[Ordinateur personnel]] : l'ordinateur comme outil individuel
+- [[Psychédélisme]] : culture de l'usage des hallucinogènes pour « élargir la conscience »
+- [[Réseau décentralisé]] : réseau sans centre de commande unique
+- [[Réseau social]] : service en ligne de profils, de liens et de publications
+- [[Silicon Valley]] : région de la baie de San Francisco, centre de l'innovation numérique
+- [[Skeuomorphisme]] : reprise des formes d'un ancien média dans un nouveau
+- [[SMS]] : message court entre téléphones portables, 160 caractères
+- [[Société de contrôle]] : notion de Deleuze (1990), prolongeant la société disciplinaire
+- [[Suite des protocoles Internet]] : TCP/IP, langue commune des réseaux
+- [[Théorie de l'information]] : théorie mathématique de la communication de Shannon (1948)
+- [[Uniform Penny Post]] : réforme postale britannique de 1840, courrier à un penny
+- [[URL]] : adresse d'une ressource sur le Web
+- [[Whole Earth Catalog]] : catalogue de Stewart Brand (1968), bible des pionniers de l'informatique
+- [[Xerox PARC]] : centre de recherche de Xerox (1970), ordinateur personnel connecté et interface graphique
+
+**Year 4 - Culture du vivant et histoire du design, enrichissement dense (ajoutés le 2026-11-10)**
+
+*Design*
+
+- [[Arts and Crafts]] : mouvement anglais de William Morris (XIXe siècle) contre la laideur industrielle
+- [[Calibri]] : police sans empattement de Lucas de Groot, défaut de Microsoft Office de 2007 à 2023
+- [[Deutscher Werkbund]] : association fondée à Munich en 1907 pour unir art et industrie
+- [[Dôme géodésique]] : structure sphérique en triangles, emblème des communautés hippies
+- [[Fairphone]] : entreprise néerlandaise (2013) de téléphones réparables et équitables
+- [[La Liseuse à la fenêtre]] : tableau de Vermeer, une jeune fille absorbée par une lettre
+- [[Manipulation directe]] : interaction par action sur des représentations visibles des objets
+- [[Production en série]] : fabrication d'exemplaires identiques à partir de pièces standardisées
+- [[Publicité 1984]] : spot de Ridley Scott qui lance le Macintosh d'Apple (1984)
+- [[Styling]] : redessin de l'apparence des produits pour relancer les ventes (années 1930)
+
+*Informatique*
+
+- [[AOL]] : fournisseur d'accès et de services en ligne américain (America Online)
+- [[Agent conversationnel]] : programme qui dialogue en langage naturel
+- [[Altair 8800]] : micro-ordinateur en kit de 1975, déclencheur de la micro-informatique
+- [[Annuaire web]] : site qui classe les sites web par catégories, tenu par des humains
+- [[Apple]] : entreprise fondée en 1976 par Jobs, Wozniak et Wayne
+- [[Architecture de von Neumann]] : organisation d'un ordinateur à programme enregistré (1945)
+- [[Arobase]] : signe @ choisi par Ray Tomlinson en 1971 pour les adresses de courriel
+- [[Avatar (informatique)]] : représentation graphique d'un utilisateur dans un environnement numérique
+- [[BBN]] : entreprise d'ingénierie qui construit les IMP d'ARPANET
+- [[Bletchley Park]] : siège de la cryptanalyse britannique pendant la Seconde Guerre mondiale
+- [[Bombe (cryptanalyse)]] : machine de Turing et Welchman pour casser Enigma
+- [[Calculabilité]] : étude de ce qu'une procédure mécanique peut calculer
+- [[Chiffrement]] : transformation d'un message pour le rendre illisible sans clé
+- [[Circuit intégré]] : nombreux composants réunis sur une plaquette de semi-conducteur
+- [[Client de messagerie]] : logiciel qui lit, rédige et envoie des courriels
+- [[Codage de Huffman]] : compression sans perte par codes de longueur variable (1952)
+- [[Code Morse]] : codage des lettres en signaux brefs et longs pour le télégraphe
+- [[Code correcteur d'erreurs]] : redondance calculée pour détecter et corriger des erreurs
+- [[Code d'état HTTP]] : nombre à trois chiffres qui indique le résultat d'une requête
+- [[Code source]] : texte d'un programme lisible par un humain
+- [[Communication asynchrone]] : communication sans présence simultanée des interlocuteurs
+- [[Compression de données]] : réduction de la taille d'une information
+- [[Contrôle (cybernétique)]] : capacité à orienter ou modifier le comportement d'un système
+- [[Cryptanalyse]] : science qui retrouve un message chiffré sans la clé
+- [[Dynabook]] : ordinateur portable imaginé par Alan Kay en 1972
+- [[Débit binaire]] : quantité de données transmise par seconde (bit/s)
+- [[Démonstration d'Engelbart]] : présentation de 1968 de la souris, de l'hypertexte et du travail en réseau
+- [[Effet Larsen]] : sifflement dû à une rétroaction positive entre micro et haut-parleur
+- [[Enigma]] : machine de chiffrement allemande cassée à Bletchley Park
+- [[Fairchild Semiconductor]] : entreprise de semi-conducteurs fondée en 1957, berceau de la Silicon Valley
+- [[Formulaire web]] : partie d'une page qui permet de saisir et d'envoyer des données
+- [[Forum Internet]] : espace de discussion en ligne organisé par sujets
+- [[GSM]] : norme européenne de téléphonie mobile numérique (2G)
+- [[Google]] : entreprise fondée en 1998 autour du moteur de recherche PageRank
+- [[Guerre des navigateurs]] : rivalité Netscape contre Internet Explorer (1995-2000)
+- [[Hewlett-Packard]] : entreprise née dans un garage de Palo Alto (1938-1939)
+- [[Homebrew Computer Club]] : club d'amateurs d'informatique de Menlo Park (1975)
+- [[Hébergement web]] : mise à disposition d'espace sur un serveur web
+- [[IBM PC]] : micro-ordinateur d'IBM de 1981, devenu standard
+- [[IBM]] : entreprise informatique américaine née en 1911
+- [[IEEE]] : association internationale des ingénieurs, éditrice de normes (802.3)
+- [[Images de synthèse]] : images entièrement calculées par ordinateur
+- [[Imprimante]] : périphérique qui reproduit textes et images sur papier
+- [[Information]] : élément qui permet à un système d'observer son environnement et de s'adapter
+- [[Informatique distribuée]] : traitement réparti entre plusieurs ordinateurs reliés par un réseau
+- [[Intel]] : entreprise fondée en 1968, inventrice du microprocesseur
+- [[Interface Message Processor]] : mini-ordinateur qui aiguille les paquets sur ARPANET
+- [[Jeu vidéo]] : jeu géré par un programme et joué sur écran
+- [[Laboratoires Bell]] : centre de recherche d'AT&T (transistor, Unix, théorie de l'information)
+- [[Langage de balisage]] : langage qui marque la structure d'un texte par des balises
+- [[Logiciel libre]] : logiciel qui garantit quatre libertés à ses utilisateurs
+- [[Loi de Moore]] : doublement régulier du nombre de transistors par puce (1965)
+- [[Macintosh]] : ordinateur personnel d'Apple de 1984 à interface graphique
+- [[Memex]] : machine documentaire imaginée par Vannevar Bush en 1945
+- [[Microsoft]] : éditeur de logiciels fondé en 1975 par Bill Gates et Paul Allen
+- [[Moteur de recherche]] : service qui retrouve des pages web par mots-clés
+- [[Mozilla]] : projet de navigateur issu de Netscape
+- [[Métavers]] : Internet comme espace virtuel habitable
+- [[NeXT]] : entreprise de Steve Jobs (1985), ordinateur du premier serveur web
+- [[Nom de domaine]] : nom lisible qu'un DNS traduit en adresse IP
+- [[Notification]] : message bref qui signale un événement sur un appareil
+- [[Nœud (réseau)]] : équipement relié à un réseau qui émet, reçoit ou relaie des données
+- [[Ordinateur analogique]] : machine qui calcule avec des grandeurs physiques continues
+- [[Ordinateur portable]] : ordinateur personnel autonome et transportable
+- [[PLATO (système)]] : système d'enseignement assisté par ordinateur des années 1960-1970
+- [[PageRank]] : algorithme qui mesure l'importance d'une page par ses liens entrants
+- [[Portail web]] : site d'entrée du Web regroupant recherche, actualités et services
+- [[Protocole de communication]] : règles d'échange de données entre machines
+- [[Radar]] : détection d'objets à distance par écho d'ondes radio
+- [[Redondance (théorie de l'information)]] : part prévisible d'un message, sans information nouvelle
+- [[Robot d'indexation]] : programme qui parcourt le Web pour alimenter un moteur de recherche
+- [[Réalité virtuelle]] : immersion dans un environnement simulé par ordinateur
+- [[Régulation (systèmes)]] : maintien d'une grandeur près d'une consigne
+- [[Réseau]] : organisation d'éléments reliés les uns aux autres
+- [[Satellite de télécommunications]] : satellite qui relaie des signaux entre stations terrestres
+- [[Semi-conducteur]] : matériau à conductivité intermédiaire, base des transistors
+- [[Serveur web]] : logiciel qui envoie les ressources web aux navigateurs
+- [[Servomécanisme]] : dispositif qui asservit une grandeur à une consigne
+- [[Signal (télécommunications)]] : grandeur physique qui porte une information
+- [[Souris (informatique)]] : dispositif de pointage inventé par Engelbart
+- [[Symbiose homme-machine]] : coopération humain-ordinateur selon Licklider (1960)
+- [[Système complexe]] : système dont le comportement global émerge d'interactions locales
+- [[TENEX]] : système d'exploitation de BBN, berceau du courriel en réseau
+- [[Temps partagé]] : partage du temps de calcul d'un ordinateur entre plusieurs utilisateurs
+- [[Thèse de Church-Turing]] : tout calcul effectif est réalisable par une machine de Turing
+- [[Télex]] : réseau commuté de téléimprimeurs
+- [[Télégraphe]] : transmission à distance de messages codés
+- [[Téléphone mobile]] : téléphone sans fil relié à un réseau cellulaire
+- [[Téléphone]] : transmission de la voix à distance par signal électrique
+- [[Union internationale des télécommunications]] : organisation internationale des télécommunications (1865)
+- [[Unix]] : système d'exploitation des Laboratoires Bell (1969)
+- [[W3C]] : organisme de normalisation du Web fondé par Berners-Lee (1994)
+- [[WELL]] : communauté en ligne fondée en 1985 par Stewart Brand
+- [[WIMP]] : modèle d'interface fenêtres, icônes, menus, pointeur
+- [[Webmail]] : courriel consulté dans un navigateur
+- [[Xerox Alto]] : ordinateur du PARC (1973) avec écran graphique, souris et Ethernet
+
+*Mathématiques*
+
+- [[Entscheidungsproblem]] : problème de la décision posé par Hilbert et Ackermann (1928)
+- [[Modèle de Lotka-Volterra]] : équations des populations de proies et de prédateurs
+- [[Système de réaction-diffusion]] : modèle de morphogenèse de Turing (1952)
+
+*Sciences humaines*
+
+- [[1984 (roman)]] : roman d'Orwell (1949), imaginaire du totalitarisme et de la surveillance
+- [[Accélération sociale]] : thèse d'Hartmut Rosa sur l'accélération du rythme de vie
+- [[Agence de protection de l'environnement]] : agence fédérale américaine créée en 1970
+- [[Agence internationale de l'énergie]] : organisation de l'OCDE sur l'énergie (1974)
+- [[Agent orange]] : herbicide défoliant contaminé à la dioxine, répandu au Vietnam
+- [[Aire protégée]] : espace délimité et géré pour conserver la nature
+- [[Alphabet]] : écriture dont les lettres notent les sons de la langue
+- [[Alphabétisation]] : apprentissage de la lecture et de l'écriture
+- [[Amazonie]] : plus grande forêt tropicale du monde
+- [[Analogisme]] : ontologie de Descola, un monde d'êtres singuliers liés par des correspondances
+- [[Analyse coût-bénéfice]] : évaluation d'une décision par ses coûts et avantages
+- [[Animisme]] : ontologie de Descola, même intériorité, corps différents
+- [[Aphorisme]] : pensée formulée de façon brève et frappante
+- [[Argot]] : vocabulaire propre à un groupe social
+- [[Aubade (poème)]] : poème de Philip Larkin (1977) sur la peur de la mort
+- [[Autoroute de l'information]] : métaphore des réseaux comme infrastructure de transport
+- [[Aux sources de l'utopie numérique]] : livre de Fred Turner sur contre-culture et cyberculture
+- [[Big Brother]] : chef omniprésent de *1984*, symbole de la surveillance
+- [[Bioaccumulation]] : accumulation d'une substance dans un organisme et le long de la chaîne alimentaire
+- [[Biodiversité]] : variété du vivant aux niveaux génétique, spécifique et écosystémique
+- [[Biomasse]] : masse totale des êtres vivants d'un groupe ou d'un milieu
+- [[Blade Runner]] : film de Ridley Scott (1982), référence cyberpunk
+- [[Bulle Internet]] : bulle spéculative sur les entreprises du Web (fin des années 1990)
+- [[CERN]] : organisation européenne pour la recherche nucléaire, berceau du Web
+- [[CIA]] : agence de renseignement extérieur des États-Unis (1947)
+- [[Capital-risque]] : financement de jeunes entreprises contre une part du capital
+- [[Carte postale]] : carte envoyée sans enveloppe avec un message bref
+- [[Cartel Phœbus]] : entente de 1924 limitant la durée de vie des ampoules
+- [[Centrale nucléaire de Fessenheim]] : plus ancienne centrale française, fermée en 2020
+- [[Changement climatique]] : modification durable du climat de la Terre
+- [[Charbon]] : combustible fossile issu de végétaux enfouis
+- [[Chaîne alimentaire]] : suite d'êtres vivants dont chacun se nourrit du précédent
+- [[City Lights]] : librairie et maison d'édition de la Beat Generation à San Francisco
+- [[Communauté intentionnelle]] : communauté alternative fondée hors des villes par la contre-culture
+- [[Communauté virtuelle]] : groupe aux liens durables à travers un réseau informatique
+- [[Computer Lib]] : livre de Ted Nelson (1974) pour une informatique au service de tous
+- [[Conformisme]] : adoption des normes dominantes d'un groupe
+- [[Conscience phonologique]] : capacité à manipuler les sons de la langue orale
+- [[Contrôle social]] : moyens par lesquels une société fait respecter ses normes
+- [[Convention de Stockholm]] : traité de 2001 sur les polluants organiques persistants
+- [[Couche d'ozone]] : couche de la stratosphère qui absorbe les ultraviolets
+- [[Coupe rase]] : abattage de tous les arbres d'une parcelle en une fois
+- [[Crédit à la consommation]] : prêt pour financer des achats hors immobilier
+- [[Cybernétique et société]] : livre de Norbert Wiener (1950)
+- [[Cycle de l'azote]] : circulation de l'azote entre air, sols, êtres vivants et eaux
+- [[Cycle de l'eau]] : circulation permanente de l'eau sur la planète
+- [[DARPA]] : agence de recherche du département de la Défense, ARPA jusqu'en 1972
+- [[DDT]] : insecticide organochloré dénoncé par Rachel Carson
+- [[DEI]] : politiques de diversité, d'équité et d'inclusion
+- [[Dioxine]] : composés chlorés très toxiques et persistants
+- [[Dioxyde de carbone]] : CO₂, principal gaz à effet de serre d'origine humaine
+- [[Durabilité des produits]] : capacité d'un produit à fonctionner longtemps
+- [[Décarbonation]] : réduction des émissions de gaz à effet de serre
+- [[Déclaration d'indépendance du cyberespace]] : texte de John Perry Barlow (1996)
+- [[Département de la Défense des États-Unis]] : ministère américain des forces armées
+- [[EPCOT]] : ville modèle imaginée par Walt Disney, jamais réalisée
+- [[Empreinte carbone]] : émissions dues à la consommation, importations comprises
+- [[Encyclopédie]] : ouvrage qui ordonne l'ensemble des connaissances
+- [[Entités nouvelles]] : substances créées par l'humain, une des limites planétaires
+- [[Entrepreneuriat]] : création et développement d'une entreprise
+- [[Espèce (biologie)]] : populations capables de se reproduire entre elles
+- [[Espèce exotique envahissante]] : espèce introduite qui nuit au milieu d'accueil
+- [[Extinction de masse]] : disparition d'au moins trois quarts des espèces en peu de temps
+- [[FAO]] : organisation des Nations unies pour l'alimentation et l'agriculture
+- [[Gaz à effet de serre]] : gaz qui retiennent le rayonnement infrarouge de la Terre
+- [[Geek]] : passionné d'informatique et de cultures de niche
+- [[Genèse]] : premier livre de la Bible
+- [[Grande Dépression]] : crise économique mondiale ouverte par le krach de 1929
+- [[Grateful Dead]] : groupe de rock emblématique de la contre-culture californienne
+- [[Guerre de Sécession]] : guerre civile américaine (1861-1865)
+- [[Guerre du Viêt Nam]] : conflit de 1955 à 1975, cible de la contestation américaine
+- [[Guerre froide]] : affrontement entre États-Unis et URSS (1947-1991)
+- [[Génération Y]] : génération née entre le début des années 1980 et le milieu des années 1990
+- [[Habitat (écologie)]] : milieu où une espèce trouve les conditions de sa vie
+- [[Haight-Ashbury]] : quartier hippie de San Francisco
+- [[Herbicide]] : pesticide contre les plantes indésirables
+- [[Hiéroglyphes égyptiens]] : écriture de l'Égypte ancienne
+- [[Howl]] : poème d'Allen Ginsberg (1956), texte fondateur de la Beat Generation
+- [[Hubris]] : démesure punie par les dieux dans la pensée grecque
+- [[IGN]] : institut français de l'information géographique et forestière
+- [[Indice Planète Vivante]] : indicateur de l'abondance des populations de vertébrés sauvages
+- [[Indice de réparabilité]] : note sur 10 affichée sur certains appareils depuis 2021
+- [[Industrie culturelle]] : production en série de la culture selon Adorno et Horkheimer
+- [[Ingénierie écologique]] : techniques fondées sur les écosystèmes pour restaurer des milieux
+- [[Insecticide]] : pesticide contre les insectes
+- [[Introduction en bourse]] : première vente au public des actions d'une entreprise
+- [[Jazz]] : genre musical afro-américain, musique de la Beat Generation
+- [[Jour de la Terre]] : journée pour l'environnement lancée le 22 avril 1970
+- [[LSD]] : hallucinogène puissant, au cœur du psychédélisme
+- [[La Dialectique de la raison]] : livre d'Horkheimer et Adorno (1944-1947)
+- [[La Grève (roman)]] : roman d'Ayn Rand (1957, *Atlas Shrugged*)
+- [[Laudato si']] : encyclique du pape François sur l'écologie (2015)
+- [[Le Choc du futur]] : essai d'Alvin Toffler (1970) sur la surcharge informationnelle
+- [[Le Festin nu]] : roman de William S. Burroughs (1959)
+- [[Le Meilleur des mondes]] : roman d'Aldous Huxley (1932), société contrôlée par le conditionnement
+- [[Les Portes de la perception]] : essai d'Aldous Huxley (1954) sur la mescaline
+- [[Libre évolution]] : gestion d'espaces naturels sans intervention humaine
+- [[Libéralisme économique]] : doctrine de la propriété privée et de la libre concurrence
+- [[Logogramme]] : signe d'écriture qui note un mot entier
+- [[Loi AGEC]] : loi française anti-gaspillage pour une économie circulaire (2020)
+- [[Loup gris]] : grand canidé prédateur, réintroduit à Yellowstone
+- [[Lutte du Larzac]] : résistance paysanne contre l'extension d'un camp militaire (1971-1981)
+- [[MKUltra]] : programme secret de la CIA sur le contrôle mental (1953-1973)
+- [[Maccarthysme]] : chasse aux communistes aux États-Unis au début de la guerre froide
+- [[Machine à vapeur]] : moteur thermique de la révolution industrielle
+- [[Marketing]] : méthodes pour étudier un marché et orienter la demande
+- [[Massachusetts Institute of Technology]] : université de recherche de Cambridge (Massachusetts)
+- [[Merry Pranksters]] : groupe de Ken Kesey et de son bus psychédélique
+- [[Mescaline]] : alcaloïde hallucinogène du peyotl
+- [[Milieu intérieur]] : notion de Claude Bernard, origine de l'homéostasie
+- [[Minima Moralia]] : livre d'Adorno (1951) sur l'emprise de la logique industrielle
+- [[Mix électrique]] : répartition de la production d'électricité entre les sources
+- [[Mondialisation]] : intensification des échanges à l'échelle planétaire
+- [[Monoculture]] : culture d'une seule espèce sur une grande surface
+- [[Mouvement hippie]] : courant de la contre-culture américaine des années 1960
+- [[Mécanique quantique]] : théorie physique du monde atomique
+- [[Médias de masse]] : moyens de diffuser un même message à un très large public
+- [[Métaphore]] : figure qui désigne une chose par le nom d'une autre
+- [[Méthode globale]] : apprentissage de la lecture par mots entiers
+- [[Méthode mixte]] : apprentissage de la lecture mêlant reconnaissance visuelle et décodage
+- [[Méthode syllabique]] : apprentissage de la lecture par décodage des sons
+- [[NASA]] : agence spatiale civile américaine (1958)
+- [[Naturalisme (Descola)]] : ontologie occidentale moderne selon Descola
+- [[Neuromancer]] : roman de William Gibson (1984) qui popularise le cyberespace
+- [[Norme sociale]] : règle de conduite partagée par un groupe
+- [[Nouveaux Communalistes]] : courant de la contre-culture qui mise sur la technique (Fred Turner)
+- [[Nouvelle Gauche]] : mouvements militants des années 1960 qui veulent changer la société
+- [[Objectivisme]] : philosophie d'Ayn Rand, égoïsme rationnel et capitalisme
+- [[Obsolescence programmée]] : conception d'objets à durée de vie raccourcie pour faire racheter
+- [[Office national des forêts]] : établissement public qui gère les forêts publiques françaises
+- [[Office of Scientific Research and Development]] : agence américaine de mobilisation scientifique (1941)
+- [[Ontologie]] : étude de l'être et des sortes d'êtres
+- [[Organisation mondiale de la santé]] : institution de l'ONU pour la santé (1948)
+- [[Paludisme]] : maladie parasitaire transmise par les moustiques
+- [[Pan (mythologie)]] : dieu grec, symbole de l'harmonie entre humains et nature
+- [[Personne morale]] : groupement doté par la loi d'une personnalité juridique
+- [[Pesticide]] : substance contre les organismes jugés nuisibles
+- [[Pew Research Center]] : centre de recherche américain sur l'opinion et les usages
+- [[Please Mr. Postman]] : chanson des Marvelettes (1961) sur l'attente d'une lettre
+- [[Polluant organique persistant]] : substance toxique, persistante, bioaccumulable et mobile
+- [[Population (écologie)]] : individus d'une même espèce dans une même zone
+- [[Poste (service postal)]] : service qui collecte et distribue le courrier
+- [[Profilage des consommateurs]] : orienter les choix des consommateurs par la publicité
+- [[Propagande]] : diffusion organisée d'une idéologie pour orienter l'opinion
+- [[Psychologie]] : science des comportements et des processus mentaux
+- [[Publicité]] : communication payée pour promouvoir un produit ou une marque
+- [[Pudeur et justice]] : vertus politiques données aux hommes par Zeus dans le *Protagoras*
+- [[Pédagogie progressiste]] : pédagogie centrée sur l'enfant et son activité
+- [[RAND Corporation]] : think tank américain de la guerre froide (1948)
+- [[Radiation Laboratory]] : laboratoire du MIT consacré au radar (1940-1945)
+- [[Raison instrumentale]] : raison réduite au calcul des moyens selon l'École de Francfort
+- [[Rationalisation]] : organisation des activités selon le calcul et l'efficacité (Weber)
+- [[Relations publiques]] : gestion de l'image d'une organisation auprès des publics
+- [[Relativité]] : théories d'Einstein sur l'espace, le temps et la gravitation
+- [[Retour à la terre]] : départ de la contre-culture vers des communautés rurales
+- [[Réserve fédérale]] : banque centrale des États-Unis (1913)
+- [[SRI International]] : institut de recherche de Menlo Park, nœud d'ARPANET
+- [[Savoir-vivre]] : règles de politesse d'une société
+- [[Science-fiction]] : fiction qui imagine les effets de sciences et techniques
+- [[Sciences cognitives]] : disciplines qui étudient la pensée, la perception et le langage
+- [[Scolyte]] : coléoptère qui tue les arbres affaiblis par les sécheresses
+- [[Seconde Guerre mondiale]] : conflit mondial de 1939 à 1945
+- [[Sobriété énergétique]] : baisse de la consommation d'énergie par le changement des usages
+- [[Sociabilité]] : ensemble des relations qu'on entretient avec autrui
+- [[Sociolinguistique]] : étude de la langue dans ses rapports avec la société
+- [[Sociologie]] : science des sociétés et des relations sociales
+- [[Société de l'information]] : société dont l'information est la principale richesse
+- [[Spoutnik]] : premier satellite artificiel, soviétique (1957)
+- [[Stanford Research Park]] : parc d'entreprises de l'université Stanford (1951)
+- [[Start-up]] : jeune entreprise innovante à forte croissance visée
+- [[Stoïcisme]] : école philosophique grecque, la nature comme Tout ordonné
+- [[Substance (philosophie)]] : ce qui existe par soi sous les changements
+- [[Summer of Love]] : rassemblement hippie de l'été 1967 à San Francisco
+- [[Superprédateur]] : prédateur au sommet de la chaîne alimentaire
+- [[Sur la route]] : roman de Jack Kerouac (1957), emblème de la Beat Generation
+- [[Surveillance de masse]] : observation systématique d'une population entière
+- [[Symbiose]] : association durable entre organismes d'espèces différentes
+- [[Systémique]] : étude d'un objet comme système d'éléments en interaction
+- [[Taylorisme]] : organisation scientifique du travail de Frederick W. Taylor
+- [[The Medium is the Massage]] : livre de McLuhan et Fiore (1967)
+- [[Timbre-poste]] : vignette d'affranchissement payée d'avance
+- [[Totalitarisme]] : régime qui prétend contrôler la totalité de la vie sociale
+- [[Totémisme]] : ontologie de Descola, humains et non-humains en classes partagées
+- [[Tron]] : film de 1982, l'univers informatique comme espace habitable
+- [[Université Stanford]] : université californienne au cœur de la Silicon Valley
+- [[Utopie]] : représentation d'une société idéale
+- [[Vente par correspondance]] : commerce à distance sur catalogue
+- [[Ville nouvelle]] : ville créée selon un plan d'ensemble
+- [[Vous avez un mess@ge]] : comédie de Nora Ephron (1998) sur une romance par courriel
+- [[Véhicule électrique]] : véhicule mû par un moteur électrique sur batterie
+- [[WWF]] : ONG internationale de protection de la nature (1961)
+- [[École de Francfort]] : courant de philosophie critique (Adorno, Horkheimer)
+- [[Écologie (science)]] : science des relations des êtres vivants avec leur milieu
+- [[Écologisme]] : courant politique qui veut transformer la société pour protéger la nature
+- [[Écosystème]] : communauté d'êtres vivants et son milieu physique
+- [[Écriture cunéiforme]] : écriture née à Sumer en Mésopotamie
+- [[Électrification]] : remplacement d'équipements fossiles par des équipements électriques
+- [[Émissions territoriales]] : gaz à effet de serre émis sur le sol d'un pays
+- [[Émoji]] : pictogramme inséré dans un texte numérique
+- [[Énergie nucléaire]] : énergie libérée par la fission de l'uranium
+- [[Énergies renouvelables]] : énergies tirées de flux naturels (soleil, vent, eau…)
+- [[Éthique hacker]] : valeurs des premiers passionnés d'informatique du MIT
+- [[Évapotranspiration]] : eau rendue à l'atmosphère par évaporation et transpiration des plantes
+
 **Autres**
 
 - [[Linéarisation trigonométrique]] : nommé dans le cours, sans définition
@@ -1694,7 +2075,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (159)
+## Résumés de sources (164)
 
 ### Documents PDF et PPTX (33)
 
@@ -1708,9 +2089,9 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 2, SHS** : [[1 - Ethnographie visuelle]]
 - **Year 3, Affordance** : [[1 - UX]], [[2 - UX]]
 - **Year 3, Computer Network** : [[2 - IP Addressing]]
-- **Year 3, Culture du vivant** : [[4 - Culture du vivant]]
+- **Year 3, Culture du vivant** : [[3 - Culture du vivant]]
 - **Year 3, Projet courts** : [[Santé au travail (Projet year 3)]]
-- **Year 3, SHS** : [[2 - imaginaires du futur]], [[4 - imaginaires automobile]], [[5 - imaginaires de l'automobile]], [[6 - usages sociaux de l'automobile]]
+- **Year 3, SHS** : [[2 - imaginaires du futur]], [[3 - imaginaires automobile]], [[4 - imaginaires de l'automobile]], [[5 - usages sociaux de l'automobile]]
 - **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
 - **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre)
 - **Year 4, culture du soin** : [[1 - culture du soin]]
@@ -1743,7 +2124,7 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 
 - **Hors matière** : [[1 - Savoir rechercher sur Google]]
 - **Computer Network** : [[2 - Static Routing]], [[3 - Dynamic Routing]], [[4 - VLAN ／ IVR Commands]], [[5 - NAT ／ PAT]], [[7 - Cisco]], [[1 - Computer Networks]], [[6 - Access Control List]]
-- **Culture du vivant** : [[2 - Culture du vivant]], [[3 - Culture du vivant]]
+- **Culture du vivant** : [[1 - Culture du vivant]], [[2 - Culture du vivant]]
 - **Data analysis** : [[1 - Data analysis|Cours 1]], [[2 - Introduction statistics]], [[3 - Paradoxe de Simpson]], [[4 - Estimation]], [[5 - Hypothesis Testing]], [[6 - T-Test]], [[7 - Z-Test]], [[8 - Chi²-Test]], [[9 - Covariance and Correlation]], [[10 - linear regression]], [[11 - Multiple Linear Regression and F-statistic]], [[12 - ANOVA and F-statistic]], [[13 - Principal Components Analysis]], [[13 - PCA in R]], [[14 - functions in RStudio]]
 - **Data base** : [[1 - Database]], [[2 - opérateurs et SQL]]
 - **IA** : [[1 - IA|Cours 1]]
@@ -1756,8 +2137,9 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 
 - **Gestion financière** : [[1 - gestion financière]]
 - **C++** : [[1 - basiques]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[2 - structures code]]
-- **Culture du vivant** : [[1 - Culture du vivant]]
-- **SHS** : [[3 - Prise de note]]
+- **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]]
+- **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]]
+- **SHS** : [[6 - design libre]]
 - **data mining** : [[1 - intro to data mining]]
 - **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]]
 - **projet court** : [[Fondaction Football]]
@@ -1801,7 +2183,7 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 - [[2 - Symmetric matrices and quadratic forms]] : théorème spectral, formes quadratiques, SVD
 - [[3 - Invertible matrix theorem]] : les 20 énoncés équivalents
 
-## Matières (38)
+## Matières (39)
 
 Chaque matière a son dossier `Cours/<Domaine>/<Matière>/`, qui contient sa carte `_index` et ses résumés. Les domaines sont ceux de `Concepts/`, dont les dossiers portent le nom du domaine. Une matière suivie sur plusieurs années a une seule carte, avec une section par année.
 
@@ -1810,7 +2192,7 @@ Par domaine :
 - **Mathématiques** (7) : [[Cours/Mathématiques/Algèbre linéaire/_index|Algèbre linéaire]], [[Cours/Mathématiques/Analyse/_index|Analyse]], [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]], [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]], [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]], [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]], [[Cours/Mathématiques/Séries/_index|Séries]]
 - **Probabilités et statistiques** (3) : [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]], [[Cours/Probabilités et statistiques/Probability/_index|Probability]], [[Cours/Probabilités et statistiques/Statistics/_index|Statistics]]
 - **Informatique** (9) : [[Cours/Informatique/Algo/_index|Algo]], [[Cours/Informatique/C++/_index|C++]], [[Cours/Informatique/Computer Network/_index|Computer Network]], [[Cours/Informatique/Data base/_index|Data base]], [[Cours/Informatique/Data mining/_index|Data mining]], [[Cours/Informatique/Graph theory/_index|Graph theory]], [[Cours/Informatique/IA/_index|IA]], [[Cours/Informatique/Java/_index|Java]], [[Cours/Informatique/OS/_index|Operating System]]
-- **Design** (12) : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Design/Dessein au cube/_index|Dessein au cube]], [[Cours/Design/HDA/_index|HDA]], [[Cours/Design/Peinture/_index|Peinture]], [[Cours/Design/Projet year 1/_index|Projet design (Year 1)]], [[Cours/Design/Projet year 2/_index|Projet design (Year 2)]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Design/Projet year 3/_index#Workshop|Workshop]]
+- **Design** (13) : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Design/Dessein au cube/_index|Dessein au cube]], [[Cours/Design/HDA/_index|HDA]], [[Cours/Design/Histoire du design/_index|Histoire du design]], [[Cours/Design/Peinture/_index|Peinture]], [[Cours/Design/Projet year 1/_index|Projet design (Year 1)]], [[Cours/Design/Projet year 2/_index|Projet design (Year 2)]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Design/Projet year 3/_index#Workshop|Workshop]]
 - **Sciences humaines** (6) : [[Cours/Sciences humaines/Communication orale/_index|Communication orale]], [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]], [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]], [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]], [[Cours/Sciences humaines/Philosophie/_index|Philosophie]], [[Cours/Sciences humaines/SHS/_index|SHS]], et [[1 - Savoir rechercher sur Google]] (Séance BU, sans carte)
 
 Par année :
@@ -1818,13 +2200,13 @@ Par année :
 - **Year 1** : [[Cours/Mathématiques/Algèbre linéaire/_index|Algèbre linéaire]], [[Cours/Informatique/Algo/_index|Algo]] (aussi Year 2), [[Cours/Mathématiques/Analyse Maths/_index|Analyse Maths]], [[Cours/Sciences humaines/Communication orale/_index|Communication orale]], [[Cours/Design/Corps à l'oeuvre/_index|Corps à l'oeuvre]] (aussi Year 2), [[Cours/Design/Dessein au cube/_index|Dessein au cube]], [[Cours/Design/HDA/_index|HDA]], [[Cours/Mathématiques/Outil Maths/_index|Outil Maths]], [[Cours/Design/Peinture/_index|Peinture]], [[Cours/Sciences humaines/Philosophie/_index|Philosophie]] (aussi Year 2), [[Cours/Design/Projet year 1/_index|Projet design (Year 1)]]
 - **Year 2** : [[Cours/Informatique/Algo/_index|Algo]], [[Cours/Mathématiques/Analyse/_index|Analyse]], [[Cours/Mathématiques/Analyse dans Rn/_index|Analyse dans Rn]], [[Cours/Mathématiques/Bilinear Algebra/_index|Bilinear Algebra]], [[Cours/Informatique/OS/_index|Operating System]], [[Cours/Probabilités et statistiques/Probability/_index|Probability]], [[Cours/Design/Projet year 2/_index|Projet design (Year 2)]], [[Cours/Sciences humaines/SHS/_index|SHS]] (aussi Year 3 et 4)
 - **Year 3** : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Informatique/Computer Network/_index|Computer Network]], [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]] (aussi Year 4), [[Cours/Probabilités et statistiques/Data analysis/_index|Data analysis]], [[Cours/Informatique/Data base/_index|Data base]], [[Cours/Informatique/IA/_index|IA]], [[Cours/Informatique/Java/_index|Java]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Mathématiques/Séries/_index|Séries]], [[Cours/Probabilités et statistiques/Statistics/_index|Statistics]], [[Cours/Design/Projet year 3/_index#Workshop|Workshop]], [[1 - Savoir rechercher sur Google]] (sans carte)
-- **Year 4** : [[Cours/Informatique/C++/_index|C++]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Informatique/Data mining/_index|Data mining]], [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]], [[Cours/Informatique/Graph theory/_index|Graph theory]], [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]]
+- **Year 4** : [[Cours/Informatique/C++/_index|C++]], [[Cours/Design/Culture du soin/_index|Culture du soin]], [[Cours/Informatique/Data mining/_index|Data mining]], [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]], [[Cours/Informatique/Graph theory/_index|Graph theory]], [[Cours/Design/Histoire du design/_index|Histoire du design]], [[Cours/Sciences humaines/Management de l'innovation/_index|Management de l'innovation]], [[Cours/Design/Projet year 4/_index|Projet design (Year 4)]]
 
 Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Affordance/_index|Affordance]], [[Cours/Design/Projet year 3/_index|Projet design (Year 3)]], [[Cours/Design/Sémiotique/_index|Sémiotique]], [[Cours/Design/Culture du soin/_index|Culture du soin]], et la partie Year 2 de [[Cours/Sciences humaines/SHS/_index|SHS]].
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (207 : 147 docx, 54 pdf, 6 pptx), par dossier de Drive, au 2026-11-08. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (212 : 149 docx, 57 pdf, 6 pptx), par dossier de Drive, au 2026-11-10. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -1840,4 +2222,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C++ (3 docx, 2 pdf), culture du soin (1 pdf), Culture du vivant (1 docx), data mining (1 docx, 1 pdf), graph theory (5 docx), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx), plus 1 docx à la racine de `Year 4` (Gestion financière)
+C++ (3 docx, 2 pdf), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 1 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

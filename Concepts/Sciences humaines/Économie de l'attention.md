@@ -1,7 +1,7 @@
 ---
 type: concept
-tags: [year3]
-aliases: [attention economy, captation de l'attention, FOMO, fear of missing out]
+tags: [year3, year4]
+aliases: [attention economy, captation de l'attention, FOMO, fear of missing out, surcharge informationnelle, information overload]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
 maj: 2026-11-08
 ---
@@ -22,6 +22,8 @@ maj: 2026-11-08
 - Cours 1 analyse « en survol » un réseau social à flux d'images (diapositives 23-24) : flux vertical infini, scroll facile, réaction machinale, « attention fragmentée, continue mais peu réflexive ». La notion apparaît dans les compléments de [[1 - sémiotique]].
 - Cours 3 montre que le temps est **éditorialisé** : les interfaces produisent du « récent », du « nouveau », du « à ne pas manquer » (timeline, feed, stories éphémères, notifications), et le temps devient un dispositif d'attention ([[3 - sémiotique]]).
 
-Voir aussi : [[Temps des écrans]], [[Travail invisible des utilisateurs]], [[Économie des données]], [[Gamification]], [[Charge cognitive]]
+- En histoire du design (Year 4), [[2 - De courrier à courriels]] montre l'avalanche de [[Courrier électronique|courriels]] qui réclament chacun de l'attention : les messages se raccourcissent, la communication devient une suite de transactions, la lecture se fait d'un coup d'œil dans plusieurs fenêtres. Le support [[2 - Histoire du design]] définit l'**attention** comme la « ressource sollicitée par l'augmentation du nombre de messages » ; la synthèse [[2 - Prise de note de courrier à courriel]] parle de « surcharge mentale ».
 
-Résumés : [[1 - sémiotique]], [[3 - sémiotique]]
+Voir aussi : [[Temps des écrans]], [[Travail invisible des utilisateurs]], [[Économie des données]], [[Gamification]], [[Charge cognitive]], [[Messagerie instantanée]]
+
+Résumés : [[1 - sémiotique]], [[3 - sémiotique]], [[2 - De courrier à courriels]], [[2 - Histoire du design]]

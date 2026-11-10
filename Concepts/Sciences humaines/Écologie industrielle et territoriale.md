@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -17,4 +17,4 @@ Pilier de l'[[Économie circulaire]] dans le dernier cours de culture du vivant.
 
 Notion parente : [[Économie circulaire]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

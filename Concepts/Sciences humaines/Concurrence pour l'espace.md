@@ -10,4 +10,4 @@ Hypothèse de Boltanski (text3) : la multiplication des automobiles substitue la
 
 Voir aussi : [[Caractérologie des véhicules]], [[Ethos de classe]].
 
-Résumés : [[6 - usages sociaux de l'automobile]], [[2 - imaginaires du futur]]
+Résumés : [[5 - usages sociaux de l'automobile]], [[2 - imaginaires du futur]]

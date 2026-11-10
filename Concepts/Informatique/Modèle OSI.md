@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [OSI model, modèle de référence OSI, Open Systems Interconnection, couches OSI, OSI layers, modèle TCP/IP]
 sources: ["[[Raw/Year 3/Computer Network/Chp4 :  VLAN ／ IVR Commands.docx|Chp4 - VLAN ／ IVR Commands]]", "[[Raw/Year 3/Computer Network/Formation CISCO Packet Tracer.docx|Formation CISCO Packet Tracer]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : le modèle OSI (*Open Systems Interconnection*) est le modèle de référence de l'ISO (norme ISO/IEC 7498, 1984) qui découpe la communication réseau en sept couches. Chaque couche rend un service à la couche du dessus en s'appuyant sur celle du dessous, et dialogue avec la couche de même niveau de la machine distante par son propre protocole.
@@ -28,6 +28,8 @@ maj: 2026-11-08
 
 Le cours ne le présente pas. Les compléments de [[4 - VLAN ／ IVR Commands]] et de [[7 - Cisco]] situent le routeur au niveau 3 (adresses IP, table de routage) et le commutateur au niveau 2 (adresses MAC, table MAC) ; [[6 - Access Control List]] parle des ports de couche 4.
 
-Voir aussi : [[Commutateur]], [[Routeur]], [[Numéro de port]], [[Protocole ARP]], [[Interface réseau]], [[Modèle client-serveur]].
+Voir aussi : [[Commutateur]], [[Routeur]], [[Numéro de port]], [[Protocole ARP]], [[Interface réseau]], [[Modèle client-serveur]], [[Suite des protocoles Internet]], [[Ethernet]], [[HTTP]].
 
-Résumés : [[4 - VLAN ／ IVR Commands]], [[7 - Cisco]]
+[[2 - Histoire du design]] : complément (le Web est une application de la couche la plus haute, au-dessus du transport TCP et de l'adressage IP).
+
+Résumés : [[4 - VLAN ／ IVR Commands]], [[7 - Cisco]] · [[2 - Histoire du design]]

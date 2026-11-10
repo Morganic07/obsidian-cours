@@ -19,4 +19,4 @@ Le cours nomme la notion sans la définir. Dans text3 ([[Raw/Year 3/SHS/Cours/te
 
 Voir aussi : [[Ethos de classe]], [[Hexis corporelle]], [[Hystérésis de l'habitus]], [[Capital culturel]], [[Concurrence pour l'espace]], [[Techniques du corps]].
 
-Résumés : [[6 - usages sociaux de l'automobile]]
+Résumés : [[5 - usages sociaux de l'automobile]]

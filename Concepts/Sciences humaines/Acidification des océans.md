@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [acidification de l'océan, ocean acidification]
 sources: ["[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : l'acidification des océans est la baisse du pH de l'eau de mer causée par l'absorption du CO₂ atmosphérique. L'océan absorbe environ un quart des émissions humaines de CO₂, ce qui freine le réchauffement mais modifie la chimie de l'eau.
@@ -22,6 +22,8 @@ Une partie des ions $\mathrm{H^+}$ se combine aux ions carbonate déjà présent
 
 VIVANT1 cite l'acidification des océans parmi les menaces et les « dérèglements en cascade », « donc diminution de l'absorption du CO₂ » par les océans. Le mécanisme chimique est expliqué dans les compléments de la fiche.
 
-Voir aussi : [[Limites planétaires]], [[Effet de serre]], [[Grande accélération]], [[Point de basculement]]
+Dans [[5 - Culture du vivant]], elle figure parmi les indicateurs du système Terre de la [[Grande accélération]] et parmi les sept limites planétaires dépassées en 2025 (compléments).
 
-Résumés : [[4 - Culture du vivant]]
+Voir aussi : [[Limites planétaires]], [[Effet de serre]], [[Grande accélération]], [[Point de basculement]], [[Dioxyde de carbone]]
+
+Résumés : [[3 - Culture du vivant]], [[5 - Culture du vivant]]

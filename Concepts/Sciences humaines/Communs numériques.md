@@ -10,8 +10,8 @@ matieres:
   - SHS
 sources:
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
-maj: 2026-11-08
+  - "[[6 - design libre|Prise de note SHS]]"
+maj: 2026-11-10
 ---
 
 Définition reprise dans les notes de recherche SHS de l'étudiante (images en tête de note) : une ressource produite ou entretenue collectivement par une communauté d'acteurs hétérogènes, et gouvernée par des règles qui assurent son caractère collectif et partagé. Elle peut être numérique : logiciel, base de données, contenu (texte, image, vidéo, son).
@@ -20,8 +20,10 @@ Les notes en tirent un critère de tri : un outil gratuit n'est pas un commun. G
 
 Trois « murs » menacent les communs numériques d'après le groupe : l'argent (qui finance le temps de conception ?), la technique (contribuer à Blender ou OpenFisca demande du code ou du droit, d'où une « oligarchie de l'expertise ») et le pillage par les IA génératives, que les [[Licences libres]] n'arrêtent pas.
 
-Le groupe distingue le commun de l'[[Intérêt général]] ([[3 - Prise de note]]) : l'intérêt général est une finalité collective, le commun implique en plus des pratiques de partage, de participation et de gouvernance.
+Le groupe distingue le commun de l'[[Intérêt général]] ([[6 - design libre]]) : l'intérêt général est une finalité collective, le commun implique en plus des pratiques de partage, de participation et de gouvernance.
 
 Voir aussi : [[Open design]], [[Produit d'appel]], [[Gouvernance par l'expertise]]
 
-Résumés : [[3 - Prise de note|Prise de note SHS]]
+[[2 - Histoire du design]] : complément sur l'ouverture du logiciel du Web par le CERN en 1993, qui en fait un des grands communs numériques.
+
+Résumés : [[6 - design libre|Prise de note SHS]] · [[2 - Histoire du design]]

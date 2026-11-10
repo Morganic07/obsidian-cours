@@ -7,7 +7,7 @@ complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé du cours magistral « Les imaginaires du futur de l'automobile. Enquête qualitative et création design » (55 diapositives, 22 septembre 2025, F. Kröger, ID3 A et ID3 B, pilier 4 « Observer, comprendre avec les sciences humaines et sociales », CY École de Design), dans [[Cours/Sciences humaines/SHS/_index|SHS]]. Il lance l'enquête décrite dans [[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|le TD de préparation]] et s'appuie sur les trois textes de lecture ([[4 - imaginaires automobile|text1]], [[5 - imaginaires de l'automobile|text2]], [[6 - usages sociaux de l'automobile|text3]]). Voir [[Imaginaire]] et [[Entretien semi-directif]].
+Résumé du cours magistral « Les imaginaires du futur de l'automobile. Enquête qualitative et création design » (55 diapositives, 22 septembre 2025, F. Kröger, ID3 A et ID3 B, pilier 4 « Observer, comprendre avec les sciences humaines et sociales », CY École de Design), dans [[Cours/Sciences humaines/SHS/_index|SHS]]. Il lance l'enquête décrite dans [[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|le TD de préparation]] et s'appuie sur les trois textes de lecture ([[3 - imaginaires automobile|text1]], [[4 - imaginaires de l'automobile|text2]], [[5 - usages sociaux de l'automobile|text3]]). Voir [[Imaginaire]] et [[Entretien semi-directif]].
 
 ## Introduction : plan du cours
 
@@ -112,7 +112,7 @@ L'anthropologie aide donc à comprendre « ce que les objets font faire » (Anni
 
 Marc Augé est aussi l'auteur de *Non-lieux* (1992), qui touche directement l'automobile : un **[[Non-lieu|non-lieu]]** est un espace de passage, interchangeable, où l'on ne fait que circuler sans y nouer de relation ni d'histoire (autoroute, aire de service, échangeur, parking, aéroport), par opposition au lieu anthropologique, chargé d'identité et de mémoire. [[Complément hors du cours|ⓘ]]
 
-**Exemple : Käte Meyer-Drawe** (« Das Auto – ein gepanzertes Selbst », dans Bilstein et Winzen, *Ich bin mein Auto*, Cologne 2001 ; traduit « L'automobile, un moi blindé » : voir [[4 - imaginaires automobile|text1]] et [[Moi blindé]]) :
+**Exemple : Käte Meyer-Drawe** (« Das Auto – ein gepanzertes Selbst », dans Bilstein et Winzen, *Ich bin mein Auto*, Cologne 2001 ; traduit « L'automobile, un moi blindé » : voir [[3 - imaginaires automobile|text1]] et [[Moi blindé]]) :
 - l'automobile est plus qu'un moyen de transport ;
 - elle est un **miroir des rêves de corps** de l'homme ;
 - une **deuxième nature** qui compense les défauts de la première ;
@@ -122,7 +122,7 @@ Marc Augé est aussi l'auteur de *Non-lieux* (1992), qui touche directement l'au
 
 ### La sociologie
 
-Exemple : Luc Boltanski, « Les usages sociaux de l'automobile : concurrence pour l'espace et accidents », *Actes de la recherche en sciences sociales*, vol. 1, n° 2, mars 1975, p. 25-49 (voir [[6 - usages sociaux de l'automobile|text3]]) :
+Exemple : Luc Boltanski, « Les usages sociaux de l'automobile : concurrence pour l'espace et accidents », *Actes de la recherche en sciences sociales*, vol. 1, n° 2, mars 1975, p. 25-49 (voir [[5 - usages sociaux de l'automobile|text3]]) :
 - l'usage d'une machine puissante libère une agressivité, un comportement dominant que le conducteur doit normalement dissimuler ; « au volant on ne le reconnaît plus ». Boltanski parle d'un « désir narcissique d'être plus puissant qu'autrui » ;
 - « Tout se passe comme si les inégalités sociales prenaient, sur la route, la forme spécifique d'inégalités de puissance et de vitesse » (p. 30) ; voir [[Concurrence pour l'espace]] ;
 - **[[Caractérologie des véhicules]]** : la forme extérieure est un miroir de la caractérologie sociale du conducteur (p. 32) ;

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [monnaie scripturale, monnaie centrale, money creation]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

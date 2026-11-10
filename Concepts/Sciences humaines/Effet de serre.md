@@ -17,4 +17,4 @@ Nommé sans définition dans deux cours :
 
 Notion parente : [[Anthropocène]]. Voir aussi : [[Warming stripes]], [[Bombes climatiques]].
 
-Résumés : [[4 - Culture du vivant]], [[Reyou]]
+Résumés : [[3 - Culture du vivant]], [[Reyou]]

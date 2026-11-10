@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [déflation, indice des prix à la consommation, IPC, IPCH, hausse des prix, inflation rate]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, year4]
 aliases: [droits civiques, civil rights movement, American civil rights movement]
 sources: ["[[Raw/Year 1/Communication orale /Communication orale - discours .docx|Communication orale - discours]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : mouvement des Noirs américains, surtout actif des années 1950 au milieu des années 1960, pour l'égalité des droits et la fin de la ségrégation raciale légale dans le Sud des États-Unis.
@@ -29,4 +29,6 @@ Le cours ne nomme pas le mouvement. Il en est le contexte dans les compléments 
 
 Voir aussi : [[Ethos, pathos et logos]]
 
-Résumés : [[1 - discours]]
+En histoire du design (Year 4), [[1 - Histoire du design]] : complément de la partie « Le retour à la terre » (la Nouvelle Gauche s'engage pour les droits civiques).
+
+Résumés : [[1 - discours]], [[1 - Histoire du design]]

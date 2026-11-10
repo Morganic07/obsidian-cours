@@ -15,4 +15,4 @@ Nommé dans la chronologie des réponses institutionnelles de VIVANT1 DBrowaeys 
 
 Voir aussi : [[IPBES]], [[Accord de Paris]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

@@ -10,8 +10,8 @@ maj: 2026-11-08
 
 ## Dans le cours
 
-Kröger ([[5 - imaginaires de l'automobile|text2]]) écrit que le Futurama de General Motors (Exposition universelle de New York, 1939) cherche à façonner les désirs et à affirmer l'hégémonie culturelle de l'industrie sur le futur : par la mise en scène visuelle, le futur centré sur la voiture devient le futur évident.
+Kröger ([[4 - imaginaires de l'automobile|text2]]) écrit que le Futurama de General Motors (Exposition universelle de New York, 1939) cherche à façonner les désirs et à affirmer l'hégémonie culturelle de l'industrie sur le futur : par la mise en scène visuelle, le futur centré sur la voiture devient le futur évident.
 
 Voir aussi : [[Imaginaire]], [[Histoire visuelle]], [[Voiture autonome]].
 
-Résumés : [[5 - imaginaires de l'automobile]]
+Résumés : [[4 - imaginaires de l'automobile]]

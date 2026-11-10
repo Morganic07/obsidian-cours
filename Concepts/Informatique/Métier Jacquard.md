@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [métier à tisser Jacquard, Jacquard loom, carte perforée, cartes perforées, punched card]
-sources: ["[[Raw/Year 4/Culture du vivant/Culture du vivant - prise de note .docx|Culture du vivant - prise de note]]"]
+sources: ["[[Raw/Year 4/Culture du vivant/Chp 1- prise de note .docx|Chp 1- prise de note]]"]
 maj: 2026-11-08
 ---
 
@@ -18,8 +18,8 @@ maj: 2026-11-08
 
 ## Dans le cours
 
-Le cours ne nomme pas le métier Jacquard. [[1 - Culture du vivant]] présente les métiers à tisser comme la technologie sur laquelle reposent nos ordinateurs et le progrès technologique ; le lien par le métier Jacquard est donné dans les compléments de la fiche.
+Le cours ne nomme pas le métier Jacquard. [[4 - Culture du vivant]] présente les métiers à tisser comme la technologie sur laquelle reposent nos ordinateurs et le progrès technologique ; le lien par le métier Jacquard est donné dans les compléments de la fiche.
 
 Voir aussi : [[Numération binaire]], [[Algorithme]], [[Machine de Turing]], [[Progrès technique]]
 
-Résumés : [[1 - Culture du vivant]]
+Résumés : [[4 - Culture du vivant]]

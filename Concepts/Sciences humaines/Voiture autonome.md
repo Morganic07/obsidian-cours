@@ -18,4 +18,4 @@ Le cours magistral la cite dans l'histoire visuelle du futur (voiture autonome a
 
 Voir aussi : [[Niveaux d'automatisation de la conduite]], [[Biais d'automatisation]], [[Imaginaire]], [[Histoire visuelle]], [[Anthropomorphisme]], [[Fantastique (Todorov)]].
 
-Résumés : [[5 - imaginaires de l'automobile]], [[2 - imaginaires du futur]]
+Résumés : [[4 - imaginaires de l'automobile]], [[2 - imaginaires du futur]]

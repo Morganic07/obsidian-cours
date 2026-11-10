@@ -1,10 +1,10 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [Internet Engineering Task Force]
 matieres: [Computer Network]
 sources: ["[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"]
-maj: 2026-11-07
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : l'IETF (Internet Engineering Task Force) est l'organisme de normalisation ouvert qui élabore les protocoles techniques de l'Internet (IP, TCP, [[DNS]], HTTP, etc.). Ses travaux, menés dans des groupes de travail ouverts à tous, sont publiés sous forme de documents numérotés appelés RFC (*Request for Comments*), dont certains deviennent des normes. Elle ne gère pas l'attribution des adresses, qui relève de l'[[IANA]].
@@ -15,4 +15,6 @@ Nommé dans 02 IP Addressing ([[Raw/Year 3/Computer Network/02 IP Addressing.pdf
 
 Voir aussi : [[Adressage IPv4 et CIDR]], [[IANA]].
 
-Résumés : [[2 - IP Addressing]]
+[[2 - De courrier à courriels]] : complément sur la « nétiquette » (RFC 1855, 1995).
+
+Résumés : [[2 - IP Addressing]] · [[2 - De courrier à courriels]]

@@ -8,9 +8,17 @@ maj: 2026-11-08
 
 ## Corrections par page
 
-297 pages corrigées, 581 corrections (nombre de marques ✎).
+303 pages corrigées, 609 corrections (nombre de marques ✎).
 
 ### Design
+
+#### [[Cours/Design/Histoire du design/_index|Histoire du design]]
+
+- [[1 - Histoire du design]] : thèse de Church-Turing « formulée en 1952 », au sortir de la guerre → issue des travaux de Church et de Turing de 1936 ; c'est son nom que Kleene lui donne en 1952 (Stanford Encyclopedia of Philosophy, « The Church-Turing Thesis ») ; Whole Earth Catalog « lancé en 1965 » → automne 1968 (Cooper Hewitt, Smithsonian) ; Xerox à Menlo Park en 1960 → Xerox PARC ouvre en 1970 à Palo Alto ; AltaVista, Yahoo, GeoCities et Lycos « répertoires gérés à la main » → seul Yahoo est un annuaire humain, AltaVista et Lycos sont des moteurs à robots, GeoCities un hébergeur ; « 1995 : le modem 56k entre dans les foyers » → 28,8 kbit/s (V.34) en 1995, 56k en 1997, norme V.90 de l'UIT en 1998 ^e-1-histoire-du-design
+- [[2 - Histoire du design]] : « conçu par la DARPA » en 1969 → l'ARPA, renommée DARPA en 1972 (darpa.mil) ; Hewlett-Packard « fondé en 1938 » → société fondée en janvier 1939 après un travail commencé en 1938 (hp.com) ; Stanford Research Park « créé en 1956 » → 1951, sous le nom de Stanford Industrial Park (Stanford) ; Intel « fondée en 1968 à Santa Clara » → le 18 juillet 1968 à Mountain View (intel.com) ; CERN « Centre européen pour la recherche nucléaire » → sigle de l'ancien Conseil européen pour la recherche nucléaire, aujourd'hui Organisation européenne pour la recherche nucléaire (home.cern) ; modem 56k en 1995 et « répertoires gérés à la main » → comme pour [[1 - Histoire du design]] ; ICQ et IRC « premières expériences de communication instantanée » → elles la popularisent, Talkomatic (PLATO, 1973) et `talk` d'Unix existaient avant ; Xerox à Menlo Park en 1960 et Whole Earth Catalog en 1965 → PARC fondé en 1970 à Palo Alto, catalogue lancé à l'automne 1968 ^e-2-histoire-du-design
+- [[2 - De courrier à courriels]] : déplacements « induits par la guerre d'indépendance » aux États-Unis dans la seconde moitié du XIXe siècle → guerre de Sécession (1861-1865) ; l'indépendance date de 1775-1783 ^e-2-de-courrier-a-courriels
+- [[2 - Prise de note de courrier à courriel]] : changement de méthode de lecture présenté comme cause établie → le livre dit qu'il « a probablement facilité » l'évolution ; « ne plus faire de fautes » → ne plus se soucier des fautes, la négligence devient acceptable (chapitre scanné, p. 121) ^e-2-prise-de-note-de-courrier-a-courriel
+- [[Whole Earth Catalog]] : « lancé en 1965 » → premier numéro à l'automne 1968 (Cooper Hewitt, Smithsonian) ^e-whole-earth-catalog
 
 #### [[Cours/Design/Peinture/_index|Peinture]]
 
@@ -362,9 +370,10 @@ maj: 2026-11-08
 
 #### [[Cours/Sciences humaines/Culture du vivant/_index|Culture du vivant]]
 
-- [[1 - Culture du vivant]] : Aristote, « on n'a pas automatisé, car que faire des esclaves ? » → si les métiers tissaient seuls, les maîtres n'auraient plus besoin d'esclaves (Aristote, *Politique*, I, 4) ; « web inventé en 1993 » → proposé au CERN en 1989, versé dans le domaine public en 1993 (CERN) ^e-1-culture-du-vivant
-- [[3 - Culture du vivant]] : « 60 % des sols français sont morts » → 60 à 70 % des sols de l'UE en mauvaise santé (Commission européenne, Stratégie de l'UE pour la protection des sols à l'horizon 2030, 2021) ^e-3-culture-du-vivant
-- [[4 - Culture du vivant]] : jour du dépassement « 1986 = 31 décembre ; 2025 = 1er juillet en France » → 13 novembre 1986 ; 19 avril 2025 pour la France, 24 juillet pour le monde (Global Footprint Network) ; *La Biosphère* de Vernadski « 1920 » → 1926 en russe, 1929 en français ; « 9 limites planétaires dépassées » → sept sur neuf (Planetary Health Check 2025, Potsdam Institute for Climate Impact Research) ^e-4-culture-du-vivant
+- [[4 - Culture du vivant]] : Aristote, « on n'a pas automatisé, car que faire des esclaves ? » → si les métiers tissaient seuls, les maîtres n'auraient plus besoin d'esclaves (Aristote, *Politique*, I, 4) ; « web inventé en 1993 » → proposé au CERN en 1989, versé dans le domaine public en 1993 (CERN) ^e-4-culture-du-vivant
+- [[5 - Culture du vivant]] : « environ 70 % des mammifères ont disparu » → baisse moyenne de 73 % des populations suivies de vertébrés sauvages entre 1970 et 2020, ni disparitions ni extinctions (WWF/ZSL, *Living Planet Report* 2024) ; « 1750, invention de la machine à vapeur » → repère conventionnel de la révolution industrielle (Newcomen 1712, brevet de Watt 1769) ; DDT « inventé à partir de l'agent orange » → insecticide synthétisé en 1874, effet découvert en 1939 par Paul Müller ; l'agent orange est un herbicide employé au Vietnam de 1961 à 1971 (« DTT », « Rachel Carlson » → DDT, Rachel Carson) ; empreinte carbone en baisse « dans le monde » depuis 2022 → émissions mondiales de CO₂ fossile record en 2025, 38,1 Gt (Global Carbon Project, 2025), la baisse concerne la France (Citepa) et l'Europe ; France « quasi décarbonée » → son électricité, 95 % bas carbone en 2024 (RTE, *Bilan électrique 2024*), pas son énergie ; « feu = technai » → feu se dit *pyr*, *technè* est la technique (Platon, *Protagoras*), et c'est un aigle, non un vautour (Hésiode, *Théogonie*) ; Calibri police par défaut de Word → de 2007 à 2023, remplacée par Aptos (Microsoft, 2023), « bannie dans tous les US » → abandonnée au seul département d'État en décembre 2025 (ABC News, NPR) ^e-5-culture-du-vivant
+- [[2 - Culture du vivant]] : « 60 % des sols français sont morts » → 60 à 70 % des sols de l'UE en mauvaise santé (Commission européenne, Stratégie de l'UE pour la protection des sols à l'horizon 2030, 2021) ^e-2-culture-du-vivant
+- [[3 - Culture du vivant]] : jour du dépassement « 1986 = 31 décembre ; 2025 = 1er juillet en France » → 13 novembre 1986 ; 19 avril 2025 pour la France, 24 juillet pour le monde (Global Footprint Network) ; *La Biosphère* de Vernadski « 1920 » → 1926 en russe, 1929 en français ; « 9 limites planétaires dépassées » → sept sur neuf (Planetary Health Check 2025, Potsdam Institute for Climate Impact Research) ^e-3-culture-du-vivant
 - [[Jour du dépassement]] : « 1986, 31 décembre ; 2025, 1er juillet en France » → dépassement depuis les années 1970, 13 novembre en 1986 ; 19 avril 2025 pour la France, 24 juillet pour le monde (Global Footprint Network, 2025) ^e-jour-du-depassement
 - [[Limites planétaires]] : « neuf limites dépassées » → six sur neuf en 2023 (*Science Advances*), sept sur neuf en 2025 (Planetary Health Check, PIK) ^e-limites-planetaires
 
@@ -393,6 +402,6 @@ maj: 2026-11-08
 
 Faits notés dans le cours, introuvables dans une source fiable, et retirés du wiki :
 
-- [[1 - Culture du vivant]] : « la Suède aurait banni Google de son territoire ». Aucune trace ; seules existent des décisions de l'autorité suédoise de protection des données (IMY) de 2023 contre Google Analytics.
+- [[4 - Culture du vivant]] : « la Suède aurait banni Google de son territoire ». Aucune trace ; seules existent des décisions de l'autorité suédoise de protection des données (IMY) de 2023 contre Google Analytics.
 - [[1 - philo]] : traduction française de Hobbes attribuée à Tricaud (« solitaire, besogneuse, pénible, quasi animale et brève »), introuvable ; l'original anglais reste, avec une glose non attribuée.
 - [[Langage SQL]] : « les clés étrangères écrivent `id _saison` avec une espace », sans doute un artefact de l'extraction du PDF du rapport, non vérifié sur l'image.

@@ -10,4 +10,4 @@ Thèse d'un groupe d'étudiants dans les notes SHS (« mythe du consensus esthé
 
 Notion parente : [[Gouvernance par l'expertise]]. Voir aussi : [[Design contributif]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

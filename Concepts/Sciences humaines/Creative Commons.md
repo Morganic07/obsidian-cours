@@ -7,7 +7,7 @@ aliases:
   - Creative Commons Attribution
 sources:
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-08
 ---
 
@@ -15,8 +15,8 @@ maj: 2026-11-08
 
 ## Dans le cours
 
-Nommé dans les notes SHS sans définition. Les assets des courts-métrages de Blender sont libérés « généralement » sous Creative Commons Attribution, et CC0 est cité comme domaine public. Le groupe note de regarder les « CC signals » de Creative Commons, sans les définir ; la note ajoute seulement « CC signals initiative de l'organisation », à la suite de la sous-partie sur les licences libres face à l'IA ([[3 - Prise de note]]). Les licences Creative Commons y sont citées parmi celles dont l'application aux usages de l'IA « soulève de nouvelles questions ».
+Nommé dans les notes SHS sans définition. Les assets des courts-métrages de Blender sont libérés « généralement » sous Creative Commons Attribution, et CC0 est cité comme domaine public. Le groupe note de regarder les « CC signals » de Creative Commons, sans les définir ; la note ajoute seulement « CC signals initiative de l'organisation », à la suite de la sous-partie sur les licences libres face à l'IA ([[6 - design libre]]). Les licences Creative Commons y sont citées parmi celles dont l'application aux usages de l'IA « soulève de nouvelles questions ».
 
 Notion parente : [[Licences libres]]. Voir aussi : [[Licence anti-IA]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

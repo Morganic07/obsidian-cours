@@ -18,7 +18,7 @@ matieres:
   - culture du soin
 sources:
   - "[[ELBA|Topo ELBA]]"
-  - "[[2 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
+  - "[[1 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
   - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
 maj: 2026-11-08
@@ -49,4 +49,4 @@ Pour le design, cette grille rappelle qu'un dispositif « fait soin » seulement
 
 Voir aussi : [[Retail régénératif]], [[Manifeste pour le vivant]], [[Transhumanisme]], [[Vulnérabilité]], [[Conception centrée sur l'humain]], [[Dispositif de normalisation]].
 
-Résumés : [[1 - culture du soin]], [[4 - Culture du vivant]], [[ELBA]], [[2 - Culture du vivant]]
+Résumés : [[1 - culture du soin]], [[3 - Culture du vivant]], [[ELBA]], [[1 - Culture du vivant]]

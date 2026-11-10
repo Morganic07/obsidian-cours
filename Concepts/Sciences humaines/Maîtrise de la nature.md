@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year2
+  - year4
 aliases:
   - maître et possesseur de la nature
   - domination de la nature
@@ -10,7 +11,7 @@ sources:
   - "[[3 - philo|philo 1]]"
   - "[[4 - philo|philo 2]]"
   - "[[5 - philo|philo 3]]"
-maj: 2026-11-07
+maj: 2026-11-10
 ---
 
 - Bacon (*Novum Organum*, 1620) : « Savoir, c'est pouvoir » et « On ne commande à la nature qu'en lui obéissant ».
@@ -22,4 +23,6 @@ Le cours nuance : pour Descartes, seul Dieu est maître de la nature (lettre à 
 
 Notion parente : [[Progrès technique]]. Voir aussi : [[Nature comme réserve de ressources]], [[Principe responsabilité]], [[Révolution scientifique]].
 
-Résumés : [[3 - philo]], [[4 - philo]], [[5 - philo]]
+En culture du vivant, [[5 - Culture du vivant]] en cherche la racine dans la [[Genèse]], où l'Homme est créé supérieur aux animaux et chargé de « soumettre » la terre.
+
+Résumés : [[3 - philo]], [[4 - philo]], [[5 - philo]], [[5 - Culture du vivant]]

@@ -17,4 +17,4 @@ Nommé sans définition dans plusieurs cours :
 
 Notion parente : [[Intelligence collective]]. Voir aussi : [[Design des politiques publiques]], [[Design de services]], [[Innovation sociale]].
 
-Résumés : [[Santé au travail (Projet year 3)]], [[4 - Culture du vivant]]
+Résumés : [[Santé au travail (Projet year 3)]], [[3 - Culture du vivant]]

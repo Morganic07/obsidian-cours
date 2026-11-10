@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, year4]
 aliases: [externalités, externality, externalities, effet externe, défaillance de marché, market failure, taxe pigouvienne, principe pollueur-payeur]
-sources: ["[[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]]", "[[Raw/Year 4/Culture du vivant/Culture du vivant - prise de note .docx|Culture du vivant - prise de note]]"]
+sources: ["[[Raw/Year 3/Culture du vivant/Culture du vivant Dernier cours.docx|Culture du vivant Dernier cours]]", "[[Raw/Year 4/Culture du vivant/Chp 1- prise de note .docx|Chp 1- prise de note]]"]
 maj: 2026-11-08
 ---
 
@@ -23,8 +23,8 @@ La taxe carbone est l'application la plus connue de la taxe pigouvienne.
 
 ## Dans le cours
 
-Le cours ne nomme pas la notion. Elle apparaît dans les compléments de [[3 - Culture du vivant]], à propos des [[Coûts cachés|coûts cachés]] des achats du quotidien (déforestation, travail des enfants), et dans ceux de [[1 - Culture du vivant]], comme critique classique de la [[Main invisible|main invisible]] d'Adam Smith.
+Le cours ne nomme pas la notion. Elle apparaît dans les compléments de [[2 - Culture du vivant]], à propos des [[Coûts cachés|coûts cachés]] des achats du quotidien (déforestation, travail des enfants), et dans ceux de [[4 - Culture du vivant]], comme critique classique de la [[Main invisible|main invisible]] d'Adam Smith.
 
 Voir aussi : [[Coûts cachés]], [[Main invisible]], [[Capitalisme]], [[Limites planétaires]], [[Développement durable]]
 
-Résumés : [[3 - Culture du vivant]], [[1 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]], [[4 - Culture du vivant]]

@@ -14,4 +14,4 @@ Nommée dans VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys
 
 Voir aussi : [[Contrat social]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

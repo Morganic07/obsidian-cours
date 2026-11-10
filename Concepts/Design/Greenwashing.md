@@ -12,7 +12,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -22,4 +22,4 @@ maj: 2026-11-07
 
 Voir aussi : [[Tiers-lieu]], [[Responsabilité sociétale des entreprises]], [[Valeur socio-écologique]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

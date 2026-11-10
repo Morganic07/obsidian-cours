@@ -10,4 +10,4 @@ Terme employé par l'étudiante interrogée lors de l'enquête SHS sur l'open so
 
 Notion parente : [[IA générative]]. Voir aussi : [[Fichier README]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

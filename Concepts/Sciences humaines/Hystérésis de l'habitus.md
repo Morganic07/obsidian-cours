@@ -14,4 +14,4 @@ Dans text3 ([[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]), Boltanski parle d'**e
 
 Voir aussi : [[Habitus]], [[Ethos de classe]].
 
-Résumés : [[6 - usages sociaux de l'automobile]]
+Résumés : [[5 - usages sociaux de l'automobile]]

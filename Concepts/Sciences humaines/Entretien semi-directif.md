@@ -21,12 +21,12 @@ matieres:
   - SHS
   - Affordance
 sources:
-  - "Pistes entrevue, Compte rendu et Inégalités alimentaires, dans Raw/Year 1/Dessein au cube/inégalités alimentaires (exclus du miroir)"
+  - Pistes entrevue, Compte rendu et Inégalités alimentaires, dans Raw/Year 1/Dessein au cube/inégalités alimentaires (exclus du miroir)
   - "[[Bel-air|Projet BLR]]"
   - "[[Raw/Year 3/SHS/Cours/imaginaire_automobile_futur_smaller.pdf|imaginaire_automobile_futur_smaller.pdf]]"
   - "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"
   - "[[Raw/Year 3/Affordance/UX Research - Observation - 2026.pptx|UX Research - Observation - 2026.pptx]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -51,8 +51,8 @@ Les notes de 1re année ne disent pas « semi-directif » : c'est le nom retenu 
 
 **En Affordance** : l'entretien recueille objectifs et ressenti, avec souplesse, mais reste déclaratif, sans contexte d'usage direct, peu adapté aux grands échantillons et soumis à des biais (halo, confirmation, rapport interviewer-interviewé). Le cours le compare à l'observation ([[2 - UX]]).
 
-**En SHS (4e année)** : l'enquête repose sur des entretiens transcrits, dont un entretien entre deux étudiants sur la pratique de l'open source ; le plan prévoit une méthodologie d'enquête (nombre et profils des interviewés, limites). La note ne dit pas que l'entretien est semi-directif (Entretien sur l'open source, [[3 - Prise de note]]).
+**En SHS (4e année)** : l'enquête repose sur des entretiens transcrits, dont un entretien entre deux étudiants sur la pratique de l'open source ; le plan prévoit une méthodologie d'enquête (nombre et profils des interviewés, limites). La note ne dit pas que l'entretien est semi-directif (Entretien sur l'open source, [[6 - design libre]]).
 
 Notion parente : [[Enquête qualitative et quantitative]]. Suite logique : [[Analyse thématique d'entretien]], puis [[Persona]]. Utilisé aussi pour le quartier Bel-Air : [[Bel-air|Projet BLR]].
 
-Résumés : [[2 - UX]], [[3 - Prise de note]]
+Résumés : [[2 - UX]], [[6 - design libre]]

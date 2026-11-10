@@ -4,7 +4,7 @@ tags: [year4]
 aliases: [entropie, entropy, quantité d'information]
 matieres: [data mining]
 sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Quantité d'information** d'un sous-ensemble de cardinal $n$ tiré de $N$ événements : $Q = \log_2(N/n)$.
@@ -21,4 +21,6 @@ L'entropie sert à calculer le [[Gain d'information]] dans ID3 ; CART utilise à
 
 Notion parente : [[Algorithme ID3]]. Voir aussi : [[Gain d'information]], [[Indice de Gini]].
 
-Résumés : [[1 - intro to data mining]], [[1 - pdf du prof]]
+En histoire du design, [[1 - Histoire du design]] : complément des concepts essentiels (information de Shannon, 1948).
+
+Résumés : [[1 - intro to data mining]], [[1 - pdf du prof]], [[1 - Histoire du design]]

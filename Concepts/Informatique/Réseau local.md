@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [LAN, local area network]
 matieres: [Computer Network]
 sources: ["[[4 - VLAN ／ IVR Commands|Chp4 - VLAN ／ IVR Commands]]"]
@@ -13,6 +13,8 @@ maj: 2026-11-07
 
 Nommé dans le cours sans définition : il dit seulement que le switch relie les terminaux au LAN.
 
-Voir aussi : [[Commutateur]].
+En histoire du design (Year 4), [[2 - Histoire du design]] présente [[Ethernet]], développé à [[Xerox PARC]] dans les années 1970, comme la technologie qui relie ordinateurs et périphériques au sein d'un réseau local, par opposition à [[ARPANET]], réseau à grande distance.
+
+Voir aussi : [[Commutateur]], [[Ethernet]].
 
 Résumés : [[4 - VLAN ／ IVR Commands]]

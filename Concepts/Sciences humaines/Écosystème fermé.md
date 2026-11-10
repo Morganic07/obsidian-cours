@@ -10,4 +10,4 @@ Notion tirée d'un entretien SHS sur l'open source, propos de l'interviewée : e
 
 Voir aussi : [[Licences libres]], [[Communs numériques]].
 
-Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[6 - design libre]]

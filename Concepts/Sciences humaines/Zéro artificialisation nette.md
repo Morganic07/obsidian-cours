@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
 maj: 2026-11-07
 ---
@@ -18,4 +18,4 @@ Nommé sans développement : le dernier cours de culture du vivant cite la loi C
 
 Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Érosion de la biodiversité]].
 
-Résumés : [[3 - Culture du vivant]], [[4 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]], [[3 - Culture du vivant]]

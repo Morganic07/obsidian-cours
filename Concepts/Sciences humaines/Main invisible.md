@@ -5,7 +5,7 @@ tags:
 aliases:
   - invisible hand
 sources:
-  - "[[1 - Culture du vivant|Culture du vivant - prise de note]]"
+  - "[[4 - Culture du vivant|Culture du vivant - prise de note]]"
 maj: 2026-11-07
 ---
 
@@ -13,4 +13,4 @@ Idée d'Adam Smith, présenté dans la prise de notes comme « théoricien capit
 
 Notion parente : [[Capitalisme]].
 
-Résumés : [[1 - Culture du vivant]]
+Résumés : [[4 - Culture du vivant]]

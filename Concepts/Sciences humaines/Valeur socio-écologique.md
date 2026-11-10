@@ -5,7 +5,7 @@ tags:
 aliases:
   - intégrer le vivant dans les décisions économiques
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -18,4 +18,4 @@ Au centre du schéma « intégrer le vivant dans les décisions économiques » 
 
 Voir aussi : [[CSRD]], [[Taxonomie européenne]], [[Finance durable]], [[Responsabilité sociétale des entreprises]], [[Entreprise à mission]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

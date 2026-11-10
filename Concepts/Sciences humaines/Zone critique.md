@@ -11,4 +11,4 @@ Nous sommes confinés dans une « zone critique », une fine « peau » d'enviro
 
 Voir aussi : [[Biosphère]], [[Habitabilité]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

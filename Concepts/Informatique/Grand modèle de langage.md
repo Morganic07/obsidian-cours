@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [LLM, large language model, large language models, grands modèles de langage]
 sources: ["[[Raw/Year 3/IA/Cours 1.docx|Cours 1 (IA)]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : un grand modèle de langage (LLM, *large language model*) est un modèle d'[[Apprentissage profond|apprentissage profond]] à architecture [[Transformer (IA)|transformer]], qui compte des milliards de paramètres.
@@ -20,4 +20,6 @@ Le cours ne le nomme pas. Il apparaît dans les compléments de [[1 - IA]] (hist
 
 Voir aussi : [[IA générative]], [[Token (IA)]], [[Transformer (IA)]], [[Prompt (IA)]], [[Intelligence artificielle]].
 
-Résumés : [[1 - IA]]
+En histoire du design (Year 4), [[1 - Histoire du design]] : complément sur l'effet ELIZA, qui se pose de nouveau avec les agents conversationnels fondés sur ces modèles.
+
+Résumés : [[1 - IA]], [[1 - Histoire du design]]

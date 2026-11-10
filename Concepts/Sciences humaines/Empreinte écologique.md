@@ -6,7 +6,7 @@ aliases:
   - ecological footprint
 sources:
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[2 - Culture du vivant|Culture du vivant]]"
+  - "[[1 - Culture du vivant|Culture du vivant]]"
 maj: 2026-11-07
 ---
 
@@ -14,4 +14,4 @@ Concept développé par Mathis Wackernagel. Le graphique de VIVANT1 DBrowaeys ([
 
 Voir aussi : [[Biocapacité]], [[Jour du dépassement]].
 
-Résumés : [[4 - Culture du vivant]], [[2 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]], [[1 - Culture du vivant]]

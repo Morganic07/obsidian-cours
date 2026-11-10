@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year3
+  - year4
 aliases:
   - limites planétaires
   - limite planétaire
@@ -12,9 +13,10 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[2 - Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[1 - Culture du vivant|Culture du vivant (Y3)]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-maj: 2026-11-08
+  - "[[Raw/Year 4/Culture du vivant/chp 2 - prise de note.docx|chp 2 - prise de note.docx]]"
+maj: 2026-11-10
 ---
 
 Neuf processus dont le dépassement menace les équilibres de la Terre. Le cours (Y3) les présente avec des chiffres français (CGDD/SDES, 2023, situation d'avant la publication de septembre 2023 du Stockholm Resilience Centre) :
@@ -31,8 +33,10 @@ Neuf processus dont le dépassement menace les équilibres de la Terre. Le cours
 
 Un second diagramme (« Les limites planétaires en 2025 », Reporterre) donne l'échelle vert à violet. Le cours y ajoute la biodiversité : cinq causes d'érosion (destruction des habitats, surexploitation, climat, pollution, espèces envahissantes), les deux premières pesant plus de 50 % ; 28 % des espèces suivies sont menacées.
 
-Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[4 - Culture du vivant]]). Il dit la plupart des limites dépassées, hors des capacités prédictives des actuaires : six sur neuf selon la mise à jour scientifique de 2023 (*Science Advances*), sept sur neuf selon le *Planetary Health Check* de septembre 2025 (Potsdam Institute for Climate Impact Research), qui ajoute l'acidification des océans ; l'ozone stratosphérique et les aérosols restent dans la zone de sécurité. [[Erreurs du cours#^e-limites-planetaires|✎]]
+Le cours en PDF (VIVANT1) présente les neuf limites (ou frontières) planétaires définies par Johann Rockström et son équipe en 2009, le Donut de Kate Raworth (plancher social et plafond écologique) et le jour du dépassement ([[3 - Culture du vivant]]). Il dit la plupart des limites dépassées, hors des capacités prédictives des actuaires : six sur neuf selon la mise à jour scientifique de 2023 (*Science Advances*), sept sur neuf selon le *Planetary Health Check* de septembre 2025 (Potsdam Institute for Climate Impact Research), qui ajoute l'acidification des océans ; l'ozone stratosphérique et les aérosols restent dans la zone de sécurité. [[Erreurs du cours#^e-limites-planetaires|✎]]
+
+En 4e année, le cours reprend le schéma avec le chiffre de 2025 : sept limites dépassées ([[5 - Culture du vivant]]).
 
 Voir aussi : [[Anthropocène]], [[Économie circulaire]], [[Théorie du Donut]], [[Érosion de la biodiversité]]
 
-Résumés : [[2 - Culture du vivant|Culture du vivant]], [[4 - Culture du vivant]]
+Résumés : [[1 - Culture du vivant|Culture du vivant]], [[3 - Culture du vivant]], [[5 - Culture du vivant]]

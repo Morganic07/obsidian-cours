@@ -2,13 +2,14 @@
 type: concept
 tags:
   - year2
+  - year4
 aliases:
   - dualisme cartésien
   - dualisme des substances
   - dualism
 sources:
   - "[[Raw/Year 2/Philosophie/philo 5 .docx|philo 5]]"
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : le dualisme est une doctrine qui admet deux principes ou deux substances irréductibles l'un à l'autre. En philosophie de l'esprit, c'est la thèse selon laquelle l'âme (ou l'esprit) et le corps sont deux réalités de nature différente.
@@ -31,6 +32,8 @@ Le dualisme s'oppose au **monisme**, qui n'admet qu'une seule substance : Spinoz
 
 Le cours ne le nomme pas. Il apparaît dans les compléments de [[7 - philo]], pour situer l'animal-machine de Descartes : le corps relève de la mécanique, seule l'âme pensante distingue l'humain.
 
-Voir aussi : [[Animal-machine]], [[Cartésianisme]], [[Organisme et machine]], [[Vitalisme]].
+Il apparaît aussi dans [[5 - Culture du vivant]] : le [[Perspectivisme|perspectivisme]] veut décentrer la conception occidentale « dualiste », et les compléments rattachent au dualisme cartésien la pensée de la [[Substance (philosophie)|substance]] que refuse le [[Tournant relationnel|tournant relationnel]].
 
-Résumés : [[7 - philo]]
+Voir aussi : [[Animal-machine]], [[Cartésianisme]], [[Organisme et machine]], [[Vitalisme]], [[Naturalisme (Descola)]].
+
+Résumés : [[7 - philo]], [[5 - Culture du vivant]]

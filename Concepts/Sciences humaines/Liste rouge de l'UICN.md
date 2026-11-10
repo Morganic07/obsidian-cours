@@ -28,8 +28,8 @@ S'y ajoutent **données insuffisantes** (DD), quand on ne peut pas encore évalu
 
 ## Dans le cours
 
-Le cours ne nomme pas la liste rouge. [[2 - Culture du vivant]] donne ses chiffres : plus de 5 millions d'espèces estimées, environ 2 millions connues, 138 000 suivies, et 28 % des espèces suivies menacées (amphibiens 41 %, requins 37 %, conifères 34 %, coraux 33 %, mammifères 26 %, oiseaux 14 %). [[4 - Culture du vivant]] reprend ces chiffres et les catégories de l'infographie (disparue, en danger critique, en danger, vulnérable, données insuffisantes, presque menacée, risque faible) ; ses compléments les rattachent à la liste rouge.
+Le cours ne nomme pas la liste rouge. [[1 - Culture du vivant]] donne ses chiffres : plus de 5 millions d'espèces estimées, environ 2 millions connues, 138 000 suivies, et 28 % des espèces suivies menacées (amphibiens 41 %, requins 37 %, conifères 34 %, coraux 33 %, mammifères 26 %, oiseaux 14 %). [[3 - Culture du vivant]] reprend ces chiffres et les catégories de l'infographie (disparue, en danger critique, en danger, vulnérable, données insuffisantes, presque menacée, risque faible) ; ses compléments les rattachent à la liste rouge.
 
 Voir aussi : [[Érosion de la biodiversité]], [[Sixième extinction]], [[IPBES]]
 
-Résumés : [[2 - Culture du vivant]], [[4 - Culture du vivant]]
+Résumés : [[1 - Culture du vivant]], [[3 - Culture du vivant]]

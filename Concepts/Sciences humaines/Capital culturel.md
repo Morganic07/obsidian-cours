@@ -20,4 +20,4 @@ Dans text3 ([[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]), Boltanski montre que 
 
 Voir aussi : [[Habitus]], [[Ethos de classe]], [[Consommation ostentatoire]], [[Concurrence pour l'espace]].
 
-Résumés : [[6 - usages sociaux de l'automobile]]
+Résumés : [[5 - usages sociaux de l'automobile]]

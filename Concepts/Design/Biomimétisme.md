@@ -22,4 +22,4 @@ maj: 2026-11-07
 
 Voir aussi : [[Retail régénératif]], [[Bioéconomie]], [[Permaculture]].
 
-Résumés : [[Melvita]], [[4 - Culture du vivant]]
+Résumés : [[Melvita]], [[3 - Culture du vivant]]

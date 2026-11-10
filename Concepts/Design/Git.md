@@ -13,4 +13,4 @@ En SHS, maîtriser Git et Python est cité comme condition pour contribuer à Op
 
 Notion parente : [[Typologie des innovations]]. Voir aussi : [[Fichier README]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

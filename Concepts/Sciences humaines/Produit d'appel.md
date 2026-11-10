@@ -10,4 +10,4 @@ Selon les notes de recherche SHS de l'étudiante, Google Fonts, la communauté F
 
 Voir aussi : [[Freemium]], [[Typologie des innovations]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

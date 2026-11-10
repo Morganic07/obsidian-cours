@@ -14,4 +14,4 @@ Ce sont les propos d'une interviewée, pas un cours sur Git.
 
 Notion parente : [[Git]]. Voir aussi : [[Fichier README]], [[Licences libres]], [[Open design]].
 
-Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[6 - design libre]]

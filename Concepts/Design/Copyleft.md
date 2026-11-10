@@ -18,4 +18,4 @@ Nommé sans définition dans deux notes de recherche :
 
 Notion parente : [[Licences libres]]. Voir aussi : [[Financement participatif]].
 
-Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[6 - design libre]]

@@ -26,10 +26,10 @@ Exemple souvent cité : les moteurs automobiles consomment moins par kilogramme 
 ## Dans le cours
 
 Le cours ne nomme pas la notion. Elle apparaît dans les compléments de :
-- [[2 - Culture du vivant]] : le chemin « prendre de la matière pour gagner du temps », celui du technosolutionnisme, bute sur l'effet rebond ;
-- [[3 - Culture du vivant]] : la solution « Vers la sobriété », où l'efficacité seule est exposée à l'effet rebond ;
+- [[1 - Culture du vivant]] : le chemin « prendre de la matière pour gagner du temps », celui du technosolutionnisme, bute sur l'effet rebond ;
+- [[2 - Culture du vivant]] : la solution « Vers la sobriété », où l'efficacité seule est exposée à l'effet rebond ;
 - [[1 - innovation]] : à rapprocher de la question « que suffit-il ? » du [[Value(s) Design]], qui vise la sobriété plutôt que la seule efficacité.
 
 Voir aussi : [[Sobriété]], [[Progrès technique]], [[Value(s) Design]], [[Transhumanisme]], [[Limites planétaires]]
 
-Résumés : [[2 - Culture du vivant]], [[3 - Culture du vivant]], [[1 - innovation]]
+Résumés : [[1 - Culture du vivant]], [[2 - Culture du vivant]], [[1 - innovation]]

@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [Script (objet technique), script (sociologie de l'innovation), scripts d'usage, inscription et dé-scription]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : notion de Madeleine Akrich, sociologue des techniques (« Comment décrire les objets techniques ? », revue *Techniques et culture*, 1987). Un objet technique contient un **script**, c'est-à-dire, comme un scénario de film, un rôle écrit d'avance pour son utilisateur et pour son environnement : un utilisateur type, des actions prévues, un contexte d'usage.
@@ -21,4 +21,6 @@ La notion appartient à la [[Théorie de l'acteur-réseau]], dont Akrich est l'u
 
 Voir aussi : [[Non-neutralité des objets techniques]], [[Théorie de l'acteur-réseau]], [[Architexte]], [[Quatre cadres de l'écrit d'écran]], [[Scénario d'usage]], [[Affordance]]
 
-Résumés : [[1 - sémiotique]], [[2 - sémiotique]]
+- Dans les compléments de [[5 - Culture du vivant]], la forêt de Fontainebleau sans poubelles est un exemple de script : l'aménagement prescrit aux visiteurs de remporter leurs déchets (voir [[Nudge]]).
+
+Résumés : [[1 - sémiotique]], [[2 - sémiotique]], [[5 - Culture du vivant]]

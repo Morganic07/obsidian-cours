@@ -13,4 +13,4 @@ Risque propre à l'[[IA générative]] probabiliste selon les notes SHS d'un gro
 
 Notion parente : [[IA générative]]. Voir aussi : [[Système expert]], [[Grand modèle de langage]].
 
-Résumés : [[3 - Prise de note]], [[1 - IA]]
+Résumés : [[6 - design libre]], [[1 - IA]]

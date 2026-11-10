@@ -7,7 +7,7 @@ aliases: []
 sources:
   - "[[Fondaction Football|recherches femmes et foot]]"
   - "[[Raw/Year 3/Projet courts/Santé au travail - fiche ressources.pdf|Santé au travail - fiche ressources.pdf]]"
-maj: 2026-11-07
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : l'expression a deux sens. En sociologie et dans le débat public, la charge mentale désigne le travail invisible qui consiste à penser, prévoir et organiser les tâches domestiques et familiales, même quand on ne les exécute pas soi-même ; elle repose majoritairement sur les femmes. En ergonomie et en psychologie du travail, elle désigne la sollicitation mentale qu'impose une activité professionnelle, dont l'excès est un facteur de [[Risques psychosociaux|risques psychosociaux]].
@@ -22,4 +22,6 @@ En Projet courts (Year 3), la fiche ressources du projet « santé au travail »
 
 Notion parente : [[Sexisme ordinaire]]. Voir aussi : [[Charge cognitive]].
 
-Résumés : [[Fondaction Football]], [[Santé au travail (Projet year 3)]]
+[[2 - Prise de note de courrier à courriel]] : « la surcharge mentale » : le flux constant de notifications et de messages crée un sentiment d'urgence permanente.
+
+Résumés : [[Fondaction Football]], [[Santé au travail (Projet year 3)]] · [[2 - Prise de note de courrier à courriel]]

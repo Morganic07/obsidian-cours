@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, year4]
 aliases: [concrétisation technique, objet technique concret, objet technique abstrait, lignée technique, concretization]
 sources: ["[[Raw/Year 2/Philosophie/philo 5 .docx|philo 5]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : chez Gilbert Simondon (*Du mode d'existence des objets techniques*, 1958), la concrétisation est l'évolution par laquelle un objet technique passe de l'état **abstrait** à l'état **concret**.
@@ -21,4 +21,6 @@ Le cours ne la nomme pas : il présente Simondon par la [[Technicité|technicit�
 
 Voir aussi : [[Technicité]], [[Transduction]], [[Organisme et machine]], [[Cybernétique]], [[Aliénation]].
 
-Résumés : [[7 - philo]]
+Elle est aussi rappelée dans les compléments de [[5 - Culture du vivant]], à propos de la « haine de la technique » et de l'[[Obsolescence programmée|obsolescence programmée]].
+
+Résumés : [[7 - philo]], [[5 - Culture du vivant]]

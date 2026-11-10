@@ -12,4 +12,4 @@ Il donne à voir l'échec de la modernité et du fonctionnalisme, et montre comm
 
 Voir aussi : [[Habitabilité]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

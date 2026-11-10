@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[ELBA|Topo ELBA]]"
   - "[[Raw/Year 1/Projet design/Villeneuve/recherches/idées solutions .docx|idées solutions]]"
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
   - "[[Reyou|Reyou]]"
 maj: 2026-11-07
 ---
@@ -31,4 +31,4 @@ Notion nommée dans plusieurs cours, sans définition :
 
 Notion parente : [[Valeur socio-écologique]]. Voir aussi : [[Greenwashing]], [[Objectifs de développement durable]], [[Entreprise à mission]].
 
-Résumés : [[ELBA]], [[3 - Culture du vivant]], [[Reyou]]
+Résumés : [[ELBA]], [[2 - Culture du vivant]], [[Reyou]]

@@ -23,4 +23,4 @@ La ligne d'horizon (*horizon line*) sépare le ciel et la terre ; elle est toujo
 
 Voir aussi : [[Raccourci (perspective)]], [[Chevauchement]], [[Contraste des couleurs]].
 
-Résumés : [[5 - imaginaires de l'automobile]], [[2 - Peinture]]
+Résumés : [[4 - imaginaires de l'automobile]], [[2 - Peinture]]

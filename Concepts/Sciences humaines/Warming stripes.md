@@ -10,4 +10,4 @@ Nommées dans le premier cours de culture du vivant sans explication : visualisa
 
 Notion parente : [[Effet de serre]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

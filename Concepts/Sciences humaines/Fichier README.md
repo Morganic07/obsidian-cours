@@ -10,4 +10,4 @@ Propos d'une étudiante interrogée lors de l'enquête SHS sur l'open source : l
 
 Voir aussi : [[Git]], [[Licences libres]].
 
-Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[6 - design libre]]

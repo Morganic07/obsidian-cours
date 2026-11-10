@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [surveillance capitalism]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 4.pptx|Cours 4.pptx]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : notion de Shoshana Zuboff, professeure à la Harvard Business School (*The Age of Surveillance Capitalism*, 2019 ; trad. *L'Âge du capitalisme de surveillance*, 2020). Elle désigne un modèle économique qui traite l'**expérience humaine comme une matière première gratuite**, transformée en **données comportementales** afin de produire et de vendre des **prédictions de comportement**, d'abord pour la publicité ciblée.
@@ -26,4 +26,6 @@ Le cours ne la nomme pas. Elle apparaît dans les compléments de [[3 - sémioti
 
 Voir aussi : [[Traces numériques]], [[Économie des données]], [[Travail invisible des utilisateurs]], [[Panoptique]], [[Logique du marché]].
 
-Résumés : [[3 - sémiotique]], [[4 - sémiotique]]
+Il apparaît aussi dans les compléments de [[5 - Culture du vivant]], comme forme numérique du [[Profilage des consommateurs|profilage des consommateurs]].
+
+Résumés : [[3 - sémiotique]], [[4 - sémiotique]], [[5 - Culture du vivant]]

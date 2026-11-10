@@ -12,8 +12,8 @@ L'hypothèse prolonge l'essai de Sigmund Freud *L'Inquiétante Étrangeté* (*Da
 
 ## Dans le cours
 
-Kröger ([[5 - imaginaires de l'automobile|text2]]) prévoit que les voitures sans conducteur seront toujours plus anthropomorphisées, et que nous traitons déjà nos voitures comme des êtres vivants sans trouver cela étrange, en paraphrasant Freud sur les enfants et leurs poupées. La vallée de l'étrange n'est pas nommée.
+Kröger ([[4 - imaginaires de l'automobile|text2]]) prévoit que les voitures sans conducteur seront toujours plus anthropomorphisées, et que nous traitons déjà nos voitures comme des êtres vivants sans trouver cela étrange, en paraphrasant Freud sur les enfants et leurs poupées. La vallée de l'étrange n'est pas nommée.
 
 Voir aussi : [[Anthropomorphisme]], [[Fantastique (Todorov)]], [[Paréidolie]], [[Voiture autonome]].
 
-Résumés : [[5 - imaginaires de l'automobile]]
+Résumés : [[4 - imaginaires de l'automobile]]

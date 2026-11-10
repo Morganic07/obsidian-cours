@@ -31,6 +31,6 @@ Au XVIIIe siècle, Kant (1790) distingue l'organisme de la machine : adaptabilit
 
 Le cours précise que la domination de la nature, souvent attribuée à Descartes, est nuancée : seul Dieu est maître de la nature, et la Genèse ne fait pas de l'homme un dominateur absolu (lettre à Chanut, 1647).
 
-Voir aussi : [[Quatre causes d'Aristote]], [[Progrès technique]], et [[4 - imaginaires automobile]] en SHS, où la voiture devient un double de l'humain. Notions voisines : [[Organisme et machine]], [[Révolution scientifique]], [[Finalisme]].
+Voir aussi : [[Quatre causes d'Aristote]], [[Progrès technique]], et [[3 - imaginaires automobile]] en SHS, où la voiture devient un double de l'humain. Notions voisines : [[Organisme et machine]], [[Révolution scientifique]], [[Finalisme]].
 
 Résumés : [[5 - philo|philo 3]], [[7 - philo|philo 5]]

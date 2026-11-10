@@ -3,6 +3,7 @@ type: concept
 tags:
   - year2
   - year3
+  - year4
 aliases:
   - adressage IPv4
   - adresse IPv4
@@ -38,7 +39,7 @@ sources:
   - "[[Raw/Year 3/Computer Network/02 IP Addressing.pdf|02 IP Addressing.pdf]]"
   - "[[3 - TP3|Cours TP3]]"
   - "[[Raw/Year 2/Operating System/DM/TP3/TP3-Commands  (2).pdf|TP3-Commands  (2).pdf]]"
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition** (d'après [[2 - IP Addressing]]) : une adresse IPv4 est un nombre de 32 bits, écrit en quatre octets séparés par des points (notation décimale pointée). Elle contient une partie réseau et une partie hôte, que le masque de sous-réseau sépare. Cours de [[Cours/Informatique/Computer Network/_index|Computer Network]].
@@ -113,4 +114,6 @@ En Operating System (TP3), l'adresse IP est définie comme l'étiquette numériq
 
 Voir aussi : [[Adresse de bouclage]], [[IANA]], [[VLSM]], [[Octet]], [[Numération binaire]], [[Interface réseau]], [[Commande ifconfig]], [[Commande ip]], [[DNS]].
 
-Résumés : [[2 - IP Addressing]], [[5 - NAT ／ PAT]], [[6 - Access Control List]], [[3 - TP3]]
+[[2 - Histoire du design]] : l'URL évite à l'utilisateur de manipuler des adresses IP complexes ; le Web s'appuie sur l'adressage IP d'Internet.
+
+Résumés : [[2 - IP Addressing]], [[5 - NAT ／ PAT]], [[6 - Access Control List]], [[3 - TP3]] · [[2 - Histoire du design]]

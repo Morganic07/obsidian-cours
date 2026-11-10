@@ -19,8 +19,8 @@ Le dilemme sert aujourd'hui à poser la question des choix programmés d'un véh
 
 ## Dans le cours
 
-Le texte de Kröger ([[5 - imaginaires de l'automobile|text2]]) ne le cite pas : la fiche le relie à la question morale de la voiture autonome dans un complément.
+Le texte de Kröger ([[4 - imaginaires de l'automobile|text2]]) ne le cite pas : la fiche le relie à la question morale de la voiture autonome dans un complément.
 
 Voir aussi : [[Voiture autonome]], [[Niveaux d'automatisation de la conduite]], [[Autonomie morale]].
 
-Résumés : [[5 - imaginaires de l'automobile]]
+Résumés : [[4 - imaginaires de l'automobile]]

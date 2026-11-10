@@ -7,7 +7,7 @@ matieres:
   - Culture du vivant
   - SHS
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-06
 ---
 
@@ -17,4 +17,4 @@ maj: 2026-11-06
 
 Voir aussi : [[Économie circulaire]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

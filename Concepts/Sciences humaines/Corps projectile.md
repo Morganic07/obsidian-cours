@@ -12,10 +12,10 @@ maj: 2026-11-08
 
 Nommé dans text1 ([[Raw/Year 3/SHS/Cours/text1.pdf|text1.pdf]]) sans développement : expression de Paul Virilio, citée par Meyer-Drawe, pour dire que la voiture est un corps projectile dont s'équipe le sujet autonome.
 
-Dans [[4 - imaginaires automobile]], la voiture est un corps projectile, « une arme pour tout le monde » ; le texte ajoute que « mobilité et contrôle vont de pair » : l'humain qui se croit libre s'équipe d'un corps projectile tout en se liant à des procédures de soumission (l'embouteillage en est le signe).
+Dans [[3 - imaginaires automobile]], la voiture est un corps projectile, « une arme pour tout le monde » ; le texte ajoute que « mobilité et contrôle vont de pair » : l'humain qui se croit libre s'équipe d'un corps projectile tout en se liant à des procédures de soumission (l'embouteillage en est le signe).
 
 Notion parente : [[Moi blindé]].
 
 Voir aussi : [[Extension du schéma corporel]], [[Voiture autonome]].
 
-Résumés : [[4 - imaginaires automobile]]
+Résumés : [[3 - imaginaires automobile]]

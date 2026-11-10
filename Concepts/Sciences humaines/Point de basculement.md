@@ -29,8 +29,8 @@ Les [[Limites planétaires|limites planétaires]] sont placées en deçà de ces
 
 ## Dans le cours
 
-Le cours ne nomme pas la notion. Elle apparaît dans les compléments de [[4 - Culture du vivant]], à propos des « dérèglements en cascade » de VIVANT1 : fonte des glaciers (Thwaites), libération du méthane du permafrost, méga-feux et perte des forêts comme puits de carbone, arrêt ou renforcement de courants océaniques.
+Le cours ne nomme pas la notion. Elle apparaît dans les compléments de [[3 - Culture du vivant]], à propos des « dérèglements en cascade » de VIVANT1 : fonte des glaciers (Thwaites), libération du méthane du permafrost, méga-feux et perte des forêts comme puits de carbone, arrêt ou renforcement de courants océaniques.
 
 Voir aussi : [[Limites planétaires]], [[Anthropocène]], [[Effet de serre]], [[Acidification des océans]]
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

@@ -11,13 +11,13 @@ matieres:
   - SHS
 sources:
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|Recherches SHS]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-08
 ---
 
 Axe d'enquête du cours de SHS de 4e année : le design lui-même comme [[Communs numériques|commun]] (typographies libres, design systems et bibliothèques ouvertes, ressources sous [[Licences libres]], design contributif).
 
-**Définition proposée par le groupe d'étudiants** (d'après [[3 - Prise de note]]) : approche du design dans laquelle les créations, les fichiers sources, les méthodes ou les ressources sont mis à disposition sous des conditions qui permettent leur consultation, leur utilisation, leur modification et leur redistribution.
+**Définition proposée par le groupe d'étudiants** (d'après [[6 - design libre]]) : approche du design dans laquelle les créations, les fichiers sources, les méthodes ou les ressources sont mis à disposition sous des conditions qui permettent leur consultation, leur utilisation, leur modification et leur redistribution.
 
 Exemples cités par le groupe :
 
@@ -32,4 +32,4 @@ L'enquête s'appuie aussi sur un entretien entre deux étudiants, où l'enquêt�
 
 Notion parente : [[Communs numériques]]. Voir aussi : [[Design contributif]], [[Design system]], [[Licences libres]]
 
-Résumés : [[3 - Prise de note|Prise de note SHS]]
+Résumés : [[6 - design libre|Prise de note SHS]]

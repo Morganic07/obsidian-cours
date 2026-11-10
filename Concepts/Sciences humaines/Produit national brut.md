@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [PNB, produit national, revenu national brut, RNB, gross national product, GNP, gross national income, GNI]
 matieres: [Gestion financière]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

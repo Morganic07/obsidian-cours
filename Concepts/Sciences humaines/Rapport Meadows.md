@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year3
+  - year4
 aliases:
   - Les limites à la croissance
   - The Limits to Growth
@@ -13,8 +14,8 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[2 - Culture du vivant|Culture du vivant (Y3)]]"
-maj: 2026-11-07
+  - "[[1 - Culture du vivant|Culture du vivant (Y3)]]"
+maj: 2026-11-10
 ---
 
 « The Limits to Growth » (1972), rapport commandé par le Club de Rome : modélisation de trois scénarios par l'équipe du MIT, dont Dennis et Donella Meadows.
@@ -23,4 +24,6 @@ Le graphique du modèle World3 (scénario standard, d'après Turner 2012) montre
 
 Voir aussi : [[Collapsologie]], [[Limites planétaires]].
 
-Résumés : [[4 - Culture du vivant]], [[2 - Culture du vivant]]
+Dans les compléments de [[5 - Culture du vivant]], le rapport donne aux luttes écologistes des années 1970 un argument scientifique (voir [[Écologisme]]).
+
+Résumés : [[3 - Culture du vivant]], [[1 - Culture du vivant]], [[5 - Culture du vivant]]

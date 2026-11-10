@@ -20,4 +20,4 @@ Vector : graphique fait de points, de courbes et de lignes (de formules mathéma
 
 Voir aussi : [[Calque (image numérique)]].
 
-Résumés (rapprochement, complément hors du cours) : [[3 - Prise de note]]
+Résumés (rapprochement, complément hors du cours) : [[6 - design libre]]

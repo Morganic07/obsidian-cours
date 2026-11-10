@@ -12,4 +12,4 @@ maj: 2026-11-07
 
 Nommée sans définition dans le scénario de l'exposé « world in 2075 » : l'humain et l'IA interagissent directement via des implants cérébraux, « fusionnant pensée et algorithmes ». L'infographie de l'exposé, au texte déformé, sort probablement d'un outil de génération d'images.
 
-Résumés (rapprochement, complément hors du cours) : [[4 - imaginaires automobile]], [[2 - imaginaires du futur]]
+Résumés (rapprochement, complément hors du cours) : [[3 - imaginaires automobile]], [[2 - imaginaires du futur]]

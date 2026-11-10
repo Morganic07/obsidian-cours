@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [taux directeur, taux directeurs, assouplissement quantitatif, quantitative easing, monetary policy]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

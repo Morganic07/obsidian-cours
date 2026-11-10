@@ -24,11 +24,11 @@ matieres:
 sources:
   - "[[Raw/Year 1/Dessein au cube/Untitled document.docx|Untitled document]]"
   - "[[Raw/Year 1/Dessein au cube/Synthèse.docx|Synthèse]]"
-  - "Global Exam Vocab, dans Raw/Year 2/Anglais (exclu du miroir)"
+  - Global Exam Vocab, dans Raw/Year 2/Anglais (exclu du miroir)
   - "[[Raw/Year 3/SHS/Cours/TD_preparation_entretiens25.9.25.pdf|TD_preparation_entretiens25.9.25.pdf]]"
-  - "Synthese SHS GPT, dans Raw/Year 3/SHS/Entretiens (exclu du miroir)"
+  - Synthese SHS GPT, dans Raw/Year 3/SHS/Entretiens (exclu du miroir)
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -46,4 +46,4 @@ Le TD de SHS de 3e année propose une grille d'analyse : thème ou mot-clé, ext
 
 **Sens général d'« insight »** : le glossaire d'anglais le définit comme la capacité à comprendre quelqu'un ou quelque chose de façon juste et profonde.
 
-Résumés : [[2 - imaginaires du futur|imaginaire_automobile_futur_smaller]], [[3 - Prise de note]]
+Résumés : [[2 - imaginaires du futur|imaginaire_automobile_futur_smaller]], [[6 - design libre]]

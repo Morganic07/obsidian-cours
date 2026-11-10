@@ -3,13 +3,13 @@ type: source
 tags:
   - year4
 sources:
-  - "[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"
+  - "[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/Gestion financière.docx|Gestion financière]], dans [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]]. La note est très courte (sept notions de vocabulaire économique et financier, sans image) : la fiche reprend tout son contenu et le complète. Les passages ajoutés finissent par ⓘ.
+Résumé de [[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]], dans [[Cours/Sciences humaines/Gestion financière/_index|Gestion financière]]. La note est très courte (sept notions de vocabulaire économique et financier, sans image) : la fiche reprend tout son contenu et le complète. Les passages ajoutés finissent par ⓘ.
 
 ## 1. Trois types de banque
 

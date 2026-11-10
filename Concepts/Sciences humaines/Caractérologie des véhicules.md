@@ -10,4 +10,4 @@ Selon Boltanski (1975, text3), la forme extérieure de la voiture est un miroir 
 
 Voir aussi : [[Extension du schéma corporel]], [[Concurrence pour l'espace]], [[Ethos de classe]].
 
-Résumés : [[6 - usages sociaux de l'automobile]], [[2 - imaginaires du futur]]
+Résumés : [[5 - usages sociaux de l'automobile]], [[2 - imaginaires du futur]]

@@ -19,4 +19,4 @@ VIVANT1 y ajoute solidarité et génération. Le cours de SHS sur l'imaginaire a
 
 Voir aussi : [[Cartésianisme]], [[Soin (care)]], [[Design centré vivant]].
 
-Résumés : [[4 - Culture du vivant]], [[2 - imaginaires du futur]]
+Résumés : [[3 - Culture du vivant]], [[2 - imaginaires du futur]]

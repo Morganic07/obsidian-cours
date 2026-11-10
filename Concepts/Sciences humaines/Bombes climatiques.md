@@ -10,4 +10,4 @@ Kjell Kühne a identifié 425 sites d'extraction d'énergies fossiles dans le mo
 
 Notion parente : [[Effet de serre]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

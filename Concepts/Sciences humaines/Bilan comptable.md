@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [bilan, actif et passif, actif, passif, capitaux propres, bas de bilan, balance sheet]
 matieres: [Gestion financière]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

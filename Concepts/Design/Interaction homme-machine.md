@@ -3,6 +3,7 @@ type: concept
 tags:
   - year2
   - year3
+  - year4
 aliases:
   - IHM
   - conception IHM
@@ -15,7 +16,7 @@ sources:
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/SHS/Cours/text2.pdf|text2.pdf]]"
   - "[[1 - Ethnographie visuelle]]"
-maj: 2026-11-07
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : l'interaction homme-machine (IHM) est le domaine qui étudie et conçoit les échanges entre les personnes et les systèmes informatiques ou techniques. Elle croise l'informatique, l'[[Ergonomie|ergonomie]], la psychologie cognitive et le design. Le sigle IHM désigne aussi l'interface homme-machine elle-même : l'ensemble des dispositifs (écrans, commandes, retours visuels, sonores ou haptiques) par lesquels l'utilisateur agit sur la machine et en reçoit les réponses.
@@ -30,4 +31,6 @@ Nommée sans définition dans trois documents :
 
 Voir aussi : [[Expérience utilisateur]], [[Ergonomie]].
 
-Résumés : [[1 - Ethnographie visuelle]], [[1 - UX]], [[5 - imaginaires de l'automobile]]
+En histoire du design (Year 4), [[1 - Histoire du design]] montre comment Turing déplace la relation HUMAIN → COMMANDE → MACHINE vers une relation HUMAIN // MACHINE, où l'ordinateur devient un interlocuteur potentiel.
+
+Résumés : [[1 - Ethnographie visuelle]], [[1 - UX]], [[4 - imaginaires de l'automobile]], [[1 - Histoire du design]]

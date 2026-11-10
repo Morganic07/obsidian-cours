@@ -10,7 +10,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[2 - Culture du vivant|Culture du vivant (Y3)]]"
+  - "[[1 - Culture du vivant|Culture du vivant (Y3)]]"
 maj: 2026-11-07
 ---
 
@@ -22,4 +22,4 @@ Le modèle World3 (« Limites à la croissance », voir [[Rapport Meadows]]) est
 
 Voir aussi : [[Limites planétaires]], [[Anthropocène]]
 
-Résumé : [[2 - Culture du vivant|Culture du vivant]]
+Résumé : [[1 - Culture du vivant|Culture du vivant]]

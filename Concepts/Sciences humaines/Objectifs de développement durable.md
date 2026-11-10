@@ -9,7 +9,7 @@ aliases:
 matieres:
   - Culture du vivant
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -21,4 +21,4 @@ Nommés dans le cours sans définition : les « 17 ODD » sont cités parmi les 
 
 Notion parente : [[Responsabilité sociétale des entreprises]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

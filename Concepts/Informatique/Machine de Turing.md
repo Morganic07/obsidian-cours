@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year1]
-aliases: [Turing machine, machines de Turing, Turing-complet, Turing-complete, Turing complétude, thèse de Church-Turing, Church-Turing thesis, problème de l'arrêt, halting problem]
-sources: ["[[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]]"]
-maj: 2026-11-08
+tags: [year1, year4]
+aliases: [Turing machine, machines de Turing, Turing-complet, Turing-complete, Turing complétude, machine universelle, machine de Turing universelle, universal Turing machine]
+sources: ["[[Raw/Year 1/Algo Maths/Cours 1.docx|Cours 1 (Algo Maths)]]", "[[Raw/Year 4/histoire du design et interactions /chp1 cours.pdf|chp1 cours.pdf]]"]
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : modèle mathématique de calcul défini par Alan Turing en 1936 (article « On Computable Numbers, with an Application to the Entscheidungsproblem »). Une machine de Turing se compose :
@@ -27,6 +27,10 @@ Formellement, la fonction de transition s'écrit $\delta : Q \times \Gamma \to Q
 
 Le cours ne la nomme pas : Cours 1 (Algo Maths) affirme seulement que, si un problème est résoluble dans un langage de programmation, il l'est dans tous, les langages résolvant les mêmes problèmes. La machine de Turing et la Turing-complétude apparaissent dans les compléments de [[0 - Algo Maths]], qui donnent le nom et la raison de cette équivalence.
 
-Voir aussi : [[Algorithme]], [[Terminaison d'un algorithme]], [[Complexité algorithmique]], [[Classe de complexité]], [[Langage Python]], [[Test de Turing]].
+En histoire du design (Year 4), [[1 - Histoire du design]] la décrit (d'après l'article de 1936, « On Computable Numbers ») comme une machine abstraite extrêmement simple, conçue pour donner une définition mathématique de « calculer » : un ruban théoriquement illimité divisé en cases, une tête de lecture et d'écriture, un ensemble limité de symboles et des règles indiquant quoi faire selon ce qui est lu ; la machine peut lire un symbole, l'effacer, en écrire un autre, déplacer la tête à droite ou à gauche et changer d'état. Idée fondamentale : un calcul complexe se décompose en une succession d'opérations élémentaires exécutées selon des règles (ENTRÉE → INSTRUCTIONS → OPÉRATIONS → RÉSULTAT). Le cours retient aussi, pour 1936, la **machine universelle** (une machine peut simuler d'autres machines grâce à leurs descriptions) et les **limites du calcul** (certains problèmes ne peuvent pas être résolus par un algorithme universel). La thèse de Church-Turing y est citée dans un extrait de livre ; elle date des travaux de 1936, son nom lui ayant été donné par Stephen Kleene en 1952.
 
-Résumés : [[0 - Algo Maths|Cours 1 (Algo Maths)]]
+La machine universelle est le modèle théorique de l'ordinateur à programme enregistré, où le programme est une donnée lue par la machine comme une autre ; l'architecture décrite par John von Neumann en 1945 en est la réalisation. [[Complément hors du cours|ⓘ]]
+
+Voir aussi : [[Thèse de Church-Turing]], [[Problème indécidable|Problème de l'arrêt]], [[Calculabilité]], [[Entscheidungsproblem]], [[Architecture de von Neumann]], [[Algorithme]], [[Terminaison d'un algorithme]], [[Complexité algorithmique]], [[Classe de complexité]], [[Langage Python]], [[Test de Turing]].
+
+Résumés : [[0 - Algo Maths|Cours 1 (Algo Maths)]], [[1 - Histoire du design]]

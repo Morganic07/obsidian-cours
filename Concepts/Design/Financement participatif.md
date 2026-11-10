@@ -10,7 +10,7 @@ matieres:
   - SHS
   - management de l'innovationb
 sources:
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
   - "[[Raw/Year 4/management de l'innovationb/Innovation - PINA MORGANE.docx|Analyse d'innovations]]"
 maj: 2026-11-07
 ---
@@ -19,4 +19,4 @@ Blender a été libéré grâce au financement communautaire. Dans le plan SHS d
 
 Voir aussi : [[Freemium]], [[Communs numériques]], [[Copyleft]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

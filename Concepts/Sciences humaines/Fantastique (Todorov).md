@@ -14,4 +14,4 @@ Nommé dans text2 ([[Raw/Year 3/SHS/Cours/text2.pdf|text2.pdf]]) sans définitio
 
 Voir aussi : [[Voiture autonome]].
 
-Résumés : [[5 - imaginaires de l'automobile]]
+Résumés : [[4 - imaginaires de l'automobile]]

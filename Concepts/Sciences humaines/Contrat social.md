@@ -22,7 +22,7 @@ Il s'oppose à la thèse d'Aristote, pour qui l'état est naturel (voir [[Animal
 
 Le cours juge notre monde « hobbesien » : l'état y a pour but le travail, la sécurité et la consommation, ce qui conduit à se demander quelle place y ont la culture et l'art.
 
-Le cours de Culture du vivant cite Rousseau (*Le contrat social*) parmi les lanceurs d'alerte : « la Nature comme origine, soutien et destin de toute vie ». Face aux dégâts climatiques, le contrat social est à repenser : décider des solidarités, des responsabilités et des préventions ([[4 - Culture du vivant]]).
+Le cours de Culture du vivant cite Rousseau (*Le contrat social*) parmi les lanceurs d'alerte : « la Nature comme origine, soutien et destin de toute vie ». Face aux dégâts climatiques, le contrat social est à repenser : décider des solidarités, des responsabilités et des préventions ([[3 - Culture du vivant]]).
 
 ## Les théories du contrat (complément, hors du cours)
 
@@ -36,4 +36,4 @@ Weber prolonge l'idée de Hobbes : l'État se définit par le [[Monopole de la v
 
 Voir aussi : [[État de nature]], [[Animal politique]], [[Boussole des possibles]], [[Monopole de la violence légitime]], [[Intérêt général]]
 
-Résumés : [[1 - philo|L'état]], [[4 - Culture du vivant]]
+Résumés : [[1 - philo|L'état]], [[3 - Culture du vivant]]

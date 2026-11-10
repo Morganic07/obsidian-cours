@@ -14,4 +14,4 @@ Selon VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VI
 
 Voir aussi : [[Biocapacité]], [[Empreinte écologique]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

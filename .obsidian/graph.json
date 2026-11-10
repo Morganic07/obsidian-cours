@@ -1,9 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "[\"maj\"]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": true,
@@ -16,10 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15815989048280135,
-  "close": true,
-  "localBacklinks": true,
-  "localForelinks": true,
-  "localInterlinks": false,
-  "localJumps": 1
+  "scale": 0.026990383665975795,
+  "close": false
 }

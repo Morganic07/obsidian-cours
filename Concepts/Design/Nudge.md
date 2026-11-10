@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year1, year2]
+tags: [year1, year2, year4]
 aliases: [nudges, coup de pouce, architecture du choix, choice architecture]
 sources: ["[[Raw/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours.docx|corps à l'oeuvre - cours]]", "[[Raw/Year 2/Corps à l'oeuvre/Dernier cours.docx|Dernier cours (Corps à l'oeuvre)]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : un nudge (« coup de pouce ») oriente un comportement en modifiant l'**architecture du choix**, c'est-à-dire la manière dont les options sont présentées (ordre, option par défaut, signal visuel, emplacement), sans rien interdire, sans contraindre et sans changer les incitations financières : la personne reste libre de choisir autrement, et le détour doit lui coûter peu.
@@ -19,4 +19,6 @@ Le cours ne le nomme pas. Il apparaît dans les compléments de [[1 - corps à l
 
 Voir aussi : [[Dimension politique du design]], [[Non-neutralité des objets techniques]], [[Ligne de désir]], [[Posture et sentiment]], [[Biais cognitif]].
 
-Résumés : [[1 - corps à l'oeuvre]], [[2 - corps à l'oeuvre]]
+Dans les compléments de [[5 - Culture du vivant]], la suppression des poubelles en forêt de Fontainebleau, qui pousse les visiteurs à remporter leurs déchets, est rapprochée du nudge.
+
+Résumés : [[1 - corps à l'oeuvre]], [[2 - corps à l'oeuvre]], [[5 - Culture du vivant]]

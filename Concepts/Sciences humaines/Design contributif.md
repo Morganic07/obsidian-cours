@@ -5,7 +5,7 @@ tags:
 aliases: []
 sources:
   - "[[Raw/Year 4/SHS/SHS Recherches-Morgane.docx|SHS Recherches-Morgane]]"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-07
 ---
 
@@ -13,4 +13,4 @@ Selon les notes SHS d'un groupe d'étudiants (« Axe 4 » du syllabus), design o
 
 Notion parente : [[Open design]]. Voir aussi : [[Dictature bienveillante]], [[Gouvernance par l'expertise]].
 
-Résumés : [[3 - Prise de note]]
+Résumés : [[6 - design libre]]

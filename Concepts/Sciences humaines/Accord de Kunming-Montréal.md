@@ -11,4 +11,4 @@ Nommé dans la chronologie de VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/
 
 Voir aussi : [[IPBES]], [[Érosion de la biodiversité]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

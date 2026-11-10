@@ -14,8 +14,8 @@ maj: 2026-11-08
 
 ## Dans le cours
 
-Le cours ne la nomme pas. Elle apparaît dans les compléments de [[6 - usages sociaux de l'automobile]] : la **route encombrée** étudiée par Boltanski (text3) est un bien commun, libre d'accès mais rival ; chaque conducteur supplémentaire impose aux autres l'encombrement, coût qu'il ne paie pas. Voir [[Concurrence pour l'espace]].
+Le cours ne la nomme pas. Elle apparaît dans les compléments de [[5 - usages sociaux de l'automobile]] : la **route encombrée** étudiée par Boltanski (text3) est un bien commun, libre d'accès mais rival ; chaque conducteur supplémentaire impose aux autres l'encombrement, coût qu'il ne paie pas. Voir [[Concurrence pour l'espace]].
 
 Voir aussi : [[Externalité]], [[Communs numériques]], [[Concurrence pour l'espace]].
 
-Résumés : [[6 - usages sociaux de l'automobile]]
+Résumés : [[5 - usages sociaux de l'automobile]]

@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [action (finance), obligation (finance), titre financier, titres financiers, dividende, coupon, stock and bond]
 matieres: [Gestion financière]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
 maj: 2026-11-08
 ---
 

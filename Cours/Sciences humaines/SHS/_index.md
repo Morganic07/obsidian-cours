@@ -6,8 +6,8 @@ tags:
   - year4
 sources:
   - "[[Raw/Year 2/SHS/dessein au cube Semestre 2.pdf|dessein au cube Semestre 2.pdf]]"
-  - "Synthese SHS GPT, dans Raw/Year 3/SHS/Entretiens (exclu du miroir)"
-  - "[[3 - Prise de note|Prise de note SHS]]"
+  - Synthese SHS GPT, dans Raw/Year 3/SHS/Entretiens (exclu du miroir)
+  - "[[6 - design libre|Prise de note SHS]]"
 maj: 2026-11-08
 ---
 
@@ -55,9 +55,9 @@ Cours magistral et trois textes de lecture de l'enseignant et de ses référence
 | Document | Rôle | Résumé |
 |---|---|---|
 | imaginaire_automobile_futur_smaller (cours, 22 septembre 2025) | Objectifs, notion d'imaginaire, histoire, anthropologie, sociologie, livrables | [[2 - imaginaires du futur\|Résumé]] |
-| text1 (Meyer-Drawe, « L'automobile, un moi blindé ») | Approche anthropologique | [[4 - imaginaires automobile\|Résumé]] |
-| text2 (Kröger, histoire de la conduite automatisée) | Approche historique | [[5 - imaginaires de l'automobile\|Résumé]] |
-| text3 (Boltanski, « Les usages sociaux de l'automobile ») | Approche sociologique (lecture partielle) | [[6 - usages sociaux de l'automobile\|Résumé]] |
+| text1 (Meyer-Drawe, « L'automobile, un moi blindé ») | Approche anthropologique | [[3 - imaginaires automobile\|Résumé]] |
+| text2 (Kröger, histoire de la conduite automatisée) | Approche historique | [[4 - imaginaires de l'automobile\|Résumé]] |
+| text3 (Boltanski, « Les usages sociaux de l'automobile ») | Approche sociologique (lecture partielle) | [[5 - usages sociaux de l'automobile\|Résumé]] |
 
 ### Concepts
 
@@ -89,7 +89,7 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 | Note | Rôle | Résumé |
 |---|---|---|
-| [[3 - Prise de note\|Prise de note SHS]] | Problématique, plan, ouvertures | [[3 - Prise de note\|Résumé]] |
+| [[6 - design libre\|Prise de note SHS]] | Problématique, plan, ouvertures | [[6 - design libre\|Résumé]] |
 
 ### Concepts
 

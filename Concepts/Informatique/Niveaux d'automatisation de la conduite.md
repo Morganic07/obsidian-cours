@@ -23,8 +23,8 @@ Les niveaux 0 à 2 sont des aides à la conduite (le conducteur conduit) ; à pa
 
 ## Dans le cours
 
-Kröger ([[5 - imaginaires de l'automobile|text2]]) retrace le passage de la conduite à « être conduit ». Le régulateur de vitesse de 1958 relève du niveau 1 ; le conducteur de l'illustration de 1953, qui lâche le volant mais peut reprendre la main, annonce les niveaux 2 et 3. Le cours magistral ([[2 - imaginaires du futur]]) présente aussi les niveaux.
+Kröger ([[4 - imaginaires de l'automobile|text2]]) retrace le passage de la conduite à « être conduit ». Le régulateur de vitesse de 1958 relève du niveau 1 ; le conducteur de l'illustration de 1953, qui lâche le volant mais peut reprendre la main, annonce les niveaux 2 et 3. Le cours magistral ([[2 - imaginaires du futur]]) présente aussi les niveaux.
 
 Voir aussi : [[Voiture autonome]], [[Dilemme du tramway]].
 
-Résumés : [[5 - imaginaires de l'automobile]], [[2 - imaginaires du futur]]
+Résumés : [[4 - imaginaires de l'automobile]], [[2 - imaginaires du futur]]

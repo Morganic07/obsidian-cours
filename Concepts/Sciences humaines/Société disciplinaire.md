@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [pouvoir disciplinaire, disciplines, corps dociles, disciplinary society]
 sources: ["[[Raw/Year 3/SHS/Cours/text1.pdf|text1.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : notion de Michel Foucault, *Surveiller et punir* (1975). À partir des XVIIe et XVIIIe siècles, des institutions (armée, école, usine, hôpital, prison) dressent les corps pour les rendre à la fois **utiles et dociles** : plus le corps est obéissant, plus il est productif, et inversement.
@@ -21,8 +21,10 @@ Le modèle architectural en est le [[Panoptique|panoptique]] de Jeremy Bentham :
 
 ## Dans le cours
 
-Meyer-Drawe ([[4 - imaginaires automobile|text1]]) cite le « rêve militaire de la société » de Foucault (chapitre « Les corps dociles ») : non l'état de nature mais les rouages d'une machine, non le [[Contrat social|contrat]] originel mais des contraintes permanentes, des dressages indéfiniment progressifs, une docilité automatique. Pour elle, la voiture en est la version métallique, celle d'un [[Moi blindé|moi blindé]] doté d'une force invulnérable.
+Meyer-Drawe ([[3 - imaginaires automobile|text1]]) cite le « rêve militaire de la société » de Foucault (chapitre « Les corps dociles ») : non l'état de nature mais les rouages d'une machine, non le [[Contrat social|contrat]] originel mais des contraintes permanentes, des dressages indéfiniment progressifs, une docilité automatique. Pour elle, la voiture en est la version métallique, celle d'un [[Moi blindé|moi blindé]] doté d'une force invulnérable.
 
 Voir aussi : [[Dispositif de normalisation]], [[Moi blindé]], [[Contrat social]], [[Panoptique]].
 
-Résumés : [[4 - imaginaires automobile]]
+En histoire du design (Year 4), [[1 - Histoire du design]] : complément de la partie « De l'organisme à la société » (Deleuze fait succéder les sociétés de contrôle aux sociétés disciplinaires).
+
+Résumés : [[3 - imaginaires automobile]], [[1 - Histoire du design]]

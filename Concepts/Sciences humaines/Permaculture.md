@@ -15,4 +15,4 @@ Nommée dans le cours sans définition : la permaculture est citée parmi les th
 
 Voir aussi : [[Biomimétisme]].
 
-Résumés : [[4 - Culture du vivant]]
+Résumés : [[3 - Culture du vivant]]

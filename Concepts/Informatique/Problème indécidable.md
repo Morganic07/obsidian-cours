@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year1
+  - year4
 aliases:
   - indécidable
   - indécidabilité
@@ -13,7 +14,7 @@ matieres:
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[0 - diapo prof]]"
-maj: 2026-11-08
+maj: 2026-11-10
 ---
 
 **Définition** (d'après [[0 - diapo prof]]) : le cours donne le sens du mot sur l'exemple de la [[Terminaison d'un algorithme|terminaison]] : dire que la terminaison est un problème indécidable, c'est dire qu'« il n'existe pas d'algorithme qui a pour donnée un programme et obtient comme résultat *true* si et seulement si ce programme termine ».
@@ -31,4 +32,6 @@ AlgoID1 l'affirme à propos de la terminaison (« La terminaison est un problèm
 
 Notion parente : [[Terminaison d'un algorithme]].
 
-Résumés : [[0 - diapo prof]]
+En histoire du design (Year 4), [[1 - Histoire du design]] retient pour 1936 les « limites du calcul » (certains problèmes ne peuvent pas être résolus par un algorithme universel) ; le complément explique le problème de l'arrêt et l'*Entscheidungsproblem*.
+
+Résumés : [[0 - diapo prof]], [[1 - Histoire du design]]

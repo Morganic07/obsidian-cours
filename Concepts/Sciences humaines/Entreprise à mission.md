@@ -5,7 +5,7 @@ tags:
 aliases:
   - entreprises à mission
 sources:
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -13,8 +13,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans [[3 - Culture du vivant|Culture du vivant Dernier cours]] sans définition, parmi les outils des entreprises pour compter et valoriser leurs impacts.
+Nommée dans [[2 - Culture du vivant|Culture du vivant Dernier cours]] sans définition, parmi les outils des entreprises pour compter et valoriser leurs impacts.
 
 Notion parente : [[Responsabilité sociétale des entreprises]].
 
-Résumés : [[3 - Culture du vivant]]
+Résumés : [[2 - Culture du vivant]]

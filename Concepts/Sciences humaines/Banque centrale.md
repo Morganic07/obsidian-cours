@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [banques centrales, BCE, Banque centrale européenne, Banque de France, Eurosystème, central bank]
-sources: ["[[Raw/Year 4/Gestion financière.docx|Gestion financière]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/Gestion Financière/Gestion financière.docx|Gestion financière]]"]
+maj: 2026-11-10
 ---
 
 **Définition (complément, hors du cours)** : la banque centrale est l'institution publique qui **émet la monnaie** d'un pays ou d'une zone monétaire et **conduit sa [[Politique monétaire|politique monétaire]]**. C'est la « banque des banques » : les banques commerciales y détiennent un compte, y empruntent les liquidités dont elles ont besoin et y règlent leurs échanges entre elles. Elle ne prête ni aux particuliers ni aux entreprises, et ne cherche pas le profit.
@@ -26,4 +26,6 @@ Nommée dans la note de [[1 - gestion financière|Gestion financière]] comme l'
 
 Voir aussi : [[Types de banque]], [[Politique monétaire]], [[Inflation]], [[Création monétaire]].
 
-Résumés : [[1 - gestion financière]]
+[[2 - Histoire du design]] : Alan Greenspan, de l'entourage d'Ayn Rand, devient président de la Réserve fédérale, banque centrale des États-Unis.
+
+Résumés : [[1 - gestion financière]] · [[2 - Histoire du design]]

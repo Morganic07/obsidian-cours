@@ -15,7 +15,7 @@ matieres:
   - Culture du vivant
 sources:
   - "[[Reyou|Reyou]]"
-  - "[[3 - Culture du vivant|Culture du vivant Dernier cours]]"
+  - "[[2 - Culture du vivant|Culture du vivant Dernier cours]]"
 maj: 2026-11-07
 ---
 
@@ -27,4 +27,4 @@ Trois façons de prolonger la vie des objets, que le dossier ReYOU distingue :
 
 Notion parente : [[Économie circulaire]]. Voir aussi : [[Éco-organisme]].
 
-Résumés : [[Reyou]], [[3 - Culture du vivant]]
+Résumés : [[Reyou]], [[2 - Culture du vivant]]

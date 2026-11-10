@@ -38,6 +38,8 @@ Le [[Produit national brut|PNB]] (aujourd'hui revenu national brut) compte la pr
 
 D'après la note de [[1 - gestion financière|Gestion financière]], le PIB a remplacé le PNB (produit national). Selon la note, le PIB compte aussi les entreprises non françaises installées en France ; le PNB compte les entreprises françaises, en France et à l'étranger. [[Erreurs du cours#^e-produit-interieur-brut|✎]]
 
+En culture du vivant, le PIB figure parmi les douze indicateurs socio-économiques des courbes de la [[Grande accélération]] (compléments de [[5 - Culture du vivant]]).
+
 Voir aussi : [[Tableau économique d'ensemble]], [[Produit national brut]], [[Valeur ajoutée]].
 
-Résumés : [[1 - gestion financière]]
+Résumés : [[1 - gestion financière]], [[5 - Culture du vivant]]
