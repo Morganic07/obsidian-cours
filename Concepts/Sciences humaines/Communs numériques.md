@@ -22,6 +22,8 @@ Trois « murs » menacent les communs numériques d'après le groupe : l'argent 
 
 Le groupe distingue le commun de l'[[Intérêt général]] ([[6 - design libre]]) : l'intérêt général est une finalité collective, le commun implique en plus des pratiques de partage, de participation et de gouvernance.
 
+La note se demande aussi si les communs numériques sont voués à être pris par des entreprises privées. Sa réponse : la valeur financière d'un commun qui n'est protégé ni par une licence stricte ([[GNU Affero General Public License|AGPL]]) ni par une gouvernance forte finit chez ceux qui contrôlent l'hébergement ou la distribution ; souvent, l'entreprise ne pille pas le commun mais le subventionne pour en faire l'infrastructure de son propre marché, comme [[Google]] avec [[Kubernetes]] ([[Commoditisation du complément]]).
+
 Voir aussi : [[Open design]], [[Produit d'appel]], [[Gouvernance par l'expertise]]
 
 [[2 - Histoire du design]] : complément sur l'ouverture du logiciel du Web par le CERN en 1993, qui en fait un des grands communs numériques.

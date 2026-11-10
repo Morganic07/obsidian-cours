@@ -22,7 +22,9 @@ maj: 2026-11-10
 
 Licences qui permettent de réutiliser, modifier et partager une œuvre. Les notes en citent plusieurs : CC0 (domaine public), MIT et ISC (code et icônes), OFL (typographies), plus des licences propres à certains collectifs. Creative Commons attribution est utilisée pour les assets de Blender Studio.
 
-Limite relevée par le groupe : ces licences ont été pensées pour le partage entre humains, pas pour l'entraînement des IA génératives, qu'elles ne bloquent pas (problématique : « les licences ne bloquent pas les IA »). Pistes évoquées : licences « anti-IA » ou éthiques (au risque de trahir l'universalité du libre) et les « CC signals » à étudier.
+Limite relevée par le groupe : ces licences ont été pensées pour le partage entre humains, pas pour l'entraînement des IA génératives, qu'elles ne bloquent pas (problématique : « les licences ne bloquent pas les IA »). Pistes évoquées : licences « anti-IA » ou éthiques (au risque de trahir l'universalité du libre) et les [[CC signals]] de Creative Commons, retenus comme piste de réponse.
+
+La note oppose aussi les [[Licence permissive|licences permissives]] ([[Licence Apache|Apache 2.0]] de Docker Swarm) aux licences strictes comme l'[[GNU Affero General Public License|AGPL]], qui protègent mieux un commun contre la capture de sa valeur ([[6 - design libre]]).
 
 Le groupe propose une sous-partie « Les licences libres face à la réutilisation des créations par l'IA » ([[6 - design libre]]) : les licences (Creative Commons, OFL, CC0…) autorisent différentes réutilisations sous leurs conditions, mais des créations partagées peuvent finir dans des jeux de données d'entraînement (exemple potentiel : LAION-5B), ce qui pose la reconnaissance des créateurs et la redistribution de la valeur. Enjeu : les conditions qui permettent le partage permettent-elles aussi aux contributeurs de maîtriser les usages qui en sont faits ? Exemple envisagé : les typographies de Velvetyne sous OFL.
 

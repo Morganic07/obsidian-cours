@@ -8,7 +8,7 @@ maj: 2026-11-08
 
 ## Corrections par page
 
-303 pages corrigées, 609 corrections (nombre de marques ✎).
+304 pages corrigées, 610 corrections (nombre de marques ✎).
 
 ### Design
 
@@ -396,6 +396,7 @@ maj: 2026-11-08
 
 - [[1 - Ethnographie visuelle]] : « Marey a montré par la photo que le cheval au galop a les quatre pattes en l'air » → Muybridge (1878) ; Marey a aussi travaillé sur le cheval (histoire de la photographie) ; analyse du discours I et II inversées → institution (musée) : discours II ; large sélection d'images et de textes : discours I (G. Rose, *Visual Methodologies*, 2e éd., 2007, ch. 7 et 8) ^e-1-ethnographie-visuelle
 - [[Chronophotographie]] : démonstration du galop attribuée à Marey → Muybridge, 1878 ^e-chronophotographie
+- [[6 - design libre]] : « Google récupère le code source de Docker » pour construire Kubernetes → Kubernetes, annoncé par Google en juin 2014, s'inspire de ses systèmes internes Borg et Omega ; il orchestrait des conteneurs Docker sans reprendre le code de Docker (kubernetes.io, « 10 Years of Kubernetes », 2024) ^e-6-design-libre
 - [[Types d'analyse d'une image]] : institution → discours II ; large sélection → discours I (G. Rose, *Visual Methodologies*, 2007) ^e-types-d-analyse-d-une-image
 
 ## Faits retirés faute de source

@@ -4,7 +4,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 État au 2026-11-10 : 1 828 concepts, rangés en cinq domaines dans `Concepts/` ; 164 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (1828)
+## Concepts (1858)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -1598,6 +1598,39 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Produit d'appel]] : service gratuit d'entreprise privée sans gouvernance communautaire, comme Google Fonts ou Behance
 - [[Écosystème fermé]] : dépendance aux outils d'une grande entreprise, que l'interviewée refuse au profit de la communauté
 
+**Year 4 - SHS, note de groupe (ajoutés le 2026-11-10)**
+
+- [[Benchmark (design)]] : étude comparative de projets existants, placée en annexe du dossier d'enquête
+- [[Blender]] : logiciel libre de 3D, libéré en 2002 par une campagne de dons, cité comme vrai design libre
+- [[Blush (illustration)]] : illustrations en kit aux fichiers SVG payants, exemple du « faux design libre »
+- [[CC signals]] : signaux de Creative Commons (2025) pour une réutilisation réciproque des contenus par l'IA
+- [[Centre de données]] : bâtiment de serveurs, environ 1,5 % de l'électricité mondiale en 2024 (AIE)
+- [[CLIP (modèle)]] : modèle d'OpenAI (2021) qui mesure l'accord entre une image et un texte
+- [[CocoMaterial]] : illustrations inclusives gratuites pour les ONG, exemple d'intérêt général
+- [[Collletttivo]] : collectif de typographies libres sous OFL
+- [[Commoditisation du complément]] : rendre gratuit le complément de ce qu'on vend, comme Google avec Kubernetes
+- [[Figma]] : outil propriétaire de conception d'interfaces, modèle freemium
+- [[Forge logicielle]] : plateforme de développement collaboratif (dépôts, bogues, revues), comme GitHub
+- [[GitHub]] : plateforme d'hébergement de dépôts Git, rachetée par Microsoft en 2018
+- [[Imagerie à grande gamme dynamique]] : HDRI, panoramas qui éclairent les scènes 3D
+- [[GNU Affero General Public License]] : AGPL, copyleft étendu aux logiciels utilisés en ligne
+- [[Jeu de données d'entraînement]] : exemples sur lesquels un modèle apprend, distincts des jeux de validation et de test
+- [[Kubernetes]] : orchestrateur libre de conteneurs publié par Google en 2014
+- [[LAION-5B]] : 5,85 milliards de paires image-texte collectées sur le web (2022)
+- [[Licence Apache]] : licence permissive avec licence de brevets, celle de Docker Swarm et Kubernetes
+- [[Licence permissive]] : licence libre qui permet de refermer le code dans un produit propriétaire
+- [[Lucide]] : bibliothèque libre d'icônes SVG sous licence ISC
+- [[Logiciel propriétaire]] : logiciel dont la licence restreint l'étude, la modification ou la redistribution
+- [[Monopole]] : vendeur unique sans substitut proche, face à de nombreux acheteurs
+- [[OpenFisca]] : moteur libre qui traduit la législation socio-fiscale en code
+- [[Orchestration de conteneurs]] : gestion automatisée de milliers de conteneurs (Kubernetes, Docker Swarm)
+- [[Organisation non gouvernementale]] : organisation privée à but non lucratif, indépendante des États
+- [[Patreon]] : financement participatif récurrent, qui fait vivre Poly Haven
+- [[Penpot]] : outil libre de conception d'interfaces, alternative à Figma
+- [[Poly Haven]] : ressources 3D en CC0, financées par Patreon, système « Vault »
+- [[Terres rares]] : 17 éléments des aimants et de l'électronique, raffinés surtout en Chine
+- [[Velvetyne]] : fonderie typographique libre française, fontes sous OFL
+
 **Year 4 - culture du soin**
 
 - [[Charge cognitive]] : nommé dans le cours, sans définition
@@ -2206,7 +2239,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (212 : 149 docx, 57 pdf, 6 pptx), par dossier de Drive, au 2026-11-10. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (214 : 149 docx, 59 pdf, 6 pptx), par dossier de Drive, au 2026-11-10. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 

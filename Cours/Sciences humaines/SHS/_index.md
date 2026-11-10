@@ -93,12 +93,15 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 ### Concepts
 
-- **Méthode d'enquête** : [[Entretien semi-directif]], [[Analyse thématique d'entretien]]
+- **Méthode d'enquête** : [[Entretien semi-directif]], [[Analyse thématique d'entretien]], [[Benchmark (design)]]
+- **Autres notions de la note** : [[Forge logicielle]], [[Logiciel propriétaire]], [[Patreon]], [[Imagerie à grande gamme dynamique]], [[Organisation non gouvernementale]]
 - **Communs et design libre** : [[Communs numériques]], [[Open design]], [[Design contributif]], [[Design system]], [[Intérêt général]], [[Produit d'appel]], [[Écosystème fermé]]
-- **Licences et outils** : [[Licences libres]], [[Creative Commons]], [[Copyleft]], [[Git]], [[Demande de fusion]], [[Fichier README]]
+- **Licences et outils** : [[Licences libres]], [[Licence permissive]], [[Licence Apache]], [[Copyleft]], [[GNU Affero General Public License]], [[Creative Commons]], [[CC signals]], [[Git]], [[GitHub]], [[Demande de fusion]], [[Fichier README]]
+- **Projets cités** : [[CocoMaterial]], [[Collletttivo]], [[Velvetyne]], [[Lucide]], [[Poly Haven]], [[Blender]], [[Penpot]], [[Figma]], [[Blush (illustration)]], [[OpenFisca]]
 - **Gouvernance des communs** : [[Gouvernance par l'expertise]], [[Dictature bienveillante]], [[Design des règles]]
-- **Financement** : [[Financement participatif]], [[Freemium]]
-- **IA et communs** : [[IA générative]], [[IA sémantique]], [[Système expert]], [[Hallucination (IA)]], [[IA slop]], [[Licence anti-IA]]
+- **Financement et capture de la valeur** : [[Financement participatif]], [[Freemium]], [[Commoditisation du complément]], [[Monopole]], [[Kubernetes]], [[Orchestration de conteneurs]]
+- **IA et communs** : [[IA générative]], [[IA sémantique]], [[Système expert]], [[Hallucination (IA)]], [[IA slop]], [[Licence anti-IA]], [[LAION-5B]], [[CLIP (modèle)]], [[Jeu de données d'entraînement]]
+- **Écologie** : [[Centre de données]], [[Terres rares]], [[Consommation énergétique de l'IA]]
 
 ### À revoir en priorité
 
