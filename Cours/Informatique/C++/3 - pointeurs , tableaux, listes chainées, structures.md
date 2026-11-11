@@ -279,7 +279,7 @@ void echange(int a, int b){
 
 Déroulé en mémoire, sur la [[Pile d'exécution|pile]] :
 
-1. Au lancement, on entre dans la [[Méthode main|fonction `main`]] : `var1 = 10` et `var2 = 20` sont empilés.
+1. Au lancement, on entre dans la [[Fonction main (C et C++)|fonction `main`]] : `var1 = 10` et `var2 = 20` sont empilés.
 
 ![[Chp3 - pointeurs , tableaux, listes chainées, structures - image15.png]]
 

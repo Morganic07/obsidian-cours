@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year1
+  - year4
 aliases:
   - somme des n premiers entiers
   - nombre triangulaire
@@ -11,7 +12,7 @@ sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[Raw/Year 1/Analyse Maths/Exos/TD0-Rappel.pdf|TD0-Rappel.pdf]]"
   - "[[Raw/Year 1/Analyse Maths/Cours/Chap0-Rappels-etc.pdf|Chap0-Rappels-etc.pdf]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 $S = 1 + 2 + \dots + n = \dfrac{n(n+1)}{2}$.
@@ -30,4 +31,8 @@ La seconde dit que la somme des $n$ premiers cubes est le carré de la somme des
 
 Notion parente : [[Symboles somme et produit]]. Voir aussi : [[Récurrence]], [[Carré magique]], [[Changement d'indice]], [[Suite arithmétique]].
 
-Résumés : [[0 - Algo Maths|Cours 1 (Algo Maths)]], [[0 - diapo prof]], [[0 - Rappels-etc]]
+## Dans le cours (C++)
+
+[[4 - Cours complet]] calcule la somme des entiers de 1 à 100 (5050) par une boucle `while` et un accumulateur (`somme1-100.cpp`), puis la transforme en fonction `somme1aN(n)` placée dans un module séparé (exercice 4).
+
+Résumés : [[0 - Algo Maths|Cours 1 (Algo Maths)]], [[0 - diapo prof]], [[0 - Rappels-etc]], [[4 - Cours complet]]

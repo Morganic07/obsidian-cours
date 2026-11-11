@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [passage par référence, référence constante, pass by reference, const reference]
 sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 **Définition** (d'après [[4 - C++]]) : un paramètre déclaré avec `&` (`std::ostream& os`, `const Point& p`) est passé **par référence** : la fonction travaille sur l'objet original, pas sur une copie.
@@ -20,4 +20,8 @@ En C, faute de références, on modifie une variable en passant son adresse (voi
 
 Notion parente : [[Langage C++]]. Voir aussi : [[Passage de paramètres]].
 
-Résumés : [[4 - C++]], [[4 - Prise de note]]
+## Dans le cours
+
+[[4 - Cours complet]] définit la référence comme un nouveau nom, synonyme d'une variable définie ailleurs (`int &j = i;` puis `j = j + 1;` modifie `i`), initialisée une seule fois et liée à la même variable toute sa vie ; on ne peut ni la rediriger ni la créer sur une valeur (`int &k = 44;`). Elle existe en C++, pas en C. L'exercice 6 refait `ordonne3()` par passage par référence, plus simple que le passage par adresse.
+
+Résumés : [[4 - C++]], [[4 - Prise de note]], [[4 - Cours complet]]

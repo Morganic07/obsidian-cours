@@ -19,7 +19,7 @@ matieres:
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[2 - structures code|chp2 - structures code]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 Une fonction reçoit des paramètres en entrée et retourne une valeur ; une procédure est une suite d'instructions nommée, sans valeur retournée.
@@ -30,4 +30,8 @@ Une fonction reçoit des paramètres en entrée et retourne une valeur ; une pro
 
 Notion parente : [[Programmation modulaire]]. Voir aussi : [[Passage de paramètres]], [[Passage par valeur]], [[Portée d'une variable]], [[Récursivité]], [[Pointeur et adresse mémoire]], [[Erreur de compilation]].
 
-Résumés : [[0 - diapo prof]], [[2 - structures code]]
+## Dans le cours
+
+**C++** ([[4 - Cours complet]]) : une fonction a un type de retour, un nom, une liste de paramètres et un corps. On définit une fonction pour un traitement distinct et nommé : plus clair, réutilisable, plus facile à tester ; chaque fonction réalise une seule action logique, sans saisie ni affichage, en 10 à 15 lignes au plus, et son nom est un verbe. Une fonction `void` est une procédure.
+
+Résumés : [[0 - diapo prof]], [[2 - structures code]], [[4 - Cours complet]]

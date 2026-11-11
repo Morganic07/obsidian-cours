@@ -25,7 +25,7 @@ sources:
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[1 - basiques|Chp1 - basiques]]"
   - "[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 Types élémentaires fournis par le langage, par opposition aux types structurés ou objets. Le type fixe la place réservée en mémoire et la façon d'interpréter les bits.
@@ -40,4 +40,8 @@ Types élémentaires fournis par le langage, par opposition aux types structuré
 
 Notion parente : [[Pseudo-code]]. Voir aussi : [[Chaîne de caractères]], [[Nombre à virgule flottante]], [[Structure (struct)]], [[Typage dynamique]], [[Typage statique]], [[Transtypage]], [[Variable (programmation)]], [[Complément à deux]], [[Norme IEEE 754]].
 
-Résumés : [[0 - diapo prof]], [[1 - Intro Java]], [[1 - basiques]], [[4 - C++]]
+## Dans le cours
+
+[[4 - Cours complet]] retient cinq types usuels en C++ : `int` (entiers), `double` (virgule flottante, double précision), `string` (chaînes), `char` (caractères ou entiers sur 8 bits) et `bool` (logique). Le type fixe à la fois les valeurs permises et les opérations possibles.
+
+Résumés : [[0 - diapo prof]], [[1 - Intro Java]], [[1 - basiques]], [[4 - C++]], [[4 - Cours complet]]

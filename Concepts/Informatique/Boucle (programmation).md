@@ -39,7 +39,7 @@ sources:
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
   - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 Structure qui répète un bloc d'instructions tant qu'une condition le demande.
@@ -65,4 +65,8 @@ for (int i = 0; i < n; i++) {
 
 Notion parente : [[Pseudo-code]]. Voir aussi : [[Fonction range (Python)]], [[Structure conditionnelle]], [[Commande sleep]], [[Sauvegarde de fichier]], [[Portée d'une variable]], [[Tableau (programmation)]], [[Instruction vide]].
 
-Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[3 - TP3]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]]
+## Dans le cours
+
+**C++** ([[4 - Cours complet]]) : `while` (et `do … while`) et `for`, illustrés par la table des carrés de l'[[EDSAC]]. Dangers : variable de contrôle non initialisée, oubli de l'incrémentation (boucle infinie ; le polycopié déconseille `while(1)`). `for` regroupe initialisation, condition et incrémentation sur une ligne ; il existe toujours un `while` équivalent, et on n'utilise `while` que lorsque cette forme ne s'applique pas.
+
+Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[3 - TP3]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]], [[4 - Cours complet]]

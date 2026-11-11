@@ -18,7 +18,7 @@ sources:
   - "[[2 - TP2|Cours TP2]]"
   - "[[1 - TP1|cours TP1]]"
   - "[[Raw/Year 2/Operating System/Cours OS/Cours TP4.docx|Cours TP4]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 Dans un chemin, `/` sépare les répertoires (`cd /home/user`), `~` représente le [[Répertoire personnel]], `.` le répertoire courant (`./script.sh`) et `..` le répertoire parent (`cd ..`).
@@ -30,6 +30,10 @@ Dans un chemin, `/` sépare les répertoires (`cd /home/user`), `~` représente 
 
 Un même chemin relatif désigne donc des fichiers différents selon le répertoire d'où l'on lance le programme. Dans le TP4, le parent écrit dans `"time.txt"` (relatif) alors que le fils copie un chemin absolu : les deux ne désignent le même fichier que si le programme est lancé depuis le bon dossier. Les [[Tâche planifiée cron|tâches cron]], qui ne s'exécutent pas depuis un répertoire choisi par l'utilisateur, doivent utiliser des chemins absolus.
 
+## Dans le cours
+
+[[4 - Cours complet]] (C++) présente `.` (répertoire courant) et `..` (répertoire parent) pour se déplacer avec `cd` avant de compiler, explique le `./helloWorld` nécessaire pour lancer un programme du répertoire courant, et compare les séparateurs `\` (Windows) et `/` (Linux) : `cd C-C++\tp1` contre `cd C-C++/tp1`.
+
 Notion parente : [[Méta-caractère]]. Voir aussi : [[Commande cd]], [[Commande pwd]], [[Répertoire personnel]], [[Répertoire racine]], [[Arborescence des répertoires Linux]].
 
-Résumés : [[2 - TP2]], [[4 - TP4]], [[4 - OS]]
+Résumés : [[2 - TP2]], [[4 - TP4]], [[4 - OS]], [[4 - Cours complet]]

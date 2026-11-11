@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, year4]
 aliases: [exit status, exit code, code de sortie, statut de sortie, return code]
 sources: ["[[Raw/Year 2/Operating System/Cours OS/OS - chp7.docx|OS - chp7]]", "[[Raw/Year 2/Operating System/Cours OS/Commandes Shell + explications.docx|Commandes Shell + explications]]"]
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 **Définition (complément, hors du cours)** : le code de retour (*exit status*) est l'entier qu'un processus renvoie à son parent en se terminant, par `exit(n)` ou par le `return n` de `main`. Par convention, **0 signifie succès** et toute autre valeur (de 1 à 255, car seul l'octet de poids faible est conservé) une erreur.
@@ -25,6 +25,8 @@ maj: 2026-11-08
 
 [[7 - OS]] présente `exit()` comme la fin normale d'un processus, qui renvoie une valeur au parent par `wait()` ([[Création et terminaison de processus]]) ; le décodage par `WIFEXITED` et `WEXITSTATUS` et le lien avec `$?` sont des compléments de la fiche. [[8 - OS commandes sh]] y rattache en complément le fonctionnement de `if`, `&&` et `||`.
 
-Voir aussi : [[Appels wait() et waitpid()]], [[Création et terminaison de processus]], [[Structure conditionnelle]], [[Script Bash]], [[Processus zombie et orphelin]].
+[[4 - Cours complet]] (C++) : `main` retourne 0 au « système » qui l'a appelée ; sous Unix/Linux, 0 indique un succès (convention Unix), une autre valeur une erreur dont elle peut préciser le type.
 
-Résumés : [[7 - OS]], [[8 - OS commandes sh]]
+Voir aussi : [[Appels wait() et waitpid()]], [[Création et terminaison de processus]], [[Structure conditionnelle]], [[Script Bash]], [[Processus zombie et orphelin]], [[Fonction main (C et C++)]].
+
+Résumés : [[7 - OS]], [[8 - OS commandes sh]], [[4 - Cours complet]]

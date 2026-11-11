@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [integer overflow, dépassement de capacité, débordement d'entier]
 sources: ["[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"]
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 **Définition (complément, hors du cours)** : un dépassement d'entier (*integer overflow*) se produit quand le résultat d'un calcul sort de l'intervalle que le type entier peut représenter.
@@ -19,6 +19,8 @@ En Java, les entiers signés sont codés en [[Complément à deux|complément à
 
 Le cours ne la nomme pas. La fiche [[1 - Intro Java]] donne les intervalles des types entiers (`int` de $-2^{31}$ à $2^{31}-1$, `long` de $-2^{63}$ à $2^{63}-1$), et le dépassement apparaît dans ses compléments.
 
-Voir aussi : [[Complément à deux]], [[Type primitif]], [[Transtypage]], [[Langage Java]].
+[[4 - Cours complet]] (C++) pose la question sans la nommer : « que se passe-t-il quand n dépasse la valeur 20 ? » pour la factorielle en `unsigned int`. Réponse (complément, hors du cours) : le calcul non signé se fait modulo 2³², faux dès 13! ; la limite de 20 est celle d'un entier de 64 bits.
 
-Résumés : [[1 - Intro Java]]
+Voir aussi : [[Complément à deux]], [[Type primitif]], [[Transtypage]], [[Langage Java]], [[Type entier]].
+
+Résumés : [[1 - Intro Java]], [[4 - Cours complet]]

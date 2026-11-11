@@ -1,9 +1,9 @@
 ---
 type: concept
 tags: [year4]
-aliases: [étapes de la compilation, compilation toolchain, édition de liens, linker, éditeur de liens, préprocesseur, preprocessor, fichier objet]
-sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+aliases: [étapes de la compilation, compilation toolchain]
+sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]", "[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-11
 ---
 
 **Définition (complément, hors du cours)** : la chaîne de compilation est la suite d'étapes qui transforme un fichier source C ou C++ en exécutable. `gcc` (ou `g++` pour le C++, voir [[GCC]]) les enchaîne toutes en une seule commande, mais chacune peut être lancée seule.
@@ -31,8 +31,12 @@ Le cas de Java est différent : `javac` produit du bytecode exécuté par une ma
 
 ## Dans le cours
 
-Le cours ne nomme pas les étapes. [[1 - basiques]] donne une table de messages d'[[Erreur de compilation|erreurs de compilation]] qui viennent en fait d'étapes différentes ; [[4 - Prise de note]] compile avec `g++ monprog.cpp -o monprog -Wall`. Les étapes sont détaillées dans les compléments de ces deux fiches.
+[[1 - basiques]] donne une table de messages d'[[Erreur de compilation|erreurs de compilation]] qui viennent en fait d'étapes différentes ; [[4 - Prise de note]] compile avec `g++ monprog.cpp -o monprog -Wall`. Les étapes y sont détaillées dans les compléments.
 
-Voir aussi : [[GCC]], [[Erreur de compilation]], [[Programmation modulaire]], [[Bibliothèque partagée]], [[Compilation et bytecode]], [[Langage C]], [[Langage C++]].
+[[5 - Compilation séparée]] en nomme trois : le [[Préprocesseur|préprocesseur]], qui remplace chaque `#include` par le contenu du fichier « avant la compilation » ; la compilation de chaque `.cpp` en [[Fichier objet|fichier objet]] `.o` (`g++ -c`) ; l'[[Édition de liens|édition de liens]], qui assemble les `.o` en [[Exécutable|exécutable]].
 
-Résumés : [[1 - basiques]], [[4 - Prise de note]]
+Voir aussi : [[GCC]], [[Compilation séparée]], [[Option de compilation]], [[Make (logiciel)]], [[Erreur de compilation]], [[Programmation modulaire]], [[Bibliothèque partagée]], [[Compilation et bytecode]], [[Langage C]], [[Langage C++]].
+
+[[4 - Cours complet]] décrit la fabrication en deux commandes : `g++ -Wall -c helloWorld.cpp` (préprocesseur, compilation et assemblage vers `helloWorld.o`), puis `g++ -Wall -o helloWorld helloWorld.o` (édition des liens), avec un schéma source → compilateur → code objet → éditeur de liens → exécutable.
+
+Résumés : [[1 - basiques]], [[4 - Prise de note]], [[5 - Compilation séparée]], [[4 - Cours complet]]

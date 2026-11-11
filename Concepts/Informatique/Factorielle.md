@@ -3,6 +3,7 @@ type: concept
 tags:
   - year1
   - year2
+  - year4
 aliases:
   - factorielles
   - factorial
@@ -19,7 +20,7 @@ sources:
   - "[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"
   - "[[1 - récursivité et complexité|Chp1 - récursivité et complexité]]"
   - "[[3 - Combinatorics|Chp 3 - Combinatorics]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 $n! = n \times (n-1)!$ avec $0! = 1$.
@@ -34,4 +35,8 @@ $n! = n \times (n-1)!$ avec $0! = 1$.
 
 Voir aussi : [[Dénombrement]], [[Récursivité]], [[Récursivité terminale]], [[Création et terminaison de processus]], [[Permutation (dénombrement)]].
 
-Résumés : [[0 - Rappels-etc]], [[0 - diapo prof]], [[1 - récursivité et complexité]], [[3 - Combinatorics]]
+## Dans le cours (C++)
+
+[[4 - Cours complet]] fait écrire `unsigned int factorielle(unsigned int n)` sur le modèle d'un [[Accumulateur (programmation)|accumulateur]] initialisé à 1 (`1 * 1 * 2 * … * n`, aucun tour de boucle si n = 0), puis demande ce qui se passe quand n dépasse 20 : le résultat déborde le type ([[Dépassement d'entier]]), dès n = 13 pour un entier de 32 bits.
+
+Résumés : [[0 - Rappels-etc]], [[0 - diapo prof]], [[1 - récursivité et complexité]], [[3 - Combinatorics]], [[4 - Cours complet]]

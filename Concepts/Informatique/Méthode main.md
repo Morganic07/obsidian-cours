@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [year3]
-aliases: [public static void main, fonction main]
+aliases: [public static void main]
 sources: ["[[1 - Intro Java|Chp1 - Intro Java]]"]
 maj: 2026-11-06
 ---

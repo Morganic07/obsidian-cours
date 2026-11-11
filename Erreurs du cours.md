@@ -1,14 +1,14 @@
 ---
 type: synthese
 tags: [year1, year2, year3, year4]
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 **Passage corrigé.** Le passage marqué ✎ a été corrigé : le document d'origine (prise de note ou support) disait autre chose, et une source fiable donne la version écrite ici. La liste ci-dessous indique, page par page, ce que disait le cours et la source de la correction.
 
 ## Corrections par page
 
-304 pages corrigées, 610 corrections (nombre de marques ✎).
+309 pages corrigées, 626 corrections (nombre de marques ✎).
 
 ### Design
 
@@ -60,9 +60,13 @@ maj: 2026-11-08
 - [[2 - structures code]] : « `^` XOR logique » → OU exclusif bit à bit ; taille de tableau « obligatoirement constante », `int n; int tab[n];` interdit → tableau de taille variable permis depuis C99 si `n` a une valeur (norme C99, testé avec gcc) ; `affiche_points` sans `int i, j;` → déclaration ajoutée ^e-2-structures-code
 - [[3 - pointeurs , tableaux, listes chainées, structures]] : `int` « 8 octets en 64 bits » → 4 octets (modèles LP64 et LLP64), d'où un pas de 4 octets en arithmétique de pointeurs ; « `%d` ou `%p` » pour une adresse → `%p` ; `bufferinheap` → `buffer` partout, et `free` « vide le contenu » → libère le bloc sans l'effacer ; version par valeur, appel « `echange(&var1, &var2)` » → `echange(var1, var2)` ; adresse de `temp` « 0xabdafa0 » → 0xabdafb0 ; `;` ajouté après `int ***tptr = &dptr` (Chp3, `man 3 free`) ^e-3-pointeurs-tableaux-listes-chainees-structures
 - [[4 - C++]] : `Rayon = 0;` → `rayon = 0;` ; `std::cout << p3.x` (attribut privé) → accesseur `getX()` ; `i % 20` → `i % 21` (21 colonnes), `For`, `Cout` → `for`, `cout` (chp4 C++.pdf) ^e-4-c
+- [[4 - Cours complet]] : programmes de saisie (p. 15-16), `string nom;` avec le seul `#include <iostream>` et sans `using namespace std;` → `std::string` et `#include <string>` (cppreference, `std::basic_string`) ; « les types string et bool n'existent pas en langage C » → `bool` existe en C depuis C99 (`_Bool`, `<stdbool.h>`), mot-clé depuis C23 (ISO/IEC 9899:1999 et 9899:2024) ; « seuls les 12 premiers symboles d'un nom sont discriminants » → tous les caractères sont significatifs en C++, la norme recommande d'en accepter au moins 1 024 (ISO/IEC 14882, [lex.name] et annexe B) ; noms débutant par `__` « réservés aux constantes symboliques privées des en-têtes » → les noms contenant `__` ou commençant par `_` suivi d'une majuscule sont réservés à l'implémentation, ceux qui commencent par `_` aussi dans l'espace global ([lex.name]) ; `racineCarree` produisant 49 à partir de 7 → elle produit 7 à partir de 49 (49 à partir de 7 est le carré) ; EDSAC, 6 mai 1949, « premier programme jamais exécuté sur un ordinateur à programme stocké » → le premier est celui du Manchester Baby, 21 juin 1948 (université de Manchester, Science and Industry Museum) ; appel d'une fonction avant sa déclaration présenté comme un simple avertissement → erreur de compilation en C++ (`was not declared in this scope`), la déclaration implicite n'existait qu'en C89 ; figure « Passage par valeur » (p. 35), `carre(xx)` avec `xx = 2` « retourne 2 » → 4 ; question 56, « même question qu'à l'exercice 2 » → exercice 5 (passage par adresse) (chp4 C++ - cours super complet.pdf) ^e-4-cours-complet
 - [[4 - Prise de note]] : `int x; int y;` « affiche 30 » → `int x = 10; int y = 20;` ; `float f = 13,3;` → `13.3` (testé avec g++) ; `int x = 0;` dans le constructeur → `x = 0;` (même règle pour `Cercle` et l'exercice) ; `std::cout << p1.x` → `getX()` (chp4 prise de note.pdf) ^e-4-prise-de-note
+- [[5 - Compilation séparée]] : `main.cpp` appelle `a.affiche()` et `s.affiche()`, que ni `Point` ni `Segment` ne déclarent (`error: 'class Point' has no member named 'affiche'`) → méthode `void affiche() const;` déclarée dans les deux `.h` et définie dans les `.cpp` (compilé avec g++ 14) ; `#include "…"` « cherché d'abord dans le dossier courant » → d'abord dans le dossier du fichier qui contient le `#include` (manuel du préprocesseur de GCC, « Search Path ») (chp5 compilation séparée .pdf) ^e-5-compilation-separee
 - [[Allocation dynamique]] : `free` « vide le contenu de la mémoire » → libère le bloc sans l'effacer (`man 3 free`) ^e-allocation-dynamique
 - [[Arithmétique des pointeurs]] : `int` « 8 octets sur 64 bits » → 4 octets ^e-arithmetique-des-pointeurs
+- [[Directive include]] : `#include "…"` « cherché d'abord dans le dossier courant » → dans le dossier du fichier qui contient le `#include` (même source que 5 - Compilation séparée) ^e-directive-include
+- [[Racine carrée]] : `racineCarree` « produit 49 à partir de 7 » → 7 à partir de 49 (chp4 C++ - cours super complet.pdf, calcul) ^e-racine-carree
 - [[Fonctions printf et scanf]] : « `%d` ou `%p` » → `%p` ^e-fonctions-printf-et-scanf
 - [[Opérateur de comparaison]] : « `^` = XOR logique » → OU exclusif bit à bit ; `if (a=3)` → affectation, condition toujours vraie ; `((a==b)==1)==(b==c)` → non équivalent à `a == b && b == c` ^e-operateur-de-comparaison
 - [[Pile d'exécution]] : adresse de `temp` « 0xabdafa0 » → 0xabdafb0 ^e-pile-d-execution

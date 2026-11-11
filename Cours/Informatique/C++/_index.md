@@ -8,10 +8,12 @@ sources:
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
   - "[[4 - C++|chp4 C++]]"
   - "[[4 - Prise de note|chp4 prise de note]]"
-maj: 2026-11-08
+  - "[[4 - Cours complet|chp4 C++ - cours super complet]]"
+  - "[[5 - Compilation séparée|chp5 compilation séparée]]"
+maj: 2026-11-11
 ---
 
-Programmation bas niveau, puis objet. Les trois premières notes portent sur le langage C (`printf`, `malloc`, `struct`), même si le dossier s'appelle C++ ; le chapitre 4 passe au [[Langage C++|C++]] et à la [[Programmation orientée objet|programmation orientée objet]]. Les 5 documents sont intégrés.
+Programmation bas niveau, puis objet. Les trois premières notes portent sur le langage C (`printf`, `malloc`, `struct`), même si le dossier s'appelle C++ ; le chapitre 4 passe au [[Langage C++|C++]] et à la [[Programmation orientée objet|programmation orientée objet]], avec un polycopié de TP complet ; le chapitre 5 découpe le code en plusieurs fichiers ([[Compilation séparée|compilation séparée]], [[Make (logiciel)|Makefile]]). Les 7 documents sont intégrés.
 
 ## Parcours
 
@@ -22,6 +24,8 @@ Programmation bas niveau, puis objet. Les trois premières notes portent sur le 
 | [[3 - pointeurs , tableaux, listes chainées, structures\|Chp3 - pointeurs , tableaux, listes chainées, structures]] | Adresses, pointeurs, passage par adresse, `struct`, listes chaînées | [[3 - pointeurs , tableaux, listes chainées, structures\|Résumé]] |
 | [[4 - C++\|chp4 C++]] | Diaporama : bases du C++, `std::cout`, classes, public/privé, constructeurs, get/set, surcharge d'opérateurs, exercices `Point`, `Segment` et `Maze` | [[4 - C++\|Résumé]] |
 | [[4 - Prise de note\|chp4 prise de note]] | Notes manuscrites du chapitre 4 : compilation avec `g++`, exercices `Cercle` faits en séance et leur sortie | [[4 - Prise de note\|Résumé]] |
+| [[4 - Cours complet\|chp4 C++ - cours super complet]] | Polycopié de TP (2012) : fabrication avec `g++` (compilation, édition de liens), types, `cin`/`cout`, règles de codage, affectation et initialisation, `if`/`switch`/`while`/`for`, constantes, pointeurs et références, fonctions, programmation modulaire avec make ; 56 questions de révision et 6 exercices, avec leurs solutions | [[4 - Cours complet\|Résumé]] |
+| [[5 - Compilation séparée\|chp5 compilation séparée]] | Diaporama : fichiers `.h` et `.cpp`, `#include` et garde d'inclusion, compilation séparée en `.o`, édition de liens, Makefile (classes `Point` et `Segment`) | [[5 - Compilation séparée\|Résumé]] |
 
 ## Concepts
 
@@ -31,7 +35,9 @@ Programmation bas niveau, puis objet. Les trois premières notes portent sur le 
 - **Mémoire et pointeurs (chp2 et Chp3)** : [[Tableau (programmation)]], [[Pointeur et adresse mémoire]], [[Arithmétique des pointeurs]], [[Pointeur NULL]], [[Allocation dynamique]], [[Structure (struct)]], [[Opérateur flèche]], [[Liste chaînée]]
 - **Le C++ (chp4)** : [[Langage C++]], [[GCC]] (`g++`), [[Espace de noms (namespace)]], [[Flux d'entrée-sortie (C++)]], [[Référence (C++)]]
 - **Programmation objet (chp4)** : [[Programmation orientée objet]], [[Classe et objet]], [[Encapsulation (programmation)]], [[Constructeur (programmation)]], [[Accesseur et mutateur]], [[Surcharge d'opérateurs]], [[Fonction amie (friend)]], [[Distance]] (exercice `Maze`)
-- **Ajoutés par l'enrichissement** : [[Comportement indéfini]], [[Chaîne de compilation]], [[Fichier d'en-tête]], [[Pointeur pendant]], [[Fuite mémoire]], [[Destructeur (programmation)]], [[Héritage (programmation)]]
+- **Polycopié de TP (chp4, cours complet)** : [[Compilateur]], [[Langage compilé]], [[Code machine]], [[Langage d'assemblage]], [[Environnement de développement intégré]], [[Débogueur]], [[Commentaire (programmation)]], [[Fonction main (C et C++)]], [[Instruction (programmation)]], [[Expression (programmation)]], [[Bloc d'instructions]], [[Lvalue et rvalue]], [[Initialisation (programmation)]], [[Valeur littérale]], [[Type entier]], [[Type char]], [[Booléen]], [[Classe string (C++)]], [[Fonction getline]], [[Opérateurs arithmétiques]], [[Opérateur d'affectation composée]], [[Règle de codage]], [[Macro (préprocesseur)]], [[Déréférencement]], [[Opérateur d'adresse]], [[Argument et paramètre]], [[Appel de fonction]], [[Accumulateur (programmation)]], [[Valeur sentinelle]], [[Dépassement d'entier]], [[Portabilité (informatique)]], [[Norme du C]]
+- **Compilation séparée (chp5)** : [[Compilation séparée]], [[Programmation modulaire]], [[Fichier d'en-tête]], [[Fichier source]], [[Interface et implémentation]], [[Déclaration et définition]], [[Préprocesseur]], [[Directive include]], [[Garde d'inclusion]], [[Compilation conditionnelle]], [[Unité de compilation]], [[Fichier objet]], [[Édition de liens]], [[Symbole (édition de liens)]], [[Exécutable]], [[Option de compilation]], [[Make (logiciel)]], [[Liste d'initialisation]], [[Opérateur de résolution de portée]], [[Bibliothèque standard du C++]], [[Norme du C++]]
+- **Ajoutés par l'enrichissement** : [[Règle de la définition unique]], [[Fonction inline]], [[Méthode constante]], [[Avertissement de compilation]], [[Bibliothèque statique]], [[CMake]], [[Clang]], [[Comportement indéfini]], [[Chaîne de compilation]], [[Fichier d'en-tête]], [[Pointeur pendant]], [[Fuite mémoire]], [[Destructeur (programmation)]], [[Héritage (programmation)]]
 
 Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
@@ -41,6 +47,8 @@ Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 - [[3 - pointeurs , tableaux, listes chainées, structures]] : un `int` fait en général 4 octets, y compris sur un système 64 bits ; une adresse s'affiche avec `%p` ; dans le programme `malloc`, `free` libère le bloc sans effacer son contenu.
 - [[4 - C++]] : un attribut privé n'est pas accessible hors de la classe (passer par un accesseur).
 - [[4 - Prise de note]] : dans un constructeur, `int x = 0;` déclare une variable locale ; l'attribut s'initialise par `x = 0;` ou par la liste d'initialisation ; le séparateur décimal est le point (`13.3`).
+- [[4 - Cours complet]] : `string` demande `#include <string>` et `std::` (ou `using namespace std;`) ; appeler une fonction avant de l'avoir déclarée est une erreur en C++, pas un avertissement.
+- [[5 - Compilation séparée]] : le `main` du cours appelle une méthode `affiche()` que les classes ne déclarent pas ; un `.h` ne contient que des déclarations ; dans un Makefile, la commande commence par une tabulation.
 
 ## Liens avec les autres matières
 

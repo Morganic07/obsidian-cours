@@ -34,7 +34,7 @@ sources:
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
   - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
-maj: 2026-11-08
+maj: 2026-11-11
 ---
 
 Instruction qui exécute un bloc ou un autre selon la valeur d'une condition. Ce n'est pas une boucle.
@@ -58,4 +58,8 @@ String nom = switch (jour) {
 
 Notion parente : [[Pseudo-code]]. Voir aussi : [[Boucle (programmation)]], [[Évaluation en court-circuit]], [[Opérateur logique]], [[Arithmétique en Bash]], [[Opérateur conditionnel]], [[Instruction vide]].
 
-Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]]
+## Dans le cours
+
+**C++** ([[4 - Cours complet]]) : `if` choisit entre deux possibilités ; le programme de conversion cm/pouce passe d'un `if … else` naïf à des `if` imbriqués puis à un `switch`, plus clair pour comparer une valeur à plusieurs constantes. Règles du `switch` : valeur entière, `char` ou énumération (pas de `string`), étiquettes `case` constantes et distinctes, plusieurs `case` possibles pour une même instruction ; l'oubli d'un `break` est l'erreur la plus fréquente.
+
+Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]], [[4 - Cours complet]]

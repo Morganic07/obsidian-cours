@@ -186,7 +186,7 @@ Les fichiers d'en-tête inclus en tête de programme ne contiennent justement qu
 
 ### Structurer le code
 
-Un programme se découpe en quatre blocs : inclusion des fichiers d'en-tête, déclaration des fonctions et procédures, fonction principale ([[Méthode main|`main`]]), implémentation des fonctions et procédures.
+Un programme se découpe en quatre blocs : inclusion des fichiers d'en-tête, déclaration des fonctions et procédures, fonction principale ([[Fonction main (C et C++)|`main`]]), implémentation des fonctions et procédures.
 
 Les prototypes ne sont nécessaires que parce que les fonctions sont implémentées **après** `main` : le compilateur lit le fichier de haut en bas. Une autre organisation, aussi valide, définit chaque fonction avant son premier appel, sans prototype. Le `return 0;` final de `main` renvoie au système un **code de sortie** : `0` signifie que tout s'est bien passé, une autre valeur signale une erreur (constantes `EXIT_SUCCESS` et `EXIT_FAILURE` de `stdlib.h`) ; en shell, `echo $?` affiche ce code après l'exécution. [[Complément hors du cours|ⓘ]]
 

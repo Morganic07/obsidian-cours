@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-10 : 1 828 concepts, rangés en cinq domaines dans `Concepts/` ; 164 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-11 : 1 966 concepts, rangés en cinq domaines dans `Concepts/` ; 166 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (1858)
+## Concepts (1966)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -1550,6 +1550,117 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Référence (C++)]] : passage par `&` qui évite la copie ; `const` interdit de modifier l'objet
 - [[Surcharge d'opérateurs]] : redéfinir `-`, `+` ou `<<` pour ses propres classes
 
+**Year 4 - C++, polycopié de TP du chapitre 4 et chapitre 5 (ajoutés le 2026-11-11)**
+
+- [[Accumulateur (programmation)]] : variable de cumul initialisée à l'élément neutre
+- [[Appel de fonction]] : exécution d'une fonction avec des arguments vérifiés par le compilateur
+- [[Argument et paramètre]] : entrées d'une fonction, paramètre formel et argument effectif
+- [[Avertissement de compilation]] : message du compilateur sur un code suspect, qui n'empêche pas la compilation (`-Wall`)
+- [[Bibliothèque cmath]] : en-tête des fonctions mathématiques (`pow`, `sqrt`…)
+- [[Bibliothèque standard du C++]] : classes et fonctions de l'espace `std` garanties par la norme (`<iostream>`, `<string>`, `<cmath>`…)
+- [[Bibliothèque statique]] : bibliothèque recopiée dans l'exécutable à l'édition de liens (`.a`, `.lib`)
+- [[Bloc d'instructions]] : instructions entre accolades, qui forment aussi une portée
+- [[Bogue (informatique)]] : erreur d'exécution ou de logique, la plus difficile à corriger
+- [[Booléen]] : type `bool` (`true`/`false`), en C depuis C99
+- [[Caractère de tabulation]] : caractère TAB (`\t`), obligatoire en tête des commandes d'un Makefile
+- [[Casse chameau]] : convention camelCase des noms
+- [[Clang]] : compilateur C et C++ libre bâti sur LLVM, alternative à GCC
+- [[Classe string (C++)]] : type chaîne du C++, avec concaténation `+` et comparaisons
+- [[Classe vector (C++)]] : tableau dynamique de la bibliothèque standard
+- [[CMake]] : générateur de Makefiles et d'autres systèmes de construction à partir de `CMakeLists.txt`
+- [[Code machine]] : instructions binaires exécutées directement par le processeur
+- [[Commentaire (programmation)]] : texte ignoré par le compilateur, `//` et `/* */`
+- [[Compilateur]] : programme qui vérifie la syntaxe et traduit le code source en code objet
+- [[Compilation conditionnelle]] : `#if`, `#ifdef`, `#ifndef`, blocs gardés ou sautés par le préprocesseur
+- [[Compilation séparée]] : chaque `.cpp` compilé seul en `.o`, puis édition de liens
+- [[Compteur (programmation)]] : variable incrémentée à chaque événement
+- [[Cppreference]] : documentation de référence du C et du C++
+- [[Débogueur]] : outil d'exécution pas à pas pour trouver les bogues (GDB)
+- [[Déclaration et définition]] : le prototype annonce une fonction, la définition fournit son corps
+- [[Déclaration implicite de fonction]] : règle du C89, jamais valide en C++
+- [[Décomposition fonctionnelle]] : découper un gros traitement en petites fonctions
+- [[Déréférencement]] : `*p`, accès à la variable pointée
+- [[Directive include]] : `#include "…"` pour le projet, `#include <…>` pour la bibliothèque standard
+- [[Discours de la méthode]] : ouvrage de Descartes (1637) et ses préceptes
+- [[Eclipse (logiciel)]] : environnement de développement libre, en C++ via le module CDT
+- [[Édition de liens]] : assemblage des fichiers objets en exécutable (`ld`, `undefined reference`)
+- [[EDSAC]] : ordinateur de Cambridge, premier programme le 6 mai 1949
+- [[Emacs]] : éditeur de texte extensible du projet GNU
+- [[Émulateur de terminal]] : application console (Konsole)
+- [[Énumération (programmation)]] : `enum` et `enum class`
+- [[Environnement de développement intégré]] : logiciel qui réunit éditeur, compilation, exécution et débogueur
+- [[Espace blanc]] : espace, tabulation ou retour à la ligne ; il termine une lecture par `>>`
+- [[Exécutable]] : fichier de code machine produit par l'édition de liens, lancé par `./programme`
+- [[Expression constante]] : valeur calculée à la compilation, `constexpr`
+- [[Expression (programmation)]] : calcul d'une valeur à partir d'opérandes
+- [[Extension de nom de fichier]] : `.cpp`, `.h`, `.o`, `.exe`, `.so`…
+- [[Fichier objet]] : `.o` produit par `g++ -c`, code machine incomplet et table des symboles
+- [[Fichier source]] : `.cpp` qui définit le code des méthodes, l'implémentation
+- [[Fin de fichier]] : EOF, Ctrl-D, fin d'un flux d'entrée
+- [[Fonction getline]] : lecture d'une ligne entière, espaces compris
+- [[Fonction inline]] : fonction définissable dans un en-tête ; les méthodes écrites dans la classe le sont implicitement
+- [[Fonction main (C et C++)]] : point d'entrée du programme ; son code de retour 0 signifie succès
+- [[Garde d'inclusion]] : `#pragma once` ou `#ifndef … #endif`, contre la double inclusion d'un en-tête
+- [[Gestionnaire de fichiers]] : explorateur graphique (Dolphin)
+- [[Initialisation (programmation)]] : valeur initiale donnée à la définition, distincte de l'affectation
+- [[Instruction (programmation)]] : unité d'action du programme, terminée par `;`
+- [[Interface et implémentation]] : le `.h` dit ce que fait un module, le `.cpp` comment
+- [[Invite de commande]] : prompt du shell
+- [[KDE]] : environnement de bureau Plasma (Konsole, Dolphin, Kate)
+- [[Langage compilé]] : langage traduit en code machine avant l'exécution (C, C++)
+- [[Langage d'assemblage]] : forme mnémonique du code machine ; l'assemblage produit le code objet
+- [[Liste d'initialisation]] : `: p1(a), p2(b)`, initialise les attributs avant le corps du constructeur
+- [[Lvalue et rvalue]] : ce qui peut se trouver à gauche ou à droite d'une affectation
+- [[Macro (préprocesseur)]] : `#define`, substitution de texte sans typage
+- [[Maintenabilité]] : facilité à modifier un logiciel
+- [[Make (logiciel)]] : Makefile, règles `cible: dépendances`, ne refait que ce qui a changé
+- [[Manchester Baby]] : premier programme enregistré exécuté, le 21 juin 1948
+- [[Méthode constante]] : méthode `const` qui ne modifie pas l'objet
+- [[Microsoft Windows]] : système de Microsoft, et ses différences avec Linux
+- [[Mot-clé auto]] : déduction de type depuis C++11
+- [[Ninja (logiciel)]] : outil de construction rapide, alimenté par CMake
+- [[Nombre magique (programmation)]] : littéral non nommé dans le code, à remplacer par une constante
+- [[Norme du C]] : C89 à C23
+- [[Norme du C++]] : ISO/IEC 14882, de C++98 à C++23 ; `-std=c++17`
+- [[Notepad++]] : éditeur de texte libre pour Windows
+- [[Opérateur d'adresse]] : `&x`, adresse d'une variable
+- [[Opérateur d'affectation composée]] : `+=`, `-=`, `*=`…
+- [[Opérateur de résolution de portée]] : `::`, rattache un nom à sa classe ou à son espace de noms
+- [[Opérateurs arithmétiques]] : `+ - * / %`, division entière et modulo
+- [[Option de compilation]] : `-c`, `-o`, `-Wall`, `-std=c++17`, `-g`…
+- [[Organisation internationale de normalisation]] : ISO, organisme qui publie les normes du C et du C++
+- [[Portabilité (informatique)]] : source portable, code objet et exécutables non portables
+- [[Préprocesseur]] : traite les directives `#` avant la compilation
+- [[Principe de responsabilité unique]] : une seule action logique par fonction
+- [[Principe KISS]] : *Keep It Simple, Stupid*
+- [[Principes et pratique avec C++ (livre)]] : manuel de Stroustrup, livre de référence du polycopié
+- [[Programme Hello world]] : premier programme d'apprentissage d'un outil ou d'un langage
+- [[Programme informatique]] : entrées → traitement → sorties
+- [[Qt Creator]] : environnement de développement C++/Qt
+- [[Recherche du minimum et du maximum]] : parcours unique qui garde la plus petite et la plus grande valeur
+- [[Règle de codage]] : conventions que s'impose le programmeur pour la lisibilité
+- [[Règle de la définition unique]] : une fonction définie une seule fois dans tout le programme (ODR)
+- [[Règles de programmation de Pike]] : les cinq règles de Rob Pike (1989)
+- [[Réutilisation de code]] : repartir d'une solution existante proprement écrite
+- [[Robustesse (informatique)]] : programme qui ne plante pas face aux cas imprévus
+- [[Sensibilité à la casse]] : distinction majuscules/minuscules
+- [[Signal Unix]] : SIGINT (Ctrl-C), SIGTSTP (Ctrl-Z)
+- [[Structure de données]] : organisation des données en mémoire
+- [[Symbole (édition de liens)]] : nom d'une fonction dans un fichier objet ; décoration des noms en C++
+- [[Test unitaire]] : test automatisé d'une fonction isolée
+- [[Théorème de Böhm-Jacopini]] : séquence, sélection et itération suffisent
+- [[Traitement de texte]] : logiciel de mise en forme, impropre à écrire du code
+- [[Traitement (informatique)]] : action de produire des sorties à partir d'entrées
+- [[Type char]] : caractère individuel ou entier sur 8 bits
+- [[Type entier]] : `int`, `unsigned int`, leurs tailles et le dépassement
+- [[Unité de compilation]] : un `.cpp` et tout ce qu'il inclut, traité en une fois par le compilateur
+- [[Université de Cambridge]] : université britannique où a été construit l'EDSAC
+- [[Valeur littérale]] : valeur écrite telle quelle dans le code (10, `'a'`, `"rouge"`)
+- [[Valeur sentinelle]] : valeur qui marque la fin d'une série (−1, `" "`)
+- [[Validation des entrées]] : contrôle des saisies avant usage
+- [[Visual Studio]] : environnement de développement de Microsoft, avec le compilateur MSVC
+- [[Visual Studio Code]] : éditeur de code extensible de Microsoft
+
 **Year 4 - Culture du vivant**
 
 - [[Dimension politique du design]] : « tout design est politique », se demander à qui il profite et qui est exploité
@@ -2108,7 +2219,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (164)
+## Résumés de sources (166)
 
 ### Documents PDF et PPTX (33)
 
@@ -2126,7 +2237,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 3, Projet courts** : [[Santé au travail (Projet year 3)]]
 - **Year 3, SHS** : [[2 - imaginaires du futur]], [[3 - imaginaires automobile]], [[4 - imaginaires de l'automobile]], [[5 - usages sociaux de l'automobile]]
 - **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
-- **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre)
+- **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre), [[4 - Cours complet]] (polycopié de TP du chapitre 4 : fabrication avec g++, types, entrées-sorties, contrôle, pointeurs et références, fonctions, programmation modulaire), [[5 - Compilation séparée]] (diaporama du chapitre 5 : `.h` et `.cpp`, `#include`, compilation séparée, Makefile)
 - **Year 4, culture du soin** : [[1 - culture du soin]]
 - **Year 4, data mining** : [[1 - pdf du prof]]
 - **Year 4, management de l'innovation** : [[1 - innovation]]
@@ -2239,7 +2350,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (214 : 149 docx, 59 pdf, 6 pptx), par dossier de Drive, au 2026-11-10. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (214 : 149 docx, 59 pdf, 6 pptx), par dossier de Drive, au 2026-11-11. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2255,4 +2366,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C++ (3 docx, 2 pdf), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 1 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C++ (3 docx, 4 pdf), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 1 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

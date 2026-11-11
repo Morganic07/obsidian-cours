@@ -14,7 +14,7 @@ matieres:
 sources:
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
   - "[[2 - structures code|chp2 - structures code]]"
-maj: 2026-11-06
+maj: 2026-11-11
 ---
 
 Toute donnée en mémoire est rangée à une **adresse**, notée en hexadécimal (préfixe `0x`). Un **pointeur** est une variable destinée à contenir une adresse.
@@ -32,4 +32,8 @@ Toute donnée en mémoire est rangée à une **adresse**, notée en hexadécimal
 
 Liens : [[Structure (struct)]], [[Liste chaînée]], [[Arithmétique des pointeurs]], [[Allocation dynamique]], [[Passage par valeur]], [[Pointeur NULL]]
 
-Résumés : [[3 - pointeurs , tableaux, listes chainées, structures]], [[2 - structures code]]
+## Dans le cours
+
+[[4 - Cours complet]] (C++) reprend les pointeurs : variables qui stockent une adresse, du type de la variable pointée ; `int *ptrInt;`, `ptrInt = &i;` ([[Opérateur d'adresse]]), `*ptrInt = 3;` ([[Déréférencement]]), avec un schéma mémoire. Règle de codage : préfixe `ptr`. Ils sont délicats (erreurs d'accès mémoire) et certains langages comme Java les ont interdits. L'exercice 5 écrit `echange2ParAdresse(float *x, float *y)` (passage par adresse).
+
+Résumés : [[3 - pointeurs , tableaux, listes chainées, structures]], [[2 - structures code]], [[4 - Cours complet]]

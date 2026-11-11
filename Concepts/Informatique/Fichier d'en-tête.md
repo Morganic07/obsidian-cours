@@ -1,10 +1,10 @@
 ---
 type: concept
 tags: [year4]
-aliases: [en-tête (C++), header, header file, fichier .h, fichier .hpp, "#include", include guard, "#pragma once"]
+aliases: [en-tête (C++), header, header file, fichier .h, fichier .hpp]
 matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-11
 ---
 
 **Définition (complément, hors du cours)** : un fichier d'en-tête (*header*, extension `.h`, ou `.hpp` en C++) contient des **déclarations** (classes, prototypes de fonctions, constantes) destinées à être partagées entre plusieurs fichiers source.
@@ -50,8 +50,11 @@ On compile ensuite tous les fichiers source ensemble : `g++ main.cpp point.cpp -
 
 ## Dans le cours
 
-Le cours ne le nomme pas : [[4 - C++]] utilise `#include <iostream>` et définit les méthodes hors de la classe avec `Point::`, sans séparer le code en plusieurs fichiers. La notion apparaît dans les compléments de [[4 - C++]].
+- [[4 - C++]] utilise `#include <iostream>` et définit les méthodes hors de la classe avec `Point::`, sans séparer le code en plusieurs fichiers. La notion apparaît dans ses compléments.
+- [[5 - Compilation séparée]] la définit : le fichier d'en-tête `.h` « déclare ce qui existe (classes, attributs, prototypes des méthodes). C'est l'interface, ce que les autres fichiers ont besoin de connaître » ; le [[Fichier source|fichier source]] `.cpp` en définit le code. Exemple : `Point.h` et `Segment.h`, protégés par une [[Garde d'inclusion|garde d'inclusion]], inclus par la [[Directive include|directive `#include`]].
 
-Voir aussi : [[Classe et objet]], [[Programmation modulaire]], [[Langage C++]], [[Erreur de compilation]].
+Voir aussi : [[Classe et objet]], [[Programmation modulaire]], [[Compilation séparée]], [[Déclaration et définition]], [[Interface et implémentation]], [[Préprocesseur]], [[Langage C++]], [[Erreur de compilation]].
 
-Résumés : [[4 - C++]]
+- [[4 - Cours complet]] le présente comme le fichier inclus par `#include`, d'extension `.h`, qui contient les déclarations donnant accès au code d'une bibliothèque ; il note que le débutant confond bibliothèque et fichier d'en-tête, et que les en-têtes standard du C++ n'ont pas d'extension. Son exercice 4 déclare `somme1aN()` dans `somme.h`.
+
+Résumés : [[4 - C++]], [[5 - Compilation séparée]], [[4 - Cours complet]]
