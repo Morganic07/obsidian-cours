@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [accesseur, mutateur, getter, setter, get et set, getteur, setteur]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[4 - C++]]) : une donnée privée n'étant pas accessible directement (voir [[Encapsulation (programmation)]]), on définit des méthodes publiques dédiées : l'**accesseur** (*get*) pour la lire, et le **mutateur** (*set*) pour la modifier.
@@ -27,5 +27,11 @@ public:
 - La prise de note les appelle « getteur » et « setteur », et les applique à `Cercle` (`getX()`, `setX(int w)`).
 
 Notion parente : [[Classe et objet]]. Voir aussi : [[Programmation orientée objet]].
+
+## Dans le cours
+
+- [[formation C++]] : `setVolume` / `getVolume` de `Television` (programmes 4 et 8), `setNom`, `getNom`, `setAge`, `getAge` de `Personne` (programme 9) ; dans le programme 4, `getVolume` et `getCanal` étaient déclarés `void`, alors qu'un accesseur renvoie la valeur (corrigé en `int`).
+- [[exo-prof]] : `getX`, `getY` et le mutateur `set` de `Point`, `getA`, `getB` et `getLongueur` de `Segment` ; `getLongueur` recalcule et modifie l'attribut `longueur` ([[Effet de bord|effet de bord]]), et seul `classeSegment.cpp` déclare ses accesseurs [[Méthode constante|`const`]].
+- [[compilation séparée (C++)]] : les mêmes accesseurs et le mutateur, déclarés dans `Point.h` et `Segment.h`.
 
 Résumés : [[4 - C++]], [[4 - Prise de note]]

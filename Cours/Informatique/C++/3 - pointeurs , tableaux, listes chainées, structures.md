@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+sources: ["[[Raw/Year 4/C／C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]].
+Résumé de [[Raw/Year 4/C／C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]].
 ## Idée générale
 
 Comment la mémoire se représente (adresses, tableaux contigus), comment les pointeurs la manipulent, puis ce qu'on en tire : passage par adresse, tableaux en paramètre, `struct`, listes chaînées, doubles pointeurs.

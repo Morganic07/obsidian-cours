@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [year3, year4]
-aliases: [déclaration de variable, nom de variable, identificateur]
+aliases: [déclaration de variable, nom de variable]
 matieres: [Java]
 sources: ["[[1 - Intro Java|Chp1 - Intro Java]]"]
 maj: 2026-11-11

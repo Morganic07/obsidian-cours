@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: ["#include", include, inclusion de fichier, include directive]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
-maj: 2026-11-11
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[5 - Compilation séparée]]) : le [[Préprocesseur|préprocesseur]] remplace chaque `#include` par le contenu du fichier désigné, avant la compilation. Deux formes :
@@ -27,5 +27,11 @@ Voir aussi : [[Compilation séparée]], [[Langage C++]].
 ## Dans [[4 - Cours complet]]
 
 `#include <iostream>` rend accessibles les fonctionnalités du fichier `iostream`, fourni avec le compilateur ; l'exercice 4 inclut `somme.h` dans le fichier de `main()`.
+
+## Dans le cours
+
+- [[tp2]] : `#include <stdio.h>`, traité par le préprocesseur, ouvre le premier programme (« Hello world ») pour déclarer `printf`.
+- [[formation C++]] : `#include <iostream>` donne accès à `std::cout` ; `std::string` demande en principe `#include <string>`, que la norme ne garantit pas via `<iostream>`.
+- [[compilation séparée (C++)]] : `#include "Point.h"` entre guillemets pour un en-tête du projet, `#include <iostream>` entre chevrons pour la bibliothèque standard ; `Segment.h` inclut lui-même `Point.h`.
 
 Résumés : [[5 - Compilation séparée]], [[4 - Cours complet]]

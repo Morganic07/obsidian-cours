@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [camelCase, camel case, lowerCamelCase, PascalCase, notation chameau]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
 maj: 2026-11-11
 ---
 

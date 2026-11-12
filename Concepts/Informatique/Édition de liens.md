@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [linker, éditeur de liens, linking, link, ld, undefined reference]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
-maj: 2026-11-11
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[5 - Compilation séparée]]) : l'édition de liens assemble les [[Fichier objet|fichiers objets]] `.o` en un [[Exécutable|exécutable]] : `g++ Point.o Segment.o main.o -o programme`.
@@ -22,5 +22,11 @@ Voir aussi : [[Compilation séparée]], [[GCC]].
 ## Dans [[4 - Cours complet]]
 
 L'éditeur de liens (*linker*, `ld`, appelé par gcc/g++) lie les parties distinctes (le code écrit et la bibliothèque standard) en un exécutable, en résolvant les références aux symboles. Les erreurs de liaison sont plus difficiles à corriger que les erreurs de compilation, plus faciles que les erreurs d'exécution.
+
+## Dans le cours
+
+- [[tp6]] : la fonction `pow` de `math.h` demande, sous Linux, l'option `-lm` à l'édition de liens.
+- [[formation C++]] : au programme 4, les méthodes de `Television` sont seulement déclarées ; le programme compile parce qu'il ne les appelle pas, un appel provoquerait l'erreur d'édition de liens `undefined reference`.
+- [[compilation séparée (C++)]] : `g++ main.o Point.o Segment.o -o programmeEntier`, première règle du Makefile, assemble les trois fichiers objets en exécutable.
 
 Résumés : [[5 - Compilation séparée]], [[4 - Cours complet]]

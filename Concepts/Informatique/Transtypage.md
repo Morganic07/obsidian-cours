@@ -2,7 +2,7 @@
 type: concept
 tags: [year3]
 aliases: [transtypage, transtypage implicite, transtypage explicite, type casting, conversion de type]
-matieres: [Java, C++]
+matieres: [Java, C／C++]
 sources: ["[[1 - Intro Java|Chp1 - Intro Java]]"]
 maj: 2026-11-08
 ---

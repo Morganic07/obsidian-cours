@@ -1,10 +1,10 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, year4]
 aliases: [invariant, loop invariant, variant de boucle, loop variant]
 matieres: [Algo Maths]
 sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : un invariant de boucle est une propriété portant sur les variables d'une boucle, vraie avant la première itération et conservée par chaque itération. Combiné à la condition de sortie, il établit le résultat de la boucle : c'est l'outil de preuve de la **correction partielle** (si la boucle s'arrête, le résultat est juste).
@@ -24,6 +24,8 @@ La [[Terminaison d'un algorithme|terminaison]] se prouve à part, par un **varia
 ## Dans le cours
 
 Le cours ne la nomme pas. Elle apparaît dans les compléments de [[0 - diapo prof]], à propos de la correction des algorithmes et de la procédure `divisionEntiere`.
+
+- [[tp4]] : dans le calcul de $x^n$ par multiplications successives (programme 4.5), l'accumulateur `result` vaut $x^i$ après le tour `i` ; cet invariant prouve par récurrence que la boucle renvoie $x^n$.
 
 Voir aussi : [[Correction d'un algorithme]], [[Terminaison d'un algorithme]], [[Récurrence]], [[Boucle (programmation)]], [[Somme des premiers entiers]].
 

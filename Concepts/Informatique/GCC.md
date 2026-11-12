@@ -2,8 +2,8 @@
 type: concept
 tags: [year2, year4]
 aliases: [compilateur GCC, GCC compiler, g++]
-matieres: [Operating System, C++]
-sources: ["[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+matieres: [Operating System, C／C++]
+sources: ["[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
 maj: 2026-11-11
 ---
 

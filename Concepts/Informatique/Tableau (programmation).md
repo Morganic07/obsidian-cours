@@ -19,17 +19,17 @@ aliases:
 matieres:
   - Operating System
   - Java
-  - C++
+  - C／C++
 sources:
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
   - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
-  - "[[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]]"
+  - "[[Raw/Year 4/C／C++/chp2 - structures code .docx|chp2 - structures code]]"
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-  - "[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"
-maj: 2026-11-08
+  - "[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : un tableau (array) stocke plusieurs éléments sous un seul nom, chacun accessible par son indice. Dans les langages compilés comme le C ou Java, les éléments sont de même type et rangés dans des cases contiguës, ce qui rend l'accès à une case quelconque immédiat, en temps constant.
@@ -54,5 +54,14 @@ Complément, hors du cours :
 **Grille 2D dans un tableau 1D** (C++, exercice `Maze` de [[4 - C++]]) : un labyrinthe de 21 colonnes sur 12 lignes est rangé dans `int tableau[21*12];`. Pour l'afficher en grille, on passe à la ligne quand l'indice est un multiple du nombre de colonnes, avec `if (i % 21 == 0)`. [[Erreurs du cours#^e-tableau-programmation|✎]] Complément, hors du cours : la case de ligne `l` et de colonne `c` est à l'indice `l * 21 + c`.
 
 Notion parente : [[Variable Bash]]. Voir aussi : [[Commande read]], [[Boucle (programmation)]], [[Méthode main]], [[Arithmétique des pointeurs]], [[Pointeur et adresse mémoire]], [[Passage par valeur]], [[Langage Java]], [[Langage C]].
+
+## Dans le cours
+
+- [[tp3]] : le minimum de trois nombres se généralise à un tableau parcouru par une boucle ; les messages du `switch` sur la magnitude (3.11) pourraient être rangés dans un tableau de chaînes.
+- [[tp4]] : l'idiome `for (i = 0; i < N; i++)` part de 0 comme les indices d'un tableau ; `<=` au lieu de `<` est l'[[Erreur de décalage d'une unité|erreur de décalage d'une unité]].
+- [[tp5]] : le [[Crible d'Ératosthène|crible d'Ératosthène]], alternative au programme 5.6, repose sur un tableau de $N+1$ cases.
+- [[tp7]] : remplissage par `scanf`, recherche du minimum et du maximum, passage à une fonction avec la taille en paramètre, modification en place (7.4) ; `int tab[10];` ne l'initialise pas.
+- [[tableaux]] : les deux écritures du § 7 de [[3 - pointeurs , tableaux, listes chainées, structures]], `t[i]` et `*(t+i)` ([[Décroissance d'un tableau en pointeur]]).
+- [[td listes chaînées]] : comparaison avec la [[Liste chaînée|liste chaînée]], dont le comptage coûte $O(n)$ alors qu'un tableau connaît sa taille.
 
 Résumés : [[8 - OS commandes sh]], [[1 - Intro Java]], [[2 - structures code]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[4 - C++]]

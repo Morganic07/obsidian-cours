@@ -1,12 +1,12 @@
 ---
 type: concept
 tags: [year4]
-aliases: [signal POSIX, SIGINT, SIGTSTP, Ctrl-C, Ctrl-Z]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
-maj: 2026-11-11
+aliases: [SIGINT, SIGTSTP, Ctrl-C, Ctrl-Z]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+maj: 2026-11-12
 ---
 
-**Définition (complément, hors du cours)** : notification asynchrone envoyée par le noyau ou un autre processus à un [[Processus|processus]], qui interrompt son déroulement normal. Chaque signal a une action par défaut (terminer, suspendre, ignorer) qu'un programme peut parfois remplacer par un gestionnaire. Au terminal, **Ctrl-C** envoie `SIGINT` (interruption, termine le programme) et **Ctrl-Z** `SIGTSTP` (suspension : le programme reste en mémoire, `fg` le relance). `SIGKILL` (9) et `SIGTERM` (15) s'envoient avec [[Commande kill|`kill`]].
+**Définition (complément, hors du cours)** : notification asynchrone envoyée par le noyau ou un autre processus à un [[Processus|processus]], qui interrompt son déroulement normal. Chaque signal a une action par défaut (terminer, suspendre, ignorer) qu'un programme peut parfois remplacer par un gestionnaire. Au terminal, **Ctrl-C** envoie `SIGINT` (interruption, termine le programme) et **Ctrl-Z** `SIGTSTP` (suspension : le programme reste en mémoire, `fg` le relance). `SIGKILL` (9) et `SIGTERM` (15) s'envoient avec [[Commande kill|`kill`]]. La norme du C n'en définit que six (`SIGABRT`, `SIGFPE`, `SIGILL`, `SIGINT`, `SIGSEGV`, `SIGTERM`) ; les autres, dont `SIGKILL` et `SIGTSTP`, sont définis par la norme [[POSIX]].
 
 ## Dans le cours
 

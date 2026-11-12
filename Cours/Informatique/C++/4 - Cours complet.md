@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
 maj: 2026-11-11
 complet: true
 enrichi: 2026-11-11
 ---
 
-Résumé de [[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]] (polycopié de TP de 40 pages, « TP Développement C++ », version 1.0 de 2012, en trois parties avec questions de révision, six exercices et un bilan par partie), dans [[Cours/Informatique/C++/_index|C++]]. Il double le diaporama du même chapitre, [[4 - C++]], sur les bases du [[Langage C++|C++]] : fabrication d'un [[Programme informatique|programme]], [[Variable (programmation)|variables]] et [[Type primitif|types]], [[Flux d'entrée-sortie (C++)|entrées-sorties]], [[Structure conditionnelle|conditions]] et [[Boucle (programmation)|boucles]], [[Fonction et procédure|fonctions]] et [[Programmation modulaire|programmation modulaire]]. La [[Programmation orientée objet|programmation objet]] (classes, constructeurs, surcharge) n'y figure pas : voir [[4 - C++]].
+Résumé de [[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]] (polycopié de TP de 40 pages, « TP Développement C++ », version 1.0 de 2012, en trois parties avec questions de révision, six exercices et un bilan par partie), dans [[Cours/Informatique/C++/_index|C++]]. Il double le diaporama du même chapitre, [[4 - C++]], sur les bases du [[Langage C++|C++]] : fabrication d'un [[Programme informatique|programme]], [[Variable (programmation)|variables]] et [[Type primitif|types]], [[Flux d'entrée-sortie (C++)|entrées-sorties]], [[Structure conditionnelle|conditions]] et [[Boucle (programmation)|boucles]], [[Fonction et procédure|fonctions]] et [[Programmation modulaire|programmation modulaire]]. La [[Programmation orientée objet|programmation objet]] (classes, constructeurs, surcharge) n'y figure pas : voir [[4 - C++]].
 
 Le polycopié s'appuie sur le livre de référence de Bjarne Stroustrup, créateur du C++ ([[Principes et pratique avec C++ (livre)]]), dont il reprend beaucoup de conseils et d'exemples. Il rappelle que les TP servent à **pratiquer** : comprendre en lisant ne suffit pas, la répétition est nécessaire, comme en sport ou en musique.
 

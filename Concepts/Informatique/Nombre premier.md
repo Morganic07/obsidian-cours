@@ -3,13 +3,12 @@ type: concept
 tags:
   - year1
   - year2
+  - year4
 aliases:
   - nombres premiers
   - prime number
   - prime numbers
   - test de primalité
-  - crible d'Ératosthène
-  - sieve of Eratosthenes
   - théorème fondamental de l'arithmétique
   - décomposition en facteurs premiers
   - prime factorization
@@ -18,7 +17,7 @@ sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[Raw/Year 2/Operating System/DM/DMs/DM Shell Scripting.docx|DM Shell Scripting]]"
   - "[[Raw/Year 2/Operating System/DM/DMs/Copy of 08 Processes-TP.docx|Copy of 08 Processes-TP]]"
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : un entier naturel $p \ge 2$ est **premier** s'il a exactement deux diviseurs positifs, $1$ et $p$. Un entier $n \ge 2$ non premier est dit **composé**. $1$ n'est pas premier (il n'a qu'un diviseur positif) ; $2$ est le seul nombre premier pair. Premiers nombres premiers : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29…
@@ -29,10 +28,12 @@ maj: 2026-11-08
 
 **Operating System** : propriété citée au DM, tout nombre non premier $n > 2$ admet un diviseur premier $p \le \sqrt{n}$ ; donc si $n$ n'a aucun diviseur entre 2 et $\sqrt{n}$, il est premier. D'où le test `for ((i=2; i*i<=n; i++))` pour afficher les 500 premiers nombres premiers, et le test `i*i <= num` du lab 7. En Python, la même boucle s'écrit `for i in range(2, int(n**0.5) + 1)` : la borne de fin de `range` étant exclue, le `+ 1` est nécessaire pour tester $\sqrt{n}$ lui-même (sans lui, 4 et 9 seraient jugés premiers). [[Erreurs du cours#^e-nombre-premier|✎]]
 
+- [[tp5]] : en C, test de primalité par divisions successives avec une boucle `while` (programme 5.4), puis liste des nombres premiers jusqu'à 100 par deux boucles imbriquées (5.6, qui affichait 1 à tort).
+
 ## Compléments (hors du cours)
 
 - **Lien avec les billes et $\sqrt{X}$** : si $X = a \times b$ avec $a \le b$, alors $a^2 \le a b = X$, donc le côté le plus court du rectangle vaut au plus $\sqrt{X}$. Il suffit donc de chercher un diviseur entre 2 et $\sqrt{X}$ : c'est la justification du test `i*i <= n` ci-dessus.
-- **Crible d'Ératosthène** (IIIe siècle av. J.-C.) : pour lister tous les nombres premiers jusqu'à $n$, écrire les entiers de 2 à $n$ ; prendre le plus petit non barré (il est premier) et barrer tous ses multiples à partir de son carré ; recommencer jusqu'à dépasser $\sqrt{n}$. Les nombres restants sont premiers. Complexité $O(n \log \log n)$.
+- **[[Crible d'Ératosthène]]** (IIIe siècle av. J.-C.) : pour lister tous les nombres premiers jusqu'à $n$, écrire les entiers de 2 à $n$ ; prendre le plus petit non barré (il est premier) et barrer tous ses multiples à partir de son carré ; recommencer jusqu'à dépasser $\sqrt{n}$. Les nombres restants sont premiers. Complexité $O(n \log \log n)$.
 
   ```python
   def crible(n):

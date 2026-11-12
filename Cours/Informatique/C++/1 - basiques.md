@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]"]
+sources: ["[[Raw/Year 4/C／C++/Chp1 - basiques.docx|Chp1 - basiques]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]], dans [[Cours/Informatique/C++/_index|C++]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++.
+Résumé de [[Raw/Year 4/C／C++/Chp1 - basiques.docx|Chp1 - basiques]], dans [[Cours/Informatique/C++/_index|C++]]. Le contenu est du [[Langage C|langage C]] (mots réservés du C, `printf`, `scanf`, `malloc`), pas du C++.
 ## Idée générale
 
 Syntaxe de base du C, types, mémoire (pile), erreurs de compilation, puis une série de « questions pièges » sur des pièges classiques du langage.

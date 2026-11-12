@@ -2,7 +2,7 @@
 type: concept
 tags: [year1, year4]
 aliases: [présentation modulaire, approche modulaire, modularité, décomposition en sous-problèmes]
-matieres: [Algo Maths, C++]
+matieres: [Algo Maths, C／C++]
 sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"]
 maj: 2026-11-11
 ---

@@ -2,7 +2,7 @@
 type: concept
 tags: [year2, year4]
 aliases: [POO, programmation objet, object-oriented programming, OOP]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"]
 maj: 2026-11-08
 ---
 

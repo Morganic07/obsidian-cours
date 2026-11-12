@@ -225,6 +225,24 @@ class TestCas(Base):
         self.assertIn("Présentation : pas de conversion", self.lot("01 - slides"))
         self.assertIn("échec de conversion", (self.travail / maj.LOT / maj.BILAN).read_text(encoding="utf-8"))
 
+    def test_code_source_recopie_en_bloc_de_code(self):
+        prog = self.drive / "Year 2/Algebre/prog"
+        prog.mkdir()
+        (prog / "ex.c").write_text('// pointeur : adresse\nchar *s = "```";\n', encoding="utf-8")
+        (prog / "Makefile").write_text("all:\n\tgcc ex.c\n", encoding="utf-8")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        texte = self.lot("02 - ex")
+        self.assertIn('````c\n// pointeur : adresse\nchar *s = "```";\n````', texte)
+        self.assertIn("```makefile\nall:\n\tgcc ex.c\n```", self.lot("01 - Makefile"))
+        self.assertNotIn("Échec de conversion", texte)
+
+        self.assertEqual(self.lancer("--clore"), 0)
+        (prog / "ex.c").write_text("// pointeur : adresse mémoire\n", encoding="utf-8")
+        self.assertEqual(self.lancer(), 0, self.erreurs)
+        texte = self.lot("01 - ex")
+        self.assertIn("- État : modifié", texte)
+        self.assertIn("+// pointeur : adresse mémoire", texte)
+
     def test_image_remplacee_signalee_meme_sans_changement_de_texte(self):
         self.fabrique.mkdir(exist_ok=True)
         autre = self.racine / "autre"

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [tabulation (caractère), tab, caractère TAB, "\\t"]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 ---
 

@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [one definition rule, ODR, multiple definition]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 ---
 

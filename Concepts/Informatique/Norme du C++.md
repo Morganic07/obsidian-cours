@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [C++98, C++03, C++11, C++14, C++17, C++20, C++23, ISO/IEC 14882, standard C++, norme ISO du C++]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 ---
 

@@ -9,7 +9,7 @@ aliases:
 sources:
   - "[[2 - structures code|chp2 - structures code]]"
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-  - "[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"
+  - "[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"
 maj: 2026-11-11
 ---
 

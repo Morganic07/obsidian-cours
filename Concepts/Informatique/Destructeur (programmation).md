@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [destructeur, destructor, règle de trois, rule of three]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : le destructeur est la méthode spéciale **appelée automatiquement quand un objet cesse d'exister** : à la fin du bloc où un objet local est déclaré, ou au `delete` d'un objet alloué par `new`. Il porte le nom de la classe précédé de `~` (`~Point()`), n'a **ni paramètre ni type de retour**, et une classe n'en a **qu'un**.
@@ -30,6 +30,10 @@ void f() {
 ## Dans le cours
 
 Le cours ne le nomme pas : [[4 - C++]] présente les trois constructeurs de `Point` sans parler de destruction. La notion apparaît dans les compléments de [[4 - C++]].
+
+- [[td listes chaînées]] : en C++, `std::forward_list` et `std::list` libèrent leurs nœuds dans leur destructeur, ce qui évite la boucle de libération écrite à la main en C.
+- [[formation C++]] : à propos du constructeur de copie implicite (programme 7), une classe qui gère de la mémoire allouée par `new` verrait la copie membre à membre partager le même bloc, que le second destructeur libérerait une deuxième fois.
+- [[exo-prof]] : l'avertissement `-Wdeprecated-copy` (constructeur par copie de `Point` écrit à la main, opérateur d'affectation laissé au compilateur) illustre la règle de trois ; le remède le plus simple est la [[Règle de zéro|règle de zéro]], ne pas écrire ce constructeur.
 
 Voir aussi : [[Constructeur (programmation)]], [[Allocation dynamique]], [[Classe et objet]], [[Surcharge d'opérateurs]], [[Programmation orientée objet]].
 

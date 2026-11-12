@@ -2,9 +2,9 @@
 type: concept
 tags: [year4]
 aliases: [encapsulation, données privées, données publiques, public et private, modificateur d'accès, access modifier]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[4 - C++]]) : dans une classe, chaque donnée est soit **publique**, soit **privée** :
@@ -30,6 +30,12 @@ c.solde = 1000;          // Erreur : solde est privé !
 Pour lire ou modifier une donnée privée, on passe par des méthodes publiques, l'[[Accesseur et mutateur|accesseur et le mutateur]] (get / set), qui peuvent vérifier la validité de la valeur. Une fonction extérieure à la classe peut recevoir le droit d'accéder aux membres privés si la classe la déclare [[Fonction amie (friend)|amie]].
 
 Le cours lui-même laisse passer un accès interdit : voir l'erreur `std::cout << p3.x;` signalée dans [[4 - C++]].
+
+## Dans le cours
+
+- [[formation C++]] : le programme 4 explique `private`, `public` et `protected` sur la classe `Television` ; au programme 8, `allumer` modifie un attribut privé que l'extérieur ne touche que par les méthodes publiques.
+- [[exo-prof]] : les attributs `x` et `y` de `Point` sont privés, lus par `getX()` et `getY()` et modifiés par `set()`.
+- [[compilation séparée (C++)]] : la classe `Point` de `Point.h` garde ses deux coordonnées entières privées.
 
 Notion parente : [[Programmation orientée objet]]. À ne pas confondre avec [[Encapsulation 802.1Q]] (réseaux). Voir aussi : [[Classe et objet]].
 

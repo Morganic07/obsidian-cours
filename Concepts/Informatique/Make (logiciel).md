@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [make, Makefile, GNU make, makefile, cible factice, .PHONY, variables automatiques de make]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
-maj: 2026-11-11
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[5 - Compilation séparée]]) : make automatise la [[Compilation séparée|compilation séparée]] à partir d'un fichier `Makefile`, fait de **règles** :
@@ -31,5 +31,9 @@ Voir aussi : [[Chaîne de compilation]], [[GCC]], [[Option de compilation]].
 ## Dans [[4 - Cours complet]]
 
 Un Makefile à trois règles (`main`, `main.o`, `somme.o`) avec leurs dépendances, la tabulation obligatoire devant les commandes, et la question 53 sur l'intérêt de `make` en programmation modulaire.
+
+## Dans le cours
+
+- [[compilation séparée (C++)]] : Makefile commenté qui fabrique `programmeEntier` à partir de `main.o`, `Point.o` et `Segment.o` (variables `CXX` et `OBJETS`, variable automatique `$@`, règle `clean`, chaque `.o` dépendant de son `.cpp` et des en-têtes qu'il inclut) ; la [[Compilation incrémentale|compilation incrémentale]] y est vérifiée avec `touch`.
 
 Résumés : [[5 - Compilation séparée]], [[4 - Cours complet]]

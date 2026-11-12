@@ -24,7 +24,7 @@ sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[1 - basiques|Chp1 - basiques]]"
-  - "[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"
+  - "[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"
 maj: 2026-11-11
 ---
 

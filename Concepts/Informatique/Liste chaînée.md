@@ -20,11 +20,11 @@ aliases:
   - liste circulaire
 matieres:
   - Algo
-  - C++
+  - C／C++
 sources:
   - "[[2 - piles listes file|chp2 - piles listes file]]"
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 En algo, une **liste** regroupe des éléments de même nature, chacun avec un rang, qu'on peut ajouter ou supprimer n'importe où.
@@ -76,6 +76,10 @@ while (courant != NULL) {
 }
 *premier_ptr = NULL;
 ```
+
+## Dans le cours
+
+- [[td listes chaînées]] : TD complet en C sur une liste de `struct Chainon` : création, ajout en tête, comptage des éléments, suppression d'une valeur, recherche d'un élément et libération de toute la liste (fuites de deux exercices corrigées).
 
 Liens : [[Pile et file]], [[Pointeur et adresse mémoire]], [[Structure (struct)]], [[Complexité algorithmique]], [[Récursivité]]
 

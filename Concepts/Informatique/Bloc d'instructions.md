@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [bloc, instruction composée, compound statement, block]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
 maj: 2026-11-11
 ---
 

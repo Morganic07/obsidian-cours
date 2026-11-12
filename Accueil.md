@@ -4,7 +4,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 État au 2026-11-11 : 1 966 concepts, rangés en cinq domaines dans `Concepts/` ; 166 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (1966)
+## Concepts (2018)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -190,6 +190,66 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Test de Welch]] : Test t à deux échantillons indépendants sans égalité des variances ; degrés de liberté de Welch-Satterthwaite ; test par défaut de t.test en R.
 - [[Théorème de Gauss-Markov]] : Sous des erreurs centrées, homoscédastiques et non corrélées, les moindres carrés sont le meilleur estimateur linéaire sans biais (BLUE), sans exiger la normalité.
 - [[V de Cramér]] : Intensité du lien entre deux variables catégorielles, tirée du χ² et indépendante de N (φ sur un 2×2).
+
+### Ajoutés le 2026-11-12, avec les programmes C et C++
+
+**Informatique**
+- [[AddressSanitizer]] : outil de GCC et Clang (`-fsanitize=address`) qui détecte à l'exécution débordements, accès après `free` et fuites mémoire
+- [[Alias de type (typedef)]] : `typedef` donne un autre nom à un type existant, souvent `typedef struct … Chainon;`
+- [[Art ASCII]] : images composées de caractères imprimables, comme les motifs d'étoiles des boucles imbriquées
+- [[Bibliothèque standard du C]] : fonctions, types et macros imposés par la norme du C (`stdio.h`, `stdlib.h`, `math.h`…)
+- [[Boucle imbriquée]] : boucle placée dans le corps d'une autre ; coût multiplié, motifs en lignes et colonnes
+- [[Classe list (C++)]] : `std::list` et `std::forward_list`, listes chaînées toutes faites de la bibliothèque standard
+- [[Comparaison de nombres flottants]] : pourquoi `==` sur des `float` échoue (0,1 inexact en binaire) et comment comparer avec une tolérance
+- [[Compilation incrémentale]] : ne recompiler que ce qui dépend d'une modification, ce que fait `make` avec les dates des fichiers
+- [[Composition (programmation)]] : relation « a un » : un objet contient d'autres objets comme attributs (`Segment` et ses deux `Point`)
+- [[Copie superficielle et copie profonde]] : copier les pointeurs ou dupliquer les données pointées ; enjeu du constructeur de copie
+- [[Crible d'Ératosthène]] : algorithme qui trouve tous les nombres premiers jusqu'à n en barrant les multiples
+- [[Décroissance d'un tableau en pointeur]] : un tableau passé à une fonction devient l'adresse de sa première case ; `sizeof` n'y donne plus sa taille
+- [[Dépassement de tampon]] : écriture ou lecture hors des limites d'un tableau ; comportement indéfini et faille de sécurité
+- [[Double pointeur]] : adresse d'un pointeur (`Chainon **`), pour qu'une fonction modifie le pointeur de tête d'une liste
+- [[Drapeau (programmation)]] : variable booléenne qui mémorise qu'un événement s'est produit (diviseur trouvé, saisie valide)
+- [[Erreur de décalage d'une unité]] : boucle qui va une fois de trop ou de moins (`<=` au lieu de `<`)
+- [[Identificateur (programmation)]] : nom donné à une variable, une fonction ou un type ; règles de formation et noms réservés
+- [[Instruction return]] : termine une fonction et renvoie sa valeur à l'appelant ; obligatoire sur tous les chemins d'une fonction non `void`
+- [[Instructions break et continue]] : sortir d'une boucle ou d'un `switch`, ou passer au tour suivant
+- [[Invariant de classe]] : propriété des attributs toujours vraie hors des méthodes, garantie par l'encapsulation
+- [[Masquage de nom]] : un nom local cache un nom de même identificateur d'une portée englobante
+- [[Norme ISO 8601]] : format international des dates et heures, `AAAA-MM-JJ`
+- [[Opérateur bit à bit]] : `&`, `|`, `^`, `~`, `<<`, `>>` agissent bit par bit ; `^` est un OU exclusif, pas une puissance
+- [[Opérateur d'affectation par copie]] : `operator=`, appelé par `a = b;` entre objets existants, à distinguer du constructeur de copie
+- [[Opérateur sizeof]] : taille en octets d'un type ou d'une expression, calculée à la compilation
+- [[Opérateur unaire et opérateur binaire]] : un ou deux opérandes ; conséquence pour la surcharge en méthode ou en fonction
+- [[Opérateur virgule]] : `a, b` évalue `a`, jette sa valeur et renvoie `b` ; d'où `return x, y;` qui ne renvoie que `y`
+- [[Paire et tuple (C++)]] : `std::pair` et `std::tuple` pour renvoyer plusieurs valeurs à la fois
+- [[Pavé numérique]] : bloc de touches disposé comme une calculatrice, modèle d'un exercice d'affichage
+- [[Pointeur this]] : pointeur vers l'objet sur lequel une méthode C++ est appelée
+- [[POSIX]] : normes IEEE 1003 de l'interface des systèmes de type Unix (appels système, shell, signaux)
+- [[Règle de zéro]] : une classe qui ne gère pas de ressource ne déclare ni copie, ni affectation, ni destructeur
+- [[Surcharge de fonctions]] : plusieurs fonctions de même nom en C++, distinguées par leurs paramètres
+- [[Table de sauts]] : tableau d'adresses de code, par lequel un compilateur peut traduire un `switch`
+- [[Valgrind]] : outil libre d'analyse dynamique ; Memcheck détecte fuites et accès mémoire invalides
+
+**Mathématiques**
+- [[Aire (géométrie)]] : mesure de l'étendue d'une surface ; formules du rectangle, du triangle, du disque
+- [[Échelle logarithmique]] : graduations à rapports égaux ; magnitude des séismes, décibels, pH
+- [[Équation du premier degré]] : $ax + b = 0$, unique solution $x = -b/a$ si $a \neq 0$
+- [[Exponentiation]] : calcul de $a^n$ : boucle, exponentiation rapide, `pow`, dépassement
+- [[Fonction affine]] : $f(x) = ax + b$ ; une suite arithmétique en est la restriction aux entiers
+- [[Nombre de Mersenne]] : $2^p - 1$ ; les plus grands nombres premiers connus en sont
+- [[Nombre pi]] : rapport de la circonférence d'un cercle à son diamètre, $\pi \approx 3{,}14159$, `M_PI` en C
+- [[Nombres de Lucas]] : suite de récurrence de Fibonacci partant de 2 et 1
+- [[Puissance (mathématiques)]] : $x^n$, produit de $n$ facteurs égaux à $x$ ; règles de calcul
+- [[Volume (géométrie)]] : mesure de l'espace occupé par un solide ; cube, cylindre $\pi r^2 h$, sphère $\frac43 \pi r^3$
+
+**Sciences humaines**
+- [[Année bissextile]] : 366 jours ; divisible par 4, sauf les siècles non divisibles par 400
+- [[Calendrier grégorien]] : calendrier instauré en 1582 pour corriger la dérive du calendrier julien
+- [[Droit de vote]] : droit de participer aux élections ; en France, dès 18 ans
+- [[Échelle de Richter]] : magnitude des séismes proposée en 1935, logarithmique
+- [[Magnitude de moment]] : échelle de magnitude actuelle (1979), fondée sur l'énergie libérée par la rupture
+- [[Mention (diplôme)]] : niveau d'un examen selon la moyenne (assez bien dès 12, bien dès 14, très bien dès 16)
+- [[Séisme]] : secousse due à la rupture brutale de roches le long d'une faille
 
 ### Systèmes et vecteurs
 
@@ -2219,7 +2279,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (166)
+## Résumés de sources (178)
 
 ### Documents PDF et PPTX (33)
 
@@ -2238,6 +2298,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 3, SHS** : [[2 - imaginaires du futur]], [[3 - imaginaires automobile]], [[4 - imaginaires de l'automobile]], [[5 - usages sociaux de l'automobile]]
 - **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
 - **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre), [[4 - Cours complet]] (polycopié de TP du chapitre 4 : fabrication avec g++, types, entrées-sorties, contrôle, pointeurs et références, fonctions, programmation modulaire), [[5 - Compilation séparée]] (diaporama du chapitre 5 : `.h` et `.cpp`, `#include`, compilation séparée, Makefile)
+- **Year 4, C／C++, programmes commentés** (une fiche par dossier, code vérifié à la compilation) : [[tp2]] (types, `printf`, `scanf`, opérateurs arithmétiques), [[tp3]] (conditions, opérateurs logiques, `switch`), [[tp4]] (boucle `for`, accumulateurs, boucles imbriquées), [[tp5]] (`while` et `do … while` : nombres premiers, parfaits, Syracuse), [[tp6]] (fonctions, prototypes, `return`), [[tp7]] (tableaux passés à une fonction), [[tableaux]] (syntaxe pointeur et syntaxe tableau), [[pointeurs]] (échange par adresse), [[td listes chaînées]] (`struct`, double pointeur, `malloc` et `free`), [[formation C++]] (progression commentée : `cout`, classe, constructeurs, surcharge d'opérateurs, `operator<<`), [[exo-prof]] (classes `Point` et `Segment`), [[compilation séparée (C++)]] (les mêmes classes en `.h` et `.cpp`, Makefile)
 - **Year 4, culture du soin** : [[1 - culture du soin]]
 - **Year 4, data mining** : [[1 - pdf du prof]]
 - **Year 4, management de l'innovation** : [[1 - innovation]]
@@ -2280,7 +2341,7 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 ### Year 4
 
 - **Gestion financière** : [[1 - gestion financière]]
-- **C++** : [[1 - basiques]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[2 - structures code]]
+- **C／C++** : [[1 - basiques]], [[2 - structures code]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[4 - C++]], [[4 - Prise de note]], [[4 - Cours complet]], [[5 - Compilation séparée]] ; programmes commentés, une fiche par dossier : [[tp2]], [[tp3]], [[tp4]], [[tp5]], [[tp6]], [[tp7]], [[tableaux]], [[pointeurs]], [[td listes chaînées]], [[formation C++]], [[exo-prof]], [[compilation séparée (C++)]]
 - **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]]
 - **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]]
 - **SHS** : [[6 - design libre]]
@@ -2350,7 +2411,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (214 : 149 docx, 59 pdf, 6 pptx), par dossier de Drive, au 2026-11-11. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (293 : 149 docx, 60 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-12. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2366,4 +2427,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C++ (3 docx, 4 pdf), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 1 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

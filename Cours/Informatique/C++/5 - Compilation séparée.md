@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 complet: true
 enrichi: 2026-11-11
 ---
 
-Résumé de [[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]] (5 diapositives), dans [[Cours/Informatique/C++/_index|C++]]. Le chapitre reprend les classes `Point` et `Segment` de [[4 - C++]] et les répartit en plusieurs fichiers : [[Fichier d'en-tête|fichiers d'en-tête]] `.h` et [[Fichier source|fichiers source]] `.cpp`, [[Directive include|directives `#include`]] traitées par le [[Préprocesseur|préprocesseur]], [[Compilation séparée|compilation séparée]] de chaque `.cpp` en [[Fichier objet|fichier objet]] `.o`, [[Édition de liens|édition de liens]], puis automatisation avec un [[Make (logiciel)|Makefile]].
+Résumé de [[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]] (5 diapositives), dans [[Cours/Informatique/C++/_index|C++]]. Le chapitre reprend les classes `Point` et `Segment` de [[4 - C++]] et les répartit en plusieurs fichiers : [[Fichier d'en-tête|fichiers d'en-tête]] `.h` et [[Fichier source|fichiers source]] `.cpp`, [[Directive include|directives `#include`]] traitées par le [[Préprocesseur|préprocesseur]], [[Compilation séparée|compilation séparée]] de chaque `.cpp` en [[Fichier objet|fichier objet]] `.o`, [[Édition de liens|édition de liens]], puis automatisation avec un [[Make (logiciel)|Makefile]].
 
 ## Plan
 

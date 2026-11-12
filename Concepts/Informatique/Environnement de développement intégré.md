@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [IDE, EDI, integrated development environment, environnement de développement]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
 maj: 2026-11-11
 ---
 

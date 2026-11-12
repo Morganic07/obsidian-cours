@@ -29,7 +29,7 @@ matieres:
   - Algo Maths
   - Operating System
   - Java
-  - C++
+  - C／C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[0 - Python|Python (Algo Maths)]]"
@@ -39,7 +39,7 @@ sources:
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
   - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
-maj: 2026-11-11
+maj: 2026-11-12
 ---
 
 Structure qui répète un bloc d'instructions tant qu'une condition le demande.
@@ -68,5 +68,13 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Fonction range (Python)]], [[St
 ## Dans le cours
 
 **C++** ([[4 - Cours complet]]) : `while` (et `do … while`) et `for`, illustrés par la table des carrés de l'[[EDSAC]]. Dangers : variable de contrôle non initialisée, oubli de l'incrémentation (boucle infinie ; le polycopié déconseille `while(1)`). `for` regroupe initialisation, condition et incrémentation sur une ligne ; il existe toujours un `while` équivalent, et on n'utilise `while` que lorsque cette forme ne s'applique pas.
+
+- [[tp2]] : le dernier programme (2.10) affiche les termes d'une suite arithmétique et leur somme avec une boucle `for(int n=1; n<=nmax; n++)`.
+- [[tp3]] : en complément, le minimum provisoire de trois nombres se généralise à un tableau avec une boucle.
+- [[tp4]] : TP sur la boucle `for` : compteurs, sortie anticipée avec `break`, accumulateurs, [[Boucle imbriquée|boucles imbriquées]] pour dessiner des motifs.
+- [[tp5]] : boucles `while` et `do … while` sur des problèmes d'arithmétique ; oublier `i = i+1` donne une boucle infinie ; boucles imbriquées pour lister nombres premiers et nombres parfaits.
+- [[tp7]] : remplissage et parcours d'un tableau avec une boucle `for`.
+- [[td listes chaînées]] : parcours d'une liste chaînée par une boucle `while (actuel != NULL)`.
+- [[formation C++]] : le programme 3-boucles montre `for`, `while` et `do … while` en C++ ; `do … while` s'exécute au moins une fois.
 
 Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[3 - TP3]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]], [[4 - Cours complet]]

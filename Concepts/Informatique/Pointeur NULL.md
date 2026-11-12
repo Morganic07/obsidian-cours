@@ -8,11 +8,11 @@ aliases:
   - nullptr
   - null pointer
 matieres:
-  - C++
+  - C／C++
 sources:
   - "[[3 - pointeurs , tableaux, listes chainées, structures|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-  - "[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
-maj: 2026-11-08
+  - "[[Raw/Year 4/C／C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : `NULL` est une valeur de pointeur qui ne désigne **aucun objet**. Déréférencer un pointeur nul (`*p` ou `p->champ` avec `p == NULL`) est un **comportement indéfini** ; en pratique, le programme s'arrête sur une [[Erreur de segmentation]].
@@ -24,6 +24,9 @@ maj: 2026-11-08
 ## Dans le cours
 
 Dans une [[Liste chaînée]], le pointeur du dernier élément contient `NULL`, et une liste vide a son premier pointeur à `NULL`. Le cours recommande de vérifier qu'un pointeur n'est pas `NULL` avant d'y accéder.
+
+- [[pointeurs]] : appeler `echange(NULL, &var2)` déréférencerait le pointeur nul ; c'est à l'appelant de passer des adresses valides.
+- [[td listes chaînées]] : `*ptrpremier = NULL;` crée une liste vide, `NULL` marque la fin de la liste ([[Valeur sentinelle|valeur sentinelle]] du parcours `while (actuel != NULL)`), et `rechercherElement` renvoie `NULL` si la valeur est absente ; un `malloc` échoué renvoie aussi `NULL`.
 
 Notion parente : [[Pointeur et adresse mémoire]]. Voir aussi : [[Allocation dynamique]].
 

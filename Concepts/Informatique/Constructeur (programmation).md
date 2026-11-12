@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [constructeur, constructor, constructeur par défaut, constructeur par paramètres, constructeur par copie, default constructor, copy constructor]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[4 - C++]]) : un constructeur est une méthode spéciale **appelée automatiquement à la création d'un objet**. Il **porte le nom de la classe** et **n'a pas de type de retour**.
@@ -51,5 +51,11 @@ public:
 - **Copie superficielle** : la copie générée recopie les attributs un par un, donc recopie l'adresse d'un pointeur et non la zone pointée. Une classe qui gère de la mémoire dynamique a besoin d'une **copie profonde**, d'un [[Destructeur (programmation)|destructeur]] et d'un `operator=` écrits à la main (**règle de trois**).
 
 Notion parente : [[Classe et objet]]. Voir aussi : [[Programmation orientée objet]], [[Destructeur (programmation)]], [[Allocation dynamique]], [[Méthode spéciale Python]] (`__init__` joue ce rôle en Python).
+
+## Dans le cours
+
+- [[formation C++]] : constructeur par défaut de `Television` (programme 5), [[Surcharge de fonctions|surcharge]] des constructeurs `Point()` et `Point(int, int)` (programme 6), constructeur de copie implicite appelé par `Point p2(p1);` (programme 7).
+- [[exo-prof]] : les trois constructeurs de `Point` et de `Segment` (par défaut, par paramètres, par copie), testés dans `main` ; le constructeur par copie de `Point`, identique au constructeur généré, peut être supprimé ([[Règle de zéro]]).
+- [[compilation séparée (C++)]] : mêmes constructeurs, déclarés dans `Point.h` et `Segment.h` et définis dans les `.cpp` ([[Compilation séparée]]).
 
 Résumés : [[4 - C++]], [[4 - Prise de note]]

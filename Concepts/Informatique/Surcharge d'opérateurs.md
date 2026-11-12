@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [surcharge d'opérateur, operator overloading, operator+, operator-, "operator<<", surcharge de l'opérateur d'affichage]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[4 - C++]]) : en C++, on peut **redéfinir le comportement d'un opérateur** (`-`, `+`, `<<`…) pour ses propres classes. La fonction s'appelle `operator` suivi du symbole ; elle est appelée automatiquement quand on écrit l'opérateur.
@@ -51,5 +51,10 @@ Point& operator+=(const Point& autre) {
 En Python, le même mécanisme passe par les [[Méthode spéciale Python|méthodes spéciales]] (`__add__` pour `+`).
 
 Notion parente : [[Classe et objet]]. Voir aussi : [[Programmation orientée objet]].
+
+## Dans le cours
+
+- [[formation C++]] : la classe `Point` reçoit l'[[Opérateur unaire et opérateur binaire|opérateur unaire]] `-` (programme 10), l'opérateur binaire `+` (programme 11) et l'opérateur d'affichage `<<` (programme 12).
+- [[exo-prof]] : `classePoint.cpp` affiche un `Point` par un `operator<<` déclaré [[Fonction amie (friend)|`friend`]], que `classePoint2.cpp` remplace par une méthode `affiche()`.
 
 Résumés : [[4 - C++]]

@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]]"]
+sources: ["[[Raw/Year 4/C／C++/chp2 - structures code .docx|chp2 - structures code]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]].
+Résumé de [[Raw/Year 4/C／C++/chp2 - structures code .docx|chp2 - structures code]], dans [[Cours/Informatique/C++/_index|C++]]. Le code est du [[Langage C|C]].
 ## Idée générale
 
 Les structures de contrôle (conditions et boucles), les fonctions, la structure d'un programme, le passage des arguments et les tableaux.

@@ -2,9 +2,9 @@
 type: concept
 tags: [year4]
 aliases: [classe, objet, class, object, instance, instance de classe, attribut, fonction membre, méthode (programmation)]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
-maj: 2026-11-08
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[4 - C++]]) : une **classe** est un modèle (un plan) qui décrit des données et des comportements. Un **objet** est une instance concrète de ce modèle. Analogie du cours : `class Voiture` est le plan de fabrication (marque, couleur, rouler…) ; `voiture1` et `voiture2` sont deux voitures réelles, chacune avec ses propres valeurs.
@@ -42,6 +42,12 @@ void Point::affiche() {
 - **L'accès privé est accordé par classe, pas par objet** : une méthode de `Point` peut lire les attributs privés d'un autre `Point` (c'est ce que fait `autre.x` dans le constructeur par copie).
 - **`::`** est l'opérateur de résolution de portée : `Point::affiche` désigne la méthode `affiche` de la classe `Point`, `std::cout` l'objet `cout` de l'[[Espace de noms (namespace)|espace de noms]] `std`.
 - Organisation en `point.h` (la classe) et `point.cpp` (les méthodes) : voir [[Fichier d'en-tête]].
+
+## Dans le cours
+
+- [[formation C++]] : progression d'autoformation sur les classes `Television`, `Point` et `Personne` : attributs et méthodes (programme 4), constructeurs (5 à 7), méthodes (8 et 9), surcharge d'opérateurs (10 à 12).
+- [[exo-prof]] : solution de l'« exercice type (I) » de [[4 - C++]] : une classe `Point`, puis une classe `Segment` qui contient deux `Point`.
+- [[compilation séparée (C++)]] : les mêmes classes `Point` et `Segment`, réparties entre en-têtes `.h` et fichiers source `.cpp`.
 
 Notion parente : [[Programmation orientée objet]]. Voir aussi : [[Langage C++]], [[Accesseur et mutateur]], [[Surcharge d'opérateurs]], [[Héritage (programmation)]], [[Méthode spéciale Python]].
 

@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [include guard, "#pragma once", pragma once, header guard, garde d'en-tête]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
-maj: 2026-11-11
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[5 - Compilation séparée]]) : la garde d'inclusion évite qu'un [[Fichier d'en-tête|fichier d'en-tête]] soit lu deux fois dans la chaîne d'inclusion, ce qui définirait sa classe en double. Deux écritures :
@@ -29,5 +29,9 @@ maj: 2026-11-11
 Voir aussi : [[Directive include]], [[Préprocesseur]].
 
 [[4 - Cours complet]] n'en parle pas ; la solution de son exercice 4, donnée en complément, l'ajoute dans `somme.h` (`#ifndef SOMME_H`).
+
+## Dans le cours
+
+- [[compilation séparée (C++)]] : `Point.h` est protégé par `#ifndef POINT_H`, `Segment.h` par `#pragma once` ; la garde est indispensable, car `main.cpp` inclut `Point.h` puis `Segment.h`, qui l'inclut à nouveau (sans garde : `redefinition of 'class Point'`).
 
 Résumés : [[5 - Compilation séparée]], [[4 - Cours complet]]

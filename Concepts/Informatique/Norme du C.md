@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [C89, C99, C11, C17, C23, ANSI C, ISO C, normes du C]
-sources: ["[[Raw/Year 4/C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++ - cours super complet.pdf|chp4 C++ - cours super complet.pdf]]"]
 maj: 2026-11-11
 ---
 

@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [étapes de la compilation, compilation toolchain]
-sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]", "[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]", "[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 ---
 

@@ -3,7 +3,7 @@ type: concept
 tags: [year3, year4]
 aliases: [integer overflow, dépassement de capacité, débordement d'entier]
 sources: ["[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"]
-maj: 2026-11-11
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : un dépassement d'entier (*integer overflow*) se produit quand le résultat d'un calcul sort de l'intervalle que le type entier peut représenter.
@@ -20,6 +20,13 @@ En Java, les entiers signés sont codés en [[Complément à deux|complément à
 Le cours ne la nomme pas. La fiche [[1 - Intro Java]] donne les intervalles des types entiers (`int` de $-2^{31}$ à $2^{31}-1$, `long` de $-2^{63}$ à $2^{63}-1$), et le dépassement apparaît dans ses compléments.
 
 [[4 - Cours complet]] (C++) pose la question sans la nommer : « que se passe-t-il quand n dépasse la valeur 20 ? » pour la factorielle en `unsigned int`. Réponse (complément, hors du cours) : le calcul non signé se fait modulo 2³², faux dès 13! ; la limite de 20 est celle d'un entier de 64 bits.
+
+- [[tp2]] : le produit `largeur*longueur` de deux `int` (programme 2.6) déborde au-delà de $2^{31}-1$, dès un rectangle de 50 000 × 50 000.
+- [[tp3]] : la fonction `alternative` du programme 3.4 calcule `a*b` pour trouver le signe du produit, calcul qui peut déborder, contrairement à la version par comparaisons.
+- [[tp4]] : les puissances et la suite de Lucas (4.6) débordent vite un `int` ; prévoir `long long`.
+- [[tp5]] : pour de grands départs, les termes de la suite de Syracuse (5.8) peuvent dépasser la capacité d'un `int`.
+- [[tp6]] : la fonction `puissance` (6.1) déborde pour $10^{10}$ ou $2^{31}$ ; `long long` repousse la limite vers $9{,}2 \times 10^{18}$.
+- [[exo-prof]] : dans la méthode `distance_origine` de `Point`, `x*x` dépasse la capacité d'un `int` de 32 bits dès 46 341 ; `std::hypot(x, y)` évite ce risque.
 
 Voir aussi : [[Complément à deux]], [[Type primitif]], [[Transtypage]], [[Langage Java]], [[Type entier]].
 

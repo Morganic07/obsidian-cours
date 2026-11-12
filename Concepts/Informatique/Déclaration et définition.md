@@ -2,9 +2,9 @@
 type: concept
 tags: [year4]
 aliases: [prototype de fonction, function prototype, déclaration anticipée, forward declaration]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
-maj: 2026-11-11
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[5 - Compilation séparée]]) : en C++, le [[Fichier d'en-tête|fichier d'en-tête]] `.h` **déclare** ce qui existe (classes, attributs, prototypes des méthodes) ; le [[Fichier source|fichier source]] `.cpp` **définit** le code des méthodes.
@@ -33,5 +33,15 @@ Voir aussi : [[Interface et implémentation]], [[Fonction et procédure]], [[Com
 ## Dans [[4 - Cours complet]]
 
 La déclaration d'une fonction est l'instruction qui l'annonce au compilateur ; la forme recommandée est le prototype (type de retour et signature, noms des paramètres facultatifs), et la définition y ajoute le corps. Une instruction qui définit une variable est une définition : elle réserve la mémoire.
+
+## Dans le cours
+
+- [[tp2]] : la fonction `alternative` du programme 2.10, définie après `main` et jamais appelée, demanderait un prototype `int alternative(void);` avant `main` pour y être appelée.
+- [[tp4]] : `algo1` et `algo2` (4.4) sont définies avant `main`, si bien qu'aucun prototype n'est nécessaire.
+- [[tp6]] : prototype `int puissance(int valeur, int exposant);` placé avant `main` ; le prototype vide `int volume();` ne précise pas les paramètres en C17 (déclaration non prototypée), et signifie « aucun paramètre » depuis C23, ce qui rend l'appel à deux arguments invalide.
+- [[td listes chaînées]] : en C, un type ou une fonction doit être déclaré avant sa première utilisation dans le fichier, le compilateur lisant le code de haut en bas.
+- [[formation C++]] : au programme 4, les méthodes de `Television` sont déclarées sans être définies ; et `Point p1();` déclare une fonction au lieu de créer un objet (*most vexing parse*).
+- [[exo-prof]] : les constructeurs de `Point` sont déclarés dans la classe puis définis après elle sous leur nom complet `Point::Point`.
+- [[compilation séparée (C++)]] : `Point.h` et `Segment.h` ne font que déclarer ; les définitions des méthodes sont dans `Point.cpp` et `Segment.cpp`.
 
 Résumés : [[5 - Compilation séparée]], [[4 - Cours complet]]

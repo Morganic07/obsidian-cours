@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [inline, fonction en ligne, inline function, mot-clé inline]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp5 compilation séparée .pdf|chp5 compilation séparée .pdf]]"]
 maj: 2026-11-11
 ---
 

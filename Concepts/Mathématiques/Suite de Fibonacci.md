@@ -1,10 +1,10 @@
 ---
 type: concept
-tags: [year1, year2]
+tags: [year1, year2, year4]
 aliases: [Fibonacci, Fibonacci sequence, suite de Fibonacci]
 matieres: [Analyse Maths, Algo Maths, Algo]
 sources: ["[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]", "[[Raw/Year 1/Analyse Maths/Cours/AnalyseID1.pdf|AnalyseID1.pdf]]", "[[Raw/Year 2/Algo/Cours/Chp1 - récursivité et complexité.docx|Chp1 - récursivité et complexité]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 **Analyse Maths** : exemple de suite au chapitre 2 du polycopié.
@@ -55,5 +55,9 @@ def fibo(n):
 ```
 
 Notion parente : [[Suite numérique]]. Voir aussi : [[Récursivité]], [[Récursivité terminale]], [[Programmation dynamique]], [[Complexité algorithmique]], [[Nombre d'or]].
+
+## Dans le cours
+
+- [[tp4]] : le programme 4.6 calcule les [[Nombres de Lucas|nombres de Lucas]], qui suivent la même récurrence avec d'autres termes initiaux ($L_0 = 2$, $L_1 = 1$), par une boucle sur deux variables comme ci-dessus, en langage C.
 
 Résumés : [[0 - rappels pdf]], [[0 - diapo prof]], [[1 - récursivité et complexité]]

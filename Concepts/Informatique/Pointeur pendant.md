@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [pointeurs pendants, dangling pointer, pointeur fou, double free]
-sources: ["[[Raw/Year 4/C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/Chp3 - pointeurs , tableaux, listes chainées, structures.docx|Chp3 - pointeurs , tableaux, listes chainées, structures]]"]
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : un pointeur pendant (*dangling pointer*) contient l'adresse d'une zone mémoire qui n'est plus valide. Deux cas classiques :
@@ -23,6 +23,8 @@ Bonnes pratiques :
 ## Dans le cours
 
 Le cours ne nomme pas la notion. Dans [[3 - pointeurs , tableaux, listes chainées, structures]], la sortie du programme complet montre qu'après `free`, `bufferinheap` et `pb` contiennent encore l'adresse du bloc (lignes 8 et 9) ; la fiche l'explique dans ses compléments.
+
+- [[td listes chaînées]] : `supprimerListe` range `actuel->suivant` dans une variable avant `free(actuel)`, car lire le chaînon après sa libération serait lire un pointeur pendant ; la tête est ensuite remise à `NULL`.
 
 Voir aussi : [[Allocation dynamique]], [[Pointeur NULL]], [[Erreur de segmentation]], [[Fuite mémoire]], [[Pointeur et adresse mémoire]].
 

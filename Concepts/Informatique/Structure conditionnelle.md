@@ -26,7 +26,7 @@ matieres:
   - Algo Maths
   - Operating System
   - Java
-  - C++
+  - C／C++
 sources:
   - "[[Raw/Year 1/Algo Maths/AlgoID1.pdf|AlgoID1.pdf]]"
   - "[[8 - OS commandes sh|Commandes Shell + explications]]"
@@ -34,7 +34,7 @@ sources:
   - "[[1 - Intro Java|Chp1 - Intro Java]]"
   - "[[2 - structures code|chp2 - structures code]]"
   - "[[Raw/Year 3/Java/Chp1 : Intro Java.docx|Chp1 - Intro Java]]"
-maj: 2026-11-11
+maj: 2026-11-12
 ---
 
 Instruction qui exécute un bloc ou un autre selon la valeur d'une condition. Ce n'est pas une boucle.
@@ -61,5 +61,13 @@ Notion parente : [[Pseudo-code]]. Voir aussi : [[Boucle (programmation)]], [[Év
 ## Dans le cours
 
 **C++** ([[4 - Cours complet]]) : `if` choisit entre deux possibilités ; le programme de conversion cm/pouce passe d'un `if … else` naïf à des `if` imbriqués puis à un `switch`, plus clair pour comparer une valeur à plusieurs constantes. Règles du `switch` : valeur entière, `char` ou énumération (pas de `string`), étiquettes `case` constantes et distinctes, plusieurs `case` possibles pour une même instruction ; l'oubli d'un `break` est l'erreur la plus fréquente.
+
+- [[tp2]] : `if … else` qui vérifie la solution proposée à $ax + b = 0$ (2.4), avec le piège de `==` sur des `float` ([[Comparaison de nombres flottants]]).
+- [[tp3]] : tout le TP ; chaînes `else if` (minimum, signe d'un produit, mention), puis `switch` sur un chiffre (3.10), une magnitude (3.11, où `case richter>9:` ne compile pas, l'étiquette devant être une [[Expression constante|expression constante]]) et une touche (3.12), avec un [[Instructions break et continue|`break`]] par `case`.
+- [[tp4]] : `if` de menu qui appelle `algo1` ou `algo2` selon la saisie, sans `else` pour les autres valeurs.
+- [[tp5]] : branches du jeu du nombre secret (5.3), où le test `guess == nombre` répété peut n'être écrit qu'une fois.
+- [[tp6]] : le choix du solide dans `volume` (6.3) s'écrirait plus lisiblement avec un `switch` et un `default`.
+- [[tp7]] : `if … else if` dans la recherche du minimum et du maximum d'un tableau (7.2).
+- [[formation C++]] : `if` / `else if` / `else` sur deux booléens, comme en C (programme 3-conditions).
 
 Résumés : [[0 - diapo prof]], [[8 - OS commandes sh]], [[1 - Intro Java]], [[2 - structures code]], [[1 - basiques]], [[4 - Cours complet]]

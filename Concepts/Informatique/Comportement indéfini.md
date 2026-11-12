@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [comportements indéfinis, comportement non défini, undefined behavior, undefined behaviour, UB, comportement défini par l'implémentation, implementation-defined behavior]
-sources: ["[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C++/chp2 - structures code .docx|chp2 - structures code]]"]
-maj: 2026-11-08
+sources: ["[[Raw/Year 4/C／C++/Chp1 - basiques.docx|Chp1 - basiques]]", "[[Raw/Year 4/C／C++/chp2 - structures code .docx|chp2 - structures code]]"]
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : en [[Langage C|C]] (et en C++), un **comportement indéfini** (*undefined behavior*) est une situation pour laquelle la norme du langage n'impose aucun résultat. Le programme peut sembler fonctionner, afficher n'importe quoi, planter, ou changer de comportement selon le compilateur, la machine et les options d'optimisation. Le compilateur n'est pas tenu de le signaler, ni à la compilation ni à l'exécution, et il a le droit de supposer qu'il n'arrive jamais pour optimiser le code.
@@ -15,7 +15,7 @@ maj: 2026-11-08
 - déréférencer un [[Pointeur NULL|pointeur NULL]], ou un pointeur vers une variable locale disparue (adresse renvoyée par `return &a;`) ;
 - dépasser la capacité d'un `int` **signé** (débordement, par exemple `INT_MAX + 1`) ; pour un entier non signé au contraire, le calcul se fait modulo $2^n$ et le résultat est défini ;
 - utiliser un format de `printf` qui ne correspond pas au type, comme afficher une adresse avec `%d` au lieu de `%p` ;
-- modifier deux fois la même variable sans point de séquence entre les deux, comme `i = i++ + 1;`.
+- modifier deux fois la même variable sans point de séquence entre les deux, comme `i = i++ + 1;` en C ; en C++, cette ligne est bien définie depuis C++17, qui fait évaluer l'opérande droit d'une affectation, effets de bord compris, avant l'affectation elle-même ([[Norme du C++]], [expr.ass]), mais `i++ + i++` reste indéfini dans les deux langages.
 
 Un accès mémoire invalide se traduit souvent par une [[Erreur de segmentation]], mais pas toujours : un débordement peut aussi écraser silencieusement une autre variable, ce qui en fait une source de failles de sécurité (*buffer overflow*).
 
@@ -31,6 +31,18 @@ Compiler avec les avertissements (`gcc -Wall -Wextra`, voir [[GCC]]), initialise
 ## Dans le cours
 
 Le cours ne nomme pas la notion. [[1 - basiques]] montre qu'une variable non initialisée affiche une valeur « aléatoire », et [[2 - structures code]] que le C ne vérifie pas les indices des tableaux ; leurs compléments rattachent ces deux cas au comportement indéfini.
+
+Les programmes de l'utilisatrice en donnent des cas concrets :
+
+- [[tp2]] : si `scanf` échoue (lettre tapée au lieu d'un nombre), la variable reste non initialisée et l'afficher est indéfini.
+- [[tp3]] : en 3.3, `a`, `b` et `c` étaient comparés sans avoir été lus ni initialisés.
+- [[tp5]] : `guess` lu avant toute saisie (5.3) ; un modulo par zéro serait aussi indéfini.
+- [[tp6]] : `NombreOrdonnes` (6.2) et `volume` (6.3) sortaient sans [[Instruction return|`return`]] alors que `main` utilisait leur valeur ; le [[Dépassement d'entier|dépassement d'un `int`]] dans `puissance` (6.1) l'est aussi.
+- [[tp7]] : `indice_min` et `indice_max` non initialisés (7.2) ; le programme affichait le bon indice par hasard.
+- [[tableaux]] : une taille passée en paramètre plus grande que le tableau ferait écrire hors de ses bornes ([[Dépassement de tampon]]).
+- [[pointeurs]] : `echange(NULL, &var2)` déréférencerait le pointeur nul.
+- [[td listes chaînées]] : déréférencer le `NULL` renvoyé par `rechercherElement` ou par un `malloc` échoué.
+- [[formation C++]] : sans constructeur, les attributs `int` et `bool` de `Television` restent non initialisés ; les lire serait indéfini.
 
 Voir aussi : [[Variable non initialisée]], [[Tableau (programmation)]], [[Erreur de segmentation]], [[Pointeur NULL]], [[Pointeur et adresse mémoire]], [[Pile d'exécution]], [[Fonctions printf et scanf]], [[Langage C]], [[GCC]].
 

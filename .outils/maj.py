@@ -50,6 +50,15 @@ CONNUS = {AVANT, JOURNAL, RCLONE_OK, CHANGEMENTS, ANCIEN, CONVERSIONS, LOT, chem
 
 AJOUTE, MODIFIE, DEPLACE, SUPPRIME = "ajouté", "modifié", "déplacé", "supprimé"
 
+# Code source : recopié tel quel dans un bloc de code, langue pour la coloration.
+LANGUES_CODE = {".c": "c", ".h": "c", ".cpp": "cpp", ".hpp": "cpp"}
+FICHIERS_CODE = {"makefile": "makefile"}
+
+
+def langue_code(source):
+    """Langue du bloc de code d'un fichier source, ou None si ce n'en est pas un."""
+    return LANGUES_CODE.get(source.suffix.lower()) or FICHIERS_CODE.get(source.name.lower())
+
 
 class Erreur(Exception):
     """Arrêt propre, avec un message pour l'utilisatrice."""
@@ -177,6 +186,10 @@ def convertir_fichier(source, sortie, base):
             resultat = subprocess.run(["pdftotext", "-layout", str(source), "-"], check=True,
                                       capture_output=True, text=True, errors="replace")
             (sortie / TEXTE).write_text(resultat.stdout, encoding="utf-8")
+        langue = langue_code(source)
+        if langue:
+            code = source.read_text(encoding="utf-8", errors="replace")
+            (sortie / TEXTE).write_text(bloc(code, langue) + "\n", encoding="utf-8")
     except subprocess.CalledProcessError as erreur:
         (sortie / ERREUR).write_text((erreur.stderr or "").strip() or f"code {erreur.returncode}",
                                      encoding="utf-8")

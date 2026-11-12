@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
+sources: ["[[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/C++/chp4 prise de note.pdf|chp4 prise de note.pdf]] (9 pages manuscrites, avec des captures d'écran de code et de terminal), dans [[Cours/Informatique/C++/_index|C++]]. C'est la prise de note du cours résumé dans [[4 - C++]] : elle suit le même plan et ajoute la compilation, les exercices faits en séance et leur sortie. Le code des captures est recopié en texte ; l'invite du terminal, qui porte un nom, n'est pas reprise.
+Résumé de [[Raw/Year 4/C／C++/chp4 prise de note.pdf|chp4 prise de note.pdf]] (9 pages manuscrites, avec des captures d'écran de code et de terminal), dans [[Cours/Informatique/C++/_index|C++]]. C'est la prise de note du cours résumé dans [[4 - C++]] : elle suit le même plan et ajoute la compilation, les exercices faits en séance et leur sortie. Le code des captures est recopié en texte ; l'invite du terminal, qui porte un nom, n'est pas reprise.
 
 ## Compiler un programme C++
 

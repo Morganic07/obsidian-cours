@@ -8,7 +8,7 @@ aliases:
   - compilation error
 sources:
   - "[[1 - basiques|Chp1 - basiques]]"
-  - "[[Raw/Year 4/C++/Chp1 - basiques.docx|Chp1 - basiques]]"
+  - "[[Raw/Year 4/C／C++/Chp1 - basiques.docx|Chp1 - basiques]]"
 maj: 2026-11-11
 ---
 

@@ -2,8 +2,8 @@
 type: concept
 tags: [year4]
 aliases: [héritage, inheritance, classe dérivée, classe fille, classe de base, classe mère, protected, méthode virtuelle, virtual]
-matieres: [C++]
-sources: ["[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"]
+matieres: [C／C++]
+sources: ["[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"]
 maj: 2026-11-08
 ---
 

@@ -7,7 +7,7 @@ matieres:
   - C++
 sources:
   - "[[1 - basiques|Chp1 - basiques]]"
-  - "[[Raw/Year 4/C++/chp4 C++.pdf|chp4 C++.pdf]]"
+  - "[[Raw/Year 4/C／C++/chp4 C++.pdf|chp4 C++.pdf]]"
 maj: 2026-11-08
 ---
 
