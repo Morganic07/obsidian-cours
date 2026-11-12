@@ -8,7 +8,7 @@ maj: 2026-11-12
 
 ## Corrections par page
 
-316 pages corrigées, 655 corrections (nombre de marques ✎).
+319 pages corrigées, 659 corrections (nombre de marques ✎).
 
 ### Design
 
@@ -122,6 +122,9 @@ maj: 2026-11-12
 - [[2 - tree]] : Kruskal minimise « la somme des poids des nœuds » → des arêtes ^e-2-tree
 - [[3 - complexité]] : `somme_1` et `somme_2` « font la même chose » → $n(n-1)/2$ et $n(n+1)/2$ ; `while` des algorithmes C et D aligné sur `def` → indenté dans la fonction ; algorithme D « $O(m \cdot n)$ linéaire » → non linéaire (quadratique si $m = n$) ; `recherche_dic`, `return 0` → `return m` ; `i! =` → `!=` ; produit « de dimension $(m, n)$ » → $(m, p)$ ; Hanoï « si $n > 0$ » → si $n > 1$ ($T(1) = 1$) ^e-3-complexite
 - [[4 - oriented graphs]] : chemin, « un arc relie $v_i$ et $v_{i+1}$ » → un arc de $v_i$ vers $v_{i+1}$ ^e-4-oriented-graphs
+- [[2 - tree revisions années précédentes]] : définition récursive circulaire (« un arbre est un arbre qui possède des liens… ») → un arbre est un ensemble fini non vide de nœuds dont l'un est la racine, les autres formant $m \ge 0$ sous-arbres disjoints (Knuth, *The Art of Computer Programming*, vol. 1, §2.3) ; hauteur minimale « $h = \lfloor \log_k n \rfloor + 1$ », avec la profondeur comptée en arcs (racine à 0) → $h = \lceil \log_k((k-1)n+1) \rceil - 1$, soit $\lfloor \log_2 n \rfloor$ pour un arbre binaire ($\lfloor \log_2 n \rfloor + 1$ est le nombre de niveaux) (calcul refait : un arbre $k$-aire de hauteur $h$ a au plus $(k^{h+1}-1)/(k-1)$ nœuds ; Cormen et al., *Introduction to Algorithms*, annexe B.5.3) ; postcondition de `filsGauche`, « renvoie le fils droit » → le fils gauche ^e-2-tree-revisions-annees-precedentes
+- [[4 - bellman ford]] : « circuits de longueur négative : pas de plus courts chemins » → seulement vers les sommets accessibles depuis un circuit négatif lui-même accessible depuis la source ; les autres gardent une distance finie (Cormen et al., *Introduction to Algorithms*, 3e éd., ch. 24) ; BELLMAN-FORD-R1 renvoie `pred` sans l'initialiser ni le mettre à jour → `pred[v] := NONE` au départ et `pred[v] := u` quand $D[v]$ baisse, comme dans la version complète du même diaporama ^e-4-bellman-ford
+- [[4 - dijkstra]] : algorithme « inventé en 1959 » → conçu en 1956, publié en 1959 (E. W. Dijkstra, « A note on two problems in connexion with graphs », *Numerische Mathematik* 1, 1959 ; entretien avec P. L. Frana, *Communications of the ACM* 53(8), 2010) ^e-4-dijkstra
 - [[Algorithme de Kruskal]] : « somme des poids des nœuds » → des arêtes ^e-algorithme-de-kruskal
 - [[Chemin (graphe)]] : arc « reliant » → arc de $v_i$ vers $v_{i+1}$ ^e-chemin-graphe
 - [[Classe de complexité]] : « $O(m \cdot n)$ linéaire » → non linéaire ; `somme_1` → calcule $n(n-1)/2$ ^e-classe-de-complexite
@@ -407,7 +410,7 @@ maj: 2026-11-12
 
 - [[1 - Ethnographie visuelle]] : « Marey a montré par la photo que le cheval au galop a les quatre pattes en l'air » → Muybridge (1878) ; Marey a aussi travaillé sur le cheval (histoire de la photographie) ; analyse du discours I et II inversées → institution (musée) : discours II ; large sélection d'images et de textes : discours I (G. Rose, *Visual Methodologies*, 2e éd., 2007, ch. 7 et 8) ^e-1-ethnographie-visuelle
 - [[Chronophotographie]] : démonstration du galop attribuée à Marey → Muybridge, 1878 ^e-chronophotographie
-- [[6 - design libre]] : « Google récupère le code source de Docker » pour construire Kubernetes → Kubernetes, annoncé par Google en juin 2014, s'inspire de ses systèmes internes Borg et Omega ; il orchestrait des conteneurs Docker sans reprendre le code de Docker (kubernetes.io, « 10 Years of Kubernetes », 2024) ^e-6-design-libre
+- [[6 - design libre]] : « Google récupère le code source de Docker » (partie 4), puis « Google a pompé le code source de Docker Swarm » (partie 3) pour construire Kubernetes → Kubernetes, annoncé par Google en juin 2014, s'inspire de ses systèmes internes Borg et Omega ; il orchestrait des conteneurs Docker sans reprendre le code de Docker (kubernetes.io, « 10 Years of Kubernetes », 2024) ^e-6-design-libre
 - [[Types d'analyse d'une image]] : institution → discours II ; large sélection → discours I (G. Rose, *Visual Methodologies*, 2007) ^e-types-d-analyse-d-une-image
 
 ## Faits retirés faute de source

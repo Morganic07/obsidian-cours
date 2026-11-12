@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-11 : 1 966 concepts, rangés en cinq domaines dans `Concepts/` ; 166 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-12 : 2 060 concepts, rangés en cinq domaines dans `Concepts/` ; 181 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (2018)
+## Concepts (2060)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -250,6 +250,64 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Magnitude de moment]] : échelle de magnitude actuelle (1979), fondée sur l'énergie libérée par la rupture
 - [[Mention (diplôme)]] : niveau d'un examen selon la moyenne (assez bien dès 12, bien dès 14, très bien dès 16)
 - [[Séisme]] : secousse due à la rupture brutale de roches le long d'une faille
+
+### Ajoutés le 2026-11-12, avec la note SHS sur le design libre
+
+**Design**
+- [[Autoprogettazione]] : plans de dix-neuf meubles à construire soi-même, diffusés librement par Enzo Mari (1974)
+- [[Design for the Real World]] : essai de Victor Papanek (1971), critique du design industriel de consommation
+- [[Workshop (design)]] : format pédagogique intensif de travail en groupe, forme du cours SHS de 4e année
+
+**Informatique**
+- [[Éditeur de texte collaboratif]] : écriture à plusieurs en temps réel (pad, Etherpad, Framapad)
+- [[Site web]] : pages web reliées sous un même nom de domaine, sur le World Wide Web
+- [[Wiki]] : site modifiable par ses utilisateurs, avec historique des versions (WikiWikiWeb, 1995)
+
+**Sciences humaines**
+- [[Agence nationale de la cohésion des territoires]] : établissement public créé en 2020, porteur du Programme Société Numérique
+- [[Convivialité (Illich)]] : outil qui accroît l'autonomie de son utilisateur, d'après Ivan Illich (1973)
+- [[Les Bases du numérique d'intérêt général]] : plateforme de ressources partagées du numérique d'intérêt général (ANCT)
+- [[Podcast]] : programme audio diffusé par épisodes sur Internet, à la demande
+
+### Ajoutés le 2026-11-12, avec les suppléments de Graph theory
+
+**Informatique**
+- [[Algorithme A étoile]] : Dijkstra guidé vers une cible par une heuristique (A*)
+- [[Algorithme de Floyd-Warshall]] : plus courts chemins entre tous les couples, programmation dynamique, O(n³)
+- [[Algorithme de Johnson]] : tous les couples sur graphe peu dense, Bellman-Ford pour repondérer puis n Dijkstra
+- [[Algorithme SPFA]] : Bellman-Ford avec une file de sommets actifs (version asynchrone du cours)
+- [[Analyse amortie]] : coût moyen d'une opération sur une suite d'opérations au pire
+- [[Arbre dégénéré]] : arbre réduit à une branche (h = n − 1), pire cas d'un ABR
+- [[Arbre des plus courts chemins]] : arborescence des arcs (pred[v], v) enracinée à la source
+- [[Arbre équilibré]] : arbre de hauteur O(log n) (AVL, rouge-noir, B-arbre)
+- [[Arbre numéroté]] : enfants étiquetés par des entiers distincts, base des arbres k-aires et binaires
+- [[Arbre ordonné]] : arbre enraciné où les enfants de chaque nœud sont ordonnés
+- [[ARMAC]] : ordinateur du Mathematisch Centrum (1956), pour lequel Dijkstra a conçu son algorithme
+- [[Circuit absorbant]] : circuit de longueur négative, détecté par Bellman-Ford
+- [[Comptage à l'infini]] : défaut du routage à vecteur de distances, parades de RIP
+- [[File de priorité]] : insertion et extraction du plus prioritaire, en général par un tas binaire
+- [[Heuristique (algorithmique)]] : fonction d'estimation qui guide une recherche
+- [[Latence (réseau)]] : délai de transmission et de propagation
+- [[Parcours infixe]] : gauche, racine, droite ; donne l'ordre croissant sur un ABR
+- [[Parcours postfixe]] : fils avant la racine (G D R)
+- [[Parcours préfixe]] : racine avant ses fils (R G D)
+- [[Plus court chemin]] : longueur d'un chemin pondéré, δ(u,v), choix de l'algorithme selon les poids
+- [[Précondition et postcondition]] : contrat d'une opération, avant et après l'appel
+- [[Principe d'optimalité de Bellman]] : sous-structure optimale, fondement de la programmation dynamique
+- [[Problème du plus long chemin]] : NP-difficile en général, linéaire sur un graphe sans circuit
+- [[Relâchement d'un arc]] : test d[v] > d[u] + w(u,v), opération de base de Dijkstra et Bellman-Ford
+- [[Routage à état de liens]] : OSPF, IS-IS ; Dijkstra sur la carte complète de la zone
+- [[Routage à vecteur de distances]] : RIP, EIGRP ; Bellman-Ford réparti
+- [[Sous-arbre]] : un nœud et tous ses descendants
+- [[Tas de Fibonacci]] : file de priorité en O(1) amorti, Dijkstra en O(m + n log n)
+- [[Type abstrait de données]] : type défini par ses opérations, indépendamment de l'implémentation
+
+**Mathématiques**
+- [[Logarithme]] : réciproque de l'exponentielle de base b, ordres de grandeur en complexité
+- [[Numerische Mathematik]] : revue d'analyse numérique (depuis 1959), où Dijkstra a publié son algorithme
+
+**Probabilités et statistiques**
+- [[Nombre de Catalan]] : nombre de formes d'arbres binaires à n nœuds
 
 ### Systèmes et vecteurs
 
@@ -2279,7 +2337,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (178)
+## Résumés de sources (181)
 
 ### Documents PDF et PPTX (33)
 
@@ -2346,7 +2404,7 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 - **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]]
 - **SHS** : [[6 - design libre]]
 - **data mining** : [[1 - intro to data mining]]
-- **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]]
+- **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]] ; suppléments : [[2 - tree revisions années précédentes]], [[4 - bellman ford]], [[4 - dijkstra]]
 - **projet court** : [[Fondaction Football]]
 
 ### Year 1 - Analyse Maths
@@ -2411,7 +2469,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (293 : 149 docx, 60 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-12. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (296 : 149 docx, 63 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-12. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2427,4 +2485,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 3 pdf, dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

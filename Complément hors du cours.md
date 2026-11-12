@@ -6,7 +6,7 @@ maj: 2026-11-12
 
 **Complément hors du cours.** Le passage marqué ⓘ n'est pas dans le document d'origine : il a été ajouté pour compléter le cours (savoir établi, de niveau manuel).
 
-## Fiches de cours complétées (168 fiches, 2991 compléments)
+## Fiches de cours complétées (171 fiches, 3065 compléments)
 
 Nombre de compléments ⓘ entre parenthèses.
 
@@ -38,7 +38,7 @@ Nombre de compléments ⓘ entre parenthèses.
 
 **[[Cours/Informatique/Data mining/_index|Data mining]]** : [[1 - intro to data mining]] (36), [[1 - pdf du prof]] (41)
 
-**[[Cours/Informatique/Graph theory/_index|Graph theory]]** : [[0 - Graph - Python]] (17), [[1 - Undirected graph]] (18), [[2 - tree]] (14), [[3 - complexité]] (36), [[4 - oriented graphs]] (22)
+**[[Cours/Informatique/Graph theory/_index|Graph theory]]** : [[0 - Graph - Python]] (17), [[1 - Undirected graph]] (18), [[2 - tree]] (14), [[2 - tree revisions années précédentes]] (30), [[3 - complexité]] (36), [[4 - oriented graphs]] (22), [[4 - bellman ford]] (26), [[4 - dijkstra]] (18)
 
 **[[Cours/Informatique/IA/_index|IA]]** : [[1 - IA]] (44)
 
@@ -86,9 +86,11 @@ Nombre de compléments ⓘ entre parenthèses.
 
 **[[Cours/Sciences humaines/SHS/_index|SHS]]** : [[1 - Ethnographie visuelle]] (31), [[2 - imaginaires du futur]] (21), [[3 - imaginaires automobile]] (15), [[4 - imaginaires de l'automobile]] (18), [[5 - usages sociaux de l'automobile]] (14)
 
-## Concepts définis hors du cours (848)
+## Concepts définis hors du cours (882)
 
 Pages dont la définition est un complément : notion seulement nommée dans le cours, ou introduite par un complément.
+
+Ajoutés le 2026-11-12 (note SHS sur le design libre, suppléments de Graph theory) : [[Autoprogettazione]], [[Design for the Real World]], [[Workshop (design)]] (Design) ; [[Algorithme A étoile]], [[Algorithme de Floyd-Warshall]], [[Algorithme de Johnson]], [[Algorithme SPFA]], [[Analyse amortie]], [[Arbre dégénéré]], [[Arbre équilibré]], [[ARMAC]], [[Comptage à l'infini]], [[Éditeur de texte collaboratif]], [[File de priorité]], [[Heuristique (algorithmique)]], [[Latence (réseau)]], [[Précondition et postcondition]], [[Principe d'optimalité de Bellman]], [[Problème du plus long chemin]], [[Relâchement d'un arc]], [[Routage à état de liens]], [[Routage à vecteur de distances]], [[Site web]], [[Sous-arbre]], [[Tas de Fibonacci]], [[Type abstrait de données]], [[Wiki]] (Informatique) ; [[Logarithme]], [[Numerische Mathematik]] (Mathématiques) ; [[Nombre de Catalan]] (Probabilités et statistiques) ; [[Agence nationale de la cohésion des territoires]], [[Convivialité (Illich)]], [[Les Bases du numérique d'intérêt général]], [[Podcast]] (Sciences humaines).
 
 ### Design (119)
 

@@ -93,7 +93,9 @@ SHS de 4e année : enquête de groupe sur le design libre et en commun ([[Open d
 
 ### Concepts
 
-- **Méthode d'enquête** : [[Entretien semi-directif]], [[Analyse thématique d'entretien]], [[Benchmark (design)]]
+- **Méthode d'enquête** : [[Entretien semi-directif]], [[Analyse thématique d'entretien]], [[Benchmark (design)]], [[Workshop (design)]]
+- **Filiation sociale et politique du design** (énoncé du cours) : [[Design social]], [[Design industriel]], [[Design for the Real World]], [[Autoprogettazione]], [[Convivialité (Illich)]]
+- **Formes de restitution** : [[Site web]], [[Wiki]], [[Éditeur de texte collaboratif]], [[Podcast]], [[Les Bases du numérique d'intérêt général]], [[Agence nationale de la cohésion des territoires]]
 - **Autres notions de la note** : [[Forge logicielle]], [[Logiciel propriétaire]], [[Patreon]], [[Imagerie à grande gamme dynamique]], [[Organisation non gouvernementale]]
 - **Communs et design libre** : [[Communs numériques]], [[Open design]], [[Design contributif]], [[Design system]], [[Intérêt général]], [[Produit d'appel]], [[Écosystème fermé]]
 - **Licences et outils** : [[Licences libres]], [[Licence permissive]], [[Licence Apache]], [[Copyleft]], [[GNU Affero General Public License]], [[Creative Commons]], [[CC signals]], [[Git]], [[GitHub]], [[Demande de fusion]], [[Fichier README]]

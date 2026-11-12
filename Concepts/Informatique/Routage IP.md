@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [IP routing, TTL, Time To Live]
 sources: ["[[Raw/Year 3/Computer Network/Chp2 : Static Routing.docx|Chp2 - Static Routing]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 **Définition** (d'après [[2 - Static Routing]]) : processus qui achemine des paquets IP d'un réseau source vers un réseau de destination, à travers des routeurs interconnectés. Le [[Routeur]] choisit le chemin d'après sa table de routage.
@@ -22,4 +22,6 @@ Quand plusieurs sources (statique, OSPF, RIP…) proposent le même préfixe, le
 
 Voir aussi : [[Routage statique]], [[Routage dynamique]], [[Distance administrative]], [[Adresse MAC]], [[Commutation de paquets]], [[Suite des protocoles Internet]].
 
-Résumés : [[2 - Static Routing]]
+En Graph theory (année 4), [[4 - bellman ford]] modélise le réseau par un graphe (routeurs = sommets, lignes de communications = arcs, délais = longueurs) : déterminer le meilleur chemin pour router les messages est un problème de [[Plus court chemin|plus court chemin]].
+
+Résumés : [[2 - Static Routing]], [[4 - bellman ford]]

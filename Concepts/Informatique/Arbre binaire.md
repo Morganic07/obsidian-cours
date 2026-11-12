@@ -1,10 +1,10 @@
 ---
 type: concept
-tags: [year2]
-aliases: [arbre binaire, arbres binaires, binary tree, parcours préfixe, parcours infixe, parcours postfixe, parcours en profondeur d'un arbre, arbre parfait, arbre quasi-parfait, arbre binaire étiqueté, arbre binaire complet, squelette d'un arbre binaire, fils gauche, fils droit, sous-arbre gauche, sous-arbre droit]
+tags: [year2, year4]
+aliases: [arbre binaire, arbres binaires, binary tree, parcours en profondeur d'un arbre, arbre parfait, arbre quasi-parfait, arbre binaire étiqueté, arbre binaire complet, squelette d'un arbre binaire, fils gauche, fils droit, sous-arbre gauche, sous-arbre droit]
 matieres: [Algo]
 sources: ["[[Raw/Year 2/Algo/Cours/Chapitre4-Preing2ID.pdf|Chapitre4-Preing2ID.pdf]]", "[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
-maj: 2026-11-06
+maj: 2026-11-12
 ---
 
 Un arbre binaire est une structure de données hiérarchique où chaque nœud a au plus deux fils. Cours d'[[Cours/Informatique/Algo/_index|Algo]].
@@ -45,9 +45,9 @@ Le traitement de tous les nœuds se programme par récursion.
 
 | Parcours | Ordre |
 |---|---|
-| Préfixe | racine, sous-arbre gauche, sous-arbre droit |
-| Infixe | sous-arbre gauche, racine, sous-arbre droit |
-| Postfixe | sous-arbre gauche, sous-arbre droit, racine |
+| [[Parcours préfixe\|Préfixe]] | racine, sous-arbre gauche, sous-arbre droit |
+| [[Parcours infixe\|Infixe]] | sous-arbre gauche, racine, sous-arbre droit |
+| [[Parcours postfixe\|Postfixe]] | sous-arbre gauche, sous-arbre droit, racine |
 
 Sur l'arbre parfait de hauteur 2 de racine 1 (fils 2 et 5, petits-fils 3, 4, 6, 7) : préfixe 1 2 3 4 5 6 7, infixe 3 2 4 1 6 5 7, postfixe 3 4 2 6 7 5 1.
 
@@ -58,6 +58,10 @@ Sur l'arbre parfait de hauteur 2 de racine 1 (fils 2 et 5, petits-fils 3, 4, 6, 
 - Les arbres sont des [[Graphe non orienté|graphes non orientés]] acycliques et connexes.
 - Le coût d'un parcours ou d'une hauteur se calcule avec le [[Calcul de complexité et théorème de résolution]].
 
+## Graph theory (Year 4)
+
+Le diaporama de révision [[2 - tree revisions années précédentes]] définit l'arbre binaire comme un [[Arbre numéroté|arbre numéroté]] d'arité 2 et le décrit comme [[Type abstrait de données|type abstrait]] `ArbreBinaire d'Élément` : `creerArbreBinaire`, `modifierRacine`, `ajouterFilsDroit` / `ajouterFilsGauche`, `supprimerFilsDroit` / `supprimerFilsGauche` (le fils doit être une feuille), `existeFilsDroit` / `existeFilsGauche`, `filsDroit` / `filsGauche`, `racine`, `estFeuille`, chacune avec sa [[Précondition et postcondition|précondition et sa postcondition]]. Son exemple de parcours (1 → 2, 8 ; 2 → 3, 6 ; 3 → 4, 5 ; 6 → 7 ; 8 → 9, 10) donne en préfixe 1 à 10 dans l'ordre, en postfixe 4, 5, 3, 7, 6, 2, 9, 10, 8, 1, en infixe 4, 3, 5, 2, 6, 7, 1, 9, 8, 10. Le nombre de formes d'arbres binaires à $n$ nœuds est le [[Nombre de Catalan|nombre de Catalan]] $C_n$ (complément).
+
 Notion parente : [[Arbre m-aire]].
 
-Résumés : [[4 - Arbres binaires|Chapitre 4]], [[3 - Arbres|Chapitre 3]], [[5 - ABR]]
+Résumés : [[4 - Arbres binaires|Chapitre 4]], [[3 - Arbres|Chapitre 3]], [[5 - ABR]], [[2 - tree revisions années précédentes]]

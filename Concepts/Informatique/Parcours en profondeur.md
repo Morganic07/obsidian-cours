@@ -4,12 +4,12 @@ tags: [year4]
 aliases: [DFS, depth first search]
 matieres: [graph theory]
 sources: ["[[4 - oriented graphs|chp4 - oriented graphs]]", "[[Raw/Year 4/graph theory/chp4 - oriented graphs.docx|chp4 - oriented graphs]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 Parcours récursif d'un graphe : marquer le sommet, l'afficher, puis appeler le parcours sur chaque fils non visité. Depuis le sommet 0, l'exemple à sept sommets du cours peut donner 0, 2, 1, 5, 4. Complexité $O(|V| + |E|)$ : chaque sommet et chaque arête sont traités une fois.
 
-Pour le parcours en profondeur d'un arbre, voir [[Arbre binaire]].
+Pour le parcours en profondeur d'un arbre, voir [[Arbre binaire]] et [[2 - tree revisions années précédentes]] : on explore une branche jusqu'au bout avant de passer à la suivante (les fils avant les frères), en trois variantes selon le moment où l'on visite le nœud, [[Parcours préfixe|préfixe]], [[Parcours postfixe|postfixe]] et [[Parcours infixe|infixe]] (arbre binaire seulement). Dans un arbre, inutile de marquer les sommets : chaque nœud n'est atteint que par son père (complément, hors du cours).
 
 ## Compléments (hors du cours)
 
@@ -23,4 +23,4 @@ Pour le parcours en profondeur d'un arbre, voir [[Arbre binaire]].
 
 Notion parente : [[Graphe orienté]]. Voir aussi : [[Parcours en largeur]], [[Récursivité]], [[Liste d'adjacence]], [[Algorithme de Tarjan]].
 
-Résumés : [[4 - oriented graphs]]
+Résumés : [[4 - oriented graphs]], [[2 - tree revisions années précédentes]]

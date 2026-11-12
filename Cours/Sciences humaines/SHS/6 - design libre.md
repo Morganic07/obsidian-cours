@@ -4,11 +4,11 @@ tags:
   - year4
 sources:
   - "[[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]]"
-maj: 2026-11-10
+maj: 2026-11-12
 complet: true
 ---
 
-Résumé de [[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]], dans [[Cours/Sciences humaines/SHS/_index|SHS]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels de chaque membre (liens non repris ici). Tout le contenu est celui du groupe d'étudiants : hypothèses et plan de travail, pas un cours. La note ne contient aucune image.
+Résumé de [[Raw/Year 4/SHS/Prise de note SHS.docx|Prise de note SHS]], dans [[Cours/Sciences humaines/SHS/_index|SHS]]. Note de travail d'un groupe d'étudiants sur l'enquête « design libre et en commun » ([[Open design]]). Elle renvoie à des documents de recherche personnels de chaque membre (liens non repris ici). Le contenu est celui du groupe d'étudiants (hypothèses et plan de travail), sauf le contexte de l'enquête recopié à la fin, tiré de l'énoncé du cours (voir [[#Contexte de l'enquête]]). La note ne contient aucune image.
 
 ## Problématique
 
@@ -73,24 +73,30 @@ Retour d'un enseignant noté par le groupe : la partie insiste trop sur le freem
 **Le vrai design libre** : quand les fichiers partagés sont du [[Code source|code source]] ou des fichiers sources ([[Blender]] Studio, [[GitHub]], [[Penpot]]…).
 - Les bibliothèques d'icônes comme **[[Lucide]]** ou l'outil de conception web **[[Penpot]]** fonctionnent bien comme communs : ce sont des fichiers techniques simples (des lignes de code), et n'importe quel designer peut corriger un trait ou ajouter une lettre en ligne.
 
-### 3) Gouverner le design en commun
+**L'[[Gouvernance par l'expertise|illusion de l'inclusion]] : la confiscation du design par l'ingénierie** (sous-partie déplacée de la partie 3 vers la partie 2)
+- Design sous tutelle technique : contribuer à des projets collaboratifs (**[[Blender]]**, **[[OpenFisca]]**) exige des compétences en développement ([[Langage Python|Python]], mathématiques, [[Git]]).
+- Ces développeurs sont rarement formés au design et les profils purement graphiques sont exclus de ces projets : on obtient des projets très complexes, d'un haut niveau d'ingénierie, mais à l'[[Interface graphique|interface]] désagréable, faute de designers ayant les compétences pour travailler sur des projets aussi complexes (voir [[Design d'interface]], [[Ergonomie]]).
 
-*Qui a vraiment le pouvoir sur la forme ?*
+**Transition vers la partie 3** (à rédiger) : un membre du groupe rappelait que ces projets doivent être stockés et hébergés, ce qui pose la question de leur financement.
+
+### 3) Financer le design en commun
 
 1. **Le paradoxe économique : financer sans privatiser**
    - Fragilité du modèle 100 % gratuit fondé sur les dons.
    - Compromis du [[Financement participatif|financement participatif conditionnel]] : le système « Vault » de **[[Poly Haven]]** bloque l'accès aux assets lourds (3D, [[Imagerie à grande gamme dynamique|HDRI]]) derrière un mur payant temporaire ([[Patreon]]), et ne libère le commun pour tous que lorsque la création est rentabilisée par la communauté.
-2. **L'[[Gouvernance par l'expertise|illusion de l'inclusion]] : la confiscation du design par l'ingénierie**
-   - Design sous tutelle technique : contribuer à des projets collaboratifs (**[[Blender]]**, **[[OpenFisca]]**) exige des compétences en développement ([[Langage Python|Python]], mathématiques, [[Git]]).
-   - Ces développeurs sont rarement formés au design et les profils purement graphiques sont exclus de ces projets : on obtient des projets d'un haut niveau d'ingénierie mais à l'[[Interface graphique|interface]] désagréable, faute de designers ayant les compétences pour travailler sur des projets aussi complexes (voir [[Design d'interface]], [[Ergonomie]]).
-3. **Question : les projets [[Licences libres|open source]] et les communs numériques sont-ils voués à être pris par des entreprises privées qui développeront un meilleur produit et le commercialiseront ?** (renvoi aux recherches d'un membre du groupe)
-   - À retenir : [[Google]] ne cherche pas à vendre [[Kubernetes]] ; il dépense de l'argent pour que Kubernetes devienne le standard gratuit de toute l'industrie, parce que tout le monde doit ensuite lui acheter du stockage et de la puissance de calcul ([[Cloud computing|cloud]]).
-   - Conclusion : l'idée que les communs seraient « voués à être pris » ne tient qu'une fois reformulée : **la capture de la valeur financière d'un commun numérique qui n'est protégé ni par une licence stricte (comme l'[[GNU Affero General Public License|AGPL]]) ni par un modèle de gouvernance fort finit dans les poches de ceux qui contrôlent l'infrastructure d'hébergement ou de distribution.**
-   - Ce point doit servir de transition vers la partie 4 (exemple de [[Conteneur (informatique)|Docker]]).
+2. **L'illusion du vol du commun**
+   - On imagine souvent qu'une entreprise privée veut voler un projet libre pour le fermer et le vendre. En réalité, les géants de la tech ont souvent intérêt à maintenir le [[Communs numériques|commun]] gratuit et vivant.
+   - L'exemple de [[Google]] et de [[Kubernetes]] : Google a créé Kubernetes, publié sous [[Licence Apache|licence Apache 2.0]] comme Docker Swarm, l'[[Orchestration de conteneurs|orchestrateur]] de [[Conteneur (informatique)|Docker]] ; il ne l'a pas tiré du code source de Docker Swarm, mais de l'expérience de ses systèmes internes (Borg, Omega). [[Erreurs du cours#^e-6-design-libre|✎]] Selon la note, Google paie des développeurs pour entretenir Kubernetes et le projet Docker. Kubernetes est pourtant gratuit : Google veut qu'il devienne le standard de toute l'industrie, car une fois ce standard gratuit adopté par tous, les entreprises doivent acheter de la puissance de calcul et du stockage sur Google Cloud ([[Cloud computing|cloud]]).
+   - À retenir : Google ne cherche pas à vendre Kubernetes ; il dépense de l'argent pour qu'il devienne le standard gratuit de l'industrie, parce que tout le monde doit ensuite lui acheter du stockage et de la puissance de calcul.
+   - Conclusion : **la capture de la [[Valeur ajoutée|valeur]] financière d'un commun numérique qui n'est pas protégé par une licence stricte (comme l'[[GNU Affero General Public License|AGPL]]) finit irrémédiablement dans les poches de ceux qui contrôlent l'infrastructure d'hébergement ou de distribution.**
 
-### 4) La vulnérabilité des communs numériques face à l'IA et aux entreprises
+**Transition vers la partie 4** (rédigée par le groupe) : la partie 3 montre que les entreprises privées capturent la valeur des communs en louant l'infrastructure (serveurs, cloud). Avec l'[[Intelligence artificielle|intelligence artificielle]], cette capture change de nature : les entreprises ne se contentent plus de louer des serveurs autour du design libre, elles s'en servent pour aspirer directement les créations libres (illustrations, 3D, [[Typographie|typographies]]) afin d'entraîner leurs propres modèles d'IA ([[Jeu de données d'entraînement]]).
+
+### 4) La vulnérabilité des communs numériques face à l'IA
 
 Titre marqué « à préciser ». Proposition de titre : *Les limites de la réutilisation des créations en open design à l'ère de l'IA*.
+
+Question directrice : lorsqu'un designer partage une création dans une logique de commun, peut-il anticiper et contrôler sa réutilisation dans l'entraînement d'une intelligence artificielle ?
 
 Exemples potentiels à étudier :
 
@@ -127,8 +133,8 @@ Exemples potentiels à étudier :
 Le groupe veut en réunir deux.
 
 - **Et l'écologie ?** Héberger des bibliothèques mondiales de [[Texture (arts visuels)|textures]] 8K, synchroniser des [[Forge logicielle|forges collaboratives]] et alimenter les serveurs des modèles d'IA exige une infrastructure physique ([[Centre de données|data centers]]) très lourde. Les communs numériques peuvent-ils être qualifiés de « bien commun » s'ils participent à l'épuisement des ressources communes de la planète ([[Terres rares|terres rares]], eau, énergie) ? Voir [[Consommation énergétique de l'IA]].
-- **Faut-il fermer le libre pour le sauver ?** Face au pillage par les algorithmes, des collectifs imaginent des licences restrictives, dites « anti-IA » ou « éthiques » (voir [[Licence anti-IA]]). Mais restreindre les droits d'utilisation détruit le principe fondateur du [[Logiciel libre|logiciel libre]] (liberté d'usage absolue, pour tous, sans discrimination). Le design en commun ne peut-il survivre qu'en devenant exclusif et fermé ?
-- **Fuite inévitable vers le [[Logiciel propriétaire|propriétaire]]** : la précarité financière oblige des collectifs comme [[Poly Haven]] à séquestrer temporairement leurs œuvres (Vault). Les talents majeurs de l'open source finissent souvent recrutés ou absorbés par les géants de la tech (Adobe, [[Figma]], [[Google]]). Le design en commun n'est-il qu'un incubateur de talents non rémunéré, un terrain de repérage gratuit pour les [[Monopole|monopoles]] propriétaires ?
+- **Faut-il fermer le libre pour le sauver ?** Face au pillage par les algorithmes, des collectifs imaginent des licences restrictives, dites « anti-IA » ou « éthiques » (voir [[Licence anti-IA]]) : pour protéger le travail des designers, faudra-t-il interdire l'usage du commun à certains acteurs commerciaux ? Mais restreindre les droits d'utilisation détruit le principe fondateur du [[Logiciel libre|logiciel libre]] (liberté d'usage absolue, pour tous, sans discrimination). Le design en commun ne peut-il survivre qu'en devenant exclusif et fermé ?
+- **Fuite inévitable vers le [[Logiciel propriétaire|propriétaire]]** : la précarité financière oblige des collectifs comme [[Poly Haven]] à séquestrer temporairement leurs œuvres (Vault). Les talents majeurs de l'open source finissent souvent recrutés ou absorbés par les géants de la tech (Adobe, [[Figma]], [[Google]]). Le design en commun n'est-il qu'un incubateur de talents non rémunéré, un terrain de repérage gratuit où les [[Monopole|monopoles]] propriétaires viennent recruter leurs futurs directeurs artistiques quand ceux-ci ne parviennent plus à payer leur loyer ?
 
 **Ouverture fusionnée : le design libre peut-il survivre sans renoncer à son ouverture ?**
 
@@ -171,7 +177,30 @@ Gabarit de rendu recopié dans la note :
 
 (La numérotation du gabarit saute de 1 à 4.)
 
+## Contexte de l'enquête
+
+Section ajoutée à la fin de la note, sous le titre « Contexte » : le groupe commence à y rédiger l'introduction du rapport, puis recopie l'énoncé du cours.
+
+Début de rédaction du groupe (inachevé) : le rapport d'enquête porte sur les [[Communs numériques|communs numériques]], et plus particulièrement sur le design lui-même comme commun numérique ; il a été produit dans le cadre d'un cours de SHS par des étudiantes de 4e année de la formation ingénieur informatique-designer de CY école de design. Le cours vise à appréhender les usages, formes et stratégies du design mis en place dans le contexte du [[Logiciel libre|libre]] numérique, et s'est déroulé en plusieurs séances (deux phrases laissées inachevées).
+
+Énoncé du cours :
+
+- **Cadre** : enquête sur les articulations du design avec les [[Logiciel libre|logiciels libres]] et les [[Communs numériques|communs numériques]], menée du 03/09/2026 au 04/01/2027 avec les élèves de 4e année de la formation designer-ingénieur de CY école de design.
+- **Objectif** : appréhender les imaginaires, les usages réels et fantasmés, les manières de faire, les stratégies et pratiques, et la (re)configuration de la pratique par le design (ou non) des logiciels libres et des communs numériques, en menant une enquête auprès de professionnel·les du design et des communautés du libre.
+- **Forme** : le cours est organisé en [[Workshop (design)|workshop]]. Il documente les positions, perceptions et pratiques des designers et les analyse à partir d'[[Entretien semi-directif|entretiens]], d'[[Observation de terrain|observations]] et d'expérimentations ([[Enquête qualitative et quantitative|enquête qualitative]]).
+- **Enjeu** : comprendre comment le design et les communs se rencontrent : ce que le design fait ou peut faire pour les logiciels libres et les communs numériques, et ce que ceux-ci font ou peuvent faire pour le design. L'enquête doit déboucher sur des hypothèses, c'est-à-dire des propositions concrètes et des manières de faire du design avec les logiciels libres et les communs numériques ([[Open design]]).
+- **Filiation** : l'enquête s'inscrit dans l'histoire longue de la dimension sociale et politique du design ([[Design social]]) :
+  - la critique du [[Design industriel|design industriel]] par Victor Papanek ([[Design for the Real World]], voir [[Responsabilité élargie du designer]]) ;
+  - les plans de meubles librement reproductibles d'Enzo Mari ([[Autoprogettazione]]) ;
+  - la [[Convivialité (Illich)|convivialité des outils]] d'Ivan Illich ;
+  - le design pensé comme prudence par Pierre-Damien Huyghe.
+
+  La filiation entre ces positions et la culture du libre est une hypothèse de travail à éprouver, pas un acquis.
+- **L'IA, objet transversal** : l'[[Intelligence artificielle|intelligence artificielle]] traverse ces questions et concerne les quatre axes de l'enquête. Chaque groupe doit examiner ses effets, positifs comme négatifs, sur l'utilisation et la fabrication des logiciels libres et des communs numériques : aspiration du [[Code source|code]] ([[Jeu de données d'entraînement]]), facilitation des contributions, déplacement de la reconnaissance du travail contributif…
+- **Restitution** : consultable en ligne, publiée sur un commun numérique (par exemple Conviviel, ou [[Les Bases du numérique d'intérêt général]]), sous [[Licences libres|licence libre]], et réalisée autant que possible avec des outils libres. Forme libre ([[Site web|site web]], [[Wiki|wiki]], [[Éditeur de texte collaboratif|pad]], [[Podcast|podcast]], vidéo…), mais cohérente avec le sujet.
+- **Évaluation** : la réflexion sur la forme (ce qu'elle rend visible, ce qu'elle simplifie, ce qu'elle occulte, ses contraintes éditoriales, techniques et juridiques) compte autant que la rigueur de l'enquête et la solidité de l'analyse.
+
 ## Points à signaler
 
 - Le plan détaillé compte quatre parties alors que le gabarit en demande trois.
-- « Google paie des milliers de développeurs » pour maintenir Kubernetes : chiffre sans source dans la note.
+- « Google paie des milliers de développeurs » pour maintenir Kubernetes, et des développeurs pour « le projet Docker » : affirmations sans source dans la note.

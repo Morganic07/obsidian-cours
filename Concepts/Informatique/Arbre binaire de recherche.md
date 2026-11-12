@@ -1,10 +1,10 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, year4]
 aliases: [arbre binaire de recherche, arbres binaires de recherche, ABR, binary search tree, BST, successeur dans un ABR, get_successor]
 matieres: [Algo]
 sources: ["[[Raw/Year 2/Algo/Cours/Chapitre5-ABR.pdf|Chapitre5-ABR.pdf]]", "[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 Un arbre binaire de recherche (ABR) est un [[Arbre binaire]] dont les clés sont ordonnées : pour chaque nœud, les clés du sous-arbre gauche sont inférieures à la sienne et celles du sous-arbre droit supérieures. Tout sous-arbre d'un ABR est lui-même un ABR (`fils-gauche < parent < fils-droit`). Doublons : la première diapositive du chapitre 5 admet l'égalité (clés « inférieure (ou égale) » à gauche, « supérieure (ou égale) » à droite), les suivantes écrivent des inégalités strictes, et le code `insert` ignore une valeur égale. Cours d'[[Cours/Informatique/Algo/_index|Algo]].
@@ -32,6 +32,10 @@ Le coût d'une opération dépend de la hauteur de l'arbre (complément : un ABR
 - **Tri par ABR** : insérer les $n$ valeurs puis faire un parcours infixe donne la liste triée, en $O(n \log n)$ en moyenne et $O(n^2)$ dans le pire cas (entrée déjà triée).
 - **Suppression à deux enfants** : le successeur (minimum du sous-arbre droit) n'a pas de fils gauche, sinon ce fils serait plus petit ; on le retire donc par l'un des deux cas simples. On peut symétriquement utiliser le prédécesseur (maximum du sous-arbre gauche), qui n'a pas de fils droit.
 
-Notion parente : [[Arbre binaire]]. Voir aussi : [[Arbre AVL]], [[Arbre rouge-noir]], [[B-arbre]].
+## Graph theory (Year 4)
 
-Résumés : [[5 - ABR]], [[3 - Arbres]], [[6 - AVL]]
+Le diaporama de révision [[2 - tree revisions années précédentes]] reprend l'ABR à éléments uniques (valeurs du sous-arbre gauche $<$ racine $<$ valeurs du sous-arbre droit, tout sous-arbre est un ABR), avec l'exemple 8 ; 3, 10 ; 1, 6, 14 ; 4, 7, 13. Recherche récursive en $O(\log n)$ si l'arbre est [[Arbre équilibré|équilibré]], $O(n)$ s'il est [[Arbre dégénéré|dégénéré]] ; insertion en feuille (ajouts de 2 et 9) ; suppression d'une feuille (13), d'un nœud à un fils (1) et d'un nœud à deux fils (la racine 8, remplacée par son successeur 9).
+
+Notion parente : [[Arbre binaire]]. Voir aussi : [[Arbre AVL]], [[Arbre rouge-noir]], [[B-arbre]], [[Parcours infixe]].
+
+Résumés : [[5 - ABR]], [[3 - Arbres]], [[6 - AVL]], [[2 - tree revisions années précédentes]]

@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year2
+  - year4
 aliases:
   - LIFO
   - FIFO
@@ -22,7 +23,7 @@ matieres:
 sources:
   - "[[2 - piles listes file|chp2 - piles listes file]]"
   - "[[1 - récursivité et complexité|Chp1 - récursivité et complexité]]"
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 | | Pile | File |
@@ -53,4 +54,6 @@ f.popleft()                    # défiler : "a"
 
 Liens : [[Liste chaînée]], [[Récursivité]], [[Parcours en profondeur]], [[Parcours en largeur]], [[Ordonnancement des processus]], [[Tampon (buffer)]]
 
-Résumés : [[2 - piles listes file]], [[1 - récursivité et complexité]]
+En graph theory, [[2 - tree revisions années précédentes]] réalise le [[Parcours en largeur|parcours en largeur]] d'un arbre avec une file (racine d'abord, puis les fils de chaque nœud retiré en tête) ; ses compléments écrivent le [[Parcours préfixe|parcours préfixe]] sans récursivité avec une pile, et distinguent la file ordinaire de la [[File de priorité|file de priorité]].
+
+Résumés : [[2 - piles listes file]], [[1 - récursivité et complexité]], [[2 - tree revisions années précédentes]]

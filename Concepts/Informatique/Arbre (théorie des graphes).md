@@ -4,7 +4,7 @@ tags: [year2, year4]
 aliases: [arbre (graphe), propriétés des arbres, acyclic connected graph]
 matieres: [Algo, graph theory]
 sources: ["[[Raw/Year 2/Algo/Cours/Chapitre3-Arbres.pdf|Chapitre3-Arbres.pdf]]", "[[2 - tree|Chp2 - tree]]"]
-maj: 2026-11-08
+maj: 2026-11-12
 ---
 
 Graphe non orienté connexe et sans cycle.
@@ -33,4 +33,6 @@ Comme structure de données, l'arbre est non linéaire, naturellement récursif 
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Cycle (graphe)]], [[Arborescence (graphe)]], [[Arbre binaire]], [[Arbre couvrant minimal]], [[Forêt (graphe)]], [[Vocabulaire des arbres]], [[Pont (graphe)]], [[Degré d'un sommet]], [[Graphe simple]].
 
-Résumés : [[3 - Arbres]], [[2 - tree]]
+**Diaporama de révision** ([[2 - tree revisions années précédentes]]) : un arbre est un graphe orienté ou non, connexe et sans cycle ; il en donne aussi une définition [[Récursivité|récursive]] (une racine reliée à des [[Sous-arbre|sous-arbres]]) et distingue l'arbre non enraciné de l'[[Arborescence (graphe)|arbre enraciné]].
+
+Résumés : [[3 - Arbres]], [[2 - tree]], [[2 - tree revisions années précédentes]]

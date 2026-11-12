@@ -4,7 +4,7 @@ tags: [year4]
 aliases: [responsabilité élargie, soutenabilité, responsabilité morale du designer]
 matieres: [culture du soin]
 sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
-maj: 2026-11-10
+maj: 2026-11-12
 ---
 
 Le cours de culture du soin présente la soutenabilité comme une responsabilité élargie, qui va du choix de conception à ses conséquences écologiques, sociales et intergénérationnelles. Repères cités :
@@ -34,4 +34,6 @@ Voir aussi : [[Limites planétaires]], [[Anthropocène]], [[Principe responsabil
 
 En culture du vivant, les compléments de [[5 - Culture du vivant]] rappellent la critique de Papanek contre le design industriel au service de la consommation, à propos de la place du design dans la crise écologique.
 
-Résumés : [[1 - culture du soin]], [[5 - Culture du vivant]]
+En SHS, l'énoncé de l'enquête sur le design libre cite la critique du design industriel par Papanek ([[Design for the Real World]]) parmi les sources de la dimension sociale et politique du design ([[6 - design libre]]).
+
+Résumés : [[1 - culture du soin]], [[5 - Culture du vivant]], [[6 - design libre]]

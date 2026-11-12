@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year1]
+tags: [year1, year4]
 aliases: [dynamic programming]
 sources: ["[[Raw/Year 1/Algo Maths/explications DM d'algo .docx|explications DM d'algo]]"]
-maj: 2026-11-07
+maj: 2026-11-12
 ---
 
 **Définition (complément, hors du cours)** : la programmation dynamique est une méthode de résolution des problèmes d'optimisation qui se décomposent en sous-problèmes qui se chevauchent : on résout chaque sous-problème une seule fois et on mémorise son résultat dans un tableau, au lieu de le recalculer à chaque appel [[Récursivité|récursif]]. Elle suppose que la solution optimale se construit à partir des solutions optimales des sous-problèmes. Pour le [[Problème du sac à dos]] en nombres entiers, on remplit ainsi un tableau des meilleures valeurs atteignables avec les $i$ premiers objets et une capacité $w$, en temps proportionnel au nombre d'objets multiplié par la capacité.
@@ -12,6 +12,8 @@ maj: 2026-11-07
 
 Nommée dans le DM du sac à dos sans définition : la section qui l'annonce est restée vide (« Je fais plus tard »).
 
+En Graph theory (année 4), [[4 - bellman ford]] en donne un exemple complet : l'[[Algorithme de Bellman-Ford]] définit les sous-problèmes $OPT(i, v)$ (plus court chemin de $s$ à $v$ en au plus $i$ arcs), leur récurrence, et les calcule de $i = 0$ à $n - 1$ dans un tableau ; l'[[Algorithme de Floyd-Warshall]] y est cité comme autre exemple. Voir aussi [[Principe d'optimalité de Bellman]].
+
 Notion parente : [[Problème du sac à dos]]. Voir aussi : [[Récursivité]].
 
-Résumés (rapprochement, complément hors du cours) : [[1 - récursivité et complexité]]
+Résumés : [[4 - bellman ford]] ; rapprochement (complément hors du cours) : [[1 - récursivité et complexité]]

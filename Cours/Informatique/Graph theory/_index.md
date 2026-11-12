@@ -8,10 +8,13 @@ sources:
   - "[[3 - complexité|chp3 - complexité]]"
   - "[[4 - oriented graphs|chp4 - oriented graphs]]"
   - "[[0 - Graph - Python|Graph - Python]]"
-maj: 2026-11-08
+  - "[[2 - tree revisions années précédentes|Chp2 - tree revisions années précédentes]]"
+  - "[[4 - bellman ford|chp4 - bellman ford]]"
+  - "[[4 - dijkstra|chp4 - dijkstra]]"
+maj: 2026-11-12
 ---
 
-Théorie des graphes : graphes non orientés, arbres, complexité des algorithmes, graphes orientés, et un TP Python. Les 5 notes sont intégrées. Cours en anglais, sauf le chapitre de complexité en français.
+Théorie des graphes : graphes non orientés, arbres, complexité des algorithmes, graphes orientés, et un TP Python, plus trois suppléments de cours en PDF (arbres et arbres binaires de recherche, algorithmes de Bellman-Ford et de Dijkstra). Les 8 documents sont intégrés. Cours en anglais, sauf le chapitre de complexité et les suppléments, en français.
 
 ## Parcours
 
@@ -23,12 +26,24 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 | [[4 - oriented graphs\|chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[4 - oriented graphs\|Résumé]] |
 | [[0 - Graph - Python\|Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[0 - Graph - Python\|Résumé]] |
 
+### Suppléments de cours
+
+Diaporamas rangés dans `Suppléments de cours (tree, algo...)` : deux du cours d'algorithmique de 1re année d'ingénieur de CY Tech (2020-2021), un d'Aix-Marseille Université (2023-2024).
+
+| Note | Sujet | Résumé |
+|---|---|---|
+| [[2 - tree revisions années précédentes\|Chp2 - tree revisions années précédentes]] | Terminologie, parcours, opérations, arbres binaires de recherche | [[2 - tree revisions années précédentes\|Résumé]] |
+| [[4 - bellman ford\|chp4 - bellman ford]] | Plus courts chemins, programmation dynamique, routage | [[4 - bellman ford\|Résumé]] |
+| [[4 - dijkstra\|chp4 - dijkstra]] | Dijkstra, exemple déroulé, deux exercices | [[4 - dijkstra\|Résumé]] |
+
 ## Concepts
 
 - **Graphes non orientés (chapitre 1)** : [[Graphe non orienté]], [[Sommet et arête]], [[Degré d'un sommet]], [[Graphe simple]], [[Graphe sous-jacent]], [[Graphe complet]], [[Graphe régulier]], [[Graphe biparti]], [[Graphe planaire]], [[Graphe pondéré]], [[Sous-graphe]], [[Isomorphisme de graphes]], [[Matrice d'adjacence]], [[Chaîne (graphe)]], [[Cycle (graphe)]], [[Graphe connexe]]
 - **Arbres (chapitre 2)** : [[Arbre (théorie des graphes)]], [[Forêt (graphe)]], [[Pont (graphe)]], [[Arbre couvrant minimal]], [[Algorithme glouton]], [[Algorithme de Kruskal]]
 - **Complexité (chapitre 3)** : [[Complexité algorithmique]], [[Classe de complexité]], [[Calcul de complexité et théorème de résolution]], [[Recherche séquentielle]], [[Recherche dichotomique]], [[Tri par sélection]], [[Tri par insertion]], [[Produit matriciel]], [[Tours de Hanoï]]
 - **Graphes orientés (chapitre 4)** : [[Graphe orienté]], [[Chemin (graphe)]], [[Parcours en profondeur]], [[Parcours en largeur]], [[Composante fortement connexe]], [[Algorithme de Tarjan]]
+- **Arbres, supplément** : [[Arbre ordonné]], [[Arbre numéroté]], [[Arbre m-aire]], [[Arbre binaire]], [[Sous-arbre]], [[Hauteur d'un arbre]], [[Parcours préfixe]], [[Parcours infixe]], [[Parcours postfixe]], [[Pile et file]], [[Type abstrait de données]], [[Précondition et postcondition]], [[Arbre binaire de recherche]], [[Arbre équilibré]], [[Arbre dégénéré]], [[File de priorité]], [[Nombre de Catalan]]
+- **Plus courts chemins, suppléments** : [[Plus court chemin]], [[Algorithme de Dijkstra]], [[Algorithme de Bellman-Ford]], [[Algorithme de Floyd-Warshall]], [[Algorithme de Johnson]], [[Algorithme SPFA]], [[Algorithme A étoile]], [[Relâchement d'un arc]], [[Circuit absorbant]], [[Arbre des plus courts chemins]], [[Programmation dynamique]], [[Principe d'optimalité de Bellman]], [[Tas de Fibonacci]], [[Routage à vecteur de distances]], [[Routage à état de liens]], [[Comptage à l'infini]]
 - **TP Python** : [[Dictionnaire (Python)]], [[Union-Find]]
 - **Ajoutés par l'enrichissement** : [[Lemme des poignées de main]], [[Liste d'adjacence]], [[Graphe eulérien]], [[Algorithme de Prim]], [[Table de hachage]], [[Classes P et NP]], [[Tri topologique]]
 
@@ -38,6 +53,8 @@ Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 
 - [[3 - complexité]] : $O(m \cdot n)$ n'est pas linéaire (quadratique si $m = n$) ; avec `range(n)`, `somme_1` calcule $0 + \ldots + (n-1)$, alors que `somme_2` calcule $1 + \ldots + n$.
 - [[1 - Undirected graph]] : un graphe biparti demande deux parties non vides ; une arête seule ($K_{1,1}$) suffit.
+- [[2 - tree revisions années précédentes]] : avec une profondeur comptée en arcs, la hauteur minimale d'un arbre binaire à $n$ nœuds est $\lfloor \log_2 n \rfloor$, pas $\lfloor \log_2 n \rfloor + 1$ (nombre de niveaux).
+- [[4 - bellman ford]] : un circuit négatif n'empêche les plus courts chemins que vers les sommets qu'il permet d'atteindre.
 
 ## Liens avec les autres matières
 

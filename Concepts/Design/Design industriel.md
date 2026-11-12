@@ -11,7 +11,7 @@ matieres:
   - Anglais
 sources:
   - "Global Exam Vocab, dans Raw/Year 2/Anglais (exclu du miroir)"
-maj: 2026-11-10
+maj: 2026-11-12
 ---
 
 Modern industrial design : usage contemporain du design industriel, celui des cent dernières années, et non les usages traditionnels de la première révolution industrielle.
@@ -20,6 +20,8 @@ Anti-ornate : contraire de l'orné, plus moderne. Le glossaire donne le Bauhaus 
 
 En Culture du vivant (4e année), le cours rappelle qu'historiquement le design, c'est le design industriel : le design est apparu avec la [[Révolution industrielle|révolution industrielle]] et a accompagné son développement ([[5 - Culture du vivant]]).
 
+En SHS (4e année), l'énoncé de l'enquête sur le design libre cite la critique du design industriel par Victor Papanek ([[Design for the Real World]]) comme jalon de la dimension sociale et politique du design ([[6 - design libre]]).
+
 Voir aussi : [[Bauhaus]], [[Dessin technique]], [[Écoconception]].
 
-Résumés : [[5 - Culture du vivant]]. Rapprochements (complément, hors du cours) : [[1 - Peinture]], [[1 - culture du soin]]
+Résumés : [[5 - Culture du vivant]], [[6 - design libre]]. Rapprochements (complément, hors du cours) : [[1 - Peinture]], [[1 - culture du soin]]
