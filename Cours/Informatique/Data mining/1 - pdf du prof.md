@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"]
+sources: ["[[Raw/Year 4/data mining/chp 1 - cours data mining du prof.pdf|chp 1 - cours data mining du prof.pdf]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé du PDF cours data mining du prof ([[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]) (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Cours/Informatique/Data mining/_index|Data mining]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[1 - intro to data mining]] résume la note ; ce PDF ajoute des diapositives (processus, CART détaillé, exercices). Les figures ont été ouvertes et sont intégrées ci-dessous. Les passages ajoutés finissent par ⓘ.
+Résumé du PDF cours data mining du prof ([[Raw/Year 4/data mining/chp 1 - cours data mining du prof.pdf|chp 1 - cours data mining du prof.pdf]]) (73 diapositives beamer, « Introduction to Data Mining », daté du 30 septembre 2026, ID4 Introduction to Machine Learning), dans [[Cours/Informatique/Data mining/_index|Data mining]]. Le cours est en anglais, avec la dernière partie en français. C'est la version du cours dont [[1 - intro to data mining]] résume la note ; ce PDF ajoute des diapositives (processus, CART détaillé, exercices). Les figures ont été ouvertes et sont intégrées ci-dessous. Les passages ajoutés finissent par ⓘ.
 
 Plan : 1. Introduction ; 2. Clustering & partitioning ; 3. Decision trees and random forest (ID3, CART) ; 4. Combinaison de plusieurs modèles (bagging, boosting, random forest).
 

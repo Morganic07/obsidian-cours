@@ -10,8 +10,8 @@ maj: 2026-11-07
 
 ## Dans le cours
 
-Nommée dans l'introduction au data mining sans définition : les séries temporelles y sont citées parmi les tâches prédictives, sans détail.
+Nommée dans l'introduction au data mining sans définition : les séries temporelles y sont citées parmi les tâches prédictives, sans détail. Le schéma des tâches de [[2 - association rules]] la range de même parmi les tâches prédictives (*Time Series Analysis*).
 
-Notion parente : [[Apprentissage automatique]].
+Notion parente : [[Apprentissage automatique]]. Voir aussi : [[Extraction de motifs séquentiels]].
 
-Résumés : [[1 - intro to data mining]]
+Résumés : [[1 - intro to data mining]], [[2 - association rules]]

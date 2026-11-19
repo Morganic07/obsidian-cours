@@ -20,4 +20,6 @@ Sur un arbre, [[2 - tree revisions années précédentes]] le décrit par niveau
 
 Notion parente : [[Graphe orienté]]. Voir aussi : [[Parcours en profondeur]], [[Pile et file]].
 
-Résumés : [[4 - oriented graphs]], [[2 - tree revisions années précédentes]]
+**En data mining**, l'[[Algorithme Apriori]] est présenté comme une recherche en largeur (*breadth-first search*) dans l'espace des itemsets : il traite tous les itemsets de longueur $k$ avant de générer les candidats de longueur $k+1$ ([[2 - association rules]]).
+
+Résumés : [[4 - oriented graphs]], [[2 - tree revisions années précédentes]], [[2 - association rules]]

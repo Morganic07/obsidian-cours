@@ -3,6 +3,7 @@ type: concept
 tags:
   - year2
   - year3
+  - year4
 aliases:
   - conditional probability
   - probabilités totales
@@ -50,4 +51,6 @@ Pour $P(B) > 0$, $P(A|B) = P(A \cap B)/P(B)$ est la probabilité de $A$ sachant 
 
 Liens : [[Espace probabilisé]], [[Événements incompatibles]], [[Équiprobabilité]], [[Dénombrement]], [[Vraisemblance]]
 
-Résumés : [[2 - Conditional proba and independence]], [[0 - proba&stats utilitaire]]
+**En data mining (Year 4)**, la [[Confiance (règle d'association)|confiance]] d'une règle d'association est une probabilité conditionnelle estimée sur une base de transactions : $\text{confidence}(A \Rightarrow B) = P(B \mid A) = P(A \cup B)/P(A)$, où $P(X)$ est la proportion des transactions qui contiennent les items $X$ ([[2 - association rules]]).
+
+Résumés : [[2 - Conditional proba and independence]], [[0 - proba&stats utilitaire]], [[2 - association rules]]

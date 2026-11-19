@@ -1,14 +1,14 @@
 ---
 type: synthese
 tags: [year1, year2, year3, year4]
-maj: 2026-11-12
+maj: 2026-11-18
 ---
 
 **Passage corrigé.** Le passage marqué ✎ a été corrigé : le document d'origine (prise de note ou support) disait autre chose, et une source fiable donne la version écrite ici. La liste ci-dessous indique, page par page, ce que disait le cours et la source de la correction.
 
 ## Corrections par page
 
-319 pages corrigées, 659 corrections (nombre de marques ✎).
+321 pages corrigées, 667 corrections (nombre de marques ✎).
 
 ### Design
 
@@ -109,7 +109,10 @@ maj: 2026-11-12
 #### [[Cours/Informatique/Data mining/_index|Data mining]]
 
 - [[1 - intro to data mining]] : « $I_W = \sum I_k$ » → $I_W = \sum_{i=1}^{k} w_i I_i$ (théorème de Huygens) ; k-means, « $k \in \{1..k\}$ » → $\{1..K\}$ ; « saut moyen = distance entre centroïdes » → méthode des centroïdes, le saut moyen étant la moyenne des distances entre toutes les paires (supports de CAH, univ. Nantes ; documentation SAS PROC CLUSTER) ; entropie, $\sum_{i=1}^{m}$ → $\sum_{i=1}^{k}$ ; « Test Sample » → échantillons d'apprentissage ; boosting, normaliser « pour que la somme soit N » → pour que la somme reste 1 (poids initiaux $1/N$) ^e-1-intro-to-data-mining
-- [[1 - pdf du prof]] : mêmes corrections ($I_W$, saut moyen, boosting) ; règle Play = P, « overcast ∧ HUMI = normal » → sunny ∧ HUMI = normal ; CART, « maximiser l'indice de Gini » → maximiser le gain de Gini (cours data mining du prof.pdf, diapositives 42, 52, 55) ^e-1-pdf-du-prof
+- [[1 - pdf du prof]] : mêmes corrections ($I_W$, saut moyen, boosting) ; règle Play = P, « overcast ∧ HUMI = normal » → sunny ∧ HUMI = normal ; CART, « maximiser l'indice de Gini » → maximiser le gain de Gini (chp 1 - cours data mining du prof.pdf, diapositives 42, 52, 55) ^e-1-pdf-du-prof
+- [[2 - association rules]] : fermeture descendante, « tous les itemsets **fréquents** inclus dans $X_k$ sont fréquents » (énoncé circulaire) → tous les itemsets inclus dans $X_k$ ; liste des sous-ensembles de $ABCD$ sans $ACD$ et avec $BD$ en double → les 14 sous-ensembles propres non vides, $ACD$ compris ; redondance simple et stricte, « confidence(R2) > confidence(R1) » → $\geq$, l'égalité étant possible quand les supports comparés sont égaux (exercice 1 : $2 \to 35$ et $25 \to 3$ ont tous deux une confiance de 2/3). Sources : calcul refait ; Agrawal et Srikant, « Fast Algorithms for Mining Association Rules », VLDB 1994 ; Han, Kamber et Pei, *Data Mining: Concepts and Techniques*, 3e éd., 2011, chap. 6 (chp 2 - association rules.pdf, diapositives 10, 14, 15) ^e-2-association-rules
+- [[Propriété de fermeture descendante]] : liste des sous-ensembles de $ABCD$ complétée ($ACD$), doublon $BD$ retiré ^e-propriete-de-fermeture-descendante
+- [[Redondance des règles d'association]] : « > » → « $\geq$ » dans les deux comparaisons de confiance ^e-redondance-des-regles-d-association
 - [[Algorithme CART]] : « maximising Gini index » → maximiser le gain de pureté ^e-algorithme-cart
 - [[Arbre de décision]] : « overcast ∧ HUMI = normal » → sunny ∧ HUMI = normal ^e-arbre-de-decision
 - [[Boosting]] : somme des poids « N » → 1 ^e-boosting

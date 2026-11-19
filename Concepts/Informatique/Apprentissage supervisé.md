@@ -7,7 +7,7 @@ aliases:
   - supervised learning
 sources:
   - "[[1 - IA|Cours 1 (IA)]]"
-  - "[[Raw/Year 4/data mining/cours data mining du prof.pdf|cours data mining du prof.pdf]]"
+  - "[[Raw/Year 4/data mining/chp 1 - cours data mining du prof.pdf|chp 1 - cours data mining du prof.pdf]]"
   - "[[1 - intro to data mining|Chp1 - intro to data mining]]"
 maj: 2026-11-06
 ---
@@ -25,4 +25,6 @@ La note de data mining distingue aussi les tâches **prédictives** (classificat
 
 Notion parente : [[Apprentissage automatique]]. Voir aussi : [[Apprentissage profond]], [[Variable cible et variable explicative]], [[Classifieur]], [[Clustering]], [[Règle d'association]].
 
-Résumés : [[1 - IA|Cours 1 (IA)]], [[1 - pdf du prof]], [[1 - intro to data mining]]
+**En data mining, chapitre 2** ([[2 - association rules]]) : chaque instance est décrite par $p$ variables prédictives et une variable cible ; la tâche est une classification si la cible est discrète (diagnostic d'une maladie), une [[Régression (apprentissage automatique)|régression]] si elle est continue (estimation d'un prix).
+
+Résumés : [[1 - IA|Cours 1 (IA)]], [[1 - pdf du prof]], [[1 - intro to data mining]], [[2 - association rules]]

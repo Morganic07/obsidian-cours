@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, year4]
 aliases: [independent events, événements indépendants, indépendance mutuelle, indépendance deux à deux, mutual independence, pairwise independence]
 matieres: [Probability]
 sources: ["[[2 - Conditional proba and independence|Chp 2 - Conditional proba and independence]]", "[[Raw/Year 2/Probability/Chp 2 : Conditional proba and independence .docx|Chp 2 - Conditional proba and independence]]"]
@@ -22,4 +22,6 @@ Dans ce cas, $(A^c,B)$, $(A,B^c)$ et $(A^c,B^c)$ sont aussi indépendants ; le c
 
 Notion parente : [[Probabilité conditionnelle]]. Voir aussi : [[Loi conjointe]], [[Indépendance de variables aléatoires]], [[Événements incompatibles]].
 
-Résumés : [[2 - Conditional proba and independence]]
+**En data mining (Year 4)**, le [[Lift (règle d'association)|lift]] d'une règle $A \Rightarrow B$, $P(A \cup B)/(P(A)P(B))$, compare la fréquence observée de $A$ et $B$ ensemble à celle qu'on aurait sous l'hypothèse d'indépendance : il vaut 1 quand les deux ensembles d'items sont indépendants (complément, hors du cours ; définition du lift d'après [[2 - association rules]]).
+
+Résumés : [[2 - Conditional proba and independence]], [[2 - association rules]]

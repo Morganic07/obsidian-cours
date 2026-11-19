@@ -1,13 +1,13 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/data mining/Chp1 - intro to data mining.docx|Chp1 - intro to data mining]]"]
+sources: ["[[Raw/Year 4/data mining/Chp 1 - intro to data mining.docx|Chp 1 - intro to data mining]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08
 ---
 
-Résumé de [[Raw/Year 4/data mining/Chp1 - intro to data mining.docx|Chp1 - intro to data mining]], dans [[Cours/Informatique/Data mining/_index|Data mining]].
+Résumé de [[Raw/Year 4/data mining/Chp 1 - intro to data mining.docx|Chp 1 - intro to data mining]], dans [[Cours/Informatique/Data mining/_index|Data mining]].
 
 ## Idée générale
 

@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-12 : 2 060 concepts, rangés en cinq domaines dans `Concepts/` ; 181 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-18 : 2 075 concepts, rangés en cinq domaines dans `Concepts/` ; 182 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (2060)
+## Concepts (2075)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -1874,31 +1874,46 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 
 **Year 4 - data mining**
 
+- [[Algorithme Apriori]] : extraction des itemsets fréquents niveau par niveau, candidats générés par jointure puis suppression
 - [[Algorithme C4.5]] : algorithme d'arbre de décision descendant d'ID3, avec variables continues et normalisation du gain
 - [[Algorithme CART]] : Classification and Regression Tree (1984), arbre de décision binaire
+- [[Algorithme FP-Growth]] : extraction des itemsets fréquents sans candidats, par un arbre de préfixes (complément)
 - [[Algorithme ID3]] : construction récursive d'un arbre de décision, choisissant à chaque nœud le test de plus grand gain
+- [[Analyse du panier de la ménagère]] : chercher les produits achetés ensemble dans les tickets de caisse (complément)
 - [[Bagging]] : méthode d'ensemble qui apprend des modèles sur des échantillons tirés avec remise
 - [[Boosting]] : méthode d'ensemble à exemples pondérés et modèles construits l'un après l'autre, comme AdaBoost.M1
 - [[Centroïde]] : exemple synthétique dont chaque attribut est la moyenne des valeurs de l'ensemble
 - [[Classification hiérarchique ascendante]] : clustering qui part d'un groupe par exemple et fusionne jusqu'à n'en avoir qu'un
 - [[Classifieur]] : fonction qui prend des caractéristiques en entrée et attribue une classe discrète
 - [[Clustering]] : partitionner des exemples sans étiquette en k groupes de données semblables
+- [[Confiance (règle d'association)]] : $P(B \mid A)$, proportion des transactions contenant $A$ qui contiennent aussi $B$
 - [[Ensemble d'entraînement et de test]] : erreur d'un classifieur, taux de réussite, et erreur d'entraînement ou de test
 - [[Entropie (théorie de l'information)]] : quantité d'information $\log_2(N/n)$, et entropie d'une partition
+- [[Explosion combinatoire]] : croissance exponentielle du nombre de cas, $2^n - 1$ itemsets pour $n$ items (complément)
+- [[Extraction de motifs séquentiels]] : découverte de séquences fréquentes, où l'ordre compte (complément)
 - [[F-mesure]] : nommé dans le cours, sans définition
 - [[Forêt aléatoire]] : bagging d'arbres de décision, tirant à chaque nœud q variables parmi p
 - [[Fouille de données]] : découverte de connaissances dans les données, « comment faire parler les données ? »
 - [[Gain d'information]] : critère de choix du test dans ID3, baisse d'entropie apportée par un test
 - [[Indice de Gini]] : critère d'impureté d'un nœud utilisé par CART, $1 - \sum p_i^2$
 - [[Inertie (clustering)]] : moyenne des carrés des distances au centroïde, intra-classe et inter-classe
+- [[Itemset fréquent]] : ensemble d'items dont le support atteint `minSupp` ; $L_k$ et candidats $C_k$
 - [[K plus proches voisins]] : classer un point selon les classes de ses k voisins
+- [[Lift (règle d'association)]] : confiance rapportée à $P(B)$ ; 1 = indépendance, > 1 corrélation positive
 - [[Machine à vecteurs de support]] : nommé dans le cours, sans définition
 - [[Méthode de Ward]] : fusionner les deux groupes qui font perdre le moins d'inertie intra-classe
 - [[Prétraitement des données]] : étape du data mining qui suit la sélection et l'exploration des données
+- [[Propriété de fermeture descendante]] : tout sous-ensemble d'un itemset fréquent est fréquent, base d'Apriori
 - [[Rapport de gain]] : normalisation du gain d'information dans C4.5, par le SplitInfo
-- [[Règle d'association]] : nommé dans le cours, sans définition
+- [[Redondance des règles d'association]] : redondance simple et stricte, pour éviter de tester les règles dont la confiance se déduit
+- [[Régression (apprentissage automatique)]] : tâche supervisée dont la variable cible est continue, comme l'estimation d'un prix
+- [[Règle d'association]] : relation $A \Rightarrow B$ entre ensembles d'items d'une base de transactions, mesurée par support, confiance et lift
 - [[Réseau de neurones]] : nommé dans le cours, sans définition
+- [[Résumé de données]] : tâche descriptive qui décrit un jeu de données de façon compacte (complément)
 - [[Série temporelle]] : nommé dans le cours, sans définition
+- [[Support (règle d'association)]] : proportion des transactions qui contiennent tous les items d'une règle
+- [[Système de recommandation]] : proposer des éléments à un utilisateur, « ceux qui ont acheté ceci… » (complément)
+- [[Transaction (fouille de données)]] : ensemble d'items, comme un ticket de caisse ; la base $D$ est l'ensemble d'apprentissage
 - [[Valeur manquante]] : valeurs nettoyées au prétraitement, et traitées à part par l'algorithme C4.5
 - [[Variable cible et variable explicative]] : variables explicatives obtenues par observation, variable cible à prédire
 - [[Élagage]] : dans CART, élaguer l'arbre entier successivement puis garder le meilleur arbre élagué
@@ -2337,9 +2352,9 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (181)
+## Résumés de sources (182)
 
-### Documents PDF et PPTX (33)
+### Documents PDF et PPTX (34)
 
 - **Year 1, Algo Maths** : [[0 - diapo prof]]
 - **Year 1, Analyse Maths** : [[0 - rappels pdf]], [[0 - Rappels-etc]], [[1 - Ensemble des Reels]]
@@ -2358,7 +2373,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre), [[4 - Cours complet]] (polycopié de TP du chapitre 4 : fabrication avec g++, types, entrées-sorties, contrôle, pointeurs et références, fonctions, programmation modulaire), [[5 - Compilation séparée]] (diaporama du chapitre 5 : `.h` et `.cpp`, `#include`, compilation séparée, Makefile)
 - **Year 4, C／C++, programmes commentés** (une fiche par dossier, code vérifié à la compilation) : [[tp2]] (types, `printf`, `scanf`, opérateurs arithmétiques), [[tp3]] (conditions, opérateurs logiques, `switch`), [[tp4]] (boucle `for`, accumulateurs, boucles imbriquées), [[tp5]] (`while` et `do … while` : nombres premiers, parfaits, Syracuse), [[tp6]] (fonctions, prototypes, `return`), [[tp7]] (tableaux passés à une fonction), [[tableaux]] (syntaxe pointeur et syntaxe tableau), [[pointeurs]] (échange par adresse), [[td listes chaînées]] (`struct`, double pointeur, `malloc` et `free`), [[formation C++]] (progression commentée : `cout`, classe, constructeurs, surcharge d'opérateurs, `operator<<`), [[exo-prof]] (classes `Point` et `Segment`), [[compilation séparée (C++)]] (les mêmes classes en `.h` et `.cpp`, Makefile)
 - **Year 4, culture du soin** : [[1 - culture du soin]]
-- **Year 4, data mining** : [[1 - pdf du prof]]
+- **Year 4, data mining** : [[1 - pdf du prof]], [[2 - association rules]] (diaporama du chapitre 2 : support, confiance, lift, algorithme Apriori, redondance des règles, exercices corrigés en complément)
 - **Year 4, management de l'innovation** : [[1 - innovation]]
 
 Classés par matière. Les erreurs des cours sont corrigées directement dans les pages (marque ✎) ; la liste des corrections est dans [[Erreurs du cours]].
