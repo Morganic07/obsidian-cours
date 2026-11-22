@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "88316e1ec05d1c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0acdf756143f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48f3965e275309c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd0498bddcccb31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ca2172e0cbc319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f452bc622c8c322",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f370730b7b56c262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:Association",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16ac94d36c137cc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8ca4a23b47ebfc63",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f3ab5028446fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ece20f75f6ba797a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "860720f3fa03f93f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a3dc00108e7ed332",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa7394d86a3a4212",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "27ca7dc8ae33b167",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "galaxy-view:Open Galaxy View": false
+    }
+  },
+  "active": "d48f3965e275309c",
+  "lastOpenFiles": [
+    "file:/home/momo/Code/WORKFLOW.md",
+    "Cours/Sciences humaines/Culture du vivant/6 - Culture du vivant.md",
+    "Cours/Informatique/Graph theory/5 - colorier graph.md",
+    "file:/home/momo/zone-commerciale/PLAN.md",
+    "Raw/Year 4/data mining/chp 2 - association rules.pdf",
+    "file:/home/momo/zone-commerciale/AVANCEMENT.md",
+    "Cours/Informatique/Graph theory/4 - bellman ford.md",
+    "Cours/Informatique/Graph theory/4 - dijkstra.md",
+    "Cours/Informatique/Graph theory/4 - oriented graphs.md",
+    "Cours/Informatique/C++/programmesCPP/formation C++.md",
+    "Cours/Informatique/C++/programmesCPP/exo-prof.md",
+    "Cours/Informatique/C++/programmesCPP/compilation séparée (C++).md",
+    "Cours/Informatique/C++/programmesC/td listes chaînées.md",
+    "Cours/Informatique/C++/programmesC/tableaux.md",
+    "Cours/Informatique/C++/programmesC/pointeurs.md",
+    "log.md.tmp.43110.f80fb87885bc",
+    "CLAUDE.md.tmp.43110.19a009ea0812",
+    "Cours/Informatique/C++/_index.md.tmp.43110.1fd95d09d20a",
+    "Cours/Informatique/C++/_index.md.tmp.43110.ce118f4e8619",
+    "Cours/Informatique/C++/_index.md.tmp.43110.9309ab4dfcdb",
+    "Cours/Informatique/C++/programmesCPP/16 - Programmes exo-prof.md",
+    "Cours/Informatique/C++/programmesC/tp7.md",
+    "Cours/Informatique/C++/programmesC/tp6.md",
+    "Cours/Informatique/C++/programmesC/tp5.md",
+    "Cours/Informatique/C++/programmesC/tp4.md",
+    "Cours/Informatique/C++/programmesC/tp3.md",
+    "Cours/Informatique/C++/programmesC/tp2.md",
+    "Cours/Informatique/C++/programmesCPP/17 - Programmes compilation séparée.md",
+    "Cours/Informatique/C++/programmesC/12 - Programmes tableaux.md",
+    "Cours/Informatique/C++/programmesC/11 - Programmes tp7.md",
+    "Cours/Informatique/C++/programmesC/8 - Programmes tp4.md",
+    "Cours/Informatique/C++/4 - Cours complet.md",
+    "Cours/Informatique/C++/_index.md.tmp.43110.89bbc1510438",
+    "Cours/Informatique/C++/programmesCPP",
+    "Cours/Informatique/C++/programmesC",
+    "log.md.tmp.2885.2acf1a62e3dc",
+    "Cours/Design/Histoire du design/images/1 - Histoire du design - p20.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p25.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p22.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p21.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p16.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p5.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p2b.jpg",
+    "Cours/Design/Histoire du design/images/2 - Histoire du design - p2a.jpg",
+    "Cours/Design/Histoire du design/images/1 - Histoire du design - p45.jpg",
+    "Cours/Design/Histoire du design/images/1 - Histoire du design - p12.jpg",
+    "Untitled.canvas"
+  ]
+}

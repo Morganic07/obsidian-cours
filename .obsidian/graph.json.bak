@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "path:Concepts  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Concepts/Design  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    },
+    {
+      "query": "path:Concepts/Mathématiques  ",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "path:\"Concepts/Probabilités et statistiques\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Concepts/Informatique  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "path:\"Concepts/SCiences humaines\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1113620
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.0757001193553465,
+  "close": false
+}
