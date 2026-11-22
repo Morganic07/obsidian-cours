@@ -15,4 +15,6 @@ Exemples du cours :
 
 En complément de [[4 - dijkstra]] et [[4 - bellman ford]] (Graph theory), l'[[Algorithme de Dijkstra|algorithme de Dijkstra]] est un autre algorithme glouton : il fixe à chaque étape la distance du sommet non traité le plus proche, sans y revenir, ce qui n'est juste qu'avec des poids positifs ou nuls ; l'[[Algorithme de Bellman-Ford|algorithme de Bellman-Ford]], par programmation dynamique, peut au contraire améliorer une distance jusqu'à la fin.
 
-Résumés : [[2 - tree]], [[4 - dijkstra]], [[4 - bellman ford]]
+Au chapitre 5 de Graph theory ([[5 - colorier graph]]), l'[[Algorithme de Welsh-Powell|algorithme de Welsh-Powell]] est présenté comme un algorithme glouton itératif de [[Coloration de graphe|coloration]] ; l'exercice 1 montre qu'il n'est pas optimal (4 couleurs alors que 3 suffisent).
+
+Résumés : [[2 - tree]], [[4 - dijkstra]], [[4 - bellman ford]], [[5 - colorier graph]]

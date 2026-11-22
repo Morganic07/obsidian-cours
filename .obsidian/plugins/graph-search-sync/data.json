@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "includeLocalGraph": true,
+  "clearOnEmpty": true,
+  "debounceMs": 250,
+  "hoverHighlight": true
+}

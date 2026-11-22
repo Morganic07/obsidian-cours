@@ -27,7 +27,7 @@ Exemple : le cube a 8 sommets, 12 arêtes et 6 faces, $8 - 12 + 6 = 2$ ; un arbr
 
 **Théorème de Kuratowski** (1930) : un graphe est planaire si et seulement s'il ne contient aucun sous-graphe qui soit une subdivision de $K_5$ ou de $K_{3,3}$ (une subdivision remplace des arêtes par des chaînes).
 
-**Théorème des quatre couleurs** (Appel et Haken, 1976) : les sommets de tout graphe planaire peuvent être coloriés avec au plus quatre couleurs de sorte que deux sommets adjacents aient des couleurs différentes ; de façon équivalente, toute carte géographique se colorie avec quatre couleurs sans que deux pays voisins partagent la même. C'est le premier grand théorème dont la preuve repose sur une vérification par ordinateur d'un grand nombre de cas.
+**[[Théorème des quatre couleurs]]** (Appel et Haken, 1976) : les sommets de tout graphe planaire peuvent être coloriés avec au plus quatre couleurs de sorte que deux sommets adjacents aient des couleurs différentes ; de façon équivalente, toute carte géographique se colorie avec quatre couleurs sans que deux pays voisins partagent la même. C'est le premier grand théorème dont la preuve repose sur une vérification par ordinateur d'un grand nombre de cas.
 
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Sous-graphe]], [[Isomorphisme de graphes]], [[Graphe complet]], [[Graphe biparti]], [[Graphe connexe]], [[Graphe simple]].
 

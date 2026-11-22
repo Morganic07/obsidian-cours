@@ -1,0 +1,15 @@
+{
+  "showFolderNodes": true,
+  "hideRootNode": true,
+  "nodeColor": "#fffcb3",
+  "showHeadingNodes": false,
+  "headingNodeColor": "#f5a55c",
+  "headingLinkAnchorMode": "heading-heading",
+  "hiddenNodes": {},
+  "weightNodesBySubtree": false,
+  "folderFilterMode": "exclude",
+  "folderFilterList": [
+    "Raw"
+  ],
+  "folderFilterHideFiles": false
+}

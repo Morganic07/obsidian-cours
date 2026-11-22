@@ -1,14 +1,14 @@
 ---
 type: synthese
 tags: [year1, year2, year3, year4]
-maj: 2026-11-18
+maj: 2026-11-19
 ---
 
 **Passage corrigé.** Le passage marqué ✎ a été corrigé : le document d'origine (prise de note ou support) disait autre chose, et une source fiable donne la version écrite ici. La liste ci-dessous indique, page par page, ce que disait le cours et la source de la correction.
 
 ## Corrections par page
 
-321 pages corrigées, 667 corrections (nombre de marques ✎).
+322 pages corrigées, 669 corrections (nombre de marques ✎).
 
 ### Design
 
@@ -128,6 +128,7 @@ maj: 2026-11-18
 - [[2 - tree revisions années précédentes]] : définition récursive circulaire (« un arbre est un arbre qui possède des liens… ») → un arbre est un ensemble fini non vide de nœuds dont l'un est la racine, les autres formant $m \ge 0$ sous-arbres disjoints (Knuth, *The Art of Computer Programming*, vol. 1, §2.3) ; hauteur minimale « $h = \lfloor \log_k n \rfloor + 1$ », avec la profondeur comptée en arcs (racine à 0) → $h = \lceil \log_k((k-1)n+1) \rceil - 1$, soit $\lfloor \log_2 n \rfloor$ pour un arbre binaire ($\lfloor \log_2 n \rfloor + 1$ est le nombre de niveaux) (calcul refait : un arbre $k$-aire de hauteur $h$ a au plus $(k^{h+1}-1)/(k-1)$ nœuds ; Cormen et al., *Introduction to Algorithms*, annexe B.5.3) ; postcondition de `filsGauche`, « renvoie le fils droit » → le fils gauche ^e-2-tree-revisions-annees-precedentes
 - [[4 - bellman ford]] : « circuits de longueur négative : pas de plus courts chemins » → seulement vers les sommets accessibles depuis un circuit négatif lui-même accessible depuis la source ; les autres gardent une distance finie (Cormen et al., *Introduction to Algorithms*, 3e éd., ch. 24) ; BELLMAN-FORD-R1 renvoie `pred` sans l'initialiser ni le mettre à jour → `pred[v] := NONE` au départ et `pred[v] := u` quand $D[v]$ baisse, comme dans la version complète du même diaporama ^e-4-bellman-ford
 - [[4 - dijkstra]] : algorithme « inventé en 1959 » → conçu en 1956, publié en 1959 (E. W. Dijkstra, « A note on two problems in connexion with graphs », *Numerische Mathematik* 1, 1959 ; entretien avec P. L. Frana, *Communications of the ACM* 53(8), 2010) ^e-4-dijkstra
+- [[5 - colorier graph]] : coloration propre, « $\forall (v, v') \in E \Rightarrow c(c) \neq c(c')$ » → $c(v) \neq c(v')$ ; sous-graphe, « $V' \subseteq V$ et $V' \subseteq V$ » → $V' \subseteq V$ et $E' \subseteq E$ (définition du sous-graphe, chapitre 1 et [[Sous-graphe]]) ^e-5-colorier-graph
 - [[Algorithme de Kruskal]] : « somme des poids des nœuds » → des arêtes ^e-algorithme-de-kruskal
 - [[Chemin (graphe)]] : arc « reliant » → arc de $v_i$ vers $v_{i+1}$ ^e-chemin-graphe
 - [[Classe de complexité]] : « $O(m \cdot n)$ linéaire » → non linéaire ; `somme_1` → calcule $n(n-1)/2$ ^e-classe-de-complexite

@@ -11,10 +11,11 @@ sources:
   - "[[2 - tree revisions années précédentes|Chp2 - tree revisions années précédentes]]"
   - "[[4 - bellman ford|chp4 - bellman ford]]"
   - "[[4 - dijkstra|chp4 - dijkstra]]"
-maj: 2026-11-12
+  - "[[5 - colorier graph|chp5 - colorier graph]]"
+maj: 2026-11-19
 ---
 
-Théorie des graphes : graphes non orientés, arbres, complexité des algorithmes, graphes orientés, et un TP Python, plus trois suppléments de cours en PDF (arbres et arbres binaires de recherche, algorithmes de Bellman-Ford et de Dijkstra). Les 8 documents sont intégrés. Cours en anglais, sauf le chapitre de complexité et les suppléments, en français.
+Théorie des graphes : graphes non orientés, arbres, complexité des algorithmes, graphes orientés, coloration de graphes, et un TP Python, plus trois suppléments de cours en PDF (arbres et arbres binaires de recherche, algorithmes de Bellman-Ford et de Dijkstra). Les 9 documents sont intégrés. Cours en anglais, sauf le chapitre de complexité et les suppléments, en français.
 
 ## Parcours
 
@@ -24,6 +25,7 @@ Théorie des graphes : graphes non orientés, arbres, complexité des algorithme
 | [[2 - tree\|Chp2 - tree]] | Arbres, arbre couvrant minimal, Kruskal | [[2 - tree\|Résumé]] |
 | [[3 - complexité\|chp3 - complexité]] | Complexité, $O$, $\Omega$, $\Theta$ | [[3 - complexité\|Résumé]] |
 | [[4 - oriented graphs\|chp4 - oriented graphs]] | Degrés, DFS, BFS, composantes fortement connexes | [[4 - oriented graphs\|Résumé]] |
+| [[5 - colorier graph\|chp5 - colorier graph]] | Coloration, nombre chromatique, Welsh-Powell, bornes, deux exercices (diaporama PDF) | [[5 - colorier graph\|Résumé]] |
 | [[0 - Graph - Python\|Graph - Python]] | Dictionnaires, fonctions sur graphes, Kruskal | [[0 - Graph - Python\|Résumé]] |
 
 ### Suppléments de cours
@@ -42,6 +44,7 @@ Diaporamas rangés dans `Suppléments de cours (tree, algo...)` : deux du cours 
 - **Arbres (chapitre 2)** : [[Arbre (théorie des graphes)]], [[Forêt (graphe)]], [[Pont (graphe)]], [[Arbre couvrant minimal]], [[Algorithme glouton]], [[Algorithme de Kruskal]]
 - **Complexité (chapitre 3)** : [[Complexité algorithmique]], [[Classe de complexité]], [[Calcul de complexité et théorème de résolution]], [[Recherche séquentielle]], [[Recherche dichotomique]], [[Tri par sélection]], [[Tri par insertion]], [[Produit matriciel]], [[Tours de Hanoï]]
 - **Graphes orientés (chapitre 4)** : [[Graphe orienté]], [[Chemin (graphe)]], [[Parcours en profondeur]], [[Parcours en largeur]], [[Composante fortement connexe]], [[Algorithme de Tarjan]]
+- **Coloration (chapitre 5)** : [[Coloration de graphe]], [[Nombre chromatique]], [[Algorithme de Welsh-Powell]], [[Clique (graphe)]], [[Ensemble stable (graphe)]], [[Optimisation combinatoire]], [[Algorithme DSATUR]], [[Théorème de Brooks]], [[Théorème des quatre couleurs]], [[Preuve assistée par ordinateur]], [[Graphe d'incompatibilité]], [[Allocation de registres]], [[Sudoku]]
 - **Arbres, supplément** : [[Arbre ordonné]], [[Arbre numéroté]], [[Arbre m-aire]], [[Arbre binaire]], [[Sous-arbre]], [[Hauteur d'un arbre]], [[Parcours préfixe]], [[Parcours infixe]], [[Parcours postfixe]], [[Pile et file]], [[Type abstrait de données]], [[Précondition et postcondition]], [[Arbre binaire de recherche]], [[Arbre équilibré]], [[Arbre dégénéré]], [[File de priorité]], [[Nombre de Catalan]]
 - **Plus courts chemins, suppléments** : [[Plus court chemin]], [[Algorithme de Dijkstra]], [[Algorithme de Bellman-Ford]], [[Algorithme de Floyd-Warshall]], [[Algorithme de Johnson]], [[Algorithme SPFA]], [[Algorithme A étoile]], [[Relâchement d'un arc]], [[Circuit absorbant]], [[Arbre des plus courts chemins]], [[Programmation dynamique]], [[Principe d'optimalité de Bellman]], [[Tas de Fibonacci]], [[Routage à vecteur de distances]], [[Routage à état de liens]], [[Comptage à l'infini]]
 - **TP Python** : [[Dictionnaire (Python)]], [[Union-Find]]
@@ -54,6 +57,7 @@ Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ).
 - [[3 - complexité]] : $O(m \cdot n)$ n'est pas linéaire (quadratique si $m = n$) ; avec `range(n)`, `somme_1` calcule $0 + \ldots + (n-1)$, alors que `somme_2` calcule $1 + \ldots + n$.
 - [[1 - Undirected graph]] : un graphe biparti demande deux parties non vides ; une arête seule ($K_{1,1}$) suffit.
 - [[2 - tree revisions années précédentes]] : avec une profondeur comptée en arcs, la hauteur minimale d'un arbre binaire à $n$ nœuds est $\lfloor \log_2 n \rfloor$, pas $\lfloor \log_2 n \rfloor + 1$ (nombre de niveaux).
+- [[5 - colorier graph]] : l'algorithme de Welsh-Powell n'est pas optimal (exercice 1 : 4 couleurs alors que $\chi = 3$) ; pour prouver $\chi(G) = k$, il faut une $k$-coloration **et** un minorant, comme une clique à $k$ sommets.
 - [[4 - bellman ford]] : un circuit négatif n'empêche les plus courts chemins que vers les sommets qu'il permet d'atteindre.
 
 ## Liens avec les autres matières

@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-18 : 2 075 concepts, rangés en cinq domaines dans `Concepts/` ; 182 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-19 : 2 096 concepts, rangés en cinq domaines dans `Concepts/` ; 184 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (2075)
+## Concepts (2096)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -2352,7 +2352,34 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Opérateurs de recherche booléens]] : opérateurs AND, OR et autres présentés par la BU pour une recherche Google
 - [[Transistor]] : nommé dans le cours, sans définition
 
-## Résumés de sources (182)
+### Ajoutés le 2026-11-19, avec la coloration de graphes et le cours 3 de Culture du vivant
+
+**Informatique**
+- [[Coloration de graphe]] : couleurs aux sommets, deux sommets adjacents de couleurs différentes ; k-coloration, coloration optimale
+- [[Nombre chromatique]] : χ(G), nombre minimum de couleurs d'une coloration propre ; ω(G) ≤ χ(G) ≤ Δ + 1
+- [[Algorithme de Welsh-Powell]] : coloration gloutonne par degrés décroissants, rapide mais pas toujours optimale
+- [[Algorithme DSATUR]] : coloration gloutonne par degré de saturation (Brélaz, 1979) (complément)
+- [[Clique (graphe)]] : sommets deux à deux adjacents, sous-graphe complet ; minore χ(G) (complément)
+- [[Ensemble stable (graphe)]] : sommets deux à deux non adjacents, une classe de couleur (complément)
+- [[Graphe d'incompatibilité]] : arêtes entre objets qui ne peuvent partager une ressource, emplois du temps (complément)
+- [[Allocation de registres]] : coloration du graphe d'interférence des variables par un compilateur (complément)
+- [[Optimisation combinatoire]] : meilleure solution parmi un ensemble fini mais immense (complément)
+- [[Théorème de Brooks]] : χ(G) ≤ Δ sauf graphes complets et cycles impairs (1941) (complément)
+- [[Théorème des quatre couleurs]] : tout graphe planaire est 4-coloriable (Appel et Haken, 1976) (complément)
+- [[Preuve assistée par ordinateur]] : démonstration dont une partie repose sur un calcul par ordinateur (complément)
+- [[Sudoku]] : coloration en 9 couleurs d'un graphe à 81 sommets (complément)
+
+**Design**
+- [[Grande Exposition de 1851]] : première exposition universelle, Londres, souvent donnée comme naissance du design (complément)
+- [[Crystal Palace]] : palais de fer et de verre préfabriqué de Paxton pour l'exposition de 1851 (complément)
+- [[Chaise de Reniseneb]] : chaise égyptienne d'environ 1450 av. J.-C., au dessin « moderne » (complément)
+- [[Disegno]] : dessin et intention, origine du mot design (complément)
+- [[Arts appliqués]] : arts qui donnent une forme belle aux objets utiles (complément)
+- [[Esthétique industrielle]] : nom français du design industriel d'après-guerre, Jacques Viénot (complément)
+- [[Sciences de l'artificiel]] : livre de Herbert Simon (1969), le design comme théorie générale de la conception (complément)
+- [[Design spéculatif]] : design critique qui fabrique des objets pour faire réfléchir (Dunne et Raby) (complément)
+
+## Résumés de sources (184)
 
 ### Documents PDF et PPTX (34)
 
@@ -2415,11 +2442,11 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 
 - **Gestion financière** : [[1 - gestion financière]]
 - **C／C++** : [[1 - basiques]], [[2 - structures code]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[4 - C++]], [[4 - Prise de note]], [[4 - Cours complet]], [[5 - Compilation séparée]] ; programmes commentés, une fiche par dossier : [[tp2]], [[tp3]], [[tp4]], [[tp5]], [[tp6]], [[tp7]], [[tableaux]], [[pointeurs]], [[td listes chaînées]], [[formation C++]], [[exo-prof]], [[compilation séparée (C++)]]
-- **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]]
+- **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]], [[6 - Culture du vivant]] (cours 3 : naissance et trois sens du design)
 - **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]]
 - **SHS** : [[6 - design libre]]
 - **data mining** : [[1 - intro to data mining]]
-- **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]] ; suppléments : [[2 - tree revisions années précédentes]], [[4 - bellman ford]], [[4 - dijkstra]]
+- **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]], [[5 - colorier graph]] (diaporama PDF du chapitre 5 : coloration, nombre chromatique, Welsh-Powell) ; suppléments : [[2 - tree revisions années précédentes]], [[4 - bellman ford]], [[4 - dijkstra]]
 - **projet court** : [[Fondaction Football]]
 
 ### Year 1 - Analyse Maths
@@ -2484,7 +2511,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (296 : 149 docx, 63 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-12. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (298 : 150 docx, 64 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-19. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2500,4 +2527,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (2 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 3 pdf, dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (3 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 4 pdf, dont 3 dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

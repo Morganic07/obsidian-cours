@@ -25,6 +25,8 @@ En TP, la fonction `isGraphBipartite` colorie chaque sommet de 0 ou 1 et échoue
 
 Ce test est une **2-coloration par [[Parcours en largeur|parcours en largeur]]** (complément, hors du cours) : on colorie le départ, chaque voisin reçoit la couleur opposée, et un conflit révèle un cycle impair. Avec une file `collections.deque`, il coûte $O(n + m)$ pour $n$ sommets et $m$ arêtes.
 
+En termes de [[Coloration de graphe|coloration]] (complément, hors du cours, voir [[5 - colorier graph]]) : un graphe est biparti si et seulement si son [[Nombre chromatique|nombre chromatique]] vaut au plus 2, les deux parties étant les deux classes de couleur.
+
 Notion parente : [[Graphe non orienté]]. Voir aussi : [[Cycle (graphe)]].
 
-Résumés : [[1 - Undirected graph]], [[0 - Graph - Python]]
+Résumés : [[1 - Undirected graph]], [[0 - Graph - Python]], [[5 - colorier graph]]

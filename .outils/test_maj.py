@@ -8,6 +8,7 @@ import tempfile
 import unicodedata
 import unittest
 from pathlib import Path
+from unittest import mock
 
 import chemins
 import maj
@@ -47,8 +48,56 @@ def faux_rclone(drive, appels=None, code=0):
     return lancer
 
 
+def type_mime(fichier):
+    """Type MIME que Drive donnerait au fichier : d'après l'extension, sinon le contenu
+    (Drive garde celui de l'envoi, même si le nom perd son extension)."""
+    for mime, extension in maj.EXTENSIONS_MIME.items():
+        if fichier.suffix.lower() == extension:
+            return mime
+    return "application/pdf" if fichier.read_bytes().startswith(b"%PDF") else "application/octet-stream"
+
+
+def faux_lister(drive):
+    """Imite rclone lsjson sur Drive, et rclone lsf sans aucun filtre."""
+
+    def lister(commande):
+        if commande[1] == "lsf":
+            dossier = Path(commande[-1])
+            return "".join(f.relative_to(dossier).as_posix() + "\n"
+                           for f in sorted(dossier.rglob("*")) if f.is_file())
+        assert commande[:2] == ["rclone", "lsjson"], commande
+        return json.dumps([{"Path": f.relative_to(drive).as_posix(), "Name": f.name,
+                            "IsDir": False, "MimeType": type_mime(f)}
+                           for f in sorted(drive.rglob("*")) if f.is_file()])
+
+    return lister
+
+
 def transcrit(image, modele):
     return "texte de l'image"
+
+
+EXCLUSIONS_DE_TEST = "- Year 2/Anglais/**\n+ *.{docx,pdf,pptx}\n- *\n"
+
+
+def pdf(texte):
+    """PDF d'une page portant ce texte (ASCII), lisible par pdftotext."""
+    flux = f"BT /F1 12 Tf 72 720 Td ({texte}) Tj ET".encode()
+    objets = [b"<< /Type /Catalog /Pages 2 0 R >>",
+              b"<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
+              b"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] "
+              b"/Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>",
+              b"<< /Length %d >>\nstream\n" % len(flux) + flux + b"\nendstream",
+              b"<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>"]
+    sortie, positions = b"%PDF-1.4\n", []
+    for n, objet in enumerate(objets, 1):
+        positions.append(len(sortie))
+        sortie += b"%d 0 obj\n" % n + objet + b"\nendobj\n"
+    xref = len(sortie)
+    sortie += b"xref\n0 %d\n0000000000 65535 f \n" % (len(objets) + 1)
+    sortie += b"".join(b"%010d 00000 n \n" % p for p in positions)
+    sortie += b"trailer\n<< /Size %d /Root 1 0 R >>\nstartxref\n%d\n%%%%EOF\n" % (len(objets) + 1, xref)
+    return sortie
 
 
 class Base(unittest.TestCase):
@@ -56,6 +105,13 @@ class Base(unittest.TestCase):
         dossier = tempfile.TemporaryDirectory()
         self.addCleanup(dossier.cleanup)
         self.racine = Path(dossier.name)
+        # Les filtres de l'utilisatrice (exclusions.local, hors git) ne doivent pas jouer.
+        outils = self.racine / "outils"
+        outils.mkdir()
+        (outils / chemins.EXCLUSIONS).write_text(EXCLUSIONS_DE_TEST, encoding="utf-8")
+        ici = mock.patch.object(maj, "ICI", outils)
+        ici.start()
+        self.addCleanup(ici.stop)
         self.coffre = self.racine / "coffre"
         self.travail = self.racine / "travail"
         self.drive = self.racine / "drive"
@@ -92,7 +148,8 @@ class Base(unittest.TestCase):
         sortie, erreurs = io.StringIO(), io.StringIO()
         with contextlib.redirect_stdout(sortie), contextlib.redirect_stderr(erreurs):
             code = maj.main(["--coffre", str(self.coffre), "--travail", str(self.travail), *options],
-                            lancer=lancer or faux_rclone(self.drive), appel=appel)
+                            lancer=lancer or faux_rclone(self.drive), appel=appel,
+                            lister=faux_lister(self.drive))
         self.sortie, self.erreurs = sortie.getvalue(), erreurs.getvalue()
         return code
 
@@ -374,7 +431,127 @@ class TestCas(Base):
         self.assertIn("> texte de l'image", self.lot("01 - Chp 1"))
 
 
+@unittest.skipUnless(shutil.which("rclone"), "rclone absent")
+class TestSansExtension(Base):
+    """Le vrai rclone, entre deux dossiers locaux : filtres, sync (qui retire la copie
+    absente de Drive sous ce nom) et copyto (qui la reprend) sont ceux de rclone, pas une
+    imitation. Seul le type MIME, que le système de fichiers local ne connaît pas, est
+    fourni comme Drive le ferait."""
+
+    DOSSIER = "Year 4/graph theory/Suppléments de cours (tree, algo...)"
+
+    def setUp(self):
+        super().setUp()
+        drive = mock.patch.object(maj, "DRIVE", str(self.drive))
+        drive.start()
+        self.addCleanup(drive.stop)
+        self.document = self.drive / self.DOSSIER / "chp4 - dijkstra"
+        self.document.parent.mkdir(parents=True)
+        self.document.write_bytes(pdf("Dijkstra version 1"))
+        self.copie = self.coffre / M / self.DOSSIER / "chp4 - dijkstra.pdf"
+
+    def lister(self, commande):
+        sortie = maj.lister_rclone(commande)
+        if commande[1] != "lsjson":
+            return sortie
+        fichiers = json.loads(sortie)
+        for f in fichiers:
+            f["MimeType"] = type_mime(self.drive / f["Path"])
+        return json.dumps(fichiers)
+
+    def lancer_vrai(self, *options):
+        sortie, erreurs = io.StringIO(), io.StringIO()
+        with contextlib.redirect_stdout(sortie), contextlib.redirect_stderr(erreurs):
+            code = maj.main(["--coffre", str(self.coffre), "--travail", str(self.travail), *options],
+                            lancer=maj.lancer_rclone, appel=transcrit, lister=self.lister)
+        self.sortie, self.erreurs = sortie.getvalue(), erreurs.getvalue()
+        return code
+
+    def nouveau_lot(self):
+        self.assertEqual(self.lancer_vrai("--clore"), 0)
+        return self.lancer_vrai()
+
+    def test_copie_avec_extension_puis_suivie(self):
+        self.assertEqual(self.lancer_vrai(), 0, self.erreurs)
+        self.assertTrue(self.copie.is_file())
+        self.assertFalse((self.coffre / M / self.DOSSIER / "chp4 - dijkstra").exists())
+        texte = self.lot("01 - chp4 - dijkstra")
+        self.assertIn("- État : ajouté", texte)
+        self.assertIn("Nom sur Drive : « chp4 - dijkstra », sans extension", texte)
+        self.assertIn(f"`[[{M}/{self.DOSSIER}/chp4 - dijkstra.pdf|chp4 - dijkstra.pdf]]`", texte)
+        self.assertIn("Dijkstra version 1", texte)
+        self.assertEqual(sorted(p.name for p in self.document.parent.iterdir()),
+                         ["chp4 - dijkstra"], "Drive n'est pas modifié")
+
+        # Sync retire la copie, absente de Drive sous ce nom, et copyto la reprend :
+        # le passage suivant ne doit voir ni suppression ni changement.
+        self.assertEqual(self.nouveau_lot(), 0, self.erreurs)
+        self.assertIn("Aucun changement", self.sortie)
+        self.assertTrue(self.copie.is_file())
+
+        self.document.write_bytes(pdf("Dijkstra version 2"))
+        self.assertEqual(self.nouveau_lot(), 0, self.erreurs)
+        texte = self.lot("01 - chp4 - dijkstra")
+        self.assertIn("- État : modifié", texte)
+        self.assertIn("-Dijkstra version 1", texte)
+        self.assertIn("+Dijkstra version 2", texte)
+
+        self.document.unlink()
+        self.assertEqual(self.nouveau_lot(), 0, self.erreurs)
+        texte = self.lot("01 - chp4 - dijkstra")
+        self.assertIn("- État : supprimé", texte)
+        self.assertIn("Dijkstra version 2", texte.split("## Texte de la version supprimée")[1])
+        self.assertFalse(self.copie.exists())
+
+    def test_extension_ajoutee_ensuite_sur_drive_sans_changement(self):
+        self.assertEqual(self.lancer_vrai(), 0, self.erreurs)
+        self.document.rename(self.document.with_name("chp4 - dijkstra.pdf"))
+        self.assertEqual(self.nouveau_lot(), 0, self.erreurs)
+        self.assertIn("Aucun changement", self.sortie)
+        self.assertTrue(self.copie.is_file())
+
+    def test_caracteres_speciaux_dans_le_nom(self):
+        bizarre = self.drive / self.DOSSIER / "cours [1] {a}"
+        bizarre.write_bytes(pdf("motifs"))
+        self.assertEqual(self.lancer_vrai(), 0, self.erreurs)
+        self.assertEqual(self.nouveau_lot(), 0, self.erreurs)
+        self.assertIn("Aucun changement", self.sortie)
+        self.assertTrue((self.coffre / M / self.DOSSIER / "cours [1] {a}.pdf").is_file())
+
+    def test_exclusions_respectees(self):
+        anglais = self.drive / "Year 2/Anglais/vocabulaire"
+        anglais.parent.mkdir(parents=True)
+        anglais.write_bytes(pdf("vocabulary"))
+        self.assertEqual(self.lancer_vrai(), 0, self.erreurs)
+        self.assertFalse((self.coffre / M / "Year 2/Anglais").exists())
+        self.assertIn(f"écarté par {chemins.EXCLUSIONS} : Year 2/Anglais/vocabulaire", self.sortie)
+        self.assertNotIn("repris dans le miroir sous : Year 2/Anglais", self.sortie)
+
+    def test_doublon_avec_le_nom_complet_ignore(self):
+        self.document.with_name("chp4 - dijkstra.pdf").write_bytes(pdf("Dijkstra complet"))
+        self.assertEqual(self.lancer_vrai(), 0, self.erreurs)
+        self.assertIn("ignoré : " + f"{self.DOSSIER}/chp4 - dijkstra", self.erreurs)
+        self.assertIn("Dijkstra complet", self.lot("01 - chp4 - dijkstra"))
+        self.assertNotIn("Nom sur Drive", self.lot("01 - chp4 - dijkstra"))
+
+
 class TestFonctions(unittest.TestCase):
+    def test_sans_extension(self):
+        docx = next(m for m, e in maj.EXTENSIONS_MIME.items() if e == ".docx")
+        fichiers = [
+            {"Path": "Y/a", "MimeType": "application/pdf"},
+            {"Path": "Y/b.PDF", "MimeType": "application/pdf"},         # déjà retenu
+            {"Path": "Y/note Google.docx", "MimeType": docx},           # export de Google Docs
+            {"Path": "Y/c", "MimeType": docx},
+            {"Path": "Y/v1.2", "MimeType": "application/pdf"},           # point sans extension
+            {"Path": "Y/image", "MimeType": "image/png"},                # type non retenu
+            {"Path": "Y/d", "MimeType": "application/pdf"},
+            {"Path": "Y/D.pdf", "MimeType": "application/pdf"},
+        ]
+        self.assertEqual(maj.sans_extension(fichiers), (
+            [("Y/a", "Y/a.pdf"), ("Y/c", "Y/c.docx"), ("Y/v1.2", "Y/v1.2.pdf")],
+            [("Y/d", "Y/d.pdf")]))
+
     def test_comparer(self):
         avant = {"a": "1", "b": "2", "c": "3", "d": "4"}
         apres = {"a": "1", "b": "9", "x/c": "3", "e": "5"}

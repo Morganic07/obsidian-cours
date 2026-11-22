@@ -9,7 +9,8 @@ sources:
   - "[[1 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[4 - Culture du vivant|Culture du vivant - prise de note]]"
   - "[[5 - Culture du vivant|chp 2 - prise de note]]"
-maj: 2026-11-10
+  - "[[6 - Culture du vivant|Chp 3 - prise de note]]"
+maj: 2026-11-19
 ---
 
 Matière suivie sur plusieurs années (Year 3, Year 4) : une section par année.
@@ -69,6 +70,7 @@ Culture du vivant de 4e année : technique, capitalisme et numérique, puis cons
 |---|---|---|
 | [[4 - Culture du vivant\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[4 - Culture du vivant\|Résumé]] |
 | [[5 - Culture du vivant\|chp 2 - prise de note]] | Déclin du vivant, société de consommation, forêt, tournant relationnel, réensauvagement, mythes, luttes, design | [[5 - Culture du vivant\|Résumé]] |
+| [[6 - Culture du vivant\|Chp 3 - prise de note]] | Naissance du design (1851 ou l'Antiquité ?), trois sens du design | [[6 - Culture du vivant\|Résumé]] |
 
 ### Concepts
 
@@ -89,6 +91,11 @@ Cours 2 ([[5 - Culture du vivant]]) :
 - **Mythologies** : [[Pan (mythologie)]], [[Stoïcisme]], [[Genèse]], [[Anthropocentrisme]], [[Laudato si']], [[Maîtrise de la nature]], [[Utopie]], [[Ville nouvelle]], [[EPCOT]], [[Mythe de Prométhée]], [[Pudeur et justice]], [[Sophistes]], [[Technè, praxis et épistémè]], [[Dédale et Icare]], [[Hubris]]
 - **Luttes** : [[Écologisme]], [[Mouvement hippie]], [[Contre-culture]], [[Jour de la Terre]], [[Lutte du Larzac]], [[Centrale nucléaire de Fessenheim]], [[Rapport Meadows]], [[Écoféminisme]]
 - **Design** : [[Design industriel]], [[Production en série]], [[Arts and Crafts]], [[Deutscher Werkbund]], [[Bauhaus]], [[Styling]], [[Responsabilité élargie du designer]], [[Écoconception]], [[Calibri]], [[Typographie]], [[Accessibilité]], [[DEI]], [[Dimension politique du design]]
+
+Cours 3 ([[6 - Culture du vivant]]) :
+
+- **Naissance du design** : [[Grande Exposition de 1851]], [[Crystal Palace]], [[Chaise de Reniseneb]], [[Hiéroglyphes égyptiens]], [[Assemblages préfabriqués]], [[Production en série]], [[Révolution industrielle]], [[Motif décoratif]], [[Arts and Crafts]], [[Deutscher Werkbund]], [[Bauhaus]], [[Fonctionnalisme]], [[Meuble en kit]], [[Disegno]]
+- **Trois sens du design** : [[Sciences de l'artificiel]], [[Cahier des charges]], [[Analyse fonctionnelle]], [[Conception centrée utilisateur]], [[Design industriel]], [[Styling]], [[Esthétique industrielle]], [[Arts appliqués]], [[Société de consommation]], [[Consommation ostentatoire]], [[Prototype]], [[Design for the Real World]], [[Design social]], [[Responsabilité élargie du designer]], [[Design spéculatif]], [[Écoconception]], [[Design centré vivant]], [[Design thinking]]
 
 Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ) ; le cours 2 compte plusieurs corrections (marques ✎).
 

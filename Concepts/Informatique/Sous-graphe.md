@@ -15,4 +15,6 @@ Notion parente : [[Graphe non orienté]]. Voir aussi : [[Graphe orienté]], [[Ar
 
 **graph theory, suppléments** : selon [[4 - dijkstra]], l'algorithme de Dijkstra construit progressivement un sous-graphe, l'arborescence des plus courts chemins depuis le sommet d'origine.
 
-Résumés : [[3 - Arbres]], [[2 - tree]], [[1 - Undirected graph]], [[4 - dijkstra]]
+**graph theory, chapitre 5** : un sous-graphe $G' = (V', E')$ de $G$, avec $V' \subseteq V$ et $E' \subseteq E$, vérifie $\chi(G') \leq \chi(G)$ (croissance du [[Nombre chromatique|nombre chromatique]], [[5 - colorier graph]]).
+
+Résumés : [[3 - Arbres]], [[2 - tree]], [[1 - Undirected graph]], [[4 - dijkstra]], [[5 - colorier graph]]

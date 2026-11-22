@@ -1,0 +1,701 @@
+{
+  "enableFeatures": {
+    "graph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": true,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": false,
+      "folders": true,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": true,
+      "shapes": false,
+      "elements-stats": false,
+      "names": true,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    },
+    "localgraph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": false,
+      "property-key": false,
+      "links": false,
+      "linksSameColorAsNode": false,
+      "folders": false,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": false,
+      "elements-stats": false,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    }
+  },
+  "interactiveSettings": {
+    "tag": {
+      "colormap": "hsv",
+      "colors": [
+        {
+          "type": "year1",
+          "color": "#0000ff",
+          "recursive": false
+        },
+        {
+          "type": "year2",
+          "color": "#00ff00",
+          "recursive": false
+        },
+        {
+          "type": "year3",
+          "color": "#ff0000",
+          "recursive": false
+        },
+        {
+          "type": "year4",
+          "color": "#da75ff",
+          "recursive": false
+        }
+      ],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "link": {
+      "colormap": "rainbow",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "folder": {
+      "colormap": "rainbow",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "/",
+      "showOnGraph": true,
+      "enableByDefault": false
+    }
+  },
+  "additionalProperties": {},
+  "backupGraphOptions": {
+    "collapse-filter": false,
+    "search": "",
+    "showTags": false,
+    "showAttachments": false,
+    "hideUnresolved": false,
+    "showOrphans": true,
+    "collapse-color-groups": false,
+    "colorGroups": [],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": true,
+    "centerStrength": 0.518713248970312,
+    "repelStrength": 10,
+    "linkStrength": 1,
+    "linkDistance": 250,
+    "scale": 0.026990383665975795,
+    "close": false
+  },
+  "openInNewTab": false,
+  "canonicalizePropertiesWithDataview": true,
+  "states": [
+    {
+      "id": "default-vault",
+      "name": "Default state",
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "path:\"Cours/Probabilités et statistiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:\"Cours/Informatique\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:\"Cours/Sciences humaines\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 847161
+            }
+          },
+          {
+            "query": "path:\"Cours/Mathématiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 4279526
+            }
+          },
+          {
+            "query": "path:\"Cours/Design\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15282094
+            }
+          }
+        ],
+        "search": "path:Cours/",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.226040511941953,
+        "linkDistance": 184,
+        "linkStrength": 1,
+        "repelStrength": 10.4619970193741
+      },
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
+    },
+    {
+      "id": "069c8fc7-4425-4bfb-bd43-e550582e93ac",
+      "name": "Concepts/",
+      "enableLayers": true,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "path:\"Concepts/Probabilités et statistiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:\"Concepts/Informatique\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:\"Concepts/Sciences humaines\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 847161
+            }
+          },
+          {
+            "query": "path:\"Concepts/Mathématiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 4279526
+            }
+          },
+          {
+            "query": "path:\"Concepts/Design\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15282094
+            }
+          }
+        ],
+        "search": "path:COncepts/",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.518713248970312,
+        "linkDistance": 243,
+        "linkStrength": 1,
+        "repelStrength": 10
+      }
+    },
+    {
+      "id": "20eedde3-25bb-4011-8c69-f8fa0046cdaa",
+      "name": "Cours/",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "path:\"Cours/Probabilités et statistiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:\"Cours/Informatique\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:\"Cours/Sciences humaines\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 847161
+            }
+          },
+          {
+            "query": "path:\"Cours/Mathématiques\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 4279526
+            }
+          },
+          {
+            "query": "path:\"Cours/Design\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15282094
+            }
+          }
+        ],
+        "search": "path:Cours/",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.226040511941953,
+        "linkDistance": 184,
+        "linkStrength": 1,
+        "repelStrength": 10.4619970193741
+      }
+    },
+    {
+      "id": "0e4ad6db-3611-4451-a4d5-b18ac0cb238c",
+      "name": "Year",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "AND",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "tag:#year1  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#year2  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "tag:#year3  ",
+            "color": {
+              "a": 1,
+              "rgb": 4835887
+            }
+          },
+          {
+            "query": "tag:#year4",
+            "color": {
+              "a": 1,
+              "rgb": 5407200
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.277637811145823,
+        "linkDistance": 500,
+        "linkStrength": 0.877456414390809,
+        "repelStrength": 13.3233979135618
+      }
+    },
+    {
+      "id": "af66a39b-d2c6-4b87-a2fa-e73f15f4ccd4",
+      "name": "cours + concepts",
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": [],
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "path:Concepts/",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Cours/  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          }
+        ],
+        "search": "",
+        "hideUnresolved": false,
+        "showAttachments": true,
+        "showTags": false,
+        "localBacklinks": true,
+        "localForelinks": true,
+        "localInterlinks": false,
+        "localJumps": 1,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.284087473546307,
+        "linkDistance": 453,
+        "linkStrength": 0.767812153582586,
+        "repelStrength": 17.2748562912497
+      }
+    }
+  ],
+  "startingStateID": "default-vault",
+  "syncDefaultState": false,
+  "saveConfigsWithState": true,
+  "customColorMaps": {},
+  "imageProperties": [
+    "image"
+  ],
+  "borderFactor": 0.06,
+  "allowExternalImages": false,
+  "allowExternalLocalImages": false,
+  "nodesSizeProperties": [
+    ""
+  ],
+  "nodesSizeFunction": "default",
+  "nodesSizeRange": {
+    "min": 0.5,
+    "max": 1.5
+  },
+  "nodesColorColormap": "YlOrRd",
+  "nodesColorFunction": "default",
+  "graphStatsDirection": "normal",
+  "linksSizeFunction": "default",
+  "linksColorColormap": "YlOrRd",
+  "linksColorFunction": "default",
+  "recomputeStatsOnGraphChange": false,
+  "zoomFactor": 2,
+  "focusScaleFactor": 1.8,
+  "highlightOpenNodes": false,
+  "highlightSearchResults": false,
+  "maxNodes": 5000,
+  "delay": 500,
+  "revertAction": false,
+  "enableCSS": true,
+  "cssSnippetFilename": "",
+  "shapeQueries": {
+    "circle": {
+      "combinationLogic": "AND",
+      "index": 0,
+      "rules": []
+    },
+    "square": {
+      "combinationLogic": "AND",
+      "index": 1,
+      "rules": []
+    },
+    "triangle": {
+      "combinationLogic": "AND",
+      "index": 2,
+      "rules": []
+    },
+    "diamond": {
+      "combinationLogic": "AND",
+      "index": 3,
+      "rules": []
+    },
+    "pentagon": {
+      "combinationLogic": "AND",
+      "index": 4,
+      "rules": []
+    },
+    "hexagon": {
+      "combinationLogic": "AND",
+      "index": 5,
+      "rules": []
+    },
+    "octagon": {
+      "combinationLogic": "AND",
+      "index": 6,
+      "rules": []
+    },
+    "decagon": {
+      "combinationLogic": "AND",
+      "index": 7,
+      "rules": []
+    },
+    "star4": {
+      "combinationLogic": "AND",
+      "index": 8,
+      "rules": []
+    },
+    "star5": {
+      "combinationLogic": "AND",
+      "index": 9,
+      "rules": []
+    },
+    "star6": {
+      "combinationLogic": "AND",
+      "index": 10,
+      "rules": []
+    },
+    "star8": {
+      "combinationLogic": "AND",
+      "index": 11,
+      "rules": []
+    },
+    "star10": {
+      "combinationLogic": "AND",
+      "index": 12,
+      "rules": []
+    }
+  },
+  "colorBasedOnDepth": false,
+  "depthColormap": "rainbow",
+  "currentNode": {
+    "useColor": false,
+    "color": "#fefbfb",
+    "size": 100,
+    "shape": "circle"
+  },
+  "fadeOnDisable": false,
+  "borderUnresolved": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": false,
+  "animationSpeedForDots": 1,
+  "interactivesBrightness": {
+    "light": 1,
+    "dark": 1
+  },
+  "fadeInElements": false,
+  "externalLinks": "none",
+  "externalLinksProperties": [
+    "url"
+  ],
+  "externalLinkOpenMode": "note",
+  "showPinIcon": false,
+  "allowMultipleLinkTypes": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "excludedSourcesFolder": [],
+  "excludedTargetsFolder": [],
+  "curvedLinks": false,
+  "curvedFactor": 1,
+  "outlineLinks": false,
+  "displayLinkTypeLabel": false,
+  "colorLinkTypeLabel": false,
+  "useBitmapsForLinkLabels": false,
+  "noLineHighlight": false,
+  "folderShowFullPath": false,
+  "invertArrows": false,
+  "flatArrows": false,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "numberOfCharacters": null,
+  "ellipsis": "…",
+  "showOnlyFileName": true,
+  "noExtension": false,
+  "usePropertiesForName": [],
+  "addBackgroundToName": false,
+  "nameVerticalOffset": 0,
+  "dynamicVerticalOffset": false,
+  "showNamesWhenNeighborHighlighted": true,
+  "iconProperties": [
+    ""
+  ],
+  "usePluginForIcon": true,
+  "usePluginForIconColor": true,
+  "useParentIcon": false,
+  "backgroundOpacityWithIcon": 0,
+  "useIconColorForBackgroud": true,
+  "borderWidthWithIcon": 0,
+  "layerProperties": [
+    "layer"
+  ],
+  "numberOfActiveLayers": 4,
+  "layersOrder": "ASC",
+  "displayLabelsInUI": true,
+  "nodesWithoutLayerOpacity": 0,
+  "useLayerCustomOpacity": true,
+  "layersCustomOpacity": {},
+  "layersLevels": {},
+  "defaultLevelForLayers": 0,
+  "horizontalLegend": false,
+  "useRadialMenu": false,
+  "radialMenuModifier": "Shift",
+  "pinNodeModifier": "Alt",
+  "useLeftClickToSelect": true,
+  "selectNodeModifier": "Shift",
+  "filterAbstractFiles": [],
+  "ignoreInlineLinks": false,
+  "collapseState": false,
+  "collapseLegend": false,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": true,
+    "links": true,
+    "arrows": true,
+    "folders": false,
+    "images": true,
+    "icons": true,
+    "focus": true,
+    "shapes": true,
+    "layers": true,
+    "elements-stats": true,
+    "names": false,
+    "zoom": true,
+    "local-graph": true,
+    "display": true,
+    "filter": true,
+    "inputs": true,
+    "performances": true,
+    "beta": true
+  },
+  "selectionMode": "replace",
+  "exportSVGOptions": {
+    "asImage": true,
+    "onlyVisibleArea": false,
+    "showNodeNames": true,
+    "useCurvedLinks": false,
+    "useModifiedArrows": true,
+    "useNodesShapes": false,
+    "showArcs": false,
+    "showFolders": true,
+    "useModifiedNames": true,
+    "showIcons": false
+  },
+  "multipleNodesData": {
+    "shapeData": {
+      "type": "grid",
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "step": 100
+    },
+    "queryData": {
+      "combinationLogic": "AND",
+      "rules": [
+        {
+          "source": "all",
+          "property": "",
+          "value": "",
+          "logic": ""
+        }
+      ]
+    }
+  }
+}

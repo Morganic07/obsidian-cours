@@ -13,6 +13,11 @@ Rien n'est écrit dans le wiki. Tout le travail se fait dans un dossier hors du 
 - conversions/NN/{nouveau,ancien}/ : texte converti et images de chaque document changé ;
 - lot/ : BILAN.md et un fichier par document, lus ensuite par /maj-cours.
 
+Un document déposé sur Drive sans extension dans son nom (« chp4 - dijkstra », un PDF) ne
+passe pas les filtres de rclone, qui portent sur le nom. Il est repéré par son type MIME et
+copié dans le miroir sous son nom suivi de l'extension (« chp4 - dijkstra.pdf ») ; Drive
+n'est pas modifié.
+
 Un seul lot à la fois : tant qu'il n'est pas clos, une nouvelle synchronisation est
 refusée, sinon les anciennes versions se mélangeraient.
 """
@@ -25,6 +30,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import unicodedata
 from pathlib import Path
 
@@ -46,7 +52,17 @@ LOT = "lot"
 BILAN = "BILAN.md"
 TEXTE = "texte.md"
 ERREUR = "erreur.txt"
-CONNUS = {AVANT, JOURNAL, RCLONE_OK, CHANGEMENTS, ANCIEN, CONVERSIONS, LOT, chemins.A_FAIRE}
+RENOMMES = "renommes.json"  # {chemin dans le miroir: nom sur Drive} des copies sans extension
+CONNUS = {AVANT, JOURNAL, RCLONE_OK, CHANGEMENTS, ANCIEN, CONVERSIONS, LOT, chemins.A_FAIRE,
+          RENOMMES}
+
+# Type MIME d'un document que Drive ne nomme pas avec son extension → extension à lui donner.
+EXTENSIONS_MIME = {
+    "application/pdf": ".pdf",
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
+    "application/vnd.openxmlformats-officedocument.presentationml.presentation": ".pptx",
+}
+EXTENSIONS_RETENUES = tuple(sorted(set(EXTENSIONS_MIME.values())))
 
 AJOUTE, MODIFIE, DEPLACE, SUPPRIME = "ajouté", "modifié", "déplacé", "supprimé"
 
@@ -137,8 +153,75 @@ def lancer_rclone(commande, journal):
         return subprocess.run(commande, stdout=sortie, stderr=subprocess.STDOUT).returncode
 
 
-def recuperer(coffre, travail, lancer=lancer_rclone):
-    """Synchronise le miroir depuis Drive en gardant les anciennes versions."""
+def lister_rclone(commande):
+    """Sortie d'une commande rclone de lecture (lsjson, lsf)."""
+    try:
+        resultat = subprocess.run(commande, capture_output=True, text=True)
+    except OSError as erreur:
+        raise Erreur(f"rclone n'a pas pu être lancé : {erreur}") from erreur
+    if resultat.returncode != 0:
+        raise Erreur(f"rclone a échoué (code {resultat.returncode}) sur {commande[1]} : "
+                     + resultat.stderr.strip()[-1000:])
+    return resultat.stdout
+
+
+def sans_extension(fichiers):
+    """Documents de Drive dont le nom n'a pas l'extension que demandent les filtres, mais
+    dont le type MIME est connu. Renvoie (copies, doublons), listes triées de
+    (chemin sur Drive, chemin dans le miroir) ; un doublon est écarté parce que Drive
+    porte déjà un fichier au chemin visé. La casse est ignorée par prudence : « x » et
+    « X.PDF » sont tenus pour un doublon plutôt que de risquer deux copies voisines."""
+    presents = {f["Path"].lower() for f in fichiers}
+    copies, doublons = [], []
+    for f in fichiers:
+        extension = EXTENSIONS_MIME.get(f.get("MimeType"))
+        if f.get("IsDir") or not extension or f["Path"].lower().endswith(EXTENSIONS_RETENUES):
+            continue
+        cible = f["Path"] + extension
+        (doublons if cible.lower() in presents else copies).append((f["Path"], cible))
+    return sorted(copies), sorted(doublons)
+
+
+def admis_par_les_filtres(copies, lister):
+    """Garde les copies que exclusions.local laisserait passer sous leur nouveau nom. Pour
+    appliquer exactement la règle de rclone, on la fait juger par rclone, sur une
+    arborescence vide qui reproduit ces chemins."""
+    if not copies:
+        return []
+    with tempfile.TemporaryDirectory() as dossier:
+        for _, cible in copies:
+            fichier = Path(dossier) / cible
+            fichier.parent.mkdir(parents=True, exist_ok=True)
+            fichier.touch()
+        sortie = lister(["rclone", "lsf", "-R", "--files-only",
+                         "--filter-from", str(ICI / chemins.EXCLUSIONS), "--ignore-case", dossier])
+    admis = set(sortie.splitlines())
+    return [(source, cible) for source, cible in copies if cible in admis]
+
+
+def copier_sans_extension(copies, miroir, travail, lancer):
+    """Copie chaque document sans extension dans le miroir sous son nouveau nom.
+
+    La copie n'existe pas sur Drive sous ce nom : le sync qui précède l'a donc retirée du
+    miroir, en la rangeant dans --backup-dir à son chemin, comme toute version remplacée.
+    On la reprend ici à chaque passage ; comparer() juge ensuite sur le contenu, et un
+    document disparu de Drive reste simplement retiré."""
+    for source, cible in copies:
+        commande = ["rclone", "copyto", f"{DRIVE}/{source}", str(miroir / cible),
+                    "--bind", "0.0.0.0", "-v"]
+        try:
+            code = lancer(commande, travail / JOURNAL)
+        except OSError as erreur:
+            raise Erreur(f"rclone n'a pas pu être lancé : {erreur}") from erreur
+        if code != 0:
+            raise Erreur(f"rclone a échoué (code {code}) en copiant « {source} », journal : "
+                         f"{travail / JOURNAL}. Relancer maj.sh réessaie.")
+
+
+def recuperer(coffre, travail, lancer=lancer_rclone, lister=lister_rclone):
+    """Synchronise le miroir depuis Drive en gardant les anciennes versions. Renvoie
+    (copies, exclues, doublons) : les documents sans extension copiés, ceux que les filtres
+    écartent, et les doublons de sans_extension."""
     # rclone sync efface dans la cible tout ce qui n'est pas sur Drive : un nom vide
     # ou un chemin ferait du coffre entier, ou d'un autre dossier, la cible.
     for nom in (chemins.MIROIR, chemins.EXCLUSIONS):
@@ -155,6 +238,16 @@ def recuperer(coffre, travail, lancer=lancer_rclone):
         ecrire_json(travail / AVANT, inventaire(miroir))
     miroir.mkdir(exist_ok=True)
     # --bind 0.0.0.0 force l'IPv4 : l'IPv6 ne joint pas les serveurs Google sur cette machine.
+    liste = lister(["rclone", "lsjson", "-R", "--files-only", "--no-modtime", DRIVE,
+                    "--drive-export-formats", "docx,pptx", "--bind", "0.0.0.0"])
+    try:
+        fichiers = json.loads(liste)
+    except ValueError as erreur:
+        raise Erreur(f"liste de Drive illisible : {erreur}") from erreur
+    candidates, doublons = sans_extension(fichiers)
+    copies = admis_par_les_filtres(candidates, lister)
+    exclues = [c for c in candidates if c not in copies]
+    ecrire_json(travail / RENOMMES, {cible: Path(source).name for source, cible in copies})
     commande = ["rclone", "sync", DRIVE, str(miroir),
                 "--drive-export-formats", "docx,pptx",
                 "--filter-from", str(ICI / chemins.EXCLUSIONS), "--ignore-case",
@@ -167,7 +260,9 @@ def recuperer(coffre, travail, lancer=lancer_rclone):
     if code != 0:
         raise Erreur(f"rclone a échoué (code {code}), journal : {travail / JOURNAL}. "
                      "Le miroir peut être à moitié synchronisé : relancer maj.sh réessaie.")
+    copier_sans_extension(copies, miroir, travail, lancer)
     (travail / RCLONE_OK).write_text("", encoding="utf-8")
+    return copies, exclues, doublons
 
 
 def convertir_fichier(source, sortie, base):
@@ -336,7 +431,7 @@ def bloc(texte, langue=""):
     return f"{cloture}{langue}\n{texte.rstrip()}\n{cloture}"
 
 
-def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes):
+def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes, renommes=None):
     """Texte du fichier de lot d'un document, et ce qu'en retient le bilan."""
     etat, chemin, origine = ch["etat"], ch["chemin"], ch["origine"]
     document = f"{chemins.MIROIR}/{chemin}"
@@ -369,6 +464,11 @@ def fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes):
               f"- Document : `{document}`"]
     if etat != SUPPRIME:
         lignes.append(f"- Lien à mettre dans la fiche : `[[{document}|{Path(chemin).name}]]`")
+    nom_drive = (renommes or {}).get(chemin)
+    if nom_drive:
+        lignes.append(f"- Nom sur Drive : « {nom_drive} », sans extension ; copié dans le miroir "
+                      f"sous « {Path(chemin).name} ». Ajouter l'extension sur Drive ne change "
+                      "ni ce chemin ni le lien de la fiche.")
     lignes.append(f"- Année : {annee(chemin)}")
     if trouvees:
         lignes.append("- Fiche existante : " + ", ".join(
@@ -465,6 +565,7 @@ def ecrire_lot(coffre, travail):
     concepts = convertir.charger_concepts(dossier_concepts) if dossier_concepts.is_dir() else []
     fiches = index_fiches(coffre)
     pages = pages_du_wiki(coffre)
+    renommes = lire_json(travail / RENOMMES) if (travail / RENOMMES).exists() else {}
     lot = travail / LOT
     shutil.rmtree(lot, ignore_errors=True)
     lot.mkdir(parents=True)
@@ -472,7 +573,8 @@ def ecrire_lot(coffre, travail):
     entrees = []
     for n, ch in enumerate(changements, 1):
         nom = f"{n:02d} - {convertir.nom_sur(Path(ch['chemin']).stem)}.md"
-        texte, infos = fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes)
+        texte, infos = fichier_du_lot(n, ch, coffre, travail, fiches, pages, concepts, textes,
+                                      renommes)
         (lot / nom).write_text(texte, encoding="utf-8")
         entrees.append((ch, nom, infos))
 
@@ -508,7 +610,7 @@ def clore(travail):
     shutil.rmtree(travail)
 
 
-def main(argv=None, lancer=lancer_rclone, appel=transcrire.appeler_claude):
+def main(argv=None, lancer=lancer_rclone, appel=transcrire.appeler_claude, lister=lister_rclone):
     parser = argparse.ArgumentParser(description=__doc__,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
     action = parser.add_mutually_exclusive_group()
@@ -529,7 +631,16 @@ def main(argv=None, lancer=lancer_rclone, appel=transcrire.appeler_claude):
             print(f"Lot clos, dossier de travail vidé : {travail}")
             return 0
         if not args.reprendre:
-            recuperer(coffre, travail, lancer)
+            copies, exclues, doublons = recuperer(coffre, travail, lancer, lister)
+            for source, cible in copies:
+                print(f"Sans extension sur Drive, repris dans le miroir sous : {cible}")
+            # Écarté par exclusions.local, ou par un nom que rclone lit autrement sur le
+            # disque : dans les deux cas l'utilisatrice doit le voir, pas le perdre.
+            for source, cible in exclues:
+                print(f"Sans extension sur Drive, écarté par {chemins.EXCLUSIONS} : {source}")
+            for source, cible in doublons:
+                print(f"Sans extension sur Drive, ignoré : {source} (« {cible} » existe déjà sur "
+                      "Drive ; renommer l'un des deux)", file=sys.stderr)
         changements = preparer(coffre, travail)
         if not changements:
             clore(travail)
