@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Silicon Valley]], [[SRI International]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - Histoire du design]] : son influence, avec celle du Xerox PARC, accompagne la naissance des premiers ordinateurs personnels.
+
+Résumés : [[1 - Histoire du design]] · [[3 - Histoire du design]]

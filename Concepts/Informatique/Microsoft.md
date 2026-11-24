@@ -16,4 +16,6 @@ Voir aussi : [[Autoroute de l'information]], [[Silicon Valley]].
 
 [[1 - Histoire du design]] : Windows 95, l'un des signes du décollage de l'Internet grand public en 1995 (résumé du support du chapitre 2).
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : participe au [[NetDay]], qui connecte gratuitement les écoles à Internet ; éditeur de l'encyclopédie [[Encarta]].
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

@@ -31,4 +31,6 @@ Voir aussi : [[Ethos, pathos et logos]]
 
 En histoire du design (Year 4), [[1 - Histoire du design]] : complément de la partie « Le retour à la terre » (la Nouvelle Gauche s'engage pour les droits civiques).
 
-Résumés : [[1 - discours]], [[1 - Histoire du design]]
+[[7 - Culture du vivant]] : origine de la [[Justice environnementale|justice environnementale]] (complément).
+
+Résumés : [[1 - discours]], [[1 - Histoire du design]], [[7 - Culture du vivant]]

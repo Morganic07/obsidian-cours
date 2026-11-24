@@ -20,4 +20,6 @@ Voir aussi : [[Courrier électronique]], [[SMS]], [[Langage SMS]], [[Réseau soc
 
 [[1 - Histoire du design]] : résumé des images commentées de fin de document (ICQ et IRC).
 
-Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : « âge d'or des messageries instantanées » : IRC et ICQ permettent de discuter en direct avec des inconnus.
+
+Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

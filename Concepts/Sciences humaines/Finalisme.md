@@ -24,4 +24,6 @@ Dès le XVIIe siècle, on remet en cause la finalité dans la Nature : Descartes
 
 Voir aussi : [[Quatre causes d'Aristote]], [[Animal-machine]], [[Révolution scientifique]], [[Darwinisme]].
 
-Résumés : [[1 - philo]], [[3 - philo]], [[4 - philo]], [[7 - philo]]
+[[3 - these de Simondon]] : la cybernétique, en faisant de la finalité un objet de technique, lui ôte son statut de justification dernière.
+
+Résumés : [[1 - philo]], [[3 - philo]], [[4 - philo]], [[7 - philo]], [[3 - these de Simondon]]

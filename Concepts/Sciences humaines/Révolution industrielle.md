@@ -14,4 +14,6 @@ Les courbes de la [[Grande accélération]] commencent en 1750, date retenue pou
 
 Voir aussi : [[Progrès technique]], [[Société de consommation]], [[Métier Jacquard]].
 
-Résumés : [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : l'aspect industriel de l'encyclopédisme a pris le pas sur son aspect agricole.
+
+Résumés : [[5 - Culture du vivant]], [[3 - these de Simondon]]

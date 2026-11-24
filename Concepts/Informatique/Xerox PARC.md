@@ -17,4 +17,6 @@ Complément (hors du cours) : Xerox fonde PARC en 1970 pour inventer le « burea
 
 Voir aussi : [[Xerox Alto]], [[WIMP]], [[Ordinateur personnel]], [[Interface graphique]], [[Ethernet]], [[Silicon Valley]].
 
-Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]]
+[[3 - Histoire du design]] : son influence, avec celle de Stanford, accompagne la naissance des premiers ordinateurs personnels.
+
+Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[3 - Histoire du design]]

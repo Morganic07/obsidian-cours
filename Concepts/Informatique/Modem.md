@@ -16,4 +16,6 @@ Voir aussi : [[Internet]], [[World Wide Web]].
 
 [[1 - Histoire du design]] : « modem 56k » daté par le cours de 1995 (corrigé) ; accès aux premiers forums comme le WELL.
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : avec les fournisseurs d'accès (AOL, CompuServe), le modem ouvre Internet au grand public au milieu des années 1990 (le 56k ne date que de 1997-1998).
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

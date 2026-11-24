@@ -16,4 +16,6 @@ Le support du chapitre 2 (fiche de lecture sur le courriel) mobilise Shannon pou
 
 Voir aussi : [[Entropie (théorie de l'information)]], [[Cybernétique]], [[Gain d'information]].
 
-Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[2 - De courrier à courriels]]
+[[3 - these de Simondon]] : « technologie interscientifique », « science des techniques et technique des sciences », qui réconcilie l'éducation de l'enfant et celle de l'adulte.
+
+Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[3 - these de Simondon]]

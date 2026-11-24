@@ -35,4 +35,6 @@ maj: 2026-11-07
 
 Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Accessibilité]], [[Utilisabilité]], [[Analyse techno-sémiotique]].
 
-Résumés : [[1 - UX]], [[2 - sémiotique]], [[1 - culture du soin]], [[Santé au travail (Projet year 3)]]
+[[3 - these de Simondon]] : le « human engineering », étude du rapport homme-machine, fonde un « encyclopédisme à base technologique ».
+
+Résumés : [[1 - UX]], [[2 - sémiotique]], [[1 - culture du soin]], [[Santé au travail (Projet year 3)]], [[3 - these de Simondon]]

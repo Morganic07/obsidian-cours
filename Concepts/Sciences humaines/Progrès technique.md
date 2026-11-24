@@ -36,4 +36,6 @@ En sémiotique ([[2 - sémiotique]]), il correspond à l'imaginaire utopique « 
 
 Voir aussi : [[Progrès moral]], [[Maîtrise de la nature]], [[Philosophie de l'histoire]], [[Progrès transhistorique]], [[Animal-machine]], [[Imaginaire]]
 
-Résumés : [[3 - philo|philo 1]], [[6 - philo|philo 4]], [[2 - sémiotique]]
+[[3 - these de Simondon]] : « l'idée de progrès en ce qu'elle a de mythique vient de cette illusion de simultanéité » ; la magie primitive devient « croyance inconditionnelle au progrès ».
+
+Résumés : [[3 - philo|philo 1]], [[6 - philo|philo 4]], [[2 - sémiotique]], [[3 - these de Simondon]]

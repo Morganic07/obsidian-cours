@@ -16,4 +16,8 @@ maj: 2026-11-10
 
 Voir aussi : [[Communauté intentionnelle]], [[Idéologie californienne]], [[Imaginaire]].
 
-Résumés : [[1 - Histoire du design]], [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : le cours s'appuie sur Georgescu-Roegen pour soutenir que l'[[Économie régénérative|économie régénérative]] n'est pas une utopie.
+
+[[3 - Histoire du design]] : l'utopie des années 1960-1990 (Internet = émancipation) s'est en partie réalisée, mais a été détournée par la logique commerciale des grandes plateformes.
+
+Résumés : [[1 - Histoire du design]], [[3 - Histoire du design]], [[5 - Culture du vivant]], [[7 - Culture du vivant]]

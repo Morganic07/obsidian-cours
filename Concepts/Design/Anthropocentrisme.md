@@ -21,4 +21,6 @@ Selon [[2 - Peinture|Cours 2]] de Peinture, un des problèmes de l'humanité est
 
 **Complément (hors du cours)** : l'anthropocentrisme est la conception qui place l'être humain au centre du monde et fait de lui la seule mesure de la valeur, la nature n'ayant de valeur que par son utilité pour lui. L'éthique environnementale lui oppose le biocentrisme (valeur de tout être vivant) et l'écocentrisme (valeur des écosystèmes comme totalités, chez Aldo Leopold).
 
-Résumés : [[2 - Peinture]], [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : approche anthropo/technocentrée du design pour le vivant, opposée à l'approche [[Écocentrisme|écocentrée]].
+
+Résumés : [[2 - Peinture]], [[5 - Culture du vivant]], [[7 - Culture du vivant]]

@@ -22,4 +22,6 @@ En culture du vivant, les compléments de [[5 - Culture du vivant]] rattachent l
 
 Voir aussi : [[Animal politique]].
 
-Résumés : [[1 - philo]], [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : seuls les Sophistes et, dans une certaine mesure, Socrate ont tenté de faire entrer les techniques serviles dans la pensée noble.
+
+Résumés : [[1 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]

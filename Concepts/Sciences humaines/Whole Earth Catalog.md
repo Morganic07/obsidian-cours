@@ -21,4 +21,6 @@ Le catalogue, publié par le Portola Institute de Menlo Park, s'adressait d'abor
 
 Voir aussi : [[Contre-culture]], [[Silicon Valley]], [[Idéologie californienne]], [[Ordinateur personnel]].
 
-Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]]
+[[3 - Histoire du design]] : Stewart Brand, son créateur, prône un accès libre à l'information ; le support en montre une double page (Buckminster Fuller, dômes).
+
+Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[3 - Histoire du design]]

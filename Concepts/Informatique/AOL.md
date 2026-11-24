@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Webmail]], [[Portail web]].
 
-Résumés : [[2 - De courrier à courriels]]
+[[3 - Histoire du design]] : fournisseur d'accès qui ouvre Internet au grand public ; AOL Kids (« Kids Only ») propose des contenus adaptés aux enfants.
+
+Résumés : [[2 - De courrier à courriels]] · [[3 - Histoire du design]]

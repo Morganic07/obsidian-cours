@@ -22,4 +22,6 @@ maj: 2026-11-07
 
 Voir aussi : [[Tiers-lieu]], [[Responsabilité sociétale des entreprises]], [[Valeur socio-écologique]].
 
-Résumés : [[2 - Culture du vivant]]
+[[7 - Culture du vivant]] : présenter un biomatériau comme écologique d'office, alors que « biomatériaux ≠ performance écologique ».
+
+Résumés : [[2 - Culture du vivant]], [[7 - Culture du vivant]]

@@ -21,4 +21,6 @@ Voir aussi : [[World Wide Web]], [[HTTP]], [[HTML]], [[Architecture multiprocess
 
 [[1 - Histoire du design]] : sommaire (1993-1995 : CERN → Mosaic → Netscape) et résumé du support du chapitre 2.
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : Netscape permet à n'importe qui d'explorer le Web sans connaissances techniques.
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

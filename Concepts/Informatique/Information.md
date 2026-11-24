@@ -18,4 +18,6 @@ Le mot vient du latin *informare*, « donner forme ». Claude Shannon en donne e
 
 Voir aussi : [[Cybernétique]], [[Rétroaction]], [[Contrôle (cybernétique)]], [[Signal (télécommunications)]].
 
-Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]]
+[[3 - these de Simondon]] : « toute traduction correspond à une perte d'information » ; le « gaspillage de l'information » de la télévision.
+
+Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[3 - these de Simondon]]

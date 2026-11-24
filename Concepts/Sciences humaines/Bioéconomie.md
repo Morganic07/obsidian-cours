@@ -15,4 +15,6 @@ Nommée dans VIVANT1 DBrowaeys ([[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys
 
 Voir aussi : [[Biomimétisme]].
 
-Résumés : [[3 - Culture du vivant]]
+[[7 - Culture du vivant]] : Georgescu-Roegen fonde la bioéconomie sur la loi de l'[[Entropie (thermodynamique)|entropie]] ; le cours s'appuie sur lui pour soutenir que l'[[Économie régénérative|économie régénérative]] n'est pas une utopie.
+
+Résumés : [[3 - Culture du vivant]], [[7 - Culture du vivant]]

@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Silicon Valley]], [[Économie de l'attention]].
 
-Résumés : [[2 - Histoire du design]]
+[[3 - Histoire du design]] : Google (1998) révolutionne la recherche d'informations, à l'ère du [[Web 2.0]].
+
+Résumés : [[2 - Histoire du design]] · [[3 - Histoire du design]]

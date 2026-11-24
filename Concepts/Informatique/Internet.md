@@ -18,4 +18,6 @@ Voir aussi : [[ARPANET]], [[World Wide Web]], [[Suite des protocoles Internet]],
 
 [[1 - Histoire du design]] : le chapitre propose une histoire culturelle et intellectuelle des origines d'Internet, à la fois technique, politique et culturelle.
 
-Résumés : [[2 - Histoire du design]] · [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : des origines militaires à l'Internet des enfants (des années 1960 à aujourd'hui).
+
+Résumés : [[2 - Histoire du design]] · [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

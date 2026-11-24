@@ -18,4 +18,6 @@ Le mouvement naît vers 1965 à San Francisco ; il prône la paix (opposition à
 
 Voir aussi : [[Communauté intentionnelle]], [[Retour à la terre]], [[Merry Pranksters]], [[Haight-Ashbury]].
 
-Résumés : [[1 - Histoire du design]], [[5 - Culture du vivant]]
+[[3 - Histoire du design]] : les hippies de la côte ouest voient l'informatique comme un outil d'émancipation et d'élargissement de la conscience.
+
+Résumés : [[1 - Histoire du design]], [[3 - Histoire du design]], [[5 - Culture du vivant]]

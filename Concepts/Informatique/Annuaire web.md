@@ -16,4 +16,6 @@ Voir aussi : [[Portail web]], [[Architecture de l'information]].
 
 [[1 - Histoire du design]] : résumé des images commentées de fin de document (Yahoo, seul véritable annuaire parmi les sites cités).
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : avant Google, Yahoo (annuaire), Lycos (moteur) et GeoCities (hébergeur) servent à trouver des sites.
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

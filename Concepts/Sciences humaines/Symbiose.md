@@ -14,4 +14,6 @@ Dans les compléments de [[5 - Culture du vivant]] : en écologie, un organisme 
 
 Voir aussi : [[Écologie (science)]], [[Chaîne alimentaire]], [[Darwinisme]].
 
-Résumés : [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : comparée au [[Commensalisme|commensalisme]] (complément).
+
+Résumés : [[5 - Culture du vivant]], [[7 - Culture du vivant]]

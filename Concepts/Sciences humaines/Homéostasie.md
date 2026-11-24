@@ -20,4 +20,6 @@ Le mot a été forgé par le physiologiste américain Walter Cannon en 1926 et d
 
 Notion parente : [[Cybernétique]]. Voir aussi : [[Rétroaction]], [[Réseau décentralisé]], [[Entropie (théorie de l'information)]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - these de Simondon]] : « les homéostasies sont des fonctions partielles » ; « l'évolution désadapte autant qu'elle adapte ».
+
+Résumés : [[1 - Histoire du design]], [[3 - these de Simondon]]

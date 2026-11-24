@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-19 : 2 096 concepts, rangés en cinq domaines dans `Concepts/` ; 184 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-24 : 2 353 concepts, rangés en cinq domaines dans `Concepts/` ; 187 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (2096)
+## Concepts (2353)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -2379,7 +2379,274 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Sciences de l'artificiel]] : livre de Herbert Simon (1969), le design comme théorie générale de la conception (complément)
 - [[Design spéculatif]] : design critique qui fabrique des objets pour faire réfléchir (Dunne et Raby) (complément)
 
-## Résumés de sources (184)
+### Ajoutés le 2026-11-24, avec le cours 4 de Culture du vivant, le chapitre 3 d'Histoire du design et le texte de Simondon
+
+**Design**
+- [[Biofabrication]] : fabrication de matériaux par des organismes vivants
+- [[Biomatériau]] : le terme « biomatériau » qualifie les matériaux qui présentent une association biologique non spécifique : le…
+- [[Béton de chanvre]] : matériau de construction fait de chènevotte (la partie ligneuse broyée de la tige de chanvre) liée par de la… (complément)
+- [[Calebasse]] : fruit d'une courge (Lagenaria siceraria) dont la coque, une fois séchée, devient dure, légère et étanche (complément)
+- [[Cellulose bactérienne]] : cellulose très pure produite par certaines bactéries (notamment du genre Komagataeibacter), qui forment un… (complément)
+- [[Ecovative]] : entreprise américaine fondée par Eben Bayer et Gavin McIntyre, anciens étudiants en génie mécanique et design… (complément)
+- [[Emballage]] : tout ce qui contient, protège, transporte et présente un produit, du sachet au carton de transport (complément)
+- [[Full Grown]] : projet où des racines et des troncs d'arbres poussent en forme de chaise ; l'idée est d'intervenir le moins…
+- [[Gravure]] : technique qui consiste à inciser une matrice (bois, cuivre) pour imprimer une image en plusieurs exemplaires… (complément)
+- [[Matériau bioassemblé]] : un matériau bioassemblé est une structure macroscopique cultivée directement par des micro-organismes
+- [[Matériau biosourcé]] : les matériaux biosourcés sont entièrement ou partiellement dérivés de la biomasse, c'est-à-dire des plantes…
+- [[Matériau biosynthétique]] : processus par lequel un élément biologique vivant (organisme ou cellule) se transforme simplement en…
+- [[Schéma (représentation)]] : représentation graphique simplifiée qui retient d'un objet ou d'un processus les seules relations utiles… (complément)
+
+**Informatique**
+- [[Blog]] : site web tenu par une personne ou un petit groupe, qui publie des articles (billets) datés, affichés du plus… (complément)
+- [[Carmen Sandiego]] : série de jeux éducatifs lancée par l'éditeur américain Brøderbund avec Where in the World Is Carmen Sandiego?… (complément)
+- [[CD-ROM]] : disque compact en lecture seule (Compact Disc Read-Only Memory), normalisé en 1985 par Philips et Sony, qui… (complément)
+- [[Club Penguin]] : l'un des premiers réseaux sociaux pour enfants, apparu dans les années 2000
+- [[CompuServe]] : société américaine fondée en 1969 (temps partagé pour les entreprises), qui ouvre en 1979 l'un des premiers… (complément)
+- [[Contrôle parental]] : ensemble des dispositifs qui permettent aux parents de limiter ou de surveiller l'usage du numérique par… (complément)
+- [[Cookie (informatique)]] : petit fichier qu'un site web dépose dans le navigateur de l'internaute et que celui-ci renvoie à chaque… (complément)
+- [[Câble sous-marin]] : câble posé au fond des mers pour relier les continents par des liaisons de télécommunications (complément)
+- [[Encarta]] : encyclopédie multimédia publiée par Microsoft de 1993 à 2009, d'abord sur CD-ROM puis aussi en ligne (complément)
+- [[Facebook]] : réseau social fondé en février 2004 à Harvard par Mark Zuckerberg et ses camarades sous le nom de… (complément)
+- [[Fibre optique]] : fil de verre ou de plastique très fin qui guide la lumière par réflexion totale interne, utilisé pour… (complément)
+- [[Formation en ligne]] : enseignement dispensé par l'intermédiaire d'Internet : cours en vidéo ou en texte, exercices interactifs… (complément)
+- [[Fournisseur d'accès à Internet]] : entreprise qui raccorde ses abonnés à Internet, d'abord par modem sur la ligne téléphonique, puis par ADSL… (complément)
+- [[Kid Pix]] : logiciel de dessin ludique destiné aux enfants, l'une des premières plateformes créées spécifiquement pour…
+- [[KidsCom]] : site web pour enfants des années 1990, l'un des premiers à encadrer la présence des enfants en ligne en…
+- [[Logiciel éducatif]] : logiciel conçu pour apprendre, qui se diffuse avec l'arrivée des PC dans les foyers et les écoles ; les jeux…
+- [[Logo (langage)]] : langage de programmation éducatif créé en 1967 par Wally Feurzeig, Seymour Papert et Cynthia Solomon, puis… (complément)
+- [[Monde virtuel]] : environnement numérique persistant et partagé, où les utilisateurs, représentés par des avatars, se… (complément)
+- [[Moteur de recherche pour enfants]] : outil de recherche réservé à des sites adaptés aux enfants
+- [[MySpace]] : réseau social américain lancé en 2003, le plus visité au monde vers 2005-2008, avant d'être dépassé par… (complément)
+- [[NSFNET]] : réseau financé par la National Science Foundation à partir de 1986 pour relier ses centres de calcul et les… (complément)
+- [[Oscilloscope]] : instrument qui affiche l'évolution d'un signal électrique en traçant une courbe sur un écran (complément)
+- [[Pascaline]] : machine à calculer mécanique conçue par Blaise Pascal en 1642, à dix-neuf ans, pour aider son père, chargé de… (complément)
+- [[Radiodiffusion]] : diffusion de programmes sonores par ondes électromagnétiques (hertziennes) vers un grand nombre de récepteurs (complément)
+- [[Reader Rabbit]] : série de logiciels éducatifs de l'éditeur américain The Learning Company, née en 1984, dont la mascotte est… (complément)
+- [[Serveur publicitaire]] : logiciel ou service qui choisit et insère dynamiquement les publicités dans les pages web au moment de leur… (complément)
+- [[Smartphone]] : téléphone mobile doté d'un système d'exploitation, d'un accès permanent à Internet, d'un écran tactile et… (complément)
+- [[Snapchat]] : application de messagerie par photos et vidéos lancée en 2011 aux États-Unis, dont les messages s'effacent… (complément)
+- [[Sun Microsystems]] : entreprise informatique de la Silicon Valley fondée en 1982 (le nom vient du Stanford University Network… (complément)
+- [[TikTok]] : application de vidéos courtes de l'entreprise chinoise ByteDance, lancée en Chine en 2016 sous le nom de… (complément)
+- [[Télévision]] : transmission à distance d'images animées (et de sons) par analyse de chaque image en lignes de points… (complément)
+- [[Web 2.0]] : nom donné au Web des années 2000, devenu participatif : les contenus sont produits par les utilisateurs… (complément)
+- [[Xerox Star]] : poste de travail commercialisé par Xerox en 1981 (Xerox 8010 Information System), issu des recherches de… (complément)
+- [[YouTube]] : plateforme de partage de vidéos fondée en février 2005 par trois anciens employés de PayPal et rachetée par… (complément)
+
+**Mathématiques**
+- [[Analyse numérique]] : branche des mathématiques qui conçoit et étudie des algorithmes pour obtenir des solutions approchées de… (complément)
+- [[Géométrie]] : partie des mathématiques qui étudie les figures, les formes, les grandeurs et les positions dans l'espace (complément)
+
+**Sciences humaines**
+- [[Acide polylactique]] : polymère obtenu à partir de sucres végétaux (amidon de maïs, canne à sucre) que des bactéries fermentent en… (complément)
+- [[Agence de publicité]] : entreprise qui conçoit, produit et place des campagnes de publicité pour le compte d'annonceurs : stratégie… (complément)
+- [[Agriculture]] : ensemble des techniques de culture du sol pour produire des végétaux utiles (céréales, légumes, fibres)… (complément)
+- [[Agroforesterie]] : mode d'exploitation qui associe des arbres aux cultures ou à l'élevage sur une même parcelle : haies… (complément)
+- [[Albédo]] : fraction du rayonnement solaire qu'une surface renvoie, de 0 (tout est absorbé) à 1 (tout est réfléchi) (complément)
+- [[Algue]] : nom courant d'organismes très divers qui font la photosynthèse en milieu aquatique sans être des plantes à… (complément)
+- [[Almanach d'un comté des sables]] : livre posthume d'Aldo Leopold, publié en 1949, qui mêle chroniques de la vie d'une ferme du Wisconsin au fil… (complément)
+- [[Ancien Régime]] : nom donné par les révolutionnaires à l'organisation politique et sociale de la France avant 1789 : monarchie… (complément)
+- [[ANSES]] : Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, établissement… (complément)
+- [[Antiquité]] : première période de l'histoire, de l'apparition de l'écriture (vers 3300 av (complément)
+- [[Antisémitisme]] : hostilité, préjugés ou discriminations envers les Juifs en tant que tels (complément)
+- [[Apprentissage (métier)]] : formation à un métier par la pratique, auprès d'un maître ou dans une entreprise, plutôt que par… (complément)
+- [[Artisanat]] : production de biens par un travailleur indépendant qui maîtrise l'ensemble du processus, le plus souvent à la… (complément)
+- [[Arts mécaniques]] : au Moyen Âge, les arts mécaniques (métiers manuels : tissage, forge, architecture, navigation, agriculture… (complément)
+- [[Autodidacte]] : celui qui s'instruit lui-même, sans maître, en se dirigeant seul et en découvrant sa propre normativité
+- [[Automate]] : machine qui exécute d'elle-même une suite d'opérations, imitant souvent les mouvements d'un être vivant (complément)
+- [[Autotomie]] : capacité de certains animaux à abandonner volontairement une partie de leur corps pour échapper à un… (complément)
+- [[Axolotl]] : amphibien urodèle (une salamandre) du Mexique, qui garde toute sa vie une forme larvaire aquatique à… (complément)
+- [[Biocentrisme]] : position d'éthique environnementale qui reconnaît une valeur propre à chaque être vivant, parce qu'il… (complément)
+- [[Biodégradabilité]] : capacité d'un matériau à être décomposé par des micro-organismes (bactéries, champignons) en eau, gaz… (complément)
+- [[Bioplastique]] : plastique qui est soit biosourcé (fait à partir de biomasse), soit biodégradable, soit les deux (complément)
+- [[Bouturage]] : multiplication d'une plante à partir d'un fragment (tige, feuille, racine) qui, planté, forme des racines et… (complément)
+- [[Canon anti-grêle]] : appareil au sol qui fait exploser un mélange de gaz et d'air dans un cône tourné vers le ciel, envoyant des… (complément)
+- [[Cartoon Network]] : chaîne de télévision américaine consacrée aux dessins animés, lancée en octobre 1992 par le groupe de Ted… (complément)
+- [[Casus Belli (magazine)]] : magazine français consacré aux jeux de rôle et aux jeux de simulation, fondé en 1980, sous-titré « le… (complément)
+- [[Catharsis]] : chez Aristote (Poétique, IVe siècle av (complément)
+- [[Caïn et Abel]] : récit de la Genèse (chapitre 4) sur les deux premiers fils d'Adam et Ève (complément)
+- [[Cellule souche]] : cellule non spécialisée capable de se diviser pour se renouveler et de se différencier en cellules… (complément)
+- [[Christianisme]] : religion monothéiste fondée sur la vie et l'enseignement de Jésus de Nazareth, reconnu comme le Christ… (complément)
+- [[Cinéma]] : art et technique de l'enregistrement et de la projection d'images animées (complément)
+- [[Cité grecque]] : dans la Grèce antique (VIIIe-IVe siècles av (complément)
+- [[Civilisation de l'image]] : état d'une culture où l'information valorisée passe par l'image (schéma, gravure) plutôt que par le mot
+- [[CNIL]] : autorité administrative indépendante française créée par la loi Informatique et Libertés du 6 janvier 1978… (complément)
+- [[Commensalisme]] : les espèces commensales sont des espèces qui cohabitent avec les êtres humains et profitent de nos déchets…
+- [[Commerce électronique]] : vente de biens et de services par l'intermédiaire de réseaux informatiques, principalement Internet (complément)
+- [[Compagnonnage]] : système français de transmission des métiers (charpente, taille de pierre, menuiserie…) par des associations… (complément)
+- [[Compostage]] : transformation des déchets organiques (épluchures, feuilles, bois) en compost, un amendement riche en humus… (complément)
+- [[Composés organiques volatils]] : famille de substances carbonées qui s'évaporent facilement à température ambiante : formaldéhyde, benzène… (complément)
+- [[Connaissance tacite]] : savoir que l'on possède et que l'on met en œuvre sans pouvoir l'expliciter entièrement par des mots ou des… (complément)
+- [[Convention des Nations unies sur la lutte contre la désertification]] : convention internationale adoptée en 1994 à Paris, issue du Sommet de la Terre de Rio (1992) avec les… (complément)
+- [[Convention ENMOD]] : convention de l'Organisation des Nations unies adoptée en 1976 et entrée en vigueur en 1978, qui interdit… (complément)
+- [[COPPA]] : loi fédérale américaine de 1998 (Children's Online Privacy Protection Act), en vigueur depuis le 21 avril… (complément)
+- [[Corporation (métiers)]] : sous l'Ancien Régime, association obligatoire des membres d'un même métier dans une ville (apprentis… (complément)
+- [[Cour des comptes]] : juridiction financière française créée en 1807, chargée de contrôler l'emploi de l'argent public par l'État… (complément)
+- [[Crop Trust]] : organisation internationale fondée en 2004 à l'initiative de la FAO et de centres de recherche agronomique… (complément)
+- [[Cryptobiose]] : état dans lequel un organisme suspend presque entièrement son métabolisme pour survivre à des conditions… (complément)
+- [[Culture technique]] : chez Simondon (Du mode d'existence des objets techniques, 1958), culture qui intègre la connaissance des… (complément)
+- [[Cybernetics (livre)]] : livre du mathématicien Norbert Wiener, professeur au MIT, publié en 1948 (Paris, Hermann ; New York, Wiley)… (complément)
+- [[Demain la décroissance]] : recueil d'articles de Nicholas Georgescu-Roegen traduits en français et publiés en 1979 par Jacques Grinevald… (complément)
+- [[Diatomée]] : algues microscopiques unicellulaires enfermées dans une coque de silice ajourée, le frustule, aux motifs… (complément)
+- [[Dioxyde de soufre]] : gaz (SO₂) émis par les volcans et par la combustion du charbon et du fioul qui contiennent du soufre (complément)
+- [[Doctorat d'État]] : ancien grade universitaire français le plus élevé, supprimé par la réforme de 1984 au profit du doctorat… (complément)
+- [[Don (anthropologie)]] : dans l'Essai sur le don (1925), Marcel Mauss montre que, dans de nombreuses sociétés, la circulation des… (complément)
+- [[Doxa]] : mot grec pour « opinion », que Platon oppose à la science (épistémè) : la doxa est une croyance non fondée en… (complément)
+- [[Du mode d'existence des objets techniques]] : livre du philosophe Gilbert Simondon, publié chez Aubier en 1958, qui est sa thèse complémentaire de doctorat… (complément)
+- [[Dumbo]] : long métrage d'animation de Disney sorti en 1941, histoire d'un éléphanteau de cirque moqué pour ses grandes… (complément)
+- [[Décroissance]] : courant de pensée et mouvement politique qui propose de réduire de façon choisie et démocratique la… (complément)
+- [[Défense et illustration de la langue française]] : manifeste de Joachim du Bellay (1549), au nom du groupe de poètes qui deviendra la Pléiade (avec Ronsard) (complément)
+- [[Déformation professionnelle]] : transformation durable du corps ou de l'esprit causée par l'exercice prolongé d'un métier : déformations du… (complément)
+- [[Dépendance aux écrans]] : usage excessif et difficile à contrôler des écrans (télévision, smartphone, jeux vidéo, réseaux sociaux), au… (complément)
+- [[Désertification]] : selon la Convention des Nations unies sur la lutte contre la désertification (1994), dégradation des terres… (complément)
+- [[Désinformation]] : diffusion délibérée d'informations fausses ou trompeuses dans le but de nuire, de manipuler l'opinion ou d'en… (complément)
+- [[Déterminisme]] : doctrine selon laquelle tout événement est l'effet nécessaire de causes antérieures, de sorte qu'un esprit… (complément)
+- [[Encyclopédisme]] : volonté d'élargir le cercle des connaissances et de les rendre accessibles à tous, pour faire passer une…
+- [[Ensemencement des nuages]] : technique de modification du temps qui disperse dans un nuage des particules servant de noyaux de glace ou de… (complément)
+- [[Entropie (thermodynamique)]] : grandeur physique qui mesure le désordre d'un système, ou la dégradation de son énergie en une forme moins… (complément)
+- [[Entéléchie]] : chez Aristote (entelecheia, « ce qui a sa fin en soi »), état d'accomplissement d'un être qui a pleinement… (complément)
+- [[Esclavage]] : condition d'une personne qui est la propriété d'une autre et peut être achetée, vendue et contrainte au… (complément)
+- [[Esprit critique]] : capacité à examiner une information ou un raisonnement avant de l'accepter : identifier la source, distinguer… (complément)
+- [[Esthétique (philosophie)]] : branche de la philosophie qui étudie le beau, l'art et l'expérience sensible (complément)
+- [[Exploitation minière]] : extraction de minerais, de charbon ou de pierres du sous-sol, à ciel ouvert ou en galeries souterraines (complément)
+- [[Federal Trade Commission]] : agence fédérale américaine indépendante créée en 1914, chargée de la protection des consommateurs et du droit… (complément)
+- [[Fête de la Fédération]] : fête célébrée au Champ-de-Mars à Paris le 14 juillet 1790, premier anniversaire de la prise de la Bastille… (complément)
+- [[Genre didactique]] : genre littéraire dont le but est d'enseigner un savoir ou une technique : poèmes d'Hésiode (Les Travaux et… (complément)
+- [[Gestion du rayonnement solaire]] : pistes de géo-ingénierie pour ralentir le réchauffement climatique en réfléchissant les rayons du soleil …
+- [[Grande Muraille verte]] : barrière verte en Afrique, de Dakar à Djibouti, pour freiner la progression du Sahara vers le sud du…
+- [[Grandes écoles]] : établissements français d'enseignement supérieur, recrutant sur concours, distincts des universités, qui… (complément)
+- [[Greffe (botanique)]] : technique qui unit deux parties de plantes (un greffon et un porte-greffe, ou deux branches) pour qu'elles se… (complément)
+- [[Grêle]] : précipitation de billes de glace, les grêlons, formées dans les cumulonimbus d'orage (complément)
+- [[Guerre civile syrienne]] : conflit armé né en 2011 de la répression des manifestations contre le régime de Bachar al-Assad, qui a fait… (complément)
+- [[Génie du christianisme]] : essai apologétique de François-René de Chateaubriand (1802), qui défend le christianisme par sa beauté et sa… (complément)
+- [[Géo-ingénierie]] : ensemble des interventions délibérées à grande échelle sur le système climatique pour limiter le changement… (complément)
+- [[Habitude]] : manière d'agir ou de sentir acquise par la répétition, qui finit par s'exercer sans effort ni réflexion (complément)
+- [[High Performance Computing Act]] : loi américaine de 1991, surnommée le « Gore Bill » parce que portée par le sénateur Al Gore, qui finance le…
+- [[Humanisme]] : « la volonté de ramener à un statut de liberté ce qui de l'être humain a été aliéné, pour que rien d'humain…
+- [[Héraldique]] : science et art des armoiries, emblèmes colorés propres à une personne, une famille ou une institution… (complément)
+- [[Imprimerie]] : technique de reproduction des textes et des images en de nombreux exemplaires (complément)
+- [[Individuation]] : processus par lequel un individu (physique, vivant, psychique ou collectif) se forme à partir d'une réalité «… (complément)
+- [[Industrie pétrochimique]] : branche de la chimie qui transforme le pétrole et le gaz naturel en produits de base (éthylène, propylène… (complément)
+- [[Ingénieur]] : professionnel qui conçoit des ouvrages, des machines ou des systèmes en appliquant les sciences… (complément)
+- [[Initiation]] : ensemble de rites et d'épreuves par lesquels un individu est admis dans un groupe ou passe d'un statut à un… (complément)
+- [[Intuition]] : connaissance immédiate, saisie d'un coup, sans passer par un raisonnement explicite (complément)
+- [[Iodure d'argent]] : composé d'argent et d'iode (AgI), dont les cristaux ont une structure très proche de celle de la glace (complément)
+- [[Jeux olympiques d'été de 2008]] : Jeux olympiques organisés à Pékin du 8 au 24 août 2008, vitrine de la puissance chinoise (complément)
+- [[Joystick (magazine)]] : magazine français consacré aux jeux vidéo, surtout sur micro-ordinateur, fondé en 1988. Connu pour son ton… (complément)
+- [[Justice environnementale]] : principe et mouvement selon lesquels les nuisances et les risques environnementaux (pollutions, décharges… (complément)
+- [[Kombucha]] : boisson fermentée obtenue en laissant agir sur du thé sucré une culture symbiotique de bactéries et de… (complément)
+- [[La Belle et le Clochard]] : long métrage d'animation de Disney sorti en 1955, histoire d'amour entre une chienne de bonne famille et un… (complément)
+- [[La Technique et le temps]] : ouvrage en trois volumes de Bernard Stiegler (1952-2020) : La Faute d'Épiméthée (1994), La Désorientation… (complément)
+- [[Les Femmes savantes]] : comédie en cinq actes et en vers de Molière, créée au Palais-Royal le 11 mars 1672. Philaminte, sa fille… (complément)
+- [[Les Mines de Falun]] : conte d'E. T. A. Hoffmann publié en 1819 dans le recueil Les Frères de Saint-Sérapion (complément)
+- [[Lobbying]] : action d'un groupe d'intérêts (entreprises, fédérations professionnelles, ONG, syndicats) pour influencer les… (complément)
+- [[Machine simple]] : dispositif élémentaire qui transforme une force, en intensité ou en direction : levier, poulie, treuil, plan… (complément)
+- [[Machinisme]] : généralisation de l'emploi des machines dans la production, qui remplace le travail manuel et l'outil par des… (complément)
+- [[Magie]] : ensemble de pratiques qui prétendent agir sur le monde ou sur autrui par des moyens surnaturels (formules… (complément)
+- [[Majorité numérique]] : âge à partir duquel un mineur peut consentir seul au traitement de ses données personnelles par un service en… (complément)
+- [[Mesure d'audience]] : ensemble des méthodes qui évaluent combien de personnes, et lesquelles, sont exposées à un média : audimètres… (complément)
+- [[Micro-organisme]] : être vivant invisible à l'œil nu, le plus souvent unicellulaire : bactéries, archées, levures et autres… (complément)
+- [[Migration saisonnière]] : départ temporaire de travailleurs hors de leur région pour une saison ou quelques années, avec retour au pays (complément)
+- [[Modification du temps]] : ensemble des techniques qui cherchent à agir sur le temps qu'il fait à l'échelle locale : augmenter les… (complément)
+- [[Motion Picture Alliance]] : association de professionnels d'Hollywood fondée en 1944, dont Walt Disney fut l'un des fondateurs, pour… (complément)
+- [[Moyen Âge]] : période de l'histoire européenne située entre l'Antiquité et l'époque moderne, conventionnellement de la… (complément)
+- [[Mycélium]] : partie végétative d'un champignon, formée d'un réseau de filaments microscopiques, les hyphes, qui colonise… (complément)
+- [[Mythologie]] : ensemble des mythes d'une culture, récits traditionnels qui racontent l'origine du monde, des dieux, des… (complément)
+- [[Mécanique rationnelle]] : science mathématique du mouvement et de l'équilibre des corps, fondée sur des principes généraux d'où l'on… (complément)
+- [[Mécanologie]] : science générale des machines, que Simondon appelle de ses vœux dans Du mode d'existence des objets… (complément)
+- [[Mélodie du Sud]] : film de Disney sorti en 1946, mêlant prises de vues réelles et animation, d'après les contes de l'Oncle Rémus (complément)
+- [[Nappe phréatique]] : eau souterraine contenue dans une roche poreuse ou fissurée (l'aquifère), la plus proche de la surface… (complément)
+- [[Nasdaq]] : bourse électronique américaine créée en 1971, où sont cotées la plupart des grandes entreprises… (complément)
+- [[National Science Foundation]] : agence fédérale américaine créée en 1950 pour financer la recherche fondamentale et l'enseignement… (complément)
+- [[Navigation (maritime)]] : art de conduire un navire sur l'eau et de déterminer sa position et sa route (complément)
+- [[Neige de culture]] : neige produite par des enneigeurs (« canons à neige ») qui pulvérisent de l'eau sous pression dans l'air… (complément)
+- [[NetDay]] : initiative américaine lancée par John Gage et Michael Kaufman pour connecter gratuitement les écoles à…
+- [[Nickelodeon]] : chaîne de télévision américaine pour la jeunesse dont le site Nick.com, lancé en 1995, vise les 6-14 ans avec…
+- [[Objet technique]] : objet produit par l'homme pour opérer sur le monde (outil, instrument, machine, réseau)
+- [[Odyssée]] : épopée grecque en vingt-quatre chants attribuée à Homère (VIIIe siècle av (complément)
+- [[Opposition ville-campagne]] : opposition classique de la sociologie entre deux modes de vie : la communauté rurale, fondée sur la parenté… (complément)
+- [[OQAI]] : observatoire public français créé en 2001 pour connaître la pollution de l'air intérieur et ses sources… (complément)
+- [[Ordre du simultané et ordre du successif]] : deux manières d'ordonner le savoir et l'existence
+- [[Organisation des Nations unies]] : organisation internationale fondée en 1945 par la Charte de San Francisco, après la Seconde Guerre mondiale… (complément)
+- [[Organisation météorologique mondiale]] : institution spécialisée de l'Organisation des Nations unies, créée en 1950 et installée à Genève, qui… (complément)
+- [[Pantagruélion]] : plante merveilleuse décrite par Rabelais à la fin du Tiers Livre (1546, chapitres 49 à 52), qui désigne en… (complément)
+- [[Pastoralisme]] : élevage de troupeaux (moutons, chèvres, bovins) qui se nourrissent sur des pâturages naturels, souvent en… (complément)
+- [[Pergélisol]] : sol ou roche dont la température reste à 0 °C ou moins pendant au moins deux années consécutives ; il couvre… (complément)
+- [[Peter Pan (film, 1953)]] : long métrage d'animation de Disney sorti en 1953, d'après la pièce de J. M. Barrie (complément)
+- [[Pharmakon]] : mot grec qui signifie à la fois remède et poison (complément)
+- [[Phonétique]] : branche de la linguistique qui étudie les sons de la parole dans leur réalité physique : leur production par… (complément)
+- [[Physiocratie]] : école d'économistes français du XVIIIe siècle (François Quesnay, Tableau économique, 1758 ; Mirabeau père … (complément)
+- [[Physiologie]] : science qui étudie le fonctionnement des êtres vivants, de leurs organes et de leurs cellules (respiration… (complément)
+- [[Plan Informatique pour tous]] : programme du gouvernement français, annoncé en janvier 1985, pour équiper les écoles, collèges et lycées en… (complément)
+- [[Plastique]] : matériau fait d'un polymère de synthèse, additionné de charges et d'additifs, qu'on peut mouler à chaud (complément)
+- [[Plateforme numérique]] : service en ligne qui met en relation des groupes d'utilisateurs (internautes, créateurs de contenus… (complément)
+- [[Pollution de l'air intérieur]] : pollution de l'air des logements, écoles, bureaux et transports, où l'on passe la plus grande partie de son… (complément)
+- [[Polychlorobiphényles]] : famille de composés chlorés de synthèse, utilisés des années 1930 aux années 1980 comme isolants dans les… (complément)
+- [[Polymère]] : grande molécule formée par la répétition d'un même motif, le monomère, enchaîné des milliers de fois par une… (complément)
+- [[Polystyrène]] : plastique obtenu par polymérisation du styrène, dérivé du pétrole (complément)
+- [[Protection des données personnelles]] : ensemble des règles qui encadrent la collecte et l'usage des données à caractère personnel, c'est-à-dire de… (complément)
+- [[Psychologie sociale]] : discipline à la frontière de la psychologie et de la sociologie, qui étudie comment les pensées, sentiments… (complément)
+- [[Psychotrope]] : substance qui agit sur le système nerveux central et modifie la perception, l'humeur, la conscience ou le… (complément)
+- [[Publicité en ligne]] : publicité diffusée sur Internet, d'abord sous forme de bannières (images rectangulaires cliquables menant au… (complément)
+- [[Puits de carbone]] : réservoir naturel ou artificiel qui absorbe plus de carbone qu'il n'en rejette : océans, forêts, sols… (complément)
+- [[Qu'est-ce que les Lumières]] : article d'Emmanuel Kant paru en décembre 1784 dans la Berlinische Monatsschrift (complément)
+- [[Racisme]] : idéologie qui divise l'humanité en « races » hiérarchisées et attribue à chacune des qualités héritées, et… (complément)
+- [[Renaissance]] : période de l'histoire européenne, du XIVe siècle en Italie au XVIe siècle dans le reste de l'Europe, marquée… (complément)
+- [[Ressources fossiles]] : ressources carbonées formées en millions d'années à partir de matière organique enfouie : charbon, pétrole… (complément)
+- [[Retenue collinaire]] : petit réservoir artificiel, fermé par une digue, qui stocke l'eau de ruissellement, de source ou de pompage (complément)
+- [[RGPD]] : règlement de l'Union européenne (règlement (UE) 2016/679), applicable depuis le 25 mai 2018, qui encadre le… (complément)
+- [[Romantisme]] : mouvement artistique et intellectuel né en Allemagne et en Angleterre à la fin du XVIIIe siècle, puis répandu… (complément)
+- [[Réforme protestante]] : mouvement religieux du XVIe siècle qui conteste l'autorité et les pratiques de l'Église catholique et aboutit… (complément)
+- [[Régénération (biologie)]] : capacité d'un organisme à reconstituer un tissu, un organe ou une partie du corps perdus (complément)
+- [[Régénération naturelle assistée]] : pratique agroforestière qui consiste à protéger et tailler les repousses spontanées d'arbres et d'arbustes à… (complément)
+- [[Réserve mondiale de semences du Svalbard]] : banque mondiale des graines, au Svalbard, en Norvège : en cas de catastrophe mondiale, on peut tout replanter
+- [[Sabbat]] : dans le judaïsme, le septième jour de la semaine (du vendredi soir au samedi soir), consacré au repos et à… (complément)
+- [[Sacré]] : ce qui est séparé de l'ordinaire et entouré d'interdits et de respect, par opposition au profane (complément)
+- [[Sahara]] : plus grand désert chaud du monde, environ 9 millions de km², qui couvre l'Afrique du Nord de l'Atlantique à… (complément)
+- [[Sahel]] : bande semi-aride qui borde le Sahara au sud, de l'Atlantique (Sénégal, Mauritanie) à la mer Rouge (Soudan… (complément)
+- [[Schème]] : « Le schème technique, relation entre plusieurs structures et une opération complexe qui s'accomplit à…
+- [[Scolastique]] : philosophie et théologie enseignées dans les écoles et universités médiévales (XIe-XVe siècles), qui… (complément)
+- [[Silice]] : dioxyde de silicium (SiO₂), l'un des composés les plus abondants de la croûte terrestre, présent dans le… (complément)
+- [[Slogan]] : formule courte, frappante et facile à retenir, employée en publicité ou en politique pour diffuser une idée… (complément)
+- [[Statut de majorité et de minorité]] : les deux manières opposées dont l'objet technique peut être rattaché à l'homme selon Simondon
+- [[Stratosphère]] : couche de l'atmosphère située au-dessus de la troposphère, d'environ 10-15 km à 50 km d'altitude (complément)
+- [[Stéréotype]] : image simplifiée et figée attribuée à tous les membres d'un groupe (origine, sexe, âge, métier), qui sert de… (complément)
+- [[Surfusion]] : état d'un liquide qui reste liquide en dessous de sa température de solidification, faute de germe autour… (complément)
+- [[Sémantique]] : étude du sens des mots, des phrases et des énoncés, branche de la linguistique fondée par Michel Bréal (Essai… (complément)
+- [[Tardigrade]] : minuscule animal (souvent moins d'un millimètre) à huit pattes griffues, qui vit dans les mousses, les sols… (complément)
+- [[Taux de clics]] : indicateur de la publicité en ligne égal au nombre de clics sur une annonce divisé par son nombre… (complément)
+- [[Technocentrisme]] : attitude qui fait confiance à la technique, à l'expertise et au marché pour résoudre les problèmes… (complément)
+- [[Technologie (Simondon)]] : pensée réflexive des techniques, distincte des techniques elles-mêmes, qui crée une relation entre les…
+- [[Technosolutionnisme]] : croyance qu'à tout problème, y compris social, politique ou écologique, répond une solution technique, de… (complément)
+- [[Temps de cerveau disponible]] : formule de Patrick Le Lay, PDG de la chaîne TF1, rapportée en juillet 2004 (entretien publié dans l'ouvrage… (complément)
+- [[TF1]] : première chaîne de télévision française, issue de l'ancienne ORTF (1975) et privatisée en 1987 au profit du… (complément)
+- [[The Entropy Law and the Economic Process]] : ouvrage de l'économiste roumano-américain Nicholas Georgescu-Roegen publié en 1971 (Harvard University Press) (complément)
+- [[The Walt Disney Company]] : entreprise américaine de divertissement fondée en 1923 par Walt et Roy Disney, d'abord studio de dessins… (complément)
+- [[Théorie des tourbillons]] : cosmologie de Descartes (Le Monde, rédigé vers 1633 ; Principes de la philosophie, 1644), selon laquelle… (complément)
+- [[To Save Everything, Click Here]] : essai d'Evgeny Morozov publié en 2013 (To Save Everything, Click Here: The Folly of Technological… (complément)
+- [[Totipotence]] : une cellule végétale, même spécialisée, peut se dédifférencier et redevenir totipotente, c'est-à-dire capable…
+- [[Tradition]] : ensemble de croyances, de pratiques et de savoirs transmis de génération en génération, le plus souvent… (complément)
+- [[Travail manuel et travail intellectuel]] : distinction entre les activités qui transforment directement la matière avec le corps et les outils, et… (complément)
+- [[Trips Festival]] : festival de trois jours tenu en janvier 1966 au Longshore Hall de San Francisco, coorganisé par Stewart… (complément)
+- [[Trouble du déficit de l'attention avec ou sans hyperactivité]] : trouble du neurodéveloppement qui associe, à des degrés divers, inattention, hyperactivité et impulsivité… (complément)
+- [[Union africaine]] : organisation continentale qui réunit les 55 États africains, fondée en 2002 pour succéder à l'Organisation de… (complément)
+- [[Verre]] : matériau dur et transparent obtenu en faisant fondre de la silice (sable) avec de la soude et de la chaux… (complément)
+- [[Vulgarisation scientifique]] : mise à la portée d'un public non spécialiste des connaissances scientifiques et techniques, par des livres… (complément)
+- [[Vulgate]] : traduction latine de la Bible réalisée pour l'essentiel par saint Jérôme à la fin du IVe siècle, à partir de… (complément)
+- [[Wired (magazine)]] : magazine américain consacré aux technologies et à la culture numérique, fondé à San Francisco en 1993 par… (complément)
+- [[Zero Waste Home]] : livre de Bea Johnson, Française installée en Californie, publié en 2013 et traduit en français sous le titre… (complément)
+- [[Zéro déchet]] : démarche qui vise à réduire les déchets à la source plutôt qu'à mieux les traiter, à l'échelle d'un foyer… (complément)
+- [[Écocentrisme]] : position d'éthique environnementale qui accorde une valeur propre aux ensembles naturels, écosystèmes… (complément)
+- [[École polytechnique]] : grande école d'ingénieurs française fondée en 1794 par la Convention sous le nom d'École centrale des travaux… (complément)
+- [[Économie régénérative]] : économie opposée à l'économie capitaliste (dominer, exploiter, contrôler), fondée sur les 5R : Réduire…
+- [[Économie écologique]] : courant de l'économie qui considère l'économie comme un sous-système de la biosphère, soumis aux lois de la… (complément)
+- [[Éducation technique]] : transmission des savoirs et savoir-faire techniques, par l'apprentissage sur le tas, l'école professionnelle… (complément)
+- [[Élimination du dioxyde de carbone]] : famille de techniques qui retirent du CO₂ de l'atmosphère et le stockent durablement : boisement et… (complément)
+- [[Élément, individu et ensemble techniques]] : les trois niveaux de la réalité technique chez Simondon (Du mode d'existence des objets techniques, 1958) (complément)
+- [[Éruption du Pinatubo]] : éruption du volcan Pinatubo, aux Philippines, en juin 1991, l'une des plus fortes du XXe siècle (complément)
+- [[Éthique de la terre]] : éthique environnementale proposée par le forestier américain Aldo Leopold dans le dernier chapitre de… (complément)
+- [[Évangiles]] : les quatre livres du Nouveau Testament (selon Matthieu, Marc, Luc et Jean), rédigés en grec dans la seconde… (complément)
+
+## Résumés de sources (187)
 
 ### Documents PDF et PPTX (34)
 
@@ -2442,8 +2709,8 @@ Classés par matière. Les erreurs des cours sont corrigées directement dans le
 
 - **Gestion financière** : [[1 - gestion financière]]
 - **C／C++** : [[1 - basiques]], [[2 - structures code]], [[3 - pointeurs , tableaux, listes chainées, structures]], [[4 - C++]], [[4 - Prise de note]], [[4 - Cours complet]], [[5 - Compilation séparée]] ; programmes commentés, une fiche par dossier : [[tp2]], [[tp3]], [[tp4]], [[tp5]], [[tp6]], [[tp7]], [[tableaux]], [[pointeurs]], [[td listes chaînées]], [[formation C++]], [[exo-prof]], [[compilation séparée (C++)]]
-- **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]], [[6 - Culture du vivant]] (cours 3 : naissance et trois sens du design)
-- **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]]
+- **Culture du vivant** : [[4 - Culture du vivant]], [[5 - Culture du vivant]], [[6 - Culture du vivant]] (cours 3 : naissance et trois sens du design), [[7 - Culture du vivant]] (cours 4 : design avec, pour et pour la régénération du vivant ; biomatériaux, technosolutionnisme, géo-ingénierie, économie régénérative)
+- **histoire du design et interactions** : [[1 - Histoire du design]], [[2 - Histoire du design]], [[2 - De courrier à courriels]], [[2 - Prise de note de courrier à courriel]], [[3 - Histoire du design]] (chapitre 3, PDF : Internet grand public et Internet des enfants), [[3 - these de Simondon]] (extrait scanné de *Du mode d'existence des objets techniques* : majorité et minorité des techniques, encyclopédisme)
 - **SHS** : [[6 - design libre]]
 - **data mining** : [[1 - intro to data mining]]
 - **graph theory** : [[1 - Undirected graph]], [[2 - tree]], [[0 - Graph - Python]], [[3 - complexité]], [[4 - oriented graphs]], [[5 - colorier graph]] (diaporama PDF du chapitre 5 : coloration, nombre chromatique, Welsh-Powell) ; suppléments : [[2 - tree revisions années précédentes]], [[4 - bellman ford]], [[4 - dijkstra]]
@@ -2511,7 +2778,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (298 : 150 docx, 64 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-19. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (302 : 151 docx, 67 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-24. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2527,4 +2794,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (3 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 4 pdf, dont 3 dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 3 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (4 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 5 pdf, dont 3 dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 5 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

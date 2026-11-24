@@ -24,4 +24,6 @@ Voir aussi : [[L'art imite la nature]], [[Finalisme]], [[Technique (philosophie)
 
 En culture du vivant, [[5 - Culture du vivant]] fait du feu volé par Prométhée le symbole de la technique, *technè* en grec (fiche corrigée : le feu se dit *pyr*).
 
-Résumés : [[3 - philo]], [[4 - philo]], [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : dans l'Antiquité, les opérations techniques serviles sont bannies de la culture.
+
+Résumés : [[3 - philo]], [[4 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]

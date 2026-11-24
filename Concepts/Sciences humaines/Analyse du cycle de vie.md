@@ -23,4 +23,6 @@ Le cours ne la nomme pas. Elle apparaît dans les compléments de [[1 - innovati
 
 Voir aussi : [[Cycle de vie d'un produit]], [[Écoconception]], [[Value(s) Design]], [[Sobriété]]
 
-Résumés : [[1 - innovation]]
+[[7 - Culture du vivant]] : « biomatériaux ≠ performance écologique » ; celle-ci dépend des conditions de production, de transport, d'utilisation et de destruction.
+
+Résumés : [[1 - innovation]], [[7 - Culture du vivant]]

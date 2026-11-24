@@ -17,4 +17,6 @@ Voir aussi : [[Progrès technique]], [[Technè, praxis et épistémè]], [[Dési
 
 En culture du vivant, [[5 - Culture du vivant]] oppose l'amour de la technique, qui veut faire durer ses créations, à l'[[Obsolescence programmée|obsolescence programmée]], où Simondon verrait une « haine de la technique » ; les mythes de Prométhée et de Dédale y servent à penser la technique et ses limites.
 
-Résumés : [[2 - philo]], [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : deux modes de relation de l'homme à la technique, majeur et mineur ([[Statut de majorité et de minorité]]).
+
+Résumés : [[2 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]

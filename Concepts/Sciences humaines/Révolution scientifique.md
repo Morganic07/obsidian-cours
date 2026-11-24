@@ -15,4 +15,6 @@ Avec la Renaissance et la révolution scientifique, la nature n'est plus expliqu
 
 Voir aussi : [[Monde sublunaire et supralunaire]], [[Héliocentrisme]], [[Animal-machine]], [[Espace qualitatif et espace quantitatif]].
 
-Résumés : [[4 - philo]], [[5 - philo]]
+[[3 - these de Simondon]] : l'astronomie du XVIIe siècle, connue de Chrysale par sa lunette ([[Les Femmes savantes]]).
+
+Résumés : [[4 - philo]], [[5 - philo]], [[3 - these de Simondon]]

@@ -22,4 +22,6 @@ Dans le cours 2 de 4e année ([[5 - Culture du vivant]]), les ingénieurs d'aujo
 
 Voir aussi : [[Technique (philosophie)]], [[Aliénation]], [[Main invisible]], [[Dimension politique du design]], [[World Wide Web]].
 
-Résumés : [[2 - philo]], [[4 - Culture du vivant]], [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : économie qui « domine, exploite, contrôle », où les projets de design pour le vivant ne peuvent être durables (voir [[Économie régénérative]]).
+
+Résumés : [[2 - philo]], [[4 - Culture du vivant]], [[5 - Culture du vivant]], [[7 - Culture du vivant]]

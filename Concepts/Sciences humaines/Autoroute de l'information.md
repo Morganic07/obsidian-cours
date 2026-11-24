@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Internet]], [[World Wide Web]], [[Métavers]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - Histoire du design]] : Al Gore, promoteur de l'image, fait adopter le [[High Performance Computing Act]] de 1991.
+
+Résumés : [[1 - Histoire du design]] · [[3 - Histoire du design]]

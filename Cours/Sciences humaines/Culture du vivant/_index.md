@@ -10,7 +10,8 @@ sources:
   - "[[4 - Culture du vivant|Culture du vivant - prise de note]]"
   - "[[5 - Culture du vivant|chp 2 - prise de note]]"
   - "[[6 - Culture du vivant|Chp 3 - prise de note]]"
-maj: 2026-11-19
+  - "[[7 - Culture du vivant|chp4 - prise de note]]"
+maj: 2026-11-24
 ---
 
 Matière suivie sur plusieurs années (Year 3, Year 4) : une section par année.
@@ -71,6 +72,7 @@ Culture du vivant de 4e année : technique, capitalisme et numérique, puis cons
 | [[4 - Culture du vivant\|Culture du vivant - prise de note]] | Capitalisme, design politique, histoire des techniques, web | [[4 - Culture du vivant\|Résumé]] |
 | [[5 - Culture du vivant\|chp 2 - prise de note]] | Déclin du vivant, société de consommation, forêt, tournant relationnel, réensauvagement, mythes, luttes, design | [[5 - Culture du vivant\|Résumé]] |
 | [[6 - Culture du vivant\|Chp 3 - prise de note]] | Naissance du design (1851 ou l'Antiquité ?), trois sens du design | [[6 - Culture du vivant\|Résumé]] |
+| [[7 - Culture du vivant\|chp4 - prise de note]] | Design avec le vivant (Full Grown, mycélium, algues, biomatériaux ≠ performance écologique), design pour le vivant (écocentrisme ou technocentrisme, technosolutionnisme, géo-ingénierie, Grande Muraille verte), design pour la régénération (totipotence, Svalbard, économie régénérative et 5R, Georgescu-Roegen) | [[7 - Culture du vivant\|Résumé]] |
 
 ### Concepts
 
@@ -96,6 +98,13 @@ Cours 3 ([[6 - Culture du vivant]]) :
 
 - **Naissance du design** : [[Grande Exposition de 1851]], [[Crystal Palace]], [[Chaise de Reniseneb]], [[Hiéroglyphes égyptiens]], [[Assemblages préfabriqués]], [[Production en série]], [[Révolution industrielle]], [[Motif décoratif]], [[Arts and Crafts]], [[Deutscher Werkbund]], [[Bauhaus]], [[Fonctionnalisme]], [[Meuble en kit]], [[Disegno]]
 - **Trois sens du design** : [[Sciences de l'artificiel]], [[Cahier des charges]], [[Analyse fonctionnelle]], [[Conception centrée utilisateur]], [[Design industriel]], [[Styling]], [[Esthétique industrielle]], [[Arts appliqués]], [[Société de consommation]], [[Consommation ostentatoire]], [[Prototype]], [[Design for the Real World]], [[Design social]], [[Responsabilité élargie du designer]], [[Design spéculatif]], [[Écoconception]], [[Design centré vivant]], [[Design thinking]]
+
+Cours 4 ([[7 - Culture du vivant]]) :
+
+- **Design avec le vivant** : [[Commensalisme]], [[Full Grown]], [[Greffe (botanique)]], [[Mycélium]], [[Ecovative]], [[Algue]], [[Diatomée]], [[Silice]], [[Verre]], [[Calebasse]], [[Pollution de l'air intérieur]], [[Composés organiques volatils]], [[OQAI]], [[ANSES]], [[Emballage]], [[Plastique]], [[Polystyrène]], [[Bioplastique]], [[Acide polylactique]], [[Industrie pétrochimique]], [[Lobbying]], [[Béton de chanvre]], [[Cellulose bactérienne]], [[Kombucha]]
+- **Biomatériaux** : [[Biomatériau]], [[Biomasse]], [[Matériau biosourcé]], [[Matériau biosynthétique]], [[Biofabrication]], [[Matériau bioassemblé]], [[Micro-organisme]], [[Polymère]], [[Biodégradabilité]], [[Compostage]], [[Ressources fossiles]], [[Analyse du cycle de vie]], [[Greenwashing]]
+- **Design pour le vivant** : [[Écocentrisme]], [[Biocentrisme]], [[Anthropocentrisme]], [[Technocentrisme]], [[Éthique de la terre]], [[Almanach d'un comté des sables]], [[The Walt Disney Company]], [[Racisme]], [[Stéréotype]], [[Antisémitisme]], [[Technosolutionnisme]], [[To Save Everything, Click Here]], [[Modification du temps]], [[Ensemencement des nuages]], [[Iodure d'argent]], [[Grêle]], [[Canon anti-grêle]], [[Surfusion]], [[Organisation météorologique mondiale]], [[Convention ENMOD]], [[Neige de culture]], [[Nappe phréatique]], [[Retenue collinaire]], [[Cour des comptes]], [[Géo-ingénierie]], [[Gestion du rayonnement solaire]], [[Albédo]], [[Stratosphère]], [[Éruption du Pinatubo]], [[Élimination du dioxyde de carbone]], [[Changement climatique]], [[Grande Muraille verte]], [[Union africaine]], [[Désertification]], [[Convention des Nations unies sur la lutte contre la désertification]], [[Sahara]], [[Sahel]], [[Régénération naturelle assistée]], [[Agroforesterie]], [[Ingénierie écologique]]
+- **Régénération du vivant** : [[Totipotence]], [[Cellule souche]], [[Bouturage]], [[Régénération (biologie)]], [[Axolotl]], [[Autotomie]], [[Tardigrade]], [[Cryptobiose]], [[Réserve mondiale de semences du Svalbard]], [[Crop Trust]], [[Capitalisme]], [[Maîtrise de la nature]], [[Économie régénérative]], [[Zéro déchet]], [[Économie circulaire]], [[Bioéconomie]], [[Économie écologique]], [[Entropie (thermodynamique)]], [[Décroissance]], [[Justice environnementale]], [[Utopie]]
 
 Les fiches sont enrichies de compléments hors du cours (passages marqués ⓘ) ; le cours 2 compte plusieurs corrections (marques ✎).
 

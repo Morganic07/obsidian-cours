@@ -14,4 +14,6 @@ Pour [[5 - Culture du vivant]], le [[Profilage des consommateurs|profilage des c
 
 Voir aussi : [[Marketing]], [[Société de consommation]], [[Économie de l'attention]], [[Capitalisme de surveillance]].
 
-Résumés : [[5 - Culture du vivant]]
+[[3 - Histoire du design]] : première bannière [[Publicité en ligne|publicitaire en ligne]], le 27 octobre 1994 sur HotWired.
+
+Résumés : [[5 - Culture du vivant]], [[3 - Histoire du design]]

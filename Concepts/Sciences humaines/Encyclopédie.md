@@ -14,4 +14,8 @@ maj: 2026-11-10
 
 Voir aussi : [[Métaphore]], [[Lien hypertexte]], [[Communs numériques]].
 
-Résumés : [[2 - Histoire du design]]
+[[3 - Histoire du design]] : les encyclopédies numériques comme [[Encarta]] deviennent des références pédagogiques.
+
+[[3 - these de Simondon]] : modèle de la connaissance technique « rationnelle, théorique, scientifique, et universelle » ; ses planches permettent de construire les machines ; « une sorte de Fête de la Fédération des techniques » ; voir [[Encyclopédisme]].
+
+Résumés : [[2 - Histoire du design]] · [[3 - Histoire du design]] · [[3 - these de Simondon]]

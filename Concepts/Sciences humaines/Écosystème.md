@@ -16,4 +16,6 @@ Voir aussi : [[Biodiversité]], [[Écologie (science)]], [[Écosystème fermé]]
 
 [[1 - Histoire du design]] : exemple de l'homéostasie (une plante prolifère, les herbivores puis les prédateurs augmentent : les populations se régulent mutuellement, sans centre de commande unique).
 
-Résumés : [[5 - Culture du vivant]] · [[1 - Histoire du design]]
+[[7 - Culture du vivant]] : les effets sur les écosystèmes sont un critère de la performance écologique d'un [[Biomatériau|biomatériau]].
+
+Résumés : [[5 - Culture du vivant]] · [[1 - Histoire du design]] · [[7 - Culture du vivant]]

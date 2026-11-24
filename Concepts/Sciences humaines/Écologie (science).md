@@ -15,4 +15,6 @@ Pour [[5 - Culture du vivant]], le [[Tournant relationnel|tournant relationnel]]
 
 Voir aussi : [[Biodiversité]], [[Darwinisme]].
 
-Résumés : [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : [[Commensalisme|espèces commensales]], qui vivent des déchets humains.
+
+Résumés : [[5 - Culture du vivant]], [[7 - Culture du vivant]]

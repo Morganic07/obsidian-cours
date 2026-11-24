@@ -18,4 +18,6 @@ Voir aussi : [[Messagerie instantanée]], [[SMS]], [[Bulle de filtre]], [[Écono
 
 - [[5 - Culture du vivant]] : environ 40 % des paysages ravagés le seraient à cause d'Instagram et des influenceurs (affirmation non sourcée) ; les compléments décrivent le surtourisme provoqué par les réseaux sociaux.
 
-Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[5 - Culture du vivant]]
+[[3 - Histoire du design]] : [[Club Penguin]], l'un des premiers réseaux sociaux pour enfants ; [[Facebook]] (2004) et [[YouTube]] (2005) font d'Internet un espace social.
+
+Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[5 - Culture du vivant]] · [[3 - Histoire du design]]

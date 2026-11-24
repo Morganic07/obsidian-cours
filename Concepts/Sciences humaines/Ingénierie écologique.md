@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Bioremédiation]], [[Écosystème]].
 
-Résumés : [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : la [[Grande Muraille verte]], « bon projet technocentré ».
+
+Résumés : [[5 - Culture du vivant]], [[7 - Culture du vivant]]

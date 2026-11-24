@@ -12,4 +12,6 @@ maj: 2026-11-11
 
 [[4 - Cours complet]] cite les deuxième et troisième préceptes pour justifier d'apprendre par étapes simples et de décomposer un gros traitement en petites fonctions (voir [[Décomposition fonctionnelle]]).
 
-Résumés : [[4 - Cours complet]]
+[[3 - these de Simondon]] : *Cybernetics* de Wiener est « un nouveau *Discours de la Méthode* » ([[Cybernetics (livre)]]).
+
+Résumés : [[4 - Cours complet]], [[3 - these de Simondon]]

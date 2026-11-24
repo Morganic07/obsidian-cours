@@ -16,4 +16,6 @@ Voir aussi : [[Portail web]], [[Nom de domaine]].
 
 [[1 - Histoire du design]] : résumé des images commentées de fin de document (GeoCities, hébergeur de pages personnelles).
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : GeoCities, hébergeur cité parmi les « annuaires » des pionniers du Web.
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

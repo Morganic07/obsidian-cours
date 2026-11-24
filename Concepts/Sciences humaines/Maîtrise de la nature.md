@@ -25,4 +25,6 @@ Notion parente : [[Progrès technique]]. Voir aussi : [[Nature comme réserve de
 
 En culture du vivant, [[5 - Culture du vivant]] en cherche la racine dans la [[Genèse]], où l'Homme est créé supérieur aux animaux et chargé de « soumettre » la terre.
 
-Résumés : [[3 - philo]], [[4 - philo]], [[5 - philo]], [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : économie capitaliste qui veut « dominer, exploiter, contrôler », et contrôle de la météo.
+
+Résumés : [[3 - philo]], [[4 - philo]], [[5 - philo]], [[5 - Culture du vivant]], [[7 - Culture du vivant]]

@@ -23,4 +23,6 @@ Voir aussi : [[Technicité]], [[Transduction]], [[Organisme et machine]], [[Cybe
 
 Elle est aussi rappelée dans les compléments de [[5 - Culture du vivant]], à propos de la « haine de la technique » et de l'[[Obsolescence programmée|obsolescence programmée]].
 
-Résumés : [[7 - philo]], [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : l'objet pensé par l'ingénieur est « abstrait, non rattaché au monde naturel » (sens différent de l'objet abstrait de la première partie du livre) ; voir [[Élément, individu et ensemble techniques]].
+
+Résumés : [[7 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]

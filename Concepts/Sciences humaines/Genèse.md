@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Anthropocentrisme]], [[Maîtrise de la nature]], [[Nature comme réserve de ressources]].
 
-Résumés : [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : l'offrande d'Abel préférée à celle de Caïn, choix d'une technique noble ([[Caïn et Abel]]).
+
+Résumés : [[5 - Culture du vivant]], [[3 - these de Simondon]]

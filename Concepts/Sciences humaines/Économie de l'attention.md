@@ -26,4 +26,6 @@ maj: 2026-11-08
 
 Voir aussi : [[Temps des écrans]], [[Travail invisible des utilisateurs]], [[Économie des données]], [[Gamification]], [[Charge cognitive]], [[Messagerie instantanée]]
 
-Résumés : [[1 - sémiotique]], [[3 - sémiotique]], [[2 - De courrier à courriels]], [[2 - Histoire du design]]
+[[3 - Histoire du design]] : premier enjeu contemporain de l'Internet des enfants ; les plateformes captent le « [[Temps de cerveau disponible|temps de cerveau disponible]] ».
+
+Résumés : [[1 - sémiotique]], [[3 - sémiotique]], [[2 - De courrier à courriels]], [[2 - Histoire du design]], [[3 - Histoire du design]]

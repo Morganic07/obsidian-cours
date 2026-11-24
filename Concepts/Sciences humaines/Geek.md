@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Éthique hacker]], [[Science-fiction]], [[Contre-culture]].
 
-Résumés : [[2 - Histoire du design]]
+[[3 - Histoire du design]] : « du réseau des geeks à l'ouverture au monde » : dans les années 1980, Internet est limité aux chercheurs et aux passionnés.
+
+Résumés : [[2 - Histoire du design]] · [[3 - Histoire du design]]

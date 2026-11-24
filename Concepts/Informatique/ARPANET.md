@@ -18,4 +18,6 @@ Repères (complément, hors du cours) : l'agence s'appelle ARPA (*Advanced Resea
 
 Voir aussi : [[Commutation de paquets]], [[Suite des protocoles Internet]], [[Internet]], [[Réseau décentralisé]], [[Silicon Valley]], [[Routage IP]].
 
-Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]]
+[[3 - Histoire du design]] : ancêtre d'Internet né dans les années 1960, présenté comme un réseau résistant aux attaques nucléaires, puis adopté par les chercheurs pour partager des connaissances.
+
+Résumés : [[1 - Histoire du design]] · [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[3 - Histoire du design]]

@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Psychédélisme]], [[Contre-culture]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - Histoire du design]] : Ken Kesey, qui les anime, et Stewart Brand y sont cités comme figures de la contre-culture qui voient l'informatique comme un moyen d'émancipation.
+
+Résumés : [[1 - Histoire du design]] · [[3 - Histoire du design]]

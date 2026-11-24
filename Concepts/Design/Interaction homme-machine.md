@@ -33,4 +33,6 @@ Voir aussi : [[Expérience utilisateur]], [[Ergonomie]].
 
 En histoire du design (Year 4), [[1 - Histoire du design]] montre comment Turing déplace la relation HUMAIN → COMMANDE → MACHINE vers une relation HUMAIN // MACHINE, où l'ordinateur devient un interlocuteur potentiel.
 
-Résumés : [[1 - Ethnographie visuelle]], [[1 - UX]], [[4 - imaginaires de l'automobile]], [[1 - Histoire du design]]
+[[3 - these de Simondon]] : Simondon appelle « un symbolisme commun à la machine et à l'homme » qui rende possible leur synergie.
+
+Résumés : [[1 - Ethnographie visuelle]], [[1 - UX]], [[4 - imaginaires de l'automobile]], [[1 - Histoire du design]], [[3 - these de Simondon]]

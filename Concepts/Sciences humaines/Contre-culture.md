@@ -22,4 +22,6 @@ Voir aussi : [[Beat Generation]], [[Mouvement hippie]], [[Retour à la terre]], 
 
 [[5 - Culture du vivant]] situe les premières mobilisations écologiques « modernes » des années 1960-1970 dans les mouvements *peace and love* (voir [[Écologisme]]).
 
-Résumés : [[1 - Histoire du design]], [[5 - Culture du vivant]]
+[[3 - Histoire du design]] : les hippies de la côte ouest voient l'informatique comme un outil d'émancipation, au même titre que les drogues psychédéliques.
+
+Résumés : [[1 - Histoire du design]], [[3 - Histoire du design]], [[5 - Culture du vivant]]

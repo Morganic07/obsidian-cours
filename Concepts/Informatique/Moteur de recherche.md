@@ -16,4 +16,6 @@ Voir aussi : [[Portail web]], [[World Wide Web]].
 
 [[1 - Histoire du design]] : résumé des images commentées de fin de document (AltaVista et Lycos, moteurs de recherche et non annuaires).
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : avant Google (1998), Yahoo (annuaire), Lycos (moteur) et GeoCities (hébergeur) servent à trouver des sites ; Yahooligans, moteur pour enfants.
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

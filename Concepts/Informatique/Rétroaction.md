@@ -34,4 +34,6 @@ En histoire du design (Year 4), **définition** (d'après [[1 - Histoire du desi
 
 Voir aussi : [[Cybernétique]], [[Homéostasie]], [[Organisme et machine]], [[Vitalisme]].
 
-Résumés : [[7 - philo]], [[1 - Histoire du design]]
+[[3 - these de Simondon]] : les « processus de causalité récurrente à réaction négative » font sortir la finalité du domaine magique.
+
+Résumés : [[7 - philo]], [[1 - Histoire du design]], [[3 - these de Simondon]]

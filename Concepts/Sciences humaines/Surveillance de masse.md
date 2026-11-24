@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[1984 (roman)]], [[Contrôle social]], [[Société de contrôle]], [[Totalitarisme]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - Histoire du design]] : « de la liberté à la surveillance » ; protéger la jeunesse contre la surveillance fait partie des défis actuels.
+
+Résumés : [[1 - Histoire du design]] · [[3 - Histoire du design]]

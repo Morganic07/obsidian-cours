@@ -16,4 +16,6 @@ Voir aussi : [[Langage SMS]], [[Réseau social]], [[Messagerie instantanée]].
 
 [[1 - Histoire du design]] : compléments de la partie « De la communauté physique à la communauté en réseau » ([[WELL]], BBS, Usenet).
 
-Résumés : [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : les forums et les newsgroups deviennent des espaces de discussion par thème.
+
+Résumés : [[2 - Prise de note de courrier à courriel]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

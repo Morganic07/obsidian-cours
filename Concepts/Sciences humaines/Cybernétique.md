@@ -47,4 +47,6 @@ Le titre complet du livre de Wiener est *Cybernetics, or Control and Communicati
 
 Notion parente : [[Organisme et machine]]. Voir aussi : [[Animal-machine]], la frise de l'IA de [[1 - IA|Cours 1 (IA)]], et [[3 - imaginaires automobile]] en SHS (cyborg, voiture prolongement du corps), [[Théorie de l'information]], [[Société de contrôle]].
 
-Résumés : [[7 - philo|philo 5]], [[1 - IA|Cours 1 (IA, résumé)]], [[1 - Histoire du design]]
+[[3 - these de Simondon]] : la cybernétique « donne à l'homme un nouveau type de majorité » et le libère « du prestige inconditionnel de l'idée de finalité » ; voir [[Cybernetics (livre)]].
+
+Résumés : [[7 - philo|philo 5]], [[1 - IA|Cours 1 (IA, résumé)]], [[1 - Histoire du design]], [[3 - these de Simondon]]

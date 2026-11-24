@@ -50,4 +50,4 @@ En 4e année ([[5 - Culture du vivant]]), l'obsolescence programmée prolonge la
 
 Voir aussi : [[Retail régénératif]], [[Servitisation]], [[Limites planétaires]], [[Cradle to cradle]], [[Écoconception]], [[Écologie industrielle et territoriale]], [[Économie de la fonctionnalité]], [[Cycle de vie d'un produit]], [[Réemploi, recyclage et reconditionnement]], [[Éco-organisme]], [[Sobriété]]
 
-Résumés : [[Reyou|Reyou]], [[2 - Culture du vivant|Culture du vivant Dernier cours]], [[Melvita|exposé melvita]], [[ELBA|Topo ELBA]], [[5 - Culture du vivant]]
+Résumés : [[Reyou|Reyou]], [[2 - Culture du vivant|Culture du vivant Dernier cours]], [[Melvita|exposé melvita]], [[ELBA|Topo ELBA]], [[5 - Culture du vivant]], [[7 - Culture du vivant]] (les 5R de l'[[Économie régénérative|économie régénérative]])

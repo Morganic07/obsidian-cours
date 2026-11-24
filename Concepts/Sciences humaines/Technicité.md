@@ -5,7 +5,6 @@ tags:
   - year4
 aliases:
   - technicité propre
-  - mode d'existence des objets techniques
 matieres:
   - Philosophie
 sources:
@@ -22,4 +21,6 @@ En Culture du vivant (4e année), le cours attribue à Simondon l'expression « 
 
 Notion parente : [[Organisme et machine]]. Voir aussi : [[Transduction]], [[Aliénation]].
 
-Résumés : [[7 - philo]], [[3 - philo]], [[5 - Culture du vivant]]
+[[3 - these de Simondon]] : la relation de l'esprit encyclopédique à l'objet technique garde « un sens toujours valable pour la connaissance de la technicité » ; l'objet technique a deux statuts, de majorité et de minorité ([[Statut de majorité et de minorité]], livre : [[Du mode d'existence des objets techniques]]).
+
+Résumés : [[7 - philo]], [[3 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]

@@ -36,4 +36,6 @@ Pour Simondon (*Du mode d'existence des objets techniques*, 1958), la principale
 
 Voir aussi : [[Homo faber]], [[Technicité]], [[Capitalisme]].
 
-Résumés : [[3 - philo]], [[4 - philo]], [[7 - philo]]
+[[3 - these de Simondon]] : au XXe siècle, « c'est l'isolement qui l'asservit, et le manque d'homogénéité de l'information qui l'aliène » ; « tout encyclopédisme est un humanisme » ; « la technologie réduit l'aliénation ».
+
+Résumés : [[3 - philo]], [[4 - philo]], [[7 - philo]], [[3 - these de Simondon]]

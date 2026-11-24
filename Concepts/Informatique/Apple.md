@@ -16,4 +16,6 @@ Voir aussi : [[WIMP]], [[Silicon Valley]], [[Design d'interface]].
 
 [[1 - Histoire du design]] : fondation d'Apple en 1976 (Apple II, 1977), Apple Lisa (1983) et [[Macintosh]] (1984), dans les compléments sur l'ordinateur personnel et l'année 1984.
 
-Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]]
+[[3 - Histoire du design]] : participe au [[NetDay]], qui connecte gratuitement les écoles à Internet.
+
+Résumés : [[2 - Histoire du design]] · [[1 - Histoire du design]] · [[3 - Histoire du design]]

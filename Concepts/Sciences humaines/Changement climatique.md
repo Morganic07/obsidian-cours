@@ -14,4 +14,6 @@ Citée dans [[5 - Culture du vivant]] parmi les limites planétaires dépassées
 
 Voir aussi : [[Effet de serre]], [[Accord de Paris]], [[Empreinte carbone]], [[Warming stripes]].
 
-Résumés : [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : contrôle de la météo et [[Géo-ingénierie|géo-ingénierie]], exemples de [[Technosolutionnisme|technosolutionnisme]].
+
+Résumés : [[5 - Culture du vivant]], [[7 - Culture du vivant]]

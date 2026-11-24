@@ -15,4 +15,6 @@ Notion des compléments de [[5 - Culture du vivant]], pour mesurer autrement le 
 
 Voir aussi : [[Érosion de la biodiversité]], [[Biodiversité]].
 
-Résumés : [[5 - Culture du vivant]]
+[[7 - Culture du vivant]] : critère de définition des [[Biomatériau|biomatériaux]] et des [[Matériau biosourcé|matériaux biosourcés]].
+
+Résumés : [[5 - Culture du vivant]], [[7 - Culture du vivant]]

@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Capital-risque]], [[Marché financier]], [[Portail web]].
 
-Résumés : [[2 - Histoire du design]]
+[[3 - Histoire du design]] : entre 1995 et 2000, expansion du Web et des investissements publicitaires ; les entreprises cherchent à capter l'attention des jeunes internautes.
+
+Résumés : [[2 - Histoire du design]] · [[3 - Histoire du design]]

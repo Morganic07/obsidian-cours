@@ -19,4 +19,6 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Design d'interface]
 
 En histoire du design (Year 4), [[1 - Histoire du design]] lit le jeu de l'imitation de Turing comme une expérience d'interaction : la perception que l'humain a de la machine dépend de la manière dont il dialogue avec elle à travers une interface.
 
-Résumés (rapprochement, complément hors du cours) : [[1 - UX]], [[1 - corps à l'oeuvre]] ; [[1 - Histoire du design]]
+[[3 - these de Simondon]] : Simondon appelle « un symbolisme commun à la machine et à l'homme » qui rende possible leur synergie.
+
+Résumés (rapprochement, complément hors du cours) : [[1 - UX]], [[1 - corps à l'oeuvre]] ; [[1 - Histoire du design]], [[3 - these de Simondon]]

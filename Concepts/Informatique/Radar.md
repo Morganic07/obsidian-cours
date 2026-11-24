@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Ordinateur analogique]], [[Servomécanisme]], [[Cybernétique]].
 
-Résumés : [[1 - Histoire du design]]
+[[3 - these de Simondon]] : ses écrans cathodiques annoncent un nouveau symbolisme visuel universel.
+
+Résumés : [[1 - Histoire du design]], [[3 - these de Simondon]]

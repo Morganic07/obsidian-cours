@@ -23,4 +23,6 @@ D'après [[6 - philo]] : avant les Lumières, l'histoire était perçue comme un
 
 Voir aussi : [[Philosophie de l'histoire]], [[Progrès moral]], [[Progrès technique]], [[Autonomie morale]], [[Perfectibilité]].
 
-Résumés : [[6 - philo]]
+[[3 - these de Simondon]] : deuxième étape de l'esprit encyclopédique, où « la pensée scientifique a libéré la pensée technique » ([[Encyclopédisme]]).
+
+Résumés : [[6 - philo]], [[3 - these de Simondon]]
