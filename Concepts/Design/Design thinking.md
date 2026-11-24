@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [design thinking, pensée design]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"]
 maj: 2026-11-08
 ---
 
@@ -24,4 +24,6 @@ Le cours ne nomme pas le design thinking : IDEO (années 1990) et la Stanford d.
 
 Voir aussi : [[Conception centrée utilisateur]], [[Atelier de co-conception]], [[Persona]], [[Carte d'expérience]].
 
-Résumés : [[1 - culture du soin]]
+Dans les compléments de [[3 - culture du soin]] : la posture « observer, attendre, infléchir, moduler, laisser advenir » partage ses itérations, mais y ajoute l'attente du moment où la personne est disponible.
+
+Résumés : [[1 - culture du soin]], [[3 - culture du soin]]

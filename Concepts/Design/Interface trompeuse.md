@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [dark pattern, dark patterns, interface truquée, interfaces truquées, design trompeur, deceptive design, deceptive pattern]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
 maj: 2026-11-08
@@ -27,4 +27,6 @@ Le cours ne nomme pas la notion. Le cours 2 ([[2 - sémiotique]]) montre des ban
 
 Voir aussi : [[Énonciation éditoriale]], [[Consentement éclairé]], [[Écrit d'écran]], [[Affordance]]
 
-Résumés : [[2 - sémiotique]], [[3 - sémiotique]]
+[[2 - culture du soin]] (compléments) : à l'opposé du soin socratique, qui aide chacun à juger par lui-même, elle décide à la place de l'usager.
+
+Résumés : [[2 - sémiotique]], [[3 - sémiotique]], [[2 - culture du soin]]

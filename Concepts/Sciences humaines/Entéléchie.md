@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : en excluant l'historicité, l'encyclopédisme « introduit l'homme à la possession d'une fausse entéléchie » : il fait prendre l'état présent des techniques pour un accomplissement, alors que « cette étape est encore riche de virtualités » ([[Ordre du simultané et ordre du successif]], [[Encyclopédisme]]).
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : l'accomplissement d'un être, terme de la « réalisation du potentiel » ([[Puissance et acte]]).
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

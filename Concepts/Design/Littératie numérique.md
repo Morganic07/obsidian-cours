@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [digital literacy, savoir-lire numérique, compétence numérique]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
 maj: 2026-11-07
@@ -14,4 +14,6 @@ Nommée dans Cours 2 (Sémiotique) ([[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 
 
 Voir aussi : [[Écrit d'écran]].
 
-Résumés : [[2 - sémiotique]]
+[[2 - culture du soin]] (compléments) : la développer, plutôt que faire à la place de l'usager, relève du « rendre capable » de l'application au design ([[Pouvoir d'agir]], [[Environnement capacitant]]).
+
+Résumés : [[2 - sémiotique]], [[2 - culture du soin]]

@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year1
+  - year4
 aliases:
   - peinture à fresque
   - a fresco
@@ -26,4 +27,6 @@ Le cours ne la nomme pas : il présente une peinture comme l'association d'un pi
 
 Voir aussi : [[Liant et diluant]], [[Pigment]], [[Tempera]], [[Encaustique]].
 
-Résumés : [[3 - Peinture]]
+[[2 - culture du soin]] : [[L'École d'Athènes]] de Raphaël (1509-1511), fresque des [[Chambres de Raphaël]].
+
+Résumés : [[3 - Peinture]], [[2 - culture du soin]]

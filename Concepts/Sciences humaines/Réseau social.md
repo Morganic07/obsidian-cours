@@ -20,4 +20,6 @@ Voir aussi : [[Messagerie instantanée]], [[SMS]], [[Bulle de filtre]], [[Écono
 
 [[3 - Histoire du design]] : [[Club Penguin]], l'un des premiers réseaux sociaux pour enfants ; [[Facebook]] (2004) et [[YouTube]] (2005) font d'Internet un espace social.
 
-Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[5 - Culture du vivant]] · [[3 - Histoire du design]]
+[[2 - culture du soin]] (compléments) : compteurs et classements y rejouent la « compétition généralisée » homérique ([[Comparaison sociale]]).
+
+Résumés : [[2 - Histoire du design]] · [[2 - De courrier à courriels]] · [[2 - Prise de note de courrier à courriel]] · [[5 - Culture du vivant]] · [[3 - Histoire du design]] · [[2 - culture du soin]]

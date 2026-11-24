@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Mythe de Prométhée]], [[Limites planétaires]], [[Maîtrise de la nature]].
 
-Résumés : [[5 - Culture du vivant]]
+[[2 - culture du soin]] (compléments) : sens premier de la maxime delphique « [[Connais-toi toi-même]] » : sache que tu es un mortel, non un dieu.
+
+Résumés : [[5 - Culture du vivant]], [[2 - culture du soin]]

@@ -18,7 +18,7 @@ sources:
   - "Global Exam Vocab, dans Raw/Year 2/Anglais (exclu du miroir)"
   - "[[Raw/Year 3/Affordance/Présentation Tests Utilisateurs ID3.pptx|Présentation Tests Utilisateurs ID3.pptx]]"
   - "[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"
-  - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
+  - "[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"
   - "[[Raw/Year 3/Projet courts/Santé au travail - fiche ressources.pdf|Santé au travail - fiche ressources.pdf]]"
 maj: 2026-11-07
 ---
@@ -37,4 +37,6 @@ Notion parente : [[Expérience utilisateur]]. Voir aussi : [[Accessibilité]], [
 
 [[3 - these de Simondon]] : le « human engineering », étude du rapport homme-machine, fonde un « encyclopédisme à base technologique ».
 
-Résumés : [[1 - UX]], [[2 - sémiotique]], [[1 - culture du soin]], [[Santé au travail (Projet year 3)]], [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : l'ergonome Pierre Falzon en a tiré la notion d'[[Environnement capacitant|environnement capacitant]], qui illustre le « rendre capable » de l'application au design.
+
+Résumés : [[1 - UX]], [[2 - sémiotique]], [[1 - culture du soin]], [[Santé au travail (Projet year 3)]], [[3 - these de Simondon]], [[2 - culture du soin]]

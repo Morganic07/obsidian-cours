@@ -3,7 +3,7 @@ type: concept
 tags: [year4]
 aliases: [homéostasie, homeostasis, homéostatique, équilibre homéostatique]
 sources: ["[[Raw/Year 4/histoire du design et interactions /chp1 cours.pdf|chp1 cours.pdf]]"]
-maj: 2026-11-10
+maj: 2026-11-24
 ---
 
 **Définition** (d'après [[1 - Histoire du design]]) : « maintien dynamique de l'équilibre d'un système ». La [[Cybernétique|cybernétique]] s'intéresse à la manière dont un système conserve son équilibre ; le chapitre prend l'exemple d'un écosystème : une espèce végétale prolifère, les herbivores qui la consomment se multiplient, les prédateurs disposent alors de davantage de nourriture et se multiplient à leur tour. Les populations se régulent mutuellement.
@@ -22,4 +22,6 @@ Notion parente : [[Cybernétique]]. Voir aussi : [[Rétroaction]], [[Réseau dé
 
 [[3 - these de Simondon]] : « les homéostasies sont des fonctions partielles » ; « l'évolution désadapte autant qu'elle adapte ».
 
-Résumés : [[1 - Histoire du design]], [[3 - these de Simondon]]
+[[3 - culture du soin]] (compléments) : rapprochée de l'harmonie chinoise, qui « n'est jamais acquise » et « procède par ajustements incessants », et de l'« équilibre dynamique » que le soin doit restaurer (voir [[Harmonie]]).
+
+Résumés : [[1 - Histoire du design]], [[3 - these de Simondon]], [[3 - culture du soin]]

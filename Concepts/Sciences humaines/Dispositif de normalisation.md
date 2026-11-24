@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [normalisation des conduites, normes implicites, dispositif (Foucault), pouvoir disciplinaire, disciplinary power]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"]
 maj: 2026-11-08
 ---
 
@@ -32,6 +32,8 @@ Dans la synthèse de la séance, la question devient « comment faut-il s'y comp
 
 **Exemple actuel.** Le [[Design hostile]] (architecture défensive) : bancs à accoudoirs ou inclinés pour empêcher de s'allonger, picots sous les porches. La forme normalise l'usage de l'espace public et déplace hors de la vue ceux qu'elle exclut.
 
+Dans les compléments de [[3 - culture du soin]] : contraste avec le [[Sage (pensée chinoise)|sage chinois]], qui ne part pas d'un modèle à appliquer et ne rectifie pas le monde de l'extérieur.
+
 Voir aussi : [[Ouverture d'un monde (Heidegger)]], [[Structuration de l'expérience (Merleau-Ponty)]].
 
-Résumés : [[1 - culture du soin]]
+Résumés : [[1 - culture du soin]], [[3 - culture du soin]]

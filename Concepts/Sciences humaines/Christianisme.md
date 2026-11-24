@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : exemple de la « loi » selon laquelle toute invention libératrice se retourne contre sa fin. Le christianisme fut à son origine « une force libératrice », appelant l'homme au-delà du formalisme des coutumes ([[Sabbat]]) ; les réformateurs de la Renaissance l'ont accusé de rigidité et de dogmatisme.
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : il radicalise l'intériorisation de la faute avec la notion de [[Péché|péché]], que la culture homérique ignorait selon Vernant.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

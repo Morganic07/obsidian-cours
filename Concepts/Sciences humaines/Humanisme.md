@@ -14,4 +14,6 @@ Au sens historique, l'humanisme est le mouvement intellectuel de la [[Renaissanc
 
 [[3 - these de Simondon]] : « Tout encyclopédisme est un humanisme » ([[Encyclopédisme]]). La Renaissance compense le dogmatisme éthique et intellectuel, le XVIIIe siècle la rigidité sociale, le XXe siècle doit compenser l'aliénation née de la spécialisation technique. L'humanisme de la Renaissance répond d'abord à un « élan encyclopédique ».
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : [[L'École d'Athènes]] de Raphaël en est un manifeste.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

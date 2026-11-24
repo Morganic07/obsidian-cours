@@ -20,7 +20,7 @@ sources:
   - "[[ELBA|Topo ELBA]]"
   - "[[1 - Culture du vivant|Culture Vivant COURS 2 EXPLICATION]]"
   - "[[Raw/Year 3/Culture du vivant/VIVANT1 DBrowaeys.pdf|VIVANT1 DBrowaeys.pdf]]"
-  - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
+  - "[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"
 maj: 2026-11-08
 ---
 
@@ -47,6 +47,11 @@ maj: 2026-11-08
 
 Pour le design, cette grille rappelle qu'un dispositif « fait soin » seulement si l'on vérifie, auprès des personnes concernées, qu'il répond bien à leur besoin.
 
+**Trois systèmes de pensée.** Les chapitres 2 et 3 de culture du soin comparent les conceptions du soin avec une même grille (figure centrale, rapport au monde, rapport au vivant, conception et finalité du soin) :
+
+- [[2 - culture du soin]] : dans l'Antiquité grecque, le soin change de lieu. Pour le [[Héros grec|héros]] homérique, il passe par la force, l'honneur et la réputation ; avec Socrate, il devient [[Soin de l'âme|soin de l'âme]], un examen de soi qui n'impose pas de réponse mais aide chacun à faire émerger le vrai. En design : prendre soin, c'est aussi soutenir un potentiel (repérer, soutenir, rendre capable).
+- [[3 - culture du soin]] : dans la Chine antique, le soin est un ajustement au monde : accompagner une transformation, réguler un déséquilibre, rétablir une circulation. Posture : observer, attendre, infléchir sans imposer ([[Sage (pensée chinoise)]]).
+
 Voir aussi : [[Retail régénératif]], [[Manifeste pour le vivant]], [[Transhumanisme]], [[Vulnérabilité]], [[Conception centrée sur l'humain]], [[Dispositif de normalisation]].
 
-Résumés : [[1 - culture du soin]], [[3 - Culture du vivant]], [[ELBA]], [[1 - Culture du vivant]]
+Résumés : [[1 - culture du soin]], [[2 - culture du soin]], [[3 - culture du soin]], [[3 - Culture du vivant]], [[ELBA]], [[1 - Culture du vivant]]

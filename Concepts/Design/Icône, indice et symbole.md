@@ -1,9 +1,9 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [icon, index and symbol, icône indice symbole, trichotomie de Peirce]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 1.pptx|Cours 1.pptx]]"]
-maj: 2026-11-08
+maj: 2026-11-24
 ---
 
 **Définition (complément, hors du cours)** : trichotomie de Charles Sanders Peirce qui classe les [[Signe (sémiotique)|signes]] selon le rapport qu'ils entretiennent avec leur objet.
@@ -24,4 +24,6 @@ Le cours ne nomme pas la trichotomie. Elle apparaît dans les compléments de [[
 
 Voir aussi : [[Signe (sémiotique)]], [[Sémiotique]], [[Design d'interface]], [[Images opératives]], [[Affordance]]
 
-Résumés : [[1 - sémiotique]]
+Dans les compléments de [[3 - culture du soin]] : les indices que le sage chinois apprend à lire (brumes, bourgeons, fissures de la roche) sont des indices au sens de Peirce, mais tournés vers ce qui vient plutôt que vers la trace de ce qui est passé.
+
+Résumés : [[1 - sémiotique]], [[3 - culture du soin]]

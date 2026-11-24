@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [hexis]
 sources: ["[[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]"]
 maj: 2026-11-08
@@ -14,4 +14,6 @@ Dans text3 ([[Raw/Year 3/SHS/Cours/text3.pdf|text3.pdf]]), Boltanski présente l
 
 Voir aussi : [[Habitus]], [[Ethos de classe]], [[Techniques du corps]], [[Posture et sentiment]].
 
-Résumés : [[5 - usages sociaux de l'automobile]]
+[[2 - culture du soin]] (compléments) : l'*hexis* d'Aristote, disposition acquise par l'exercice, définit la [[Vertu|vertu]] morale dans l'*[[Éthique à Nicomaque]]*.
+
+Résumés : [[5 - usages sociaux de l'automobile]], [[2 - culture du soin]]

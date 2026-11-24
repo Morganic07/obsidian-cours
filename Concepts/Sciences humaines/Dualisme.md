@@ -34,6 +34,8 @@ Le cours ne le nomme pas. Il apparaît dans les compléments de [[7 - philo]], p
 
 Il apparaît aussi dans [[5 - Culture du vivant]] : le [[Perspectivisme|perspectivisme]] veut décentrer la conception occidentale « dualiste », et les compléments rattachent au dualisme cartésien la pensée de la [[Substance (philosophie)|substance]] que refuse le [[Tournant relationnel|tournant relationnel]].
 
+Il apparaît aussi dans [[2 - culture du soin]] : la « culture de la dualité » de Socrate et Platon oppose l'apparence sensible à la vérité, et l'âme, « ce qui se sert du corps », au corps ([[Monde sensible et monde intelligible]], [[Âme]]).
+
 Voir aussi : [[Animal-machine]], [[Cartésianisme]], [[Organisme et machine]], [[Vitalisme]], [[Naturalisme (Descola)]].
 
-Résumés : [[7 - philo]], [[5 - Culture du vivant]]
+Résumés : [[7 - philo]], [[5 - Culture du vivant]], [[2 - culture du soin]]

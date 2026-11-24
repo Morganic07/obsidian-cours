@@ -2,9 +2,9 @@
 
 Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une question.
 
-État au 2026-11-24 : 2 353 concepts, rangés en cinq domaines dans `Concepts/` ; 187 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
+État au 2026-11-24 : 2 544 concepts, rangés en cinq domaines dans `Concepts/` ; 189 résumés et 39 matières, rangés dans `Cours/` par domaine (les cinq de `Concepts/`) puis par matière ; aucune synthèse. Chaque page porte un tag `year1` à `year4` selon l'année de ses cours. Une partie des documents de `Raw/` n'a plus de fiche : leurs fiches ont été supprimées le 2026-11-07, et les pages qui les citaient renvoient directement au document de `Raw/`. Les fiches liées lient leur document dans `sources`. [[Bel-air]] n'a plus de document dans `Raw/` : celui-ci est exclu du miroir. Le texte des documents n'est pas cherchable dans Obsidian : seules leurs fiches le sont. Dans les fiches, un passage qui finit par ⓘ est un ajout hors du cours (voir [[Complément hors du cours]]). Les fiches de cours sont enrichies (passages marqués ⓘ). Un passage qui finit par ✎ corrige une erreur du cours (voir [[Erreurs du cours]]).
 
-## Concepts (2353)
+## Concepts (2544)
 
 ### Ajoutés par l'enrichissement du 2026-11-08
 
@@ -2646,9 +2646,206 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - [[Éthique de la terre]] : éthique environnementale proposée par le forestier américain Aldo Leopold dans le dernier chapitre de… (complément)
 - [[Évangiles]] : les quatre livres du Nouveau Testament (selon Matthieu, Marc, Luc et Jean), rédigés en grec dans la seconde… (complément)
 
-## Résumés de sources (187)
+### Ajoutés le 2026-11-24, avec les chapitres 2 et 3 de Culture du soin
 
-### Documents PDF et PPTX (34)
+**Design**
+- [[Académie impériale de peinture]] : institution de la cour chinoise qui employait, formait et hiérarchisait les peintres professionnels (complément)
+- [[Art grec classique]] : art de la Grèce entre les guerres médiques (480 av. J.-C.) et la mort d'Alexandre (323 av. J.-C.) (complément)
+- [[Bronze d'Artémision]] : statue de Zeus ou de Poséidon, bronze grec antique, vers 460 av. J.-C., conservée au Musée national…
+- [[Calligraphie chinoise]] : art d'écrire les caractères chinois au pinceau et à l'encre, considéré en Chine comme le premier des arts (complément)
+- [[Canon de Polyclète]] : traité perdu du sculpteur Polyclète d'Argos (Ve siècle av. J.-C.) sur les proportions du corps (complément)
+- [[Céramique à figures noires]] : technique de décor des vases grecs mise au point à Corinthe au VIIe siècle av. J.-C. (complément)
+- [[Chambres de Raphaël]] : quatre salles du palais apostolique du Vatican décorées de fresques par Raphaël et son atelier, de 1508 à 1524 (complément)
+- [[Cleveland Museum of Art]] : musée d'art de Cleveland (Ohio), ouvert en 1916, réputé pour ses collections asiatiques (complément)
+- [[Contrapposto]] : posture d'une figure debout dont le poids repose sur une jambe, l'autre étant fléchie et relâchée (complément)
+- [[Copie romaine]] : reproduction en marbre, à l'époque romaine, d'une statue grecque souvent en bronze et aujourd'hui perdue (complément)
+- [[Début du printemps (peinture)]] : rouleau vertical de Guo Xi, peintre de la cour des Song du Nord, daté de 1072 (complément)
+- [[Discobole]] : statue de Myron, vers 450 av. J.-C., connue par des copies romaines en marbre d'après un bronze grec
+- [[Doryphore]] : statue de Polyclète, vers 440 av. J.-C. ; l'original grec en bronze est perdu, la copie romaine en marbre…
+- [[École de Shanghai]] : peintres actifs à Shanghai dans la seconde moitié du XIXe siècle et au début du XXe, dont Ren Yi (complément)
+- [[École Ma-Xia]] : manière de peindre le paysage de Ma Yuan et Xia Gui, peintres de l'Académie des Song du Sud (complément)
+- [[Écoute de la flûte sous les pins]] : rouleau vertical de Ren Yi (1840-1895), peintre de l'école de Shanghai à la fin des Qing (complément)
+- [[Encre de Chine]] : encre noire faite de suie liée à de la colle animale, moulée en bâtons qu'on frotte sur une pierre (complément)
+- [[Environnement capacitant]] : notion de l'ergonome Pierre Falzon, un environnement qui développe les capacités des personnes (complément)
+- [[Fonte à la cire perdue]] : technique de fonderie qui sert à couler les statues en bronze depuis l'Antiquité (complément)
+- [[Héraclès Lansdowne]] : « Héraclès au repos », statue datée vers 125 apr. J.-C., conservée au J. Paul Getty Museum
+- [[Homme dans un paysage de bambous]] : peinture de Yu Zhiding (1647-vers 1716), portraitiste de l'époque Kangxi (complément)
+- [[L'École d'Athènes]] : fresque de Raphaël, 1509-1511, dans les chambres de Raphaël, palais du Vatican
+- [[Lavis à l'encre]] : peinture à l'encre diluée en plusieurs valeurs de gris, posée au pinceau sur papier ou soie (complément)
+- [[Le Sixième Patriarche coupant le bambou]] : rouleau à l'encre sur papier de Liang Kai (Song du Sud, XIIIe siècle) (complément)
+- [[Metropolitan Museum of Art]] : grand musée d'art de New York, fondé en 1870 (complément)
+- [[Montagnes nuageuses]] : rouleau horizontal du peintre Mi Youren, fils de Mi Fu, daté de 1130 (complément)
+- [[Mosaïque]] : image formée en assemblant de petits fragments, les tesselles (complément)
+- [[Mosaïque de l'Académie de Platon]] : mosaïque romaine provenant de Pompéi, Ier siècle av. J.-C., attribuée par tradition à l'Académie
+- [[Musée national de Tokyo]] : le plus ancien et le plus grand musée du Japon, fondé en 1872 (complément)
+- [[Musée national du palais]] : musée de Taipei, ouvert en 1965, qui abrite une grande partie des collections impériales chinoises (complément)
+- [[Nudité héroïque]] : convention de l'art grec qui représente nus les dieux, les héros et les athlètes (complément)
+- [[Paysage sous la pluie et la brume]] : feuille peinte à l'encre attribuée à Xia Gui, Académie des Song du Sud (complément)
+- [[Peinture de lettrés]] : peinture pratiquée en amateur par les lettrés, théorisée sous les Song (complément)
+- [[Peinture de paysage chinoise]] : le paysage n'y est pas un décor mais « un processus en train de se faire »
+- [[Peinture sur soie]] : peinture à l'encre et aux couleurs sur une étoffe de soie apprêtée (complément)
+- [[Points de Mi (peinture)]] : technique de Mi Fu et Mi Youren : montagnes faites de taches d'encre horizontales (complément)
+- [[Quatre gentilshommes]] : prunier, orchidée, bambou et chrysanthème, figures des vertus du lettré et des saisons (complément)
+- [[Rouleau (peinture)]] : support de la peinture chinoise et japonaise, peint sur soie ou papier puis monté sur un rouleau (complément)
+- [[Shakyamuni sortant des montagnes]] : rouleau à l'encre et couleurs sur soie attribué à Liang Kai (Song du Sud) (complément)
+- [[Six principes de la peinture]] : principes énoncés au début du VIe siècle par Xie He, base de la critique d'art chinoise (complément)
+- [[Style abrégé (jianbi)]] : peinture « au pinceau abrégé », quelques traits d'encre rapides (complément)
+- [[Tête de Socrate (Louvre)]] : tête de Socrate en marbre romain, Ier siècle apr. J.-C., copie d'un bronze perdu
+- [[Trésor national (Japon)]] : plus haut classement des biens culturels au Japon (loi de 1950) (complément)
+- [[Trois distances (peinture chinoise)]] : distance haute, profonde et plane, selon le traité de Guo Xi (XIe siècle) (complément)
+- [[Vide et plein (peinture chinoise)]] : dans la peinture de paysage, « vide et plein se répondent », le visible et l'invisible se pénètrent
+
+**Sciences humaines**
+- [[Académie (Platon)]] : école de philosophie fondée par Platon à Athènes vers 387 av. J.-C. (complément)
+- [[Achille]] : héros grec, fils de Thétis et de Pélée, principal héros de l'Iliade (complément)
+- [[Acupuncture]] : technique de la médecine chinoise qui pique de fines aiguilles en des points précis du corps (complément)
+- [[Agogè]] : éducation publique et obligatoire des garçons de Sparte (complément)
+- [[Agôn]] : logique de confrontation où chacun cherche à manifester sa valeur
+- [[Akrasia]] : « absence de maîtrise », agir contre ce que l'on sait devoir faire (complément)
+- [[Allégorie de la caverne]] : récit de Platon au début du livre VII de La République (complément)
+- [[Âme]] : avec Socrate, la psychè devient l'essentiel de l'homme, siège de la vérité et lieu de la justice
+- [[Apologie de Socrate]] : discours de défense de Socrate devant le tribunal d'Athènes, reconstitué par Platon (complément)
+- [[Approche par les capabilités]] : approche de la justice d'Amartya Sen et Martha Nussbaum, centrée sur les libertés réelles d'agir (complément)
+- [[Arétè]] : l'excellence humaine
+- [[Ascèse]] : discipline de vie qui renonce aux plaisirs et aux biens (complément)
+- [[Autonomie de la personne]] : dans le soin, capacité d'une personne à se gouverner elle-même (complément)
+- [[Bouddhisme]] : religion et philosophie fondées en Inde vers le Ve siècle av. J.-C. par Siddhartha Gautama (complément)
+- [[Bouddhisme chan]] : école du bouddhisme née en Chine, centrée sur la méditation, devenue le zen au Japon (complément)
+- [[Calendrier chinois]] : calendrier luni-solaire, avec un mois intercalaire certaines années (complément)
+- [[Ciel (pensée chinoise)]] : le tian, ciel physique, ordre de la nature et instance régulatrice (complément)
+- [[Cinq mouvements]] : bois, feu, terre, métal, eau, qui mettent en correspondance saisons, directions, organes, émotions…
+- [[Classique des vers]] : le plus ancien recueil de poésie chinoise, 305 poèmes (complément)
+- [[Comparaison sociale]] : théorie de Leon Festinger (1954) : on s'évalue en se comparant aux autres (complément)
+- [[Confucianisme]] : tradition de pensée issue de Confucius et de Mencius (complément)
+- [[Connais-toi toi-même]] : chez Socrate, déplacement du regard de l'extérieur vers soi
+- [[Constitution des Lacédémoniens]] : traité de Xénophon sur les institutions de Sparte (complément)
+- [[Courage]] : le courage moral consiste à ne pas se contenter de savoir, mais à orienter sa conduite
+- [[Culture de la honte et culture de la culpabilité]] : distinction de Ruth Benedict, appliquée à la Grèce par E. R. Dodds (complément)
+- [[Culture du faire et culture du savoir]] : opposition qui résume les deux figures de l'Antiquité grecque, le héros et le savant
+- [[Dao]] : « chemin », puis « voie » : le cours des choses dans la pensée chinoise (complément)
+- [[Daodejing]] : texte fondateur du taoïsme, attribué à Laozi (complément)
+- [[Démence]] : déclin acquis et durable des fonctions cognitives (complément)
+- [[Démocratie athénienne]] : régime politique d'Athènes de 508-507 à 322 av. J.-C. (complément)
+- [[Deviens ce que tu es]] : se connaître ne suffit pas : encore faut-il agir en accord avec ce que l'on reconnaît comme juste
+- [[Devoir]] : obligation morale que la conscience reconnaît comme s'imposant à elle (complément)
+- [[Dialectique]] : art de dialoguer par questions et réponses pour éprouver une thèse (complément)
+- [[Dialogue socratique]] : genre philosophique, surtout chez Platon et Xénophon, qui met en scène Socrate (complément)
+- [[Divination]] : pratiques qui cherchent à connaître l'avenir ou ce qui est caché en lisant des signes (complément)
+- [[Du temps (Jullien)]] : livre de François Jullien (Grasset, 2001) sur la pensée du temps et du vivre (complément)
+- [[Dynastie Han]] : dynastie impériale chinoise (206 av. J.-C. - 220 apr. J.-C.) (complément)
+- [[Dynastie Ming]] : dynastie impériale chinoise (1368-1644) (complément)
+- [[Dynastie Qing]] : dernière dynastie impériale chinoise (1644-1911), fondée par les Mandchous (complément)
+- [[Dynastie Shang]] : première dynastie chinoise attestée par l'archéologie (vers 1600 - vers 1046 av. J.-C.) (complément)
+- [[Dynastie Song]] : dynastie impériale chinoise (960-1279), Song du Nord puis Song du Sud (complément)
+- [[Dynastie Zhou]] : dynastie chinoise (vers 1046-256 av. J.-C.), la plus longue de l'histoire chinoise (complément)
+- [[Entretiens de Confucius]] : recueil de paroles de Confucius et de ses disciples (complément)
+- [[Épopée]] : long poème narratif qui célèbre les exploits de héros (complément)
+- [[Éthique à Nicomaque]] : traité de morale d'Aristote en dix livres (complément)
+- [[Éthique des vertus]] : philosophie morale qui part du caractère de l'agent plutôt que des règles (complément)
+- [[Eudaimonia]] : « bonheur » ou « vie réussie » chez les Grecs (complément)
+- [[Éveil (bouddhisme)]] : compréhension directe de la nature des choses, qui libère de la souffrance (complément)
+- [[Examen de soi]] : pratique socratique : examiner la qualité de son âme, interroger ses actes et ses croyances
+- [[Faute morale]] : manquement à une règle morale dont on se reconnaît l'auteur et dont on répond (complément)
+- [[Fonder la morale]] : livre de François Jullien (Grasset, 1995), dialogue de Mencius avec un philosophe des Lumières (complément)
+- [[Guerre de Troie]] : guerre légendaire de dix ans menée par les Grecs contre Troie (complément)
+- [[Guqin]] : cithare chinoise à sept cordes, instrument des lettrés (complément)
+- [[Harmonie]] : accord d'éléments différents en un tout (complément)
+- [[Héraclès]] : héros de la mythologie grecque, fils de Zeus et d'Alcmène (complément)
+- [[Héros grec]] : figure centrale de la culture homérique
+- [[Honte]] : l'aidôs homérique, peur de déchoir sous le regard d'autrui
+- [[Hoplite]] : fantassin lourdement armé des cités grecques (complément)
+- [[Huainanzi]] : somme de savoirs en vingt et un chapitres compilée sous Liu An (IIe siècle av. J.-C.) (complément)
+- [[Huangdi Neijing]] : le Classique interne de l'Empereur Jaune, texte fondateur de la médecine chinoise (complément)
+- [[Identité narrative]] : notion de Paul Ricœur : l'identité d'une personne se construit dans le récit (complément)
+- [[Ignorance socratique]] : Socrate ne croit pas savoir ce qu'il ne sait pas (Apologie, 21d) (complément)
+- [[Iliade]] : épopée attribuée à Homère, sur la colère d'Achille pendant la guerre de Troie (complément)
+- [[Impermanence]] : dans le bouddhisme, rien de ce qui est composé ne demeure (complément)
+- [[Intellectualisme moral]] : thèse attribuée à Socrate : la vertu est un savoir, nul ne fait le mal volontairement (complément)
+- [[Ironie socratique]] : Socrate feint l'ignorance pour amener l'autre à examiner ses certitudes (complément)
+- [[J. Paul Getty Museum]] : musée d'art de Los Angeles, Getty Center et Getty Villa (complément)
+- [[Jeux olympiques antiques]] : concours sportifs et religieux à Olympie, en l'honneur de Zeus, depuis 776 av. J.-C. (complément)
+- [[Juste milieu (Aristote)]] : la vertu morale comme médiété entre deux excès (complément)
+- [[Kairos]] : en grec ancien, le moment opportun, l'instant décisif de l'action (complément)
+- [[Kalokagathia]] : idéal grec de l'homme à la fois beau et bon (complément)
+- [[Kléos]] : la gloire et la renommée, ce qui se dit de toi et survit à ta mort
+- [[Kōan]] : dans le chan et le zen, histoire ou question paradoxale que le disciple médite (complément)
+- [[L'Art de la guerre]] : traité de stratégie chinois attribué à Sunzi (complément)
+- [[L'Herméneutique du sujet]] : cours de Michel Foucault au Collège de France (1981-1982), publié en 2001 (complément)
+- [[L'individu, la mort, l'amour]] : recueil d'études de l'helléniste Jean-Pierre Vernant (Gallimard, 1989) (complément)
+- [[La Philosophie à l'époque tragique des Grecs]] : essai inachevé de Nietzsche, vers 1873, sur les présocratiques (complément)
+- [[La Propension des choses]] : livre de François Jullien (Seuil, 1992) sur la notion chinoise de shi (complément)
+- [[La République (Platon)]] : dialogue de Platon en dix livres sur la justice (complément)
+- [[Le Détour et l'accès]] : livre de François Jullien (Grasset, 1995) sur les stratégies du sens en Chine et en Grèce (complément)
+- [[Le Pavillon parmi les bambous]] : quatrain du poète et peintre Wang Wei (VIIIe siècle) (complément)
+- [[Les Grecs et l'irrationnel]] : ouvrage de l'helléniste E. R. Dodds (1951) (complément)
+- [[Lettré (Chine)]] : homme instruit dans les classiques confucéens, recruté par concours (complément)
+- [[Lutte des contraires (Héraclite)]] : selon le texte de Nietzsche cité par le cours, tout devenir naît de la lutte des contraires
+- [[Maïeutique]] : « art d'accoucher » les esprits, méthode de Socrate dans le Théétète (complément)
+- [[Médecine traditionnelle chinoise]] : système médical né en Chine dans l'Antiquité, fondé sur le Huangdi Neijing (complément)
+- [[Mémoire collective]] : notion du sociologue Maurice Halbwachs (complément)
+- [[Méridien (médecine chinoise)]] : canaux par lesquels circulent le qi et le sang (complément)
+- [[Microcosme et macrocosme]] : l'être humain reproduit en lui l'ordre de l'univers (complément)
+- [[Modèle social du handicap]] : le handicap naît de la rencontre entre une personne et un environnement inadapté (complément)
+- [[Monde sensible et monde intelligible]] : distinction centrale de Platon (complément)
+- [[Musée archéologique national de Naples]] : grand musée d'archéologie classique, à Naples (complément)
+- [[Musée du Louvre]] : musée national installé dans l'ancien palais royal du Louvre, ouvert en 1793 (complément)
+- [[Musée national archéologique d'Athènes]] : principal musée d'archéologie de Grèce (complément)
+- [[Musées du Vatican]] : musées installés dans le palais apostolique du Vatican (complément)
+- [[Oracle de Delphes]] : sanctuaire d'Apollon à Delphes, le plus célèbre oracle du monde grec (complément)
+- [[Os oraculaires]] : omoplates et carapaces utilisées pour la divination sous les Shang (complément)
+- [[Paideia]] : système éducatif des cités grecques pour faire des jeunes des citoyens accomplis
+- [[Péché]] : transgression volontaire de la loi divine (complément)
+- [[Pensée corrélative]] : pensée qui relie les choses par correspondances entre séries (complément)
+- [[Période archaïque (Grèce)]] : du VIIIe siècle av. J.-C. aux guerres médiques (480 av. J.-C.) (complément)
+- [[Période des Royaumes combattants]] : période chinoise de 475 à 221 av. J.-C. (complément)
+- [[Pompéi]] : ville romaine ensevelie lors de l'éruption du Vésuve en 79 apr. J.-C. (complément)
+- [[Pouvoir d'agir]] : traduction de l'*empowerment* (complément)
+- [[Premier Alcibiade]] : dialogue attribué à Platon sur le soin de soi (complément)
+- [[Présocratiques]] : premiers philosophes grecs, VIe-Ve siècle av. J.-C. (complément)
+- [[Procès (pensée chinoise)]] : chez François Jullien, le réel comme cours de transformations
+- [[Procès de Socrate]] : procès de 399 av. J.-C., qui condamne Socrate à mort (complément)
+- [[Procès ou création]] : livre de François Jullien (Seuil, 1989), introduction à la pensée des lettrés chinois (complément)
+- [[Puissance et acte]] : couple de notions d'Aristote (complément)
+- [[Pythiques]] : odes de Pindare pour les vainqueurs des jeux Pythiques (complément)
+- [[Qi]] : le « souffle », matière et énergie dont tout est fait dans la pensée chinoise (complément)
+- [[Qigong]] : exercices chinois de mouvements lents, respiration et concentration (complément)
+- [[Quatre éléments]] : théorie grecque de la terre, de l'eau, de l'air et du feu (complément)
+- [[Reconnaissance (philosophie)]] : être confirmé par autrui dans sa valeur (complément)
+- [[Réfutation socratique]] : l'elenchos, examen d'une affirmation jusqu'à la contradiction (complément)
+- [[Ren (humanité)]] : vertu cardinale du confucianisme, « humanité » ou « bienveillance » (complément)
+- [[Responsabilité morale]] : devoir répondre de ses actes devant soi et devant autrui (complément)
+- [[Rythme circadien]] : cycle biologique d'environ vingt-quatre heures (complément)
+- [[Sage (pensée chinoise)]] : figure centrale de la Chine antique, « ni héros, ni sujet souverain »
+- [[Saison]] : le printemps fait naître, l'été fait croître, l'automne recueille, l'hiver conserve
+- [[Savant (Grèce antique)]] : seconde figure centrale de l'Antiquité grecque, incarnée par Socrate
+- [[Sentiment d'efficacité personnelle]] : notion d'Albert Bandura, croyance en sa capacité d'agir (complément)
+- [[Sept Sages de la forêt de bambous]] : lettrés et poètes chinois du IIIe siècle (complément)
+- [[Shi (propension)]] : « propension », potentiel qui tient à la configuration des choses (complément)
+- [[Sinologie]] : étude savante de la langue, de l'histoire et de la pensée chinoises (complément)
+- [[Soin de l'âme]] : conception socratique du soin, de la connaissance de soi à une vie plus juste
+- [[Souci de soi]] : notion étudiée par Michel Foucault dans ses derniers travaux (complément)
+- [[Sutra de l'estrade]] : texte fondateur du chan, vie et sermons de Huineng (complément)
+- [[Taoïsme]] : courant de pensée chinois fondé sur le Daodejing et le Zhuangzi (complément)
+- [[Temps cyclique et temps linéaire]] : pour la Chine antique, pas de temps linéaire mais des ères, des saisons, des époques
+- [[Timè]] : les honneurs (timai), voie officielle ouverte aux jeunes citoyens par l'éducation
+- [[Tragédie grecque]] : genre théâtral né à Athènes au VIe siècle av. J.-C. (complément)
+- [[Traité de l'efficacité]] : livre de François Jullien (Grasset, 1996) (complément)
+- [[Transformations silencieuses]] : notion et livre de François Jullien (Grasset, 2009) (complément)
+- [[Tripartition de l'âme]] : chez Platon, raison, cœur et désir (complément)
+- [[Vérité]] : accord de la pensée ou du discours avec ce qui est (complément)
+- [[Vertu]] : disposition stable à bien agir (complément)
+- [[Vision du monde]] : ensemble de croyances et de valeurs par lequel une culture se représente le monde (complément)
+- [[Voie du milieu]] : dans le bouddhisme, la voie entre plaisirs et mortification (complément)
+- [[Wu wei]] : « non-agir », notion centrale du taoïsme (complément)
+- [[Xiao (flûte)]] : flûte droite chinoise en bambou (complément)
+- [[Yijing]] : le Classique des mutations, d'abord manuel de divination (complément)
+- [[Yin et yang]] : couple de notions de la pensée chinoise, le versant à l'ombre et le versant au soleil (complément)
+- [[Zang-fu]] : organes yin et yang de la médecine chinoise (complément)
+- [[Zhuangzi (livre)]] : second grand texte du taoïsme (complément)
+
+## Résumés de sources (189)
+
+### Documents PDF et PPTX (36)
 
 - **Year 1, Algo Maths** : [[0 - diapo prof]]
 - **Year 1, Analyse Maths** : [[0 - rappels pdf]], [[0 - Rappels-etc]], [[1 - Ensemble des Reels]]
@@ -2666,7 +2863,7 @@ Catalogue de toutes les pages du wiki. À lire en premier pour répondre à une 
 - **Year 3, Sémiotique** : [[1 - sémiotique]], [[2 - sémiotique]], [[3 - sémiotique]], [[4 - sémiotique]]
 - **Year 4, C++** : [[4 - C++]] (diaporama du chapitre 4 : classes, constructeurs, get/set, surcharge d'opérateurs), [[4 - Prise de note]] (notes manuscrites du même chapitre), [[4 - Cours complet]] (polycopié de TP du chapitre 4 : fabrication avec g++, types, entrées-sorties, contrôle, pointeurs et références, fonctions, programmation modulaire), [[5 - Compilation séparée]] (diaporama du chapitre 5 : `.h` et `.cpp`, `#include`, compilation séparée, Makefile)
 - **Year 4, C／C++, programmes commentés** (une fiche par dossier, code vérifié à la compilation) : [[tp2]] (types, `printf`, `scanf`, opérateurs arithmétiques), [[tp3]] (conditions, opérateurs logiques, `switch`), [[tp4]] (boucle `for`, accumulateurs, boucles imbriquées), [[tp5]] (`while` et `do … while` : nombres premiers, parfaits, Syracuse), [[tp6]] (fonctions, prototypes, `return`), [[tp7]] (tableaux passés à une fonction), [[tableaux]] (syntaxe pointeur et syntaxe tableau), [[pointeurs]] (échange par adresse), [[td listes chaînées]] (`struct`, double pointeur, `malloc` et `free`), [[formation C++]] (progression commentée : `cout`, classe, constructeurs, surcharge d'opérateurs, `operator<<`), [[exo-prof]] (classes `Point` et `Segment`), [[compilation séparée (C++)]] (les mêmes classes en `.h` et `.cpp`, Makefile)
-- **Year 4, culture du soin** : [[1 - culture du soin]]
+- **Year 4, culture du soin** : [[1 - culture du soin]], [[2 - culture du soin]] (Antiquité grecque : le héros et le savant, du faire au soin de l'âme), [[3 - culture du soin]] (Chine antique : le sage, cycles et saisons, cinq mouvements, le soin comme ajustement)
 - **Year 4, data mining** : [[1 - pdf du prof]], [[2 - association rules]] (diaporama du chapitre 2 : support, confiance, lift, algorithme Apriori, redondance des règles, exercices corrigés en complément)
 - **Year 4, management de l'innovation** : [[1 - innovation]]
 
@@ -2778,7 +2975,7 @@ Matières connues par leurs seuls documents PDF ou PPTX : [[Cours/Design/Afforda
 
 ## Sources disponibles
 
-Documents du miroir de Drive dans `Raw/` (302 : 151 docx, 67 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-24. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
+Documents du miroir de Drive dans `Raw/` (304 : 151 docx, 69 pdf, 6 pptx et 78 fichiers de programme, `.c`, `.cpp`, `.h` et Makefile), par dossier de Drive, au 2026-11-24. Les documents retirés du miroir sont listés dans `.outils/exclusions.local`.
 
 ### Year 1
 
@@ -2794,4 +2991,4 @@ Affordance (2 pptx), Computer Network (7 docx, 1 pdf), Culture du vivant (3 docx
 
 ### Year 4
 
-C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (1 pdf), Culture du vivant (4 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 5 pdf, dont 3 dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 5 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)
+C／C++ (3 docx, 4 pdf, 78 programmes : 56 `.c`, 19 `.cpp`, 2 `.h`, 1 Makefile), culture du soin (3 pdf), Culture du vivant (4 docx), data mining (1 docx, 2 pdf), Gestion Financière (1 docx), graph theory (5 docx, 5 pdf, dont 3 dans `Suppléments de cours (tree, algo...)`), histoire du design et interactions (1 docx, 5 pdf), management de l'innovationb (2 docx, 1 pdf), projet court (1 docx), SHS (2 docx)

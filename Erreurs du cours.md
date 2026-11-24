@@ -8,9 +8,14 @@ maj: 2026-11-24
 
 ## Corrections par page
 
-326 pages corrigées, 680 corrections (nombre de marques ✎).
+328 pages corrigées, 685 corrections (nombre de marques ✎).
 
 ### Design
+
+#### [[Cours/Design/Culture du soin/_index|Culture du soin]]
+
+- [[2 - culture du soin]] : « Quant à moi, je sais que je ne sais rien », donné comme extrait de l'*Apologie de Socrate* → la formule n'y figure pas ; Socrate dit seulement qu'il se croit plus sage qu'un autre parce qu'il ne croit pas savoir ce qu'il ne sait pas (Platon, *Apologie de Socrate*, 21d ; en 29b, il dit même savoir qu'il est mal de commettre l'injustice) ^e-2-culture-du-soin
+- [[3 - culture du soin]] : *Early Spring* « Gao Xi, 1072 » → Guo Xi (Musée national du palais, Taipei) ; « Qing Dynasty (1916-1911) » → 1644-1911 (chronologie du Metropolitan Museum of Art ; le cours écrit lui-même 1644-1911 plus loin) ; tableau des cinq mouvements, sécrétion de la Terre et de l'Eau toutes deux « salive (tuo) » → Terre : salive fluide (*xian*), Eau : salive épaisse (*tuo*) (*Huangdi Neijing*, *Suwen*, chap. 23) ; derniers paragraphes de la page 24 (Mencius, la pitié, la conscience « engourdie ») donnés sous *Le Détour et l'accès* → tirés de *Fonder la morale. Dialogue de Mencius avec un philosophe des Lumières* (Grasset, 1995, p. 101 ; Nakajima Takahiro, UTCP, université de Tokyo) ^e-3-culture-du-soin
 
 #### [[Cours/Design/Histoire du design/_index|Histoire du design]]
 

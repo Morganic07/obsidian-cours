@@ -26,4 +26,6 @@ En culture du vivant, [[5 - Culture du vivant]] fait du feu volé par Prométhé
 
 [[3 - these de Simondon]] : dans l'Antiquité, les opérations techniques serviles sont bannies de la culture.
 
-Résumés : [[3 - philo]], [[4 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : la « culture de la dualité » oppose l'opinion à l'épistémè ; l'opposition du cours entre [[Culture du faire et culture du savoir]] recoupe la distinction.
+
+Résumés : [[3 - philo]], [[4 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]], [[2 - culture du soin]]

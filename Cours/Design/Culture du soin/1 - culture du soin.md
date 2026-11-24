@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [year4]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"]
 maj: 2026-11-08
 complet: true
 enrichi: 2026-11-08

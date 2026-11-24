@@ -24,4 +24,6 @@ Voir aussi : [[Animal politique]].
 
 [[3 - these de Simondon]] : seuls les Sophistes et, dans une certaine mesure, Socrate ont tenté de faire entrer les techniques serviles dans la pensée noble.
 
-Résumés : [[1 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : Socrate s'en distingue : il ne vend pas un savoir et cherche la vérité plutôt que la persuasion.
+
+Résumés : [[1 - philo]], [[5 - Culture du vivant]], [[3 - these de Simondon]], [[2 - culture du soin]]

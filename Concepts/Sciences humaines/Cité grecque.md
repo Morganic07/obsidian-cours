@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : « de même que l'esclave était rejeté en dehors de la cité », les occupations serviles et leurs objets techniques étaient bannis de la culture ([[Esclavage]], [[Arts mécaniques]], [[Antiquité]]).
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] : selon le texte de Vernant, avec l'émergence de la cité, la participation à la vie politique devient constitutive de l'[[Arétè|arétè]], et la [[Paideia|paideia]] forme des citoyens accomplis.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

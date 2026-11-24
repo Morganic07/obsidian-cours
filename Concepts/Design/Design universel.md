@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [universal design, conception universelle, conception pour tous]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"]
 maj: 2026-11-08
 ---
 
@@ -26,4 +26,6 @@ Le cours ne nomme pas le design universel. Il apparaît dans les compléments de
 
 Voir aussi : [[Accessibilité]], [[Conception centrée sur l'humain]], [[Utilisateur extrême]], [[Stigmatisation]], [[Dispositif de normalisation]].
 
-Résumés : [[1 - culture du soin]]
+Dans les compléments de [[2 - culture du soin]] : l'[[Environnement capacitant|environnement capacitant]] va plus loin, il ne se contente pas d'être utilisable par tous, il fait progresser les capacités.
+
+Résumés : [[1 - culture du soin]], [[2 - culture du soin]]

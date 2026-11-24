@@ -14,4 +14,6 @@ maj: 2026-11-24
 
 Voir aussi : [[Sacré]], [[Statut de majorité et de minorité]].
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] : selon le texte de Vernant, la [[Paideia|paideia]] est « une sorte d'initiation progressive à la vie publique », un système organisé d'épreuves par lequel le jeune acquiert son identité sociale.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

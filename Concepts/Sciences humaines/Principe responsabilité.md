@@ -13,7 +13,7 @@ aliases:
 sources:
   - "[[Raw/Year 2/Philosophie/philo 2.docx|philo 2]]"
   - "[[Raw/Year 2/Philosophie/philo 1 .docx|philo 1]]"
-  - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
+  - "[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"
 maj: 2026-11-08
 ---
 

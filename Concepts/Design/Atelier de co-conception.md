@@ -4,6 +4,7 @@ tags:
   - year1
   - year2
   - year3
+  - year4
 aliases:
   - co-conception
   - co-construction
@@ -33,4 +34,6 @@ Le rapport sur les tiers-lieux recommande des méthodes participatives et inclus
 
 Voir aussi : [[Brise-glace]], [[Jeu de rôle]], [[Idéation]], [[Étude-action]].
 
-Résumés : [[EDOSSAH]], [[Helloartup]]
+[[2 - culture du soin]] (compléments) : prolonge la logique du soin socratique, qui « n'impose pas une réponse » mais aide chacun à faire émerger la sienne ([[Dialogue socratique]]).
+
+Résumés : [[EDOSSAH]], [[Helloartup]], [[2 - culture du soin]]

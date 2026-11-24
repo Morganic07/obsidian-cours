@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : le voyageur antique ne s'aventurait sur une terre nouvelle qu'après l'avoir rendue favorable par un acte de « communion » et de « pré-possession » dont l'*Odyssée* garde le souvenir (rite de possession de la terre accompli par Ulysse abordant chez les Phéaciens, note de la p. 141) ; la sécurité du lecteur de l'Encyclopédie est de même nature ([[Magie]], [[Encyclopédisme]]).
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : avec l'[[Iliade]], épopée de la culture homérique ; Ulysse, héros de la ruse, répond au « plus rusé » de la compétition généralisée.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

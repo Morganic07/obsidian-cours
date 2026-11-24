@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year2]
+tags: [year2, year4]
 aliases: []
 sources: ["Raw/Year 2/Projet Design /Edossah/Projet Etudiants CYDesign 2025[1].pdf"]
 maj: 2026-11-06
@@ -12,4 +12,6 @@ Son intensité dépend du dispositif, de l'urgence et du temps dont dispose le p
 
 Notion parente : [[Travail social]].
 
-Résumés : [[EDOSSAH]]
+[[2 - culture du soin]] (compléments) : un accompagnement qui apprend à se servir d'un service en ligne, plutôt que de remplir le formulaire à la place de l'usager, illustre le « rendre capable » de l'application au design ([[Pouvoir d'agir]], [[Littératie numérique]]).
+
+Résumés : [[EDOSSAH]], [[2 - culture du soin]]

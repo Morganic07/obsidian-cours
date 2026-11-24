@@ -20,7 +20,7 @@ sources:
   - "[[1 - corps à l'oeuvre|corps à l'oeuvre - cours]]"
   - "[[Raw/Year 1/Corps à l'oeuvre/corps à l'oeuvre - cours.docx|corps à l'oeuvre - cours]]"
   - "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"
-  - "[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"
+  - "[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"
 maj: 2026-11-08
 ---
 

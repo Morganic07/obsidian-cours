@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year2
+  - year4
 aliases:
   - linear perspective
   - vanishing point
@@ -23,4 +24,8 @@ La ligne d'horizon (*horizon line*) sépare le ciel et la terre ; elle est toujo
 
 Voir aussi : [[Raccourci (perspective)]], [[Chevauchement]], [[Contraste des couleurs]].
 
-Résumés : [[4 - imaginaires de l'automobile]], [[2 - Peinture]]
+[[2 - culture du soin]] (compléments) : l'architecture de [[L'École d'Athènes]] de Raphaël est construite en perspective centrale.
+
+[[3 - culture du soin]] (compléments) : contraste avec la [[Peinture de paysage chinoise|peinture de paysage chinoise]], qui ne fixe pas de point de vue unique mais fait circuler le regard ([[Trois distances (peinture chinoise)]]).
+
+Résumés : [[4 - imaginaires de l'automobile]], [[2 - Peinture]], [[2 - culture du soin]], [[3 - culture du soin]]

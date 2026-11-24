@@ -14,4 +14,6 @@ maj: 2026-11-10
 
 Voir aussi : [[Technè, praxis et épistémè]], [[Sophistes]].
 
-Résumés : [[5 - Culture du vivant]]
+[[2 - culture du soin]] (compléments) : l'aidôs y est la [[Honte|honte]] devant le regard d'autrui, frein éthique de la culture homérique.
+
+Résumés : [[5 - Culture du vivant]], [[2 - culture du soin]]

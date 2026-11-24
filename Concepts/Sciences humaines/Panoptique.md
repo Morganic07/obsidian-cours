@@ -2,7 +2,7 @@
 type: concept
 tags: [year3, year4]
 aliases: [panoptisme, panopticon]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]", "[[Raw/Year 3/Sémiotique/Cours 3.pptx|Cours 3.pptx]]"]
 maj: 2026-11-10
 ---
 

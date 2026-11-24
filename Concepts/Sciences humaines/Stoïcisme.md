@@ -14,4 +14,6 @@ Dans les compléments de [[5 - Culture du vivant]] : les stoïciens font de [[Pa
 
 Voir aussi : [[Logos]].
 
-Résumés : [[5 - Culture du vivant]]
+[[2 - culture du soin]] (compléments) : le [[Souci de soi|souci de soi]] culmine chez les stoïciens de l'époque impériale ([[Examen de soi]]).
+
+Résumés : [[5 - Culture du vivant]], [[2 - culture du soin]]

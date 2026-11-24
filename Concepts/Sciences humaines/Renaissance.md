@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : la Renaissance « a consacré les techniques artisanales en leur apportant la lumière de la rationalité ». Elle est la première étape de l'esprit encyclopédique ([[Encyclopédisme]]), une libération éthique contre le dogmatisme ([[Vulgate]], [[Scolastique]]) ; elle valorise déjà les techniques ([[Pantagruélion]]) mais ne peut constituer une universalité technologique, faute de sciences assez développées et d'un symbolisme visuel adéquat.
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] (compléments) : [[L'École d'Athènes]] de Raphaël (1509-1511) réunit les philosophes antiques.
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

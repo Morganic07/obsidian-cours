@@ -2,7 +2,7 @@
 type: concept
 tags: [year4]
 aliases: [structurer l'expérience, corps propre]
-sources: ["[[Raw/Year 4/culture du soin /Culture du soin Seance 1.pptx.pdf|Culture du soin Seance 1.pptx.pdf]]"]
+sources: ["[[Raw/Year 4/culture du soin /chp1 - cours de la prof.pdf|chp1 - cours de la prof.pdf]]"]
 maj: 2026-11-08
 ---
 
@@ -22,4 +22,6 @@ Pour le design : un objet ou un espace s'incorpore dans les gestes et les habitu
 
 Voir aussi : [[Dispositif de normalisation]], [[Extension du schéma corporel]].
 
-Résumés : [[1 - culture du soin]]
+Dans les compléments de [[3 - culture du soin]] : rapproché du corps de la pensée chinoise, « perméable aux influx du dehors », traversé par le monde.
+
+Résumés : [[1 - culture du soin]], [[3 - culture du soin]]

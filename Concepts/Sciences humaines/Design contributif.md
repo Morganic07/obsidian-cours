@@ -15,4 +15,6 @@ La note de groupe [[6 - design libre]] reprenait cette thèse dans sa partie 3 ;
 
 Notion parente : [[Open design]]. Voir aussi : [[Dictature bienveillante]], [[Gouvernance par l'expertise]].
 
-Résumés : [[6 - design libre]]
+[[2 - culture du soin]] (compléments) : une conception qui ne décide pas à la place des personnes, comme le soin socratique qui « n'impose pas une réponse ».
+
+Résumés : [[6 - design libre]], [[2 - culture du soin]]

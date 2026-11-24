@@ -3,6 +3,7 @@ type: concept
 tags:
   - year2
   - year3
+  - year4
 aliases:
   - ludification
   - gamifier
@@ -26,4 +27,6 @@ Le cours 3 de sémiotique analyse une application de découverte de la nature à
 
 Voir aussi : [[Design d'interaction]], [[Dispositif (communication)]], [[Genre communicationnel]], [[Efficacité symbolique]].
 
-Résumés : [[3 - sémiotique]], [[1 - sémiotique]]
+[[2 - culture du soin]] (compléments) : points, classements et tableaux de scores rejouent la « compétition généralisée » de la culture homérique, où l'existence devient un classement permanent ([[Agôn]], [[Comparaison sociale]]).
+
+Résumés : [[3 - sémiotique]], [[1 - sémiotique]], [[2 - culture du soin]]

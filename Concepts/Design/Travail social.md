@@ -2,6 +2,7 @@
 type: concept
 tags:
   - year2
+  - year4
 aliases:
   - travailleur social
   - travailleurs sociaux
@@ -17,4 +18,6 @@ Le travail social est financé par les institutions (État, DRIHL, préfecture) 
 
 Voir aussi : [[Accompagnement social]], [[Médiation sociale]], [[Plaidoyer]].
 
-Résumés : [[EDOSSAH]], [[EDOSSAH]]
+[[2 - culture du soin]] (compléments) : le [[Pouvoir d'agir|pouvoir d'agir]] (*empowerment*) y est un objectif central.
+
+Résumés : [[EDOSSAH]], [[2 - culture du soin]]

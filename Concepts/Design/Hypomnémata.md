@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [year3]
+tags: [year3, year4]
 aliases: [hypomnemata, mémoire externe, extériorisation de la mémoire]
 matieres: [Sémiotique]
 sources: ["[[Raw/Year 3/Sémiotique/Cours 2.pptx|Cours 2.pptx]]"]
@@ -15,4 +15,6 @@ Selon Stiegler (2008), les technologies numériques fonctionnent comme des hypom
 
 Voir aussi : [[Externalisation des facultés]], [[Traces numériques]].
 
-Résumés : [[2 - sémiotique]]
+[[2 - culture du soin]] (compléments) : pour Foucault, l'une des pratiques du [[Souci de soi|souci de soi]].
+
+Résumés : [[2 - sémiotique]], [[2 - culture du soin]]

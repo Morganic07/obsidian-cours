@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : la culture lettrée est une « initiation aux opinions de groupes sociaux déterminés ayant existé aux époques antérieures » ; « le primat des lettres dans l'éducation culturelle provient de cette toute-puissance de l'opinion ». L'ordre encyclopédique en est expulsé, parce qu'il n'est pas conforme aux opinions des groupes ([[Culture technique]], [[Technè, praxis et épistémè]]).
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] : « distinguer l'apparence et l'opinion de ce qui mérite d'être tenu pour juste » ; « la vérité ne se confond pas avec ce qui apparaît ou ce que l'on croit » ([[Monde sensible et monde intelligible]], [[Réfutation socratique]]).
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]

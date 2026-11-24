@@ -12,4 +12,6 @@ maj: 2026-11-24
 
 [[3 - these de Simondon]] : dans l'Antiquité, une très grande partie des opérations techniques étaient rejetées hors de la pensée, comme occupations serviles ([[Esclavage]], [[Cité grecque]], [[Arts mécaniques]]) ; seules l'agriculture, la chasse, la guerre et la navigation avaient le statut de majorité.
 
-Résumés : [[3 - these de Simondon]]
+[[2 - culture du soin]] : l'Antiquité grecque est le premier des trois systèmes de pensée comparés par le cours, lue à travers deux figures, le [[Héros grec|héros]] et le [[Savant (Grèce antique)|savant]].
+
+Résumés : [[3 - these de Simondon]], [[2 - culture du soin]]
